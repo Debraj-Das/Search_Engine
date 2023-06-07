@@ -1,0 +1,9 @@
+Bubble Popping                    
+
+https://codeforces.com/problemset/problem/1599/D
+
+
+
+3200
+
+There are N bubbles in a coordinate plane. Bubbles are so tiny that it can be assumed that each bubble is a point (X_i, Y_i). Q Bubble Cup finalists plan to play with the bubbles. Each finalist would link to use infinitely long Bubble Cup stick to pop some bubbles. The i-th finalist would like to place the stick in the direction of vector (dxi, dyi), and plays the following game until K_i bubbles are popped. The game starts with finalist placing the stick in the direction of vector (dx_i, dy_i), and sweeping it from the infinity to the left until it hits some bubble, which is immediately popped. It is guaranteed that only one bubble will be hit in this step. After that the finalist starts rotating the stick in the counter clockwise direction with the center of rotation in point where the previous bubble was popped. When the next bubble is hit, it is immediately popped and becomes the new center of rotation. The process continues until K_i bubbles have been popped. It is guaranteed that the stick won't hit two bubbles simultaneously in this process. For each finalist find which bubble would be popped the last. Note that each game starts with the configuration of all N bubbles, so the games don't depend on the previous games. 

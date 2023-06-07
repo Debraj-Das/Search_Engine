@@ -1,0 +1,9 @@
+AB Tree                    
+
+https://codeforces.com/problemset/problem/1481/F
+
+dp
+
+3100
+
+Kilani and Abd are neighbors for 3000 years, but then the day came and Kilani decided to move to another house. As a farewell gift, Kilani is going to challenge Abd with a problem written by their other neighbor with the same name Abd.  The problem is:You are given a connected tree rooted at node 1.You should assign a character a or b to every node in the tree so that the total number of a's is equal to x and the total number of b's is equal to n - x.Let's define a string for each node v of the tree as follows:   if v is root then the string is just one character assigned to v:  otherwise, let's take a string defined for the v's parent p_v and add to the end of it a character assigned to v. You should assign every node a character in a way that minimizes the number of distinct strings among the strings of all nodes.

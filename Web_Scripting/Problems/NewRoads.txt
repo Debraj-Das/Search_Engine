@@ -1,0 +1,9 @@
+New Roads                    
+
+httpscodeforcescomproblemsetproblem746G
+
+constructive algorithms
+
+2100
+
+There are n cities in Berland each of them has a unique id an integer from 1 to n the capital is the one with id 1 Now there is a serious problem in Berland with roads there are no roadsThat is why there was a decision to build n1 roads so that there will be exactly one simple path between each pair of citiesIn the construction plan t integers a1a2at were stated where t equals to the distance from the capital to the most distant city concerning new roads ai equals the number of cities which should be at the distance i from the capital The distance between two cities is the number of roads one has to pass on the way from one city to another Also it was decided that among all the cities except the capital there should be exactly k cities with exactly one road going from each of them Such cities are deadends and cant be economically attractive In calculation of these cities the capital is not taken into consideration regardless of the number of roads from it Your task is to offer a plan of roads construction which satisfies all the described conditions or to inform that it is impossible

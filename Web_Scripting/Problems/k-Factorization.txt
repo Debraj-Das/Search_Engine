@@ -1,0 +1,9 @@
+k-Factorization                    
+
+https://codeforces.com/problemset/problem/797/A
+
+implementation
+
+1100
+
+Given a positive integer n, find k integers (not necessary distinct) such that all these integers are strictly greater than 1, and their product is equal to n.

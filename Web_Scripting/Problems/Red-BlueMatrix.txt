@@ -1,0 +1,9 @@
+Red-Blue Matrix                    
+
+https://codeforces.com/problemset/problem/1606/D
+
+brute force
+
+2400
+
+You are given a matrix, consisting of n rows and m columns. The j-th cell of the i-th row contains an integer a_{ij}.First, you have to color each row of the matrix either red or blue in such a way that at least one row is colored red and at least one row is colored blue.Then, you have to choose an integer k (1 \le k < m) and cut the colored matrix in such a way that the first k columns become a separate matrix (the left matrix) and the last m-k columns become a separate matrix (the right matrix).The coloring and the cut are called perfect if two properties hold:   every red cell in the left matrix contains an integer greater than every blue cell in the left matrix;  every blue cell in the right matrix contains an integer greater than every red cell in the right matrix. Find any perfect coloring and cut, or report that there are none.

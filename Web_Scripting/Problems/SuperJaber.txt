@@ -1,0 +1,9 @@
+Super Jaber                    
+
+https://codeforces.com/problemset/problem/1301/F
+
+dfs and similar
+
+2600
+
+Jaber is a superhero in a large country that can be described as a grid with n rows and m columns, where every cell in that grid contains a different city.Jaber gave every city in that country a specific color between 1 and k. In one second he can go from the current city to any of the cities adjacent by the side or to any city with the same color as the current city color.Jaber has to do q missions. In every mission he will be in the city at row r_1 and column c_1, and he should help someone in the city at row r_2 and column c_2.Jaber wants your help to tell him the minimum possible time to go from the starting city to the finishing city for every mission.

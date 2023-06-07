@@ -1,0 +1,9 @@
+Tree of Life easy                    
+
+httpscodeforcescomproblemsetproblem690F1
+
+
+
+1300
+
+Heidi has finally found the mythical Tree of Life  a legendary combinatorial structure which is said to contain a prophecy crucially needed to defeat the undead armiesOn the surface the Tree of Life is just a regular undirected tree wellknown from computer science This means that it is a collection of n points called vertices some of which are connected using n1 line segments edges so that each pair of vertices is connected by a path a sequence of one or more edgesTo decipher the prophecy Heidi needs to perform a number of steps The first is counting the number of lifelines in the tree  these are paths of length 2 ie consisting of two edges Help her

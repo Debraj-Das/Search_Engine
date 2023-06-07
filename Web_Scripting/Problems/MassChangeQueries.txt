@@ -1,0 +1,9 @@
+Mass Change Queries                    
+
+httpscodeforcescomproblemsetproblem911G
+
+data structures
+
+2500
+
+You are given an array a consisting of n integers You have to process q queries to this array each query is given as four numbers l r x and y denoting that for every i such that lir and aix you have to set ai equal to yPrint the array after all queries are processed

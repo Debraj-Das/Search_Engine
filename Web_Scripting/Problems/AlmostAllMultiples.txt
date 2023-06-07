@@ -1,0 +1,9 @@
+Almost All Multiples                    
+
+https://codeforces.com/problemset/problem/1758/C
+
+greedy
+
+1400
+
+Given two integers n and x, a permutation^{\dagger} p of length n is called funny if p_i is a multiple of i for all 1 \leq i \leq n - 1, p_n = 1, and p_1 = x.Find the lexicographically minimal^{\ddagger} funny permutation, or report that no such permutation exists.^{\dagger} A permutation of length n is an array consisting of each of the integers from 1 to n exactly once.^{\ddagger} Let a and b be permutations of length n. Then a is lexicographically smaller than b if in the first position i where a and b differ, a_i < b_i. A permutation is lexicographically minimal if it is lexicographically smaller than all other permutations.

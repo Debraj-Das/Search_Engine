@@ -1,0 +1,9 @@
+Searching Rectangles                    
+
+httpscodeforcescomproblemsetproblem713B
+
+binary search
+
+2200
+
+Filya just learned new geometry object rectangle He is given a field consisting of nn unit cells Rows are numbered from bottom to top with integer from 1 to n Columns are numbered from left to right with integers from 1 to n Cell located at the intersection of the row r and column c is denoted as rc Filya has painted two rectangles such that their sides are parallel to coordinate axes and each cell lies fully inside or fully outside each of them Moreover no cell lies in both rectanglesLater hedgehog Filya became interested in the location of his rectangles but was unable to find the sheet of paper they were painted on They were taken by Sonya and now she wants to play a little game with Filya He tells her a query rectangle and she replies with the number of initial rectangles that lie fully inside the given query rectangle The query rectangle should match the same conditions as initial rectangles Rectangle lies fully inside the query if each o its cells lies inside the queryFilya knows Sonya really well so is sure that if he asks more than 200 questions she will stop to reply

@@ -1,0 +1,9 @@
+Juicer                    
+
+httpscodeforcescomproblemsetproblem709A
+
+implementation
+
+900
+
+Kolya is going to make fresh orange juice He has n oranges of sizes a1a2an Kolya will put them in the juicer in the fixed order starting with orange of size a1 then orange of size a2 and so on To be put in the juicer the orange must have size not exceeding b so if Kolya sees an orange that is strictly greater he throws it away and continues with the next oneThe juicer has a special section to collect waste It overflows if Kolya squeezes oranges of the total size strictly greater than d When it happens Kolya empties the waste section even if there are no more oranges and continues to squeeze the juice How many times will he have to empty the waste section

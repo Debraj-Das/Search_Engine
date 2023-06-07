@@ -1,0 +1,9 @@
+Product of Three Numbers                    
+
+https://codeforces.com/problemset/problem/1294/C
+
+greedy
+
+1300
+
+You are given one integer number n. Find three distinct integers a, b, c such that 2 \le a, b, c and a \cdot b \cdot c = n or say that it is impossible to do it.If there are several answers, you can print any.You have to answer t independent test cases.

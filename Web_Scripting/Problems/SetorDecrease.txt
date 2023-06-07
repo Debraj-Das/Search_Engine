@@ -1,0 +1,9 @@
+Set or Decrease                    
+
+https://codeforces.com/problemset/problem/1622/C
+
+binary search
+
+1600
+
+You are given an integer array a_1, a_2, \dots, a_n and integer k.In one step you can   either choose some index i and decrease a_i by one (make a_i = a_i - 1);  or choose two indices i and j and set a_i equal to a_j (make a_i = a_j). What is the minimum number of steps you need to make the sum of array \sum\limits_{i=1}^{n}{a_i} \le k? (You are allowed to make values of array negative).

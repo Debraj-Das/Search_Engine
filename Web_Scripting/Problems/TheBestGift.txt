@@ -1,0 +1,9 @@
+The Best Gift                    
+
+https://codeforces.com/problemset/problem/609/B
+
+constructive algorithms
+
+1100
+
+Emily's birthday is next week and Jack has decided to buy a present for her. He knows she loves books so he goes to the local bookshop, where there are n books on sale from one of m genres.In the bookshop, Jack decides to buy two books of different genres.Based on the genre of books on sale in the shop, find the number of options available to Jack for choosing two books of different genres for Emily. Options are considered different if they differ in at least one book.The books are given by indices of their genres. The genres are numbered from 1 to m.

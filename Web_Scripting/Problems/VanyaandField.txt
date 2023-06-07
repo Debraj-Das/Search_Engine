@@ -1,0 +1,9 @@
+Vanya and Field                    
+
+httpscodeforcescomproblemsetproblem492E
+
+math
+
+2000
+
+Vanya decided to walk in the field of size nn cells The field contains m apple trees the ith apple tree is at the cell with coordinates xiyi Vanya moves towards vector dxdy That means that if Vanya is now at the cell xy then in a second he will be at cell  The following condition is satisfied for the vector  where  is the largest integer that divides both a and b Vanya ends his path when he reaches the square he has already visited Vanya wonders from what square of the field he should start his path to see as many apple trees as possible

@@ -1,0 +1,9 @@
+Gleb And Pizza                    
+
+httpscodeforcescomproblemsetproblem842B
+
+geometry
+
+1100
+
+Gleb ordered pizza home When the courier delivered the pizza he was very upset because several pieces of sausage lay on the crust and he does not really like the crustThe pizza is a circle of radius r and center at the origin Pizza consists of the main part  circle of radius rd with center at the origin and crust around the main part of the width d Pieces of sausage are also circles The radius of the ith piece of the sausage is ri and the center is given as a pair xi yiGleb asks you to help determine the number of pieces of sausage caught on the crust A piece of sausage got on the crust if it completely lies on the crust

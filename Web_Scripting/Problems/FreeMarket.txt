@@ -1,0 +1,9 @@
+Free Market                    
+
+httpscodeforcescomproblemsetproblem364B
+
+dp
+
+2200
+
+John Doe has recently found a Free Market in his city  that is the place where you can exchange some of your possessions for other things for free John knows that his city has n items in total each item is unique You can bring any number of items to the market and exchange them for any other one Note that each item is one of a kind and that means that you cannot exchange set ab for set va However you can always exchange set x for any set y unless there is item p such that p occurs in x and p occurs in yFor each item John knows its value ci Johns sense of justice doesnt let him exchange a set of items x for a set of items y if sxdsy sx is the total price of items in the set x During one day John can exchange only one set of items for something else Initially he has no items John wants to get a set of items with the maximum total price Find the cost of such set and the minimum number of days John can get it in 

@@ -1,0 +1,9 @@
+Fibonacci army                    
+
+httpscodeforcescomproblemsetproblem72G
+
+special problem
+
+1000
+
+King Cambyses loves Fibonacci numbers He has several armies Today he wants to make a new army for himself and he wants the number of men in this army to be the nth Fibonacci numberGiven n you should find nth Fibonacci number The set of Fibonacci numbers start with f0f11 and for each i2 fifi1fi2

@@ -1,0 +1,9 @@
+One Billion Shades of Grey                    
+
+https://codeforces.com/problemset/problem/1427/G
+
+flows
+
+3300
+
+You have to paint with shades of grey the tiles of an n\times n wall. The wall has n rows of tiles, each with n tiles.The tiles on the boundary of the wall (i.e., on the first row, last row, first column and last column) are already painted and you shall not change their color. All the other tiles are not painted. Some of the tiles are broken, you shall not paint those tiles. It is guaranteed that the tiles on the boundary are not broken.You shall paint all the non-broken tiles that are not already painted. When you paint a tile you can choose from 10^9 shades of grey, indexed from 1 to 10^9. You can paint multiple tiles with the same shade. Formally, painting the wall is equivalent to assigning a shade (an integer between 1 and 10^9) to each non-broken tile that is not already painted.The contrast between two tiles is the absolute value of the difference between the shades of the two tiles. The total contrast of the wall is the sum of the contrast of all the pairs of adjacent non-broken tiles (two tiles are adjacent if they share a side).Compute the minimum possible total contrast of the wall.

@@ -1,0 +1,9 @@
+Path Queries                    
+
+https://codeforces.com/problemset/problem/1213/G
+
+divide and conquer
+
+1800
+
+You are given a weighted tree consisting of n vertices. Recall that a tree is a connected graph without cycles. Vertices u_i and v_i are connected by an edge with weight w_i.You are given m queries. The i-th query is given as an integer q_i. In this query you need to calculate the number of pairs of vertices (u, v) (u < v) such that the maximum weight of an edge on a simple path between u and v doesn't exceed q_i.

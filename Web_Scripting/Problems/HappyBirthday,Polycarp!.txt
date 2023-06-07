@@ -1,0 +1,9 @@
+Happy Birthday, Polycarp!                    
+
+https://codeforces.com/problemset/problem/1277/A
+
+implementation
+
+1000
+
+Hooray! Polycarp turned n years old! The Technocup Team sincerely congratulates Polycarp!Polycarp celebrated all of his n birthdays: from the 1-th to the n-th. At the moment, he is wondering: how many times he turned beautiful number of years?According to Polycarp, a positive integer is beautiful if it consists of only one digit repeated one or more times. For example, the following numbers are beautiful: 1, 77, 777, 44 and 999999. The following numbers are not beautiful: 12, 11110, 6969 and 987654321.Of course, Polycarpus uses the decimal numeral system (i.e. radix is 10).Help Polycarpus to find the number of numbers from 1 to n (inclusive) that are beautiful.

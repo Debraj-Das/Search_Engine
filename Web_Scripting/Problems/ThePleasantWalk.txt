@@ -1,0 +1,9 @@
+The Pleasant Walk                    
+
+https://codeforces.com/problemset/problem/1090/M
+
+implementation
+
+1000
+
+There are n houses along the road where Anya lives, each one is painted in one of k possible colors.Anya likes walking along this road, but she doesn't like when two adjacent houses at the road have the same color. She wants to select a long segment of the road such that no two adjacent houses have the same color.Help Anya find the longest segment with this property.

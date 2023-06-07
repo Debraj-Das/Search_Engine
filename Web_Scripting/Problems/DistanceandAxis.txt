@@ -1,0 +1,9 @@
+Distance and Axis                    
+
+https://codeforces.com/problemset/problem/1401/A
+
+constructive algorithms
+
+900
+
+We have a point A with coordinate x = n on OX-axis. We'd like to find an integer point B (also on OX-axis), such that the absolute difference between the distance from O to B and the distance from A to B is equal to k.  The description of the first test case. Since sometimes it's impossible to find such point B, we can, in one step, increase or decrease the coordinate of A by 1. What is the minimum number of steps we should do to make such point B exist?

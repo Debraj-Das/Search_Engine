@@ -1,0 +1,9 @@
+Epidemic in Monstropolis                    
+
+httpscodeforcescomproblemsetproblem733C
+
+constructive algorithms
+
+1800
+
+There was an epidemic in Monstropolis and all monsters became sick To recover all monsters lined up in queue for an appointment to the only doctor in the citySoon monsters became hungry and began to eat each other One monster can eat other monster if its weight is strictly greater than the weight of the monster being eaten and they stand in the queue next to each other Monsters eat each other instantly There are no monsters which are being eaten at the same moment After the monster A eats the monster B the weight of the monster A increases by the weight of the eaten monster B In result of such eating the length of the queue decreases by one all monsters after the eaten one step forward so that there is no empty places in the queue again A monster can eat several monsters one after another Initially there were n monsters in the queue the ith of which had weight aiFor example if weights are 122212 in order of queue monsters are numbered from 1 to 6 from left to right then some of the options are  the first monster cant eat the second monster because a11 is not greater than a22  the second monster cant eat the third monster because a22 is not greater than a32  the second monster cant eat the fifth monster because they are not neighbors  the second monster can eat the first monster the queue will be transformed to 32212 After some time someone said a good joke and all monsters recovered At that moment there were k kn monsters in the queue the jth of which had weight bj Both sequences a and b contain the weights of the monsters in the order from the first to the lastYou are required to provide one of the possible orders of eating monsters which led to the current queue or to determine that this could not happen Assume that the doctor didnt make any appointments while monsters were eating each other

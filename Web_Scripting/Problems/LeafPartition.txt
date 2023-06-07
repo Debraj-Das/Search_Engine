@@ -1,0 +1,9 @@
+Leaf Partition                    
+
+https://codeforces.com/problemset/problem/1146/F
+
+dp
+
+2500
+
+You are given a rooted tree with n nodes, labeled from 1 to n. The tree is rooted at node 1. The parent of the i-th node is p_i. A leaf is node with no children. For a given set of leaves L, let f(L) denote the smallest connected subgraph that contains all leaves L.You would like to partition the leaves such that for any two different sets x, y of the partition, f(x) and f(y) are disjoint. Count the number of ways to partition the leaves, modulo 998244353. Two ways are different if there are two leaves such that they are in the same set in one way but in different sets in the other.

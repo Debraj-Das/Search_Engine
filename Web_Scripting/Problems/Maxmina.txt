@@ -1,0 +1,9 @@
+Maxmina                    
+
+https://codeforces.com/problemset/problem/1746/A
+
+constructive algorithms
+
+800
+
+You have an array a of size n consisting only of zeroes and ones and an integer k. In one operation you can do one of the following:  Select 2 consecutive elements of a and replace them with their minimum (that is, let a := [a_{1}, a_{2}, \ldots, a_{i-1}, \min(a_{i}, a_{i+1}), a_{i+2}, \ldots, a_{n}] for some 1 \le i \le n-1). This operation decreases the size of a by 1.  Select k consecutive elements of a and replace them with their maximum (that is, let a := [a_{1}, a_{2}, \ldots, a_{i-1}, \max(a_{i}, a_{i+1}, \ldots, a_{i+k-1}), a_{i+k}, \ldots, a_{n}] for some 1 \le i \le n-k+1). This operation decreases the size of a by k-1. Determine if it's possible to turn a into [1] after several (possibly zero) operations.

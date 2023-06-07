@@ -1,0 +1,9 @@
+Good Key, Bad Key                    
+
+https://codeforces.com/problemset/problem/1703/G
+
+bitmasks
+
+1600
+
+There are n chests. The i-th chest contains a_i coins. You need to open all n chests in order from chest 1 to chest n.There are two types of keys you can use to open a chest:   a good key, which costs k coins to use;  a bad key, which does not cost any coins, but will halve all the coins in each unopened chest, including the chest it is about to open. The halving operation will round down to the nearest integer for each chest halved. In other words using a bad key to open chest i will do a_i = \lfloor{\frac{a_i}{2}\rfloor}, a_{i+1} = \lfloor\frac{a_{i+1}}{2}\rfloor, \dots, a_n = \lfloor \frac{a_n}{2}\rfloor;  any key (both good and bad) breaks after a usage, that is, it is a one-time use. You need to use in total n keys, one for each chest. Initially, you have no coins and no keys. If you want to use a good key, then you need to buy it.During the process, you are allowed to go into debt; for example, if you have 1 coin, you are allowed to buy a good key worth k=3 coins, and your balance will become -2 coins.Find the maximum number of coins you can have after opening all n chests in order from chest 1 to chest n.

@@ -1,0 +1,9 @@
+Boboniu and Jianghu                    
+
+https://codeforces.com/problemset/problem/1394/D
+
+dp
+
+2800
+
+Since Boboniu finished building his Jianghu, he has been doing Kungfu on these mountains every day. Boboniu designs a map for his n mountains. He uses n-1 roads to connect all n mountains. Every pair of mountains is connected via roads.For the i-th mountain, Boboniu estimated the tiredness of doing Kungfu on the top of it as t_i. He also estimated the height of each mountain as h_i.A path is a sequence of mountains M such that for each i (1 \le i < |M|), there exists a road between M_i and M_{i+1}. Boboniu would regard the path as a challenge if for each i (1\le i<|M|), h_{M_i}\le h_{M_{i+1}}.Boboniu wants to divide all n-1 roads into several challenges. Note that each road must appear in exactly one challenge, but a mountain may appear in several challenges. Boboniu wants to minimize the total tiredness to do all the challenges. The tiredness of a challenge M is the sum of tiredness of all mountains in it, i.e. \sum_{i=1}^{|M|}t_{M_i}. He asked you to find the minimum total tiredness. As a reward for your work, you'll become a guardian in his Jianghu.

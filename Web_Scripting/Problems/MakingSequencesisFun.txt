@@ -1,0 +1,9 @@
+Making Sequences is Fun                    
+
+httpscodeforcescomproblemsetproblem373B
+
+binary search
+
+1600
+
+Well define Sn for positive integer n as follows the number of the ns digits in the decimal base For example S8933 S1145146You want to make a consecutive integer sequence starting from number m mm1 But you need to pay Snk to add the number n to the sequenceYou can spend a cost up to w and you want to make the sequence as long as possible Write a program that tells sequences maximum length

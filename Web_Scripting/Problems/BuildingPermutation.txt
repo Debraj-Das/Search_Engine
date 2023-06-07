@@ -1,0 +1,9 @@
+Building Permutation                    
+
+httpscodeforcescomproblemsetproblem285C
+
+greedy
+
+1200
+
+Permutation p is an ordered set of integers p1p2pn consisting of n distinct positive integers each of them doesnt exceed n Well denote the ith element of permutation p as pi Well call number n the size or the length of permutation p1p2pnYou have a sequence of integers a1a2an In one move you are allowed to decrease or increase any number by one Count the minimum number of moves needed to build a permutation from this sequence

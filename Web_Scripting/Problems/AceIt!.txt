@@ -1,0 +1,9 @@
+Ace It!                    
+
+https://codeforces.com/problemset/problem/656/F
+
+*special problem
+
+1900
+
+InputThe only line of the input is a string of 7 characters. The first character is letter A, followed by 6 digits. The input is guaranteed to be valid (for certain definition of "valid").OutputOutput a single integer.ExamplesInputA221033Output21InputA223635Output22InputA232726Output23

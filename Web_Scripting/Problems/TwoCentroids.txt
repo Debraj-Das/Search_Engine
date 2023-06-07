@@ -1,0 +1,9 @@
+Two Centroids                    
+
+https://codeforces.com/problemset/problem/1827/D
+
+data structures
+
+2800
+
+You are given a tree (an undirected connected acyclic graph) which initially only contains vertex 1. There will be several queries to the given tree. In the i-th query, vertex i + 1 will appear and be connected to vertex p_i (1 \le p_i \le i). After each query, please find out the least number of operations required to make the current tree has two centroids. In one operation, you can add one vertex and one edge to the tree such that it remains a tree.A vertex is called a centroid if its removal splits the tree into subtrees with at most \lfloor \frac{n}{2} \rfloor vertices each, with n as the number of vertices of the tree. For example, the centroid of the following tree is 3 because the biggest subtree after removing the centroid has 2 vertices.  In the next tree, vertex 1 and 2 are both centroids.  

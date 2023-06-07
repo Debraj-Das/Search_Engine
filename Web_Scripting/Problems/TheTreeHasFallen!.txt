@@ -1,0 +1,9 @@
+The Tree Has Fallen!                    
+
+https://codeforces.com/problemset/problem/1778/E
+
+bitmasks
+
+2500
+
+Recently, a tree has fallen on Bob's head from the sky. The tree has n nodes. Each node u of the tree has an integer number a_u written on it. But the tree has no fixed root, as it has fallen from the sky.Bob is currently studying the tree. To add some twist, Alice proposes a game. First, Bob chooses some node r to be the root of the tree. After that, Alice chooses a node v and tells him. Bob then can pick one or more nodes from the subtree of v. His score will be the bitwise XOR of all the values written on the nodes picked by him. Bob has to find the maximum score he can achieve for the given r and v.As Bob is not a good problem-solver, he asks you to help him find the answer. Can you help him? You need to find the answers for several combinations of r and v for the same tree.Recall that a tree is a connected undirected graph without cycles. The subtree of a node u is the set of all nodes y such that the simple path from y to the root passes through u. Note that u is in the subtree of u.

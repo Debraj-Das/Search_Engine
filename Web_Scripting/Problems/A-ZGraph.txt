@@ -1,0 +1,9 @@
+A-Z Graph                    
+
+https://codeforces.com/problemset/problem/1494/E
+
+constructive algorithms
+
+2400
+
+You are given a directed graph consisting of n vertices. Each directed edge (or arc) labeled with a single character. Initially, the graph is empty.You should process m queries with it. Each query is one of three types:   "+ u v c" — add arc from u to v with label c. It's guaranteed that there is no arc (u, v) in the graph at this moment;  "- u v" — erase arc from u to v. It's guaranteed that the graph contains arc (u, v) at this moment;  "? k" — find the sequence of k vertices v_1, v_2, \dots, v_k such that there exist both routes v_1 \to v_2 \to \dots \to v_k and v_k \to v_{k - 1} \to \dots \to v_1 and if you write down characters along both routes you'll get the same string. You can visit the same vertices any number of times. 

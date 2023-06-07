@@ -1,0 +1,9 @@
+Surrounded                    
+
+httpscodeforcescomproblemsetproblem190B
+
+geometry
+
+1800
+
+So the Berland is at war with its eternal enemy Flatland again and Vasya an accountant was assigned to fulfil his duty to the nation Right now the situation in Berland is dismal  their both cities are surrounded The armies of flatlanders stand on the borders of circles the circles centers are in the surrounded cities At any moment all points of the flatland ring can begin to move quickly in the direction of the city  thats the strategy the flatlanders usually follow when they besiege citiesThe berlanders are sure that they can repel the enemys attack if they learn the exact time the attack starts For that they need to construct a radar that would register any movement at the distance of at most r from it Thus we can install a radar at such point that at least one point of the enemy ring will be in its detecting range that is at a distance of at most r Then the radar can immediately inform about the enemys attack Due to the newest technologies we can place a radar at any point without any problems But the problem is that the berlanders have the time to make only one radar Besides the larger the detection radius r is the more the radar costsThats why Vasyas task that is your task is to find the minimum possible detection radius for the radar In other words your task is to find the minimum radius r r0 such that a radar with radius r can be installed at some point and it can register the start of the movements of both flatland rings from that point In this problem you can consider the cities as material points the attacking enemy rings  as circles with centers in the cities the radars detection range  as a disk including the border with the center at the point where the radar is placed

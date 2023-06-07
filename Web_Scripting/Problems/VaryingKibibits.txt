@@ -1,0 +1,9 @@
+Varying Kibibits                    
+
+httpscodeforcescomproblemsetproblem772D
+
+bitmasks
+
+2700
+
+You are given n integers a1a2an Denote this list of integers as TLet fL be a function that takes in a nonempty list of integers LThe function will output another integer as follows   First all integers in L are padded with leading zeros so they are all the same length as the maximum length number in L  We will construct a string where the ith character is the minimum of the ith character in padded input numbers  The output is the number representing the string interpreted in base 10 For example f1090 f123321121 f5309328130Define the function  Here  denotes a subsequenceIn other words Gx is the sum of squares of sum of elements of nonempty subsequences of T that evaluate to x when plugged into f modulo 1000000007 then multiplied by x The last multiplication is not modded You would like to compute G0G1G999999 To reduce the output size print the value  where  denotes the bitwise XOR operator

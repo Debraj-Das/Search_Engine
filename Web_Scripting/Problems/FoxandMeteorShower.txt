@@ -1,0 +1,9 @@
+Fox and Meteor Shower                    
+
+https://codeforces.com/problemset/problem/388/E
+
+geometry
+
+3100
+
+There is a meteor shower on the sky and there are n meteors. The sky can be viewed as a 2D Euclid Plane and the meteor is point on this plane. Fox Ciel looks at the sky. She finds out that the orbit of each meteor is a straight line, and each meteor has a constant velocity. Now Ciel wants to know: what is the maximum number of meteors such that any pair met at the same position at a certain time? Note that the time is not limited and can be also negative. The meteors will never collide when they appear at the same position at the same time.

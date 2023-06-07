@@ -1,0 +1,9 @@
+Range Diameter Sum                    
+
+https://codeforces.com/problemset/problem/1458/F
+
+data structures
+
+3500
+
+You are given a tree with n vertices numbered 1, \ldots, n. A tree is a connected simple graph without cycles.Let \mathrm{dist}(u, v) be the number of edges in the unique simple path connecting vertices u and v.Let \mathrm{diam}(l, r) = \max \mathrm{dist}(u, v) over all pairs u, v such that l \leq u, v \leq r.Compute \sum_{1 \leq l \leq r \leq n} \mathrm{diam}(l, r).

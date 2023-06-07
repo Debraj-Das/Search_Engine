@@ -1,0 +1,9 @@
+Chemical table                    
+
+httpscodeforcescomproblemsetproblem1012B
+
+constructive algorithms
+
+1900
+
+Innopolis University scientists continue to investigate the periodic table There are nm known elements and they form a periodic table a rectangle with n rows and m columns Each element can be described by its coordinates rc 1rn 1cm in the tableRecently scientists discovered that for every four different elements in this table that form a rectangle with sides parallel to the sides of the table if they have samples of three of the four elements they can produce a sample of the fourth element using nuclear fusion So if we have elements in positions r1c1 r1c2 r2c1 where r1r2 and c1c2 then we can produce element r2c2  Samples used in fusion are not wasted and can be used again in future fusions Newly crafted elements also can be used in future fusionsInnopolis University scientists already have samples of q elements They want to obtain samples of all nm elements To achieve that they will purchase some samples from other laboratories and then produce all remaining elements using an arbitrary number of nuclear fusions in some order Help them to find the minimal number of elements they need to purchase

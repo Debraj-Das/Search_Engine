@@ -1,0 +1,9 @@
+Mother of Dragons                    
+
+https://codeforces.com/problemset/problem/839/E
+
+brute force
+
+2700
+
+There are n castles in the Lannister's Kingdom and some walls connect two castles, no two castles are connected by more than one wall, no wall connects a castle to itself. Sir Jaime Lannister has discovered that Daenerys Targaryen is going to attack his kingdom soon. Therefore he wants to defend his kingdom. He has k liters of a strange liquid. He wants to distribute that liquid among the castles, so each castle may contain some liquid (possibly zero or non-integer number of liters). After that the stability of a wall is defined as follows: if the wall connects two castles a and b, and they contain x and y liters of that liquid, respectively, then the strength of that wall is x·y.Your task is to print the maximum possible sum of stabilities of the walls that Sir Jaime Lannister can achieve.

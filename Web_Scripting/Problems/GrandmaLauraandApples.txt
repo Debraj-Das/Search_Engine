@@ -1,0 +1,9 @@
+Grandma Laura and Apples                    
+
+https://codeforces.com/problemset/problem/632/A
+
+
+
+1200
+
+Grandma Laura came to the market to sell some apples. During the day she sold all the apples she had. But grandma is old, so she forgot how many apples she had brought to the market.She precisely remembers she had n buyers and each of them bought exactly half of the apples she had at the moment of the purchase and also she gave a half of an apple to some of them as a gift (if the number of apples at the moment of purchase was odd), until she sold all the apples she had.So each buyer took some integral positive number of apples, but maybe he didn't pay for a half of an apple (if the number of apples at the moment of the purchase was odd).For each buyer grandma remembers if she gave a half of an apple as a gift or not. The cost of an apple is p (the number p is even).Print the total money grandma should have at the end of the day to check if some buyers cheated her.

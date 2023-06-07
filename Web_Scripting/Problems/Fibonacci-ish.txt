@@ -1,0 +1,9 @@
+Fibonacciish                    
+
+httpscodeforcescomproblemsetproblem633D
+
+brute force
+
+2000
+
+Yash has recently learnt about the Fibonacci sequence and is very excited about it He calls a sequence Fibonacciish if   the sequence consists of at least two elements  f0 and f1 are arbitrary  fn2fn1fn for all n0 You are given some sequence of integers a1a2an Your task is rearrange elements of this sequence in such a way that its longest possible prefix is Fibonacciish sequence

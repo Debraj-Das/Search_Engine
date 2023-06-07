@@ -1,0 +1,9 @@
+Beautiful Road                    
+
+httpscodeforcescomproblemsetproblem87D
+
+dfs and similar
+
+2300
+
+A long time ago in some country in Asia were civil warsEach of n cities wanted to seize power Thats why sometimes one city gathered an army and sent it to campaign against another cityRoad making was difficult so the country had few roads exactly n1 Also you could reach any city from any other city going on those roadsEven during the war the Oriental people remain spiritually rich and appreciate the beauty of nature And to keep the memory of this great crusade for the centuries to come they planted one beautiful tree by the road on which the army spent most time The Oriental people love nature thats why if there were several such roads then one tree was planted by each of themRecently when the records of the war were found it became clear that each city attacked each other one exactly once There were exactly nn1 attacks in total Everyone has been wondering what road after those wars became the most beautiful that is by which road they planted the largest number of beautiful trees

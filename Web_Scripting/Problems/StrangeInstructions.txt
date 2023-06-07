@@ -1,0 +1,9 @@
+Strange Instructions                    
+
+https://codeforces.com/problemset/problem/1621/F
+
+data structures
+
+2700
+
+Dasha has 10^{100} coins. Recently, she found a binary string s of length n and some operations that allows to change this string (she can do each operation any number of times):  Replace substring 00 of s by 0 and receive a coins.  Replace substring 11 of s by 1 and receive b coins.  Remove 0 from any position in s and pay c coins. It turned out that while doing this operations Dasha should follow the rule:  It is forbidden to do two operations with the same parity in a row. Operations are numbered by integers 1-3 in the order they are given above. Please, calculate what is the maximum profit Dasha can get by doing these operations and following this rule.

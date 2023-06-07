@@ -1,0 +1,9 @@
+Single-use Stones                    
+
+https://codeforces.com/problemset/problem/965/D
+
+binary search
+
+1900
+
+A lot of frogs want to cross a river. A river is w units width, but frogs can only jump l units long, where l < w. Frogs can also jump on lengths shorter than l. but can't jump longer. Hopefully, there are some stones in the river to help them.The stones are located at integer distances from the banks. There are a_i stones at the distance of i units from the bank the frogs are currently at. Each stone can only be used once by one frog, after that it drowns in the water.What is the maximum number of frogs that can cross the river, given that then can only jump on the stones?

@@ -1,0 +1,9 @@
+Vasya and Chocolate                    
+
+https://codeforces.com/problemset/problem/1065/A
+
+implementation
+
+800
+
+There is a special offer in Vasya's favourite supermarket: if the customer buys a chocolate bars, he or she may take b additional bars for free. This special offer can be used any number of times.Vasya currently has s roubles, and he wants to get as many chocolate bars for free. Each chocolate bar costs c roubles. Help Vasya to calculate the maximum possible number of chocolate bars he can get!

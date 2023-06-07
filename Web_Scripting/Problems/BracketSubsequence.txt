@@ -1,0 +1,9 @@
+Bracket Subsequence                    
+
+https://codeforces.com/problemset/problem/1023/C
+
+greedy
+
+1200
+
+A bracket sequence is a string containing only characters "(" and ")". A regular bracket sequence is a bracket sequence that can be transformed into a correct arithmetic expression by inserting characters "1" and "+" between the original characters of the sequence. For example, bracket sequences "()()" and "(())" are regular (the resulting expressions are: "(1)+(1)" and "((1+1)+1)"), and ")(", "(" and ")" are not.Subsequence is a sequence that can be derived from another sequence by deleting some elements without changing the order of the remaining elements.You are given a regular bracket sequence s and an integer number k. Your task is to find a regular bracket sequence of length exactly k such that it is also a subsequence of s.It is guaranteed that such sequence always exists.

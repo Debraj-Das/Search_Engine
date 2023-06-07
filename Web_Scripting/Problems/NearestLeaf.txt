@@ -1,0 +1,9 @@
+Nearest Leaf                    
+
+https://codeforces.com/problemset/problem/1110/F
+
+data structures
+
+2600
+
+Let's define the Eulerian traversal of a tree (a connected undirected graph without cycles) as follows: consider a depth-first search algorithm which traverses vertices of the tree and enumerates them in the order of visiting (only the first visit of each vertex counts). This function starts from the vertex number 1 and then recursively runs from all vertices which are connected with an edge with the current vertex and are not yet visited in increasing numbers order. Formally, you can describe this function using the following pseudocode:next_id = 1id = array of length n filled with -1visited = array of length n filled with falsefunction dfs(v):    visited[v] = true    id[v] = next_id    next_id += 1    for to in neighbors of v in increasing order:        if not visited[to]:            dfs(to)You are given a weighted tree, the vertices of which were enumerated with integers from 1 to n using the algorithm described above.A leaf is a vertex of the tree which is connected with only one other vertex. In the tree given to you, the vertex 1 is not a leaf. The distance between two vertices in the tree is the sum of weights of the edges on the simple path between them.You have to answer q queries of the following type: given integers v, l and r, find the shortest distance from vertex v to one of the leaves with indices from l to r inclusive. 

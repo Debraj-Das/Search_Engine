@@ -1,0 +1,9 @@
+Soldier and Traveling                    
+
+https://codeforces.com/problemset/problem/546/E
+
+flows
+
+2100
+
+In the country there are n cities and m bidirectional roads between them. Each city has an army. Army of the i-th city consists of ai soldiers. Now soldiers roam. After roaming each soldier has to either stay in his city or to go to the one of neighboring cities by at moving along at most one road.Check if is it possible that after roaming there will be exactly bi soldiers in the i-th city.

@@ -1,0 +1,9 @@
+Fence Divercity                    
+
+httpscodeforcescomproblemsetproblem659G
+
+combinatorics
+
+2300
+
+Long ago Vasily built a good fence at his country house Vasily calls a fence good if it is a series of n consecutively fastened vertical boards of centimeter width the height of each in centimeters is a positive integer The house owner remembers that the height of the ith board to the left is hiToday Vasily decided to change the design of the fence he had built by cutting his top connected part so that the fence remained good The cut part should consist of only the upper parts of the boards while the adjacent parts must be interconnected share a nonzero length before cutting out of the fenceYou as Vasilys curious neighbor will count the number of possible ways to cut exactly one part as is described above Two ways to cut a part are called distinct if for the remaining fences there is such i that the height of the ith boards varyAs Vasilys fence can be very high and long get the remainder after dividing the required number of ways by 1000000007 1097

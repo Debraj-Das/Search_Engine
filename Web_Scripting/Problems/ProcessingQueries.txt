@@ -1,0 +1,9 @@
+Processing Queries                    
+
+https://codeforces.com/problemset/problem/644/B
+
+*special problem
+
+1700
+
+In this problem you have to simulate the workflow of one-thread server. There are n queries to process, the i-th will be received at moment ti and needs to be processed for di units of time. All ti are guaranteed to be distinct.When a query appears server may react in three possible ways:   If server is free and query queue is empty, then server immediately starts to process this query.  If server is busy and there are less than b queries in the queue, then new query is added to the end of the queue.  If server is busy and there are already b queries pending in the queue, then new query is just rejected and will never be processed. As soon as server finished to process some query, it picks new one from the queue (if it's not empty, of course). If a new query comes at some moment x, and the server finishes to process another query at exactly the same moment, we consider that first query is picked from the queue and only then new query appears.For each query find the moment when the server will finish to process it or print -1 if this query will be rejected.

@@ -1,0 +1,9 @@
+Reachable Strings                    
+
+httpscodeforcescomproblemsetproblem1320D
+
+data structures
+
+2500
+
+In this problem we will deal with binary strings Each character of a binary string is either a 0 or a 1 We will also deal with substrings recall that a substring is a contiguous subsequence of a string We denote the substring of string s starting from the lth character and ending with the rth character as sl dots r The characters of each string are numbered from 1We can perform several operations on the strings we consider Each operation is to choose a substring of our string and replace it with another string There are two possible types of operations replace 011 with 110 or replace 110 with 011 For example if we apply exactly one operation to the string 110011110 it can be transformed into 011011110 110110110 or 110011011Binary string a is considered reachable from binary string b if there exists a sequence s1 s2  sk such that s1  a sk  b and for every i in 1 k  1 si can be transformed into si  1 using exactly one operation Note that k can be equal to 1 ie every string is reachable from itselfYou are given a string t and q queries to it Each query consists of three integers l1 l2 and len To answer each query you have to determine whether tl1 dots l1  len  1 is reachable from tl2 dots l2  len  1

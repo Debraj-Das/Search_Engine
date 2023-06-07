@@ -1,0 +1,9 @@
+Archer                    
+
+https://codeforces.com/problemset/problem/312/B
+
+math
+
+1300
+
+SmallR is an archer. SmallR is taking a match of archer with Zanoes. They try to shoot in the target in turns, and SmallR shoots first. The probability of shooting the target each time is  for SmallR while  for Zanoes. The one who shoots in the target first should be the winner.Output the probability that SmallR will win the match.

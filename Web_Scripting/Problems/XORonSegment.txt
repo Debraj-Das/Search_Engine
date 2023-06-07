@@ -1,0 +1,9 @@
+XOR on Segment                    
+
+httpscodeforcescomproblemsetproblem242E
+
+bitmasks
+
+2000
+
+Youve got an array a consisting of n integers a1a2an You are allowed to perform two operations on this array  Calculate the sum of current array elements on the segment lr that is count value alal1ar  Apply the xor operation with a given number x to each array element on the segment lr that is execute  This operation changes exactly rl1 array elements Expression  means applying bitwise xor operation to numbers x and y The given operation exists in all modern programming languages for example in language C and Java it is marked as  in Pascal  as xorYouve got a list of m operations of the indicated type Your task is to perform all given operations for each sum query you should print the result you get

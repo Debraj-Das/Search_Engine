@@ -1,0 +1,9 @@
+Mahmoud and Ehab and the xor                    
+
+https://codeforces.com/problemset/problem/862/C
+
+constructive algorithms
+
+1900
+
+Mahmoud and Ehab are on the third stage of their adventures now. As you know, Dr. Evil likes sets. This time he won't show them any set from his large collection, but will ask them to create a new set to replenish his beautiful collection of sets.Dr. Evil has his favorite evil integer x. He asks Mahmoud and Ehab to find a set of n distinct non-negative integers such the bitwise-xor sum of the integers in it is exactly x. Dr. Evil doesn't like big numbers, so any number in the set shouldn't be greater than 106.

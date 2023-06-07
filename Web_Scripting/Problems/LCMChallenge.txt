@@ -1,0 +1,9 @@
+LCM Challenge                    
+
+https://codeforces.com/problemset/problem/235/A
+
+number theory
+
+1600
+
+Some days ago, I learned the concept of LCM (least common multiple). I've played with it for several times and I want to make a big number with it.But I also don't want to use many numbers, so I'll choose three positive integers (they don't have to be distinct) which are not greater than n. Can you help me to find the maximum possible least common multiple of these three integers?

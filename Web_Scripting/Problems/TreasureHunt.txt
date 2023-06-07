@@ -1,0 +1,9 @@
+Treasure Hunt                    
+
+https://codeforces.com/problemset/problem/1787/I
+
+data structures
+
+3400
+
+Define the beauty value of a sequence b_1,b_2,\ldots,b_c as the maximum value of \sum\limits_{i=1}^{q}b_i + \sum\limits_{i=s}^{t}b_i, where q, s, t are all integers and s > q or t\leq q. Note that b_i = 0 when i<1 or i>c, \sum\limits_{i=s}^{t}b_i = 0 when s>t.For example, when b = [-1,-2,-3], we may have q = 0, s = 3, t = 2 so the beauty value is 0 + 0 = 0. And when b = [-1,2,-3], we have q = s = t = 2 so the beauty value is 1 + 2 = 3.You are given a sequence a of length n, determine the sum of the beauty value of all non-empty subsegments a_l,a_{l+1},\ldots,a_r (1\leq l\leq r\leq n) of the sequence a.Print the answer modulo 998\,244\,353.

@@ -1,0 +1,9 @@
+Jatayu's Balanced Bracket Sequence                    
+
+https://codeforces.com/problemset/problem/1726/C
+
+data structures
+
+1300
+
+Last summer, Feluda gifted Lalmohan-Babu a balanced bracket sequence s of length 2 n.Topshe was bored during his summer vacations, and hence he decided to draw an undirected graph of 2 n vertices using the balanced bracket sequence s. For any two distinct vertices i and j (1 \le i < j \le 2 n), Topshe draws an edge (undirected and unweighted) between these two nodes if and only if the subsegment s[i \ldots j] forms a balanced bracket sequence.Determine the number of connected components in Topshe's graph.See the Notes section for definitions of the underlined terms.

@@ -1,0 +1,9 @@
+Partition Game                    
+
+https://codeforces.com/problemset/problem/1527/E
+
+binary search
+
+2500
+
+You are given an array a of n integers. Define the cost of some array t as follows:cost(t) = \sum_{x \in set(t) } last(x) - first(x), where set(t) is the set of all values in t without repetitions, first(x), and last(x) are the indices of the first and last occurrence of x in t, respectively. In other words, we compute the distance between the first and last occurrences for each distinct element and sum them up.You need to split the array a into k consecutive segments such that each element of a belongs to exactly one segment and the sum of the cost of individual segments is minimum.

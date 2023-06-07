@@ -1,0 +1,9 @@
+Isomorphic Strings                    
+
+httpscodeforcescomproblemsetproblem985F
+
+hashing
+
+2300
+
+You are given a string s of length n consisting of lowercase English lettersFor two given strings s and t say S is the set of distinct characters of s and T is the set of distinct characters of t The strings s and t are isomorphic if their lengths are equal and there is a onetoone mapping bijection f between S and T for which fsiti Formally  fsiti for any index i  for any character  there is exactly one character  that fxy  for any character  there is exactly one character  that fxy For example the strings aababc and bbcbcz are isomorphic Also the strings aaaww and wwwaa are isomorphic The following pairs of strings are not isomorphic aab and bbb test and bestYou have to handle m queries characterized by three integers xylen 1xynlen1 For each query check if two substrings sx xlen1 and sy ylen1 are isomorphic

@@ -1,0 +1,9 @@
+Gambling Nim                    
+
+httpscodeforcescomproblemsetproblem662A
+
+bitmasks
+
+2400
+
+As you know the game of Nim is played with n piles of stones where the ith pile initially contains ai stones Two players alternate the turns During a turn a player picks any nonempty pile and removes any positive number of stones from it The one who is not able to make a move loses the gamePetya and Vasya are tired of playing Nim so they invented their own version of the game and named it the Gambling Nim They have n twosided cards one side of the ith card has number ai written on it while the other side has number bi At the beginning of the game the players put all the cards on the table each card only one of its sides up and this side is chosen independently and uniformly Thus they obtain a sequence c1c2cn where ci is equal to ai or bi Then they take n piles of stones with ith pile containing exactly ci stones and play Nim Petya takes the first turnGiven that both players play optimally find the probability of Petyas victory Output the answer as an irreducible fraction

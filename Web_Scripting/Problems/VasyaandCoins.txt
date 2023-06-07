@@ -1,0 +1,9 @@
+Vasya and Coins                    
+
+https://codeforces.com/problemset/problem/1660/A
+
+greedy
+
+800
+
+Vasya decided to go to the grocery store. He found in his wallet a coins of 1 burle and b coins of 2 burles. He does not yet know the total cost of all goods, so help him find out s (s > 0): the minimum positive integer amount of money he cannot pay without change or pay at all using only his coins.For example, if a=1 and b=1 (he has one 1-burle coin and one 2-burle coin), then:  he can pay 1 burle without change, paying with one 1-burle coin,  he can pay 2 burle without change, paying with one 2-burle coin,  he can pay 3 burle without change by paying with one 1-burle coin and one 2-burle coin,  he cannot pay 4 burle without change (moreover, he cannot pay this amount at all). So for a=1 and b=1 the answer is s=4.

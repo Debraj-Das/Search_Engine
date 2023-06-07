@@ -1,0 +1,9 @@
+Friends                    
+
+httpscodeforcescomproblemsetproblem241B
+
+binary search
+
+2700
+
+You have n friends and you want to take m pictures of them Exactly two of your friends should appear in each picture and no two pictures should contain the same pair of your friends So if you have n3 friends you can take 3 different pictures each containing a pair of your friendsEach of your friends has an attractiveness level which is specified by the integer number ai for the ith friend You know that the attractiveness of a picture containing the ith and the jth friends is equal to the exclusiveor xor operation of integers ai and ajYou want to take pictures in a way that the total sum of attractiveness of your pictures is maximized You have to calculate this value Since the result may not fit in a 32bit integer number print it modulo 1000000007 1097

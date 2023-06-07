@@ -1,0 +1,9 @@
+Least Cost Bracket Sequence                    
+
+https://codeforces.com/problemset/problem/3/D
+
+greedy
+
+2600
+
+This is yet another problem on regular bracket sequences.A bracket sequence is called regular, if by inserting "+" and "1" into it we get a correct mathematical expression. For example, sequences "(())()", "()" and "(()(()))" are regular, while ")(", "(()" and "(()))(" are not. You have a pattern of a bracket sequence that consists of characters "(", ")" and "?". You have to replace each character "?" with a bracket so, that you get a regular bracket sequence.For each character "?" the cost of its replacement with "(" and ")" is given. Among all the possible variants your should choose the cheapest.

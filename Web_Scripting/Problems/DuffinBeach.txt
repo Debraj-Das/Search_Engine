@@ -1,0 +1,9 @@
+Duff in Beach                    
+
+httpscodeforcescomproblemsetproblem587B
+
+dp
+
+2100
+
+While Duff was resting in the beach she accidentally found a strange array b0b1bl1 consisting of l positive integers This array was strange because it was extremely long but there was another maybe shorter array a0an1 that b can be build from a with formula biai mod n where a mod b denoted the remainder of dividing a by b  Duff is so curious she wants to know the number of subsequences of b like bi1bi2bix 0i1i2ixl such that   1xk  For each 1jx1   For each 1jx1 bijbij1 ie this subsequence is nondecreasing Since this number can be very large she want to know it modulo 1097Duff is not a programmer and Malek is unavailable at the moment So she asked for your help Please tell her this number

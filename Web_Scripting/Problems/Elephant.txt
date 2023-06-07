@@ -1,0 +1,9 @@
+Elephant                    
+
+httpscodeforcescomproblemsetproblem617A
+
+math
+
+800
+
+An elephant decided to visit his friend It turned out that the elephants house is located at point 0 and his friends house is located at point xx0 of the coordinate line In one step the elephant can move 1 2 3 4 or 5 positions forward Determine what is the minimum number of steps he need to make in order to get to his friends house

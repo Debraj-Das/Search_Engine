@@ -1,0 +1,9 @@
+Network Coverage                    
+
+https://codeforces.com/problemset/problem/1373/F
+
+binary search
+
+2400
+
+The government of Berland decided to improve network coverage in his country. Berland has a unique structure: the capital in the center and n cities in a circle around the capital. The capital already has a good network coverage (so the government ignores it), but the i-th city contains a_i households that require a connection.The government designed a plan to build n network stations between all pairs of neighboring cities which will maintain connections only for these cities. In other words, the i-th network station will provide service only for the i-th and the (i + 1)-th city (the n-th station is connected to the n-th and the 1-st city).All network stations have capacities: the i-th station can provide the connection to at most b_i households.Now the government asks you to check can the designed stations meet the needs of all cities or not — that is, is it possible to assign each household a network station so that each network station i provides the connection to at most b_i households.

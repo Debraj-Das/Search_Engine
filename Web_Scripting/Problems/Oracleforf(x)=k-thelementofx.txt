@@ -1,0 +1,9 @@
+Oracle for fx  kth element of x                    
+
+httpscodeforcescomproblemsetproblem1001G
+
+special problem
+
+1400
+
+Implement a quantum oracle on N qubits which implements a function fxxk ie the value of the function is the value of the kth qubitFor an explanation on how the quantum oracles work see the tutorial blog post

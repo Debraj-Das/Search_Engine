@@ -1,0 +1,9 @@
+MEX Sequences                    
+
+httpscodeforcescomproblemsetproblem1613D
+
+dp
+
+1900
+
+Lets call a sequence of integers x1 x2 dots xk MEXcorrect if for all i 1 le i le k xi  operatornameMEXx1 x2 dots xi le 1 holds Where operatornameMEXx1 dots xk is the minimum nonnegative integer that doesnt belong to the set x1 dots xk For example operatornameMEX1 0 1 3  2 and operatornameMEX2 1 5  0You are given an array a consisting of n nonnegative integers Calculate the number of nonempty MEXcorrect subsequences of a given array The number of subsequences can be very large so print it modulo 998244353 Note a subsequence of an array a is a sequence ai1 ai2 dots aim meeting the constraints 1 le i1  i2  dots  im le n If two different ways to choose the sequence of indices i1 i2 dots im yield the same subsequence the resulting subsequence should be counted twice ie two subsequences are different if their sequences of indices i1 i2 dots im are not the same

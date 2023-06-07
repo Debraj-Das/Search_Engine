@@ -1,0 +1,9 @@
+Functions On The Segments                    
+
+httpscodeforcescomproblemsetproblem837G
+
+data structures
+
+2500
+
+You have an array f of n functionsThe function fix 1in is characterized by parameters x1x2y1aby2 and take values   y1 if xx1  axb if x1xx2  y2 if xx2 There are m queries Each query is determined by numbers l r and x For a query with number i 1im you need to calculate the sum of all fjxi where ljr The value of xi is calculated as follows xixlast mod 109 where last is the answer to the query with number i1 The value of last equals 0 if i1

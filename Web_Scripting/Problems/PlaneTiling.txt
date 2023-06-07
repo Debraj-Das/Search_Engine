@@ -1,0 +1,9 @@
+Plane Tiling                    
+
+https://codeforces.com/problemset/problem/1468/I
+
+geometry
+
+2500
+
+You are given five integers n, dx_1, dy_1, dx_2 and dy_2. You have to select n distinct pairs of integers (x_i, y_i) in such a way that, for every possible pair of integers (x, y), there exists exactly one triple of integers (a, b, i) meeting the following constraints:  \begin{cases} x \, = \, x_i + a \cdot dx_1 + b \cdot dx_2, \\ y \, = \, y_i + a \cdot dy_1 + b \cdot dy_2. \end{cases}  

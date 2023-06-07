@@ -1,0 +1,9 @@
+Pasha and String                    
+
+httpscodeforcescomproblemsetproblem525B
+
+constructive algorithms
+
+1400
+
+Pasha got a very beautiful string s for his birthday the string consists of lowercase Latin letters The letters in the string are numbered from 1 to s from left to right where s is the length of the given stringPasha didnt like his present very much so he decided to change it After his birthday Pasha spent m days performing the following transformations on his stringeach day he chose integer ai and reversed a piece of string a segment from position ai to position sai1 It is guaranteed that 2aisYou face the following task determine what Pashas string will look like after m days

@@ -1,0 +1,9 @@
+Multipliers                    
+
+httpscodeforcescomproblemsetproblem615D
+
+math
+
+2000
+
+Ayrat has number n represented as its prime factorization pi of size m ie np1p2pm Ayrat got secret information that that the product of all divisors of n taken modulo 1097 is the password to the secret data base Now he wants to calculate this value

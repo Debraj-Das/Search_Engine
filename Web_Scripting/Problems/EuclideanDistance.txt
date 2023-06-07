@@ -1,0 +1,9 @@
+Euclidean Distance                    
+
+https://codeforces.com/problemset/problem/153/E
+
+*special problem
+
+2100
+
+You are given a multiset of points on the plane with integer coordinates. Find the maximum distance between two points from this multiset.

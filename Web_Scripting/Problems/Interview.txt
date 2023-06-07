@@ -1,0 +1,9 @@
+Interview                    
+
+https://codeforces.com/problemset/problem/1807/E
+
+binary search
+
+1300
+
+This is an interactive problem. If you are unsure how interactive problems work, then it is recommended to read the guide for participants.Before the last stage of the exam, the director conducted an interview. He gave Gon n piles of stones, the i-th pile having a_i stones.Each stone is identical and weighs 1 grams, except for one special stone that is part of an unknown pile and weighs 2 grams.  A picture of the first test case. Pile 2 has the special stone. The piles have weights of 1,3,3,4,5, respectively. Gon can only ask the director questions of one kind: he can choose k piles, and the director will tell him the total weight of the piles chosen. More formally, Gon can choose an integer k (1 \leq k \leq n) and k unique piles p_1, p_2, \dots, p_k (1 \leq p_i \leq n), and the director will return the total weight m_{p_1} + m_{p_2} + \dots + m_{p_k}, where m_i denotes the weight of pile i. Gon is tasked with finding the pile that contains the special stone. However, the director is busy. Help Gon find this pile in at most \mathbf{30} queries.

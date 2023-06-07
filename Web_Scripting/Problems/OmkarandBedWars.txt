@@ -1,0 +1,9 @@
+Omkar and Bed Wars                    
+
+https://codeforces.com/problemset/problem/1392/D
+
+dp
+
+1700
+
+Omkar is playing his favorite pixelated video game, Bed Wars! In Bed Wars, there are n players arranged in a circle, so that for all j such that 2 \leq j \leq n, player j - 1 is to the left of the player j, and player j is to the right of player j - 1. Additionally, player n is to the left of player 1, and player 1 is to the right of player n.Currently, each player is attacking either the player to their left or the player to their right. This means that each player is currently being attacked by either 0, 1, or 2 other players. A key element of Bed Wars strategy is that if a player is being attacked by exactly 1 other player, then they should logically attack that player in response. If instead a player is being attacked by 0 or 2 other players, then Bed Wars strategy says that the player can logically attack either of the adjacent players.Unfortunately, it might be that some players in this game are not following Bed Wars strategy correctly. Omkar is aware of whom each player is currently attacking, and he can talk to any amount of the n players in the game to make them instead attack another player  — i. e. if they are currently attacking the player to their left, Omkar can convince them to instead attack the player to their right; if they are currently attacking the player to their right, Omkar can convince them to instead attack the player to their left. Omkar would like all players to be acting logically. Calculate the minimum amount of players that Omkar needs to talk to so that after all players he talked to (if any) have changed which player they are attacking, all players are acting logically according to Bed Wars strategy.

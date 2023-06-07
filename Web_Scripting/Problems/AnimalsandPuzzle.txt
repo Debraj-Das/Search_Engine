@@ -1,0 +1,9 @@
+Animals and Puzzle                    
+
+httpscodeforcescomproblemsetproblem713D
+
+binary search
+
+2700
+
+Owl Sonya gave a huge lake puzzle of size nm to hedgehog Filya as a birthday present Friends immediately started to assemble the puzzle but some parts of it turned out to be empty there was no picture on them Parts with picture on it are denoted by 1 while empty parts are denoted by 0 Rows of the puzzle are numbered from top to bottom with integers from 1 to n while columns are numbered from left to right with integers from 1 to mAnimals decided to complete the picture and play with it as it might be even more fun Owl and hedgehog ask each other some queries Each query is provided by four integers x1 y1 x2 y2 which define the rectangle where x1y1 stands for the coordinates of the up left cell of the rectangle while x2y2 stands for the coordinates of the bottom right cell The answer to the query is the size of the maximum square consisting of picture parts only only parts denoted by 1 and located fully inside the query rectangleHelp Sonya and Filya answer t queries

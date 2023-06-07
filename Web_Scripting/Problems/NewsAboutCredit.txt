@@ -1,0 +1,9 @@
+News About Credit                    
+
+https://codeforces.com/problemset/problem/769/B
+
+*special problem
+
+1200
+
+Polycarp studies at the university in the group which consists of n students (including himself). All they are registrated in the social net "TheContacnt!".Not all students are equally sociable. About each student you know the value ai — the maximum number of messages which the i-th student is agree to send per day. The student can't send messages to himself. In early morning Polycarp knew important news that the programming credit will be tomorrow. For this reason it is necessary to urgently inform all groupmates about this news using private messages. Your task is to make a plan of using private messages, so that:  the student i sends no more than ai messages (for all i from 1 to n);  all students knew the news about the credit (initially only Polycarp knew it);  the student can inform the other student only if he knows it himself. Let's consider that all students are numerated by distinct numbers from 1 to n, and Polycarp always has the number 1.In that task you shouldn't minimize the number of messages, the moment of time, when all knew about credit or some other parameters. Find any way how to use private messages which satisfies requirements above. 

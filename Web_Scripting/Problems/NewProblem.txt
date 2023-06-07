@@ -1,0 +1,9 @@
+New Problem                    
+
+httpscodeforcescomproblemsetproblem278B
+
+brute force
+
+1500
+
+Coming up with a new problem isnt as easy as many people think Sometimes it is hard enough to name it Well consider a title original if it doesnt occur as a substring in any titles of recent Codeforces problems Youve got the titles of n last problems  the strings consisting of lowercase English letters Your task is to find the shortest original title for the new problem If there are multiple such titles choose the lexicographically minimum one Note that title of the problem cant be an empty stringA substring sl r 1lrs of string ss1s2 ss where s is the length of string s is string slsl1 srString xx1x2 xp is lexicographically smaller than string yy1y2 yq if either pq and x1y1x2y2 xpyp or there exists such number r rprq that x1y1x2y2 xryr and xr1yr1 The string characters are compared by their ASCII codes

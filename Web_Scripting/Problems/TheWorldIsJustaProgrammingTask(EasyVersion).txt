@@ -1,0 +1,9 @@
+The World Is Just a Programming Task (Easy Version)                    
+
+https://codeforces.com/problemset/problem/1248/D1
+
+brute force
+
+2000
+
+This is an easier version of the problem. In this version, n \le 500.Vasya is an experienced developer of programming competitions' problems. As all great minds at some time, Vasya faced a creative crisis. To improve the situation, Petya gifted him a string consisting of opening and closing brackets only. Petya believes, that the beauty of the bracket string is a number of its cyclical shifts, which form a correct bracket sequence.To digress from his problems, Vasya decided to select two positions of the string (not necessarily distinct) and swap characters located at this positions with each other. Vasya will apply this operation exactly once. He is curious what is the maximum possible beauty he can achieve this way. Please help him.We remind that bracket sequence s is called correct if:   s is empty;  s is equal to "(t)", where t is correct bracket sequence;  s is equal to t_1 t_2, i.e. concatenation of t_1 and t_2, where t_1 and t_2 are correct bracket sequences. For example, "(()())", "()" are correct, while ")(" and "())" are not.The cyclical shift of the string s of length n by k (0 \leq k < n) is a string formed by a concatenation of the last k symbols of the string s with the first n - k symbols of string s. For example, the cyclical shift of string "(())()" by 2 equals "()(())".Cyclical shifts i and j are considered different, if i \ne j.

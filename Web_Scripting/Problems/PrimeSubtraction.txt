@@ -1,0 +1,9 @@
+Prime Subtraction                    
+
+https://codeforces.com/problemset/problem/1238/A
+
+math
+
+900
+
+You are given two integers x and y (it is guaranteed that x > y). You may choose any prime integer p and subtract it any number of times from x. Is it possible to make x equal to y?Recall that a prime number is a positive integer that has exactly two positive divisors: 1 and this integer itself. The sequence of prime numbers starts with 2, 3, 5, 7, 11.Your program should solve t independent test cases.

@@ -1,0 +1,9 @@
+Make a Permutation                    
+
+httpscodeforcescomproblemsetproblem864D
+
+greedy
+
+1500
+
+Ivan has an array consisting of n elements Each of the elements is an integer from 1 to nRecently Ivan learned about permutations and their lexicographical order Now he wants to change replace minimum number of elements in his array in such a way that his array becomes a permutation ie each of the integers from 1 to n was encountered in his array exactly once If there are multiple ways to do it he wants to find the lexicographically minimal permutation among themThus minimizing the number of changes has the first priority lexicographical minimizing has the second priorityIn order to determine which of the two permutations is lexicographically smaller we compare their first elements If they are equal  compare the second and so on If we have two permutations x and y then x is lexicographically smaller if xiyi where i is the first index in which the permutations x and y differDetermine the array Ivan will obtain after performing all the changes

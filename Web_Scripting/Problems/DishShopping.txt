@@ -1,0 +1,9 @@
+Dish Shopping                    
+
+https://codeforces.com/problemset/problem/1139/F
+
+data structures
+
+2500
+
+There are m people living in a city. There are n dishes sold in the city. Each dish i has a price p_i, a standard s_i and a beauty b_i. Each person j has an income of inc_j and a preferred beauty pref_j. A person would never buy a dish whose standard is less than the person's income. Also, a person can't afford a dish with a price greater than the income of the person. In other words, a person j can buy a dish i only if p_i \leq inc_j \leq s_i.Also, a person j can buy a dish i, only if |b_i-pref_j| \leq (inc_j-p_i). In other words, if the price of the dish is less than the person's income by k, the person will only allow the absolute difference of at most k between the beauty of the dish and his/her preferred beauty. Print the number of dishes that can be bought by each person in the city.

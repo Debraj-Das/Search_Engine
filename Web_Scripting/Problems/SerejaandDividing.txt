@@ -1,0 +1,9 @@
+Sereja and Dividing                    
+
+httpscodeforcescomproblemsetproblem380E
+
+data structures
+
+2600
+
+Lets assume that we have a sequence of doubles a1a2aa and a double variable x You are allowed to perform the following twostaged operation  choose an index of the sequence element i 1ia  consecutively perform assignments  Lets use function gax to represent the largest value that can be obtained from variable x using the described operation any number of times and sequence aSereja has sequence b1b2bb Help Sereja calculate sum  Record bibi1bj represents a sequence containing the elements in brackets in the given order To avoid problems with precision please print the required sum divided by b2

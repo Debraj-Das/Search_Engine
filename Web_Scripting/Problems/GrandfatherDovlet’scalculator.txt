@@ -1,0 +1,9 @@
+Grandfather Dovlets calculator                    
+
+httpscodeforcescomproblemsetproblem620B
+
+implementation
+
+1000
+
+Once Max found an electronic calculator from his grandfather Dovlets chest He noticed that the numbers were written with sevensegment indicators httpsenwikipediaorgwikiSevensegmentdisplay  Max starts to type all the values from a to b After typing each number Max resets the calculator Find the total number of segments printed on the calculatorFor example if a1 and b3 then at first the calculator will print 2 segments then  5 segments and at last it will print 5 segments So the total number of printed segments is 12

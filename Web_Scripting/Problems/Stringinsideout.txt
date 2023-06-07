@@ -1,0 +1,9 @@
+String inside out                    
+
+httpscodeforcescomproblemsetproblem530B
+
+special problem
+
+1600
+
+You are given a string S of even length s1s2n  Perform the following manipulations divide it into two halves s1sn and sn1s2n reverse each of them sns1 and s2nsn1 concatenate the resulting strings into sns1s2nsn1Output the result of these manipulations

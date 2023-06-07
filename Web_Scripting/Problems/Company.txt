@@ -1,0 +1,9 @@
+Company                    
+
+https://codeforces.com/problemset/problem/1062/E
+
+binary search
+
+2300
+
+The company X has n employees numbered from 1 through n. Each employee u has a direct boss p_u (1 \le p_u \le n), except for the employee 1 who has no boss. It is guaranteed, that values p_i form a tree. Employee u is said to be in charge of employee v if u is the direct boss of v or there is an employee w such that w is in charge of v and u is the direct boss of w. Also, any employee is considered to be in charge of himself.In addition, for each employee u we define it's level lv(u) as follow:   lv(1)=0  lv(u)=lv(p_u)+1 for u \neq 1 In the near future, there are q possible plans for the company to operate. The i-th plan consists of two integers l_i and r_i, meaning that all the employees in the range [l_i, r_i], and only they, are involved in this plan. To operate the plan smoothly, there must be a project manager who is an employee in charge of all the involved employees. To be precise, if an employee u is chosen as the project manager for the i-th plan then for every employee v \in [l_i, r_i], u must be in charge of v. Note, that u is not necessary in the range [l_i, r_i]. Also, u is always chosen in such a way that lv(u) is as large as possible (the higher the level is, the lower the salary that the company has to pay the employee).Before any plan is operated, the company has JATC take a look at their plans. After a glance, he tells the company that for every plan, it's possible to reduce the number of the involved employees exactly by one without affecting the plan. Being greedy, the company asks JATC which employee they should kick out of the plan so that the level of the project manager required is as large as possible. JATC has already figured out the answer and challenges you to do the same.

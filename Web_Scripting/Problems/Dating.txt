@@ -1,0 +1,9 @@
+Dating                    
+
+httpscodeforcescomproblemsetproblem852I
+
+brute force
+
+2300
+
+This story is happening in a town named BubbleLand There are n houses in BubbleLand In each of these n houses lives a boy or a girl People there really love numbers and everyone has their favorite number f That means that the boy or girl that lives in the ith house has favorite number equal to fiThe houses are numerated with numbers 1 to nThe houses are connected with n1 bidirectional roads and you can travel from any house to any other house in the town There is exactly one path between every pair of housesA new dating had agency opened their offices in this mysterious town and the citizens were very excited They immediately sent q questions to the agency and each question was of the following format   a b asking how many ways are there to choose a couple boy and girl that have the same favorite number and live in one of the houses on the unique path from house a to house b Help the dating agency to answer the questions and grow their business

@@ -1,0 +1,9 @@
+The Child and Set                    
+
+httpscodeforcescomproblemsetproblem437B
+
+bitmasks
+
+1500
+
+At the childrens day the child came to Pickss house and messed his house up Picks was angry at him A lot of important things were lost in particular the favorite set of PicksFortunately Picks remembers something about his set S  its elements were distinct integers from 1 to limit  the value of  was equal to sum here lowbitx equals 2k where k is the position of the first one in the binary representation of x For example lowbit100102102lowbit10001212lowbit100002100002 binary representation Can you help Picks and find any set S that satisfies all the above conditions

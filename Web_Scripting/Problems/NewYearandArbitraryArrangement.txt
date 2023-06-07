@@ -1,0 +1,9 @@
+New Year and Arbitrary Arrangement                    
+
+httpscodeforcescomproblemsetproblem908D
+
+dp
+
+2200
+
+You are given three integers k pa and pbYou will construct a sequence with the following algorithm Initially start with the empty sequence Each second you do the following With probability papapb add a to the end of the sequence Otherwise with probability pbpapb add b to the end of the sequenceYou stop once there are at least k subsequences that form ab Determine the expected number of times ab is a subsequence in the resulting sequence It can be shown that this can be represented by PQ where P and Q are coprime integers and  Print the value of 

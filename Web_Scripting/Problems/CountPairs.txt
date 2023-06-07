@@ -1,0 +1,9 @@
+Count Pairs                    
+
+https://codeforces.com/problemset/problem/1188/B
+
+math
+
+2300
+
+You are given a prime number p, n integers a_1, a_2, \ldots, a_n, and an integer k. Find the number of pairs of indexes (i, j) (1 \le i < j \le n) for which (a_i + a_j)(a_i^2 + a_j^2) \equiv k \bmod p.

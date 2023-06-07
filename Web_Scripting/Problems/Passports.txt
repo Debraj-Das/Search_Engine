@@ -1,0 +1,9 @@
+Passports                    
+
+httpscodeforcescomproblemsetproblem1012F
+
+dp
+
+3400
+
+Gleb is a famous competitive programming teacher from Innopolis He is planning a trip to N programming camps in the nearest future Each camp will be held in a different country For each of them Gleb needs to apply for a visa For each of these trips Gleb knows three integers the number of the first day of the trip si the length of the trip in days leni and the number of days ti this countrys consulate will take to process a visa application and stick a visa in a passport Gleb has P 1P2 valid passports and is able to decide which visa he wants to put in which passportFor each trip Gleb will have a flight to that country early in the morning of the day si and will return back late in the evening of the day sileni1To apply for a visa on the day d Gleb needs to be in Innopolis in the middle of this day So he cant apply for a visa while he is on a trip including the first and the last days If a trip starts the next day after the end of the other one Gleb cant apply for a visa between them as well The earliest Gleb can apply for a visa is day 1After applying for a visa of country i on day d Gleb will get his passport back in the middle of the day dti Consulates use delivery services so Gleb can get his passport back even if he is not in Innopolis on this day Gleb can apply for another visa on the same day he received his passport back if he is in Innopolis this day Gleb will not be able to start his trip on day si if he doesnt has a passport with a visa for the corresponding country in the morning of day si In particular the passport should not be in another countrys consulate for visa processingHelp Gleb to decide which visas he needs to receive in which passport and when he should apply for each visa 

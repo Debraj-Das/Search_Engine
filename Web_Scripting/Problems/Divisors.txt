@@ -1,0 +1,9 @@
+Divisors                    
+
+httpscodeforcescomproblemsetproblem448E
+
+brute force
+
+2200
+
+Bizon the Champion isnt just friendly he also is a rigorous coderLets define function fa where a is a sequence of integers Function fa returns the following sequence first all divisors of a1 go in the increasing order then all divisors of a2 go in the increasing order and so on till the last element of sequence a For example f291121391Lets determine the sequence Xi for integer i i0 X0X X is a sequence consisting of a single number X XifXi1 i0 For example at X6 we get X06 X11236 X2112131236Given the numbers X and k find the sequence Xk As the answer can be rather large find only the first 105 elements of this sequence

@@ -1,0 +1,9 @@
+Turn Off The TV                    
+
+https://codeforces.com/problemset/problem/863/E
+
+data structures
+
+2000
+
+Luba needs your help again! Luba has n TV sets. She knows that i-th TV set will be working from moment of time li till moment ri, inclusive.Luba wants to switch off one of TV sets in order to free the socket. Let's call some TV set redundant if after switching it off the number of integer moments of time when at least one of TV sets is working won't decrease. Luba will be very upset if she has to switch off a non-redundant TV set.Help Luba by telling her the index of some redundant TV set. If there is no any, print -1.

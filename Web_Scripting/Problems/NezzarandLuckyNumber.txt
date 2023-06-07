@@ -1,0 +1,9 @@
+Nezzar and Lucky Number                    
+
+https://codeforces.com/problemset/problem/1478/B
+
+brute force
+
+1100
+
+Nezzar's favorite digit among 1,\ldots,9 is d. He calls a positive integer lucky if d occurs at least once in its decimal representation. Given q integers a_1,a_2,\ldots,a_q, for each 1 \le i \le q Nezzar would like to know if a_i can be equal to a sum of several (one or more) lucky numbers.

@@ -1,0 +1,9 @@
+Count Seconds                    
+
+https://codeforces.com/problemset/problem/1704/E
+
+brute force
+
+2200
+
+Cirno has a DAG (Directed Acyclic Graph) with n nodes and m edges. The graph has exactly one node that has no out edges. The i-th node has an integer a_i on it.Every second the following happens: Let S be the set of nodes x that have a_x > 0. For all x \in S, 1 is subtracted from a_x, and then for each node y, such that there is an edge from x to y, 1 is added to a_y.Find the first moment of time when all a_i become 0. Since the answer can be very large, output it modulo 998\,244\,353.

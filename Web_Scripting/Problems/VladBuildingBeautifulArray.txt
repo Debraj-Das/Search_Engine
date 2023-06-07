@@ -1,0 +1,9 @@
+Vlad Building Beautiful Array                    
+
+https://codeforces.com/problemset/problem/1833/C
+
+greedy
+
+800
+
+Vlad was given an array a of n positive integers. Now he wants to build a beautiful array b of length n from it.Vlad considers an array beautiful if all the numbers in it are positive and have the same parity. That is, all numbers in the beautiful array are greater than zero and are either all even or all odd.To build the array b, Vlad can assign each b_i either the value a_i or a_i - a_j, where any j from 1 to n can be chosen.To avoid trying to do the impossible, Vlad asks you to determine whether it is possible to build a beautiful array b of length n using his array a.

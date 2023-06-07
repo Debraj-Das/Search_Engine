@@ -1,0 +1,9 @@
+Mike and gcd problem                    
+
+httpscodeforcescomproblemsetproblem798C
+
+dp
+
+1700
+
+Mike has a sequence Aa1a2an of length n He considers the sequence Bb1b2bn beautiful if the gcd of all its elements is bigger than 1 ie  Mike wants to change his sequence in order to make it beautiful In one move he can choose an index i 1in delete numbers aiai1 and put numbers aiai1aiai1 in their place instead in this order He wants perform as few operations as possible Find the minimal number of operations to make sequence A beautiful if its possible or tell him that it is impossible to do so is the biggest nonnegative number d such that d divides bi for every i 1in

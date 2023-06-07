@@ -1,0 +1,9 @@
+Listening to Music                    
+
+httpscodeforcescomproblemsetproblem543E
+
+constructive algorithms
+
+3200
+
+Please note that the memory limit differs from the standardYou really love to listen to music During the each of next s days you will listen to exactly m songs from the playlist that consists of exactly n songs Lets number the songs from the playlist with numbers from 1 to n inclusive The quality of song number i is aiOn the ith day you choose some integer v livri and listen to songs number vv1vm1 On the ith day listening to one song with quality less than qi increases your displeasure by exactly oneDetermine what minimum displeasure you can get on each of the s next days 

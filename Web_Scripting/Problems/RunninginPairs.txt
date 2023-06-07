@@ -1,0 +1,9 @@
+Running in Pairs                    
+
+https://codeforces.com/problemset/problem/1244/G
+
+constructive algorithms
+
+2400
+
+Demonstrative competitions will be held in the run-up to the 20NN Berlatov Olympic Games. Today is the day for the running competition!Berlatov team consists of 2n runners which are placed on two running tracks; n runners are placed on each track. The runners are numbered from 1 to n on each track. The runner with number i runs through the entire track in i seconds.The competition is held as follows: first runners on both tracks start running at the same time; when the slower of them arrives at the end of the track, second runners on both tracks start running, and everyone waits until the slower of them finishes running, and so on, until all n pairs run through the track.The organizers want the run to be as long as possible, but if it lasts for more than k seconds, the crowd will get bored. As the coach of the team, you may choose any order in which the runners are arranged on each track (but you can't change the number of runners on each track or swap runners between different tracks).You have to choose the order of runners on each track so that the duration of the competition is as long as possible, but does not exceed k seconds.Formally, you want to find two permutations p and q (both consisting of n elements) such that sum = \sum\limits_{i=1}^{n} max(p_i, q_i) is maximum possible, but does not exceed k. If there is no such pair, report about it.

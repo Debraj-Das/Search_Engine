@@ -1,0 +1,9 @@
+Alternating case                    
+
+https://codeforces.com/problemset/problem/162/H
+
+*special problem
+
+1800
+
+You are given a string consisting of alphabet letters. Convert it to alternating case: the letters on odd positions should be in uppercase, and the letters on even positions should be lowercase. The letters are numbered staring from 1.

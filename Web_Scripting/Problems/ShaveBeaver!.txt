@@ -1,0 +1,9 @@
+Shave Beaver                    
+
+httpscodeforcescomproblemsetproblem331B2
+
+data structures
+
+1900
+
+The Smart Beaver has recently designed and built an innovative nanotechnologic allpurpose beaver mass shaving machine Beavershave 5000 Beavershave 5000 can shave beavers by families How does it work Very easilyThere are n beavers each of them has a unique id from 1 to n Consider a permutation a1a2an of n these beavers Beavershave 5000 needs one session to shave beavers with ids from x to y inclusive if and only if there are such indices i1i2ik that ai1x ai2x1  aik1y1 aiky And that is really convenient For example it needs one session to shave a permutation of beavers 123nIf we cant shave beavers from x to y in one session then we can split these beavers into groups xp1 p11p2  pm1y xp1p2pmy in such a way that the machine can shave beavers in each group in one session But then Beavershave 5000 needs m1 working sessions to shave beavers from x to yAll beavers are restless and they keep trying to swap So if we consider the problem more formally we can consider queries of two types   what is the minimum number of sessions that Beavershave 5000 needs to shave beavers with ids from x to y inclusive  two beavers on positions x and y the beavers ax and ay swapped You can assume that any beaver can be shaved any number of times

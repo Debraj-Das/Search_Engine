@@ -1,0 +1,9 @@
+Send Tree to Charlie                    
+
+https://codeforces.com/problemset/problem/1254/E
+
+combinatorics
+
+3300
+
+Christmas was knocking on the door, and our protagonist, Bob, was preparing a spectacular present for his long-time second best friend Charlie. As chocolate boxes are lame, he decided to decorate a tree instead. Bob's tree can be represented as an undirected connected graph with n nodes (numbered 1 to n) and n-1 edges. Initially, Bob placed a decoration with label i on node i, for each 1 \le i \le n. However, as such a simple arrangement is lame, he decided to shuffle the decorations a bit. Formally, Bob did the following steps: First, he listed the n-1 edges in some order. Then, he considered the edges one by one in that order. For each edge (u, v), he swapped the decorations of node u with the one of node v.After finishing, Bob seemed satisfied with the arrangement, so he went to sleep.The next morning, Bob wakes up only to find out that his beautiful arrangement has been ruined! Last night, Bob's younger brother Bobo dropped some of the decorations on the floor while he was playing with the tree. Fortunately, no decorations were lost, so Bob can repair the tree in no time. However, he completely forgets how the tree looked like yesterday. Therefore, given the labels of the decorations still on the tree, Bob wants to know the number of possible configurations of the tree. As the result can be quite large, Bob will be happy if you can output the result modulo 1000000007 (10^9+7). Note that, it is possible that there exists no possible configurations.

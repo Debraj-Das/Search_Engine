@@ -1,0 +1,9 @@
+Luba And The Ticket                    
+
+https://codeforces.com/problemset/problem/845/B
+
+brute force
+
+1600
+
+Luba has a ticket consisting of 6 digits. In one move she can choose digit in any position and replace it with arbitrary digit. She wants to know the minimum number of digits she needs to replace in order to make the ticket lucky.The ticket is considered lucky if the sum of first three digits equals to the sum of last three digits.

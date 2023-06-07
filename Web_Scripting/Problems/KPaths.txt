@@ -1,0 +1,9 @@
+K Paths                    
+
+https://codeforces.com/problemset/problem/981/H
+
+combinatorics
+
+3100
+
+You are given a tree of n vertices. You are to select k (not necessarily distinct) simple paths in such a way that it is possible to split all edges of the tree into three sets: edges not contained in any path, edges that are a part of exactly one of these paths, and edges that are parts of all selected paths, and the latter set should be non-empty.Compute the number of ways to select k paths modulo 998244353.The paths are enumerated, in other words, two ways are considered distinct if there are such i (1 \leq i \leq k) and an edge that the i-th path contains the edge in one way and does not contain it in the other.

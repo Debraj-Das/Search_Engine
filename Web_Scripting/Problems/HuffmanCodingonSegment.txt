@@ -1,0 +1,9 @@
+Huffman Coding on Segment                    
+
+httpscodeforcescomproblemsetproblem700D
+
+data structures
+
+3100
+
+Alice wants to send an important message to Bob Message aa1an is a sequence of positive integers charactersTo compress the message Alice wants to use binary Huffman coding We recall that binary Huffman code or binary prefix code is a function f that maps each letter that appears in the string to some binary string that is string consisting of characters 0 and 1 only such that for each pair of different characters ai and aj string fai is not a prefix of faj and vice versa The result of the encoding of the message a1a2an is the concatenation of the encoding of each character that is the string fa1fa2 fan Huffman codes are very useful as the compressed message can be easily and uniquely decompressed if the function f is given Code is usually chosen in order to minimize the total length of the compressed message ie the length of the string fa1fa2 fanBecause of security issues Alice doesnt want to send the whole message Instead she picks some substrings of the message and wants to send them separately For each of the given substrings ali ari she wants to know the minimum possible length of the Huffman coding Help her solve this problem

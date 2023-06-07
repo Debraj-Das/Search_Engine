@@ -1,0 +1,9 @@
+Red Blue Tree                    
+
+https://codeforces.com/problemset/problem/1208/H
+
+data structures
+
+3500
+
+You are given a tree of n nodes. The tree is rooted at node 1, which is not considered as a leaf regardless of its degree.Each leaf of the tree has one of the two colors: red or blue. Leaf node v initially has color s_{v}.The color of each of the internal nodes (including the root) is determined as follows.   Let b be the number of blue immediate children, and r be the number of red immediate children of a given vertex.  Then the color of this vertex is blue if and only if b - r \ge k, otherwise red. Integer k is a parameter that is same for all the nodes.You need to handle the following types of queries:   1 v: print the color of node v;  2 v c: change the color of leaf v to c (c = 0 means red, c = 1 means blue);  3 h: update the current value of k to h. 

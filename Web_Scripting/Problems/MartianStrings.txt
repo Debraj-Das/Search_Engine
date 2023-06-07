@@ -1,0 +1,9 @@
+Martian Strings                    
+
+httpscodeforcescomproblemsetproblem149E
+
+string suffix structures
+
+2300
+
+During the study of the Martians Petya clearly understood that the Martians are absolutely lazy They like to sleep and dont like to wake up Imagine a Martian who has exactly n eyes located in a row and numbered from the left to the right from 1 to n When a Martian sleeps he puts a patch on each eye so that the Martian morning doesnt wake him up The inner side of each patch has an uppercase Latin letter So when a Martian wakes up and opens all his eyes he sees a string s consisting of uppercase Latin letters The strings length is n Ding dong  the alarm goes off A Martian has already woken up but he hasnt opened any of his eyes He feels that today is going to be a hard day so he wants to open his eyes and see something good The Martian considers only m Martian words beautiful Besides it is hard for him to open all eyes at once so early in the morning So he opens two nonoverlapping segments of consecutive eyes More formally the Martian chooses four numbers a b c d 1abcdn and opens all eyes with numbers i such that aib or cid After the Martian opens the eyes he needs he reads all the visible characters from the left to the right and thus he sees some wordLets consider all different words the Martian can see in the morning Your task is to find out how many beautiful words are among them

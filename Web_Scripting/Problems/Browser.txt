@@ -1,0 +1,9 @@
+Browser                    
+
+httpscodeforcescomproblemsetproblem915B
+
+implementation
+
+1300
+
+Luba is surfing the Internet She currently has n opened tabs in her browser indexed from 1 to n from left to right The mouse cursor is currently located at the posth tab Luba needs to use the tabs with indices from l to r inclusive for her studies and she wants to close all the tabs that dont belong to this segment as fast as possibleEach second Luba can either try moving the cursor to the left or to the right if the cursor is currently at the tab i then she can move it to the tab maxi1a or to the tab mini1b or try closing all the tabs to the left or to the right of the cursor if the cursor is currently at the tab i she can close all the tabs with indices from segment ai1 or from segment i1b In the aforementioned expressions a and b denote the minimum and maximum index of an unclosed tab respectively For example if there were 7 tabs initially and tabs 1 2 and 7 are closed then a3 b6What is the minimum number of seconds Luba has to spend in order to leave only the tabs with initial indices from l to r inclusive opened

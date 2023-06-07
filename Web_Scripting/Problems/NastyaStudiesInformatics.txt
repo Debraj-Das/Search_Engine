@@ -1,0 +1,9 @@
+Nastya Studies Informatics                    
+
+httpscodeforcescomproblemsetproblem992B
+
+math
+
+1600
+
+Today on Informatics class Nastya learned about GCD and LCM see links below Nastya is very intelligent so she solved all the tasks momentarily and now suggests you to solve one of them as wellWe define a pair of integers ab good if GCDabx and LCMaby where GCDab denotes the greatest common divisor of a and b and LCMab denotes the least common multiple of a and bYou are given two integers x and y You are to find the number of good pairs of integers ab such that labr Note that pairs ab and ba are considered different if ab

@@ -1,0 +1,9 @@
+Delivery Club                    
+
+httpscodeforcescomproblemsetproblem875E
+
+binary search
+
+2600
+
+Petya and Vasya got employed as couriers During the working day they are to deliver packages to n different points on the line According to the companys internal rules the delivery of packages must be carried out strictly in a certain order Initially Petya is at the point with the coordinate s1 Vasya is at the point with the coordinate s2 and the clients are at the points x1x2xn in the order of the required visitThe guys agree in advance who of them will deliver the package to which of the customers and then they act as follows When the package for the ith client is delivered the one who delivers the package to the i1st client is sent to the path it can be the same person who went to the point xi or the other The friend who is not busy in delivering the current package is standing stillTo communicate with each other the guys have got walkietalkies The walkietalkies work rather poorly at great distances so Petya and Vasya want to distribute the orders so that the maximum distance between them during the day is as low as possible Help Petya and Vasya to minimize the maximum distance between them observing all delivery rules 

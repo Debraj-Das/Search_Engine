@@ -1,0 +1,9 @@
+Cherry                    
+
+https://codeforces.com/problemset/problem/1554/A
+
+greedy
+
+800
+
+You are given n integers a_1, a_2, \ldots, a_n. Find the maximum value of max(a_l, a_{l + 1}, \ldots, a_r) \cdot min(a_l, a_{l + 1}, \ldots, a_r) over all pairs (l, r) of integers for which 1 \le l < r \le n.

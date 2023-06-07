@@ -1,0 +1,9 @@
+Yet Another Card Deck                    
+
+https://codeforces.com/problemset/problem/1511/C
+
+brute force
+
+1100
+
+You have a card deck of n cards, numbered from top to bottom, i. e. the top card has index 1 and bottom card — index n. Each card has its color: the i-th card has color a_i.You should process q queries. The j-th query is described by integer t_j. For each query you should:   find the highest card in the deck with color t_j, i. e. the card with minimum index;  print the position of the card you found;  take the card and place it on top of the deck. 

@@ -1,0 +1,9 @@
+Olya and Energy Drinks                    
+
+httpscodeforcescomproblemsetproblem877D
+
+data structures
+
+2100
+
+Olya loves energy drinks She loves them so much that her room is full of empty cans from energy drinksFormally her room can be represented as a field of nm cells each cell of which is empty or littered with cansOlya drank a lot of energy drink so now she can run k meters per second Each second she chooses one of the four directions up down left or right and runs from 1 to k meters in this direction Of course she can only run through empty cellsNow Olya needs to get from cell x1y1 to cell x2y2 How many seconds will it take her if she moves optimallyIts guaranteed that cells x1y1 and x2y2 are empty These cells can coincide

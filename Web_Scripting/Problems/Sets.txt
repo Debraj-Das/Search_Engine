@@ -1,0 +1,9 @@
+Sets                    
+
+httpscodeforcescomproblemsetproblem82B
+
+constructive algorithms
+
+1700
+
+Little Vasya likes very much to play with sets consisting of positive integers To make the game more interesting Vasya chose n nonempty sets in such a way that no two of them have common elementsOne day he wanted to show his friends just how interesting playing with numbers is For that he wrote out all possible unions of two different sets on nn12 pieces of paper Then he shuffled the pieces of paper He had written out the numbers in the unions in an arbitrary orderFor example if n4 and the actual sets have the following form 13 5 24 7 then the number of set pairs equals to six The six pieces of paper can contain the following numbers   274  173  542  135  3124  57 Then Vasya showed the pieces of paper to his friends but kept the n sets secret from them His friends managed to calculate which sets Vasya had thought of in the first place And how about you can you restore the sets by the given pieces of paper

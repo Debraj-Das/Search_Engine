@@ -1,0 +1,9 @@
+Hydra                    
+
+httpscodeforcescomproblemsetproblem243B
+
+graphs
+
+2000
+
+One day Petya got a birthday present from his mom a book called The Legends and Myths of Graph Theory From this book Petya learned about a hydra graphA nonoriented graph is a hydra if it has a structure shown on the figure below Namely there are two nodes u and v connected by an edge they are the hydras chest and stomach correspondingly The chest is connected with h nodes which are the hydras heads The stomach is connected with t nodes which are the hydras tails Note that the hydra is a tree consisting of ht2 nodes  Also Petyas got a nondirected graph G consisting of n nodes and m edges Petya got this graph as a last year birthday present from his mom Graph G contains no selfloops or multiple edgesNow Petya wants to find a hydra in graph G Or else to make sure that the graph doesnt have a hydra

@@ -1,0 +1,9 @@
+Sums of Digits                    
+
+https://codeforces.com/problemset/problem/509/C
+
+dp
+
+2000
+
+Vasya had a strictly increasing sequence of positive integers a1, ..., an. Vasya used it to build a new sequence b1, ..., bn, where bi is the sum of digits of ai's decimal representation. Then sequence ai got lost and all that remained is sequence bi.Vasya wonders what the numbers ai could be like. Of all the possible options he likes the one sequence with the minimum possible last number an. Help Vasya restore the initial sequence.It is guaranteed that such a sequence always exists.

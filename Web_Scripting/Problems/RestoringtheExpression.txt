@@ -1,0 +1,9 @@
+Restoring the Expression                    
+
+https://codeforces.com/problemset/problem/898/F
+
+brute force
+
+2300
+
+A correct expression of the form a+b=c was written; a, b and c are non-negative integers without leading zeros. In this expression, the plus and equally signs were lost. The task is to restore the expression. In other words, one character '+' and one character '=' should be inserted into given sequence of digits so that:   character'+' is placed on the left of character '=',  characters '+' and '=' split the sequence into three non-empty subsequences consisting of digits (let's call the left part a, the middle part — b and the right part — c),  all the three parts a, b and c do not contain leading zeros,  it is true that a+b=c. It is guaranteed that in given tests answer always exists.

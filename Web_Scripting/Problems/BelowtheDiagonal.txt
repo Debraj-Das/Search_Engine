@@ -1,0 +1,9 @@
+Below the Diagonal                    
+
+httpscodeforcescomproblemsetproblem266C
+
+constructive algorithms
+
+2100
+
+You are given a square matrix consisting of n rows and n columns We assume that the rows are numbered from 1 to n from top to bottom and the columns are numbered from 1 to n from left to right Some cells n1 cells in total of the the matrix are filled with ones the remaining cells are filled with zeros We can apply the following operations to the matrix  Swap ith and jth rows of the matrix  Swap ith and jth columns of the matrix You are asked to transform the matrix into a special form using these operations In that special form all the ones must be in the cells that lie below the main diagonal Cell of the matrix which is located on the intersection of the ith row and of the jth column lies below the main diagonal if ij

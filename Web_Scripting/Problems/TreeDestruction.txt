@@ -1,0 +1,9 @@
+Tree Destruction                    
+
+httpscodeforcescomproblemsetproblem911F
+
+constructive algorithms
+
+2400
+
+You are given an unweighted tree with n vertices Then n1 following operations are applied to the tree A single operation consists of the following steps   choose two leaves  add the length of the simple path between them to the answer  remove one of the chosen leaves from the tree Initial answer before applying operations is 0 Obviously after n1 such operations the tree will consist of a single vertex Calculate the maximal possible answer you can achieve and construct a sequence of operations that allows you to achieve this answer

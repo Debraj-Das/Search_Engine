@@ -1,0 +1,9 @@
+Find The Bone                    
+
+httpscodeforcescomproblemsetproblem796B
+
+implementation
+
+1300
+
+Zane the wizard is going to perform a magic show shuffling the cupsThere are n cups numbered from 1 to n placed along the xaxis on a table that has m holes on it More precisely cup i is on the table at the position xiThe problematic bone is initially at the position x1 Zane will confuse the audience by swapping the cups k times the ith time of which involves the cups at the positions xui and xvi If the bone happens to be at the position where there is a hole at any time it will fall into the hole onto the ground and will not be affected by future swapping operationsDo not forget that Zane is a wizard When he swaps the cups he does not move them ordinarily Instead he teleports the cups along with the bone if it is inside to the intended positions Therefore for example when he swaps the cup at x4 and the one at x6 they will not be at the position x5 at any moment during the operation  Zanes puppy Inzane is in trouble Zane is away on his vacation and Inzane cannot find his beloved bone as it would be too exhausting to try opening all the cups Inzane knows that the Codeforces community has successfully helped Zane so he wants to see if it could help him solve his problem too Help Inzane determine the final position of the bone

@@ -1,0 +1,9 @@
+Petya and Post                    
+
+httpscodeforcescomproblemsetproblem66E
+
+data structures
+
+2000
+
+Little Vasyas uncle is a postman The post offices are located on one circular road Besides each post office has its own gas station located next to it Petyas uncle works as follows in the morning he should leave the house and go to some post office In the office he receives a portion of letters and a car Then he must drive in the given car exactly one round along the circular road and return to the starting post office the uncle can drive along the circle in any direction counterclockwise or clockwise Besides since the car belongs to the city post it should also be fuelled with gasoline only at the Post Office stations The total number of stations equals to n One can fuel the car at the ith station with no more than ai liters of gasoline Besides one can fuel the car no more than once at each station Also the distance between the 1st and the 2nd station is b1 kilometers the distance between the 2nd and the 3rd one is b2 kilometers  between the n1th and the nth ones the distance is bn1 kilometers and between the nth and the 1st one the distance is bn kilometers Petyas uncles hightech car uses only one liter of gasoline per kilometer It is known that the stations are located so that the sum of all ai is equal to the sum of all bi The ith gas station and ith post office are very close so the distance between them is 0 kilometersThus it becomes clear that if we start from some post offices then it is not always possible to drive one round along a circular road The uncle faces the following problem to what stations can he go in the morning to be able to ride exactly one circle along the circular road and visit all the post offices that are on itPetya who used to attend programming classes has volunteered to help his uncle but his knowledge turned out to be not enough so he asks you to help him write the program that will solve the posed problem

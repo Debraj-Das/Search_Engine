@@ -1,0 +1,9 @@
+Jamie and Alarm Snooze                    
+
+httpscodeforcescomproblemsetproblem916A
+
+brute force
+
+900
+
+Jamie loves sleeping One day he decides that he needs to wake up at exactly hhmm However he hates waking up so he wants to make waking up less painful by setting the alarm at a lucky time He will then press the snooze button every x minutes until hhmm is reached and only then he will wake up He wants to know what is the smallest number of times he needs to press the snooze buttonA time is considered lucky if it contains a digit 7 For example 1307 and 1727 are lucky while 0048 and 2134 are not luckyNote that it is not necessary that the time set for the alarm and the wakeup time are on the same day It is guaranteed that there is a lucky time Jamie can set so that he can wake at hhmmFormally find the smallest possible nonnegative integer y such that the time representation of the time xy minutes before hhmm contains the digit 7Jamie uses 24hours clock so after 2359 comes 0000

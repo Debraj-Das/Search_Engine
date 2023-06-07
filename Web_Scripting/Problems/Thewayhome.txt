@@ -1,0 +1,9 @@
+The way home                    
+
+https://codeforces.com/problemset/problem/1801/D
+
+binary search
+
+2100
+
+ The famous magician Borya Budini traveled through the country X, which consists of n cities. However, an accident happened, and he was robbed in the city number 1. Now Budini will have a hard way home to the city number n.He's going to get there by plane. In total, there are m flights in the country, i-th flies from city a_i to city b_i and costs s_i coins. Note that the i-th flight is one-way, so it can't be used to get from city b_i to city a_i. To use it, Borya must be in the city a_i and have at least s_i coins (which he will spend on the flight). After the robbery, he has only p coins left, but he does not despair! Being in the city i, he can organize performances every day, each performance will bring him w_i coins. Help the magician find out if he will be able to get home, and what is the minimum number of performances he will have to organize. 

@@ -1,0 +1,9 @@
+Meta-set                    
+
+https://codeforces.com/problemset/problem/1735/D
+
+brute force
+
+1700
+
+You like the card board game "Set". Each card contains k features, each of which is equal to a value from the set \{0, 1, 2\}. The deck contains all possible variants of cards, that is, there are 3^k different cards in total.A feature for three cards is called good if it is the same for these cards or pairwise distinct. Three cards are called a set if all k features are good for them.For example, the cards (0, 0, 0), (0, 2, 1), and (0, 1, 2) form a set, but the cards (0, 2, 2), (2, 1, 2), and (1, 2, 0) do not, as, for example, the last feature is not good.A group of five cards is called a meta-set, if there is strictly more than one set among them. How many meta-sets there are among given n distinct cards?

@@ -1,0 +1,9 @@
+Andrew and Stones                    
+
+https://codeforces.com/problemset/problem/1637/C
+
+greedy
+
+1200
+
+Andrew has n piles with stones. The i-th pile contains a_i stones. He wants to make his table clean so he decided to put every stone either to the 1-st or the n-th pile.Andrew can perform the following operation any number of times: choose 3 indices 1 \le i < j < k \le n, such that the j-th pile contains at least 2 stones, then he takes 2 stones from the pile j and puts one stone into pile i and one stone into pile k. Tell Andrew what is the minimum number of operations needed to move all the stones to piles 1 and n, or determine if it's impossible.

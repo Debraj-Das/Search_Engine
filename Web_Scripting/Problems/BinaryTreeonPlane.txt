@@ -1,0 +1,9 @@
+Binary Tree on Plane                    
+
+httpscodeforcescomproblemsetproblem277E
+
+flows
+
+2400
+
+A root tree is a directed acyclic graph that contains one node root from which there is exactly one path to any other nodeA root tree is binary if each node has at most two outgoing arcsWhen a binary tree is painted on the plane all arcs should be directed from top to bottom That is each arc going from u to v must meet the condition yuyvYouve been given the coordinates of all tree nodes Your task is to connect these nodes by arcs so as to get the binary root tree and make the total length of the arcs minimum All arcs of the built tree must be directed from top to bottom

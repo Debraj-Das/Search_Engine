@@ -1,0 +1,9 @@
+Johny Likes Numbers                    
+
+https://codeforces.com/problemset/problem/678/A
+
+implementation
+
+800
+
+Johny likes numbers n and k very much. Now Johny wants to find the smallest integer x greater than n, so it is divisible by the number k.

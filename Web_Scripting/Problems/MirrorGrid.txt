@@ -1,0 +1,9 @@
+Mirror Grid                    
+
+https://codeforces.com/problemset/problem/1703/E
+
+implementation
+
+1200
+
+You are given a square grid with n rows and n columns. Each cell contains either 0 or 1. In an operation, you can select a cell of the grid and flip it (from 0 \to 1 or 1 \to 0). Find the minimum number of operations you need to obtain a square that remains the same when rotated 0^{\circ}, 90^{\circ}, 180^{\circ} and 270^{\circ}.The picture below shows an example of all rotations of a grid.  

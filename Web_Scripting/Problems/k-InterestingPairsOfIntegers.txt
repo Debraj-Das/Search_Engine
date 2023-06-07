@@ -1,0 +1,9 @@
+kInteresting Pairs Of Integers                    
+
+httpscodeforcescomproblemsetproblem769D
+
+special problem
+
+1700
+
+Vasya has the sequence consisting of n integers Vasya consider the pair of integers x and y kinteresting if their binary representation differs from each other exactly in k bits For example if k2 the pair of integers x5 and y3 is kinteresting because their binary representation x101 and y011 differs exactly in two bitsVasya wants to know how many pairs of indexes i j are in his sequence so that ij and the pair of integers ai and aj is kinteresting Your task is to help Vasya and determine this number

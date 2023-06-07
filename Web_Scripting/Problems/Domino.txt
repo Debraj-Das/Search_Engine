@@ -1,0 +1,9 @@
+Domino                    
+
+httpscodeforcescomproblemsetproblem97A
+
+brute force
+
+2400
+
+Little Gennady was presented with a set of domino for his birthday The set consists of 28 different dominoes of size 21 Both halves of each domino contain one digit from 0 to 6 00 01 02 03 04 05 0611 12 13 14 15 1622 23 24 25 2633 34 35 3644 45 4655 5666The figure that consists of 28 dominoes is called magic if it can be fully covered with 14 nonintersecting squares of size 22 so that each square contained four equal numbers Every time Gennady assembles a magic figure some magic properties of the set appear  he wins the next contest Gennady noticed that he cant assemble a figure that has already been assembled otherwise someone else wins the contest  Gennady chose a checked field of size nm and put there rectangular chips of sizes 12 and 21 Each chip fully occupies exactly two neighboring squares of the field Those chips do not overlap but they can touch each other Overall the field has exactly 28 chips equal to the number of dominoes in the set Now Gennady wants to replace each chip with a domino so that a magic figure appeared as a result Different chips should be replaced by different dominoes Determine in what number of contests Gennady can win over at the given position of the chips You are also required to find one of the possible ways of replacing chips with dominoes to win the next Codeforces round

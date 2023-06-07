@@ -1,0 +1,9 @@
+Inversions After Shuffle                    
+
+httpscodeforcescomproblemsetproblem749E
+
+data structures
+
+2400
+
+You are given a permutation of integers from 1 to n Exactly once you apply the following operation to this permutation pick a random segment and shuffle its elements Formally  Pick a random segment continuous subsequence from l to r All  segments are equiprobable  Let krl1 ie the length of the chosen segment Pick a random permutation of integers from 1 to k p1p2pk All k permutation are equiprobable  This permutation is applied to elements of the chosen segment ie permutation a1a2al1alal1ar1arar1an is transformed to a1a2al1al1p1al1p2al1pk1al1pkar1an Inversion if a pair of elements not necessary neighbouring with the wrong relative order In other words the number of inversion is equal to the number of pairs ij such that ij and aiaj Find the expected number of inversions after we apply exactly one operation mentioned above

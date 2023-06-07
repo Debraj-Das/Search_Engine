@@ -1,0 +1,9 @@
+Magic Breeding                    
+
+https://codeforces.com/problemset/problem/878/D
+
+bitmasks
+
+2900
+
+Nikita and Sasha play a computer game where you have to breed some magical creatures. Initially, they have k creatures numbered from 1 to k. Creatures have n different characteristics.Sasha has a spell that allows to create a new creature from two given creatures. Each of its characteristics will be equal to the maximum of the corresponding characteristics of used creatures. Nikita has a similar spell, but in his spell, each characteristic of the new creature is equal to the minimum of the corresponding characteristics of used creatures. A new creature gets the smallest unused number.They use their spells and are interested in some characteristics of their new creatures. Help them find out these characteristics.

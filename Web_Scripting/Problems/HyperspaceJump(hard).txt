@@ -1,0 +1,9 @@
+Hyperspace Jump (hard)                    
+
+https://codeforces.com/problemset/problem/958/D2
+
+
+
+2700
+
+It is now 125 years later, but humanity is still on the run from a humanoid-cyborg race determined to destroy it. Or perhaps we are getting some stories mixed up here... In any case, the fleet is now smaller. However, in a recent upgrade, all the navigation systems have been outfitted with higher-dimensional, linear-algebraic jump processors.Now, in order to make a jump, a ship's captain needs to specify a subspace of the d-dimensional space in which the events are taking place. She does so by providing a generating set of vectors for that subspace.Princess Heidi has received such a set from the captain of each of m ships. Again, she would like to group up those ships whose hyperspace jump subspaces are equal. To do so, she wants to assign a group number between 1 and m to each of the ships, so that two ships have the same group number if and only if their corresponding subspaces are equal (even though they might be given using different sets of vectors).Help Heidi!

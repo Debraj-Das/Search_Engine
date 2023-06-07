@@ -1,0 +1,9 @@
+Doremy's Number Line                    
+
+https://codeforces.com/problemset/problem/1764/E
+
+dp
+
+2400
+
+Doremy has two arrays a and b of n integers each, and an integer k.Initially, she has a number line where no integers are colored. She chooses a permutation p of [1,2,\ldots,n] then performs n moves. On the i-th move she does the following:  Pick an uncolored integer x on the number line such that either:   x \leq a_{p_i}; or  there exists a colored integer y such that y \leq a_{p_i} and x \leq y+b_{p_i}.   Color integer x with color p_i. Determine if the integer k can be colored with color 1.

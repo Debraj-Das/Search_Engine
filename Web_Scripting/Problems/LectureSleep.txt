@@ -1,0 +1,9 @@
+Lecture Sleep                    
+
+httpscodeforcescomproblemsetproblem961B
+
+data structures
+
+1200
+
+Your friend Mishka and you attend a calculus lecture Lecture lasts n minutes Lecturer tells ai theorems during the ith minuteMishka is really interested in calculus though it is so hard to stay awake for all the time of lecture You are given an array t of Mishkas behavior If Mishka is asleep during the ith minute of the lecture then ti will be equal to 0 otherwise it will be equal to 1 When Mishka is awake he writes down all the theorems he is being told  ai during the ith minute Otherwise he writes nothingYou know some secret technique to keep Mishka awake for k minutes straight However you can use it only once You can start using it at the beginning of any minute between 1 and nk1 If you use it on some minute i then Mishka will be awake during minutes j such that  and will write down all the theorems lecturer tellsYou task is to calculate the maximum number of theorems Mishka will be able to write down if you use your technique only once to wake him up

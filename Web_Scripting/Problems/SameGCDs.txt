@@ -1,0 +1,9 @@
+Same GCDs                    
+
+https://codeforces.com/problemset/problem/1295/D
+
+math
+
+1800
+
+You are given two integers a and m. Calculate the number of integers x such that 0 \le x < m and \gcd(a, m) = \gcd(a + x, m).Note: \gcd(a, b) is the greatest common divisor of a and b.

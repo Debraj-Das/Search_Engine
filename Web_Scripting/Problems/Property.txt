@@ -1,0 +1,9 @@
+Property                    
+
+httpscodeforcescomproblemsetproblem852C
+
+greedy
+
+2100
+
+Bill is a famous mathematician in BubbleLand Thanks to his revolutionary math discoveries he was able to make enough money to build a beautiful house Unfortunately for not paying property tax on time court decided to punish Bill by making him lose a part of his propertyBills property can be observed as a convex regular 2nsided polygon A0 A1 A2n1 A2n A2n A0 with sides of the exactly 1 meter in length Court rules for removing part of his property are as follows  Split every edge Ak Ak1 k0 2n1 in n equal parts of size 1n with points P0P1Pn1  On every edge A2k A2k1 k0 n1 court will choose one point B2k Pi for some i0 n1 such that   On every edge A2k1A2k2 k0n1 Bill will choose one point B2k1 Pi for some i0 n1 such that   Bill gets to keep property inside of 2nsided polygon B0 B1 B2n1 Luckily Bill found out which B2k points the court chose Even though he is a great mathematician his house is very big and he has a hard time calculating Therefore he is asking you to help him choose points so he maximizes area of property he can keep

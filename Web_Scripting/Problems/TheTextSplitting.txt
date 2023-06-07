@@ -1,0 +1,9 @@
+The Text Splitting                    
+
+httpscodeforcescomproblemsetproblem612A
+
+brute force
+
+1300
+
+You are given the string s of length n and the numbers pq Split the string s to pieces of length p and qFor example the string Hello for p2 q3 can be split to the two strings Hel and lo or to the two strings He and lloNote it is allowed to split the string s to the strings only of length p or to the strings only of length q see the second sample test

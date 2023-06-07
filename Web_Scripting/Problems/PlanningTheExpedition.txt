@@ -1,0 +1,9 @@
+Planning The Expedition                    
+
+https://codeforces.com/problemset/problem/1011/B
+
+binary search
+
+1200
+
+Natasha is planning an expedition to Mars for n people. One of the important tasks is to provide food for each participant.The warehouse has m daily food packages. Each package has some food type a_i.Each participant must eat exactly one food package each day. Due to extreme loads, each participant must eat the same food type throughout the expedition. Different participants may eat different (or the same) types of food.Formally, for each participant j Natasha should select his food type b_j and each day j-th participant will eat one food package of type b_j. The values b_j for different participants may be different.What is the maximum possible number of days the expedition can last, following the requirements above?

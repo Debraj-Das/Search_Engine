@@ -1,0 +1,9 @@
+Land Lot                    
+
+httpscodeforcescomproblemsetproblem48B
+
+brute force
+
+1200
+
+Vasya has a beautiful garden where wonderful fruit trees grow and yield fantastic harvest every year But lately thieves started to sneak into the garden at nights and steal the fruit too often Vasya cant spend the nights in the garden and guard the fruit because theres no house in the garden Vasya had been saving in for some time and finally he decided to build the house The rest is simple he should choose in which part of the garden to build the house In the evening he sat at his table and drew the gardens plan On the plan the garden is represented as a rectangular checkered field nm in size divided into squares whose side length is 1 In some squares Vasya marked the trees growing there one shouldnt plant the trees too close to each other thats why one square contains no more than one tree Vasya wants to find a rectangular land lot ab squares in size to build a house on at that the land lot border should go along the lines of the grid that separates the squares All the trees that grow on the building lot will have to be chopped off Vasya loves his garden very much so help him choose the building land lot location so that the number of chopped trees would be as little as possible

@@ -1,0 +1,9 @@
+Bingo                    
+
+https://codeforces.com/problemset/problem/1530/F
+
+bitmasks
+
+2600
+
+Getting ready for VK Fest 2021, you prepared a table with n rows and n columns, and filled each cell of this table with some event related with the festival that could either happen or not: for example, whether you will win a prize on the festival, or whether it will rain.Forecasting algorithms used in VK have already estimated the probability for each event to happen. Event in row i and column j will happen with probability a_{i, j} \cdot 10^{-4}. All of the events are mutually independent.Let's call the table winning if there exists a line such that all n events on it happen. The line could be any horizontal line (cells (i, 1), (i, 2), \ldots, (i, n) for some i), any vertical line (cells (1, j), (2, j), \ldots, (n, j) for some j), the main diagonal (cells (1, 1), (2, 2), \ldots, (n, n)), or the antidiagonal (cells (1, n), (2, n - 1), \ldots, (n, 1)).Find the probability of your table to be winning, and output it modulo 31\,607 (see Output section).

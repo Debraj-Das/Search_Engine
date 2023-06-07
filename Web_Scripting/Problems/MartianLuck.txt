@@ -1,0 +1,9 @@
+Martian Luck                    
+
+httpscodeforcescomproblemsetproblem216E
+
+math
+
+2000
+
+You know that the Martians use a number system with base k Digit b 0bk is considered lucky as the first contact between the Martians and the Earthlings occurred in year b by Martian chronologyA digital root dx of number x is a number that consists of a single digit resulting after cascading summing of all digits of number x Word cascading means that if the first summing gives us a number that consists of several digits then we sum up all digits again and again until we get a one digit numberFor example d35047d35047d157d157d6767 In this sample the calculations are performed in the 7base notationIf a numbers digital root equals b the Martians also call this number luckyYou have string s which consists of n digits in the kbase notation system Your task is to find how many distinct substrings of the given string are lucky numbers Leading zeroes are permitted in the numbersNote that substring si j of the string sa1a2 an 1ijn is the string aiai1 aj Two substrings si1 j1 and si2 j2 of the string s are different if either i1i2 or j1j2

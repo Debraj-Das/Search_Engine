@@ -1,0 +1,9 @@
+Walking                    
+
+httpscodeforcescomproblemsetproblem578E
+
+constructive algorithms
+
+2700
+
+There is a sand trail in front of Alices homeIn daytime people walk over it and leave a footprint on the trail for their every single step Alice cannot distinguish the order of the footprints but she can tell whether each footprint is made by left foot or right foot Also shes certain that all people are walking by alternating left foot and right footFor example suppose that one person walked through the trail and left some footprints The footprints are RRLRL in order along the trail R means right foot and L means left foot You might think the outcome of the footprints is strange But in fact some steps are resulting from walking backwardsThere are some possible order of steps that produce these footprints such as 13254 or 23451 we suppose that the distance between two consecutive steps can be arbitrarily long The number of backward steps from above two examples are 2 and 1 separatelyAlice is interested in these footprints Whenever there is a person walking trough the trail she takes a picture of all these footprints along the trail and erase all of them so that next person will leave a new set of footprints We know that people walk by alternating right foot and left foot but we dont know if the first step is made by left foot or right footAlice wants to know the minimum possible number of backward steps made by a person But its a little hard Please help Alice to calculate it You also need to construct one possible history of these footprints

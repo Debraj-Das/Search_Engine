@@ -1,0 +1,9 @@
+Tree and Table                    
+
+httpscodeforcescomproblemsetproblem251E
+
+dfs and similar
+
+3000
+
+Little Petya likes trees a lot Recently his mother has presented him a tree with 2n nodes Petya immediately decided to place this tree on a rectangular table consisting of 2 rows and n columns so as to fulfill the following conditions  Each cell of the table corresponds to exactly one tree node and vice versa each tree node corresponds to exactly one table cell  If two tree nodes are connected by an edge then the corresponding cells have a common side Now Petya wonders how many ways are there to place his tree on the table He calls two placements distinct if there is a tree node which corresponds to distinct table cells in these two placements Since large numbers can scare Petya print the answer modulo 1000000007 1097

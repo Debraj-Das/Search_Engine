@@ -1,0 +1,9 @@
+Fence Painting                    
+
+https://codeforces.com/problemset/problem/1481/C
+
+brute force
+
+1600
+
+You finally woke up after this crazy dream and decided to walk around to clear your head. Outside you saw your house's fence — so plain and boring, that you'd like to repaint it.  You have a fence consisting of n planks, where the i-th plank has the color a_i. You want to repaint the fence in such a way that the i-th plank has the color b_i.You've invited m painters for this purpose. The j-th painter will arrive at the moment j and will recolor exactly one plank to color c_j. For each painter you can choose which plank to recolor, but you can't turn them down, i. e. each painter has to color exactly one plank.Can you get the coloring b you want? If it's possible, print for each painter which plank he must paint.

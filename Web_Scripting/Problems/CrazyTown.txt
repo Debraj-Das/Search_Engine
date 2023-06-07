@@ -1,0 +1,9 @@
+Crazy Town                    
+
+httpscodeforcescomproblemsetproblem498A
+
+geometry
+
+1700
+
+Crazy Town is a plane on which there are n infinite line roads Each road is defined by the equation aixbiyci0 where ai and bi are not both equal to the zero The roads divide the plane into connected regions possibly of infinite space Lets call each such region a block We define an intersection as the point where at least two different roads intersectYour home is located in one of the blocks Today you need to get to the University also located in some block In one step you can move from one block to another if the length of their common border is nonzero in particular this means that if the blocks are adjacent to one intersection but have no shared nonzero boundary segment then it are not allowed to move from one to another one in one stepDetermine what is the minimum number of steps you have to perform to get to the block containing the university It is guaranteed that neither your home nor the university is located on the road

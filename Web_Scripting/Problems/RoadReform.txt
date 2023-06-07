@@ -1,0 +1,9 @@
+Road Reform                    
+
+https://codeforces.com/problemset/problem/1468/J
+
+dsu
+
+1800
+
+There are n cities and m bidirectional roads in Berland. The i-th road connects the cities x_i and y_i, and has the speed limit s_i. The road network allows everyone to get from any city to any other city. The Berland Transport Ministry is planning a road reform.First of all, maintaining all m roads is too costly, so m - (n - 1) roads will be demolished in such a way that the remaining (n - 1) roads still allow to get to any city from any other city. Formally, the remaining roads should represent an undirected tree.Secondly, the speed limits on the remaining roads might be changed. The changes will be done sequentially, each change is either increasing the speed limit on some road by 1, or decreasing it by 1. Since changing the speed limit requires a lot of work, the Ministry wants to minimize the number of changes.The goal of the Ministry is to have a road network of (n - 1) roads with the maximum speed limit over all roads equal to exactly k. They assigned you the task of calculating the minimum number of speed limit changes they have to perform so the road network meets their requirements.For example, suppose the initial map of Berland looks like that, and k = 7:  Then one of the optimal courses of action is to demolish the roads 1–4 and 3–4, and then decrease the speed limit on the road 2–3 by 1, so the resulting road network looks like that:  

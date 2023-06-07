@@ -1,0 +1,9 @@
+Dispute                    
+
+httpscodeforcescomproblemsetproblem242D
+
+dfs and similar
+
+2100
+
+Valera has n counters numbered from 1 to n Some of them are connected by wires and each of the counters has a special buttonInitially all the counters contain number 0 When you press a button on a certain counter the value it has increases by one Also the values recorded in all the counters directly connected to it by a wire increase by oneValera and Ignat started having a dispute the dispute is as follows Ignat thought of a sequence of n integers a1a2an Valera should choose some set of distinct counters and press buttons on each of them exactly once on other counters the buttons wont be pressed If after that there is a counter with the number i which has value ai then Valera loses the dispute otherwise he wins the disputeHelp Valera to determine on which counters he needs to press a button to win the dispute

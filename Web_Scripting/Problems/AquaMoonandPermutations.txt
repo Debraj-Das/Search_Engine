@@ -1,0 +1,9 @@
+AquaMoon and Permutations                    
+
+https://codeforces.com/problemset/problem/1545/C
+
+2-sat
+
+2800
+
+Cirno has prepared n arrays of length n each. Each array is a permutation of n integers from 1 to n. These arrays are special: for all 1 \leq i \leq n, if we take the i-th element of each array and form another array of length n with these elements, the resultant array is also a permutation of n integers from 1 to n. In the other words, if you put these n arrays under each other to form a matrix with n rows and n columns, this matrix is a Latin square.Afterwards, Cirno added additional n arrays, each array is a permutation of n integers from 1 to n. For all 1 \leq i \leq n, there exists at least one position 1 \leq k \leq n, such that for the i-th array and the (n + i)-th array, the k-th element of both arrays is the same. Notice that the arrays indexed from n + 1 to 2n don't have to form a Latin square. Also, Cirno made sure that for all 2n arrays, no two arrays are completely equal, i. e. for all pair of indices 1 \leq i < j \leq 2n, there exists at least one position 1 \leq k \leq n, such that the k-th elements of the i-th and j-th array are different.Finally, Cirno arbitrarily changed the order of 2n arrays.AquaMoon calls a subset of all 2n arrays of size n good if these arrays from a Latin square.AquaMoon wants to know how many good subsets exist. Because this number may be particularly large, find it modulo 998\,244\,353. Also, she wants to find any good subset. Can you help her?

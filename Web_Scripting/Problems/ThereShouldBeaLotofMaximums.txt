@@ -1,0 +1,9 @@
+There Should Be a Lot of Maximums                    
+
+https://codeforces.com/problemset/problem/1805/E
+
+brute force
+
+2300
+
+You are given a tree (a connected graph without cycles). Each vertex of the tree contains an integer. Let's define the \mathrm{MAD} (maximum double) parameter of the tree as the maximum integer that occurs in the vertices of the tree at least 2 times. If no number occurs in the tree more than once, then we assume \mathrm{MAD}=0.Note that if you remove an edge from the tree, it splits into two trees. Let's compute the \mathrm{MAD} parameters of the two trees and take the maximum of the two values. Let the result be the value of the deleted edge.For each edge, find its value. Note that we don't actually delete any edges from the tree, the values are to be found independently.

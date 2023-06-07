@@ -1,0 +1,9 @@
+Lisa's Sequences                    
+
+https://codeforces.com/problemset/problem/1773/L
+
+dp
+
+3500
+
+Lisa loves playing with the sequences of integers. When she gets a new integer sequence a_i of length n, she starts looking for all monotone subsequences. A monotone subsequence [l, r] is defined by two indices l and r (1 \le l < r \le n) such that \forall i = l, l+1, \ldots, r-1: a_i \le a_{i+1} or \forall i = l, l+1, \ldots, r-1: a_i \ge a_{i+1}. Lisa considers a sequence a_i to be boring if there is a monotone subsequence [l, r] that is as long as her boredom threshold k, that is when r - l + 1 = k.Lucas has a sequence b_i that he wants to present to Lisa, but the sequence might be boring for Lisa. So, he wants to change some elements of his sequence b_i, so that Lisa does not get bored playing with it. However, Lucas is lazy and wants to change as few elements of the sequence b_i as possible. Your task is to help Lucas find the required changes. 

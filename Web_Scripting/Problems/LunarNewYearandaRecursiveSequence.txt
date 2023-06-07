@@ -1,0 +1,9 @@
+Lunar New Year and a Recursive Sequence                    
+
+https://codeforces.com/problemset/problem/1106/F
+
+math
+
+2400
+
+Lunar New Year is approaching, and Bob received a gift from his friend recently — a recursive sequence! He loves this sequence very much and wants to play with it.Let f_1, f_2, \ldots, f_i, \ldots be an infinite sequence of positive integers. Bob knows that for i > k, f_i can be obtained by the following recursive equation:f_i = \left(f_{i - 1} ^ {b_1} \cdot f_{i - 2} ^ {b_2} \cdot \cdots \cdot f_{i - k} ^ {b_k}\right) \bmod p,which in short isf_i = \left(\prod_{j = 1}^{k} f_{i - j}^{b_j}\right) \bmod p,where p = 998\,244\,353 (a widely-used prime), b_1, b_2, \ldots, b_k are known integer constants, and x \bmod y denotes the remainder of x divided by y.Bob lost the values of f_1, f_2, \ldots, f_k, which is extremely troublesome – these are the basis of the sequence! Luckily, Bob remembers the first k - 1 elements of the sequence: f_1 = f_2 = \ldots = f_{k - 1} = 1 and the n-th element: f_n = m. Please find any possible value of f_k. If no solution exists, just tell Bob that it is impossible to recover his favorite sequence, regardless of Bob's sadness.

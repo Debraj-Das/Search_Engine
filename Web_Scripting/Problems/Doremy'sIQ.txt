@@ -1,0 +1,9 @@
+Doremy's IQ                    
+
+https://codeforces.com/problemset/problem/1707/A
+
+binary search
+
+1600
+
+Doremy is asked to test n contests. Contest i can only be tested on day i. The difficulty of contest i is a_i. Initially, Doremy's IQ is q. On day i Doremy will choose whether to test contest i or not. She can only test a contest if her current IQ is strictly greater than 0.If Doremy chooses to test contest i on day i, the following happens:   if a_i>q, Doremy will feel she is not wise enough, so q decreases by 1;  otherwise, nothing changes.  If she chooses not to test a contest, nothing changes.Doremy wants to test as many contests as possible. Please give Doremy a solution.

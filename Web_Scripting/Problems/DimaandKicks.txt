@@ -1,0 +1,9 @@
+Dima and Kicks                    
+
+httpscodeforcescomproblemsetproblem358E
+
+brute force
+
+2300
+
+Dima is a good person In fact hes great But all good things come to an endSeryozha is going to kick Dima just few times For this reason he divides the room into unit squares Now the room is a rectangle nm consisting of unit squaresFor the beginning Seryozha put Dima in a center of some square Then he started to kick Dima it is known that he kicks Dima at least once Each time when Dima is kicked he flyes up and moves into one of four directions up left right down On each move Dima passes k k1 unit of the length in the corresponding direction Seryozha is really kind so he kicks Dima in such way that Dima never meets the walls in other words Dima never leave the rooms space Seryozha is also dynamic character so Dima never flies above the same segment connecting a pair of adjacent squares twiceSeryozha kicks Dima for a long time but Dima is not vindictive  Dima writes Dima marked all squares in which he was staying or above which he was flying Thanks to kicks Dima does not remember the k value so he asks you to find all possible values which matches to the Dimas records

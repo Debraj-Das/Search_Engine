@@ -1,0 +1,9 @@
+Voting for Photos                    
+
+https://codeforces.com/problemset/problem/637/A
+
+*special problem
+
+1000
+
+After celebrating the midcourse the students of one of the faculties of the Berland State University decided to conduct a vote for the best photo. They published the photos in the social network and agreed on the rules to choose a winner: the photo which gets most likes wins. If multiple photoes get most likes, the winner is the photo that gets this number first.Help guys determine the winner photo by the records of likes.

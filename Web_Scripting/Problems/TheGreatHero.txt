@@ -1,0 +1,9 @@
+The Great Hero                    
+
+https://codeforces.com/problemset/problem/1480/B
+
+greedy
+
+900
+
+The great hero guards the country where Homer lives. The hero has attack power A and initial health value B. There are n monsters in front of the hero. The i-th monster has attack power a_i and initial health value b_i. The hero or a monster is said to be living, if his or its health value is positive (greater than or equal to 1); and he or it is said to be dead, if his or its health value is non-positive (less than or equal to 0).In order to protect people in the country, the hero will fight with monsters until either the hero is dead or all the monsters are dead.  In each fight, the hero can select an arbitrary living monster and fight with it. Suppose the i-th monster is selected, and the health values of the hero and the i-th monster are x and y before the fight, respectively. After the fight, the health values of the hero and the i-th monster become x-a_i and y-A, respectively. Note that the hero can fight the same monster more than once.For the safety of the people in the country, please tell them whether the great hero can kill all the monsters (even if the great hero himself is dead after killing the last monster).

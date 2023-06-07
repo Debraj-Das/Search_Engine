@@ -1,0 +1,9 @@
+Lunch Rush                    
+
+httpscodeforcescomproblemsetproblem276A
+
+implementation
+
+900
+
+Having written another programming contest three Rabbits decided to grab some lunch The coach gave the team exactly k time units for the lunch breakThe Rabbits have a list of n restaurants to lunch in the ith restaurant is characterized by two integers fi and ti Value ti shows the time the Rabbits need to lunch in the ith restaurant If time ti exceeds the time k that the coach has given for the lunch break then the Rabbits joy from lunching in this restaurant will equal fitik Otherwise the Rabbits get exactly fi units of joyYour task is to find the value of the maximum joy the Rabbits can get from the lunch depending on the restaurant The Rabbits must choose exactly one restaurant to lunch in Note that the joy value isnt necessarily a positive value 

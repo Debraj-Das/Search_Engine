@@ -1,0 +1,9 @@
+Portal                    
+
+https://codeforces.com/problemset/problem/1580/A
+
+brute force
+
+1700
+
+CQXYM found a rectangle A of size n \times m. There are n rows and m columns of blocks. Each block of the rectangle is an obsidian block or empty. CQXYM can change an obsidian block to an empty block or an empty block to an obsidian block in one operation.A rectangle M size of a \times b is called a portal if and only if it satisfies the following conditions:  a \geq 5,b \geq 4.  For all 1 < x < a, blocks M_{x,1} and M_{x,b} are obsidian blocks.  For all 1 < x < b, blocks M_{1,x} and M_{a,x} are obsidian blocks.  For all 1<x<a,1<y<b, block M_{x,y} is an empty block.  M_{1, 1}, M_{1, b}, M_{a, 1}, M_{a, b} can be any type.  Note that the there must be a rows and b columns, not b rows and a columns.Note that corners can be any typeCQXYM wants to know the minimum number of operations he needs to make at least one sub-rectangle a portal.

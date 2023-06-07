@@ -1,0 +1,9 @@
+Punctuation                    
+
+https://codeforces.com/problemset/problem/147/A
+
+implementation
+
+1300
+
+You are given a text that consists of lowercase Latin letters, spaces and punctuation marks (dot, comma, exclamation mark and question mark). A word is defined as a sequence of consecutive Latin letters.Your task is to add spaces to the text by the following rules:  if there is no punctuation mark between two words, then they should be separated by exactly one space  there should be no spaces before each punctuation mark  there should be exactly one space after each punctuation mark It is guaranteed that there is at least one word between any two punctuation marks. The text begins and ends with a Latin letter.

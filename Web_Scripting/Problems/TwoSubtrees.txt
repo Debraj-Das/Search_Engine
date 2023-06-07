@@ -1,0 +1,9 @@
+Two Subtrees                    
+
+https://codeforces.com/problemset/problem/1767/F
+
+data structures
+
+3100
+
+You are given a rooted tree consisting of n vertices. The vertex 1 is the root. Each vertex has an integer written on it; this integer is val_i for the vertex i.You are given q queries to the tree. The i-th query is represented by two vertices, u_i and v_i. To answer the query, consider all vertices w that lie in the subtree of u_i or v_i (if a vertex is in both subtrees, it is counted twice). For all vertices in these two subtrees, list all integers written on them, and find the integer with the maximum number of occurrences. If there are multiple integers with maximum number of occurrences, the minimum among them is the answer.

@@ -1,0 +1,9 @@
+Interesting Sections                    
+
+https://codeforces.com/problemset/problem/1609/F
+
+data structures
+
+2800
+
+  William has an array of non-negative numbers a_1, a_2, \dots, a_n. He wants you to find out how many segments l \le r pass the check. The check is performed in the following manner:   The minimum and maximum numbers are found on the segment of the array starting at l and ending at r.  The check is considered to be passed if the binary representation of the minimum and maximum numbers have the same number of bits equal to 1. 

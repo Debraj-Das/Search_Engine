@@ -1,0 +1,9 @@
+Cyclic Rotation                    
+
+https://codeforces.com/problemset/problem/1672/D
+
+constructive algorithms
+
+1700
+
+There is an array a of length n. You may perform the following operation any number of times:  Choose two indices l and r where 1 \le l < r \le n and a_l = a_r. Then, set a[l \ldots r] = [a_{l+1}, a_{l+2}, \ldots, a_r, a_l]. You are also given another array b of length n which is a permutation of a. Determine whether it is possible to transform array a into an array b using the above operation some number of times.

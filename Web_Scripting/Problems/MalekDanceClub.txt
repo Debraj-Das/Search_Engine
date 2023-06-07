@@ -1,0 +1,9 @@
+Malek Dance Club                    
+
+httpscodeforcescomproblemsetproblem319A
+
+combinatorics
+
+1600
+
+As a tradition every year before IOI all the members of Natalia Fan Club are invited to Malek Dance Club to have a fun night together Malek Dance Club has 2n members and coincidentally Natalia Fan Club also has 2n members Each member of MDC is assigned a unique id i from 0 to 2n1 The same holds for each member of NFCOne of the parts of this tradition is one by one dance where each member of MDC dances with a member of NFC A dance pair is a pair of numbers ab such that member a from MDC dances with member b from NFCThe complexity of a pairs assignment is the number of pairs of dancing pairs ab and cd such that ac and bdYou are given a binary number of length n named x We know that member i from MDC dances with member  from NFC Your task is to calculate the complexity of this assignment modulo 1000000007 1097Expression  denotes applying XOR to numbers x and y This operation exists in all modern programming languages for example in C and Java it denotes as  in Pascal  xor

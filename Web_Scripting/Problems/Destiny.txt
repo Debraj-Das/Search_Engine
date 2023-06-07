@@ -1,0 +1,9 @@
+Destiny                    
+
+httpscodeforcescomproblemsetproblem840D
+
+data structures
+
+2500
+
+Once Leha found in the left pocket an array consisting of n integers and in the right pocket q queries of the form l r k If there are queries then they must be answered Answer for the query is minimal x such that x occurs in the interval l r strictly more than  times or 1 if there is no such number Help Leha with such a difficult task

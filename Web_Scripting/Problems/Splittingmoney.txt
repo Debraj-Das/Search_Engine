@@ -1,0 +1,9 @@
+Splitting money                    
+
+https://codeforces.com/problemset/problem/1046/F
+
+implementation
+
+1400
+
+After finding and moving to the new planet that supports human life, discussions started on which currency should be used. After long negotiations, Bitcoin was ultimately chosen as the universal currency.These were the great news for Alice, whose grandfather got into Bitcoin mining in 2013, and accumulated a lot of them throughout the years. Unfortunately, when paying something in bitcoin everyone can see how many bitcoins you have in your public address wallet. This worried Alice, so she decided to split her bitcoins among multiple different addresses, so that every address has at most x satoshi (1 bitcoin = 10^8 satoshi). She can create new public address wallets for free and is willing to pay f fee in satoshi per transaction to ensure acceptable speed of transfer. The fee is deducted from the address the transaction was sent from. Tell Alice how much total fee in satoshi she will need to pay to achieve her goal.

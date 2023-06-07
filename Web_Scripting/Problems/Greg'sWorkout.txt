@@ -1,0 +1,9 @@
+Gregs Workout                    
+
+httpscodeforcescomproblemsetproblem255A
+
+implementation
+
+800
+
+Greg is a beginner bodybuilder Today the gym coach gave him the training plan All it had was n integers a1a2an These numbers mean that Greg needs to do exactly n exercises today Besides Greg should repeat the ith in order exercise ai timesGreg now only does three types of exercises chest exercises biceps exercises and back exercises Besides his training is cyclic that is the first exercise he does is a chest one the second one is biceps the third one is back the fourth one is chest the fifth one is biceps and so on to the nth exerciseNow Greg wonders which muscle will get the most exercise during his training We know that the exercise Greg repeats the maximum number of times trains the corresponding muscle the most Help Greg determine which muscle will get the most training

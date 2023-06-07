@@ -1,0 +1,9 @@
+Reverse Sort                    
+
+https://codeforces.com/problemset/problem/1605/B
+
+greedy
+
+1000
+
+Ashish has a binary string s of length n that he wants to sort in non-decreasing order.He can perform the following operation:   Choose a subsequence of any length such that its elements are in non-increasing order. Formally, choose any k such that 1 \leq k \leq n and any sequence of k indices 1 \le i_1 \lt i_2 \lt \ldots \lt i_k \le n such that s_{i_1} \ge s_{i_2} \ge \ldots \ge s_{i_k}.  Reverse this subsequence in-place. Formally, swap s_{i_1} with s_{i_k}, swap s_{i_2} with s_{i_{k-1}}, \ldots and swap s_{i_{\lfloor k/2 \rfloor}} with s_{i_{\lceil k/2 \rceil + 1}} (Here \lfloor x \rfloor denotes the largest integer not exceeding x, and \lceil x \rceil denotes the smallest integer not less than x) Find the minimum number of operations required to sort the string in non-decreasing order. It can be proven that it is always possible to sort the given binary string in at most n operations.

@@ -1,0 +1,9 @@
+Cookies                    
+
+https://codeforces.com/problemset/problem/1099/F
+
+binary search
+
+2400
+
+Mitya and Vasya are playing an interesting game. They have a rooted tree with n vertices, and the vertices are indexed from 1 to n. The root has index 1. Every other vertex i \ge 2 has its parent p_i, and vertex i is called a child of vertex p_i.There are some cookies in every vertex of the tree: there are x_i cookies in vertex i. It takes exactly t_i time for Mitya to eat one cookie in vertex i. There is also a chip, which is initially located in the root of the tree, and it takes l_i time to move the chip along the edge connecting vertex i with its parent.Mitya and Vasya take turns playing, Mitya goes first.  Mitya moves the chip from the vertex, where the chip is located, to one of its children.  Vasya can remove an edge from the vertex, where the chip is located, to one of its children. Vasya can also decide to skip his turn.   Mitya can stop the game at any his turn. Once he stops the game, he moves the chip up to the root, eating some cookies along his way. Mitya can decide how many cookies he would like to eat in every vertex on his way. The total time spent on descend, ascend and eating cookies should not exceed T. Please note that in the end of the game the chip is always located in the root of the tree: Mitya can not leave the chip in any other vertex, even if he has already eaten enough cookies — he must move the chip back to the root (and every move from vertex v to its parent takes l_v time).Find out what is the maximum number of cookies Mitya can eat, regardless of Vasya's actions.

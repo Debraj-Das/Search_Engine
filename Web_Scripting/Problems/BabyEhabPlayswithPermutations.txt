@@ -1,0 +1,9 @@
+Baby Ehab Plays with Permutations                    
+
+https://codeforces.com/problemset/problem/1516/E
+
+combinatorics
+
+2500
+
+This time around, Baby Ehab will play with permutations. He has n cubes arranged in a row, with numbers from 1 to n written on them. He'll make exactly j operations. In each operation, he'll pick up 2 cubes and switch their positions.He's wondering: how many different sequences of cubes can I have at the end? Since Baby Ehab is a turbulent person, he doesn't know how many operations he'll make, so he wants the answer for every possible j between 1 and k.

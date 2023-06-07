@@ -1,0 +1,9 @@
+Paper Airplanes                    
+
+https://codeforces.com/problemset/problem/965/A
+
+math
+
+800
+
+To make a paper airplane, one has to use a rectangular piece of paper. From a sheet of standard size you can make s airplanes.A group of k people decided to make n airplanes each. They are going to buy several packs of paper, each of them containing p sheets, and then distribute the sheets between the people. Each person should have enough sheets to make n airplanes. How many packs should they buy?

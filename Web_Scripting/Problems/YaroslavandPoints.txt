@@ -1,0 +1,9 @@
+Yaroslav and Points                    
+
+httpscodeforcescomproblemsetproblem295E
+
+data structures
+
+2500
+
+Yaroslav has n points that lie on the Ox axis The coordinate of the first point is x1 the coordinate of the second point is x2  the coordinate of the nth point is  xn Now Yaroslav wants to execute m queries each of them is of one of the two following types  Move the pjth point from position xpj to position xpjdj At that it is guaranteed that after executing such query all coordinates of the points will be distinct  Count the sum of distances between all pairs of points that lie on the segment ljrj ljrj In other words you should count the sum of  Help Yaroslav

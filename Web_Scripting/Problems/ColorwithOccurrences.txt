@@ -1,0 +1,9 @@
+Color with Occurrences                    
+
+https://codeforces.com/problemset/problem/1714/D
+
+brute force
+
+1600
+
+You are given some text t and a set of n strings s_1, s_2, \dots, s_n. In one step, you can choose any occurrence of any string s_i in the text t and color the corresponding characters of the text in red. For example, if t=\texttt{bababa} and s_1=\texttt{ba}, s_2=\texttt{aba}, you can get t=\color{red}{\texttt{ba}}\texttt{baba}, t=\texttt{b}\color{red}{\texttt{aba}}\texttt{ba} or t=\texttt{bab}\color{red}{\texttt{aba}} in one step.You want to color all the letters of the text t in red. When you color a letter in red again, it stays red.In the example above, three steps are enough:  Let's color t[2 \dots 4]=s_2=\texttt{aba} in red, we get t=\texttt{b}\color{red}{\texttt{aba}}\texttt{ba};  Let's color t[1 \dots 2]=s_1=\texttt{ba} in red, we get t=\color{red}{\texttt{baba}}\texttt{ba};  Let's color t[4 \dots 6]=s_2=\texttt{aba} in red, we get t=\color{red}{\texttt{bababa}}. Each string s_i can be applied any number of times (or not at all). Occurrences for coloring can intersect arbitrarily.Determine the minimum number of steps needed to color all letters t in red and how to do it. If it is impossible to color all letters of the text t in red, output -1.

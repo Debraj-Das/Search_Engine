@@ -1,0 +1,9 @@
+Souvenirs                    
+
+httpscodeforcescomproblemsetproblem765F
+
+data structures
+
+3100
+
+Artsem is on vacation and wants to buy souvenirs for his two teammates There are n souvenir shops along the street In ith shop Artsem can buy one souvenir for ai dollars and he cannot buy more than one souvenir in one shop He doesnt want to introduce envy in his team so he wants to buy two souvenirs with least possible difference in priceArtsem has visited the shopping street m times For some strange reason on the ith day only shops with numbers from li to ri were operating weird yes it is but have you ever tried to come up with a reasonable legend for a range query problem For each visit Artsem wants to know the minimum possible difference in prices of two different souvenirs he can buy in the opened shopsIn other words for each Artsems visit you should find the minimum possible value of asat where listri st

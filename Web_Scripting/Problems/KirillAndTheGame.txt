@@ -1,0 +1,9 @@
+Kirill And The Game                    
+
+httpscodeforcescomproblemsetproblem842A
+
+brute force
+
+1200
+
+Kirill plays a new computer game He came to the potion store where he can buy any potion Each potion is characterized by two integers amount of experience and cost The efficiency of a potion is the ratio of the amount of experience to the cost Efficiency may be a noninteger numberFor each two integer numbers a and b such that lar and xby there is a potion with experience a and cost b in the store that is there are rl1yx1 potionsKirill wants to buy a potion which has efficiency k Will he be able to do this

@@ -1,0 +1,9 @@
+Hexakosioihexekontahexaphobia                    
+
+https://codeforces.com/problemset/problem/470/B
+
+*special problem
+
+1800
+
+This (unpronounceable) word means simply fear of number 666. You are given a string of digits. Check whether it is scary for a person suffering from this phobia, i.e., whether it contains number 666 as a substring.

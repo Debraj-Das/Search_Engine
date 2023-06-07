@@ -1,0 +1,9 @@
+Image                    
+
+https://codeforces.com/problemset/problem/1721/A
+
+greedy
+
+800
+
+You have an image file of size 2 \times 2, consisting of 4 pixels. Each pixel can have one of 26 different colors, denoted by lowercase Latin letters.You want to recolor some of the pixels of the image so that all 4 pixels have the same color. In one move, you can choose no more than two pixels of the same color and paint them into some other color (if you choose two pixels, both should be painted into the same color).What is the minimum number of moves you have to make in order to fulfill your goal?

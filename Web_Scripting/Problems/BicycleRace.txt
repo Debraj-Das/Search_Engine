@@ -1,0 +1,9 @@
+Bicycle Race                    
+
+https://codeforces.com/problemset/problem/659/D
+
+geometry
+
+1500
+
+Maria participates in a bicycle race.The speedway takes place on the shores of Lake Lucerne, just repeating its contour. As you know, the lake shore consists only of straight sections, directed to the north, south, east or west.Let's introduce a system of coordinates, directing the Ox axis from west to east, and the Oy axis from south to north. As a starting position of the race the southernmost point of the track is selected (and if there are several such points, the most western among them). The participants start the race, moving to the north. At all straight sections of the track, the participants travel in one of the four directions (north, south, east or west) and change the direction of movement only in bends between the straight sections. The participants, of course, never turn back, that is, they do not change the direction of movement from north to south or from east to west (or vice versa).Maria is still young, so she does not feel confident at some turns. Namely, Maria feels insecure if at a failed or untimely turn, she gets into the water. In other words, Maria considers the turn dangerous if she immediately gets into the water if it is ignored.Help Maria get ready for the competition — determine the number of dangerous turns on the track.

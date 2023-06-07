@@ -1,0 +1,9 @@
+Datatypes                    
+
+httpscodeforcescomproblemsetproblem108B
+
+math
+
+1400
+
+Tattahs youngest brother Tuftuf is new to programmingSince his older brother is such a good programmer his biggest dream is to outshine him Tuftuf is a student at the German University in Cairo GUC where he learns to write programs in GavaToday Tuftuf was introduced to Gavas unsigned integer datatypes Gava has n unsigned integer datatypes of sizes in bits a1a2 an The ith datatype have size ai bits so it can represent every integer between 0 and 2ai1 inclusive Tuftuf is thinking of learning a better programming language If there exists an integer x such that x fits in some type i in ai bits and xx does not fit in some other type j in aj bits where aiaj then Tuftuf will stop using GavaYour task is to determine Tuftufs destiny

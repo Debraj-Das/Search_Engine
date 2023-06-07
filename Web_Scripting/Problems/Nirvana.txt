@@ -1,0 +1,9 @@
+Nirvana                    
+
+https://codeforces.com/problemset/problem/1143/B
+
+brute force
+
+1200
+
+Kurt reaches nirvana when he finds the product of all the digits of some positive integer. Greater value of the product makes the nirvana deeper.Help Kurt find the maximum possible product of digits among all integers from 1 to n.

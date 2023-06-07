@@ -1,0 +1,9 @@
+2+ doors                    
+
+https://codeforces.com/problemset/problem/1715/D
+
+2-sat
+
+1900
+
+The Narrator has an integer array a of length n, but he will only tell you the size n and q statements, each of them being three integers i, j, x, which means that a_i \mid a_j = x, where | denotes the bitwise OR operation.Find the lexicographically smallest array a that satisfies all the statements.An array a is lexicographically smaller than an array b of the same length if and only if the following holds:   in the first position where a and b differ, the array a has a smaller element than the corresponding element in b. 

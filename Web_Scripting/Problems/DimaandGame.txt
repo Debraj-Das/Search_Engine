@@ -1,0 +1,9 @@
+Dima and Game                    
+
+httpscodeforcescomproblemsetproblem273E
+
+dp
+
+2600
+
+Dima and Anya love playing different games Now Dima has imagined a new game that he wants to play with AnyaDima writes n pairs of integers on a piece of paper liri 1lirip Then players take turns On his turn the player can do the following actions  choose the number of the pair i 1in such that rili2  replace pair number i by pair  or by pair  Notation x means rounding down to the closest integer The player who cant make a move losesOf course Dima wants Anya who will move first to win Thats why Dima should write out such n pairs of integers liri 1lirip that if both players play optimally well the first one wins Count the number of ways in which Dima can do it Print the remainder after dividing the answer by number 10000000071097Two ways are considered distinct if the ordered sequences of the written pairs are distinct

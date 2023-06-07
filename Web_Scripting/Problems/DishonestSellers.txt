@@ -1,0 +1,9 @@
+Dishonest Sellers                    
+
+https://codeforces.com/problemset/problem/779/C
+
+constructive algorithms
+
+1200
+
+Igor found out discounts in a shop and decided to buy n items. Discounts at the store will last for a week and Igor knows about each item that its price now is ai, and after a week of discounts its price will be bi.Not all of sellers are honest, so now some products could be more expensive than after a week of discounts.Igor decided that buy at least k of items now, but wait with the rest of the week in order to save money as much as possible. Your task is to determine the minimum money that Igor can spend to buy all n items.

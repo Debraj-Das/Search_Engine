@@ -1,0 +1,9 @@
+Beautiful Function                    
+
+httpscodeforcescomproblemsetproblem593C
+
+constructive algorithms
+
+2200
+
+Every day Ruslan tried to count sheep to fall asleep but this didnt help Now he has found a more interesting thing to do First he thinks of some set of circles on a plane and then tries to choose a beautiful set of points such that there is at least one point from the set inside or on the border of each of the imagined circlesYesterday Ruslan tried to solve this problem for the case when the set of points is considered beautiful if it is given as xtftytgt where argument t takes all integer values from 0 to 50 Moreover ft and gt should be correct functionsAssume that wt and ht are some correct functions and c is an integer ranging from 0 to 50 The function st is correct if its obtained by one of the following rules  stabswt where absx means taking the absolute value of a number x ie x stwtht stwtht stwtht where  means multiplication ie wtht stc sttYesterday Ruslan thought on and on but he could not cope with the task Now he asks you to write a program that computes the appropriate ft and gt for any set of at most 50 circlesIn each of the functions ft and gt you are allowed to use no more than 50 multiplications The length of any function should not exceed 100n characters The function should not contain spacesRuslan cant keep big numbers in his memory so you should choose ft and gt such that for all integer t from 0 to 50 value of ft and gt and all the intermediate calculations wont exceed 109 by their absolute value

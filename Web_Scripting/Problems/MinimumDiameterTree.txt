@@ -1,0 +1,9 @@
+Minimum Diameter Tree                    
+
+https://codeforces.com/problemset/problem/1085/D
+
+constructive algorithms
+
+1700
+
+You are given a tree (an undirected connected graph without cycles) and an integer s.Vanya wants to put weights on all edges of the tree so that all weights are non-negative real numbers and their sum is s. At the same time, he wants to make the diameter of the tree as small as possible.Let's define the diameter of a weighed tree as the maximum sum of the weights of the edges lying on the path between two some vertices of the tree. In other words, the diameter of a weighed tree is the length of the longest simple path in the tree, where length of a path is equal to the sum of weights over all edges in the path.Find the minimum possible diameter that Vanya can get.

@@ -1,0 +1,9 @@
+One Node is Gone                    
+
+https://codeforces.com/problemset/problem/1228/F
+
+constructive algorithms
+
+2500
+
+You have an integer n. Let's define following tree generation as McDic's generation:  Make a complete and full binary tree of 2^{n} - 1 vertices. Complete and full binary tree means a tree that exactly one vertex is a root, all leaves have the same depth (distance from the root), and all non-leaf nodes have exactly two child nodes.  Select a non-root vertex v from that binary tree.  Remove v from tree and make new edges between v's parent and v's direct children. If v has no children, then no new edges will be made. You have a tree. Determine if this tree can be made by McDic's generation. If yes, then find the parent vertex of removed vertex in tree.

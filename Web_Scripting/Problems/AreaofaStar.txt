@@ -1,0 +1,9 @@
+Area of a Star                    
+
+httpscodeforcescomproblemsetproblem630P
+
+geometry
+
+2100
+
+It was decided in IT City to distinguish successes of local IT companies by awards in the form of stars covered with gold from one side To order the stars it is necessary to estimate order cost that depends on the area of goldplating Write a program that can calculate the area of a starA star figure having n5 corners where n is a prime number is constructed the following way On the circle of radius r n points are selected so that the distances between the adjacent ones are equal Then every point is connected by a segment with two maximally distant points All areas bounded by the segments parts are the figure parts  

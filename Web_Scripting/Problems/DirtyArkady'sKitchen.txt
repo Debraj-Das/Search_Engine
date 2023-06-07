@@ -1,0 +1,9 @@
+Dirty Arkady's Kitchen                    
+
+https://codeforces.com/problemset/problem/827/F
+
+data structures
+
+3200
+
+Arkady likes to walk around his kitchen. His labyrinthine kitchen consists of several important places connected with passages. Unfortunately it happens that these passages are flooded with milk so that it's impossible to pass through them. Namely, it's possible to pass through each passage in any direction only during some time interval.The lengths of all passages are equal and Arkady makes through them in one second. For security reasons, Arkady can never stop, also, he can't change direction while going through a passage. In other words, if he starts walking in some passage, he should reach its end and immediately leave the end.Today Arkady needs to quickly reach important place n from place 1. He plans to exit the place 1 at time moment 0 and reach the place n as early as he can. Please find the minimum time he should spend on his way.

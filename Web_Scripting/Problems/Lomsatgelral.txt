@@ -1,0 +1,9 @@
+Lomsat gelral                    
+
+https://codeforces.com/problemset/problem/600/E
+
+data structures
+
+2300
+
+You are given a rooted tree with root in vertex 1. Each vertex is coloured in some colour.Let's call colour c dominating in the subtree of vertex v if there are no other colours that appear in the subtree of vertex v more times than colour c. So it's possible that two or more colours will be dominating in the subtree of some vertex.The subtree of vertex v is the vertex v and all other vertices that contains vertex v in each path to the root.For each vertex v find the sum of all dominating colours in the subtree of vertex v.

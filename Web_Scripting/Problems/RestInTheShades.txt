@@ -1,0 +1,9 @@
+Rest In The Shades                    
+
+https://codeforces.com/problemset/problem/1016/E
+
+binary search
+
+2400
+
+There is a light source on the plane. This source is so small that it can be represented as point. The light source is moving from point (a, s_y) to the (b, s_y) (s_y < 0) with speed equal to 1 unit per second. The trajectory of this light source is a straight segment connecting these two points. There is also a fence on OX axis represented as n segments (l_i, r_i) (so the actual coordinates of endpoints of each segment are (l_i, 0) and (r_i, 0)). The point (x, y) is in the shade if segment connecting (x,y) and the current position of the light source intersects or touches with any segment of the fence.  You are given q points. For each point calculate total time of this point being in the shade, while the light source is moving from (a, s_y) to the (b, s_y).

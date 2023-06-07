@@ -1,0 +1,9 @@
+PermutationForces II                    
+
+https://codeforces.com/problemset/problem/1698/E
+
+brute force
+
+2300
+
+You are given a permutation a of length n. Recall that permutation is an array consisting of n distinct integers from 1 to n in arbitrary order.You have a strength of s and perform n moves on the permutation a. The i-th move consists of the following:   Pick two integers x and y such that i \leq x \leq y \leq \min(i+s,n), and swap the positions of the integers x and y in the permutation a. Note that you can select x=y in the operation, in which case no swap will occur. You want to turn a into another permutation b after n moves. However, some elements of b are missing and are replaced with -1 instead. Count the number of ways to replace each -1 in b with some integer from 1 to n so that b is a permutation and it is possible to turn a into b with a strength of s. Since the answer can be large, output it modulo 998\,244\,353.

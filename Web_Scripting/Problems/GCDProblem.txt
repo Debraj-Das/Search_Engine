@@ -1,0 +1,9 @@
+GCD Problem                    
+
+https://codeforces.com/problemset/problem/1617/B
+
+brute force
+
+900
+
+Given a positive integer n. Find three distinct positive integers a, b, c such that a + b + c = n and \operatorname{gcd}(a, b) = c, where \operatorname{gcd}(x, y) denotes the greatest common divisor (GCD) of integers x and y.

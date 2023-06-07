@@ -1,0 +1,9 @@
+Mahmoud and Ehab and the bipartiteness                    
+
+httpscodeforcescomproblemsetproblem862B
+
+dfs and similar
+
+1300
+
+Mahmoud and Ehab continue their adventures As everybody in the evil land knows Dr Evil likes bipartite graphs especially treesA tree is a connected acyclic graph A bipartite graph is a graph whose vertices can be partitioned into 2 sets in such a way that for each edge uv that belongs to the graph u and v belong to different sets You can find more formal definitions of a tree and a bipartite graph in the notes section belowDr Evil gave Mahmoud and Ehab a tree consisting of n nodes and asked them to add edges to it in such a way that the graph is still bipartite Besides after adding these edges the graph should be simple doesnt contain loops or multiple edges What is the maximum number of edges they can addA loop is an edge which connects a node with itself Graph doesnt contain multiple edges when for each pair of nodes there is no more than one edge between them A cycle and a loop arent the same 

@@ -1,0 +1,9 @@
+Interesting Array                    
+
+httpscodeforcescomproblemsetproblem482B
+
+constructive algorithms
+
+1800
+
+Well call an array of n nonnegative integers a1a2an interesting if it meets m constraints The ith of the m constraints consists of three integers li ri qi 1lirin meaning that value  should be equal to qi Your task is to find any interesting array of n elements or state that such array doesnt existExpression xy means the bitwise AND of numbers x and y In programming languages C Java and Python this operation is represented as  in Pascal  as and

@@ -1,0 +1,9 @@
+Candy Bags                    
+
+https://codeforces.com/problemset/problem/334/A
+
+implementation
+
+1000
+
+Gerald has n younger brothers and their number happens to be even. One day he bought n2 candy bags. One bag has one candy, one bag has two candies, one bag has three candies and so on. In fact, for each integer k from 1 to n2 he has exactly one bag with k candies. Help him give n bags of candies to each brother so that all brothers got the same number of candies.

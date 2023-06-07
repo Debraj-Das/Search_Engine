@@ -1,0 +1,9 @@
+Range Sorting (Hard Version)                    
+
+https://codeforces.com/problemset/problem/1827/B2
+
+binary search
+
+2400
+
+The only difference between this problem and the easy version is the constraints on t and n.You are given an array a, consisting of n distinct integers a_1, a_2, \ldots, a_n. Define the beauty of an array p_1, p_2, \ldots p_k as the minimum amount of time needed to sort this array using an arbitrary number of range-sort operations. In each range-sort operation, you will do the following:   Choose two integers l and r (1 \le l < r \le k).  Sort the subarray p_l, p_{l + 1}, \ldots, p_r in r - l seconds. Please calculate the sum of beauty over all subarrays of array a.A subarray of an array is defined as a sequence of consecutive elements of the array.

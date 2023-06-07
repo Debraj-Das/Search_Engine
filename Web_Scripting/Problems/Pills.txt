@@ -1,0 +1,9 @@
+Pills                    
+
+httpscodeforcescomproblemsetproblem126E
+
+brute force
+
+2900
+
+Doctor prescribed medicine to his patient The medicine is represented by pills Each pill consists of a shell and healing powder The shell consists of two halves each half has one of four colors  blue red white or yellowThe doctor wants to put 28 pills in a rectangular box 78 in size Besides each pill occupies exactly two neighboring cells and any cell contains exactly one half of a pill Thus the result is a four colored picture 78 in sizeThe doctor thinks that a patient will recover sooner if the picture made by the pills will be special Unfortunately putting the pills in the box so as to get the required picture is not a very easy task Thats why doctor asks you to help Doctor has some amount of pills of each of 10 painting types They all contain the same medicine thats why it doesnt matter which 28 of them will be stored inside the boxPlace the pills in the box so that the required picture was formed If it is impossible to place the pills in the required manner then place them so that the number of matching colors in all 56 cells in the final arrangement and the doctors picture were maximum

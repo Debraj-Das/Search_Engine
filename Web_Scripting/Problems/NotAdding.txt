@@ -1,0 +1,9 @@
+Not Adding                    
+
+https://codeforces.com/problemset/problem/1627/D
+
+brute force
+
+1900
+
+You have an array a_1, a_2, \dots, a_n consisting of n distinct integers. You are allowed to perform the following operation on it:  Choose two elements from the array a_i and a_j (i \ne j) such that \gcd(a_i, a_j) is not present in the array, and add \gcd(a_i, a_j) to the end of the array. Here \gcd(x, y) denotes greatest common divisor (GCD) of integers x and y. Note that the array changes after each operation, and the subsequent operations are performed on the new array.What is the maximum number of times you can perform the operation on the array?

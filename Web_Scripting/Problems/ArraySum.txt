@@ -1,0 +1,9 @@
+Array Sum                    
+
+https://codeforces.com/problemset/problem/661/C
+
+*special problem
+
+2000
+
+You are given an array of integers. Calculate the sum of its elements.

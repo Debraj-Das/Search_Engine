@@ -1,0 +1,9 @@
+Meme Problem                    
+
+https://codeforces.com/problemset/problem/1076/C
+
+binary search
+
+1300
+
+Try guessing the statement from this picture:   You are given a non-negative integer d. You have to find two non-negative real numbers a and b such that a + b = d and a \cdot b = d.

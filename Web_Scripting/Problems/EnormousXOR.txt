@@ -1,0 +1,9 @@
+Enormous XOR                    
+
+https://codeforces.com/problemset/problem/1493/E
+
+bitmasks
+
+2600
+
+You are given two integers l and r in binary representation. Let g(x, y) be equal to the bitwise XOR of all integers from x to y inclusive (that is x \oplus (x+1) \oplus \dots \oplus (y-1) \oplus y). Let's define f(l, r) as the maximum of all values of g(x, y) satisfying l \le x \le y \le r.Output f(l, r).

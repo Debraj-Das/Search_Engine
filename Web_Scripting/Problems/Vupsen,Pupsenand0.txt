@@ -1,0 +1,9 @@
+Vupsen, Pupsen and 0                    
+
+https://codeforces.com/problemset/problem/1582/D
+
+constructive algorithms
+
+1600
+
+Vupsen and Pupsen were gifted an integer array. Since Vupsen doesn't like the number 0, he threw away all numbers equal to 0 from the array. As a result, he got an array a of length n.Pupsen, on the contrary, likes the number 0 and he got upset when he saw the array without zeroes. To cheer Pupsen up, Vupsen decided to come up with another array b of length n such that \sum_{i=1}^{n}a_i \cdot b_i=0. Since Vupsen doesn't like number 0, the array b must not contain numbers equal to 0. Also, the numbers in that array must not be huge, so the sum of their absolute values cannot exceed 10^9. Please help Vupsen to find any such array b!

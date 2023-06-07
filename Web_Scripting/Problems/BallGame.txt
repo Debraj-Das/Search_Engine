@@ -1,0 +1,9 @@
+Ball Game                    
+
+httpscodeforcescomproblemsetproblem46A
+
+brute force
+
+800
+
+A kindergarten teacher Natalia Pavlovna has invented a new ball game This game not only develops the childrens physique but also teaches them how to count The game goes as follows Kids stand in circle Lets agree to think of the children as numbered with numbers from 1 to n clockwise and the child number 1 is holding the ball First the first child throws the ball to the next one clockwise ie to the child number 2 Then the child number 2 throws the ball to the next but one child ie to the child number 4 then the fourth child throws the ball to the child that stands two children away from him ie to the child number 7 then the ball is thrown to the child who stands 3 children away from the child number 7 then the ball is thrown to the child who stands 4 children away from the last one and so on It should be mentioned that when a ball is thrown it may pass the beginning of the circle For example if n5 then after the third throw the child number 2 has the ball again Overall n1 throws are made and the game endsThe problem is that not all the children get the ball during the game If a child doesnt get the ball he gets very upset and cries until Natalia Pavlovna gives him a candy Thats why Natalia Pavlovna asks you to help her to identify the numbers of the children who will get the ball after each throw

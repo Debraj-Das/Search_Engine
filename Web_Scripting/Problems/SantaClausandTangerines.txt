@@ -1,0 +1,9 @@
+Santa Claus and Tangerines                    
+
+https://codeforces.com/problemset/problem/748/E
+
+binary search
+
+2100
+
+Santa Claus has n tangerines, and the i-th of them consists of exactly ai slices. Santa Claus came to a school which has k pupils. Santa decided to treat them with tangerines.However, there can be too few tangerines to present at least one tangerine to each pupil. So Santa decided to divide tangerines into parts so that no one will be offended. In order to do this, he can divide a tangerine or any existing part into two smaller equal parts. If the number of slices in the part he wants to split is odd, then one of the resulting parts will have one slice more than the other. It's forbidden to divide a part consisting of only one slice.Santa Claus wants to present to everyone either a whole tangerine or exactly one part of it (that also means that everyone must get a positive number of slices). One or several tangerines or their parts may stay with Santa.Let bi be the number of slices the i-th pupil has in the end. Let Santa's joy be the minimum among all bi's.Your task is to find the maximum possible joy Santa can have after he treats everyone with tangerines (or their parts).

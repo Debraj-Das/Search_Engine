@@ -1,0 +1,9 @@
+Modulo Sum                    
+
+httpscodeforcescomproblemsetproblem577B
+
+combinatorics
+
+1900
+
+You are given a sequence of numbers a1a2an and a number mCheck if it is possible to choose a nonempty subsequence aij such that the sum of numbers in this subsequence is divisible by m

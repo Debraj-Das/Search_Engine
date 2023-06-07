@@ -1,0 +1,9 @@
+Greg and Caves                    
+
+httpscodeforcescomproblemsetproblem295D
+
+combinatorics
+
+2400
+
+Greg has a pad The pads screen is an nm rectangle each cell can be either black or white Well consider the pad rows to be numbered with integers from 1 to n from top to bottom Similarly the pads columns are numbered with integers from 1 to m from left to rightGreg thinks that the pads screen displays a cave if the following conditions hold  There is a segment lr 1lrn such that each of the rows ll1r has exactly two black cells and all other rows have only white cells  There is a row number t ltr such that for all pairs of rows with numbers i and j lijt the set of columns between the black cells in row i with the columns where is these black cells is the subset of the set of columns between the black cells in row j with the columns where is these black cells Similarly for all pairs of rows with numbers i and j tijr the set of columns between the black cells in row j with the columns where is these black cells is the subset of the set of columns between the black cells in row i with the columns where is these black cells Greg wondered how many ways there are to paint a cave on his pad Two ways can be considered distinct if there is a cell that has distinct colors on the two picturesHelp Greg

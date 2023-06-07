@@ -1,0 +1,9 @@
+Union of Doubly Linked Lists                    
+
+httpscodeforcescomproblemsetproblem847A
+
+implementation
+
+1500
+
+Doubly linked list is one of the fundamental data structures A doubly linked list is a sequence of elements each containing information about the previous and the next elements of the list In this problem all lists have linear structure Ie each element except the first has exactly one previous element each element except the last has exactly one next element The list is not closed in a cycleIn this problem you are given n memory cells forming one or more doubly linked lists Each cell contains information about element from some list Memory cells are numbered from 1 to nFor each cell i you are given two values   li  cell containing previous element for the element in the cell i  ri  cell containing next element for the element in the cell i If cell i contains information about the element which has no previous element then li0 Similarly if cell i contains information about the element which has no next element then ri0  Three lists are shown on the picture For example for the picture above the values of l and r are the following l14 r17 l25 r20 l30 r30 l46 r41 l50 r52 l60 r64 l71 r70Your task is to unite all given lists in a single list joining them to each other in any order In particular if the input data already contains a single list then there is no need to perform any actions Print the resulting list in the form of values li riAny other action other than joining the beginning of one list to the end of another can not be performed

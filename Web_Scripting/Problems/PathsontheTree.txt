@@ -1,0 +1,9 @@
+Paths on the Tree                    
+
+https://codeforces.com/problemset/problem/1746/D
+
+dfs and similar
+
+1900
+
+You are given a rooted tree consisting of n vertices. The vertices are numbered from 1 to n, and the root is the vertex 1. You are also given a score array s_1, s_2, \ldots, s_n.A multiset of k simple paths is called valid if the following two conditions are both true.   Each path starts from 1.  Let c_i be the number of paths covering vertex i. For each pair of vertices (u,v) (2\le u,v\le n) that have the same parent, |c_u-c_v|\le 1 holds.  The value of the path multiset is defined as \sum\limits_{i=1}^n c_i s_i.It can be shown that it is always possible to find at least one valid multiset. Find the maximum value among all valid multisets.

@@ -1,0 +1,9 @@
+The Fibonacci Segment                    
+
+httpscodeforcescomproblemsetproblem365B
+
+implementation
+
+1100
+
+You have array a1a2an Segment lr 1lrn is good if aiai1ai2 for all i l2irLets define lenlrrl1 lenlr is the length of the segment lr Segment l1r1 is longer than segment l2r2 if lenl1r1lenl2r2Your task is to find a good segment of the maximum length in array a Note that a segment of length 1 or 2 is always good

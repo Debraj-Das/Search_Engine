@@ -1,0 +1,9 @@
+Adding Powers                    
+
+https://codeforces.com/problemset/problem/1312/C
+
+bitmasks
+
+1400
+
+Suppose you are performing the following algorithm. There is an array v_1, v_2, \dots, v_n filled with zeroes at start. The following operation is applied to the array several times — at i-th step (0-indexed) you can:   either choose position pos (1 \le pos \le n) and increase v_{pos} by k^i;  or not choose any position and skip this step. You can choose how the algorithm would behave on each step and when to stop it. The question is: can you make array v equal to the given array a (v_j = a_j for each j) after some step?

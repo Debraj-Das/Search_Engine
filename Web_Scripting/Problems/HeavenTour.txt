@@ -1,0 +1,9 @@
+Heaven Tour                    
+
+httpscodeforcescomproblemsetproblem187E
+
+data structures
+
+2900
+
+The story was not finished as PMP thought God offered him one more chance to reincarnate and come back to life But before he can come back God told him that PMP should ask n great men including prominent programmers about their life experiencesThe men are standing on a straight line They are numbered 1 through n from left to right The coordinate of the ith man is xi xixi1in PMP should visit all these people one by one in arbitrary order Each men should be visited exactly once At the beginning of his tour he starts at location of sth man and asks him about his experiencesEach time PMP wants to change his location he should give a ticket to an angel and the angel carries him to his destination Angels take PMP from one location fly to his destination and put him down there Nobody else is visited in this movement Moving from ith man to jth man takes xixj time PMP can get back to life as soon as he visits all menThere are two types of angels Some angels are going to the right and they only accept right tickets Others are going the left and they only accept left tickets There are an unlimited number of angels of each type PMP has l left tickets and n1l right ticketsPMP wants to get back to life as soon as possible to be able to compete in this years final instead of the final he missed last year He wants to know the quickest way to visit all the men exactly once He also needs to know the exact sequence moves he should make

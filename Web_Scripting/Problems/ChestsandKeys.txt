@@ -1,0 +1,9 @@
+Chests and Keys                    
+
+https://codeforces.com/problemset/problem/1519/F
+
+bitmasks
+
+3200
+
+Alice and Bob play a game. Alice has got n treasure chests (the i-th of which contains a_i coins) and m keys (the j-th of which she can sell Bob for b_j coins).Firstly, Alice puts some locks on the chests. There are m types of locks, the locks of the j-th type can only be opened with the j-th key. To put a lock of type j on the i-th chest, Alice has to pay c_{i,j} dollars. Alice can put any number of different types of locks on each chest (possibly, zero).Then, Bob buys some of the keys from Alice (possibly none, possibly all of them) and opens each chest he can (he can open a chest if he has the keys for all of the locks on this chest). Bob's profit is the difference between the total number of coins in the opened chests and the total number of coins he spends buying keys from Alice. If Bob's profit is strictly positive (greater than zero), he wins the game. Otherwise, Alice wins the game.Alice wants to put some locks on some chests so no matter which keys Bob buys, she always wins (Bob cannot get positive profit). Of course, she wants to spend the minimum possible number of dollars on buying the locks. Help her to determine whether she can win the game at all, and if she can, how many dollars she has to spend on the locks.

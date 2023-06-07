@@ -1,0 +1,9 @@
+Life Without Zeros                    
+
+httpscodeforcescomproblemsetproblem75A
+
+implementation
+
+1000
+
+Can you imagine our life if we removed all zeros from it For sure we will have many problemsIn this problem we will have a simple example if we removed all zeros from our life its the addition operation Lets assume you are given this equation abc where a and b are positive integers and c is the sum of a and b Now lets remove all zeros from this equation Will the equation remain correct after removing all zerosFor example if the equation is 101102203 if we removed all zeros it will be 111223 which is still a correct equationBut if the equation is 105106211 if we removed all zeros it will be 1516211 which is not a correct equation

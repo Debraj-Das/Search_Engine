@@ -1,0 +1,9 @@
+Dreamoon Likes Strings                    
+
+https://codeforces.com/problemset/problem/1329/D
+
+constructive algorithms
+
+3100
+
+Dreamoon likes strings. Today he created a game about strings:String s_1, s_2, \ldots, s_n is beautiful if and only if for each 1 \le i < n, s_i \ne s_{i+1}.Initially, Dreamoon has a string a. In each step Dreamoon can choose a beautiful substring of a and remove it. Then he should concatenate the remaining characters (in the same order).Dreamoon wants to use the smallest number of steps to make a empty. Please help Dreamoon, and print any sequence of the smallest number of steps to make a empty.

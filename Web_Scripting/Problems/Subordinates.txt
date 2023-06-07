@@ -1,0 +1,9 @@
+Subordinates                    
+
+https://codeforces.com/problemset/problem/729/E
+
+constructive algorithms
+
+1900
+
+There are n workers in a company, each of them has a unique id from 1 to n. Exaclty one of them is a chief, his id is s. Each worker except the chief has exactly one immediate superior.There was a request to each of the workers to tell how how many superiors (not only immediate). Worker's superiors are his immediate superior, the immediate superior of the his immediate superior, and so on. For example, if there are three workers in the company, from which the first is the chief, the second worker's immediate superior is the first, the third worker's immediate superior is the second, then the third worker has two superiors, one of them is immediate and one not immediate. The chief is a superior to all the workers except himself.Some of the workers were in a hurry and made a mistake. You are to find the minimum number of workers that could make a mistake.

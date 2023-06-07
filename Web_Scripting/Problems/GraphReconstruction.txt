@@ -1,0 +1,9 @@
+Graph Reconstruction                    
+
+https://codeforces.com/problemset/problem/329/C
+
+constructive algorithms
+
+2400
+
+I have an undirected graph consisting of n nodes, numbered 1 through n. Each node has at most two incident edges. For each pair of nodes, there is at most an edge connecting them. No edge connects a node to itself.I would like to create a new graph in such a way that:   The new graph consists of the same number of nodes and edges as the old graph.  The properties in the first paragraph still hold.  For each two nodes u and v, if there is an edge connecting them in the old graph, there is no edge connecting them in the new graph. Help me construct the new graph, or tell me if it is impossible.

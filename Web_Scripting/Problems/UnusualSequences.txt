@@ -1,0 +1,9 @@
+Unusual Sequences                    
+
+httpscodeforcescomproblemsetproblem900D
+
+bitmasks
+
+2000
+
+Count the number of distinct sequences a1a2an 1ai consisting of positive integers such that gcda1a2anx and  As this number could be large print the answer modulo 1097gcd here means the greatest common divisor

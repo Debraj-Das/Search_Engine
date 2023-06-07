@@ -1,0 +1,9 @@
+XOR Equation                    
+
+httpscodeforcescomproblemsetproblem627A
+
+dp
+
+1700
+
+Two positive integers a and b have a sum of s and a bitwise XOR of x How many possible values are there for the ordered pair ab

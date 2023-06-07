@@ -1,0 +1,9 @@
+Problemsolving Marathon                    
+
+https://codeforces.com/problemset/problem/1488/D
+
+*special problem
+
+1900
+
+Polycarp has decided to do a problemsolving marathon. He wants to solve s problems in n days. Let a_i be the number of problems he solves during the i-th day. He wants to find a distribution of problems into days such that:   a_i is an integer value for all i from 1 to n;  a_i \ge 1 for all i from 1 to n;  a_{i + 1} \ge a_i for all i from 1 to n-1;  a_{i + 1} \le 2 \cdot a_i for all i from 1 to n-1;  a_n is maximized. Note that a_1 can be arbitrarily large.What is the largest value of a_n Polycarp can obtain?

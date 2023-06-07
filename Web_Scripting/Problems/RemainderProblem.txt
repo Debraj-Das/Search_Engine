@@ -1,0 +1,9 @@
+Remainder Problem                    
+
+https://codeforces.com/problemset/problem/1207/F
+
+brute force
+
+2100
+
+You are given an array a consisting of 500000 integers (numbered from 1 to 500000). Initially all elements of a are zero.You have to process two types of queries to this array:  1 x y — increase a_x by y;  2 x y — compute \sum\limits_{i \in R(x, y)} a_i, where R(x, y) is the set of all integers from 1 to 500000 which have remainder y modulo x. Can you process all the queries?

@@ -1,0 +1,9 @@
+Weights Distributing                    
+
+https://codeforces.com/problemset/problem/1343/E
+
+brute force
+
+2100
+
+You are given an undirected unweighted graph consisting of n vertices and m edges (which represents the map of Bertown) and the array of prices p of length m. It is guaranteed that there is a path between each pair of vertices (districts).Mike has planned a trip from the vertex (district) a to the vertex (district) b and then from the vertex (district) b to the vertex (district) c. He can visit the same district twice or more. But there is one issue: authorities of the city want to set a price for using the road so if someone goes along the road then he should pay the price corresponding to this road (he pays each time he goes along the road). The list of prices that will be used p is ready and they just want to distribute it between all roads in the town in such a way that each price from the array corresponds to exactly one road.You are a good friend of Mike (and suddenly a mayor of Bertown) and want to help him to make his trip as cheap as possible. So, your task is to distribute prices between roads in such a way that if Mike chooses the optimal path then the price of the trip is the minimum possible. Note that you cannot rearrange prices after the start of the trip.You have to answer t independent test cases.

@@ -1,0 +1,9 @@
+Factorial zeros                    
+
+https://codeforces.com/problemset/problem/162/F
+
+*special problem
+
+1800
+
+You are given a positive integer n. Output the number of trailing zeros in n! (n! denotes a product of integers between 1 and n, inclusive).

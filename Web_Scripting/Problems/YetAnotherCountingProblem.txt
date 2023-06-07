@@ -1,0 +1,9 @@
+Yet Another Counting Problem                    
+
+https://codeforces.com/problemset/problem/1342/C
+
+math
+
+1600
+
+You are given two integers a and b, and q queries. The i-th query consists of two numbers l_i and r_i, and the answer to it is the number of integers x such that l_i \le x \le r_i, and ((x \bmod a) \bmod b) \ne ((x \bmod b) \bmod a). Calculate the answer for each query.Recall that y \bmod z is the remainder of the division of y by z. For example, 5 \bmod 3 = 2, 7 \bmod 8 = 7, 9 \bmod 4 = 1, 9 \bmod 9 = 0.

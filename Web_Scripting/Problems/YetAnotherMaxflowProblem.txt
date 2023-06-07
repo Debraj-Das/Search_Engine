@@ -1,0 +1,9 @@
+Yet Another Maxflow Problem                    
+
+httpscodeforcescomproblemsetproblem903G
+
+data structures
+
+2700
+
+In this problem you will have to deal with a very special networkThe network consists of two parts part A and part B Each part consists of n vertices ith vertex of part A is denoted as Ai and ith vertex of part B is denoted as BiFor each index i 1in there is a directed edge from vertex Ai to vertex Ai1 and from Bi to Bi1 respectively Capacities of these edges are given in the input Also there might be several directed edges going from part A to part B but never from B to AYou have to calculate the maximum flow value from A1 to Bn in this network Capacities of edges connecting Ai to Ai1 might sometimes change and you also have to maintain the maximum flow value after these changes Apart from that the network is fixed there are no changes in part B no changes of edges going from A to B and no edge insertions or deletionsTake a look at the example and the notes to understand the structure of the network better

@@ -1,0 +1,9 @@
+Pairwise Modulo                    
+
+https://codeforces.com/problemset/problem/1553/F
+
+data structures
+
+2300
+
+You have an array a consisting of n distinct positive integers, numbered from 1 to n. Define p_k as p_k = \sum_{1 \le i, j \le k} a_i \bmod a_j, where x \bmod y denotes the remainder when x is divided by y. You have to find and print p_1, p_2, \ldots, p_n. 

@@ -1,0 +1,9 @@
+Three Chairs                    
+
+https://codeforces.com/problemset/problem/1780/F
+
+bitmasks
+
+2300
+
+One day Kira found n friends from Morioh and decided to gather them around a table to have a peaceful conversation. The height of friend i is equal to a_i. It so happened that the height of each of the friends is unique.Unfortunately, there were only 3 chairs in Kira's house, and obviously, it will not be possible to seat all friends! So, Kira has to invite only 3 of his friends.But everything is not so simple! If the heights of the lowest and the tallest of the invited friends are not coprime, then the friends will play tricks on each other, which will greatly anger Kira.Kira became interested, how many ways are there to choose 3 of his friends so that they don't play tricks? Two ways are considered different if there is a friend invited in one way, but not in the other.Formally, if Kira invites friends i, j, and k, then the following should be true: \gcd(\min(a_i, a_j, a_k), \max(a_i, a_j, a_k)) = 1, where \gcd(x, y) denotes the greatest common divisor (GCD) of the numbers x and y.Kira is not very strong in computer science, so he asks you to count the number of ways to invide friends.

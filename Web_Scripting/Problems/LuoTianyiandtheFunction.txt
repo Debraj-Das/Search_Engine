@@ -1,0 +1,9 @@
+LuoTianyi and the Function                    
+
+https://codeforces.com/problemset/problem/1824/D
+
+data structures
+
+3000
+
+LuoTianyi gives you an array a of n integers and the index begins from 1.Define g(i,j) as follows:  g(i,j) is the largest integer x that satisfies \{a_p:i\le p\le j\}\subseteq\{a_q:x\le q\le j\} while i \le j;  and g(i,j)=0 while i>j. There are q queries. For each query you are given four integers l,r,x,y, you need to calculate \sum\limits_{i=l}^{r}\sum\limits_{j=x}^{y}g(i,j).

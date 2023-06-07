@@ -1,0 +1,9 @@
+Kostya the Sculptor                    
+
+https://codeforces.com/problemset/problem/733/D
+
+data structures
+
+1600
+
+Kostya is a genial sculptor, he has an idea: to carve a marble sculpture in the shape of a sphere. Kostya has a friend Zahar who works at a career. Zahar knows about Kostya's idea and wants to present him a rectangular parallelepiped of marble from which he can carve the sphere. Zahar has n stones which are rectangular parallelepipeds. The edges sizes of the i-th of them are ai, bi and ci. He can take no more than two stones and present them to Kostya. If Zahar takes two stones, he should glue them together on one of the faces in order to get a new piece of rectangular parallelepiped of marble. Thus, it is possible to glue a pair of stones together if and only if two faces on which they are glued together match as rectangles. In such gluing it is allowed to rotate and flip the stones in any way. Help Zahar choose such a present so that Kostya can carve a sphere of the maximum possible volume and present it to Zahar.

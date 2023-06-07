@@ -1,0 +1,9 @@
+New Building for SIS                    
+
+httpscodeforcescomproblemsetproblem1020A
+
+math
+
+1000
+
+You are looking at the floor plan of the Summer Informatics Schools new building You were tasked with SIS logistics so you really care about travel time between different locations it is important to know how long it would take to get from the lecture room to the canteen or from the gym to the server roomThe building consists of n towers h floors each where the towers are labeled from 1 to n the floors are labeled from 1 to h There is a passage between any two adjacent towers two towers i and i1 for all i 1in1 on every floor x where axb It takes exactly one minute to walk between any two adjacent floors of a tower as well as between any two adjacent towers provided that there is a passage on that floor It is not permitted to leave the building The picture illustrates the first example You have given k pairs of locations tafa tbfb floor fa of tower ta and floor fb of tower tb For each pair you need to determine the minimum walking time between these locations

@@ -1,0 +1,9 @@
+Team Players                    
+
+https://codeforces.com/problemset/problem/985/G
+
+combinatorics
+
+2700
+
+There are n players numbered from 0 to n-1 with ranks. The i-th player has rank i.Players can form teams: the team should consist of three players and no pair of players in the team should have a conflict. The rank of the team is calculated using the following algorithm: let i, j, k be the ranks of players in the team and i < j < k, then the rank of the team is equal to A \cdot i + B \cdot j + C \cdot k.You are given information about the pairs of players who have a conflict. Calculate the total sum of ranks over all possible valid teams modulo 2^{64}.

@@ -1,0 +1,9 @@
+Another Array Problem                    
+
+https://codeforces.com/problemset/problem/1763/C
+
+brute force
+
+2000
+
+You are given an array a of n integers. You are allowed to perform the following operation on it as many times as you want (0 or more times):   Choose 2 indices i,j where 1 \le i < j \le n and replace a_k for all i \leq k \leq j with |a_i - a_j| Print the maximum sum of all the elements of the final array that you can obtain in such a way.

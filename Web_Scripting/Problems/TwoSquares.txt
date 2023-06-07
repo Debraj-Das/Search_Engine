@@ -1,0 +1,9 @@
+Two Squares                    
+
+https://codeforces.com/problemset/problem/993/A
+
+geometry
+
+1600
+
+You are given two squares, one with sides parallel to the coordinate axes, and another one with sides at 45 degrees to the coordinate axes. Find whether the two squares intersect.The interior of the square is considered to be part of the square, i.e. if one square is completely inside another, they intersect. If the two squares only share one common point, they are also considered to intersect.

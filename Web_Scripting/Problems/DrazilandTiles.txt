@@ -1,0 +1,9 @@
+Drazil and Tiles                    
+
+httpscodeforcescomproblemsetproblem515D
+
+constructive algorithms
+
+2000
+
+Drazil created a following problem about putting 12 tiles into an nm gridThere is a grid with some cells that are empty and some cells that are occupied You should use 12 tiles to cover all empty cells and no two tiles should cover each other And you should print a solution about how to do itBut Drazil doesnt like to write special checking program for this task His friend Varda advised him how about asking contestant only to print the solution when it exists and it is unique Otherwise contestant may print Not unique Drazil found that the constraints for this task may be much larger than for the original taskCan you solve this new problemNote that you should print Not unique either when there exists no solution or when there exists several different solutions for the original task

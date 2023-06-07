@@ -1,0 +1,9 @@
+Minimize Distance                    
+
+https://codeforces.com/problemset/problem/1585/C
+
+greedy
+
+1300
+
+A total of n depots are located on a number line. Depot i lies at the point x_i for 1 \le i \le n.You are a salesman with n bags of goods, attempting to deliver one bag to each of the n depots. You and the n bags are initially at the origin 0. You can carry up to k bags at a time. You must collect the required number of goods from the origin, deliver them to the respective depots, and then return to the origin to collect your next batch of goods.Calculate the minimum distance you need to cover to deliver all the bags of goods to the depots. You do not have to return to the origin after you have delivered all the bags.

@@ -1,0 +1,9 @@
+Hashing Trees                    
+
+httpscodeforcescomproblemsetproblem901A
+
+constructive algorithms
+
+1500
+
+Sasha is taking part in a programming competition In one of the problems she should check if some rooted trees are isomorphic or not She has never seen this problem before but being an experienced participant she guessed that she should match trees to some sequences and then compare these sequences instead of trees Sasha wants to match each tree with a sequence a0a1ah where h is the height of the tree and ai equals to the number of vertices that are at distance of i edges from root Unfortunately this time Sashas intuition was wrong and there could be several trees matching the same sequence To show it you need to write a program that given the sequence ai builds two nonisomorphic rooted trees that match that sequence or determines that there is only one such treeTwo rooted trees are isomorphic if you can reenumerate the vertices of the first one in such a way that the index of the root becomes equal the index of the root of the second tree and these two trees become equalThe height of a rooted tree is the maximum number of edges on a path from the root to any other vertex

@@ -1,0 +1,9 @@
+Yaroslav and Divisors                    
+
+httpscodeforcescomproblemsetproblem301D
+
+data structures
+
+2200
+
+Yaroslav has an array pp1p2pn 1pin consisting of n distinct integers Also he has m queries  Query number i is represented as a pair of integers li ri 1lirin  The answer to the query liri is the number of pairs of integers q w liqwri such that pq is the divisor of pw Help Yaroslav answer all his queries

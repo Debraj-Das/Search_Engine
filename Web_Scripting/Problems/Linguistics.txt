@@ -1,0 +1,9 @@
+Linguistics                    
+
+https://codeforces.com/problemset/problem/1685/B
+
+greedy
+
+2000
+
+Alina has discovered a weird language, which contains only 4 words: \texttt{A}, \texttt{B}, \texttt{AB}, \texttt{BA}. It also turned out that there are no spaces in this language: a sentence is written by just concatenating its words into a single string.Alina has found one such sentence s and she is curious: is it possible that it consists of precisely a words \texttt{A}, b words \texttt{B}, c words \texttt{AB}, and d words \texttt{BA}?In other words, determine, if it's possible to concatenate these a+b+c+d words in some order so that the resulting string is s. Each of the a+b+c+d words must be used exactly once in the concatenation, but you can choose the order in which they are concatenated.

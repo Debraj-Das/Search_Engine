@@ -1,0 +1,9 @@
+Rounding                    
+
+httpscodeforcescomproblemsetproblem898A
+
+implementation
+
+800
+
+Vasya has a nonnegative integer n He wants to round it to nearest integer which ends up with 0 If n already ends up with 0 Vasya considers it already roundedFor example if n4722 answer is 4720 If n5 Vasya can round it to 0 or to 10 Both ways are correctFor given n find out to which integer will Vasya round it

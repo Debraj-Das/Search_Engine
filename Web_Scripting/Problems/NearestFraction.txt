@@ -1,0 +1,9 @@
+Nearest Fraction                    
+
+httpscodeforcescomproblemsetproblem281B
+
+brute force
+
+1700
+
+You are given three positive integers xyn Your task is to find the nearest fraction to fraction  whose denominator is no more than n Formally you should find such pair of integers ab 1bn0a that the value  is as minimal as possibleIf there are multiple nearest fractions choose the one with the minimum denominator If there are multiple nearest fractions with the minimum denominator choose the one with the minimum numerator

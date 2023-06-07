@@ -1,0 +1,9 @@
+Binary Table                    
+
+https://codeforces.com/problemset/problem/662/C
+
+bitmasks
+
+2600
+
+You are given a table consisting of n rows and m columns. Each cell of the table contains either 0 or 1. In one move, you are allowed to pick any row or any column and invert all values, that is, replace 0 by 1 and vice versa.What is the minimum number of cells with value 1 you can get after applying some number of operations?

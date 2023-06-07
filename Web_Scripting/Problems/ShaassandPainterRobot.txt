@@ -1,0 +1,9 @@
+Shaass and Painter Robot                    
+
+httpscodeforcescomproblemsetproblem294D
+
+brute force
+
+2500
+
+Shaass thinks a kitchen with all white floor tiles is so boring His kitchen floor is made of nm square tiles forming a nm rectangle Therefore hes decided to color some of the tiles in black so that the floor looks like a checkerboard which is no two sideadjacent tiles should have the same colorShaass wants to use a painter robot to color the tiles In the beginning the robot is standing in a border tile xsys facing a diagonal direction ie upperleft upperright downleft or downright As the robot walks in the kitchen he paints every tile he passes even if its painted before Painting each tile consumes one unit of black paint If at any moment the robot hits a wall of the kitchen he changes his direction according the reflection rules Note that a tile gets painted when the robot enters the tile from another tile in other words changing direction in the same tile doesnt lead to any painting The first tile the robot is standing on is also paintedThe robot stops painting the first moment the floor is checkered Given the dimensions of the kitchen and the position of the robot find out the amount of paint the robot consumes before it stops painting the floorLets consider an examples depicted below  If the robot starts at tile number 1 the tile 11 of the left grid heading to downright itll pass tiles 1354236 and consumes 7 units of black paint on his way until he stops at tile number 6 But if it starts at tile number 1 in the right grid heading to downright it will get stuck in a loop painting tiles 1 2 and 3

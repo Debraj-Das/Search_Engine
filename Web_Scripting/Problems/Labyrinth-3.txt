@@ -1,0 +1,9 @@
+Labyrinth-3                    
+
+https://codeforces.com/problemset/problem/921/03
+
+
+
+3200
+
+See the problem statement here: http://codeforces.com/contest/921/problem/01.

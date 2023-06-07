@@ -1,0 +1,9 @@
+Happy Cactus                    
+
+https://codeforces.com/problemset/problem/1268/E
+
+dp
+
+3400
+
+You are given a cactus graph, in this graph each edge lies on at most one simple cycle.It is given as m edges a_i, b_i, weight of i-th edge is i.Let's call a path in cactus increasing if the weights of edges on this path are increasing.Let's call a pair of vertices (u,v) happy if there exists an increasing path that starts in u and ends in v.For each vertex u find the number of other vertices v, such that pair (u,v) is happy.

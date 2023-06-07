@@ -1,0 +1,9 @@
+New Year and Entity Enumeration                    
+
+httpscodeforcescomproblemsetproblem908E
+
+bitmasks
+
+2500
+
+You are given an integer mLet M2m1You are also given a set of n integers denoted as the set T The integers will be provided in base 2 as n binary strings of length mA set of integers S is called good if the following hold   If  then   If  then     All elements of S are less than or equal to M Here  and  refer to the bitwise XOR and bitwise AND operators respectivelyCount the number of good sets S modulo 1097

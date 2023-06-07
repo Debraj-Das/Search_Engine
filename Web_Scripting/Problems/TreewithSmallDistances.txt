@@ -1,0 +1,9 @@
+Tree with Small Distances                    
+
+https://codeforces.com/problemset/problem/1029/E
+
+dp
+
+2100
+
+You are given an undirected tree consisting of n vertices. An undirected tree is a connected undirected graph with n - 1 edges.Your task is to add the minimum number of edges in such a way that the length of the shortest path from the vertex 1 to any other vertex is at most 2. Note that you are not allowed to add loops and multiple edges.

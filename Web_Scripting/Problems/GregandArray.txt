@@ -1,0 +1,9 @@
+Greg and Array                    
+
+httpscodeforcescomproblemsetproblem295A
+
+data structures
+
+1400
+
+Greg has an array aa1a2an and m operations Each operation looks as li ri di 1lirin To apply operation i to the array means to increase all array elements with numbers lili1ri by value diGreg wrote down k queries on a piece of paper Each query has the following form xi yi 1xiyim That means that one should apply operations with numbers xixi1yi to the arrayNow Greg is wondering what the array a will be after all the queries are executed Help Greg

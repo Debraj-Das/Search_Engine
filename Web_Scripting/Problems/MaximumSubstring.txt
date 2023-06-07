@@ -1,0 +1,9 @@
+Maximum Substring                    
+
+https://codeforces.com/problemset/problem/1750/B
+
+brute force
+
+800
+
+A binary string is a string consisting only of the characters 0 and 1. You are given a binary string s.For some non-empty substring^\dagger t of string s containing x characters 0 and y characters 1, define its cost as:  x \cdot y, if x > 0 and y > 0;  x^2, if x > 0 and y = 0;  y^2, if x = 0 and y > 0. Given a binary string s of length n, find the maximum cost across all its non-empty substrings.^\dagger A string a is a substring of a string b if a can be obtained from b by deletion of several (possibly, zero or all) characters from the beginning and several (possibly, zero or all) characters from the end.

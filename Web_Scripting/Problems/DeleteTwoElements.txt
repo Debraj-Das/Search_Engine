@@ -1,0 +1,9 @@
+Delete Two Elements                    
+
+httpscodeforcescomproblemsetproblem1598C
+
+data structures
+
+1200
+
+Monocarp has got an array a consisting of n integers Lets denote k as the mathematic mean of these elements note that its possible that k is not an integer The mathematic mean of an array of n elements is the sum of elements divided by the number of these elements ie sum divided by nMonocarp wants to delete exactly two elements from a so that the mathematic mean of the remaining n  2 elements is still equal to kYour task is to calculate the number of pairs of positions i j i  j such that if the elements on these positions are deleted the mathematic mean of n  2 remaining elements is equal to k that is it is equal to the mathematic mean of n elements of the original array a

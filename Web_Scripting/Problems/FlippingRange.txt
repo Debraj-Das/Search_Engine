@@ -1,0 +1,9 @@
+Flipping Range                    
+
+https://codeforces.com/problemset/problem/1630/D
+
+constructive algorithms
+
+2400
+
+You are given an array a of n integers and a set B of m positive integers such that 1 \leq b_i \leq \lfloor \frac{n}{2} \rfloor for 1\le i\le m, where b_i is the i-th element of B. You can make the following operation on a:  Select some x such that x appears in B. Select an interval from array a of size x and multiply by -1 every element in the interval. Formally, select l and r such that 1\leq l\leq r \leq n and r-l+1=x, then assign a_i:=-a_i for every i such that l\leq i\leq r. Consider the following example, let a=[0,6,-2,1,-4,5] and B=\{1,2\}:  [0,6,-2,-1,4,5] is obtained after choosing size 2 and l=4, r=5. [0,6,2,-1,4,5] is obtained after choosing size 1 and l=3, r=3. Find the maximum \sum\limits_{i=1}^n {a_i} you can get after applying such operation any number of times (possibly zero).

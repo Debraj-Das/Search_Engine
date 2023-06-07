@@ -1,0 +1,9 @@
+Curious Array                    
+
+httpscodeforcescomproblemsetproblem407C
+
+brute force
+
+2500
+
+Youve got an array consisting of n integers a1a2an Moreover there are m queries each query can be described by three integers liriki Query liriki means that we should add  to each element aj where lijriRecord  means the binomial coefficient or the number of combinations from y elements into groups of x elementsYou need to fulfil consecutively all queries and then print the final array

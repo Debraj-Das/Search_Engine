@@ -1,0 +1,9 @@
+Mashmokh and Lights                    
+
+httpscodeforcescomproblemsetproblem415A
+
+implementation
+
+900
+
+Mashmokh works in a factory At the end of each day he must turn off all of the lights The lights on the factory are indexed from 1 to n There are n buttons in Mashmokhs room indexed from 1 to n as well If Mashmokh pushes button with index i then each light with index not less than i that is still turned on turns offMashmokh is not very clever So instead of pushing the first button he pushes some of the buttons randomly each night He pushed m distinct buttons b1b2bm the buttons were pushed consecutively in the given order this night Now he wants to know for each light the index of the button that turned this light off Please note that the index of button bi is actually bi not iPlease help Mashmokh print these indices

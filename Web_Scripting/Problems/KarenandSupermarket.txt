@@ -1,0 +1,9 @@
+Karen and Supermarket                    
+
+httpscodeforcescomproblemsetproblem815C
+
+brute force
+
+2400
+
+On the way home Karen decided to stop by the supermarket to buy some groceries  She needs to buy a lot of goods but since she is a student her budget is still quite limited In fact she can only spend up to b dollarsThe supermarket sells n goods The ith good can be bought for ci dollars Of course each good can only be bought onceLately the supermarket has been trying to increase its business Karen being a loyal customer was given n coupons If Karen purchases the ith good she can use the ith coupon to decrease its price by di Of course a coupon cannot be used without buying the corresponding goodThere is however a constraint with the coupons For all i2 in order to use the ith coupon Karen must also use the xith coupon which may mean using even more coupons to satisfy the requirement for that couponKaren wants to know the following What is the maximum number of goods she can buy without exceeding her budget b

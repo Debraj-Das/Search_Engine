@@ -1,0 +1,9 @@
+Subsequence Counting                    
+
+httpscodeforcescomproblemsetproblem960C
+
+bitmasks
+
+1700
+
+Pikachu had an array with him He wrote down all the nonempty subsequences of the array on paper Note that an array of size n has 2n1 nonempty subsequences in it Pikachu being mischievous as he always is removed all the subsequences in which Maximumelementofthesubsequence  Minimumelementofsubsequence dPikachu was finally left with X subsequences However he lost the initial array he had and now is in serious trouble He still remembers the numbers X and d He now wants you to construct any such array which will satisfy the above conditions All the numbers in the final array should be positive integers less than 1018 Note the number of elements in the output array should not be more than 104 If no answer is possible print 1

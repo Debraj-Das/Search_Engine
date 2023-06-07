@@ -1,0 +1,9 @@
+Vasily the Bear and Fly                    
+
+httpscodeforcescomproblemsetproblem336B
+
+math
+
+1900
+
+One beautiful day Vasily the bear painted 2m circles of the same radius R on a coordinate plane Circles with numbers from 1 to m had centers at points 2RR0 4RR0  2RmR0 respectively Circles with numbers from m1 to 2m had centers at points 2RR2R 4RR2R  2RmR2R respectively Naturally the bear painted the circles for a simple experiment with a fly The experiment continued for m2 days Each day of the experiment got its own unique number from 0 to m21 inclusive On the day number i the following things happened   The fly arrived at the coordinate plane at the center of the circle with number   is the result of dividing number x by number y rounded down to an integer  The fly went along the coordinate plane to the center of the circle number   is the remainder after dividing number x by number y The bear noticed that the fly went from the center of circle v to the center of circle u along the shortest path with all points lying on the border or inside at least one of the 2m circles After the fly reached the center of circle u it flew away in an unknown direction Help Vasily count the average distance the fly went along the coordinate plane during each of these m2 days

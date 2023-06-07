@@ -1,0 +1,9 @@
+PolandBall and Hypothesis                    
+
+httpscodeforcescomproblemsetproblem755A
+
+brute force
+
+800
+
+PolandBall is a young clever Ball He is interested in prime numbers He has stated a following hypothesis There exists such a positive integer n that for each positive integer m number nm1 is a prime numberUnfortunately PolandBall is not experienced yet and doesnt know that his hypothesis is incorrect Could you prove it wrong Write a program that finds a counterexample for any n

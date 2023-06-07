@@ -1,0 +1,9 @@
+Bits                    
+
+httpscodeforcescomproblemsetproblem484A
+
+bitmasks
+
+1700
+
+Lets denote as  the number of bits set 1 bits in the binary representation of the nonnegative integer xYou are given multiple queries consisting of pairs of integers l and r For each query find the x such that lxr and  is maximum possible If there are multiple such numbers find the smallest of them

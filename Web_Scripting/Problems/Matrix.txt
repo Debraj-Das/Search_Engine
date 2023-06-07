@@ -1,0 +1,9 @@
+Matrix                    
+
+httpscodeforcescomproblemsetproblem243E
+
+data structures
+
+3000
+
+Lets consider an nn square matrix consisting of digits one and zeroWell consider a matrix good if it meets the following condition in each row of the matrix all ones go in one group That is each row of the matrix looks like that 000011110000 or simply consists of zeroes if it has no onesYou are given matrix a of size nn consisting of zeroes and ones Your task is to determine whether you can get a good matrix b from it by rearranging the columns or not

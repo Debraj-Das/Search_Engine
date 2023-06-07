@@ -1,0 +1,9 @@
+Vus the Cossack and a Field                    
+
+https://codeforces.com/problemset/problem/1186/E
+
+divide and conquer
+
+2500
+
+Vus the Cossack has a field with dimensions n \times m, which consists of "0" and "1". He is building an infinite field from this field. He is doing this in this way: He takes the current field and finds a new inverted field. In other words, the new field will contain "1" only there, where "0" was in the current field, and "0" there, where "1" was. To the current field, he adds the inverted field to the right.  To the current field, he adds the inverted field to the bottom.  To the current field, he adds the current field to the bottom right.  He repeats it.For example, if the initial field was: \begin{matrix} 1 & 0 & \\ 1 & 1 & \\ \end{matrix} After the first iteration, the field will be like this: \begin{matrix} 1 & 0 & 0 & 1 \\ 1 & 1 & 0 & 0 \\ 0 & 1 & 1 & 0 \\ 0 & 0 & 1 & 1 \\ \end{matrix} After the second iteration, the field will be like this: \begin{matrix} 1 & 0 & 0 & 1 & 0 & 1 & 1 & 0 \\ 1 & 1 & 0 & 0 & 0 & 0 & 1 & 1 \\ 0 & 1 & 1 & 0 & 1 & 0 & 0 & 1 \\ 0 & 0 & 1 & 1 & 1 & 1 & 0 & 0 \\ 0 & 1 & 1 & 0 & 1 & 0 & 0 & 1 \\ 0 & 0 & 1 & 1 & 1 & 1 & 0 & 0 \\ 1 & 0 & 0 & 1 & 0 & 1 & 1 & 0 \\ 1 & 1 & 0& 0 & 0 & 0 & 1 & 1 \\ \end{matrix} And so on...Let's numerate lines from top to bottom from 1 to infinity, and columns from left to right from 1 to infinity. We call the submatrix (x_1, y_1, x_2, y_2) all numbers that have coordinates (x, y) such that x_1 \leq x \leq x_2 and y_1 \leq y \leq y_2.The Cossack needs sometimes to find the sum of all the numbers in submatrices. Since he is pretty busy right now, he is asking you to find the answers!

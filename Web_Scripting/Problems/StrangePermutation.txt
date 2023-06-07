@@ -1,0 +1,9 @@
+Strange Permutation                    
+
+https://codeforces.com/problemset/problem/1470/E
+
+binary search
+
+3200
+
+Alice had a permutation p_1, p_2, \ldots, p_n. Unfortunately, the permutation looked very boring, so she decided to change it and choose some non-overlapping subranges of this permutation and reverse them. The cost of reversing a single subrange [l, r] (elements from position l to position r, inclusive) is equal to r - l, and the cost of the operation is the sum of costs of reversing individual subranges. Alice had an integer c in mind, so she only considered operations that cost no more than c.Then she got really bored, and decided to write down all the permutations that she could possibly obtain by performing exactly one operation on the initial permutation. Of course, Alice is very smart, so she wrote down each obtainable permutation exactly once (no matter in how many ways it can be obtained), and of course the list was sorted lexicographically.Now Bob would like to ask Alice some questions about her list. Each question is in the following form: what is the i-th number in the j-th permutation that Alice wrote down? Since Alice is too bored to answer these questions, she asked you to help her out.

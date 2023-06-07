@@ -1,0 +1,9 @@
+Fading into Fog                    
+
+https://codeforces.com/problemset/problem/1826/F
+
+geometry
+
+2800
+
+This is an interactive problem.There are n distinct hidden points with real coordinates on a two-dimensional Euclidean plane. In one query, you can ask some line ax + by + c = 0 and get the projections of all n points to this line in some order. The given projections are not exact, please read the interaction section for more clarity.Using the minimum number of queries, guess all n points and output them in some order. Here minimality means the minimum number of queries required to solve any possible test case with n points.The hidden points are fixed in advance and do not change throughout the interaction. In other words, the interactor is not adaptive.A projection of point A to line ax + by + c = 0 is the point on the line closest to A.

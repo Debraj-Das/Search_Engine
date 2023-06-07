@@ -1,0 +1,9 @@
+Anton and Danik                    
+
+https://codeforces.com/problemset/problem/734/A
+
+implementation
+
+800
+
+Anton likes to play chess, and so does his friend Danik.Once they have played n games in a row. For each game it's known who was the winner — Anton or Danik. None of the games ended with a tie.Now Anton wonders, who won more games, he or Danik? Help him determine this.

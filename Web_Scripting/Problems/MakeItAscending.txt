@@ -1,0 +1,9 @@
+Make It Ascending                    
+
+https://codeforces.com/problemset/problem/1342/F
+
+bitmasks
+
+3000
+
+You are given an array a consisting of n elements. You may apply several operations (possibly zero) to it.During each operation, you choose two indices i and j (1 \le i, j \le n; i \ne j), increase a_j by a_i, and remove the i-th element from the array (so the indices of all elements to the right to it decrease by 1, and n also decreases by 1).Your goal is to make the array a strictly ascending. That is, the condition a_1 < a_2 < \dots < a_n should hold (where n is the resulting size of the array).Calculate the minimum number of actions required to make the array strictly ascending.

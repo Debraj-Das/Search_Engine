@@ -1,0 +1,9 @@
+X-OR                    
+
+https://codeforces.com/problemset/problem/1364/E
+
+bitmasks
+
+2700
+
+This is an interactive problem!Ehab has a hidden permutation p of length n consisting of the elements from 0 to n-1. You, for some reason, want to figure out the permutation. To do that, you can give Ehab 2 different indices i and j, and he'll reply with (p_i|p_j) where | is the bitwise-or operation.Ehab has just enough free time to answer 4269 questions, and while he's OK with answering that many questions, he's too lazy to play your silly games, so he'll fix the permutation beforehand and will not change it depending on your queries. Can you guess the permutation?

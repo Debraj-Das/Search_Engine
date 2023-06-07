@@ -1,0 +1,9 @@
+Unsorting Array                    
+
+httpscodeforcescomproblemsetproblem252B
+
+brute force
+
+1800
+
+Little Petya likes arrays of integers a lot Recently his mother has presented him one such array consisting of n elements Petya is now wondering whether he can swap any two distinct integers in the array so that the array got unsorted Please note that Petya can not swap equal integers even if they are in distinct positions in the array Also note that Petya must swap some two integers even if the original array meets all requirementsArray a the array elements are indexed from 1 consisting of n elements is called sorted if it meets at least one of the following two conditions  a1a2an  a1a2an Help Petya find the two required positions to swap or else say that they do not exist

@@ -1,0 +1,9 @@
+Good Matrix Elements                    
+
+httpscodeforcescomproblemsetproblem177A2
+
+implementation
+
+800
+
+The Smart Beaver from ABBYY got hooked on square matrices Now he is busy studying an nn size matrix where n is odd The Smart Beaver considers the following matrix elements good    Elements of the main diagonal   Elements of the secondary diagonal   Elements of the middle row  the row which has exactly  rows above it and the same number of rows below it   Elements of the middle column  the column that has exactly  columns to the left of it and the same number of columns to the right of it    The figure shows a 55 matrix   The good elements are marked with green  Help the Smart Beaver count the sum of good elements of the given matrix

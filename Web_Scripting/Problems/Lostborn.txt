@@ -1,0 +1,9 @@
+Lostborn                    
+
+httpscodeforcescomproblemsetproblem93E
+
+dp
+
+2600
+
+Igor K very much likes a multiplayer role playing game WineAge II Who knows perhaps that might be the reason for his poor performance at the university As any person who plays the game he is interested in equipping his hero with as good weapon and outfit as possible One day as he was reading the games forum yet again he discovered a very interesting fact As it turns out each weapon in the game is characterised with k different numbers a1ak They are called hit indicators and according to the game developers plan they are pairwise coprime The damage that is inflicted during a hit depends not only on the weapons characteristics but also on the heros strength parameter Thus if the heros strength equals n than the inflicted damage will be calculated as the number of numbers on the segment  that arent divisible by any hit indicator aiRecently having fulfilled another quest Igor K found a new Lostborn sword He wants to know how much damage he will inflict upon his enemies if he uses it

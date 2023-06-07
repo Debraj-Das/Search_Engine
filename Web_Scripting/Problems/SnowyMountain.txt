@@ -1,0 +1,9 @@
+Snowy Mountain                    
+
+https://codeforces.com/problemset/problem/1654/G
+
+data structures
+
+2900
+
+There are n locations on a snowy mountain range (numbered from 1 to n), connected by n-1 trails in the shape of a tree. Each trail has length 1. Some of the locations are base lodges. The height h_i of each location is equal to the distance to the nearest base lodge (a base lodge has height 0).There is a skier at each location, each skier has initial kinetic energy 0. Each skier wants to ski along as many trails as possible. Suppose that the skier is skiing along a trail from location i to j. Skiers are not allowed to ski uphill (i.e., if h_i < h_j). It costs one unit of kinetic energy to ski along flat ground (i.e., if h_i = h_j), and a skier gains one unit of kinetic energy by skiing downhill (i.e., if h_i > h_j). For each location, compute the length of the longest sequence of trails that the skier starting at that location can ski along without their kinetic energy ever becoming negative. Skiers are allowed to visit the same location or trail multiple times.

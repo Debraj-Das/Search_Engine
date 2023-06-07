@@ -1,0 +1,9 @@
+Mike and Feet                    
+
+httpscodeforcescomproblemsetproblem547B
+
+binary search
+
+1900
+
+Mike is the president of country WhatTheFatherland There are n bears living in this country besides Mike All of them are standing in a line and they are numbered from 1 to n from left to right ith bear is exactly ai feet high   A group of bears is a nonempty contiguous segment of the line The size of a group is the number of bears in that group The strength of a group is the minimum height of the bear in that groupMike is a curious to know for each x such that 1xn the maximum strength among all groups of size x

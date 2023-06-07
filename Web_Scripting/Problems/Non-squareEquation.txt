@@ -1,0 +1,9 @@
+Nonsquare Equation                    
+
+httpscodeforcescomproblemsetproblem233B
+
+binary search
+
+1400
+
+Lets consider equationx2sxxn0 where xn are positive integers sx is the function equal to the sum of digits of number x in the decimal number systemYou are given an integer n find the smallest positive integer root of equation x or else determine that there are no such roots

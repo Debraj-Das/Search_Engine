@@ -1,0 +1,9 @@
+Ciel and Duel                    
+
+httpscodeforcescomproblemsetproblem321B
+
+dp
+
+1900
+
+Fox Ciel is playing a card game with her friend JiroJiro has n cards each one has two attributes position Attack or Defense and strength Fox Ciel has m cards each one has these two attributes too Its known that position of all Ciels cards is AttackNow is Ciels battle phase Ciel can do the following operation many times  Choose one of her cards X This card mustnt be chosen before  If Jiro has no alive cards at that moment he gets the damage equal to Xs strength Otherwise Ciel needs to choose one Jiros alive card Y then   If Ys position is Attack then Xs strength  Ys strength must hold After this attack card Y dies and Jiro gets the damage equal to Xs strength  Ys strength  If Ys position is Defense then Xs strength  Ys strength must hold After this attack card Y dies but Jiro gets no damage  Ciel can end her battle phase at any moment so she can use not all her cards Help the Fox to calculate the maximal sum of damage Jiro can get

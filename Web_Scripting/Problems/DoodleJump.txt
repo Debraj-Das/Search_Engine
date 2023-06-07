@@ -1,0 +1,9 @@
+Doodle Jump                    
+
+httpscodeforcescomproblemsetproblem346E
+
+math
+
+3000
+
+ In Doodle Jump the aim is to guide a fourlegged creature called The Doodler up a neverending series of platforms without falling  Wikipedia It is a very popular game and xiaodao likes it very much One day when playing the game she wondered whether there exists a platform that the doodler couldnt reach due to the limits of its jumping ability Consider the following problemThere are n platforms The height of the xth 1xn platform is ax mod p where a and p are positive coprime integers The maximum possible height of a Doodlers jump is h That is it can jump from height h1 to height h2 h1h2 if h2h1h Initially the Doodler is on the ground the height of which is 0 The question is whether it can reach the highest platform or notFor example when a7 n4 p12 h2 the heights of the platforms are 7 2 9 4 as in the picture below With the first jump the Doodler can jump to the platform at height 2 with the second one the Doodler can jump to the platform at height 4 but then it cant jump to any of the higher platforms So it cant reach the highest platform  User xiaodao thought about the problem for a long time but didnt solve it so she asks you for help Also she has a lot of instances of the problem Your task is solve all of these instances

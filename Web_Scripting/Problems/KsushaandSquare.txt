@@ -1,0 +1,9 @@
+Ksusha and Square                    
+
+httpscodeforcescomproblemsetproblem293D
+
+geometry
+
+2700
+
+Ksusha is a vigorous mathematician She is keen on absolutely incredible mathematical riddles Today Ksusha came across a convex polygon of nonzero area She is now wondering if she chooses a pair of distinct points uniformly among all integer points points with integer coordinates inside or on the border of the polygon and then draws a square with two opposite vertices lying in the chosen points what will the expectation of this squares area beA pair of distinct points is chosen uniformly among all pairs of distinct points located inside or on the border of the polygon Pairs of points pq pq and qp are considered the sameHelp Ksusha Count the required expectation

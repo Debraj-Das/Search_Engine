@@ -1,0 +1,9 @@
+Mahmoud and Ehab and the final stage                    
+
+httpscodeforcescomproblemsetproblem862F
+
+data structures
+
+2900
+
+Mahmoud and Ehab solved Dr Evils questions so he gave them the password of the door of the evil land When they tried to open the door using it the door gave them a final question to solve before they leave yes the door is digital Dr Evil is modern If they dont solve it all the work will be useless and they wont leave the evil land forever Will you help themMahmoud and Ehab are given n strings s1s2 sn numbered from 1 to n and q queries Each query has one of the following forms  1 a b 1abn For all the intervals lr where alrb find the maximum value of this expressionrl1LCPslsl1 sr1sr where LCPstr1str2str3  is the length of the longest common prefix of the strings str1str2str3  2 x y 1xn where y is a string consisting of lowercase English letters Change the string at position x to y

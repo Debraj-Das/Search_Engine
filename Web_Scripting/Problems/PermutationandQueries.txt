@@ -1,0 +1,9 @@
+Permutation and Queries                    
+
+https://codeforces.com/problemset/problem/1619/H
+
+brute force
+
+2400
+
+You are given a permutation p of n elements. A permutation of n elements is an array of length n containing each integer from 1 to n exactly once. For example, [1, 2, 3] and [4, 3, 5, 1, 2] are permutations, but [1, 2, 4] and [4, 3, 2, 1, 2] are not permutations. You should perform q queries.There are two types of queries:  1 x y — swap p_x and p_y.  2 i k — print the number that i will become if we assign i = p_i k times. 

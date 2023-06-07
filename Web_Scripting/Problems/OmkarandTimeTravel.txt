@@ -1,0 +1,9 @@
+Omkar and Time Travel                    
+
+https://codeforces.com/problemset/problem/1583/G
+
+data structures
+
+3000
+
+El Psy Kongroo.Omkar is watching Steins;Gate.In Steins;Gate, Okabe Rintarou needs to complete n tasks (1 \leq n \leq 2 \cdot 10^5). Unfortunately, he doesn't know when he needs to complete the tasks.Initially, the time is 0. Time travel will now happen according to the following rules:For each k = 1, 2, \ldots, n, Okabe will realize at time b_k that he was supposed to complete the k-th task at time a_k (a_k < b_k). When he realizes this, if k-th task was already completed at time a_k, Okabe keeps the usual flow of time. Otherwise, he time travels to time a_k then immediately completes the task.If Okabe time travels to time a_k, all tasks completed after this time will become incomplete again. That is, for every j, if a_j>a_k, the j-th task will become incomplete, if it was complete (if it was incomplete, nothing will change).Okabe has bad memory, so he can time travel to time a_k only immediately after getting to time b_k and learning that he was supposed to complete the k-th task at time a_k. That is, even if Okabe already had to perform k-th task before, he wouldn't remember it before stumbling on the info about this task at time b_k again.Please refer to the notes for an example of time travelling.There is a certain set s of tasks such that the first moment that all of the tasks in s are simultaneously completed (regardless of whether any other tasks are currently completed), a funny scene will take place. Omkar loves this scene and wants to know how many times Okabe will time travel before this scene takes place. Find this number modulo 10^9 + 7. It can be proven that eventually all n tasks will be completed and so the answer always exists.

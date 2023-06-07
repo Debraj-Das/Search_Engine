@@ -1,0 +1,9 @@
+Shortest Path Queries                    
+
+https://codeforces.com/problemset/problem/938/G
+
+bitmasks
+
+2900
+
+You are given an undirected connected graph with weighted edges. The length of some path between two vertices is the bitwise xor of weights of all edges belonging to this path (if some edge is traversed more than once, then it is included in bitwise xor the same number of times). There are three types of queries you have to process:  1 x y d — add an edge connecting vertex x to vertex y with weight d. It is guaranteed that there is no edge connecting x to y before this query;  2 x y — remove an edge connecting vertex x to vertex y. It is guaranteed that there was such edge in the graph, and the graph stays connected after this query;  3 x y — calculate the length of the shortest path (possibly non-simple) from vertex x to vertex y. Print the answers for all queries of type 3.

@@ -1,0 +1,9 @@
+ELCA                    
+
+httpscodeforcescomproblemsetproblem482E
+
+data structures
+
+3200
+
+You have a root tree containing n vertexes Lets number the tree vertexes with integers from 1 to n The tree root is in the vertex 1Each vertex except fot the tree root v has a direct ancestor pv Also each vertex v has its integer value sv Your task is to perform following queries  P v u uv If u isnt in subtree of v you must perform the assignment pvu Otherwise you must perform assignment puv Note that after this query the graph continues to be a tree consisting of n vertexes V v t Perform assignment svt Your task is following Before starting performing queries and after each query you have to calculate expected value written on the lowest common ancestor of two equiprobably selected vertices i and j Here lowest common ancestor of i and j is the deepest vertex that lies on the both of the path from the root to vertex i and the path from the root to vertex j Please note that the vertices i and j can be the same in this case their lowest common ancestor coincides with them

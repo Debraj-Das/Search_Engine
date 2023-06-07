@@ -1,0 +1,9 @@
+Road Improvement                    
+
+httpscodeforcescomproblemsetproblem543D
+
+dp
+
+2300
+
+The country has n cities and n1 bidirectional roads it is possible to get from every city to any other one if you move only along the roads The cities are numbered with integers from 1 to n inclusiveAll the roads are initially bad but the government wants to improve the state of some roads We will assume that the citizens are happy about road improvement if the path from the capital located in city x to any other city contains at most one bad roadYour task is  for every possible x determine the number of ways of improving the quality of some roads in order to meet the citizens condition As those values can be rather large you need to print each value modulo 1000000007 1097

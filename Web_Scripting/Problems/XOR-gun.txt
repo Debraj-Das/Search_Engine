@@ -1,0 +1,9 @@
+XOR-gun                    
+
+https://codeforces.com/problemset/problem/1415/D
+
+bitmasks
+
+2000
+
+Arkady owns a non-decreasing array a_1, a_2, \ldots, a_n. You are jealous of its beauty and want to destroy this property. You have a so-called XOR-gun that you can use one or more times.In one step you can select two consecutive elements of the array, let's say x and y, remove them from the array and insert the integer x \oplus y on their place, where \oplus denotes the bitwise XOR operation. Note that the length of the array decreases by one after the operation. You can't perform this operation when the length of the array reaches one.For example, if the array is [2, 5, 6, 8], you can select 5 and 6 and replace them with 5 \oplus 6 = 3. The array becomes [2, 3, 8].You want the array no longer be non-decreasing. What is the minimum number of steps needed? If the array stays non-decreasing no matter what you do, print -1.

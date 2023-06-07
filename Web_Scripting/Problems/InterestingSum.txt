@@ -1,0 +1,9 @@
+Interesting Sum                    
+
+https://codeforces.com/problemset/problem/1720/B
+
+brute force
+
+800
+
+You are given an array a that contains n integers. You can choose any proper subsegment a_l, a_{l + 1}, \ldots, a_r of this array, meaning you can choose any two integers 1 \le l \le r \le n, where r - l + 1 < n. We define the beauty of a given subsegment as the value of the following expression:\max(a_{1}, a_{2}, \ldots, a_{l-1}, a_{r+1}, a_{r+2}, \ldots, a_{n}) - \min(a_{1}, a_{2}, \ldots, a_{l-1}, a_{r+1}, a_{r+2}, \ldots, a_{n}) + \max(a_{l}, \ldots, a_{r}) - \min(a_{l}, \ldots, a_{r}).Please find the maximum beauty among all proper subsegments.

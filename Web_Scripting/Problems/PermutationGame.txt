@@ -1,0 +1,9 @@
+Permutation Game                    
+
+httpscodeforcescomproblemsetproblem1772E
+
+games
+
+1700
+
+Two players are playing a game They have a permutation of integers 1 2  n a permutation is an array where each element from 1 to n occurs exactly once The permutation is not sorted in either ascending or descending order ie the permutation does not have the form 1 2 dots n or n n1 dots 1Initially all elements of the permutation are colored red The players take turns On their turn the player can do one of three actions  rearrange the elements of the permutation in such a way that all red elements keep their positions note that blue elements can be swapped with each other but its not obligatory  change the color of one red element to blue  skip the turn The first player wins if the permutation is sorted in ascending order ie it becomes 1 2 dots n The second player wins if the permutation is sorted in descending order ie it becomes n n1 dots 1 If the game lasts for 100500 turns and nobody wins it ends in a drawYour task is to determine the result of the game if both players play optimally

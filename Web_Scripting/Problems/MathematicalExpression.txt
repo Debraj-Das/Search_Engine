@@ -1,0 +1,9 @@
+Mathematical Expression                    
+
+https://codeforces.com/problemset/problem/1461/F
+
+constructive algorithms
+
+2700
+
+Barbara was late for her math class so as a punishment the teacher made her solve the task on a sheet of paper. Barbara looked at the sheet of paper and only saw n numbers a_1, a_2, \ldots, a_n without any mathematical symbols. The teacher explained to Barbara that she has to place the available symbols between the numbers in a way that would make the resulting expression's value as large as possible. To find out which symbols were available the teacher has given Barbara a string s which contained that information.  It's easy to notice that Barbara has to place n - 1 symbols between numbers in total. The expression must start with a number and all symbols must be allowed (i.e. included in s). Note that multiplication takes precedence over addition or subtraction, addition and subtraction have the same priority and performed from left to right. Help Barbara and create the required expression!

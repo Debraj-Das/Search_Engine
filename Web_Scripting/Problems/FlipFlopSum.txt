@@ -1,0 +1,9 @@
+Flip Flop Sum                    
+
+https://codeforces.com/problemset/problem/1778/A
+
+greedy
+
+800
+
+You are given an array of n integers a_1, a_2, \ldots, a_n. The integers are either 1 or -1. You have to perform the following operation exactly once on the array a:  Choose an index i (1 \leq i < n) and flip the signs of a_i and a_{i+1}. Here, flipping the sign means -1 will be 1 and 1 will be -1. What is the maximum possible value of a_1 + a_2 + \ldots + a_n after applying the above operation?

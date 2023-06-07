@@ -1,0 +1,9 @@
+Watching Fireworks is Fun                    
+
+httpscodeforcescomproblemsetproblem372C
+
+data structures
+
+2100
+
+A festival will be held in a towns main street There are n sections in the main street The sections are numbered 1 through n from left to right The distance between each adjacent sections is 1In the festival m fireworks will be launched The ith 1im launching is on time ti at section ai If you are at section x 1xn at the time of ith launching youll gain happiness value biaix note that the happiness value might be a negative valueYou can move up to d length units in a unit time interval but its prohibited to go out of the main street Also you can be in an arbitrary section at initial time moment time equals to 1 and want to maximize the sum of happiness that can be gained from watching fireworks Find the maximum total happinessNote that two or more fireworks can be launched at the same time

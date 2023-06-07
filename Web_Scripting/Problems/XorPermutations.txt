@@ -1,0 +1,9 @@
+Xor Permutations                    
+
+https://codeforces.com/problemset/problem/1168/E
+
+constructive algorithms
+
+3100
+
+Toad Mikhail has an array of 2^k integers a_1, a_2, \ldots, a_{2^k}.Find two permutations p and q of integers 0, 1, \ldots, 2^k-1, such that a_i is equal to p_i \oplus q_i for all possible i, or determine there are no such permutations. Here \oplus denotes the bitwise XOR operation.

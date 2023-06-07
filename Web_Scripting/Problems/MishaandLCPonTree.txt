@@ -1,0 +1,9 @@
+Misha and LCP on Tree                    
+
+httpscodeforcescomproblemsetproblem504E
+
+binary search
+
+3000
+
+Misha has a tree with characters written on the vertices He can choose two vertices s and t of this tree and write down characters of vertices lying on a path from s to t Well say that such string corresponds to pair stMisha has m queries of type you are given 4 vertices a b c d you need to find the largest common prefix of the strings that correspond to pairs ab and cd Your task is to help him

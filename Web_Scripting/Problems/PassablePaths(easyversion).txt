@@ -1,0 +1,9 @@
+Passable Paths (easy version)                    
+
+https://codeforces.com/problemset/problem/1702/G1
+
+dfs and similar
+
+1900
+
+This is an easy version of the problem. The only difference between an easy and a hard version is in the number of queries.Polycarp grew a tree from n vertices. We remind you that a tree of n vertices is an undirected connected graph of n vertices and n-1 edges that does not contain cycles.He calls a set of vertices passable if there is such a path in the tree that passes through each vertex of this set without passing through any edge twice. The path can visit other vertices (not from this set).In other words, a set of vertices is called passable if there is a simple path that passes through all the vertices of this set (and possibly some other).For example, for a tree below sets \{3, 2, 5\}, \{1, 5, 4\}, \{1, 4\} are passable, and \{1, 3, 5\}, \{1, 2, 3, 4, 5\} are not.  Polycarp asks you to answer q queries. Each query is a set of vertices. For each query, you need to determine whether the corresponding set of vertices is passable.

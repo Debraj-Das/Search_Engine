@@ -1,0 +1,9 @@
+Replace With the Previous, Minimize                    
+
+https://codeforces.com/problemset/problem/1675/E
+
+dsu
+
+1500
+
+You are given a string s of lowercase Latin letters. The following operation can be used:   select one character (from 'a' to 'z') that occurs at least once in the string. And replace all such characters in the string with the previous one in alphabetical order on the loop. For example, replace all 'c' with 'b' or replace all 'a' with 'z'. And you are given the integer k — the maximum number of operations that can be performed. Find the minimum lexicographically possible string that can be obtained by performing no more than k operations.The string a=a_1a_2 \dots a_n is lexicographically smaller than the string b = b_1b_2 \dots b_n if there exists an index k (1 \le k \le n) such that a_1=b_1, a_2=b_2, ..., a_{k-1}=b_{k-1}, but a_k < b_k.

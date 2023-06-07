@@ -1,0 +1,9 @@
+Inconvenient Pairs                    
+
+https://codeforces.com/problemset/problem/1569/D
+
+binary search
+
+1900
+
+There is a city that can be represented as a square grid with corner points in (0, 0) and (10^6, 10^6).The city has n vertical and m horizontal streets that goes across the whole city, i. e. the i-th vertical streets goes from (x_i, 0) to (x_i, 10^6) and the j-th horizontal street goes from (0, y_j) to (10^6, y_j). All streets are bidirectional. Borders of the city are streets as well.There are k persons staying on the streets: the p-th person at point (x_p, y_p) (so either x_p equal to some x_i or y_p equal to some y_j, or both).Let's say that a pair of persons form an inconvenient pair if the shortest path from one person to another going only by streets is strictly greater than the Manhattan distance between them.Calculate the number of inconvenient pairs of persons (pairs (x, y) and (y, x) are the same pair).Let's recall that Manhattan distance between points (x_1, y_1) and (x_2, y_2) is |x_1 - x_2| + |y_1 - y_2|.

@@ -1,0 +1,9 @@
+Character Swap (Easy Version)                    
+
+https://codeforces.com/problemset/problem/1243/B1
+
+strings
+
+1000
+
+This problem is different from the hard version. In this version Ujan makes exactly one exchange. You can hack this problem only if you solve both problems.After struggling and failing many times, Ujan decided to try to clean up his house again. He decided to get his strings in order first.Ujan has two distinct strings s and t of length n consisting of only of lowercase English characters. He wants to make them equal. Since Ujan is lazy, he will perform the following operation exactly once: he takes two positions i and j (1 \le i,j \le n, the values i and j can be equal or different), and swaps the characters s_i and t_j. Can he succeed?Note that he has to perform this operation exactly once. He has to perform this operation.

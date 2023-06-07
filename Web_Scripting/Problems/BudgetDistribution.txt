@@ -1,0 +1,9 @@
+Budget Distribution                    
+
+https://codeforces.com/problemset/problem/1666/B
+
+
+
+3300
+
+Distributing budgeted money with limited resources and many constraints is a hard problem. A budget plan consists of t topics; i-th topic consists of n_i items. For each topic, the optimal relative money distribution is known. The optimal relative distribution for the topic i is a list of real numbers p_{i,j}, where \sum\limits_{j=1}^{n_i}{p_{i,j}} = 1. Let's denote the amount of money assigned to j-th item of the topic i as c_{i, j}; the total amount of money for the topic is C_i = \sum\limits_{j=1}^{n_i}{c_{i,j}}. A non-optimality of the plan for the topic i is defined as \sum\limits_{j=1}^{n_i}\left|\frac{c_{i, j}}{C_i} - p_{i, j}\right|. Informally, the non-optimality is the total difference between the optimal and the actual ratios of money assigned to all the items in the topic. The total plan non-optimality is the sum of non-optimalities of all t topics. Your task is to minimize the total plan non-optimality.However, the exact amount of money available is not known yet. j-th item of i-th topic already has \hat c_{i,j} dollars assigned to it and they cannot be taken back. Also, there are q possible values of the extra unassigned amounts of money available x_k. For each of them, you need to calculate the minimal possible total non-optimality among all ways to distribute this extra money. You don't need to assign an integer amount of money to an item, any real number is possible, but all the extra money must be distributed among all the items in addition to \hat c_{i,j} already assigned. Formally, for each value of extra money x_k you'll need to find its distribution d_{i,j} such that d_{i, j} \ge 0 and \sum\limits_{i=1}^{t}\sum\limits_{j=1}^{n_i} d_{i,j} = x_k, giving the resulting budget assignments c_{i,j} = \hat c_{i,j} + d_{i,j} that minimize the total plan non-optimality.

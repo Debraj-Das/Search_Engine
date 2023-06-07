@@ -1,0 +1,9 @@
+Tanya is 5!                    
+
+https://codeforces.com/problemset/problem/737/E
+
+graph matchings
+
+3300
+
+Tanya is now five so all her friends gathered together to celebrate her birthday. There are n children on the celebration, including Tanya.The celebration is close to its end, and the last planned attraction is gaming machines. There are m machines in the hall, they are numbered 1 through m. Each of the children has a list of machines he wants to play on. Moreover, for each of the machines he knows the exact time he wants to play on it. For every machine, no more than one child can play on this machine at the same time.It is evening already, so every adult wants to go home. To speed up the process, you can additionally rent second copies of each of the machines. To rent the second copy of the j-th machine, you have to pay pj burles. After you rent a machine, you can use it for as long as you want.How long it will take to make every child play according to his plan, if you have a budget of b burles for renting additional machines? There is only one copy of each machine, so it's impossible to rent a third machine of the same type.The children can interrupt the game in any moment and continue it later. If the i-th child wants to play on the j-th machine, it is allowed after you rent the copy of the j-th machine that this child would play some part of the time on the j-th machine and some part of the time on its copy (each of these parts could be empty). The interruptions and changes take no time and can be performed in any integer moment of time. Of course, a child can't play on more than one machine at the same time.Remember, that it is not needed to save money (no one saves money at the expense of children happiness!), it is needed to minimize the latest moment of time some child ends his game.

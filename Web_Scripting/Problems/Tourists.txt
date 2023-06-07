@@ -1,0 +1,9 @@
+Tourists                    
+
+httpscodeforcescomproblemsetproblem487E
+
+data structures
+
+3200
+
+There are n cities in Cyberland numbered from 1 to n connected by m bidirectional roads The jth road connects city aj and bjFor tourists souvenirs are sold in every city of Cyberland In particular city i sell it at a price of wiNow there are q queries for you to handle There are two types of queries C a w The price in city a is changed to w A a b Now a tourist will travel from city a to b He will choose a route he also doesnt want to visit a city twice He will buy souvenirs at the city where the souvenirs are the cheapest possibly exactly at city a or b You should output the minimum possible price that he can buy the souvenirs during his travelMore formally we can define routes as follow A route is a sequence of cities x1x2xk where k is a certain positive integer For any 1ijkxixj For any 1ik there is a road connecting xi and xi1 The minimum price of the route is minwx1wx2wxk The required answer is the minimum value of the minimum prices of all valid routes from a to b

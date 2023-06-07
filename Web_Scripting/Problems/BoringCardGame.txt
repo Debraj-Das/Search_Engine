@@ -1,0 +1,9 @@
+Boring Card Game                    
+
+https://codeforces.com/problemset/problem/1427/F
+
+data structures
+
+3200
+
+When they are bored, Federico and Giada often play the following card game with a deck containing 6n cards.Each card contains one number between 1 and 6n and each number appears on exactly one card. Initially the deck is sorted, so the first card contains the number 1, the second card contains the number 2, \dots, and the last one contains the number 6n.Federico and Giada take turns, alternating; Federico starts.In his turn, the player takes 3 contiguous cards from the deck and puts them in his pocket. The order of the cards remaining in the deck is not changed. They play until the deck is empty (after exactly 2n turns). At the end of the game both Federico and Giada have 3n cards in their pockets.You are given the cards in Federico's pocket at the end of the game. Describe a sequence of moves that produces that set of cards in Federico's pocket.

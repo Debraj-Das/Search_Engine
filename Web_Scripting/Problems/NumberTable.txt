@@ -1,0 +1,9 @@
+Number Table                    
+
+httpscodeforcescomproblemsetproblem40E
+
+combinatorics
+
+2500
+
+As it has been found out recently all the Berlands current economical state can be described using a simple table nm in size n  the number of days in each Berland month m  the number of months Thus a table cell corresponds to a day and a month of the Berlands year Each cell will contain either 1 or 1 which means the states gains in a particular month on a particular day 1 corresponds to profits 1 corresponds to losses It turned out important for successful development to analyze the data on the state of the economy of the previous year however when the treasurers referred to the archives to retrieve the data it turned out that the table had been substantially damaged In some table cells the number values had faded and were impossible to be deciphered It is known that the number of cells in which the data had been preserved is strictly less than maxnm However there is additional information  the product of the numbers in each line and column equaled 1 Your task is to find out how many different tables may conform to the preserved data As the answer to the task can be quite large you have to find it modulo p

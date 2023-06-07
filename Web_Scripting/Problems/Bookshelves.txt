@@ -1,0 +1,9 @@
+Bookshelves                    
+
+https://codeforces.com/problemset/problem/981/D
+
+bitmasks
+
+1900
+
+Mr Keks is a typical white-collar in Byteland.He has a bookshelf in his office with some books on it, each book has an integer positive price.Mr Keks defines the value of a shelf as the sum of books prices on it. Miraculously, Mr Keks was promoted and now he is moving into a new office.He learned that in the new office he will have not a single bookshelf, but exactly k bookshelves. He decided that the beauty of the k shelves is the bitwise AND of the values of all the shelves.He also decided that he won't spend time on reordering the books, so he will place several first books on the first shelf, several next books on the next shelf and so on. Of course, he will place at least one book on each shelf. This way he will put all his books on k shelves in such a way that the beauty of the shelves is as large as possible. Compute this maximum possible beauty.

@@ -1,0 +1,9 @@
+PolandBall and Polygon                    
+
+httpscodeforcescomproblemsetproblem755D
+
+data structures
+
+2000
+
+PolandBall has such a convex polygon with n veritces that no three of its diagonals intersect at the same point PolandBall decided to improve it and draw some red segments He chose a number k such that gcdnk1 Vertices of the polygon are numbered from 1 to n in a clockwise way PolandBall repeats the following process n times starting from the vertex 1 Assume youve ended last operation in vertex x consider x1 if it is the first operation Draw a new segment from vertex x to kth next vertex in clockwise direction This is a vertex xk or xkn depending on which of these is a valid index of polygons vertexYour task is to calculate number of polygons sections after each drawing A section is a clear area inside the polygon bounded with drawn diagonals or the polygons sides

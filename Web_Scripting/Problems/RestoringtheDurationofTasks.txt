@@ -1,0 +1,9 @@
+Restoring the Duration of Tasks                    
+
+https://codeforces.com/problemset/problem/1690/C
+
+data structures
+
+800
+
+Recently, Polycarp completed n successive tasks.For each completed task, the time s_i is known when it was given, no two tasks were given at the same time. Also given is the time f_i when the task was completed. For each task, there is an unknown value d_i (d_i>0) — duration of task execution.It is known that the tasks were completed in the order in which they came. Polycarp performed the tasks as follows:  As soon as the very first task came, Polycarp immediately began to carry it out.  If a new task arrived before Polycarp finished the previous one, he put the new task at the end of the queue.  When Polycarp finished executing the next task and the queue was not empty, he immediately took a new task from the head of the queue (if the queue is empty — he just waited for the next task). Find d_i (duration) of each task.

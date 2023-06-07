@@ -1,0 +1,9 @@
+Powers of Two                    
+
+httpscodeforcescomproblemsetproblem702B
+
+brute force
+
+1500
+
+You are given n integers a1a2an Find the number of pairs of indexes ij ij that aiaj is a power of 2 i e some integer x exists so that aiaj2x

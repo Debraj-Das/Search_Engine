@@ -1,0 +1,9 @@
+Boboniu Likes to Color Balls                    
+
+https://codeforces.com/problemset/problem/1395/A
+
+brute force
+
+1000
+
+Boboniu gives you  r red balls,  g green balls,  b blue balls,  w white balls. He allows you to do the following operation as many times as you want:   Pick a red ball, a green ball, and a blue ball and then change their color to white. You should answer if it's possible to arrange all the balls into a palindrome after several (possibly zero) number of described operations. 

@@ -1,0 +1,9 @@
+Spotlights                    
+
+httpscodeforcescomproblemsetproblem729B
+
+dp
+
+1200
+
+Theater stage is a rectangular field of size nm The director gave you the stages plan which actors will follow For each cell it is stated in the plan if there would be an actor in this cell or notYou are to place a spotlight on the stage in some good position The spotlight will project light in one of the four directions if you look at the stage from above left right up or down Thus the spotlights position is a cell it is placed to and a direction it shinesA position is good if two conditions hold   there is no actor in the cell the spotlight is placed to  there is at least one actor in the direction the spotlight projects Count the number of good positions for placing the spotlight Two positions of spotlight are considered to be different if the location cells or projection direction differ

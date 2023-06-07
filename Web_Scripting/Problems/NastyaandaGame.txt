@@ -1,0 +1,9 @@
+Nastya and a Game                    
+
+https://codeforces.com/problemset/problem/992/D
+
+brute force
+
+2100
+
+Nastya received one more array on her birthday, this array can be used to play a traditional Byteland game on it. However, to play the game the players should first select such a subsegment of the array that , where p is the product of all integers on the given array, s is their sum, and k is a given constant for all subsegments. Nastya wonders how many subsegments of the array fit the described conditions. A subsegment of an array is several consecutive integers of the array.

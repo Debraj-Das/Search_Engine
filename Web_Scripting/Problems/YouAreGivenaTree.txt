@@ -1,0 +1,9 @@
+You Are Given a Tree                    
+
+https://codeforces.com/problemset/problem/1039/D
+
+data structures
+
+2800
+
+A tree is an undirected graph with exactly one simple path between each pair of vertices. We call a set of simple paths k-valid if each vertex of the tree belongs to no more than one of these paths (including endpoints) and each path consists of exactly k vertices.You are given a tree with n vertices. For each k from 1 to n inclusive find what is the maximum possible size of a k-valid set of simple paths.

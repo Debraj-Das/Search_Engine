@@ -1,0 +1,9 @@
+Yet Another DAG Problem                    
+
+https://codeforces.com/problemset/problem/1430/G
+
+bitmasks
+
+2600
+
+You are given a directed acyclic graph (a directed graph that does not contain cycles) of n vertices and m arcs. The i-th arc leads from the vertex x_i to the vertex y_i and has the weight w_i.Your task is to select an integer a_v for each vertex v, and then write a number b_i on each arcs i such that b_i = a_{x_i} - a_{y_i}. You must select the numbers so that:  all b_i are positive;  the value of the expression \sum \limits_{i = 1}^{m} w_i b_i is the lowest possible. It can be shown that for any directed acyclic graph with non-negative w_i, such a way to choose numbers exists.

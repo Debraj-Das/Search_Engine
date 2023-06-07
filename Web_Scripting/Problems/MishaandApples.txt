@@ -1,0 +1,9 @@
+Misha and Apples                    
+
+https://codeforces.com/problemset/problem/1819/D
+
+brute force
+
+2800
+
+Schoolboy Misha got tired of doing sports programming, so he decided to quit everything and go to the magical forest to sell magic apples.His friend Danya came to the magical forest to visit Misha. What was his surprise when he found out that Misha found a lot of friends there, the same former sports programmers. And all of them, like Misha, have their own shop where they sell magic apples. To support his friends, who have changed their lives so drastically, he decided to buy up their entire assortment.The buying process works as follows: in total there are n stalls, numbered with integers from 1 to n, and m kinds of magic apples, numbered with integers from 1 to m. Each shop sells some number of kinds of apples. Danya visits all the shops in order of increasing number, starting with the first one. Upon entering the shop he buys one magic apple of each kind sold in that shop and puts them in his backpack.However, magical apples wouldn't be magical if they were all right. The point is that when two apples of the same type end up together in the backpack, all of the apples in it magically disappear. Importantly, the disappearance happens after Danya has put the apples in the backpack and left the shop.Upon returning home, Danya realized that somewhere in the forest he had managed to lose his backpack. Unfortunately, for some shops Danya had forgotten what assortment of apples there was. Remembering only for some shops, what kinds of magical apples were sold in them, he wants to know what is the maximum number of apples he could have in his backpack after all his purchases at best.

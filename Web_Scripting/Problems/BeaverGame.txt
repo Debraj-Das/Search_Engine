@@ -1,0 +1,9 @@
+Beaver Game                    
+
+https://codeforces.com/problemset/problem/78/C
+
+dp
+
+2000
+
+Two beavers, Timur and Marsel, play the following game.There are n logs, each of exactly m meters in length. The beavers move in turns. For each move a beaver chooses a log and gnaws it into some number (more than one) of equal parts, the length of each one is expressed by an integer and is no less than k meters. Each resulting part is also a log which can be gnawed in future by any beaver. The beaver that can't make a move loses. Thus, the other beaver wins.Timur makes the first move. The players play in the optimal way. Determine the winner.

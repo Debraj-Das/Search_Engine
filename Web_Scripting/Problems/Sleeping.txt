@@ -1,0 +1,9 @@
+Sleeping                    
+
+httpscodeforcescomproblemsetproblem113E
+
+combinatorics
+
+2700
+
+One day Vasya was lying in bed watching his electronic clock to fall asleep quickerVasya lives in a strange country where days have h hours and every hour has m minutes Clock shows time in decimal number system in format HM where the string H always has a fixed length equal to the number of digits in the decimal representation of number h1 To achieve this leading zeros are added if necessary The string M has a similar format and its length is always equal to the number of digits in the decimal representation of number m1 For example if h17 m1000 then time equal to 13 hours and 75 minutes will be displayed as 13075Vasya had been watching the clock from h1 hours m1 minutes to h2 hours m2 minutes inclusive and then he fell asleep Now he asks you to count how many times he saw the moment at which at least k digits changed on the clock simultaneouslyFor example when switching 0419  0420 two digits change When switching 2359  0000 four digits changeConsider that Vasya has been watching the clock for strictly less than one day Note that the last time Vasya saw on the clock before falling asleep was h2m2 That is Vasya didnt see the moment at which time h2m2 switched to the next value

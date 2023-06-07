@@ -1,0 +1,9 @@
+Tourist                    
+
+httpscodeforcescomproblemsetproblem76F
+
+binary search
+
+2300
+
+Tourist walks along the X axis He can choose either of two directions and any speed not exceeding V He can also stand without moving anywhere He knows from newspapers that at time t1 in the point with coordinate x1 an interesting event will occur at time t2 in the point with coordinate x2  another one and so on up to xntn Interesting events are short so we can assume they are immediate Event i counts visited if at time ti tourist was at point with coordinate xiWrite program tourist that will find maximum number of events tourist if   at the beginning when time is equal to 0 tourist appears at point 0  tourist can choose initial point for himself Yes you should answer on two similar but different questions

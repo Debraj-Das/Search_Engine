@@ -1,0 +1,9 @@
+Robot in a Hallway                    
+
+https://codeforces.com/problemset/problem/1716/C
+
+data structures
+
+2000
+
+There is a grid, consisting of 2 rows and m columns. The rows are numbered from 1 to 2 from top to bottom. The columns are numbered from 1 to m from left to right.The robot starts in a cell (1, 1). In one second, it can perform either of two actions:   move into a cell adjacent by a side: up, right, down or left;  remain in the same cell. The robot is not allowed to move outside the grid.Initially, all cells, except for the cell (1, 1), are locked. Each cell (i, j) contains a value a_{i,j} — the moment that this cell gets unlocked. The robot can only move into a cell (i, j) if at least a_{i,j} seconds have passed before the move.The robot should visit all cells without entering any cell twice or more (cell (1, 1) is considered entered at the start). It can finish in any cell.What is the fastest the robot can achieve that?

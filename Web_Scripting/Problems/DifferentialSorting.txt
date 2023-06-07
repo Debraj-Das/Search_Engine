@@ -1,0 +1,9 @@
+Differential Sorting                    
+
+https://codeforces.com/problemset/problem/1635/C
+
+constructive algorithms
+
+1200
+
+You are given an array a of n elements. Your can perform the following operation no more than n times: Select three indices x,y,z (1 \leq x < y < z \leq n) and replace a_x with a_y - a_z. After the operation, |a_x| need to be less than 10^{18}.Your goal is to make the resulting array non-decreasing. If there are multiple solutions, you can output any. If it is impossible to achieve, you should report it as well.

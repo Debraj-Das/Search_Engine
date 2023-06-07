@@ -1,0 +1,9 @@
+Alyona and Numbers                    
+
+httpscodeforcescomproblemsetproblem682A
+
+constructive algorithms
+
+1100
+
+After finishing eating her bun Alyona came up with two integers n and m She decided to write down two columns of integers the first column containing integers from 1 to n and the second containing integers from 1 to m Now the girl wants to count how many pairs of integers she can choose one from the first column and the other from the second column such that their sum is divisible by 5Formally Alyona wants to count the number of pairs of integers xy such that 1xn 1ym and  equals 0As usual Alyona has some troubles and asks you to help

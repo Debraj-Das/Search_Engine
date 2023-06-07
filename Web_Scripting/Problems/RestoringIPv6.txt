@@ -1,0 +1,9 @@
+Restoring IPv6                    
+
+httpscodeforcescomproblemsetproblem250B
+
+implementation
+
+1500
+
+An IPv6address is a 128bit number For convenience this number is recorded in blocks of 16 bits in hexadecimal record the blocks are separated by colons  8 blocks in total each block has four hexadecimal digits Here is an example of the correct record of a IPv6 address 0124567890abcdef0124567890abcdef Well call such format of recording an IPv6address fullBesides the full record of an IPv6 address there is a short record format The record of an IPv6 address can be shortened by removing one or more leading zeroes at the beginning of each block However each block should contain at least one digit in the short format For example the leading zeroes can be removed like that a56f00d3000001240001f19a10000000  a56fd30012401f19a100000 There are more ways to shorten zeroes in this IPv6 addressSome IPv6 addresses contain long sequences of zeroes Continuous sequences of 16bit zero blocks can be shortened to  A sequence can consist of one or several consecutive blocks with all 16 bits equal to 0 You can see examples of zero block shortenings below  a56f00d3000001240001000000000000  a56f00d3000001240001  a56f0000000001240001000012340ff0  a56f01240001000012340ff0  a56f0000000000000001000012340ff0  a56f000000000001000012340ff0  a56f00d3000001240001000000000000  a56f00d30000012400010000  00000000000000000000000000000000   It is not allowed to shorten zero blocks in the address more than once This means that the short record cant contain the sequence of characters  more than once Otherwise it will sometimes be impossible to determine the number of zero blocks each represented by a double colonThe format of the record of the IPv6 address after removing the leading zeroes and shortening the zero blocks is called shortYouve got several short records of IPv6 addresses Restore their full record

@@ -1,0 +1,9 @@
+Divan and a Cottage                    
+
+https://codeforces.com/problemset/problem/1614/E
+
+binary search
+
+2600
+
+Divan's new cottage is finally complete! However, after a thorough inspection, it turned out that the workers had installed the insulation incorrectly, and now the temperature in the house directly depends on the temperature outside. More precisely, if the temperature in the house is P in the morning, and the street temperature is T, then by the next morning the temperature in the house changes according to the following rule:   P_{new} = P + 1, if P < T,  P_{new} = P - 1, if P > T,  P_{new} = P, if P = T.  Here P_{new} is the temperature in the house next morning.Divan is a very busy businessman, so sometimes he is not at home for long periods and does not know what the temperature is there now, so he hired you to find it. You will work for n days. In the beginning of the i-th day, the temperature outside T_i is first given to you. After that, on the i-th day, you will receive k_i queries. Each query asks the following: "if the temperature in the house was x_i at the morning of the first day, what would be the temperature in the house next morning (after day i)?"Please answer all the businessman's queries.

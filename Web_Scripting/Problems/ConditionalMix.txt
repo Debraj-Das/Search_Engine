@@ -1,0 +1,9 @@
+Conditional Mix                    
+
+https://codeforces.com/problemset/problem/1740/F
+
+combinatorics
+
+2600
+
+Pak Chanek is given an array a of n integers. For each i (1 \leq i \leq n), Pak Chanek will write the one-element set \{a_i\} on a whiteboard.After that, in one operation, Pak Chanek may do the following:   Choose two different sets S and T on the whiteboard such that S \cap T = \varnothing (S and T do not have any common elements).  Erase S and T from the whiteboard and write S \cup T (the union of S and T) onto the whiteboard. After performing zero or more operations, Pak Chanek will construct a multiset M containing the sizes of all sets written on the whiteboard. In other words, each element in M corresponds to the size of a set after the operations.How many distinct^\dagger multisets M can be created by this process? Since the answer may be large, output it modulo 998\,244\,353.^\dagger Multisets B and C are different if and only if there exists a value k such that the number of elements with value k in B is different than the number of elements with value k in C.

@@ -1,0 +1,9 @@
+Deja Vu                    
+
+httpscodeforcescomproblemsetproblem331E2
+
+constructive algorithms
+
+3100
+
+Everybody knows that we have been living in the Matrix for a long time And in the new seventh Matrix the world is ruled by beaversSo lets take beaver Neo Neo has socalled deja vu outbursts when he gets visions of events in some places hes been at or is going to be at Lets examine the phenomenon in more detailWe can say that Neos city is represented by a directed graph consisting of n shops and m streets that connect the shops No two streets connect the same pair of shops besides there cant be one street from A to B and one street from B to A No street connects a shop with itself As Neo passes some streets he gets visions No matter how many times he passes street k every time he will get the same visions in the same order A vision is a sequence of shopsWe know that Neo is going to get really shocked if he passes the way from some shop a to some shop b possible coinciding with a such that the list of visited shops in the real life and in the visions coincideSuggest beaver Neo such path of nonzero length Or maybe you can even count the number of such paths modulo 1000000007 1097

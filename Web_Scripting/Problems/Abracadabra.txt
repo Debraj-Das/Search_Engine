@@ -1,0 +1,9 @@
+Abracadabra                    
+
+httpscodeforcescomproblemsetproblem161C
+
+divide and conquer
+
+2400
+
+Polycarpus analyzes a string called abracadabra This string is constructed using the following algorithm   On the first step the string consists of a single character a  On the kth step Polycarpus concatenates two copies of the string obtained on the k1th step while inserting the kth character of the alphabet between them Polycarpus uses the alphabet that consists of lowercase Latin letters and digits a total of 36 characters The alphabet characters are numbered like this the 1st character is a the 2nd  b  the 26th  z the 27th  0 the 28th  1  the 36th  9 Lets have a closer look at the algorithm On the second step Polycarpus will concatenate two strings a and insert the character b between them resulting in aba string The third step will transform it into abacaba and the fourth one  into abacabadabacaba Thus the string constructed on the kth step will consist of 2k1 characters Polycarpus wrote down the string he got after 30 steps of the given algorithm and chose two nonempty substrings of it Your task is to find the length of the longest common substring of the two substrings selected by PolycarpusA substring si j 1ijs of string s  s1s2 ss is a string sisi1 sj For example substring s24 of string s  abacaba equals bac The string is its own substringThe longest common substring of two strings s and t is the longest string that is a substring of both s and t For example the longest common substring of contest and systemtesting is string test There can be several common substrings of maximum length

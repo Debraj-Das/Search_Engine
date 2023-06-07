@@ -1,0 +1,9 @@
+Dima and Salad                    
+
+https://codeforces.com/problemset/problem/366/C
+
+dp
+
+1900
+
+Dima, Inna and Seryozha have gathered in a room. That's right, someone's got to go. To cheer Seryozha up and inspire him to have a walk, Inna decided to cook something. Dima and Seryozha have n fruits in the fridge. Each fruit has two parameters: the taste and the number of calories. Inna decided to make a fruit salad, so she wants to take some fruits from the fridge for it. Inna follows a certain principle as she chooses the fruits: the total taste to the total calories ratio of the chosen fruits must equal k. In other words,  , where aj is the taste of the j-th chosen fruit and bj is its calories.Inna hasn't chosen the fruits yet, she is thinking: what is the maximum taste of the chosen fruits if she strictly follows her principle? Help Inna solve this culinary problem — now the happiness of a young couple is in your hands!Inna loves Dima very much so she wants to make the salad from at least one fruit.

@@ -1,0 +1,9 @@
+Edgy Trees                    
+
+https://codeforces.com/problemset/problem/1139/C
+
+dfs and similar
+
+1500
+
+You are given a tree (a connected undirected graph without cycles) of n vertices. Each of the n - 1 edges of the tree is colored in either black or red.You are also given an integer k. Consider sequences of k vertices. Let's call a sequence [a_1, a_2, \ldots, a_k] good if it satisfies the following criterion:  We will walk a path (possibly visiting same edge/vertex multiple times) on the tree, starting from a_1 and ending at a_k.  Start at a_1, then go to a_2 using the shortest path between a_1 and a_2, then go to a_3 in a similar way, and so on, until you travel the shortest path between a_{k-1} and a_k. If you walked over at least one black edge during this process, then the sequence is good.   Consider the tree on the picture. If k=3 then the following sequences are good: [1, 4, 7], [5, 5, 3] and [2, 3, 7]. The following sequences are not good: [1, 4, 6], [5, 5, 5], [3, 7, 3].There are n^k sequences of vertices, count how many of them are good. Since this number can be quite large, print it modulo 10^9+7.

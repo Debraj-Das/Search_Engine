@@ -1,0 +1,9 @@
+Cashback                    
+
+httpscodeforcescomproblemsetproblem940E
+
+data structures
+
+2000
+
+Since you are the best Wraith King Nizhniy Magazin Mir at the centre of Vinnytsia is offering you a discountYou are given an array a of length n and an integer c The value of some array b of length k is the sum of its elements except for the  smallest For example the value of the array 31652 with c2 is 36514Among all possible partitions of a into contiguous subarrays output the smallest possible sum of the values of these subarrays

@@ -1,0 +1,9 @@
+BAN BAN                    
+
+https://codeforces.com/problemset/problem/1747/B
+
+constructive algorithms
+
+900
+
+You are given an integer n.Let's define s(n) as the string "BAN" concatenated n times. For example, s(1) = "BAN", s(3) = "BANBANBAN". Note that the length of the string s(n) is equal to 3n.Consider s(n). You can perform the following operation on s(n) any number of times (possibly zero): Select any two distinct indices i and j (1 \leq i, j \leq 3n, i \ne j). Then, swap s(n)_i and s(n)_j. You want the string "BAN" to not appear in s(n) as a subsequence. What's the smallest number of operations you have to do to achieve this? Also, find one such shortest sequence of operations.A string a is a subsequence of a string b if a can be obtained from b by deletion of several (possibly, zero or all) characters.

@@ -1,0 +1,9 @@
+Find and Replace                    
+
+https://codeforces.com/problemset/problem/1807/C
+
+greedy
+
+800
+
+You are given a string s consisting of lowercase Latin characters. In an operation, you can take a character and replace all occurrences of this character with \texttt{0} or replace all occurrences of this character with \texttt{1}.Is it possible to perform some number of moves so that the resulting string is an alternating binary string^{\dagger}? For example, consider the string \texttt{abacaba}. You can perform the following moves:   Replace \texttt{a} with \texttt{0}. Now the string is \color{red}{\texttt{0}}\texttt{b}\color{red}{\texttt{0}}\texttt{c}\color{red}{\texttt{0}}\texttt{b}\color{red}{\texttt{0}}.  Replace \texttt{b} with \texttt{1}. Now the string is {\texttt{0}}\color{red}{\texttt{1}}{\texttt{0}}\texttt{c}{\texttt{0}}\color{red}{\texttt{1}}{\texttt{0}}.  Replace \texttt{c} with \texttt{1}. Now the string is {\texttt{0}}{\texttt{1}}{\texttt{0}}\color{red}{\texttt{1}}{\texttt{0}}{\texttt{1}}{\texttt{0}}. This is an alternating binary string. ^{\dagger}An alternating binary string is a string of \texttt{0}s and \texttt{1}s such that no two adjacent bits are equal. For example, \texttt{01010101}, \texttt{101}, \texttt{1} are alternating binary strings, but \texttt{0110}, \texttt{0a0a0}, \texttt{10100} are not.

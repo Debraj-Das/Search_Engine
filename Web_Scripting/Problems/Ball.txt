@@ -1,0 +1,9 @@
+Ball                    
+
+httpscodeforcescomproblemsetproblem12D
+
+data structures
+
+2400
+
+N ladies attend the ball in the Kings palace Every lady can be described with three values beauty intellect and richness Kings Master of Ceremonies knows that ladies are very special creatures If some lady understands that there is other lady at the ball which is more beautiful smarter and more rich she can jump out of the window He knows values of all ladies and wants to find out how many probable selfmurderers will be on the ball Lets denote beauty of the ith lady by Bi her intellect by Ii and her richness by Ri Then ith lady is a probable selfmurderer if there is some jth lady that BiBjIiIjRiRj Find the number of probable selfmurderers

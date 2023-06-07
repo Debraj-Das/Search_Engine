@@ -1,0 +1,9 @@
+Binary Cards                    
+
+httpscodeforcescomproblemsetproblem949E
+
+brute force
+
+2700
+
+It is never too late to play the fancy Binary Cards gameThere is an infinite amount of cards of positive and negative ranks that are used in the game The absolute value of any card rank is a power of two ie each card has a rank of either 2k or 2k for some integer k0 There is an infinite amount of cards of any valid rankAt the beginning of the game player forms his deck that is some multiset possibly empty of cards It is allowed to pick any number of cards of any rank but the small deck is considered to be a skill indicator Game consists of n rounds In the ith round jury tells the player an integer ai After that the player is obligated to draw such a subset of his deck that the sum of ranks of the chosen cards is equal to ai it is allowed to not draw any cards in which case the sum is considered to be equal to zero If player fails to do so he loses and the game is over Otherwise player takes back all of his cards into his deck and the game proceeds to the next round Player is considered a winner if he is able to draw the suitable set of cards in each of the roundsSomebody told you which numbers ai the jury is going to tell you in each round Now you want to pick a deck consisting of the minimum number of cards that allows you to win the Binary Cards game

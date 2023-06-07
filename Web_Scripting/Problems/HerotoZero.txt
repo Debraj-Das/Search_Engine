@@ -1,0 +1,9 @@
+Hero to Zero                    
+
+httpscodeforcescomproblemsetproblem1765J
+
+graph matchings
+
+2900
+
+There are no heroes in this problem I guess we should have named it To ZeroYou are given two arrays a and b each of these arrays contains n nonnegative integersLet c be a matrix of size n times n such that cij  ai  bj for every i in 1 n and every j in 1 nYour goal is to transform the matrix c so that it becomes the zero matrix ie a matrix where every element is exactly 0 In order to do so you may perform the following operations any number of times in any order  choose an integer i then decrease cij by 1 for every j in 1 n ie decrease all elements in the ith row by 1 In order to perform this operation you pay 1 coin  choose an integer j then decrease cij by 1 for every i in 1 n ie decrease all elements in the jth column by 1 In order to perform this operation you pay 1 coin  choose two integers i and j then decrease cij by 1 In order to perform this operation you pay 1 coin  choose an integer i then increase cij by 1 for every j in 1 n ie increase all elements in the ith row by 1 When you perform this operation you receive 1 coin  choose an integer j then increase cij by 1 for every i in 1 n ie increase all elements in the jth column by 1 When you perform this operation you receive 1 coin You have to calculate the minimum number of coins required to transform the matrix c into the zero matrix Note that all elements of c should be equal to 0 simultaneously after the operations

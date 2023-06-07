@@ -1,0 +1,9 @@
+Move by Prime                    
+
+httpscodeforcescomproblemsetproblem653G
+
+combinatorics
+
+3100
+
+Pussycat Sonya has an array consisting of n positive integers There are 2n possible subsequences of the array For each subsequence she counts the minimum number of operations to make all its elements equal Each operation must be one of two  Choose some element of the subsequence and multiply it by some prime number  Choose some element of the subsequence and divide it by some prime number The chosen element must be divisible by the chosen prime number What is the sum of minimum number of operations for all 2n possible subsequences Find and print this sum modulo 1097

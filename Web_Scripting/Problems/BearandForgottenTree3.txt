@@ -1,0 +1,9 @@
+Bear and Forgotten Tree 3                    
+
+httpscodeforcescomproblemsetproblem639B
+
+constructive algorithms
+
+1600
+
+A tree is a connected undirected graph consisting of n vertices and n1 edges Vertices are numbered 1 through nLimak is a little polar bear and Radewoosh is his evil enemy Limak once had a tree but Radewoosh stolen it Bear is very sad now because he doesnt remember much about the tree he can tell you only three values n d and h  The tree had exactly n vertices  The tree had diameter d In other words d was the biggest distance between two vertices  Limak also remembers that he once rooted the tree in vertex 1 and after that its height was h In other words h was the biggest distance between vertex 1 and some other vertex The distance between two vertices of the tree is the number of edges on the simple path between themHelp Limak to restore his tree Check whether there exists a tree satisfying the given conditions Find any such tree and print its edges in any order Its also possible that Limak made a mistake and there is no suitable tree in this case print 1

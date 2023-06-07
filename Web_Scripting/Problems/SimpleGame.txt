@@ -1,0 +1,9 @@
+Simple Game                    
+
+httpscodeforcescomproblemsetproblem570B
+
+constructive algorithms
+
+1300
+
+One day Misha and Andrew were playing a very simple game First each player chooses an integer in the range from 1 to n Lets assume that Misha chose number m and Andrew chose number aThen by using a random generator they choose a random integer c in the range between 1 and n any integer from 1 to n is chosen with the same probability after which the winner is the player whose number was closer to c The boys agreed that if m and a are located on the same distance from c Misha winsAndrew wants to win very much so he asks you to help him You know the number selected by Misha and number n You need to determine which value of a Andrew must choose so that the probability of his victory is the highest possibleMore formally you need to find such integer a 1an that the probability that  is maximal where c is the equiprobably chosen integer from 1 to n inclusive

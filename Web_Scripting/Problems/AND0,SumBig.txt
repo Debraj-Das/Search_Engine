@@ -1,0 +1,9 @@
+AND 0, Sum Big                    
+
+https://codeforces.com/problemset/problem/1514/B
+
+bitmasks
+
+1200
+
+Baby Badawy's first words were "AND 0 SUM BIG", so he decided to solve the following problem. Given two integers n and k, count the number of arrays of length n such that:  all its elements are integers between 0 and 2^k-1 (inclusive);  the bitwise AND of all its elements is 0;  the sum of its elements is as large as possible. Since the answer can be very large, print its remainder when divided by 10^9+7.

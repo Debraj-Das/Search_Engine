@@ -1,0 +1,9 @@
+Square Root of Permutation                    
+
+httpscodeforcescomproblemsetproblem612E
+
+combinatorics
+
+2200
+
+A permutation of length n is an array containing each integer from 1 to n exactly once For example q45123 is a permutation For the permutation q the square of permutation is the permutation p that piqqi for each i1 n For example the square of q45123 is pq223451This problem is about the inverse operation given the permutation p you task is to find such permutation q that q2p If there are several such q find any of them

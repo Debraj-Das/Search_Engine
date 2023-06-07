@@ -1,0 +1,9 @@
+Bear and Destroying Subtrees                    
+
+httpscodeforcescomproblemsetproblem643E
+
+dp
+
+2700
+
+Limak is a little grizzly bear He will once attack Deerland but now he can only destroy trees in roleplaying games Limak starts with a tree with one vertex The only vertex has index 1 and is a root of the treeSometimes a game chooses a subtree and allows Limak to attack it When a subtree is attacked then each of its edges is destroyed with probability  independently of other edges Then Limak gets the penalty an integer equal to the height of the subtree after the attack The height is defined as the maximum number of edges on the path between the root of the subtree and any vertex in the subtreeYou must handle queries of two types  1 v denotes a query of the first type A new vertex appears and its parent is v A new vertex has the next available index so new vertices will be numbered 23  2 v denotes a query of the second type For a moment lets assume that the game allows Limak to attack a subtree rooted in v Then what would be the expected value of the penalty Limak gets after the attack In a query of the second type Limak doesnt actually attack the subtree and thus the query doesnt affect next queries

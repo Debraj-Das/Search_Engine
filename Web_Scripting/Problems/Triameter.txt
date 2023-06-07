@@ -1,0 +1,9 @@
+Triameter                    
+
+https://codeforces.com/problemset/problem/1712/F
+
+binary search
+
+3200
+
+ — What is my mission?  — To count graph diameters.You and Your SubmissionA tree is a connected undirected graph without cycles. A weighted tree has a weight assigned to each edge. The degree of a vertex is the number of edges connected to this vertex.You are given a weighted tree with n vertices, each edge has a weight of 1. Let L be the set of vertices with degree equal to 1. You have to answer q independent queries. In the i-th query:  You are given a positive integer x_i.  For all u,v \in L such that u < v, add edge (u, v) with weight x_i to the graph (initially the given tree).  Find the diameter of the resulting graph. The diameter of a graph is equal to \max\limits_{1 \le u < v \le n}{\operatorname{d}(u, v)}, where \operatorname{d}(u, v) is the length of the shortest path between vertex u and vertex v.

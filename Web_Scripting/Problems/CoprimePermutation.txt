@@ -1,0 +1,9 @@
+Coprime Permutation                    
+
+httpscodeforcescomproblemsetproblem698F
+
+combinatorics
+
+3000
+
+Two positive integers are coprime if and only if they dont have a common divisor greater than 1Some bear doesnt want to tell Radewoosh how to solve some algorithmic problem So Radewoosh is going to break into that bears safe with solutions To pass through the door he must enter a permutation of numbers 1 through n The door opens if and only if an entered permutation p1p2pn satisfiesIn other words two different elements are coprime if and only if their indices are coprime Some elements of a permutation may be already fixed In how many ways can Radewoosh fill the remaining gaps so that the door will open Print the answer modulo 1097

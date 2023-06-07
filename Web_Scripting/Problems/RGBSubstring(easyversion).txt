@@ -1,0 +1,9 @@
+RGB Substring (easy version)                    
+
+https://codeforces.com/problemset/problem/1196/D1
+
+implementation
+
+1500
+
+The only difference between easy and hard versions is the size of the input.You are given a string s consisting of n characters, each character is 'R', 'G' or 'B'.You are also given an integer k. Your task is to change the minimum number of characters in the initial string s so that after the changes there will be a string of length k that is a substring of s, and is also a substring of the infinite string "RGBRGBRGB ...".A string a is a substring of string b if there exists a positive integer i such that a_1 = b_i, a_2 = b_{i + 1}, a_3 = b_{i + 2}, ..., a_{|a|} = b_{i + |a| - 1}. For example, strings "GBRG", "B", "BR" are substrings of the infinite string "RGBRGBRGB ..." while "GR", "RGR" and "GGG" are not.You have to answer q independent queries.

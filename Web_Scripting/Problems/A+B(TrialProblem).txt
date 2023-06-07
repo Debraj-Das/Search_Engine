@@ -1,0 +1,9 @@
+A+B (Trial Problem)                    
+
+https://codeforces.com/problemset/problem/1351/A
+
+implementation
+
+800
+
+You are given two integers a and b. Print a+b.

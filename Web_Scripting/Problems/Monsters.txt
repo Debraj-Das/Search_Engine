@@ -1,0 +1,9 @@
+Monsters                    
+
+https://codeforces.com/problemset/problem/1810/E
+
+brute force
+
+2100
+
+There is an undirected graph with n vertices and m edges. Initially, for each vertex i, there is a monster with danger a_{i} on that vertex. For a monster with danger a_{i}, you can defeat it if and only if you have defeated at least a_{i} other monsters before.Now you want to defeat all the monsters. First, you choose some vertex s and defeat the monster on that vertex (since you haven't defeated any monsters before, a_{s} has to be 0). Then, you can move through the edges. If you want to move from vertex u to vertex v, then the following must hold: either the monster on vertex v has been defeated before, or you can defeat it now. For the second case, you defeat the monster on vertex v and reach vertex v.You can pass the vertices and the edges any number of times. Determine whether you can defeat all the monsters or not.

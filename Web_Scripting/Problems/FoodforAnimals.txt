@@ -1,0 +1,9 @@
+Food for Animals                    
+
+https://codeforces.com/problemset/problem/1675/A
+
+greedy
+
+800
+
+In the pet store on sale there are:  a packs of dog food;  b packs of cat food;  c packs of universal food (such food is suitable for both dogs and cats). Polycarp has x dogs and y cats. Is it possible that he will be able to buy food for all his animals in the store? Each of his dogs and each of his cats should receive one pack of suitable food for it.

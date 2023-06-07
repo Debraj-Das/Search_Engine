@@ -1,0 +1,9 @@
+Communication Towers                    
+
+httpscodeforcescomproblemsetproblem1814F
+
+brute force
+
+2700
+
+There are n communication towers numbered from 1 to n and m bidirectional wires between them Each tower has a certain set of frequencies that it accepts the ith of them accepts frequencies from li to riLets say that a tower b is accessible from a tower a if there exists a frequency x and a sequence of towers av1 v2 dots vkb where consecutive towers in the sequence are directly connected by a wire and each of them accepts frequency x Note that accessibility is not transitive ie if b is accessible from a and c is accessible from b then c may not be accessible from aYour task is to determine the towers that are accessible from the 1st tower

@@ -1,0 +1,9 @@
+Recommendations                    
+
+https://codeforces.com/problemset/problem/1310/A
+
+data structures
+
+1700
+
+VK news recommendation system daily selects interesting publications of one of n disjoint categories for each user. Each publication belongs to exactly one category. For each category i batch algorithm selects a_i publications.The latest A/B test suggests that users are reading recommended publications more actively if each category has a different number of publications within daily recommendations. The targeted algorithm can find a single interesting publication of i-th category within t_i seconds. What is the minimum total time necessary to add publications to the result of batch algorithm execution, so all categories have a different number of publications? You can't remove publications recommended by the batch algorithm.

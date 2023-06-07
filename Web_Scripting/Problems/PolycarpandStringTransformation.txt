@@ -1,0 +1,9 @@
+Polycarp and String Transformation                    
+
+https://codeforces.com/problemset/problem/1560/E
+
+binary search
+
+1800
+
+Polycarp has a string s. Polycarp performs the following actions until the string s is empty (t is initially an empty string):  he adds to the right to the string t the string s, i.e. he does t = t + s, where t + s is a concatenation of the strings t and s;  he selects an arbitrary letter of s and removes from s all its occurrences (the selected letter must occur in the string s at the moment of performing this action). Polycarp performs this sequence of actions strictly in this order.Note that after Polycarp finishes the actions, the string s will be empty and the string t will be equal to some value (that is undefined and depends on the order of removing).E.g. consider s="abacaba" so the actions may be performed as follows:  t="abacaba", the letter 'b' is selected, then s="aacaa";  t="abacabaaacaa", the letter 'a' is selected, then s="c";  t="abacabaaacaac", the letter 'c' is selected, then s="" (the empty string). You need to restore the initial value of the string s using only the final value of t and find the order of removing letters from s.

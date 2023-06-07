@@ -1,0 +1,9 @@
+Iron Man                    
+
+httpscodeforcescomproblemsetproblem704E
+
+data structures
+
+3300
+
+Tony Stark is playing a game with his suits they have autopilot now He lives in Malibu Malibu has n junctions numbered from 1 to n connected with n1 roads One can get from a junction to any other junction using these roads graph of Malibu forms a treeTony has m suits Theres a special plan for each suit The ith suit will appear at the moment of time ti in the junction vi and will move to junction ui using the shortest path between vi and ui with the speed ci roads per second passing a junctions takes no time and vanishing immediately when arriving at ui if it reaches ui in time q its available there at moment q but not in further moments Also suits move continuously for example if viui at time  its in the middle of a road Please note that if viui it means the suit will be at junction number vi only at moment ti and then it vanishes An explosion happens if at any moment of time two suits share the same exact location it may be in a junction or somewhere on a road while appearing vanishing or movingYour task is to tell Tony the moment of the the first explosion if there will be any

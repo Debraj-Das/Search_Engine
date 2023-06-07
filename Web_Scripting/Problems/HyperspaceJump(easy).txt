@@ -1,0 +1,9 @@
+Hyperspace Jump (easy)                    
+
+https://codeforces.com/problemset/problem/958/D1
+
+expression parsing
+
+1400
+
+The Rebel fleet is on the run. It consists of m ships currently gathered around a single planet. Just a few seconds ago, the vastly more powerful Empire fleet has appeared in the same solar system, and the Rebels will need to escape into hyperspace. In order to spread the fleet, the captain of each ship has independently come up with the coordinate to which that ship will jump. In the obsolete navigation system used by the Rebels, this coordinate is given as the value of an arithmetic expression of the form .To plan the future of the resistance movement, Princess Heidi needs to know, for each ship, how many ships are going to end up at the same coordinate after the jump. You are her only hope!

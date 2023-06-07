@@ -1,0 +1,9 @@
+Unfair Poll                    
+
+httpscodeforcescomproblemsetproblem758C
+
+binary search
+
+1700
+
+On the Literature lesson Sergei noticed an awful injustice it seems that some students are asked more often than othersSeating in the class looks like a rectangle where n rows with m pupils in each The teacher asks pupils in the following order at first she asks all pupils from the first row in the order of their seating then she continues to ask pupils from the next row If the teacher asked the last row then the direction of the poll changes it means that she asks the previous row The order of asking the rows looks as follows the 1st row the 2nd row  the n1st row the nth row the n1st row  the 2nd row the 1st row the 2nd row The order of asking of pupils on the same row is always the same the 1st pupil the 2nd pupil  the mth pupilDuring the lesson the teacher managed to ask exactly k questions from pupils in order described above Sergei seats on the xth row on the yth place in the row Sergei decided to prove to the teacher that pupils are asked irregularly help him count three values  the maximum number of questions a particular pupil is asked  the minimum number of questions a particular pupil is asked  how many times the teacher asked Sergei If there is only one row in the class then the teacher always asks children from this row

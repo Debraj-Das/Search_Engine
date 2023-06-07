@@ -1,0 +1,9 @@
+Fedya the Potter Strikes Back                    
+
+https://codeforces.com/problemset/problem/1286/E
+
+data structures
+
+3200
+
+Fedya has a string S, initially empty, and an array W, also initially empty.There are n queries to process, one at a time. Query i consists of a lowercase English letter c_i and a nonnegative integer w_i. First, c_i must be appended to S, and w_i must be appended to W. The answer to the query is the sum of suspiciousnesses for all subsegments of W [L, \ R], (1 \leq L \leq R \leq i).We define the suspiciousness of a subsegment as follows: if the substring of S corresponding to this subsegment (that is, a string of consecutive characters from L-th to R-th, inclusive) matches the prefix of S of the same length (that is, a substring corresponding to the subsegment [1, \ R - L + 1]), then its suspiciousness is equal to the minimum in the array W on the [L, \ R] subsegment. Otherwise, in case the substring does not match the corresponding prefix, the suspiciousness is 0.Help Fedya answer all the queries before the orderlies come for him!

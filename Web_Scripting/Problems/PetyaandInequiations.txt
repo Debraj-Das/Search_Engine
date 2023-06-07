@@ -1,0 +1,9 @@
+Petya and Inequiations                    
+
+httpscodeforcescomproblemsetproblem111A
+
+greedy
+
+1400
+
+Little Petya loves inequations Help him find n positive integers a1a2an such that the following two conditions are satisfied a12a22an2x a1a2any

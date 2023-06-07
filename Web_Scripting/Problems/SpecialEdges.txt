@@ -1,0 +1,9 @@
+Special Edges                    
+
+https://codeforces.com/problemset/problem/1383/F
+
+flows
+
+3200
+
+Koa the Koala has a directed graph G with n nodes and m edges. Each edge has a capacity associated with it. Exactly k edges of the graph, numbered from 1 to k, are special, such edges initially have a capacity equal to 0.Koa asks you q queries. In each query she gives you k integers w_1, w_2, \ldots, w_k. This means that capacity of the i-th special edge becomes w_i (and other capacities remain the same).Koa wonders: what is the maximum flow that goes from node 1 to node n after each such query?Help her!

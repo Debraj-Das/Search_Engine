@@ -1,0 +1,9 @@
+Dora and Search                    
+
+https://codeforces.com/problemset/problem/1793/C
+
+constructive algorithms
+
+1200
+
+As you know, the girl Dora is always looking for something. This time she was given a permutation, and she wants to find such a subsegment of it that none of the elements at its ends is either the minimum or the maximum of the entire subsegment. More formally, you are asked to find the numbers l and r (1 \leq l \leq r \leq n) such that a_l \neq \min(a_l, a_{l + 1}, \ldots, a_r), a_l \neq \max(a_l, a_{l + 1}, \ldots, a_r) and a_r \neq \min(a_l, a_{l + 1}, \ldots, a_r), a_r \neq \max(a_l, a_{l + 1}, \ldots, a_r).A permutation of length n is an array consisting of n distinct integers from 1 to n in any order. For example, [2,3,1,5,4] is a permutation, but [1,2,2] is not a permutation (2 occurs twice in the array) and [1,3,4] is also not a permutation (n=3, but 4 is present in the array).Help Dora find such a subsegment, or tell her that such a subsegment does not exist.

@@ -1,0 +1,9 @@
+Amazing Trick                    
+
+https://codeforces.com/problemset/problem/1773/A
+
+constructive algorithms
+
+1900
+
+Alice is a magician and she creates a new trick. She has n cards with different numbers from 1 to n written on them. First, she asks an audience member to shuffle the deck and put cards in a row. Let's say the i-th card from the left has the number a_i on it. Then Alice picks two permutations p and q. There is a restriction on p and q — permutations can't have fixed points. Which means \forall i: p_i \ne i\ and\ q_i \ne i.After permutations are chosen, Alice shuffles the cards according to them. Now the i-th card from the left is the card a[p[q[i]]. The trick is considered successful if i-th card from the left has the number i on it after the shuffles.Help Alice pick the permutations p and q or say it is not possible for the specific starting permutation a. 

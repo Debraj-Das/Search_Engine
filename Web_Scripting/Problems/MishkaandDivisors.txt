@@ -1,0 +1,9 @@
+Mishka and Divisors                    
+
+httpscodeforcescomproblemsetproblem703E
+
+dp
+
+2600
+
+After playing with her beautiful array Mishka decided to learn some math After learning how to multiply divide and what is divisibility she is now interested in solving the following problemYou are given integer k and array a1a2an of n integers You are to find nonempty subsequence of array elements such that the product of its elements is divisible by k and it contains minimum possible number of elementsFormally you are to find a sequence of indices 1i1i2imn such that  is divisible by k while m is minimum possible among all such variantsIf there are more than one such subsequences you should choose one among them such that sum of its elements is minimum possibleMishka quickly solved this problem Will you do so

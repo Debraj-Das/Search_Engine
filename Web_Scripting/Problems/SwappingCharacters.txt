@@ -1,0 +1,9 @@
+Swapping Characters                    
+
+httpscodeforcescomproblemsetproblem903E
+
+brute force
+
+2200
+
+We had a string s consisting of n lowercase Latin letters We made k copies of this string thus obtaining k identical strings s1s2sk After that in each of these strings we swapped exactly two characters the characters we swapped could be identical but they had different indices in the stringYou are given k strings s1s2sk and you have to restore any string s so that it is possible to obtain these strings by performing aforementioned operations Note that the total length of the strings you are given doesnt exceed 5000 that is kn5000

@@ -1,0 +1,9 @@
+Increase Subarray Sums                    
+
+https://codeforces.com/problemset/problem/1644/C
+
+brute force
+
+1400
+
+You are given an array a_1, a_2, \dots, a_n, consisting of n integers. You are also given an integer value x.Let f(k) be the maximum sum of a contiguous subarray of a after applying the following operation: add x to the elements on exactly k distinct positions. An empty subarray should also be considered, it has sum 0.Note that the subarray doesn't have to include all of the increased elements.Calculate the maximum value of f(k) for all k from 0 to n independently.

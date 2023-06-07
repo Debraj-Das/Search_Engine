@@ -1,0 +1,9 @@
+Powerful array                    
+
+httpscodeforcescomproblemsetproblem86D
+
+data structures
+
+2200
+
+An array of positive integers a1a2an is given Let us consider its arbitrary subarray alal1ar where 1lrn For every positive integer s denote by Ks the number of occurrences of s into the subarray We call the power of the subarray the sum of products KsKss for every positive integer s The sum contains only finite number of nonzero summands as the number of different values in the array is indeed finiteYou should calculate the power of t given subarrays

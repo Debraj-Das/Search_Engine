@@ -1,0 +1,9 @@
+Just Add an Edge                    
+
+https://codeforces.com/problemset/problem/1616/G
+
+dfs and similar
+
+3500
+
+You are given a directed acyclic graph with n vertices and m edges. For all edges a \to b in the graph, a < b holds.You need to find the number of pairs of vertices x, y, such that x > y and after adding the edge x \to y to the graph, it has a Hamiltonian path. 

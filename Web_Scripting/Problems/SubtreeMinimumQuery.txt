@@ -1,0 +1,9 @@
+Subtree Minimum Query                    
+
+httpscodeforcescomproblemsetproblem893F
+
+data structures
+
+2300
+
+You are given a rooted tree consisting of n vertices Each vertex has a number written on it number ai is written on vertex iLets denote dij as the distance between vertices i and j in the tree that is the number of edges in the shortest path from i to j Also lets denote the kblocked subtree of vertex x as the set of vertices y such that both these conditions are met  x is an ancestor of y every vertex is an ancestor of itself  dxyk You are given m queries to the tree ith query is represented by two numbers xi and ki and the answer to this query is the minimum value of aj among such vertices j such that j belongs to kiblocked subtree of xiWrite a program that would process these queries quicklyNote that the queries are given in a modified way

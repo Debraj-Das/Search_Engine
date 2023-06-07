@@ -1,0 +1,9 @@
+Many Perfect Squares                    
+
+https://codeforces.com/problemset/problem/1781/D
+
+brute force
+
+1800
+
+You are given a set a_1, a_2, \ldots, a_n of distinct positive integers.We define the squareness of an integer x as the number of perfect squares among the numbers a_1 + x, a_2 + x, \ldots, a_n + x.Find the maximum squareness among all integers x between 0 and 10^{18}, inclusive.Perfect squares are integers of the form t^2, where t is a non-negative integer. The smallest perfect squares are 0, 1, 4, 9, 16, \ldots.

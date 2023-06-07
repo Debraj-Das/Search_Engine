@@ -1,0 +1,9 @@
+Teams Formation                    
+
+httpscodeforcescomproblemsetproblem878B
+
+data structures
+
+2300
+
+This time the Berland Team Olympiad in Informatics is held in a remote city that can only be reached by one small bus Bus has n passenger seats seat i can be occupied only by a participant from the city aiToday the bus has completed m trips each time bringing n participants The participants were then aligned in one line in the order they arrived with people from the same bus standing in the order of their seats ie if we write down the cities where the participants came from we get the sequence a1a2an repeated m timesAfter that some teams were formed each consisting of k participants form the same city standing next to each other in the line Once formed teams left the line The teams were formed until there were no k neighboring participants from the same cityHelp the organizers determine how many participants have left in the line after that process ended We can prove that answer doesnt depend on the order in which teams were selected

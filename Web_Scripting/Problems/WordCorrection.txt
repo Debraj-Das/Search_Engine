@@ -1,0 +1,9 @@
+Word Correction                    
+
+https://codeforces.com/problemset/problem/938/A
+
+implementation
+
+800
+
+Victor tries to write his own text editor, with word correction included. However, the rules of word correction are really strange.Victor thinks that if a word contains two consecutive vowels, then it's kinda weird and it needs to be replaced. So the word corrector works in such a way: as long as there are two consecutive vowels in the word, it deletes the first vowel in a word such that there is another vowel right before it. If there are no two consecutive vowels in the word, it is considered to be correct.You are given a word s. Can you predict what will it become after correction?In this problem letters a, e, i, o, u and y are considered to be vowels.

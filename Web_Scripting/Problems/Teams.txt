@@ -1,0 +1,9 @@
+Teams                    
+
+https://codeforces.com/problemset/problem/1211/D
+
+*special problem
+
+2000
+
+There are n table bowling players, the rating of the i-th player equals r_i. Compose a maximum number of teams in a such way that:  each player belongs to at most one team;  each team contains exactly a+b players;  each team contains a group of a players with the same rating and a group of b players with another same rating, which must be k times larger than the rating of the players in the first group. For example, if n=12, r=[1, 1, 2, 2, 2, 2, 2, 3, 3, 4, 6, 6], a=1, b=2, k=2, you can compose two teams with ratings [1, 2, 2] and one team with ratings [3, 6, 6]. So, the maximum number of teams is 3.Find the maximum number of teams by given n, r_1 \dots r_n, a, b and k to compose in respect to the given requirements.

@@ -1,0 +1,9 @@
+Multiplication Table                    
+
+httpscodeforcescomproblemsetproblem448D
+
+binary search
+
+1800
+
+Bizon the Champion isnt just charming he also is very smartWhile some of us were learning the multiplication table Bizon the Champion had fun in his own manner Bizon the Champion painted an nm multiplication table where the element on the intersection of the ith row and jth column equals ij the rows and columns of the table are numbered starting from 1 Then he was asked what number in the table is the kth largest number Bizon the Champion always answered correctly and immediately Can you repeat his successConsider the given multiplication table If you write out all nm numbers from the table in the nondecreasing order then the kth number you write out is called the kth largest number

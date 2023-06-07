@@ -1,0 +1,9 @@
+Cyclic Shifts                    
+
+https://codeforces.com/problemset/problem/1431/I
+
+*special problem
+
+2900
+
+You are given a matrix consisting of n rows and m columns. The matrix contains lowercase letters of the Latin alphabet.You can perform the following operation any number of times you want to: choose two integers i (1 \le i \le m) and k (0 < k < n), and shift every column j such that i \le j \le m cyclically by k. The shift is performed upwards.For example, if you have a matrix  \left( \begin{array} \\ a & b & c \\ d & e & f \\ g & h & i \end{array}\right)   and perform an operation with i = 2, k = 1, then it becomes:  \left( \begin{array} \\ a & e & f \\ d & h & i \\ g & b & c \end{array}\right)  You have to process q queries. Each of the queries is a string of length m consisting of lowercase letters of the Latin alphabet. For each query, you have to calculate the minimum number of operations described above you have to perform so that at least one row of the matrix is equal to the string from the query. Note that all queries are independent, that is, the operations you perform in a query don't affect the initial matrix in other queries.

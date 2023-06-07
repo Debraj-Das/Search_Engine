@@ -1,0 +1,9 @@
+Filya and Homework                    
+
+httpscodeforcescomproblemsetproblem714B
+
+implementation
+
+1200
+
+Today hedgehog Filya went to school for the very first time Teacher gave him a homework which Filya was unable to complete without your helpFilya is given an array of nonnegative integers a1a2an First he pick an integer x and then he adds x to some elements of the array no more than once subtract x from some other elements also no more than once and do no change other elements He wants all elements of the array to be equalNow he wonders if its possible to pick such integer x and change some elements of the array using this x in order to make all elements equal

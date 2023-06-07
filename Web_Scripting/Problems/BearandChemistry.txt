@@ -1,0 +1,9 @@
+Bear and Chemistry                    
+
+httpscodeforcescomproblemsetproblem639F
+
+data structures
+
+3300
+
+Limak is a smart brown bear who loves chemistry reactions and transforming elementsIn Bearland Limaks home there are n elements numbered 1 through n There are also special machines that can transform elements Each machine is described by two integers aibi representing two elements not necessarily distinct One can use a machine either to transform an element ai to bi or to transform bi to ai Machines in Bearland arent very resistant and each of them can be used at most once It is possible that aibi and that many machines have the same pair aibiRadewoosh is Limaks biggest enemy and rival He wants to test Limak in the chemistry They will meet tomorrow and both of them will bring all their machines Limak has m machines but he doesnt know much about his enemy They agreed Radewoosh will choose two distinct elements lets denote them as x and y Limak will be allowed to use both his and Radewooshs machines He may use zero or more maybe even all machines to achieve the goal each machine at most once Limak will start from an element x and his task will be to first get an element y and then to again get an element x then we say that he succeeds After that Radewoosh would agree that Limak knows the chemistry and Radewoosh would go awayRadewoosh likes some particular nonempty set of favorite elements and he will choose xy from that set Limak doesnt know exactly which elements are in the set and also he doesnt know what machines Radewoosh has Limak has heard q gossips queries though and each of them consists of Radewooshs machines and favorite elements For each gossip Limak wonders if he would be able to succeed tomorrow for every pair xy chosen from the set of favorite elements If yes then print YES without the quotes But if there exists a pair xy from the given set that Limak wouldnt be able to succeed then you should print NO without the quotes

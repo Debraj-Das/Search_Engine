@@ -1,0 +1,9 @@
+Preparing for the Contest                    
+
+httpscodeforcescomproblemsetproblem377B
+
+binary search
+
+1900
+
+Soon there will be held the worlds largest programming contest but the testing system still has m bugs The contest organizer a wellknown university has no choice but to attract university students to fix all the bugs The university has n students able to perform such work The students realize that they are the only hope of the organizers so they dont want to work for free the ith student wants to get ci passes in his subjects regardless of the volume of his workBugs like students are not the same every bug is characterized by complexity aj and every student has the level of his abilities bi Student i can fix a bug j only if the level of his abilities is not less than the complexity of the bug biaj and he does it in one day Otherwise the bug will have to be fixed by another student Of course no student can work on a few bugs in one day All bugs are not dependent on each other so they can be corrected in any order and different students can work simultaneouslyThe university wants to fix all the bugs as quickly as possible but giving the students the total of not more than s passes Determine which students to use for that and come up with the schedule of work saying which student should fix which bug

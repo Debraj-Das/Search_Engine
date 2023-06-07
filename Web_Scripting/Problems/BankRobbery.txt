@@ -1,0 +1,9 @@
+Bank Robbery                    
+
+httpscodeforcescomproblemsetproblem794A
+
+brute force
+
+800
+
+A robber has attempted to rob a bank but failed to complete his task However he had managed to open all the safesOleg the bank client loves money who doesnt and decides to take advantage of this failed robbery and steal some money from the safes There are many safes arranged in a line where the ith safe from the left is called safe i There are n banknotes left in all the safes in total The ith banknote is in safe xi Oleg is now at safe a There are two security guards one of which guards the safe b such that ba ie the first guard is to the left of Oleg The other guard guards the safe c so that ca ie he is to the right of OlegThe two guards are very lazy so they do not move In every second Oleg can either take all the banknotes from the current safe or move to any of the neighboring safes However he cannot visit any safe that is guarded by security guards at any time becaues he might be charged for stealing Determine the maximum amount of banknotes Oleg can gather

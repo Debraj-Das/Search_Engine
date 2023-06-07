@@ -1,0 +1,9 @@
+Valera and Contest                    
+
+httpscodeforcescomproblemsetproblem369B
+
+constructive algorithms
+
+1400
+
+Valera loves to participate in competitions Especially in programming contests Today he has participated in the contest with his team consisting of n students including Valera This contest was an individual competition so each student in the team solved problems individuallyAfter the contest was over Valera was interested in results He found out that  each student in the team scored at least l points and at most r points  in total all members of the team scored exactly sall points  the total score of the k members of the team who scored the most points is equal to exactly sk more formally if a1a2an is the sequence of points earned by the team of students in the nonincreasing order a1a2an then ska1a2ak However Valera did not find out exactly how many points each of n students scored Valera asked you to recover any distribution of scores between the students of the team such that all the conditions above are met

@@ -1,0 +1,9 @@
+Lorenzo Von Matterhorn                    
+
+httpscodeforcescomproblemsetproblem696A
+
+brute force
+
+1500
+
+Barney lives in NYC NYC has infinite number of intersections numbered with positive integers starting from 1 There exists a bidirectional road between intersections i and 2i and another road between i and 2i1 for every positive integer i You can clearly see that there exists a unique shortest path between any two intersections  Initially anyone can pass any road for free But since SlapsGiving is ahead of us there will q consecutive events happen soon There are two types of events1 Government makes a new rule A rule can be denoted by integers v u and w As the result of this action the passing fee of all roads on the shortest path from u to v increases by w dollars 2 Barney starts moving from some intersection v and goes to intersection u where theres a girl he wants to cuddle using his fake name Lorenzo Von Matterhorn He always uses the shortest path visiting minimum number of intersections or roads between two intersectionsGovernment needs your calculations For each time Barney goes to cuddle a girl you need to tell the government how much money he should pay sum of passing fee of all roads he passes

@@ -1,0 +1,9 @@
+Mysterious Present                    
+
+httpscodeforcescomproblemsetproblem4D
+
+dp
+
+1700
+
+Peter decided to wish happy birthday to his friend from Australia and send him a card To make his present more mysterious he decided to make a chain Chain here is such a sequence of envelopes Aa1a2an where the width and the height of the ith envelope is strictly higher than the width and the height of the i1th envelope respectively Chain size is the number of envelopes in the chain Peter wants to make the chain of the maximum size from the envelopes he has the chain should be such that hell be able to put a card into it The card fits into the chain if its width and height is lower than the width and the height of the smallest envelope in the chain respectively Its forbidden to turn the card and the envelopes Peter has very many envelopes and very little time this hard task is entrusted to you

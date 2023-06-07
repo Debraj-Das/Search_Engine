@@ -1,0 +1,9 @@
+Art Union                    
+
+httpscodeforcescomproblemsetproblem416B
+
+brute force
+
+1300
+
+A wellknown art union called Kalevich is Alive manufactures objects dart pictures The union consists of n painters who decided to organize their work as followsEach painter uses only the color that was assigned to him The colors are distinct for all painters Lets assume that the first painter uses color 1 the second one uses color 2 and so on Each picture will contain all these n colors Adding the jth color to the ith picture takes the jth painter tij units of timeOrder is important everywhere so the painters work is ordered by the following rules  Each picture is first painted by the first painter then by the second one and so on That is after the jth painter finishes working on the picture it must go to the j1th painter if jn  each painter works on the pictures in some order first he paints the first picture then he paints the second picture and so on  each painter can simultaneously work on at most one picture However the painters dont need any time to have a rest  as soon as the jth painter finishes his part of working on the picture the picture immediately becomes available to the next painter Given that the painters start working at time 0 find for each picture the time when it is ready for sale

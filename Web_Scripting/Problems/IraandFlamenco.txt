@@ -1,0 +1,9 @@
+Ira and Flamenco                    
+
+https://codeforces.com/problemset/problem/1833/F
+
+combinatorics
+
+1700
+
+Ira loves Spanish flamenco dance very much. She decided to start her own dance studio and found n students, ith of whom has level a_i.Ira can choose several of her students and set a dance with them. So she can set a huge number of dances, but she is only interested in magnificent dances. The dance is called magnificent if the following is true:   exactly m students participate in the dance;  levels of all dancers are pairwise distinct;  levels of every two dancers have an absolute difference strictly less than m. For example, if m = 3 and a = [4, 2, 2, 3, 6], the following dances are magnificent (students participating in the dance are highlighted in red): [\color{red}{4}, 2, \color{red}{2}, \color{red}{3}, 6], [\color{red}{4}, \color{red}{2}, 2, \color{red}{3}, 6]. At the same time dances [\color{red}{4}, 2, 2, \color{red}{3}, 6], [4, \color{red}{2}, \color{red}{2}, \color{red}{3}, 6], [\color{red}{4}, 2, 2, \color{red}{3}, \color{red}{6}] are not magnificent.In the dance [\color{red}{4}, 2, 2, \color{red}{3}, 6] only 2 students participate, although m = 3.The dance [4, \color{red}{2}, \color{red}{2}, \color{red}{3}, 6] involves students with levels 2 and 2, although levels of all dancers must be pairwise distinct.In the dance [\color{red}{4}, 2, 2, \color{red}{3}, \color{red}{6}] students with levels 3 and 6 participate, but |3 - 6| = 3, although m = 3.Help Ira count the number of magnificent dances that she can set. Since this number can be very large, count it modulo 10^9 + 7. Two dances are considered different if the sets of students participating in them are different.

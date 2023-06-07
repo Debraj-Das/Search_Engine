@@ -1,0 +1,9 @@
+RockPaperScissors                    
+
+httpscodeforcescomproblemsetproblem173A
+
+implementation
+
+1300
+
+Nikephoros and Polycarpus play rockpaperscissors The loser gets pinched not too severelyLet us remind you the rules of this game Rockpaperscissors is played by two players In each round the players choose one of three items independently from each other They show the items with their hands a rock scissors or paper The winner is determined by the following rules the rock beats the scissors the scissors beat the paper and the paper beats the rock If the players choose the same item the round finishes with a drawNikephoros and Polycarpus have played n rounds In each round the winner gave the loser a friendly pinch and the loser ended up with a fresh and new red spot on his body If the round finished in a draw the players did nothing and just played onNikephoros turned out to have worked out the following strategy before the game began he chose some sequence of items Aa1a2am and then he cyclically showed the items from this sequence starting from the first one Cyclically means that Nikephoros shows signs in the following order a1 a2  am a1 a2  am a1  and so on Polycarpus had a similar strategy only he had his own sequence of items Bb1b2bkDetermine the number of red spots on both players after theyve played n rounds of the game You can consider that when the game began the boys had no red spots on them

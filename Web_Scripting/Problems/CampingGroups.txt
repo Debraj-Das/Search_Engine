@@ -1,0 +1,9 @@
+Camping Groups                    
+
+https://codeforces.com/problemset/problem/173/E
+
+data structures
+
+2600
+
+A club wants to take its members camping. In order to organize the event better the club directors decided to partition the members into several groups. Club member i has a responsibility value ri and an age value ai. A group is a non-empty subset of club members with one member known as group leader. A group leader should be one of the most responsible members of the group (his responsibility value is not less than responsibility of any other group member) and his age absolute difference with any other group member should not exceed k. Some club members are friends and want to be in the same group. They also like their group to be as large as possible. Now you should write a program that answers a series of questions like "What's the largest size of a group containing club member x and club member y?". It's possible for x or y to be the group leader.

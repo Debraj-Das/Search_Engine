@@ -1,0 +1,9 @@
+Special Graph                    
+
+httpscodeforcescomproblemsetproblem435E
+
+
+
+2500
+
+In this problem you will need to deal with an nm grid graph The graphs vertices are the nodes of the nm grid The graphs edges are all the sides and diagonals of the grids unit squaresThe figure below shows a 35 graph The black lines are the graphs edges the colored circles are the graphs vertices The vertices of the graph are painted on the picture for a reason the coloring is a correct vertex coloring of the 35 graph into four colors A graph coloring is correct if and only if each vertex is painted and no two vertices connected by an edge are painted the same color  You are given the size of the grid graph nm and the colors of some of its vertices Find any way how to paint the unpainted vertices of the graph in 4 colors to make the final coloring a correct vertex graph coloring If there is no such correct vertex coloring say that the answer doesnt exist

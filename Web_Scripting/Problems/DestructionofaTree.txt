@@ -1,0 +1,9 @@
+Destruction of a Tree                    
+
+httpscodeforcescomproblemsetproblem963B
+
+constructive algorithms
+
+2000
+
+You are given a tree a graph with n vertices and n1 edges in which its possible to reach any vertex from any other vertex using only its edgesA vertex can be destroyed if this vertex has even degree If you destroy a vertex all edges connected to it are also deletedDestroy all vertices in the given tree or determine that it is impossible

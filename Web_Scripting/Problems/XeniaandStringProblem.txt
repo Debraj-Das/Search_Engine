@@ -1,0 +1,9 @@
+Xenia and String Problem                    
+
+httpscodeforcescomproblemsetproblem356E
+
+dp
+
+3000
+
+Xenia the coder went to The Olympiad of Informatics and got a string problem Unfortunately Xenia isnt fabulous in string algorithms Help her solve the problemString s is a sequence of characters s1s2 ss where record s shows the length of the string Substring si j of string s is string sisi1 sjString s is a Gray string if it meets the conditions  the length of string s is odd  character  occurs exactly once in the string  either s1 or substrings  and  are the same and are Gray strings For example strings abacaba xzx g are Gray strings and strings aaa xz abaxcbc are notThe beauty of string p is the sum of the squares of the lengths of all substrings of string p that are Gray strings In other words consider all pairs of values ij 1ijp If substring pi j is a Gray string you should add ji12 to the beautyXenia has got string t consisting of lowercase English letters She is allowed to replace at most one letter of the string by any other English letter The task is to get a string of maximum beauty

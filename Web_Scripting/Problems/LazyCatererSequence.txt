@@ -1,0 +1,9 @@
+Lazy Caterer Sequence                    
+
+httpscodeforcescomproblemsetproblem661A
+
+special problem
+
+1300
+
+Lazy caterer sequence is defined as the maximum number of pieces formed when slicing a convex pancake with n cuts each cut is a straight line The formula is Cnnn121 You are given n calculate nth element of the sequence

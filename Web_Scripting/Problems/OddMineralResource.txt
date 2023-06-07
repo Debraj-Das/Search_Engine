@@ -1,0 +1,9 @@
+Odd Mineral Resource                    
+
+https://codeforces.com/problemset/problem/1479/D
+
+binary search
+
+2900
+
+In Homer's country, there are n cities numbered 1 to n and they form a tree. That is, there are (n-1) undirected roads between these n cities and every two cities can reach each other through these roads. Homer's country is an industrial country, and each of the n cities in it contains some mineral resource. The mineral resource of city i is labeled a_i. Homer is given the plans of the country in the following q years. The plan of the i-th year is described by four parameters u_i, v_i, l_i and r_i, and he is asked to find any mineral resource c_i such that the following two conditions hold:   mineral resource c_i appears an odd number of times between city u_i and city v_i; and  l_i \leq c_i \leq r_i. As the best friend of Homer, he asks you for help. For every plan, find any such mineral resource c_i, or tell him that there doesn't exist one.

@@ -1,0 +1,9 @@
+Zigzag                    
+
+httpscodeforcescomproblemsetproblem228D
+
+data structures
+
+2100
+
+The court wizard Zigzag wants to become a famous mathematician For that he needs his own theorem like the Cauchy theorem or his sum like the Minkowski sum But most of all he wants to have his sequence like the Fibonacci sequence and his function like the Eulers totient functionThe Zigags sequence with the zigzag factor z is an infinite sequence Siz i1z2 that is determined as follows  Siz2 when    when    when  Operation  means taking the remainder from dividing number x by number y For example the beginning of sequence Si3 zigzag factor 3 looks as follows 1 2 3 2 1 2 3 2 1Lets assume that we are given an array a consisting of n integers Lets define element number i 1in of the array as ai The Zigzag function is function  where lrz satisfy the inequalities 1lrn z2To become better acquainted with the Zigzag sequence and the Zigzag function the wizard offers you to implement the following operations on the given array a  The assignment operation The operation parameters are pv The operation denotes assigning value v to the pth array element After the operation is applied the value of the array element ap equals v  The Zigzag operation The operation parameters are lrz The operation denotes calculating the Zigzag function Zlrz Explore the magical powers of zigzags implement the described operations

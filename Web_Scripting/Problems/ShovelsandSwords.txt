@@ -1,0 +1,9 @@
+Shovels and Swords                    
+
+https://codeforces.com/problemset/problem/1366/A
+
+binary search
+
+1100
+
+Polycarp plays a well-known computer game (we won't mention its name). In this game, he can craft tools of two types — shovels and swords. To craft a shovel, Polycarp spends two sticks and one diamond; to craft a sword, Polycarp spends two diamonds and one stick.Each tool can be sold for exactly one emerald. How many emeralds can Polycarp earn, if he has a sticks and b diamonds?

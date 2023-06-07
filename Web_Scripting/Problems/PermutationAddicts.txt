@@ -1,0 +1,9 @@
+Permutation Addicts                    
+
+https://codeforces.com/problemset/problem/1738/D
+
+constructive algorithms
+
+1900
+
+Given a permutation a_1, a_2, \dots, a_n of integers from 1 to n, and a threshold k with 0 \leq k \leq n, you compute a sequence b_1, b_2, \dots, b_n as follows. For every 1 \leq i \leq n in increasing order, let x = a_i.   If x \leq k, set b_{x} to the last element a_j (1 \leq j < i) that a_j > k. If no such element a_j exists, set b_{x} = n+1.  If x > k, set b_{x} to the last element a_j (1 \leq j < i) that a_j \leq k. If no such element a_j exists, set b_{x} = 0. Unfortunately, after the sequence b_1, b_2, \dots, b_n has been completely computed, the permutation a_1, a_2, \dots, a_n and the threshold k are discarded. Now you only have the sequence b_1, b_2, \dots, b_n. Your task is to find any possible permutation a_1, a_2, \dots, a_n and threshold k that produce the sequence b_1, b_2, \dots, b_n. It is guaranteed that there exists at least one pair of permutation a_1, a_2, \dots, a_n and threshold k that produce the sequence b_1, b_2, \dots, b_n.A permutation of integers from 1 to n is a sequence of length n which contains all integers from 1 to n exactly once. 

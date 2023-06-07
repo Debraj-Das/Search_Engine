@@ -1,0 +1,9 @@
+El Toll Caves                    
+
+httpscodeforcescomproblemsetproblem868G
+
+math
+
+3300
+
+The prehistoric caves of El Toll are located in Moià Barcelona You have heard that there is a treasure hidden in one of n possible spots in the caves You assume that each of the spots has probability 1n to contain a treasureYou cannot get into the caves yourself so you have constructed a robot that can search the caves for treasure Each day you can instruct the robot to visit exactly k distinct spots in the caves If none of these spots contain treasure then the robot will obviously return with empty hands However the caves are dark and the robot may miss the treasure even when visiting the right spot Formally if one of the visited spots does contain a treasure the robot will obtain it with probability 12 otherwise it will return empty Each time the robot searches the spot with the treasure his success probability is independent of all previous tries that is the probability to miss the treasure after searching the right spot x times is 12xWhat is the expected number of days it will take to obtain the treasure if you choose optimal scheduling for the robot Output the answer as a rational number modulo 1097 Formally let the answer be an irreducible fraction PQ then you have to output  It is guaranteed that Q is not divisible by 1097

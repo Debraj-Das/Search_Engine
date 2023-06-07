@@ -1,0 +1,9 @@
+Jzzhu and Sequences                    
+
+httpscodeforcescomproblemsetproblem450B
+
+implementation
+
+1300
+
+Jzzhu has invented a kind of sequences they meet the following propertyYou are given x and y please calculate fn modulo 1000000007 1097

@@ -1,0 +1,9 @@
+Tricky Function                    
+
+httpscodeforcescomproblemsetproblem429D
+
+data structures
+
+2200
+
+Iahub and Sorin are the best competitive programmers in their town However they cant both qualify to an important contest The selection will be made with the help of a single problem Blatnatalag a friend of Iahub managed to get hold of the problem before the contest Because he wants to make sure Iahub will be the one qualified he tells Iahub the following taskYoure given an 1based array a with n elements Lets define function fij 1ijn as ij2gij2 Function g is calculated by the following pseudocodeint gint i int j     int sum  0    for int k  mini j  1 k  maxi j k  k  1        sum  sum  ak    return sumFind a value minijfijProbably by now Iahub already figured out the solution to this problem Can you

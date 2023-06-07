@@ -1,0 +1,9 @@
+Send the Fool Further medium                    
+
+httpscodeforcescomproblemsetproblem802K
+
+dp
+
+2100
+
+Thank you for helping Heidi It is now the second of April but she has been summoned by Jenny again The pranks do not seem to endIn the meantime Heidi has decided that she does not trust her friends anymore Not too much anyway Her relative lack of trust is manifested as follows whereas previously she would not be made to visit the same person twice now she can only be sure that she will not be made to visit the same person more than k times In the case of Jenny this includes her first visit in the beginning The situation from the easy version corresponds to setting k1This is not as bad as it looks since a single ticket for a route between two friends allows Heidi to travel between this pair of friends the whole day in both directions In other words once she pays for travel between a pair of friends all further travels between that pair are freeHow much money will Heidi waste now in a worstcase scenario

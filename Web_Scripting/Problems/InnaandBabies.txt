@@ -1,0 +1,9 @@
+Inna and Babies                    
+
+httpscodeforcescomproblemsetproblem374E
+
+binary search
+
+2600
+
+Inna Dima and Sereja are in one room together Its cold outside so Sereja suggested to play a board game called Babies The babies playing board is an infinite plane containing n blue babies and m red ones Each baby is a segment that grows in time At time moment t the blue baby xy is a blue segment with ends at points xtyt xtyt Similarly at time t the red baby xy is a red segment with ends at points xtyt xtyt of the plane Initially at time t0 all babies are points on the planeThe goal of the game is to find the first integer moment of time when the plane contains a rectangle of a nonzero area which sides are fully covered by some babies A side may be covered by multiple babies More formally each point of each side of the rectangle should be covered by at least one baby of any color At that you must assume that the babies are closed segments that is they contain their endpointsYou are given the positions of all babies  help Inna and Dima to find the required moment of time

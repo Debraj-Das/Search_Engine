@@ -1,0 +1,9 @@
+Burenka, an Array and Queries                    
+
+https://codeforces.com/problemset/problem/1718/F
+
+data structures
+
+3300
+
+Eugene got Burenka an array a of length n of integers from 1 to m for her birthday. Burenka knows that Eugene really likes coprime integers (integers x and y such that they have only one common factor (equal to 1)) so she wants to to ask Eugene q questions about the present. Each time Burenka will choose a subsegment a_l, a_{l + 1}, \ldots, a_r of array a, and compute the product of these numbers p = a_l \cdot a_{l + 1} \cdot \ldots \cdot a_r. Then she will ask Eugene to count the number of integers between 1 and C inclusive which are coprime with p. Help Eugene answer all the questions!

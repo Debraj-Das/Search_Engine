@@ -1,0 +1,9 @@
+Fun with Integers                    
+
+https://codeforces.com/problemset/problem/1062/D
+
+dfs and similar
+
+1800
+
+You are given a positive integer n greater or equal to 2. For every pair of integers a and b (2 \le |a|, |b| \le n), you can transform a into b if and only if there exists an integer x such that 1 < |x| and (a \cdot x = b or b \cdot x = a), where |x| denotes the absolute value of x.After such a transformation, your score increases by |x| points and you are not allowed to transform a into b nor b into a anymore.Initially, you have a score of 0. You can start at any integer and transform it as many times as you like. What is the maximum score you can achieve?

@@ -1,0 +1,9 @@
+Constructive Problem                    
+
+https://codeforces.com/problemset/problem/1819/A
+
+brute force
+
+1300
+
+As you know, any problem that does not require the use of complex data structures is considered constructive. You are offered to solve one of such problems.You are given an array a of n non-negative integers. You are allowed to perform the following operation exactly once: choose some non-empty subsegment a_l, a_{l+1}, \ldots, a_r of the array a and a non-negative integer k, and assign value k to all elements of the array on the chosen subsegment.The task is to find out whether \operatorname{MEX}(a) can be increased by exactly one by performing such an operation. In other words, if before the operation \operatorname{MEX}(a) = m held, then after the operation it must hold that \operatorname{MEX}(a) = m + 1.Recall that \operatorname{MEX} of a set of integers c_1, c_2, \ldots, c_k is defined as the smallest non-negative integer x which does not occur in the set c.

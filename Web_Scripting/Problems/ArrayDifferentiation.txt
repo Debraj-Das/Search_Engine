@@ -1,0 +1,9 @@
+Array Differentiation                    
+
+https://codeforces.com/problemset/problem/1552/D
+
+bitmasks
+
+1800
+
+You are given a sequence of n integers a_1, \, a_2, \, \dots, \, a_n.Does there exist a sequence of n integers b_1, \, b_2, \, \dots, \, b_n such that the following property holds?  For each 1 \le i \le n, there exist two (not necessarily distinct) indices j and k (1 \le j, \, k \le n) such that a_i = b_j - b_k. 

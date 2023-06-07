@@ -1,0 +1,9 @@
+Little Elephant and Tree                    
+
+httpscodeforcescomproblemsetproblem258E
+
+data structures
+
+2400
+
+The Little Elephant loves trees very much he especially loves root treesHes got a tree consisting of n nodes the nodes are numbered from 1 to n with root at node number 1 Each node of the tree contains some list of numbers which initially is empty The Little Elephant wants to apply m operations On the ith operation 1im he first adds number i to lists of all nodes of a subtree with the root in node number ai and then he adds number i to lists of all nodes of the subtree with root in node biAfter applying all operations the Little Elephant wants to count for each node i number ci  the number of integers j 1jnji such that the lists of the ith and the jth nodes contain at least one common numberHelp the Little Elephant count numbers ci for him

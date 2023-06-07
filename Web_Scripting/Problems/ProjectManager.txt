@@ -1,0 +1,9 @@
+Project Manager                    
+
+httpscodeforcescomproblemsetproblem1765L
+
+brute force
+
+2400
+
+There are n employees at Bersoft company numbered from 1 to n Each employee works on some days of the week and rests on the other days You are given the lists of working days of the week for each employeeThere are regular days and holidays On regular days only those employees work that have the current day of the week on their list On holidays no one works You are provided with a list of days that are holidays The days are numbered from 1 onwards day 1 is MondayThe company receives k project offers they have to complete The projects are numbered from 1 to k in the order of decreasing priority Each project consists of multiple parts where the ith part must be completed by the aith employee The parts must be completed in order ie the i1st part can only be started when the ith part is completed Each part takes the corresponding employee a day to completeThe projects can be worked on simultaneously However one employee can complete a part of only one project during a single day If they have a choice of what project to complete a part on they always go for the project with the highest priority the lowest indexFor each project output the day that project will be completed on

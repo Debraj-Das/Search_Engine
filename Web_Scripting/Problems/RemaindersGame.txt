@@ -1,0 +1,9 @@
+Remainders Game                    
+
+httpscodeforcescomproblemsetproblem687B
+
+chinese remainder theorem
+
+1800
+
+Today Pari and Arya are playing a game called RemaindersPari chooses two positive integer x and k and tells Arya k but not x Arya have to find the value  There are n ancient numbers c1c2cn and Pari has to tell Arya  if Arya wants Given k and the ancient values tell us if Arya has a winning strategy independent of value of x or not Formally is it true that Arya can understand the value  for any positive integer xNote that  means the remainder of x after dividing it by y

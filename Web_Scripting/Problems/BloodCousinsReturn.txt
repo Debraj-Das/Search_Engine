@@ -1,0 +1,9 @@
+Blood Cousins Return                    
+
+httpscodeforcescomproblemsetproblem246E
+
+binary search
+
+2400
+
+Polycarpus got hold of a family tree The found tree describes the family relations of n people numbered from 1 to n Every person in this tree has at most one direct ancestor Also each person in the tree has a name the names are not necessarily uniqueWe call the man with a number a a 1ancestor of the man with a number b if the man with a number a is a direct ancestor of the man with a number bWe call the man with a number a a kancestor k1 of the man with a number b if the man with a number b has a 1ancestor and the man with a number a is a k1ancestor of the 1ancestor of the man with a number bIn the tree the family ties do not form cycles In other words there isnt a person who is his own direct or indirect ancestor that is who is an xancestor of himself for some x x0We call a man with a number a the kson of the man with a number b if the man with a number b is a kancestor of the man with a number aPolycarpus is very much interested in how many sons and which sons each person has He took a piece of paper and wrote m pairs of numbers vi ki Help him to learn for each pair vi ki the number of distinct names among all names of the kisons of the man with number vi

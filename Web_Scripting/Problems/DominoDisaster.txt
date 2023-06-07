@@ -1,0 +1,9 @@
+Domino Disaster                    
+
+https://codeforces.com/problemset/problem/1567/A
+
+implementation
+
+800
+
+Alice has a grid with 2 rows and n columns. She fully covers the grid using n dominoes of size 1 \times 2 — Alice may place them vertically or horizontally, and each cell should be covered by exactly one domino.Now, she decided to show one row of the grid to Bob. Help Bob and figure out what the other row of the grid looks like!

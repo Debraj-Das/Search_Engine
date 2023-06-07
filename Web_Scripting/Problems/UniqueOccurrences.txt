@@ -1,0 +1,9 @@
+Unique Occurrences                    
+
+https://codeforces.com/problemset/problem/1681/F
+
+data structures
+
+2300
+
+You are given a tree, consisting of n vertices. Each edge has an integer value written on it.Let f(v, u) be the number of values that appear exactly once on the edges of a simple path between vertices v and u.Calculate the sum of f(v, u) over all pairs of vertices v and u such that 1 \le v < u \le n.

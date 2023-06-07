@@ -1,0 +1,9 @@
+Quadratic Set                    
+
+httpscodeforcescomproblemsetproblem1622F
+
+constructive algorithms
+
+2900
+
+Lets call a set of positive integers a1 a2 dots ak quadratic if the product of the factorials of its elements is a square of an integer ie prodlimitsi1k ai  m2 for some integer mYou are given a positive integer nYour task is to find a quadratic subset of a set 1 2 dots n of maximum size If there are multiple answers print any of them

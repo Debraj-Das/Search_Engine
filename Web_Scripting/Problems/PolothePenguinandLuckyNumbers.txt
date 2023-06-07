@@ -1,0 +1,9 @@
+Polo the Penguin and Lucky Numbers                    
+
+httpscodeforcescomproblemsetproblem288E
+
+dp
+
+2800
+
+Everybody knows that lucky numbers are positive integers that contain only lucky digits 4 and 7 in their decimal representation For example numbers 47 744 4 are lucky and 5 17 467 are notPolo the Penguin have two positive integers l and r lr both of them are lucky numbers Moreover their lengths that is the number of digits in the decimal representation without the leading zeroes are equal to each otherLets assume that n is the number of distinct lucky numbers each of them cannot be greater than r or less than l and ai is the ith in increasing order number of them Find a1a2a2a3an1an As the answer can be rather large print the remainder after dividing it by 1000000007 1097

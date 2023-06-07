@@ -1,0 +1,9 @@
+Unnatural Conditions                    
+
+https://codeforces.com/problemset/problem/1028/B
+
+constructive algorithms
+
+1200
+
+Let s(x) be sum of digits in decimal representation of positive integer x. Given two integers n and m, find some positive integers a and b such that   s(a) \ge n,  s(b) \ge n,  s(a + b) \le m. 

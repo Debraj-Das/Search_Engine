@@ -1,0 +1,9 @@
+Close Vertices                    
+
+httpscodeforcescomproblemsetproblem293E
+
+data structures
+
+2700
+
+Youve got a weighted tree consisting of n vertices Each edge has a nonnegative weight The length of the path between any two vertices of the tree is the number of edges in the path The weight of the path is the total weight of all edges it contains Two vertices are close if there exists a path of length at most l between them and a path of weight at most w between them Count the number of pairs of vertices vu vu such that vertices v and u are close

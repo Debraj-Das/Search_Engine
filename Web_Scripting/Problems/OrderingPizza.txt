@@ -1,0 +1,9 @@
+Ordering Pizza                    
+
+https://codeforces.com/problemset/problem/865/B
+
+binary search
+
+1900
+
+It's another Start[c]up finals, and that means there is pizza to order for the onsite contestants. There are only 2 types of pizza (obviously not, but let's just pretend for the sake of the problem), and all pizzas contain exactly S slices.It is known that the i-th contestant will eat si slices of pizza, and gain ai happiness for each slice of type 1 pizza they eat, and bi happiness for each slice of type 2 pizza they eat. We can order any number of type 1 and type 2 pizzas, but we want to buy the minimum possible number of pizzas for all of the contestants to be able to eat their required number of slices. Given that restriction, what is the maximum possible total happiness that can be achieved?

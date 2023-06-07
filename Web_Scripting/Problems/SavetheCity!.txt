@@ -1,0 +1,9 @@
+Save the City                    
+
+httpscodeforcescomproblemsetproblem67E
+
+geometry
+
+2500
+
+In the town of AalamAara meaning the Light of the Earth previously there was no crime no criminals but as the time progressed sins started creeping into the hearts of once righteous people Seeking solution to the problem some of the elders found that as long as the corrupted part of population was kept away from the uncorrupted part the crimes could be stopped So they are trying to set up a compound where they can keep the corrupted people To ensure that the criminals dont escape the compound a watchtower needs to be set up so that they can be watchedSince the people of AalamAara arent very rich they met up with a merchant from some rich town who agreed to sell them a landplot which has already a straight line fence AB along which a few points are set up where they can put up a watchtower Your task is to help them find out the number of points on that fence where the tower can be put up so that all the criminals can be watched from there Only one watchtower can be set up A criminal is watchable from the watchtower if the line of visibility from the watchtower to him doesnt cross the plotedges at any point between him and the tower ie as shown in figure 1 below points X Y C and A are visible from point B but the points E and D are not    Figure 1     Figure 2 Assume that the land plot is in the shape of a polygon and coordinate axes have been setup such that the fence AB is parallel to xaxis and the points where the watchtower can be set up are the integer points on the line For example in given figure 2 watchtower can be setup on any of five integer points on AB ie 48 58 68 78 or 88 You can assume that no three consecutive points are collinear and all the corner points other than A and B lie towards same side of fence AB The given polygon doesnt contain selfintersections

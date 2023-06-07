@@ -1,0 +1,9 @@
+Shake It                    
+
+httpscodeforcescomproblemsetproblem848D
+
+combinatorics
+
+2900
+
+A neverending fastchanging and dreamlike world unfolds as the secret door opensA world is an unordered graph G in whose vertex set VG there are two special vertices sG and tG An initial world has vertex set sGtG and an edge between themA total of n changes took place in an initial world In each change a new vertex w is added into VG an existing edge uv is chosen and two edges uw and vw are added into EG Note that its possible that some edges are chosen in more than one changeIts known that the capacity of the minimum st cut of the resulting graph is m that is at least m edges need to be removed in order to make sG and tG disconnectedCount the number of nonsimilar worlds that can be built under the constraints modulo 1097 We define two worlds similar if they are isomorphic and there is isomorphism in which the s and t vertices are not relabelled Formally two worlds G and H are considered similar if there is a bijection between their vertex sets  such that   fsGsH  ftGtH  Two vertices u and v of G are adjacent in G if and only if fu and fv are adjacent in H 

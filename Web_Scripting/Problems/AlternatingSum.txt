@@ -1,0 +1,9 @@
+Alternating Sum                    
+
+https://codeforces.com/problemset/problem/963/A
+
+math
+
+1800
+
+You are given two integers a and b. Moreover, you are given a sequence s_0, s_1, \dots, s_{n}. All values in s are integers 1 or -1. It's known that sequence is k-periodic and k divides n+1. In other words, for each k \leq i \leq n it's satisfied that s_{i} = s_{i - k}.Find out the non-negative remainder of division of \sum \limits_{i=0}^{n} s_{i} a^{n - i} b^{i} by 10^{9} + 9.Note that the modulo is unusual!

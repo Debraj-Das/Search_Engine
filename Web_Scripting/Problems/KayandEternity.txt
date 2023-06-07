@@ -1,0 +1,9 @@
+Kay and Eternity                    
+
+httpscodeforcescomproblemsetproblem685D
+
+brute force
+
+2600
+
+Snow Queen told Kay to form a word eternity using pieces of ice Kay is eager to deal with the task because he will then become free and Snow Queen will give him all the world and a pair of skatesBehind the palace of the Snow Queen there is an infinite field consisting of cells There are n pieces of ice spread over the field each piece occupying exactly one cell and no two pieces occupying the same cell To estimate the difficulty of the task Kay looks at some squares of size kk cells with corners located at the corners of the cells and sides parallel to coordinate axis and counts the number of pieces of the ice inside themThis method gives an estimation of the difficulty of some part of the field However Kay also wants to estimate the total difficulty so he came up with the following criteria for each x 1xn he wants to count the number of squares of size kk such that there are exactly x pieces of the ice insidePlease help Kay estimate the difficulty of the task given by the Snow Queen

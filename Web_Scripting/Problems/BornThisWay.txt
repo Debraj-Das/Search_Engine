@@ -1,0 +1,9 @@
+Born This Way                    
+
+https://codeforces.com/problemset/problem/1148/B
+
+binary search
+
+1600
+
+Arkady bought an air ticket from a city A to a city C. Unfortunately, there are no direct flights, but there are a lot of flights from A to a city B, and from B to C.There are n flights from A to B, they depart at time moments a_1, a_2, a_3, ..., a_n and arrive at B t_a moments later.There are m flights from B to C, they depart at time moments b_1, b_2, b_3, ..., b_m and arrive at C t_b moments later.The connection time is negligible, so one can use the i-th flight from A to B and the j-th flight from B to C if and only if b_j \ge a_i + t_a.You can cancel at most k flights. If you cancel a flight, Arkady can not use it.Arkady wants to be in C as early as possible, while you want him to be in C as late as possible. Find the earliest time Arkady can arrive at C, if you optimally cancel k flights. If you can cancel k or less flights in such a way that it is not possible to reach C at all, print -1.

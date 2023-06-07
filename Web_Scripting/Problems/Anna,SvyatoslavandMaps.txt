@@ -1,0 +1,9 @@
+Anna, Svyatoslav and Maps                    
+
+https://codeforces.com/problemset/problem/1204/C
+
+dp
+
+1700
+
+The main characters have been omitted to be short.You are given a directed unweighted graph without loops with n vertexes and a path in it (that path is not necessary simple) given by a sequence p_1, p_2, \ldots, p_m of m vertexes; for each 1 \leq i < m there is an arc from p_i to p_{i+1}.Define the sequence v_1, v_2, \ldots, v_k of k vertexes as good, if v is a subsequence of p, v_1 = p_1, v_k = p_m, and p is one of the shortest paths passing through the vertexes v_1, \ldots, v_k in that order.A sequence a is a subsequence of a sequence b if a can be obtained from b by deletion of several (possibly, zero or all) elements. It is obvious that the sequence p is good but your task is to find the shortest good subsequence.If there are multiple shortest good subsequences, output any of them. 

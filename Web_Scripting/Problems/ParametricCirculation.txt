@@ -1,0 +1,9 @@
+Parametric Circulation                    
+
+https://codeforces.com/problemset/problem/925/F
+
+binary search
+
+3100
+
+Vova has recently learned what a circulaton in a graph is. Recall the definition: let G = (V, E) be a directed graph. A circulation f is such a collection of non-negative real numbers f_e (e \in E), that for each vertex v \in V the following conservation condition holds:\sum\limits_{e \in \delta^{-}(v)} f_e = \sum\limits_{e \in \delta^{+}(v)} f_ewhere \delta^{+}(v) is the set of edges that end in the vertex v, and \delta^{-}(v) is the set of edges that start in the vertex v. In other words, for each vertex the total incoming flow should be equal to the total outcoming flow.Let a lr-circulation be such a circulation f that for each edge the condition l_e \leq f_e \leq r_e holds, where l_e and r_e for each edge e \in E are two non-negative real numbers denoting the lower and upper bounds on the value of the circulation on this edge e.Vova can't stop thinking about applications of a new topic. Right now he thinks about the following natural question: let the graph be fixed, and each value l_e and r_e be a linear function of a real variable t:l_e(t) = a_e t + b_e r_e(t) = c_e t + d_eNote that t is the same for all edges.Let t be chosen at random from uniform distribution on a segment [0, 1]. What is the probability of existence of lr-circulation in the graph?

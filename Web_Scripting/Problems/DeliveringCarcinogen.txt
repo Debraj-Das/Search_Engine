@@ -1,0 +1,9 @@
+Delivering Carcinogen                    
+
+httpscodeforcescomproblemsetproblem198C
+
+binary search
+
+2400
+
+Qwerty the Ranger arrived to the Diatar system with a very important task He should deliver a special carcinogen for scientific research to planet Persephone This is urgent so Qwerty has to get to the planet as soon as possible A lost day may fail negotiations as nobody is going to pay for an overdue carcinogenYou can consider Qwertys ship the planet Persephone and the star Diatar points on a plane Diatar is located in the origin of coordinate axes  at point 00 Persephone goes round Diatar along a circular orbit with radius R in the counterclockwise direction at constant linear speed vp thus for instance a full circle around the star takes  of time At the initial moment of time Persephone is located at point xpypAt the initial moment of time Qwertys ship is at point xy Qwerty can move in any direction at speed of at most v vvp The star Diatar is hot as all stars so Qwerty cant get too close to it The ships metal sheathing melts at distance r rR from the starFind the minimum time Qwerty needs to get the carcinogen to planet Persephone

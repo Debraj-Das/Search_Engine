@@ -1,0 +1,9 @@
+Rule of League                    
+
+https://codeforces.com/problemset/problem/1733/B
+
+constructive algorithms
+
+900
+
+There is a badminton championship in which n players take part. The players are numbered from 1 to n. The championship proceeds as follows: player 1 and player 2 play a game, then the winner and player 3 play a game, and then the winner and player 4 play a game, and so on. So, n-1 games are played, and the winner of the last game becomes the champion. There are no draws in the games.You want to find out the result of championship. Currently, you only know the following information:  Each player has either won x games or y games in the championship. Given n, x, and y, find out if there is a result that matches this information.

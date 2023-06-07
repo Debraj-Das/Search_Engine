@@ -1,0 +1,9 @@
+RedBlue Operations Easy Version                    
+
+httpscodeforcescomproblemsetproblem1832D1
+
+binary search
+
+2100
+
+The only difference between easy and hard versions is the maximum values of n and qYou are given an array consisting of n integers Initially all elements are redYou can apply the following operation to the array multiple times During the ith operation you select an element of the array then   if the element is red it increases by i and becomes blue  if the element is blue it decreases by i and becomes red The operations are numbered from 1 ie during the first operation some element is changed by 1 and so onYou are asked q queries of the following form   given an integer k what can the largest minimum in the array be if you apply exactly k operations to it Note that the operations dont affect the array between queries all queries are asked on the initial array a

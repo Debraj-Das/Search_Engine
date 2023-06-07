@@ -1,0 +1,9 @@
+Slay the Dragon                    
+
+https://codeforces.com/problemset/problem/1574/C
+
+binary search
+
+1300
+
+Recently, Petya learned about a new game "Slay the Dragon". As the name suggests, the player will have to fight with dragons. To defeat a dragon, you have to kill it and defend your castle. To do this, the player has a squad of n heroes, the strength of the i-th hero is equal to a_i.According to the rules of the game, exactly one hero should go kill the dragon, all the others will defend the castle. If the dragon's defense is equal to x, then you have to send a hero with a strength of at least x to kill it. If the dragon's attack power is y, then the total strength of the heroes defending the castle should be at least y.The player can increase the strength of any hero by 1 for one gold coin. This operation can be done any number of times.There are m dragons in the game, the i-th of them has defense equal to x_i and attack power equal to y_i. Petya was wondering what is the minimum number of coins he needs to spend to defeat the i-th dragon.Note that the task is solved independently for each dragon (improvements are not saved).

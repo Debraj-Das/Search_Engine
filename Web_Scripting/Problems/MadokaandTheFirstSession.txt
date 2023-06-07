@@ -1,0 +1,9 @@
+Madoka and The First Session                    
+
+https://codeforces.com/problemset/problem/1717/F
+
+constructive algorithms
+
+2500
+
+Oh no, on the first exam Madoka got this hard problem:Given integer n and m pairs of integers (v_i, u_i). Also there is an array b_1, b_2, \ldots, b_n, initially filled with zeros.Then for each index i, where 1 \leq i \leq m, perform either b_{v_i} := b_{v_i} - 1 and b_{u_i} := b_{u_i} + 1, or b_{v_i} := b_{v_i} + 1 and b_{u_i} := b_{u_i} - 1. Note that exactly one of these operations should be performed for every i.Also there is an array s of length n consisting of 0 and 1. And there is an array a_1, a_2, \ldots, a_n, where it is guaranteed, that if s_i = 0 holds, then a_i = 0.Help Madoka and determine whenever it is possible to perform operations in such way that for every i, where s_i = 1 it holds that a_i = b_i. If it possible you should also provide Madoka with a way to perform operations.

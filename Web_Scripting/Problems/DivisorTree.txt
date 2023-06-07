@@ -1,0 +1,9 @@
+Divisor Tree                    
+
+httpscodeforcescomproblemsetproblem337E
+
+brute force
+
+2200
+
+A divisor tree is a rooted tree that meets the following conditions   Each vertex of the tree contains a positive integer number  The numbers written in the leaves of the tree are prime numbers  For any inner vertex the number within it is equal to the product of the numbers written in its children Manao has n distinct integers a1a2an He tries to build a divisor tree which contains each of these numbers That is for each ai there should be at least one vertex in the tree which contains ai Manao loves compact style but his trees are too large Help Manao determine the minimum possible number of vertices in the divisor tree sought

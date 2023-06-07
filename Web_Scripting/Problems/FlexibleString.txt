@@ -1,0 +1,9 @@
+Flexible String                    
+
+https://codeforces.com/problemset/problem/1778/C
+
+bitmasks
+
+1600
+
+You have a string a and a string b. Both of the strings have length n. There are at most 10 different characters in the string a. You also have a set Q. Initially, the set Q is empty. You can apply the following operation on the string a any number of times:  Choose an index i (1\leq i \leq n) and a lowercase English letter c. Add a_i to the set Q and then replace a_i with c. For example, Let the string a be "\tt{abecca}". We can do the following operations:   In the first operation, if you choose i = 3 and c = \tt{x}, the character a_3 = \tt{e} will be added to the set Q. So, the set Q will be \{\tt{e}\}, and the string a will be "\tt{ab\underline{x}cca}". In the second operation, if you choose i = 6 and c = \tt{s}, the character a_6 = \tt{a} will be added to the set Q. So, the set Q will be \{\tt{e}, \tt{a}\}, and the string a will be "\tt{abxcc\underline{s}}". You can apply any number of operations on a, but in the end, the set Q should contain at most k different characters. Under this constraint, you have to maximize the number of integer pairs (l, r) (1\leq l\leq r \leq n) such that a[l,r] = b[l,r]. Here, s[l,r] means the substring of string s starting at index l (inclusively) and ending at index r (inclusively).

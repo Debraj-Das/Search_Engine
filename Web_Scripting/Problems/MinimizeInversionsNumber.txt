@@ -1,0 +1,9 @@
+Minimize Inversions Number                    
+
+https://codeforces.com/problemset/problem/1637/H
+
+data structures
+
+3500
+
+You are given a permutation p of length n.You can choose any subsequence, remove it from the permutation, and insert it at the beginning of the permutation keeping the same order.For every k from 0 to n, find the minimal possible number of inversions in the permutation after you choose a subsequence of length exactly k.

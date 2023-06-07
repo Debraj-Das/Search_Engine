@@ -1,0 +1,9 @@
+Fibonacci Additions                    
+
+https://codeforces.com/problemset/problem/1634/F
+
+brute force
+
+2700
+
+One of my most productive days was throwing away 1,000 lines of code.— Ken ThompsonFibonacci addition is an operation on an array X of integers, parametrized by indices l and r. Fibonacci addition increases X_l by F_1, increases X_{l + 1} by F_2, and so on up to X_r which is increased by F_{r - l + 1}.F_i denotes the i-th Fibonacci number (F_1 = 1, F_2 = 1, F_{i} = F_{i - 1} + F_{i - 2} for i > 2), and all operations are performed modulo MOD.You are given two arrays A and B of the same length. We will ask you to perform several Fibonacci additions on these arrays with different parameters, and after each operation you have to report whether arrays A and B are equal modulo MOD.

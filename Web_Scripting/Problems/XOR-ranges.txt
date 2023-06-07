@@ -1,0 +1,9 @@
+XOR-ranges                    
+
+https://codeforces.com/problemset/problem/1456/E
+
+dp
+
+3500
+
+Given integers c_{0}, c_{1}, \ldots, c_{k-1} we can define the cost of a number 0 \le x < 2^{k} as p(x) = \sum_{i=0}^{k-1} \left( \left\lfloor \frac{x}{2^{i}} \right\rfloor \bmod 2 \right) \cdot c_{i}. In other words, the cost of number x is the sum of c_{i} over the bits of x which are equal to one.Let's define the cost of array a of length n \ge 2 with elements from [0, 2^{k}) as follows: cost(a) = \sum_{i=1}^{n - 1} p(a_{i} \oplus a_{i+1}), where \oplus denotes bitwise exclusive OR operation.You have to construct an array of length n with minimal cost, given that each element should belong to the given segment: l_{i} \le a_{i} \le r_{i}.

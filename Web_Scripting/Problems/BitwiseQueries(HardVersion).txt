@@ -1,0 +1,9 @@
+Bitwise Queries (Hard Version)                    
+
+https://codeforces.com/problemset/problem/1451/E2
+
+bitmasks
+
+2300
+
+The only difference between the easy and hard versions is the constraints on the number of queries.This is an interactive problem.Ridbit has a hidden array a of n integers which he wants Ashish to guess. Note that n is a power of two. Ashish is allowed to ask three different types of queries. They are of the form   AND i j: ask for the bitwise AND of elements a_i and a_j (1 \leq i, j \le n, i \neq j)  OR i j: ask for the bitwise OR of elements a_i and a_j (1 \leq i, j \le n, i \neq j)  XOR i j: ask for the bitwise XOR of elements a_i and a_j (1 \leq i, j \le n, i \neq j) Can you help Ashish guess the elements of the array?In this version, each element takes a value in the range [0, n-1] (inclusive) and Ashish can ask no more than n+1 queries.

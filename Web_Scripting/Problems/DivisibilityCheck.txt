@@ -1,0 +1,9 @@
+Divisibility Check                    
+
+https://codeforces.com/problemset/problem/661/E
+
+*special problem
+
+2000
+
+You are given an array of integers. Check whether there exists a number in this array which is divisible by all other numbers in this array. Output 1, if such a number exists, and 0 otherwise.

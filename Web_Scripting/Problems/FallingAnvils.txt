@@ -1,0 +1,9 @@
+Falling Anvils                    
+
+httpscodeforcescomproblemsetproblem77B
+
+math
+
+1800
+
+For some reason in many American cartoons anvils fall from time to time onto heroes heads Of course safes wardrobes cruisers planes fall sometimes too But anvils do so most of allAnvils come in different sizes and shapes Quite often they get the hero stuck deep in the ground But have you ever thought who throws anvils from the sky From what height We are sure that such questions have never troubled youIt turns out that throwing an anvil properly is not an easy task at all Lets describe one of the most popular anvil throwing modelsLet the height p of the potential victim vary in the range 0a and the direction of the wind q vary in the range bb p and q could be any real floating numbers Then we can assume that the anvil will fit the toons head perfectly only if the following equation has at least one real root   Determine the probability with which an aim can be successfully hit by an anvilYou can assume that the p and q coefficients are chosen equiprobably and independently in their ranges

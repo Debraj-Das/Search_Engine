@@ -1,0 +1,9 @@
+Make Symmetrical                    
+
+https://codeforces.com/problemset/problem/1028/F
+
+brute force
+
+2900
+
+Consider a set of points A, initially it is empty. There are three types of queries:   Insert a point (x_i, y_i) to A. It is guaranteed that this point does not belong to A at this moment.  Remove a point (x_i, y_i) from A. It is guaranteed that this point belongs to A at this moment.  Given a point (x_i, y_i), calculate the minimum number of points required to add to A to make A symmetrical with respect to the line containing points (0, 0) and (x_i, y_i). Note that these points are not actually added to A, i.e. these queries are independent from each other. 

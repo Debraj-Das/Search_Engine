@@ -1,0 +1,9 @@
+Bear and Prime 100                    
+
+httpscodeforcescomproblemsetproblem679A
+
+constructive algorithms
+
+1400
+
+This is an interactive problem In the output section below you will see the information about flushing the outputBear Limak thinks of some hidden number an integer from interval 2100 Your task is to say if the hidden number is prime or compositeInteger x1 is called prime if it has exactly two distinct divisors 1 and x If integer x1 is not prime its called compositeYou can ask up to 20 queries about divisors of the hidden number In each query you should print an integer from interval 2100 The system will answer yes if your integer is a divisor of the hidden number Otherwise the answer will be noFor example if the hidden number is 14 then the system will answer yes only if you print 2 7 or 14When you are done asking queries print prime or composite and terminate your programYou will get the Wrong Answer verdict if you ask more than 20 queries or if you print an integer not from the range 2100 Also you will get the Wrong Answer verdict if the printed answer isnt correctYou will get the Idleness Limit Exceeded verdict if you dont print anything but you should or if you forget about flushing the output more info below

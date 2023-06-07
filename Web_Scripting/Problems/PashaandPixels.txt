@@ -1,0 +1,9 @@
+Pasha and Pixels                    
+
+httpscodeforcescomproblemsetproblem508A
+
+brute force
+
+1100
+
+Pasha loves his phone and also putting his hair up But the hair is now irrelevantPasha has installed a new game to his phone The goal of the game is following There is a rectangular field consisting of n row with m pixels in each row Initially all the pixels are colored white In one move Pasha can choose any pixel and color it black In particular he can choose the pixel that is already black then after the boys move the pixel does not change that is it remains black Pasha loses the game when a 22 square consisting of black pixels is formed Pasha has made a plan of k moves according to which he will paint pixels Each turn in his plan is represented as a pair of numbers i and j denoting respectively the row and the column of the pixel to be colored on the current moveDetermine whether Pasha loses if he acts in accordance with his plan and if he does on what move the 22 square consisting of black pixels is formed

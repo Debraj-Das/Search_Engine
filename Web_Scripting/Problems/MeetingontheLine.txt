@@ -1,0 +1,9 @@
+Meeting on the Line                    
+
+https://codeforces.com/problemset/problem/1730/B
+
+binary search
+
+1600
+
+n people live on the coordinate line, the i-th one lives at the point x_i (1 \le i \le n). They want to choose a position x_0 to meet. The i-th person will spend |x_i - x_0| minutes to get to the meeting place. Also, the i-th person needs t_i minutes to get dressed, so in total he or she needs t_i + |x_i - x_0| minutes. Here |y| denotes the absolute value of y.These people ask you to find a position x_0 that minimizes the time in which all n people can gather at the meeting place. 

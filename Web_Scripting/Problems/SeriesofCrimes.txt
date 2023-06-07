@@ -1,0 +1,9 @@
+Series of Crimes                    
+
+httpscodeforcescomproblemsetproblem181A
+
+brute force
+
+800
+
+The Berland capital is shaken with three bold crimes committed by the Pihsters a notorious criminal gangThe Berland capitals map is represented by an nm rectangular table Each cell of the table on the map represents some districts of the capital The capitals main detective Polycarpus took a map and marked there the districts where the first three robberies had been committed as asterisks Deduction tells Polycarpus that the fourth robbery will be committed in such district that all four robbed districts will form the vertices of some rectangle parallel to the sides of the map Polycarpus is good at deduction but hes hopeless at math So he asked you to find the district where the fourth robbery will be committed

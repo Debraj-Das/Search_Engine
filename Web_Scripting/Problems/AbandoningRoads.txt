@@ -1,0 +1,9 @@
+Abandoning Roads                    
+
+https://codeforces.com/problemset/problem/1149/D
+
+brute force
+
+3000
+
+Codefortia is a small island country located somewhere in the West Pacific. It consists of n settlements connected by m bidirectional gravel roads. Curiously enough, the beliefs of the inhabitants require the time needed to pass each road to be equal either to a or b seconds. It's guaranteed that one can go between any pair of settlements by following a sequence of roads.Codefortia was recently struck by the financial crisis. Therefore, the king decided to abandon some of the roads so that:  it will be possible to travel between each pair of cities using the remaining roads only,  the sum of times required to pass each remaining road will be minimum possible (in other words, remaining roads must form minimum spanning tree, using the time to pass the road as its weight),  among all the plans minimizing the sum of times above, the time required to travel between the king's residence (in settlement 1) and the parliament house (in settlement p) using the remaining roads only will be minimum possible. The king, however, forgot where the parliament house was. For each settlement p = 1, 2, \dots, n, can you tell what is the minimum time required to travel between the king's residence and the parliament house (located in settlement p) after some roads are abandoned?

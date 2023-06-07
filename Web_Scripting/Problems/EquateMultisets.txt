@@ -1,0 +1,9 @@
+Equate Multisets                    
+
+https://codeforces.com/problemset/problem/1702/F
+
+constructive algorithms
+
+1700
+
+Multiset —is a set of numbers in which there can be equal elements, and the order of the numbers does not matter. Two multisets are equal when each value occurs the same number of times. For example, the multisets \{2,2,4\} and \{2,4,2\} are equal, but the multisets \{1,2,2\} and \{1,1,2\} — are not.You are given two multisets a and b, each consisting of n integers.In a single operation, any element of the b multiset can be doubled or halved (rounded down). In other words, you have one of the following operations available for an element x of the b multiset:   replace x with x \cdot 2,  or replace x with \lfloor \frac{x}{2} \rfloor (round down).  Note that you cannot change the elements of the a multiset.See if you can make the multiset b become equal to the multiset a in an arbitrary number of operations (maybe 0).For example, if n = 4, a = \{4, 24, 5, 2\}, b = \{4, 1, 6, 11\}, then the answer is yes. We can proceed as follows:   Replace 1 with 1 \cdot 2 = 2. We get b = \{4, 2, 6, 11\}.  Replace 11 with \lfloor \frac{11}{2} \rfloor = 5. We get b = \{4, 2, 6, 5\}.  Replace 6 with 6 \cdot 2 = 12. We get b = \{4, 2, 12, 5\}.  Replace 12 with 12 \cdot 2 = 24. We get b = \{4, 2, 24, 5\}.  Got equal multisets a = \{4, 24, 5, 2\} and b = \{4, 2, 24, 5\}. 

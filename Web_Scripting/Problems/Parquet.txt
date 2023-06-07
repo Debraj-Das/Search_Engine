@@ -1,0 +1,9 @@
+Parquet                    
+
+httpscodeforcescomproblemsetproblem26C
+
+combinatorics
+
+2000
+
+Once Bob decided to lay a parquet floor in his living room The living room is of size nm metres Bob had planks of three types a planks 12 meters b planks 21 meters and c planks 22 meters Help Bob find out if it is possible to parquet the living room with such a set of planks and if it is possible find one of the possible ways to do so Bob doesnt have to use all the planks

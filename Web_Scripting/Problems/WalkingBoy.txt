@@ -1,0 +1,9 @@
+Walking Boy                    
+
+https://codeforces.com/problemset/problem/1776/A
+
+greedy
+
+800
+
+One of the SWERC judges has a dog named Boy. Besides being a good competitive programmer, Boy loves fresh air, so she wants to be walked at least twice a day. Walking Boy requires 120 consecutive minutes. Two walks cannot overlap, but one can start as soon as the previous one has finished. Boy before and after getting ACCEPTED on this problem. Today, the judge sent n messages to the SWERC Discord server. The i-th message was sent a_i minutes after midnight. You know that, when walking Boy, the judge does not send any messages, but he can send a message right before or right after a walk. Is it possible that the judge walked Boy at least twice today?Note that a day has 1440 minutes, and a walk is considered to happen today if it starts at a minute s \ge 0 and ends right before a minute e \le 1440. In that case, it must hold that e - s = 120 and, for every i = 1, \, 2 \, \dots, \, n, either a_i \le s or a_i \ge e.

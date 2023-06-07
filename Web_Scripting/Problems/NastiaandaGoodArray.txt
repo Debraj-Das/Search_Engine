@@ -1,0 +1,9 @@
+Nastia and a Good Array                    
+
+https://codeforces.com/problemset/problem/1521/B
+
+constructive algorithms
+
+1300
+
+Nastia has received an array of n positive integers as a gift.She calls such an array a good that for all i (2 \le i \le n) takes place gcd(a_{i - 1}, a_{i}) = 1, where gcd(u, v) denotes the greatest common divisor (GCD) of integers u and v.You can perform the operation: select two different indices i, j (1 \le i, j \le n, i \neq j) and two integers x, y (1 \le x, y \le 2 \cdot 10^9) so that \min{(a_i, a_j)} = \min{(x, y)}. Then change a_i to x and a_j to y.The girl asks you to make the array good using at most n operations.It can be proven that this is always possible.

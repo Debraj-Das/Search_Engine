@@ -1,0 +1,9 @@
+Build Permutation                    
+
+https://codeforces.com/problemset/problem/1713/C
+
+constructive algorithms
+
+1200
+
+A \mathbf{0}-indexed array a of size n is called good if for all valid indices i (0 \le i \le n-1), a_i + i is a perfect square^\dagger.Given an integer n. Find a permutation^\ddagger p of [0,1,2,\ldots,n-1] that is good or determine that no such permutation exists.^\dagger An integer x is said to be a perfect square if there exists an integer y such that x = y^2.^\ddagger An array b is a permutation of an array a if b consists of the elements of a in arbitrary order. For example, [4,2,3,4] is a permutation of [3,2,4,4] while [1,2,2] is not a permutation of [1,2,3].

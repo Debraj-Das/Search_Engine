@@ -1,0 +1,9 @@
+Mr. Kitayuta's Colorful Graph                    
+
+https://codeforces.com/problemset/problem/506/D
+
+brute force
+
+2400
+
+Mr. Kitayuta has just bought an undirected graph with n vertices and m edges. The vertices of the graph are numbered from 1 to n. Each edge, namely edge i, has a color ci, connecting vertex ai and bi.Mr. Kitayuta wants you to process the following q queries.In the i-th query, he gives you two integers - ui and vi.Find the number of the colors that satisfy the following condition: the edges of that color connect vertex ui and vertex vi directly or indirectly.

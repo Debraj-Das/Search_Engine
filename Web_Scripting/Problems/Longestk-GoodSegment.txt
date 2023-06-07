@@ -1,0 +1,9 @@
+Longest k-Good Segment                    
+
+https://codeforces.com/problemset/problem/616/D
+
+binary search
+
+1600
+
+The array a with n integers is given. Let's call the sequence of one or more consecutive elements in a segment. Also let's call the segment k-good if it contains no more than k different values.Find any longest k-good segment.As the input/output can reach huge size it is recommended to use fast input/output methods: for example, prefer to use scanf/printf instead of cin/cout in C++, prefer to use BufferedReader/PrintWriter instead of Scanner/System.out in Java.

@@ -1,0 +1,9 @@
+Even Subarrays                    
+
+https://codeforces.com/problemset/problem/1731/C
+
+bitmasks
+
+1700
+
+You are given an integer array a_1, a_2, \dots, a_n (1 \le a_i \le n).Find the number of subarrays of a whose \operatorname{XOR} has an even number of divisors. In other words, find all pairs of indices (i, j) (i \le j) such that a_i \oplus a_{i + 1} \oplus \dots \oplus a_j has an even number of divisors.For example, numbers 2, 3, 5 or 6 have an even number of divisors, while 1 and 4 — odd. Consider that 0 has an odd number of divisors in this task.Here \operatorname{XOR} (or \oplus) denotes the bitwise XOR operation.Print the number of subarrays but multiplied by 2022... Okay, let's stop. Just print the actual answer.

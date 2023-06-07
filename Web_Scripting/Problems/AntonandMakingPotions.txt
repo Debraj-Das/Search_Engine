@@ -1,0 +1,9 @@
+Anton and Making Potions                    
+
+https://codeforces.com/problemset/problem/734/C
+
+binary search
+
+1600
+
+Anton is playing a very interesting computer game, but now he is stuck at one of the levels. To pass to the next level he has to prepare n potions.Anton has a special kettle, that can prepare one potions in x seconds. Also, he knows spells of two types that can faster the process of preparing potions.  Spells of this type speed up the preparation time of one potion. There are m spells of this type, the i-th of them costs bi manapoints and changes the preparation time of each potion to ai instead of x.  Spells of this type immediately prepare some number of potions. There are k such spells, the i-th of them costs di manapoints and instantly create ci potions. Anton can use no more than one spell of the first type and no more than one spell of the second type, and the total number of manapoints spent should not exceed s. Consider that all spells are used instantly and right before Anton starts to prepare potions.Anton wants to get to the next level as fast as possible, so he is interested in the minimum number of time he needs to spent in order to prepare at least n potions.

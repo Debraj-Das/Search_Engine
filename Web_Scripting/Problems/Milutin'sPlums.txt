@@ -1,0 +1,9 @@
+Milutin's Plums                    
+
+https://codeforces.com/problemset/problem/1423/M
+
+interactive
+
+2800
+
+As you all know, the plum harvesting season is on! Little Milutin had his plums planted in an orchard that can be represented as an n by m matrix. While he was harvesting, he wrote the heights of all trees in a matrix of dimensions n by m.At night, when he has spare time, he likes to perform various statistics on his trees. This time, he is curious to find out the height of his lowest tree. So far, he has discovered some interesting properties of his orchard. There is one particular property that he thinks is useful for finding the tree with the smallest heigh.Formally, let L(i) be the leftmost tree with the smallest height in the i-th row of his orchard. He knows that L(i) \le L(i+1) for all 1 \le i \le n - 1. Moreover, if he takes a submatrix induced by any subset of rows and any subset of columns, L(i) \le L(i+1) will hold for all 1 \le i \le n'-1, where n' is the number of rows in that submatrix.Since the season is at its peak and he is short on time, he asks you to help him find the plum tree with minimal height.

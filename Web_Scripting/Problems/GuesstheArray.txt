@@ -1,0 +1,9 @@
+Guess the Array                    
+
+httpscodeforcescomproblemsetproblem727C
+
+constructive algorithms
+
+1400
+
+This is an interactive problem You should use flush operation after each printed line For example in C you should use fflushstdout in Java you should use Systemoutflush and in Pascal flushoutputIn this problem you should guess an array a which is unknown for you The only information you have initially is the length n of the array aThe only allowed action is to ask the sum of two elements by their indices Formally you can print two indices i and j the indices should be distinct Then your program should read the response the single integer equals to aiajIt is easy to prove that it is always possible to guess the array using at most n requestsWrite a program that will guess the array a by making at most n requests

@@ -1,0 +1,9 @@
+Optimal Insertion                    
+
+https://codeforces.com/problemset/problem/1601/C
+
+data structures
+
+2300
+
+You are given two arrays of integers a_1, a_2, \ldots, a_n and b_1, b_2, \ldots, b_m.You need to insert all elements of b into a in an arbitrary way. As a result you will get an array c_1, c_2, \ldots, c_{n+m} of size n + m.Note that you are not allowed to change the order of elements in a, while you can insert elements of b at arbitrary positions. They can be inserted at the beginning, between any elements of a, or at the end. Moreover, elements of b can appear in the resulting array in any order.What is the minimum possible number of inversions in the resulting array c? Recall that an inversion is a pair of indices (i, j) such that i < j and c_i > c_j.

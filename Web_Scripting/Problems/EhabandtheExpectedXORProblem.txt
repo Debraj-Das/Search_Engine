@@ -1,0 +1,9 @@
+Ehab and the Expected XOR Problem                    
+
+https://codeforces.com/problemset/problem/1174/D
+
+bitmasks
+
+1900
+
+Given two integers n and x, construct an array that satisfies the following conditions:   for any element a_i in the array, 1 \le a_i<2^n;  there is no non-empty subsegment with bitwise XOR equal to 0 or x,  its length l should be maximized. A sequence b is a subsegment of a sequence a if b can be obtained from a by deletion of several (possibly, zero or all) elements from the beginning and several (possibly, zero or all) elements from the end.

@@ -1,0 +1,9 @@
+Exploration plan                    
+
+https://codeforces.com/problemset/problem/852/D
+
+binary search
+
+2100
+
+The competitors of Bubble Cup X gathered after the competition and discussed what is the best way to get to know the host country and its cities.After exploring the map of Serbia for a while, the competitors came up with the following facts: the country has V cities which are indexed with numbers from 1 to V, and there are E bi-directional roads that connect the cites. Each road has a weight (the time needed to cross that road). There are N teams at the Bubble Cup and the competitors came up with the following plan: each of the N teams will start their journey in one of the V cities, and some of the teams share the starting position.They want to find the shortest time T, such that every team can move in these T minutes, and the number of different cities they end up in is at least K (because they will only get to know the cities they end up in). A team doesn't have to be on the move all the time, if they like it in a particular city, they can stay there and wait for the time to pass.Please help the competitors to determine the shortest time T so it's possible for them to end up in at least K different cities or print -1 if that is impossible no matter how they move.Note that there can exist multiple roads between some cities.

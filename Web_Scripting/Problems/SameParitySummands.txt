@@ -1,0 +1,9 @@
+Same Parity Summands                    
+
+https://codeforces.com/problemset/problem/1352/B
+
+constructive algorithms
+
+1200
+
+You are given two positive integers n (1 \le n \le 10^9) and k (1 \le k \le 100). Represent the number n as the sum of k positive integers of the same parity (have the same remainder when divided by 2).In other words, find a_1, a_2, \ldots, a_k such that all a_i>0, n = a_1 + a_2 + \ldots + a_k and either all a_i are even or all a_i are odd at the same time.If such a representation does not exist, then report it.

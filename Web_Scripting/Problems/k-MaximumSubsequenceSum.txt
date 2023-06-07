@@ -1,0 +1,9 @@
+kMaximum Subsequence Sum                    
+
+httpscodeforcescomproblemsetproblem280D
+
+data structures
+
+2800
+
+Consider integer sequence a1a2an You should run queries of two types  The query format is 0 i val In reply to this query you should make the following assignment aival  The query format is 1 l r k In reply to this query you should print the maximum sum of at most k nonintersecting subsegments of sequence alal1ar Formally you should choose at most k pairs of integers x1y1x2y2xtyt lx1y1x2y2xtytrtk such that the sum ax1ax11ay1ax2ax21ay2axtaxt1ayt is as large as possible Note that you should choose at most k subsegments Particularly you can choose 0 subsegments In this case the described sum considered equal to zero 

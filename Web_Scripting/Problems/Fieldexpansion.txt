@@ -1,0 +1,9 @@
+Field expansion                    
+
+httpscodeforcescomproblemsetproblem799D
+
+brute force
+
+2100
+
+In one of the games Arkady is fond of the game process happens on a rectangular field In the game process Arkady can buy extensions for his field each extension enlarges one of the field sizes in a particular number of times Formally there are n extensions the ith of them multiplies the width or the length by Arkadys choice by ai Each extension cant be used more than once the extensions can be used in any orderNow Arkadys field has size hw He wants to enlarge it so that it is possible to place a rectangle of size ab on it along the width or along the length with sides parallel to the field sides Find the minimum number of extensions needed to reach Arkadys goal

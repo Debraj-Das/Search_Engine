@@ -1,0 +1,9 @@
+Magic Forest                    
+
+httpscodeforcescomproblemsetproblem922B
+
+brute force
+
+1300
+
+Imp is in a magic forest where xorangles grow wut  A xorangle of order n is such a nondegenerate triangle that lengths of its sides are integers not exceeding n and the xorsum of the lengths is equal to zero Imp has to count the number of distinct xorangles of order n to get out of the forest Formally for a given integer n you have to find the number of such triples abc that  1abcn   where  denotes the bitwise xor of integers x and y  abc form a nondegenerate with strictly positive area triangle 

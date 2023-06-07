@@ -1,0 +1,9 @@
+Lets Play Osu                    
+
+httpscodeforcescomproblemsetproblem235B
+
+dp
+
+2000
+
+Youre playing a game called Osu Heres a simplified version of it There are n clicks in a game For each click there are two outcomes correct or bad Let us denote correct as O bad as X then the whole play can be encoded as a sequence of n characters O and XUsing the play sequence you can calculate the score for the play as follows for every maximal consecutive Os block add the square of its length the number of characters O to the score For example if your play can be encoded as OOXOOOXXOO then theres three maximal consecutive Os block OO OOO OO so your score will be 22322217 If there are no correct clicks in a play then the score for the play equals to 0You know that the probability to click the ith 1in click correctly is pi In other words the ith character in the play sequence has pi probability to be O 1pi to be X You task is to calculate the expected score for your play

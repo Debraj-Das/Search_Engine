@@ -1,0 +1,9 @@
+Arrays Sum                    
+
+https://codeforces.com/problemset/problem/1408/B
+
+constructive algorithms
+
+1400
+
+You are given a non-decreasing array of non-negative integers a_1, a_2, \ldots, a_n. Also you are given a positive integer k.You want to find m non-decreasing arrays of non-negative integers b_1, b_2, \ldots, b_m, such that:  The size of b_i is equal to n for all 1 \leq i \leq m.  For all 1 \leq j \leq n, a_j = b_{1, j} + b_{2, j} + \ldots + b_{m, j}. In the other word, array a is the sum of arrays b_i.  The number of different elements in the array b_i is at most k for all 1 \leq i \leq m. Find the minimum possible value of m, or report that there is no possible m.

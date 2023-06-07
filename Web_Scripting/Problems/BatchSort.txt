@@ -1,0 +1,9 @@
+Batch Sort                    
+
+httpscodeforcescomproblemsetproblem724B
+
+brute force
+
+1500
+
+You are given a table consisting of n rows and m columnsNumbers in each row form a permutation of integers from 1 to mYou are allowed to pick two elements in one row and swap them but no more than once for each row Also no more than once you are allowed to pick two columns and swap them Thus you are allowed to perform from 0 to n1 actions in total Operations can be performed in any orderYou have to check whether its possible to obtain the identity permutation 12m in each row In other words check if one can perform some of the operation following the given rules and make each row sorted in increasing order

@@ -1,0 +1,9 @@
+Choosing Balls                    
+
+httpscodeforcescomproblemsetproblem264C
+
+dp
+
+2000
+
+There are n balls They are arranged in a row Each ball has a color for convenience an integer and an integer value The color of the ith ball is ci and the value of the ith ball is viSquirrel Liss chooses some balls and makes a new sequence without changing the relative order of the balls She wants to maximize the value of this sequenceThe value of the sequence is defined as the sum of following values for each ball where a and b are given constants  If the ball is not in the beginning of the sequence and the color of the ball is same as previous balls color add the value of the ball  a  Otherwise add the value of the ball  b You are given q queries Each query contains two integers ai and bi For each query find the maximal value of the sequence she can make when aai and bbiNote that the new sequence can be empty and the value of an empty sequence is defined as zero

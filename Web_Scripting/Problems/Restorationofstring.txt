@@ -1,0 +1,9 @@
+Restoration of string                    
+
+https://codeforces.com/problemset/problem/886/D
+
+constructive algorithms
+
+2000
+
+A substring of some string is called the most frequent, if the number of its occurrences is not less than number of occurrences of any other substring.You are given a set of strings. A string (not necessarily from this set) is called good if all elements of the set are the most frequent substrings of this string. Restore the non-empty good string with minimum length. If several such strings exist, restore lexicographically minimum string. If there are no good strings, print "NO" (without quotes).A substring of a string is a contiguous subsequence of letters in the string. For example, "ab", "c", "abc" are substrings of string "abc", while "ac" is not a substring of that string.The number of occurrences of a substring in a string is the number of starting positions in the string where the substring occurs. These occurrences could overlap.String a is lexicographically smaller than string b, if a is a prefix of b, or a has a smaller letter at the first position where a and b differ.

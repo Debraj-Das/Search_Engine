@@ -1,0 +1,9 @@
+Rectangle Painting 1                    
+
+https://codeforces.com/problemset/problem/1198/D
+
+dp
+
+2300
+
+There is a square grid of size n \times n. Some cells are colored in black, all others are colored in white. In one operation you can select some rectangle and color all its cells in white. It costs \max(h, w) to color a rectangle of size h \times w. You are to make all cells white for minimum total cost.

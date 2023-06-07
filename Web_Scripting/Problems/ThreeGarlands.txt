@@ -1,0 +1,9 @@
+Three Garlands                    
+
+httpscodeforcescomproblemsetproblem911C
+
+brute force
+
+1400
+
+Mishka is decorating the Christmas tree He has got three garlands and all of them will be put on the tree After that Mishka will switch these garlands onWhen a garland is switched on it periodically changes its state  sometimes it is lit sometimes not Formally if ith garland is switched on during xth second then it is lit only during seconds x xki x2ki x3ki and so onMishka wants to switch on the garlands in such a way that during each second after switching the garlands on there would be at least one lit garland Formally Mishka wants to choose three integers x1 x2 and x3 not necessarily distinct so that he will switch on the first garland during x1th second the second one  during x2th second and the third one  during x3th second respectively and during each second starting from maxx1x2x3 at least one garland will be litHelp Mishka by telling him if it is possible to do this

@@ -1,0 +1,9 @@
+Subtractions                    
+
+httpscodeforcescomproblemsetproblem267A
+
+math
+
+900
+
+Youve got two numbers As long as they are both larger than zero they go through the same operation subtract the lesser number from the larger one If they equal substract one number from the another For example one operation transforms pair 417 to pair 413 it transforms 55 to 05Youve got some number of pairs aibi How many operations will be performed for each of them

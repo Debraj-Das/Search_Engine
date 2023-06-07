@@ -1,0 +1,9 @@
+Pythagorean Theorem II                    
+
+httpscodeforcescomproblemsetproblem304A
+
+brute force
+
+1200
+
+In mathematics the Pythagorean theorem  is a relation in Euclidean geometry among the three sides of a rightangled triangle In terms of areas it states In any rightangled triangle the area of the square whose side is the hypotenuse the side opposite the right angle is equal to the sum of the areas of the squares whose sides are the two legs the two sides that meet at a right angle The theorem can be written as an equation relating the lengths of the sides a b and c often called the Pythagorean equationa2b2c2where c represents the length of the hypotenuse and a and b represent the lengths of the other two sides  Given n your task is to count how many rightangled triangles with sidelengths a b and c that satisfied an inequality 1abcn

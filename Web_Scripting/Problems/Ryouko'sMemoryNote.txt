@@ -1,0 +1,9 @@
+Ryoukos Memory Note                    
+
+httpscodeforcescomproblemsetproblem433C
+
+implementation
+
+1800
+
+Ryouko is an extremely forgetful girl she could even forget something that has just happened So in order to remember she takes a notebook with her called Ryoukos Memory Note She writes what she sees and what she hears on the notebook and the notebook became her memoryThough Ryouko is forgetful she is also born with superb analyzing abilities However analyzing depends greatly on gathered information in other words memory So she has to shuffle through her notebook whenever she needs to analyze which is tough workRyoukos notebook consists of n pages numbered from 1 to n To make life and this problem easier we consider that to turn from page x to page y xy pages should be turned During analyzing Ryouko needs m pieces of information the ith piece of information is on page ai Information must be read from the notebook in order so the total number of pages that Ryouko needs to turn is Ryouko wants to decrease the number of pages that need to be turned In order to achieve this she can merge two pages of her notebook If Ryouko merges page x to page y she would copy all the information on page x to y1xyn and consequently all elements in sequence a that was x would become y Note that x can be equal to y in which case no changes take placePlease tell Ryouko the minimum number of pages that she needs to turn Note she can apply the described operation at most once before the reading Note that the answer can exceed 32bit integers

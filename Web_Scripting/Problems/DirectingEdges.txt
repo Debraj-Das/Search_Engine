@@ -1,0 +1,9 @@
+Directing Edges                    
+
+https://codeforces.com/problemset/problem/1389/G
+
+dfs and similar
+
+2800
+
+You are given an undirected connected graph consisting of n vertices and m edges. k vertices of this graph are special.You have to direct each edge of this graph or leave it undirected. If you leave the i-th edge undirected, you pay w_i coins, and if you direct it, you don't have to pay for it.Let's call a vertex saturated if it is reachable from each special vertex along the edges of the graph (if an edge is undirected, it can be traversed in both directions). After you direct the edges of the graph (possibly leaving some of them undirected), you receive c_i coins for each saturated vertex i. Thus, your total profit can be calculated as \sum \limits_{i \in S} c_i - \sum \limits_{j \in U} w_j, where S is the set of saturated vertices, and U is the set of edges you leave undirected.For each vertex i, calculate the maximum possible profit you can get if you have to make the vertex i saturated.

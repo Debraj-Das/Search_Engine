@@ -1,0 +1,9 @@
+Lenient Vertex Cover                    
+
+https://codeforces.com/problemset/problem/1680/F
+
+dfs and similar
+
+2600
+
+You are given a simple connected undirected graph, consisting of n vertices and m edges. The vertices are numbered from 1 to n.A vertex cover of a graph is a set of vertices such that each edge has at least one of its endpoints in the set.Let's call a lenient vertex cover such a vertex cover that at most one edge in it has both endpoints in the set.Find a lenient vertex cover of a graph or report that there is none. If there are multiple answers, then print any of them.

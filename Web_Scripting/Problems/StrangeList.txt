@@ -1,0 +1,9 @@
+Strange List                    
+
+https://codeforces.com/problemset/problem/1471/B
+
+brute force
+
+1100
+
+You have given an array a of length n and an integer x to a brand new robot. What the robot does is the following: it iterates over the elements of the array, let the current element be q. If q is divisible by x, the robot adds x copies of the integer \frac{q}{x} to the end of the array, and moves on to the next element. Note that the newly added elements could be processed by the robot later. Otherwise, if q is not divisible by x, the robot shuts down.Please determine the sum of all values of the array at the end of the process.

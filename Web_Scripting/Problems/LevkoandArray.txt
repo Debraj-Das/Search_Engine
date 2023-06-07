@@ -1,0 +1,9 @@
+Levko and Array                    
+
+httpscodeforcescomproblemsetproblem360B
+
+binary search
+
+2000
+
+Levko has an array that consists of integers a1a2 an But he doesnt like this array at allLevko thinks that the beauty of the array a directly depends on value ca which can be calculated by the formula  The less value ca is the more beautiful the array isIts time to change the world and Levko is going to change his array for the better To be exact Levko wants to change the values of at most k array elements it is allowed to replace the values by any integers Of course the changes should make the array as beautiful as possibleHelp Levko and calculate what minimum number ca he can reach

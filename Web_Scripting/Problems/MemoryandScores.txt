@@ -1,0 +1,9 @@
+Memory and Scores                    
+
+httpscodeforcescomproblemsetproblem712D
+
+combinatorics
+
+2200
+
+Memory and his friend Lexa are competing to get higher score in one popular computer game Memory starts with score a and Lexa starts with score b In a single turn both Memory and Lexa get some integer in the range kk ie one integer among kk1k221012k1k and add them to their current scores The game has exactly t turns Memory and Lexa however are not good at this game so they both always get a random integer at their turnMemory wonders how many possible games exist such that he ends with a strictly higher score than Lexa Two games are considered to be different if in at least one turn at least one player gets different score There are 2k12t games in total Since the answer can be very large you should print it modulo 1097 Please solve this problem for Memory

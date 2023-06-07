@@ -1,0 +1,9 @@
+Big Brush                    
+
+https://codeforces.com/problemset/problem/1638/D
+
+constructive algorithms
+
+2000
+
+You found a painting on a canvas of size n \times m. The canvas can be represented as a grid with n rows and m columns. Each cell has some color. Cell (i, j) has color c_{i,j}.Near the painting you also found a brush in the shape of a 2 \times 2 square, so the canvas was surely painted in the following way: initially, no cell was painted. Then, the following painting operation has been performed some number of times:  Choose two integers i and j (1 \le i < n, 1 \le j < m) and some color k (1 \le k \le nm).  Paint cells (i, j), (i + 1, j), (i, j + 1), (i + 1, j + 1) in color k. All cells must be painted at least once. A cell can be painted multiple times. In this case, its final color will be the last one.Find any sequence of at most nm operations that could have led to the painting you found or state that it's impossible.

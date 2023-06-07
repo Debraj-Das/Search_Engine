@@ -1,0 +1,9 @@
+Taymyr is calling you                    
+
+httpscodeforcescomproblemsetproblem764A
+
+brute force
+
+800
+
+Comrade Dujikov is busy choosing artists for Timofeys birthday and is recieving calls from Taymyr from IliaalpinistIliaalpinist calls every n minutes ie in minutes n 2n 3n and so on Artists come to the comrade every m minutes ie in minutes m 2m 3m and so on The day is z minutes long ie the day consists of minutes 12z How many artists should be killed so that there are no artists in the room when Ilia calls Consider that a call and a talk with an artist take exactly one minute

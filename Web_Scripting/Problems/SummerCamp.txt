@@ -1,0 +1,9 @@
+Summer Camp                    
+
+https://codeforces.com/problemset/problem/672/A
+
+implementation
+
+800
+
+Every year, hundreds of people come to summer camps, they learn new algorithms and solve hard problems.This is your first year at summer camp, and you are asked to solve the following problem. All integers starting with 1 are written in one line. The prefix of these line is "123456789101112131415...". Your task is to print the n-th digit of this string (digits are numbered starting with 1.

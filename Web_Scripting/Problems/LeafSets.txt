@@ -1,0 +1,9 @@
+Leaf Sets                    
+
+https://codeforces.com/problemset/problem/1042/F
+
+data structures
+
+2400
+
+You are given an undirected tree, consisting of n vertices.The vertex is called a leaf if it has exactly one vertex adjacent to it.The distance between some pair of vertices is the number of edges in the shortest path between them.Let's call some set of leaves beautiful if the maximum distance between any pair of leaves in it is less or equal to k.You want to split all leaves into non-intersecting beautiful sets. What is the minimal number of sets in such a split?

@@ -1,0 +1,9 @@
+Sort the Table                    
+
+https://codeforces.com/problemset/problem/64/I
+
+*special problem
+
+2400
+
+You are given a rectangular table containing words. Each of its columns has its own name. You are also given the list of rules of sorting in form "FIELD_NAME SORT_ORDER", where SORT_ORDER is either ASC (nondescending order) or DESC (nonascending order). Rules in the list are separated by a single comma with a single space. You have to sort rows of the table primarily by the first rule, then, in case of a tie sort by the second rule. And so on. If two rows are equal in terms of every rule, then preserve their relative order. You can assume that each element of the table has type "string", so you have to use lexicographic comparison.

@@ -1,0 +1,9 @@
+Arthur and Table                    
+
+https://codeforces.com/problemset/problem/557/C
+
+brute force
+
+1900
+
+Arthur has bought a beautiful big table into his new flat. When he came home, Arthur noticed that the new table is unstable.In total the table Arthur bought has n legs, the length of the i-th leg is li.Arthur decided to make the table stable and remove some legs. For each of them Arthur determined number di — the amount of energy that he spends to remove the i-th leg.A table with k legs is assumed to be stable if there are more than half legs of the maximum length. For example, to make a table with 5 legs stable, you need to make sure it has at least three (out of these five) legs of the maximum length. Also, a table with one leg is always stable and a table with two legs is stable if and only if they have the same lengths.Your task is to help Arthur and count the minimum number of energy units Arthur should spend on making the table stable.

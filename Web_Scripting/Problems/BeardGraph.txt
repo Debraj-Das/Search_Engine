@@ -1,0 +1,9 @@
+Beard Graph                    
+
+httpscodeforcescomproblemsetproblem165D
+
+data structures
+
+2100
+
+Lets define a nonoriented connected graph of n vertices and n1 edges as a beard if all of its vertices except perhaps one have the degree of 2 or 1 that is there exists no more than one vertex whose degree is more than two Let us remind you that the degree of a vertex is the number of edges that connect to it Let each edge be either black or white Initially all edges are blackYou are given the description of the beard graph Your task is to analyze requests of the following types   paint the edge number i black The edge number i is the edge that has this number in the description It is guaranteed that by the moment of this request the ith edge is white  paint the edge number i white It is guaranteed that by the moment of this request the ith edge is black  find the length of the shortest path going only along the black edges between vertices a and b or indicate that no such path exists between them a paths length is the number of edges in it The vertices are numbered with integers from 1 to n and the edges are numbered with integers from 1 to n1

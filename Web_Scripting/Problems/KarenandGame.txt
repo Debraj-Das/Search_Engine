@@ -1,0 +1,9 @@
+Karen and Game                    
+
+httpscodeforcescomproblemsetproblem815A
+
+brute force
+
+1700
+
+On the way to school Karen became fixated on the puzzle game on her phone  The game is played as follows In each level you have a grid with n rows and m columns Each cell originally contains the number 0One move consists of choosing one row or column and adding 1 to all of the cells in that row or columnTo win the level after all the moves the number in the cell at the ith row and jth column should be equal to gijKaren is stuck on one level and wants to know a way to beat this level using the minimum number of moves Please help her with this task

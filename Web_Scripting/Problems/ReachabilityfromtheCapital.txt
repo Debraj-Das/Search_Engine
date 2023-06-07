@@ -1,0 +1,9 @@
+Reachability from the Capital                    
+
+https://codeforces.com/problemset/problem/999/E
+
+dfs and similar
+
+2000
+
+There are n cities and m roads in Berland. Each road connects a pair of cities. The roads in Berland are one-way.What is the minimum number of new roads that need to be built to make all the cities reachable from the capital?New roads will also be one-way.

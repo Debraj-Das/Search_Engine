@@ -1,0 +1,9 @@
+Candy Store                    
+
+https://codeforces.com/problemset/problem/1798/C
+
+greedy
+
+1700
+
+The store sells n types of candies with numbers from 1 to n. One candy of type i costs b_i coins. In total, there are a_i candies of type i in the store.You need to pack all available candies in packs, each pack should contain only one type of candies. Formally, for each type of candy i you need to choose the integer d_i, denoting the number of type i candies in one pack, so that a_i is divided without remainder by d_i.Then the cost of one pack of candies of type i will be equal to b_i \cdot d_i. Let's denote this cost by c_i, that is, c_i = b_i \cdot d_i.After packaging, packs will be placed on the shelf. Consider the cost of the packs placed on the shelf, in order c_1, c_2, \ldots, c_n. Price tags will be used to describe costs of the packs. One price tag can describe the cost of all packs from l to r inclusive if c_l = c_{l+1} = \ldots = c_r. Each of the packs from 1 to n must be described by at least one price tag. For example, if c_1, \ldots, c_n = [4, 4, 2, 4, 4], to describe all the packs, a 3 price tags will be enough, the first price tag describes the packs 1, 2, the second: 3, the third: 4, 5.You are given the integers a_1, b_1, a_2, b_2, \ldots, a_n, b_n. Your task is to choose integers d_i so that a_i is divisible by d_i for all i, and the required number of price tags to describe the values of c_1, c_2, \ldots, c_n is the minimum possible.For a better understanding of the statement, look at the illustration of the first test case of the first test:  Let's repeat the meaning of the notation used in the problem:a_i — the number of candies of type i available in the store.b_i — the cost of one candy of type i.d_i — the number of candies of type i in one pack.c_i — the cost of one pack of candies of type i is expressed by the formula c_i = b_i \cdot d_i.

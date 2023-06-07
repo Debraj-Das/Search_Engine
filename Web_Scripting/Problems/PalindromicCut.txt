@@ -1,0 +1,9 @@
+Palindromic Cut                    
+
+https://codeforces.com/problemset/problem/883/H
+
+brute force
+
+1800
+
+Kolya has a string s of length n consisting of lowercase and uppercase Latin letters and digits.He wants to rearrange the symbols in s and cut it into the minimum number of parts so that each part is a palindrome and all parts have the same lengths. A palindrome is a string which reads the same backward as forward, such as madam or racecar.Your task is to help Kolya and determine the minimum number of palindromes of equal lengths to cut s into, if it is allowed to rearrange letters in s before cuttings.

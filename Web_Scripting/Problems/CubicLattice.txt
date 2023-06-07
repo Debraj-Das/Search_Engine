@@ -1,0 +1,9 @@
+Cubic Lattice                    
+
+https://codeforces.com/problemset/problem/1375/I
+
+geometry
+
+3500
+
+A cubic lattice L in 3-dimensional euclidean space is a set of points defined in the following way: L=\{u \cdot \vec r_1 + v \cdot \vec r_2 + w \cdot \vec r_3\}_{u, v, w \in \mathbb Z} Where \vec r_1, \vec r_2, \vec r_3 \in \mathbb{Z}^3 are some integer vectors such that:   \vec r_1, \vec r_2 and \vec r_3 are pairwise orthogonal: \vec r_1 \cdot \vec r_2 = \vec r_1 \cdot \vec r_3 = \vec r_2 \cdot \vec r_3 = 0 Where \vec a \cdot \vec b is a dot product of vectors \vec a and \vec b.  \vec r_1, \vec r_2 and \vec r_3 all have the same length: |\vec r_1| = |\vec r_2| = |\vec r_3| = r  You're given a set A=\{\vec a_1, \vec a_2, \dots, \vec a_n\} of integer points, i-th point has coordinates a_i=(x_i;y_i;z_i). Let g_i=\gcd(x_i,y_i,z_i). It is guaranteed that \gcd(g_1,g_2,\dots,g_n)=1.You have to find a cubic lattice L such that A \subset L and r is the maximum possible.

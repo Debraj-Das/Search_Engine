@@ -1,0 +1,9 @@
+Cinema Line                    
+
+https://codeforces.com/problemset/problem/349/A
+
+greedy
+
+1100
+
+The new "Die Hard" movie has just been released! There are n people at the cinema box office standing in a huge line. Each of them has a single 100, 50 or 25 ruble bill. A "Die Hard" ticket costs 25 rubles. Can the booking clerk sell a ticket to each person and give the change if he initially has no money and sells the tickets strictly in the order people follow in the line?

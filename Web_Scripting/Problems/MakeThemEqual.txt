@@ -1,0 +1,9 @@
+Make Them Equal                    
+
+https://codeforces.com/problemset/problem/1416/B
+
+constructive algorithms
+
+2000
+
+You are given an array a consisting of n positive integers, numbered from 1 to n. You can perform the following operation no more than 3n times:  choose three integers i, j and x (1 \le i, j \le n; 0 \le x \le 10^9);  assign a_i := a_i - x \cdot i, a_j := a_j + x \cdot i. After each operation, all elements of the array should be non-negative.Can you find a sequence of no more than 3n operations after which all elements of the array are equal?

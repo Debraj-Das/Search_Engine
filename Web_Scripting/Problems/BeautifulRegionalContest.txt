@@ -1,0 +1,9 @@
+Beautiful Regional Contest                    
+
+https://codeforces.com/problemset/problem/1264/A
+
+greedy
+
+1500
+
+So the Beautiful Regional Contest (BeRC) has come to an end! n students took part in the contest. The final standings are already known: the participant in the i-th place solved p_i problems. Since the participants are primarily sorted by the number of solved problems, then p_1 \ge p_2 \ge \dots \ge p_n.Help the jury distribute the gold, silver and bronze medals. Let their numbers be g, s and b, respectively. Here is a list of requirements from the rules, which all must be satisfied:  for each of the three types of medals, at least one medal must be awarded (that is, g>0, s>0 and b>0);  the number of gold medals must be strictly less than the number of silver and the number of bronze (that is, g<s and g<b, but there are no requirements between s and b);  each gold medalist must solve strictly more problems than any awarded with a silver medal;  each silver medalist must solve strictly more problems than any awarded a bronze medal;  each bronze medalist must solve strictly more problems than any participant not awarded a medal;  the total number of medalists g+s+b should not exceed half of all participants (for example, if n=21, then you can award a maximum of 10 participants, and if n=26, then you can award a maximum of 13 participants). The jury wants to reward with medals the total maximal number participants (i.e. to maximize g+s+b) so that all of the items listed above are fulfilled. Help the jury find such a way to award medals.

@@ -1,0 +1,9 @@
+Tower Defense                    
+
+https://codeforces.com/problemset/problem/1651/F
+
+binary search
+
+3000
+
+Monocarp is playing a tower defense game. A level in the game can be represented as an OX axis, where each lattice point from 1 to n contains a tower in it.The tower in the i-th point has c_i mana capacity and r_i mana regeneration rate. In the beginning, before the 0-th second, each tower has full mana. If, at the end of some second, the i-th tower has x mana, then it becomes \mathit{min}(x + r_i, c_i) mana for the next second.There are q monsters spawning on a level. The j-th monster spawns at point 1 at the beginning of t_j-th second, and it has h_j health. Every monster is moving 1 point per second in the direction of increasing coordinate.When a monster passes the tower, the tower deals \mathit{min}(H, M) damage to it, where H is the current health of the monster and M is the current mana amount of the tower. This amount gets subtracted from both monster's health and tower's mana.Unfortunately, sometimes some monsters can pass all n towers and remain alive. Monocarp wants to know what will be the total health of the monsters after they pass all towers.

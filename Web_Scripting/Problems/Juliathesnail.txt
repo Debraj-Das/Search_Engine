@@ -1,0 +1,9 @@
+Julia the snail                    
+
+https://codeforces.com/problemset/problem/793/F
+
+data structures
+
+3000
+
+After hard work Igor decided to have some rest.He decided to have a snail. He bought an aquarium with a slippery tree trunk in the center, and put a snail named Julia into the aquarium.Igor noticed that sometimes Julia wants to climb onto the trunk, but can't do it because the trunk is too slippery. To help the snail Igor put some ropes on the tree, fixing the lower end of the i-th rope on the trunk on the height li above the ground, and the higher end on the height ri above the ground.For some reason no two ropes share the same position of the higher end, i.e. all ri are distinct. Now Julia can move down at any place of the trunk, and also move up from the lower end of some rope to its higher end. Igor is proud of his work, and sometimes think about possible movements of the snail. Namely, he is interested in the following questions: «Suppose the snail is on the trunk at height x now. What is the highest position on the trunk the snail can get on if it would never be lower than x or higher than y?» Please note that Julia can't move from a rope to the trunk before it reaches the higher end of the rope, and Igor is interested in the highest position on the tree trunk.Igor is interested in many questions, and not always can answer them. Help him, write a program that answers these questions.

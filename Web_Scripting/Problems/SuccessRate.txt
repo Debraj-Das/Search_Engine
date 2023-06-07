@@ -1,0 +1,9 @@
+Success Rate                    
+
+httpscodeforcescomproblemsetproblem773A
+
+binary search
+
+1700
+
+You are an experienced Codeforces user Today you found out that during your activity on Codeforces you have made y submissions out of which x have been successful Thus your current success rate on Codeforces is equal to xyYour favorite rational number in the 01 range is pq Now you wonder what is the smallest number of submissions you have to make if you want your success rate to be pq

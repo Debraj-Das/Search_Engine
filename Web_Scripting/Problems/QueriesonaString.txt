@@ -1,0 +1,9 @@
+Queries on a String                    
+
+httpscodeforcescomproblemsetproblem598B
+
+implementation
+
+1300
+
+You are given a string s and should process m queries Each query is described by two 1based indices li ri and integer ki It means that you should cyclically shift the substring sli ri ki times The queries should be processed one after another in the order they are givenOne operation of a cyclic shift rotation is equivalent to moving the last character to the position of the first character and shifting all other characters one position to the rightFor example if the string s is abacaba and the query is l13r16k11 then the answer is abbacaa If after that we would process the query l21r24k22 then we would get the string baabcaa

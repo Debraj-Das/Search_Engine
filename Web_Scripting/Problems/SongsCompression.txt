@@ -1,0 +1,9 @@
+Songs Compression                    
+
+https://codeforces.com/problemset/problem/1015/C
+
+sortings
+
+1100
+
+Ivan has n songs on his phone. The size of the i-th song is a_i bytes. Ivan also has a flash drive which can hold at most m bytes in total. Initially, his flash drive is empty.Ivan wants to copy all n songs to the flash drive. He can compress the songs. If he compresses the i-th song, the size of the i-th song reduces from a_i to b_i bytes (b_i < a_i).Ivan can compress any subset of the songs (possibly empty) and copy all the songs to his flash drive if the sum of their sizes is at most m. He can compress any subset of the songs (not necessarily contiguous).Ivan wants to find the minimum number of songs he needs to compress in such a way that all his songs fit on the drive (i.e. the sum of their sizes is less than or equal to m).If it is impossible to copy all the songs (even if Ivan compresses all the songs), print "-1". Otherwise print the minimum number of songs Ivan needs to compress.

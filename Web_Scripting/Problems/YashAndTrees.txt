@@ -1,0 +1,9 @@
+Yash And Trees                    
+
+httpscodeforcescomproblemsetproblem633G
+
+bitmasks
+
+2800
+
+Yash loves playing with trees and gets especially excited when they have something to do with prime numbers On his 20th birthday he was granted with a rooted tree of n nodes to answer queries on Hearing of prime numbers on trees Yash gets too intoxicated with excitement and asks you to help out and answer queries on trees for him Tree is rooted at node 1 Each node i has some value ai associated with it Also integer m is givenThere are queries of two types  for given node v and integer value x increase all ai in the subtree of node v by value x  for given node v find the number of prime numbers p less than m for which there exists a node u in the subtree of v and a nonnegative integer value k such that aupmk

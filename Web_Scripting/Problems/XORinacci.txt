@@ -1,0 +1,9 @@
+XORinacci                    
+
+https://codeforces.com/problemset/problem/1208/A
+
+math
+
+900
+
+Cengiz recently learned Fibonacci numbers and now he is studying different algorithms to find them. After getting bored of reading them, he came with his own new type of numbers that he named XORinacci numbers. He defined them as follows:   f(0) = a;  f(1) = b;  f(n) = f(n-1) \oplus f(n-2) when n > 1, where \oplus denotes the bitwise XOR operation. You are given three integers a, b, and n, calculate f(n).You have to answer for T independent test cases.

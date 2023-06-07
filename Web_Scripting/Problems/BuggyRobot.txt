@@ -1,0 +1,9 @@
+Buggy Robot                    
+
+httpscodeforcescomproblemsetproblem888B
+
+greedy
+
+1000
+
+Ivan has a robot which is situated on an infinite grid Initially the robot is standing in the starting cell 00 The robot can process commands There are four types of commands it can perform  U  move from the cell xy to xy1  D  move from xy to xy1  L  move from xy to x1y  R  move from xy to x1y Ivan entered a sequence of n commands and the robot processed it After this sequence the robot ended up in the starting cell 00 but Ivan doubts that the sequence is such that after performing it correctly the robot ends up in the same cell He thinks that some commands were ignored by robot To acknowledge whether the robot is severely bugged he needs to calculate the maximum possible number of commands that were performed correctly Help Ivan to do the calculations

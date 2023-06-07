@@ -1,0 +1,9 @@
+Parity                    
+
+https://codeforces.com/problemset/problem/1110/A
+
+math
+
+900
+
+You are given an integer n (n \ge 0) represented with k digits in base (radix) b. So,n = a_1 \cdot b^{k-1} + a_2 \cdot b^{k-2} + \ldots a_{k-1} \cdot b + a_k.For example, if b=17, k=3 and a=[11, 15, 7] then n=11\cdot17^2+15\cdot17+7=3179+255+7=3441.Determine whether n is even or odd.

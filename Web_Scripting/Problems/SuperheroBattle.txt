@@ -1,0 +1,9 @@
+Superhero Battle                    
+
+https://codeforces.com/problemset/problem/1141/E
+
+math
+
+1700
+
+A superhero fights with a monster. The battle consists of rounds, each of which lasts exactly n minutes. After a round ends, the next round starts immediately. This is repeated over and over again.Each round has the same scenario. It is described by a sequence of n numbers: d_1, d_2, \dots, d_n (-10^6 \le d_i \le 10^6). The i-th element means that monster's hp (hit points) changes by the value d_i during the i-th minute of each round. Formally, if before the i-th minute of a round the monster's hp is h, then after the i-th minute it changes to h := h + d_i.The monster's initial hp is H. It means that before the battle the monster has H hit points. Print the first minute after which the monster dies. The monster dies if its hp is less than or equal to 0. Print -1 if the battle continues infinitely.

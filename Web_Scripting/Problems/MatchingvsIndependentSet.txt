@@ -1,0 +1,9 @@
+Matching vs  Independent Set                    
+
+https://codeforces.com/problemset/problem/1198/C
+
+constructive algorithms
+
+2000
+
+You are given a graph with 3 \cdot n vertices and m edges. You are to find a matching of n edges, or an independent set of n vertices.A set of edges is called a matching if no two edges share an endpoint.A set of vertices is called an independent set if no two vertices are connected with an edge.

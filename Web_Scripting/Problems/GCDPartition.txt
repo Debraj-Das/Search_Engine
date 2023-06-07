@@ -1,0 +1,9 @@
+GCD Partition                    
+
+https://codeforces.com/problemset/problem/1780/B
+
+brute force
+
+1100
+
+While at Kira's house, Josuke saw a piece of paper on the table with a task written on it.The task sounded as follows. There is an array a of length n. On this array, do the following:  select an integer k > 1;  split the array into k subsegments ^\dagger;  calculate the sum in each of k subsegments and write these sums to another array b (where the sum of the subsegment (l, r) is {\sum_{j = l}^{r}a_j});  the final score of such a split will be \gcd(b_1, b_2, \ldots, b_k)^\ddagger. The task is to find such a partition that the score is maximum possible. Josuke is interested in this task but is not strong in computer science. Help him to find the maximum possible score.^\dagger A division of an array into k subsegments is k pairs of numbers (l_1, r_1), (l_2, r_2), \ldots, (l_k, r_k) such that l_i \le r_i and for every 1 \le j \le k - 1 l_{j + 1} = r_j + 1, also l_1 = 1 and r_k = n. These pairs represent the subsegments.^\ddagger \gcd(b_1, b_2, \ldots, b_k) stands for the greatest common divisor (GCD) of the array b.

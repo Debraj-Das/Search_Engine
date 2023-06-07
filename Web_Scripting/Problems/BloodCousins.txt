@@ -1,0 +1,9 @@
+Blood Cousins                    
+
+httpscodeforcescomproblemsetproblem208E
+
+binary search
+
+2100
+
+Polycarpus got hold of a family relationship tree The tree describes family relationships of n people numbered 1 through n Each person in the tree has no more than one parentLets call person a a 1ancestor of person b if a is the parent of bLets call person a a kancestor k1 of person b if person b has a 1ancestor and a is a k1ancestor of bs 1ancestor Family relationships dont form cycles in the found tree In other words there is no person who is his own ancestor directly or indirectly that is who is an xancestor for himself for some x x0Lets call two people x and y xy pth cousins p0 if there is person z who is a pancestor of x and a pancestor of yPolycarpus wonders how many counsins and what kinds of them everybody has He took a piece of paper and wrote m pairs of integers vi pi Help him to calculate the number of pith cousins that person vi has for each pair vi pi

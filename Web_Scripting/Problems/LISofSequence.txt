@@ -1,0 +1,9 @@
+LIS of Sequence                    
+
+httpscodeforcescomproblemsetproblem486E
+
+data structures
+
+2200
+
+The next Data Structures and Algorithms lesson will be about Longest Increasing Subsequence LIS for short of a sequence For better understanding Nam decided to learn it a few days before the lessonNam created a sequence a consisting of n 1n105 elements a1a2an 1ai105 A subsequence ai1ai2aik where 1i1i2ikn is called increasing if ai1ai2ai3aik An increasing subsequence is called longest if it has maximum length among all increasing subsequences Nam realizes that a sequence may have several longest increasing subsequences Hence he divides all indexes i 1in into three groups group of all i such that ai belongs to no longest increasing subsequences group of all i such that ai belongs to at least one but not every longest increasing subsequence group of all i such that ai belongs to every longest increasing subsequence Since the number of longest increasing subsequences of a may be very large categorizing process is very difficult Your task is to help him finish this job

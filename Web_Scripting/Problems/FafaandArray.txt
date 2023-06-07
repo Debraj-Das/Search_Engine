@@ -1,0 +1,9 @@
+Fafa and Array                    
+
+httpscodeforcescomproblemsetproblem935F
+
+data structures
+
+2600
+
+Fafa has an array A of n positive integers the function fA is defined as  He wants to do q queries of two types  1lrx  find the maximum possible value of fA if x is to be added to one element in the range lr You can choose to which element to add x  2lrx  increase all the elements in the range lr by value x Note that queries of type 1 dont affect the array elements

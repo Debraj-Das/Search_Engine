@@ -1,0 +1,9 @@
+Fox and Cross                    
+
+httpscodeforcescomproblemsetproblem389B
+
+greedy
+
+1100
+
+Fox Ciel has a board with n rows and n columns So the board consists of nn cells Each cell contains either a symbol  or a symbol A cross on the board is a connected set of exactly five cells of the board that looks like a cross The picture below shows how it looksCiel wants to draw several may be zero crosses on the board Each cross must cover exactly five cells with symbols  and any cell with symbol  must belong to some cross No two crosses can share a cellPlease tell Ciel if she can draw the crosses in the described way

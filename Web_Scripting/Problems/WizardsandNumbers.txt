@@ -1,0 +1,9 @@
+Wizards and Numbers                    
+
+httpscodeforcescomproblemsetproblem167C
+
+games
+
+2300
+
+In some country live wizards They love playing with numbers The blackboard has two numbers written on it  a and b The order of the numbers is not important Lets consider ab for the sake of definiteness The players can cast one of the two spells in turns  Replace b with bak Number k can be chosen by the player considering the limitations that k0 and bak0 Number k is chosen independently each time an active player casts a spell  Replace b with bmoda If ab similar moves are possibleIf at least one of the numbers equals zero a player cant make a move because taking a remainder modulo zero is considered somewhat uncivilized and it is far too boring to subtract a zero The player who cannot make a move losesTo perform well in the magic totalizator you need to learn to quickly determine which player wins if both wizards play optimally the one that moves first or the one that moves second

@@ -1,0 +1,9 @@
+Battalion Strength                    
+
+httpscodeforcescomproblemsetproblem1316F
+
+data structures
+
+2800
+
+There are n officers in the Army of Byteland Each officer has some power associated with him The power of the ith officer is denoted by pi As the war is fast approaching the General would like to know the strength of the armyThe strength of an army is calculated in a strange way in Byteland The General selects a random subset of officers from these n officers and calls this subset a battalionAll 2n subsets of the n officers can be chosen equally likely including empty subset and the subset of all officersThe strength of a battalion is calculated in the following wayLet the powers of the chosen officers be a1a2ldotsak where a1 le a2 le dots le ak The strength of this battalion is equal to a1a2  a2a3  dots  ak1ak If the size of Battalion is leq 1 then the strength of this battalion is 0The strength of the army is equal to the expected value of the strength of the battalionAs the war is really long the powers of officers may change Precisely there will be q changes Each one of the form i x indicating that pi is changed to xYou need to find the strength of the army initially and after each of these q updatesNote that the changes are permanentThe strength should be found by modulo 1097 Formally let M1097 It can be shown that the answer can be expressed as an irreducible fraction pq where p and q are integers and qnotequiv 0 bmod M Output the integer equal to pcdot q1 bmod M In other words output such an integer x that 0 leq x  M and x  q equiv p bmod M

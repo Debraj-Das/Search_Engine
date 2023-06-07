@@ -1,0 +1,9 @@
+Challenging Balloons                    
+
+httpscodeforcescomproblemsetproblem241G
+
+constructive algorithms
+
+1900
+
+Martha  as a professional problemsetter  proposed a problem for a worldclass contest This is the problem statementTomorrow is Nadias birthday and Bardia her brother is assigned to make the balloons readyThere are n balloons initially empty that are tied to a straight line on certain positions x1x2xn Bardia inflates the balloons from left to right As a result ith balloon gets bigger and bigger until its radius reaches the pressure endurance pi or it touches another previouslyinflated balloon  While Bardia was busy with the balloons he wondered What will be the sum of radius of balloons after all of the balloons are inflated Being a nerdy type of guy he is now thinking about the problem instead of preparing his sisters birthday Calculate the answer to Bardias problem so that Nadias birthday wont be balloonlessArtha  Marthas student  claimed his solution got accepted Martha being his teacher for a long time knew he couldnt have solved the problem for real and thus thinks there is something wrong with the testcases Artha isnt anyhow logical which means there is no way for Martha to explain the wrong point in his algorithm So the only way is to find a testcase to prove him wrongArthas pseudocode is shown below  You should output a small testcase for the problem such that Arthas algorithm is incorrect The algorithms output is considered correct if it differs from the correct value by no more than 1

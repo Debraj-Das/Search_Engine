@@ -1,0 +1,9 @@
+Watching a movie                    
+
+httpscodeforcescomproblemsetproblem499A
+
+greedy
+
+1000
+
+You have decided to watch the best moments of some movie There are two buttons on your player   Watch the current minute of the movie By pressing this button you watch the current minute of the movie and the player automatically proceeds to the next minute of the movie  Skip exactly x minutes of the movie x is some fixed positive integer If the player is now at the tth minute of the movie then as a result of pressing this button it proceeds to the minute tx Initially the movie is turned on in the player on the first minute and you want to watch exactly n best moments of the movie the ith best moment starts at the lith minute and ends at the rith minute more formally the ith best moment consists of minutes lili1ri Determine what is the minimum number of minutes of the movie you have to watch if you want to watch all the best moments

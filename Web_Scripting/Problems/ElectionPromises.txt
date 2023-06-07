@@ -1,0 +1,9 @@
+Election Promises                    
+
+https://codeforces.com/problemset/problem/1149/E
+
+games
+
+3200
+
+In Byteland, there are two political parties fighting for seats in the Parliament in the upcoming elections: Wrong Answer Party and Time Limit Exceeded Party. As they want to convince as many citizens as possible to cast their votes on them, they keep promising lower and lower taxes.There are n cities in Byteland, connected by m one-way roads. Interestingly enough, the road network has no cycles — it's impossible to start in any city, follow a number of roads, and return to that city. Last year, citizens of the i-th city had to pay h_i bourles of tax.Parties will now alternately hold the election conventions in various cities. If a party holds a convention in city v, the party needs to decrease the taxes in this city to a non-negative integer amount of bourles. However, at the same time they can arbitrarily modify the taxes in each of the cities that can be reached from v using a single road. The only condition that must be fulfilled that the tax in each city has to remain a non-negative integer amount of bourles.The first party to hold the convention is Wrong Answer Party. It's predicted that the party to hold the last convention will win the election. Can Wrong Answer Party win regardless of Time Limit Exceeded Party's moves?

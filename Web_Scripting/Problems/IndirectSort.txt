@@ -1,0 +1,9 @@
+Indirect Sort                    
+
+https://codeforces.com/problemset/problem/1750/A
+
+constructive algorithms
+
+800
+
+You are given a permutation a_1, a_2, \ldots, a_n of size n, where each integer from 1 to n appears exactly once.You can do the following operation any number of times (possibly, zero):  Choose any three indices i, j, k (1 \le i < j < k \le n).  If a_i > a_k, replace a_i with a_i + a_j. Otherwise, swap a_j and a_k. Determine whether you can make the array a sorted in non-descending order.

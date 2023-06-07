@@ -1,0 +1,9 @@
+Vladik and Favorite Game                    
+
+httpscodeforcescomproblemsetproblem811D
+
+constructive algorithms
+
+2100
+
+This is an interactive problemVladik has favorite game in which he plays all his free timeGame field could be represented as nm matrix which consists of cells of three types     normal cell player can visit it  F  finish cell player has to finish his way there to win There is exactly one cell of this type    dangerous cell if player comes to this cell he loses Initially player is located in the left top cell with coordinates 11 Player has access to 4 buttons U D L R each of them move player up down left and right directions respectivelyBut its not that easy Sometimes friends play game and change functions of buttons Function of buttons L and R could have been swapped also functions of buttons U and D could have been swapped Note that functions of buttons can be changed only at the beginning of the gameHelp Vladik win the game

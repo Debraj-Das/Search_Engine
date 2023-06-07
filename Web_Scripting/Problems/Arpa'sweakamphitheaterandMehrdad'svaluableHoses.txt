@@ -1,0 +1,9 @@
+Arpas weak amphitheater and Mehrdads valuable Hoses                    
+
+httpscodeforcescomproblemsetproblem741B
+
+dfs and similar
+
+1600
+
+Just to remind girls in Arpas land are really niceMehrdad wants to invite some Hoses to the palace for a dancing party Each Hos has some weight wi and some beauty bi Also each Hos may have some friends Hoses are divided in some friendship groups Two Hoses x and y are in the same friendship group if and only if there is a sequence of Hoses a1a2ak such that ai and ai1 are friends for each 1ik and a1x and aky  Arpa allowed to use the amphitheater of palace to Mehrdad for this party Arpas amphitheater can hold at most w weight on it Mehrdad is so greedy that he wants to invite some Hoses such that sum of their weights is not greater than w and sum of their beauties is as large as possible Along with that from each friendship group he can either invite all Hoses or no more than one Otherwise some Hoses will be hurt Find for Mehrdad the maximum possible total beauty of Hoses he can invite so that no one gets hurt and the total weight doesnt exceed w

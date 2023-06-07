@@ -1,0 +1,9 @@
+Colored Subgraphs                    
+
+https://codeforces.com/problemset/problem/1796/E
+
+dfs and similar
+
+2500
+
+Monocarp has a tree, consisting of n vertices.He is going to select some vertex r and perform the following operations on each vertex v from 1 to n:   set d_v equal to the distance from v to r (the number of edges on the shortest path);  color v some color. A nice coloring satisfies two conditions:   for each pair of vertices of the same color (v, u), there exists a path from v to u that only visits vertices of the same color;  for each pair of vertices of the same color (v, u), d_v \neq d_u. Note that Monocarp can choose any amount of different colors he wants to use.For each used color, he then counts the number of vertices of this color. The cost of the tree is the minimum of these numbers.What can be the maximum cost of the tree?

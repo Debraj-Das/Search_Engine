@@ -1,0 +1,9 @@
+Div Times Mod                    
+
+https://codeforces.com/problemset/problem/1085/B
+
+math
+
+1100
+
+Vasya likes to solve equations. Today he wants to solve (x~\mathrm{div}~k) \cdot (x \bmod k) = n, where \mathrm{div} and \mathrm{mod} stand for integer division and modulo operations (refer to the Notes below for exact definition). In this equation, k and n are positive integer parameters, and x is a positive integer unknown. If there are several solutions, Vasya wants to find the smallest possible x. Can you help him?

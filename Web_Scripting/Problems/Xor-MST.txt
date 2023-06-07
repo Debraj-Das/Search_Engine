@@ -1,0 +1,9 @@
+XorMST                    
+
+httpscodeforcescomproblemsetproblem888G
+
+bitmasks
+
+2300
+
+You are given a complete undirected graph with n vertices A number ai is assigned to each vertex and the weight of an edge between vertices i and j is equal to aixorajCalculate the weight of the minimum spanning tree in this graph

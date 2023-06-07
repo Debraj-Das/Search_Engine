@@ -1,0 +1,9 @@
+Optimal Point                    
+
+httpscodeforcescomproblemsetproblem685C
+
+binary search
+
+2900
+
+When the river brought Gerda to the house of the Old Lady who Knew Magic this lady decided to make Gerda her daughter She wants Gerda to forget about Kay so she puts all the roses from the garden undergroundMole who lives in this garden now can watch the roses without going up to the surface Typical mole is blind but this mole was granted as special vision by the Old Lady He can watch any underground objects on any distance even through the obstacles and other objects However the quality of the picture depends on the Manhattan distance to object being observedMole wants to find an optimal point to watch roses that is such point with integer coordinates that the maximum Manhattan distance to the rose is minimum possibleAs usual he asks you to helpManhattan distance between points x1y1z1 and x2y2z2 is defined as x1x2y1y2z1z2

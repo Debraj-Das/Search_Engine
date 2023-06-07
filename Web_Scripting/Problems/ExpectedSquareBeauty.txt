@@ -1,0 +1,9 @@
+Expected Square Beauty                    
+
+https://codeforces.com/problemset/problem/1187/F
+
+dp
+
+2500
+
+Let x be an array of integers x = [x_1, x_2, \dots, x_n]. Let's define B(x) as a minimal size of a partition of x into subsegments such that all elements in each subsegment are equal. For example, B([3, 3, 6, 1, 6, 6, 6]) = 4 using next partition: [3, 3\ |\ 6\ |\ 1\ |\ 6, 6, 6].Now you don't have any exact values of x, but you know that x_i can be any integer value from [l_i, r_i] (l_i \le r_i) uniformly at random. All x_i are independent.Calculate expected value of (B(x))^2, or E((B(x))^2). It's guaranteed that the expected value can be represented as rational fraction \frac{P}{Q} where (P, Q) = 1, so print the value P \cdot Q^{-1} \mod 10^9 + 7.

@@ -1,0 +1,9 @@
+Tokitsukaze and Permutations                    
+
+https://codeforces.com/problemset/problem/1677/D
+
+dp
+
+2500
+
+Tokitsukaze has a permutation p. She performed the following operation to p exactly k times: in one operation, for each i from 1 to n - 1 in order, if p_i > p_{i+1}, swap p_i, p_{i+1}. After exactly k times of operations, Tokitsukaze got a new sequence a, obviously the sequence a is also a permutation.After that, Tokitsukaze wrote down the value sequence v of a on paper. Denote the value sequence v of the permutation a of length n as v_i=\sum_{j=1}^{i-1}[a_i < a_j], where the value of [a_i < a_j] define as if a_i < a_j, the value is 1, otherwise is 0 (in other words, v_i is equal to the number of elements greater than a_i that are to the left of position i). Then Tokitsukaze went out to work.There are three naughty cats in Tokitsukaze's house. When she came home, she found the paper with the value sequence v to be bitten out by the cats, leaving several holes, so that the value of some positions could not be seen clearly. She forgot what the original permutation p was. She wants to know how many different permutations p there are, so that the value sequence v of the new permutation a after exactly k operations is the same as the v written on the paper (not taking into account the unclear positions).Since the answer may be too large, print it modulo 998\,244\,353.

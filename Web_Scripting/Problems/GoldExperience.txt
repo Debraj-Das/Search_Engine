@@ -1,0 +1,9 @@
+Gold Experience                    
+
+https://codeforces.com/problemset/problem/1148/G
+
+constructive algorithms
+
+3300
+
+Consider an undirected graph G with n vertices. There is a value a_i in each vertex.Two vertices i and j are connected with an edge if and only if gcd(a_i, a_j) > 1, where gcd(x, y) denotes the greatest common divisor (GCD) of integers x and y.Consider a set of vertices. Let's call a vertex in this set fair if it is connected with an edge with all other vertices in this set.You need to find a set of k vertices (where k is a given integer, 2 \cdot k \le n) where all vertices are fair or all vertices are not fair. One can show that such a set always exists.

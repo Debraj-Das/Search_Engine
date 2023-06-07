@@ -1,0 +1,9 @@
+Mashmokhs Designed Problem                    
+
+httpscodeforcescomproblemsetproblem414E
+
+data structures
+
+3200
+
+After a lot of trying Mashmokh designed a problem and its your job to solve itYou have a tree T with n vertices Each vertex has a unique index from 1 to n The root of T has index 1 For each vertex of this tree v you are given a list of its children in a specific order You must perform three types of query on this tree  find distance the number of edges in the shortest path between u and v  given v and h disconnect v from its father and connect it to its hth ancestor more formally lets denote the path from v to the root by x1x2xlhl so that x1v and xl is root disconnect v from its father x2 and connect it to xh1 vertex v must be added to the end of the childlist of vertex xh1  in the vertex sequence produced by calling function dfsroot find the latest vertex that has distance k from the root The pseudocode of function dfsv  lsv list of children of vertex v  its ith element is lsvi its size is sizelsvsequence result  empty sequencevoid dfsvertex now    add now to end of result    forint i  1 i  sizelsv i  i  1 loop from i  1 to i  sizelsv        dfslsvi

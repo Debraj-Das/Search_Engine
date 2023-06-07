@@ -1,0 +1,9 @@
+Interval Cubing                    
+
+httpscodeforcescomproblemsetproblem311D
+
+data structures
+
+2600
+
+While learning Computational Geometry Tiny is simultaneously learning a useful data structure called segment tree or interval tree He has scarcely grasped it when comes out a strange problemGiven an integer sequence a1a2an You should run q queries of two types  Given two integers l and r 1lrn ask the sum of all elements in the sequence alal1ar  Given two integers l and r 1lrn let each element x in the sequence alal1ar becomes x3 In other words apply an assignments alal3al1al13arar3 For every query of type 1 output the answer to itTiny himself surely cannot work it out so he asks you for help In addition Tiny is a prime lover He tells you that because the answer may be too huge you should only output it modulo 95542721 this number is a prime number

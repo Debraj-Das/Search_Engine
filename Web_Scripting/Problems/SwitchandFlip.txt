@@ -1,0 +1,9 @@
+Switch and Flip                    
+
+https://codeforces.com/problemset/problem/1491/G
+
+constructive algorithms
+
+2800
+
+There are n coins labeled from 1 to n. Initially, coin c_i is on position i and is facing upwards ((c_1, c_2, \dots, c_n) is a permutation of numbers from 1 to n). You can do some operations on these coins. In one operation, you can do the following:Choose 2 distinct indices i and j.Then, swap the coins on positions i and j.Then, flip both coins on positions i and j. (If they are initially faced up, they will be faced down after the operation and vice versa)Construct a sequence of at most n+1 operations such that after performing all these operations the coin i will be on position i at the end, facing up.Note that you do not need to minimize the number of operations.

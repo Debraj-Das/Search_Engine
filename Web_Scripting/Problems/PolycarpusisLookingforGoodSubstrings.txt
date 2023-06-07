@@ -1,0 +1,9 @@
+Polycarpus is Looking for Good Substrings                    
+
+httpscodeforcescomproblemsetproblem212B
+
+bitmasks
+
+2300
+
+Well call string sabsasa1 sb 1abs a substring of string ss1s2 ss where s is the length of string sThe trace of a nonempty string t is a set of characters that the string consists of For example the trace of string aab equals a bLets consider an arbitrary string s and the set of its substrings with trace equal to C We will denote the number of substrings from this set that are maximal by inclusion by rCs Substring sab of length nba1 belonging to some set is called maximal by inclusion if there is no substring sxy in this set with length greater than n such that 1xabys Two substrings of string s are considered different even if they are equal but they are located at different positions of sPolycarpus got a challenging practical task on a stringology exam He must do the following given string s and nonempty sets of characters C1 C2  Cm find rCis for each set Ci Help Polycarpus to solve the problem as he really doesnt want to be expelled from the university and go to the army

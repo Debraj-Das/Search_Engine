@@ -1,0 +1,9 @@
+Insertion Sort                    
+
+httpscodeforcescomproblemsetproblem362C
+
+data structures
+
+1900
+
+Petya is a beginner programmer He has already mastered the basics of the C language and moved on to learning algorithms The first algorithm he encountered was insertion sort Petya has already written the code that implements this algorithm and sorts the given integer zeroindexed array a of size n in the nondecreasing order for int i  1 i  n i  i  1   int j  i    while j  0  aj  aj  1         swapaj aj  1  swap elements aj and aj  1      j  j  1   Petya uses this algorithm only for sorting of arrays that are permutations of numbers from 0 to n1 He has already chosen the permutation he wants to sort but he first decided to swap some two of its elements Petya wants to choose these elements in such a way that the number of times the sorting executes function swap was minimum Help Petya find out the number of ways in which he can make the swap and fulfill this requirementIt is guaranteed that its always possible to swap two elements of the input permutation in such a way that the number of swap function calls decreases

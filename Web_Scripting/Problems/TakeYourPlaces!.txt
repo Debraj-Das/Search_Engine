@@ -1,0 +1,9 @@
+Take Your Places!                    
+
+https://codeforces.com/problemset/problem/1556/B
+
+implementation
+
+1300
+
+  William has an array of n integers a_1, a_2, \dots, a_n. In one move he can swap two neighboring items. Two items a_i and a_j are considered neighboring if the condition |i - j| = 1 is satisfied.William wants you to calculate the minimal number of swaps he would need to perform to make it so that the array does not contain two neighboring items with the same parity.

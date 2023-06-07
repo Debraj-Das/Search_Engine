@@ -1,0 +1,9 @@
+Unusual Product                    
+
+httpscodeforcescomproblemsetproblem405C
+
+implementation
+
+1600
+
+Little Chris is a huge fan of linear algebra This time he has been given a homework about the unusual square of a square matrixThe dot product of two integer number vectors x and y of size n is the sum of the products of the corresponding components of the vectors The unusual square of an nn square matrix A is defined as the sum of n dot products The ith of them is the dot product of the ith row vector and the ith column vector in the matrix AFortunately for Chris he has to work only in GF2 This means that all operations addition multiplication are calculated modulo 2 In fact the matrix A is binary each element of A is either 0 or 1 For example consider the following matrix A  The unusual square of A is equal to 1110110111101101000110However there is much more to the homework Chris has to process q queries each query can be one of the following   given a row index i flip all the values in the ith row in A  given a column index i flip all the values in the ith column in A  find the unusual square of A To flip a bit value w means to change it to 1w ie 1 changes to 0 and 0 changes to 1Given the initial matrix A output the answers for each query of the third type Can you solve Chriss homework

@@ -1,0 +1,9 @@
+Picking Strings                    
+
+https://codeforces.com/problemset/problem/923/D
+
+constructive algorithms
+
+2500
+
+Alice has a string consisting of characters 'A', 'B' and 'C'. Bob can use the following transitions on any substring of our string in any order any number of times:   A  BC  B  AC  C  AB  AAA  empty string Note that a substring is one or more consecutive characters. For given queries, determine whether it is possible to obtain the target string from source.

@@ -1,0 +1,9 @@
+Generate superposition of all basis states                    
+
+httpscodeforcescomproblemsetproblem1002A1
+
+
+
+800
+
+You are given N qubits 1N8 in zero state  Your task is to generate an equal superposition of all 2N basis vectors on N qubitsFor example for N1 the required state is simply  for N2 the required state is  You have to implement an operation which takes an array of N qubits as an input and has no output The output of the operation is the state in which it leaves the qubitsYour code should have the following signaturenamespace Solution     open MicrosoftQuantumPrimitive    open MicrosoftQuantumCanon    operation Solve qs  Qubit              body                     your code here            

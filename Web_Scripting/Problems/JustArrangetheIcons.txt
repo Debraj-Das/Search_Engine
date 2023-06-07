@@ -1,0 +1,9 @@
+Just Arrange the Icons                    
+
+https://codeforces.com/problemset/problem/1267/J
+
+greedy
+
+1800
+
+BerPhone X is almost ready for release with n applications being preinstalled on the phone. A category of an application characterizes a genre or a theme of this application (like "game", "business", or "education"). The categories are given as integers between 1 and n, inclusive; the i-th application has category c_i. You can choose m — the number of screens and s — the size of each screen. You need to fit all n icons of the applications (one icon representing one application) meeting the following requirements:  On each screen, all the icons must belong to applications of the same category (but different screens can contain icons of applications of the same category);  Each screen must be either completely filled with icons (the number of icons on the screen is equal to s) or almost filled with icons (the number of icons is equal to s-1). Your task is to find the minimal possible number of screens m.

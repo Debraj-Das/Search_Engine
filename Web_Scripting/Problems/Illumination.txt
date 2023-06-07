@@ -1,0 +1,9 @@
+Illumination                    
+
+https://codeforces.com/problemset/problem/1728/G
+
+binary search
+
+2700
+
+Consider a segment [0, d] of the coordinate line. There are n lanterns and m points of interest in this segment.For each lantern, you can choose its power — an integer between 0 and d (inclusive). A lantern with coordinate x illuminates the point of interest with coordinate y if |x - y| is less than or equal to the power of the lantern.A way to choose the power values for all lanterns is considered valid if every point of interest is illuminated by at least one lantern.You have to process q queries. Each query is represented by one integer f_i. To answer the i-th query, you have to:  add a lantern on coordinate f_i;  calculate the number of valid ways to assign power values to all lanterns, and print it modulo 998244353;  remove the lantern you just added. 

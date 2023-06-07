@@ -1,0 +1,9 @@
+LuoTianyi and the Show                    
+
+https://codeforces.com/problemset/problem/1824/A
+
+greedy
+
+1400
+
+There are n people taking part in a show about VOCALOID. They will sit in the row of seats, numbered 1 to m from left to right.The n people come and sit in order. Each person occupies a seat in one of three ways:  Sit in the seat next to the left of the leftmost person who is already sitting, or if seat 1 is taken, then leave the show. If there is no one currently sitting, sit in seat m. Sit in the seat next to the right of the rightmost person who is already sitting, or if seat m is taken, then leave the show. If there is no one currently sitting, sit in seat 1. Sit in the seat numbered x_i. If this seat is taken, then leave the show. Now you want to know what is the maximum number of people that can take a seat, if you can let people into the show in any order?

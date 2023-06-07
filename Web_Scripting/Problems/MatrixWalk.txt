@@ -1,0 +1,9 @@
+Matrix Walk                    
+
+httpscodeforcescomproblemsetproblem954C
+
+implementation
+
+1700
+
+There is a matrix A of size xy filled with integers For every   Aijyi1j Obviously every integer from 1xy occurs exactly once in this matrix You have traversed some path in this matrix Your path can be described as a sequence of visited cells a1 a2  an denoting that you started in the cell containing the number a1 then moved to the cell with the number a2 and so onFrom the cell located in ith line and jth column we denote this cell as ij you can move into one of the following cells i1j  only if ix  ij1  only if jy  i1j  only if i1  ij1  only if j1Notice that making a move requires you to go to an adjacent cell It is not allowed to stay in the same cell You dont know x and y exactly but you have to find any possible values for these numbers such that you could start in the cell containing the integer a1 then move to the cell containing a2 in one step then move to the cell containing a3 also in one step and so on Can you choose x and y so that they dont contradict with your sequence of moves

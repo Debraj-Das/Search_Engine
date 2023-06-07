@@ -1,0 +1,9 @@
+The Strongest Build                    
+
+https://codeforces.com/problemset/problem/1574/D
+
+binary search
+
+2000
+
+Ivan is playing yet another roguelike computer game. He controls a single hero in the game. The hero has n equipment slots. There is a list of c_i items for the i-th slot, the j-th of them increases the hero strength by a_{i,j}. The items for each slot are pairwise distinct and are listed in the increasing order of their strength increase. So, a_{i,1} < a_{i,2} < \dots < a_{i,c_i}.For each slot Ivan chooses exactly one item. Let the chosen item for the i-th slot be the b_i-th item in the corresponding list. The sequence of choices [b_1, b_2, \dots, b_n] is called a build.The strength of a build is the sum of the strength increases of the items in it. Some builds are banned from the game. There is a list of m pairwise distinct banned builds. It's guaranteed that there's at least one build that's not banned.What is the build with the maximum strength that is not banned from the game? If there are multiple builds with maximum strength, print any of them.

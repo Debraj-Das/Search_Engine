@@ -1,0 +1,9 @@
+Mirror Room                    
+
+httpscodeforcescomproblemsetproblem274E
+
+data structures
+
+3000
+
+Imagine an nm grid with some blocked cells The top left cell in the grid has coordinates 11 and the bottom right cell has coordinates nm There are k blocked cells in the grid and others are empty You flash a laser beam from the center of an empty cell xsys in one of the diagonal directions ie northeast northwest southeast or southwest If the beam hits a blocked cell or the border of the grid it will reflect The behavior of the beam reflection in different situations is depicted in the figure below   After a while the beam enters an infinite cycle Count the number of empty cells that the beam goes through at least once We consider that the beam goes through cell if it goes through its center

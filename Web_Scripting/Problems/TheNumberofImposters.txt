@@ -1,0 +1,9 @@
+The Number of Imposters                    
+
+https://codeforces.com/problemset/problem/1594/D
+
+constructive algorithms
+
+1700
+
+Theofanis started playing the new online game called "Among them". However, he always plays with Cypriot players, and they all have the same name: "Andreas" (the most common name in Cyprus).In each game, Theofanis plays with n other players. Since they all have the same name, they are numbered from 1 to n.The players write m comments in the chat. A comment has the structure of "i j c" where i and j are two distinct integers and c is a string (1 \le i, j \le n; i \neq j; c is either imposter or crewmate). The comment means that player i said that player j has the role c.An imposter always lies, and a crewmate always tells the truth. Help Theofanis find the maximum possible number of imposters among all the other Cypriot players, or determine that the comments contradict each other (see the notes for further explanation).Note that each player has exactly one role: either imposter or crewmate.

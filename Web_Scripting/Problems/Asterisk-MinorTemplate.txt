@@ -1,0 +1,9 @@
+Asterisk-Minor Template                    
+
+https://codeforces.com/problemset/problem/1796/B
+
+implementation
+
+1000
+
+You are given two strings a and b, consisting of lowercase Latin letters.A template t is string, consisting of lowercase Latin letters and asterisks (character '*'). A template is called asterisk-minor if the number of asterisks in it is less than or equal to the number of letters in it.A string s is said to be matching a template t if you can replace each asterisk in t with a string of lowercase Latin letters (possibly, an empty string) so that it becomes equal to s.Find an asterisk-minor template such that both a and b match it, or report that such a template doesn't exist. If there are multiple answers, print any of them.

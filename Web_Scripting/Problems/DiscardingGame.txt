@@ -1,0 +1,9 @@
+Discarding Game                    
+
+httpscodeforcescomproblemsetproblem1250G
+
+dp
+
+2300
+
+Eulampius has created a game with the following rules there are two players in the game a human and a computer  the game lasts for no more than n rounds Initially both players have 0 points In the jth round the human gains aj points and the computer gains bj points The points are gained simultaneously the game ends when one of the players gets k or more points This player loses the game If both players get k or more points simultaneously both lose if both players have less than k points after n rounds the game ends in a tie after each round the human can push the Reset button If the human had x points and the computer had y points before the button is pushed of course x  k and y  k then after the button is pushed the human will have x  max0  x  y points and the computer will have y  max0  y  x points Eg the push of Reset button transforms the state x3  y5 into the state x0  y2 and the state x8  y2 into the state x6  y0Eulampius asked his friend Polycarpus to test the game Polycarpus has quickly revealed that amounts of points gained by the human and the computer in each of n rounds are generated before the game and stored in a file In other words the pushes of the Reset button do not influence the values aj and bj so sequences a and b are fixed and known in advancePolycarpus wants to make a plan for the game He would like to win the game pushing the Reset button as few times as possible Your task is to determine this minimal number of pushes or determine that Polycarpus cannot win

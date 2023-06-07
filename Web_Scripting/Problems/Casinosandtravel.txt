@@ -1,0 +1,9 @@
+Casinos and travel                    
+
+httpscodeforcescomproblemsetproblem852E
+
+dp
+
+2100
+
+John has just bought a new car and is planning a journey around the country Country has N cities some of which are connected by bidirectional roads There are N1 roads and every city is reachable from any other city Cities are labeled from 1 to NJohn first has to select from which city he will start his journey After that he spends one day in a city and then travels to a randomly choosen city which is directly connected to his current one and which he has not yet visited He does this until he cant continue obeying these rulesTo select the starting city he calls his friend Jack for advice Jack is also starting a big casino business and wants to open casinos in some of the cities max 1 per city maybe nowhere Jack knows John well and he knows that if he visits a city with a casino he will gamble exactly once before continuing his journeyHe also knows that if John enters a casino in a good mood he will leave it in a bad mood and vice versa Since he is Johns friend he wants him to be in a good mood at the moment when he finishes his journey John is in a good mood before starting the journeyIn how many ways can Jack select a starting city for John and cities where he will build casinos such that no matter how John travels he will be in a good mood at the end Print answer modulo 1097

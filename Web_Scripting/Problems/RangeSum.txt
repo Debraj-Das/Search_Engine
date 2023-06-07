@@ -1,0 +1,9 @@
+RangeSum
+
+https://codeforces.com/problemset/problem/1758/D
+
+binary search
+
+1800
+
+You are given an integer n. Find a sequence of n distinct integers a_1, a_2, \dots, a_n such that 1 \leq a_i \leq 10^9 for all i and \max(a_1, a_2, \dots, a_n) - \min(a_1, a_2, \dots, a_n)= \sqrt{a_1 + a_2 + \dots + a_n}.It can be proven that there exists a sequence of distinct integers that satisfies all the conditions above.

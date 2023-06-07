@@ -1,0 +1,9 @@
+Shift It                    
+
+httpscodeforcescomproblemsetproblem74E
+
+constructive algorithms
+
+2800
+
+There is a square box 66 in size It contains 36 chips 11 in size Those chips contain 36 different characters  09 and AZ There is exactly one chip with each characterYou are allowed to make the following operations you may choose one of 6 rows or one of 6 columns and cyclically shift the chips there to one position to the left or to the right for the row or upwards or downwards for the column Those operations are allowed to perform several times To solve the puzzle is to shift the chips using the above described operations so that they were written in the increasing order exactly equal to the right picture An example of solving the puzzle is shown on a picture below  Write a program that finds the sequence of operations that solves the puzzle That sequence should not necessarily be shortest but you should not exceed the limit of 10000 operations It is guaranteed that the solution always exists

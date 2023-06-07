@@ -1,0 +1,9 @@
+Award Ceremony                    
+
+httpscodeforcescomproblemsetproblem730E
+
+greedy
+
+2200
+
+AllBerland programming contest comes to an end In total n teams participated in it Like in ACMICPC current results stopped refreshing one hour before the contest ends So at the Award Ceremony results are partially known For each team the value ai is given  the number of points the ith team has earned before the last hour of the contest Besides that the Jury has evaluated all submissions sent during the last hour and knows values di  the number of points earned by the ith team during the last hour these values can be negative which means that a team can lose pointsBefore the contest each team got unique id from 1 to n According to the contest rules a team with more points takes a higher place If two or more teams have equal number of points the team with lower id will take the higher place So no two teams can share the same placeThe Award Ceremony proceeds in the following way At the beginning of the ceremony a large screen shows the results for the time moment one hour before the end which means that the ith team has ai points Then the Jury unfreezes results of the teams one by one in some order When result of the jth team is unfrozen its score changes from aj to ajdj At this time the table of results is modified and the place of the team can change The unfreezing of the jth team is followed by the applause from the audience with duration of xjyj seconds where xj is the place of the jth team before unfreezing and yj is the place right after the unfreezing For example if the team does not change the place there is no applause from the audience As you can see during the Award Ceremony each team will be unfrozen exactly onceYour task is to find such an order to unfreeze all the teams that the total duration of applause is maximum possible

@@ -1,0 +1,9 @@
+FTL                    
+
+httpscodeforcescomproblemsetproblem1743E
+
+binary search
+
+2400
+
+Monocarp is playing a video game In the game he controls a spaceship and has to destroy an enemy spaceshipMonocarp has two lasers installed on his spaceship Both lasers 1 and 2 have two values   pi the power of the laser  ti the reload time of the laser When a laser is fully charged Monocarp can either shoot it or wait for the other laser to charge and shoot both of them at the same timeAn enemy spaceship has h durability and s shield capacity When Monocarp shoots an enemy spaceship it receives P  s damage ie P  s gets subtracted from its durability where P is the total power of the lasers that Monocarp shoots ie pi if he only shoots laser i and p1  p2 if he shoots both lasers at the same time An enemy spaceship is considered destroyed when its durability becomes 0 or lowerInitially both lasers are zero chargedWhats the lowest amount of time it can take Monocarp to destroy an enemy spaceship

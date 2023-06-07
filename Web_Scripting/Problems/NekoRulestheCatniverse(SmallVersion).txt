@@ -1,0 +1,9 @@
+Neko Rules the Catniverse (Small Version)                    
+
+https://codeforces.com/problemset/problem/1152/F1
+
+bitmasks
+
+2800
+
+This problem is same as the next one, but has smaller constraints.Aki is playing a new video game. In the video game, he will control Neko, the giant cat, to fly between planets in the Catniverse.There are n planets in the Catniverse, numbered from 1 to n. At the beginning of the game, Aki chooses the planet where Neko is initially located. Then Aki performs k - 1 moves, where in each move Neko is moved from the current planet x to some other planet y such that:  Planet y is not visited yet.  1 \leq y \leq x + m (where m is a fixed constant given in the input) This way, Neko will visit exactly k different planets. Two ways of visiting planets are called different if there is some index i such that the i-th planet visited in the first way is different from the i-th planet visited in the second way.What is the total number of ways to visit k planets this way? Since the answer can be quite large, print it modulo 10^9 + 7.

@@ -1,0 +1,9 @@
+Count Binary Strings                    
+
+https://codeforces.com/problemset/problem/1767/C
+
+data structures
+
+2100
+
+You are given an integer n. You have to calculate the number of binary (consisting of characters 0 and/or 1) strings s meeting the following constraints.For every pair of integers (i, j) such that 1 \le i \le j \le n, an integer a_{i,j} is given. It imposes the following constraint on the string s_i s_{i+1} s_{i+2} \dots s_j:  if a_{i,j} = 1, all characters in s_i s_{i+1} s_{i+2} \dots s_j should be the same;  if a_{i,j} = 2, there should be at least two different characters in s_i s_{i+1} s_{i+2} \dots s_j;  if a_{i,j} = 0, there are no additional constraints on the string s_i s_{i+1} s_{i+2} \dots s_j. Count the number of binary strings s of length n meeting the aforementioned constraints. Since the answer can be large, print it modulo 998244353.

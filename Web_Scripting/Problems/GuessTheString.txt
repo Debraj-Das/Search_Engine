@@ -1,0 +1,9 @@
+Guess the String                    
+
+httpscodeforcescomproblemsetproblem1765G
+
+constructive algorithms
+
+2600
+
+This is an interactive problem You have to use flush operation right after printing each line For example in C you should use the function fflushstdout in Java or Kotlin  Systemoutflush and in Python  sysstdoutflushThe jury has a string s consisting of characters 0 andor 1 The first character of this string is 0 The length of this string is n You have to guess this string Lets denote slr as the substring of s from l to r ie slr is the string slsl1 dots srLet the prefix function of the string s be an array p1 p2 dots pn where pi is the greatest integer j in 0 i1 such that s1j  sij1i Also let the antiprefix function of the string s be an array q1 q2 dots qn where qi is the greatest integer j in 0 i1 such that s1j differs from sij1i in every positionFor example for the string 011001 its prefix function is 0 0 0 1 1 2 and its antiprefix function is 0 1 1 2 3 4You can ask queries of two types to guess the string s  1 i  what is the value of pi  2 i  what is the value of qi You have to guess the string by asking no more than 789 queries Note that giving the answer does not count as a queryIn every test and in every test case the string s is fixed beforehand

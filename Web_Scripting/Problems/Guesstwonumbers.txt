@@ -1,0 +1,9 @@
+Guess two numbers                    
+
+https://codeforces.com/problemset/problem/1007/C
+
+binary search
+
+3000
+
+This is an interactive problem.Vasya and Vitya play a game. Vasya thought of two integers a and b from 1 to n and Vitya tries to guess them. Each round he tells Vasya two numbers x and y from 1 to n. If both x=a and y=b then Vitya wins. Else Vasya must say one of the three phrases:   x is less than a;  y is less than b;  x is greater than a or y is greater than b. Vasya can't lie, but if multiple phrases are true, he may choose any of them. For example, if Vasya thought of numbers 2 and 4, then he answers with the phrase 3 to a query (3, 4), and he can answer with the phrase 1 or phrase 3 to a query (1, 5).Help Vitya win in no more than 600 rounds. 

@@ -1,0 +1,9 @@
+Rap God                    
+
+httpscodeforcescomproblemsetproblem786D
+
+data structures
+
+3400
+
+Rick is in love with Unity But Mr Meeseeks also love Unity so Rick and Mr Meeseeks are love rivals Unity loves rap so it decided that they have to compete in a rap game battle in order to choose the best Rick is too nerds so instead hes gonna make his verse with running his original algorithm on lyrics Rap God song  His algorithm is a little bit complicated Hes made a tree with n vertices numbered from 1 to n and theres a lowercase english letter written on each edge He denotes strab to be the string made by writing characters on edges on the shortest path from a to b one by one a string of length equal to distance of a to b Note that strab is reverse of strba and straa is empty In order to make the best verse he can he needs to answer some queries but hes not a computer scientist and is not able to answer those queries so he asked you to help him Each query is characterized by two vertices x and y xy Answer to this query is the number of vertices like z such that zxzy and strxy is lexicographically larger than strxzString xx1x2xx is lexicographically larger than string yy1y2yy if either xy and x1y1x2y2xyyy or exists such number r rxry that x1y1x2y2xryr and xr1yr1 Characters are compared like their ASCII codes or alphabetic orderHelp Rick get the girl or whatever gender Unity has

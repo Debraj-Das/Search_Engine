@@ -1,0 +1,9 @@
+The Last Fight Between Human and AI                    
+
+httpscodeforcescomproblemsetproblem676E
+
+math
+
+2400
+
+100 years have passed since the last victory of the man versus computer in Go Technologies made a huge step forward and robots conquered the Earth Its time for the final fight between human and robot that will decide the faith of the planetThe following game was chosen for the fights initially there is a polynomial Pxanxnan1xn1a1xa0 with yet undefined coefficients and the integer k Players alternate their turns At each turn a player pick some index j such that coefficient aj that stay near xj is not determined yet and sets it to any value integer or real positive or negative 0 is also allowed Computer moves first The human will be declared the winner if and only if the resulting polynomial will be divisible by QxxkPolynomial Px is said to be divisible by polynomial Qx if there exists a representation PxBxQx where Bx is also some polynomialSome moves have been made already and now you wonder is it true that human can guarantee the victory if he plays optimally

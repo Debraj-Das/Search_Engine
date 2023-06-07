@@ -1,0 +1,9 @@
+Consecutive Sum                    
+
+https://codeforces.com/problemset/problem/1733/A
+
+greedy
+
+800
+
+You are given an array a with n integers. You can perform the following operation at most k times:  Choose two indices i and j, in which i \,\bmod\, k = j \,\bmod\, k (1 \le i < j \le n).  Swap a_i and a_j. After performing all operations, you have to select k consecutive elements, and the sum of the k elements becomes your score. Find the maximum score you can get.Here x \bmod y denotes the remainder from dividing x by y.

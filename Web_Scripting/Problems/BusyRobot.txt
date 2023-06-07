@@ -1,0 +1,9 @@
+Busy Robot                    
+
+https://codeforces.com/problemset/problem/1463/C
+
+implementation
+
+1800
+
+You have a robot that can move along a number line. At time moment 0 it stands at point 0.You give n commands to the robot: at time t_i seconds you command the robot to go to point x_i. Whenever the robot receives a command, it starts moving towards the point x_i with the speed of 1 unit per second, and he stops when he reaches that point. However, while the robot is moving, it ignores all the other commands that you give him.For example, suppose you give three commands to the robot: at time 1 move to point 5, at time 3 move to point 0 and at time 6 move to point 4. Then the robot stands at 0 until time 1, then starts moving towards 5, ignores the second command, reaches 5 at time 6 and immediately starts moving to 4 to execute the third command. At time 7 it reaches 4 and stops there.You call the command i successful, if there is a time moment in the range [t_i, t_{i + 1}] (i. e. after you give this command and before you give another one, both bounds inclusive; we consider t_{n + 1} = +\infty) when the robot is at point x_i. Count the number of successful commands. Note that it is possible that an ignored command is successful.

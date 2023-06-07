@@ -1,0 +1,9 @@
+Polygons                    
+
+https://codeforces.com/problemset/problem/1208/G
+
+greedy
+
+2800
+
+You are given two integers n and k.You need to construct k regular polygons having same circumcircle, with distinct number of sides l between 3 and n.   Illustration for the first example. You can rotate them to minimize the total number of distinct points on the circle. Find the minimum number of such points.

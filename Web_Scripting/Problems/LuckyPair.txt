@@ -1,0 +1,9 @@
+Lucky Pair                    
+
+httpscodeforcescomproblemsetproblem145D
+
+combinatorics
+
+2900
+
+Petya loves lucky numbers very much Everybody knows that lucky numbers are positive integers whose decimal record contains only the lucky digits 4 and 7 For example numbers 47 744 4 are lucky and 5 17 467 are notPetya has an array a of n integers The numbers in the array are numbered starting from 1 Unfortunately Petya has been misbehaving and so his parents dont allow him play with arrays that have many lucky numbers It is guaranteed that no more than 1000 elements in the array a are lucky numbers Petya needs to find the number of pairs of nonintersecting segments l1r1 and l2r2 1l1r1l2r2n all four numbers are integers such that theres no such lucky number that occurs simultaneously in the subarray al1r1 and in the subarray al2r2 Help Petya count the number of such pairs

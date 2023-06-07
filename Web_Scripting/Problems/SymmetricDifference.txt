@@ -1,0 +1,9 @@
+Symmetric Difference                    
+
+https://codeforces.com/problemset/problem/683/C
+
+*special problem
+
+1600
+
+You are given two sets of numbers. Your task is to print all numbers from the sets, that both sets don't contain simultaneously.

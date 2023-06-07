@@ -1,0 +1,9 @@
+Game with modulo                    
+
+https://codeforces.com/problemset/problem/1103/B
+
+binary search
+
+2000
+
+This is an interactive problem.Vasya and Petya are going to play the following game: Petya has some positive integer number a. After that Vasya should guess this number using the following questions. He can say a pair of non-negative integer numbers (x, y). Petya will answer him:   "x", if (x \bmod a) \geq (y \bmod a).  "y", if (x \bmod a) < (y \bmod a). We define (x \bmod a) as a remainder of division x by a.Vasya should guess the number a using no more, than 60 questions.It's guaranteed that Petya has a number, that satisfies the inequality 1 \leq a \leq 10^9.Help Vasya playing this game and write a program, that will guess the number a.

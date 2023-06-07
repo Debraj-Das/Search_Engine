@@ -1,0 +1,9 @@
+Circle Line                    
+
+httpscodeforcescomproblemsetproblem278A
+
+implementation
+
+800
+
+The circle line of the Berland subway has n stations We know the distances between all pairs of neighboring stations d1 is the distance between the 1st and the 2nd station d2 is the distance between the 2nd and the 3rd station dn1 is the distance between the n1th and the nth station dn is the distance between the nth and the 1st stationThe trains go along the circle line in both directions Find the shortest distance between stations with numbers s and t

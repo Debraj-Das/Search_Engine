@@ -1,0 +1,9 @@
+Grid Xor                    
+
+https://codeforces.com/problemset/problem/1628/C
+
+constructive algorithms
+
+2300
+
+Note: The XOR-sum of set \{s_1,s_2,\ldots,s_m\} is defined as s_1 \oplus s_2 \oplus \ldots \oplus s_m, where \oplus denotes the bitwise XOR operation.After almost winning IOI, Victor bought himself an n\times n grid containing integers in each cell. n is an even integer. The integer in the cell in the i-th row and j-th column is a_{i,j}.Sadly, Mihai stole the grid from Victor and told him he would return it with only one condition: Victor has to tell Mihai the XOR-sum of all the integers in the whole grid.Victor doesn't remember all the elements of the grid, but he remembers some information about it: For each cell, Victor remembers the XOR-sum of all its neighboring cells.Two cells are considered neighbors if they share an edge — in other words, for some integers 1 \le i, j, k, l \le n, the cell in the i-th row and j-th column is a neighbor of the cell in the k-th row and l-th column if |i - k| = 1 and j = l, or if i = k and |j - l| = 1.To get his grid back, Victor is asking you for your help. Can you use the information Victor remembers to find the XOR-sum of the whole grid?It can be proven that the answer is unique.

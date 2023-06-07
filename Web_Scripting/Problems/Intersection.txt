@@ -1,0 +1,9 @@
+Intersection                    
+
+httpscodeforcescomproblemsetproblem21B
+
+implementation
+
+2000
+
+You are given two set of points The first set is determined by the equation A1xB1yC10 and the second one is determined by the equation A2xB2yC20Write the program which finds the number of points in the intersection of two given sets

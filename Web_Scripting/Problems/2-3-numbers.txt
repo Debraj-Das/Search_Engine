@@ -1,0 +1,9 @@
+23numbers                    
+
+httpscodeforcescomproblemsetproblem926A
+
+implementation
+
+1300
+
+A positive integer is called a 23integer if it is equal to 2x3y for some nonnegative integers x and y In other words these integers are such integers that only have 2 and 3 among their prime divisors For example integers 1 6 9 16 and 108  are 23 integers while 5 10 21 and 120 are notPrint the number of 23integers on the given segment lr ie the number of sich 23integers t that ltr

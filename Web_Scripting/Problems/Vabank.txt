@@ -1,0 +1,9 @@
+Vabank                    
+
+https://codeforces.com/problemset/problem/1482/G
+
+binary search
+
+3200
+
+Gustaw is the chief bank manager in a huge bank. He has unlimited access to the database system of the bank, in a few clicks he can move any amount of money from the bank's reserves to his own private account. However, the bank uses some fancy AI fraud detection system that makes stealing more difficult.Gustaw knows that the anti-fraud system just detects any operation that exceeds some fixed limit M euros and these operations are checked manually by a number of clerks. Thus, any fraud operation exceeding this limit is detected, while any smaller operation gets unnoticed.Gustaw doesn't know the limit M and wants to find it out. In one operation, he can choose some integer X and try to move X euros from the bank's reserves to his own account. Then, the following happens.   If X \le M, the operation is unnoticed and Gustaw's account balance raises by X euros.  Otherwise, if X > M, the fraud is detected and cancelled. Moreover, Gustaw has to pay X euros from his own account as a fine. If he has less than X euros on the account, he is fired and taken to the police. Initially Gustaw has 1 euro on his account. Help him find the exact value of M in no more than 105 operations without getting him fired.

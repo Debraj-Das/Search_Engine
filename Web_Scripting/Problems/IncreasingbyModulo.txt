@@ -1,0 +1,9 @@
+Increasing by Modulo                    
+
+https://codeforces.com/problemset/problem/1168/A
+
+binary search
+
+1700
+
+Toad Zitz has an array of integers, each integer is between 0 and m-1 inclusive. The integers are a_1, a_2, \ldots, a_n.In one operation Zitz can choose an integer k and k indices i_1, i_2, \ldots, i_k such that 1 \leq i_1 < i_2 < \ldots < i_k \leq n. He should then change a_{i_j} to ((a_{i_j}+1) \bmod m) for each chosen integer i_j. The integer m is fixed for all operations and indices.Here x \bmod y denotes the remainder of the division of x by y.Zitz wants to make his array non-decreasing with the minimum number of such operations. Find this minimum number of operations.

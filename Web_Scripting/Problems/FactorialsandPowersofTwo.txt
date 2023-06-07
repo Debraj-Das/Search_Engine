@@ -1,0 +1,9 @@
+Factorials and Powers of Two                    
+
+https://codeforces.com/problemset/problem/1646/C
+
+bitmasks
+
+1500
+
+A number is called powerful if it is a power of two or a factorial. In other words, the number m is powerful if there exists a non-negative integer d such that m=2^d or m=d!, where d!=1\cdot 2\cdot \ldots \cdot d (in particular, 0! = 1). For example 1, 4, and 6 are powerful numbers, because 1=1!, 4=2^2, and 6=3! but 7, 10, or 18 are not.You are given a positive integer n. Find the minimum number k such that n can be represented as the sum of k distinct powerful numbers, or say that there is no such k.

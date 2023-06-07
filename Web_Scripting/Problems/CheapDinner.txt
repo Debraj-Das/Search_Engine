@@ -1,0 +1,9 @@
+Cheap Dinner                    
+
+https://codeforces.com/problemset/problem/1487/E
+
+brute force
+
+2000
+
+Ivan wants to have a good dinner. A good dinner should consist of a first course, a second course, a drink, and a dessert.There are n_1 different types of first courses Ivan can buy (the i-th of them costs a_i coins), n_2 different types of second courses (the i-th of them costs b_i coins), n_3 different types of drinks (the i-th of them costs c_i coins) and n_4 different types of desserts (the i-th of them costs d_i coins).Some dishes don't go well with each other. There are m_1 pairs of first courses and second courses that don't go well with each other, m_2 pairs of second courses and drinks, and m_3 pairs of drinks and desserts that don't go well with each other.Ivan wants to buy exactly one first course, one second course, one drink, and one dessert so that they go well with each other, and the total cost of the dinner is the minimum possible. Help him to find the cheapest dinner option!

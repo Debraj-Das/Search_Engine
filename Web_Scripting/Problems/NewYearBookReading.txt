@@ -1,0 +1,9 @@
+New Year Book Reading                    
+
+httpscodeforcescomproblemsetproblem500C
+
+constructive algorithms
+
+1600
+
+New Year is coming and Jaehyun decided to read many books during 2015 unlike this year He has n books numbered by integers from 1 to n The weight of the ith 1in book is wiAs Jaehyuns house is not large enough to have a bookshelf he keeps the n books by stacking them vertically When he wants to read a certain book x he follows the steps described below  He lifts all the books above book x  He pushes book x out of the stack  He puts down the lifted books without changing their order  After reading book x he puts book x on the top of the stack  He decided to read books for m days In the jth 1jm day he will read the book that is numbered with integer bj 1bjn To read the book he has to use the process described in the paragraph above It is possible that he decides to reread the same book several timesAfter making this plan he realized that the total weight of books he should lift during m days would be too heavy So he decided to change the order of the stacked books before the New Year comes and minimize the total weight You may assume that books can be stacked in any possible order Note that book that he is going to read on certain step isnt considered as lifted on that step Can you help him

@@ -1,0 +1,9 @@
+String Equality                    
+
+https://codeforces.com/problemset/problem/1451/C
+
+dp
+
+1400
+
+Ashish has two strings a and b, each of length n, and an integer k. The strings only contain lowercase English letters.He wants to convert string a into string b by performing some (possibly zero) operations on a.In one move, he can either   choose an index i (1 \leq i\leq n-1) and swap a_i and a_{i+1}, or  choose an index i (1 \leq i \leq n-k+1) and if a_i, a_{i+1}, \ldots, a_{i+k-1} are all equal to some character c (c \neq 'z'), replace each one with the next character (c+1), that is, 'a' is replaced by 'b', 'b' is replaced by 'c' and so on. Note that he can perform any number of operations, and the operations can only be performed on string a. Help Ashish determine if it is possible to convert string a into b after performing some (possibly zero) operations on it.

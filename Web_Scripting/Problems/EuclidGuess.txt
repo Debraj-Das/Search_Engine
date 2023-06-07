@@ -1,0 +1,9 @@
+Euclid Guess                    
+
+https://codeforces.com/problemset/problem/1684/G
+
+constructive algorithms
+
+2800
+
+Let's consider Euclid's algorithm for finding the greatest common divisor, where t is a list:function Euclid(a, b):    if a < b:        swap(a, b)    if b == 0:        return a    r = reminder from dividing a by b    if r > 0:        append r to the back of t    return Euclid(b, r)There is an array p of pairs of positive integers that are not greater than m. Initially, the list t is empty. Then the function is run on each pair in p. After that the list t is shuffled and given to you.You have to find an array p of any size not greater than 2 \cdot 10^4 that produces the given list t, or tell that no such array exists.

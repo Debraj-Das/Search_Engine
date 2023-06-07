@@ -1,0 +1,9 @@
+Lucky Common Subsequence                    
+
+https://codeforces.com/problemset/problem/346/B
+
+dp
+
+2000
+
+In mathematics, a subsequence is a sequence that can be derived from another sequence by deleting some elements without changing the order of the remaining elements. For example, the sequence BDF is a subsequence of ABCDEF. A substring of a string is a continuous subsequence of the string. For example, BCD is a substring of ABCDEF.You are given two strings s1, s2 and another string called virus. Your task is to find the longest common subsequence of s1 and s2, such that it doesn't contain virus as a substring.

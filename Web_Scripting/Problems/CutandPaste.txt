@@ -1,0 +1,9 @@
+Cut and Paste                    
+
+https://codeforces.com/problemset/problem/1280/A
+
+implementation
+
+1700
+
+We start with a string s consisting only of the digits 1, 2, or 3. The length of s is denoted by |s|. For each i from 1 to |s|, the i-th character of s is denoted by s_i. There is one cursor. The cursor's location \ell is denoted by an integer in \{0, \ldots, |s|\}, with the following meaning:   If \ell = 0, then the cursor is located before the first character of s.  If \ell = |s|, then the cursor is located right after the last character of s.  If 0 < \ell < |s|, then the cursor is located between s_\ell and s_{\ell+1}. We denote by s_\text{left} the string to the left of the cursor and s_\text{right} the string to the right of the cursor. We also have a string c, which we call our clipboard, which starts out as empty. There are three types of actions:  The Move action. Move the cursor one step to the right. This increments \ell once.  The Cut action. Set c \leftarrow s_\text{right}, then set s \leftarrow s_\text{left}.  The Paste action. Append the value of c to the end of the string s. Note that this doesn't modify c. The cursor initially starts at \ell = 0. Then, we perform the following procedure:  Perform the Move action once.  Perform the Cut action once.  Perform the Paste action s_\ell times.  If \ell = x, stop. Otherwise, return to step 1. You're given the initial string s and the integer x. What is the length of s when the procedure stops? Since this value may be very large, only find it modulo 10^9 + 7. It is guaranteed that \ell \le |s| at any time.

@@ -1,0 +1,9 @@
+Snow Footprints                    
+
+httpscodeforcescomproblemsetproblem298A
+
+greedy
+
+1300
+
+There is a straight snowy road divided into n blocks The blocks are numbered from 1 to n from left to right If one moves from the ith block to the i1th block he will leave a right footprint on the ith block Similarly if one moves from the ith block to the i1th block he will leave a left footprint on the ith block If there already is a footprint on the ith block the new footprint will cover the old one  At the beginning there were no footprints Then polar bear Alice starts from the sth block makes a sequence of moves and ends in the tth block It is known that Alice never moves outside of the road You are given the description of Alices footprints Your task is to find a pair of possible values of st by looking at the footprints

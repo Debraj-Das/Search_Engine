@@ -1,0 +1,9 @@
+Bicycle Chain                    
+
+httpscodeforcescomproblemsetproblem215A
+
+brute force
+
+900
+
+Vasyas bicycle chain drive consists of two parts n stars are attached to the pedal axle m stars are attached to the rear wheel axle The chain helps to rotate the rear wheel by transmitting the pedal rotationWe know that the ith star on the pedal axle has ai 0a1a2an teeth and the jth star on the rear wheel axle has bj 0b1b2bm teeth Any pair ij 1in1jm is called a gear and sets the indexes of stars to which the chain is currently attached Gear ij has a gear ratio equal to the value Since Vasya likes integers he wants to find such gears ij that their ratios are integers On the other hand Vasya likes fast driving so among all integer gears ij he wants to choose a gear with the maximum ratio Help him to find the number of such gearsIn the problem fraction  denotes division in real numbers that is no rounding is performed

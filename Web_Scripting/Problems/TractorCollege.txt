@@ -1,0 +1,9 @@
+Tractor College                    
+
+httpscodeforcescomproblemsetproblem200E
+
+implementation
+
+2400
+
+While most students still sit their exams the tractor college has completed the summer exam session In fact students study only one subject at this college  the Art of Operating a Tractor Therefore at the end of a term a student gets only one mark a three satisfactory a four good or a five excellent Those who score lower marks are unfortunately expelledThe college has n students and oddly enough each of them can be on scholarship The size of the scholarships varies each term Since the endoftheterm exam has just ended its time to determine the size of the scholarship to the end of next termThe monthly budget for the scholarships of the Tractor college is s rubles To distribute the budget optimally you must follow these rules  The students who received the same mark for the exam should receive the same scholarship Let us denote the size of the scholarship in roubles for students who have received marks 3 4 and 5 for the exam as k3 k4 and k5 respectively The values k3 k4 and k5 must be integers and satisfy the inequalities 0k3k4k5 Lets assume that c3 c4 c5 show how many students received marks 3 4 and 5 for the exam respectively The budget of the scholarship should be fully spent on them that is c3k3c4k4c5k5s Lets introduce function   the value that shows how well the scholarships are distributed between students In the optimal distribution function fk3k4k5 takes the minimum possible value Given the results of the exam and the budget size s you have to find the optimal distribution of the scholarship

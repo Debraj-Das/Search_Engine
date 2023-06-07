@@ -1,0 +1,9 @@
+Broken Monitor                    
+
+httpscodeforcescomproblemsetproblem370D
+
+brute force
+
+2100
+
+Innocentius has a problem  his computer monitor has broken Now some of the pixels are dead that is they are always black As consequence Innocentius cant play the usual computer games He is recently playing the following game with his younger brother PolycarpusInnocentius is touchtyping a program that paints a white square onepixel wide frame on the black screen As the monitor is broken some pixels that should be white remain black Polycarpus should look at what the program displayed on the screen and guess the position and size of the frame Innocentius has painted Polycarpus doesnt like the game but Innocentius persuaded brother to play as the game is good for the imagination and attentionHelp Polycarpus automatize his part in the gaming process Write the code that finds such possible square frame that  the frames width is 1 pixel  the frame doesnt go beyond the borders of the screen  all white pixels of the monitor are located on the frame  of all frames that satisfy the previous three conditions the required frame must have the smallest size Formally a square frame is represented by such pixels of the solid square that are on the squares border that is are not fully surrounded by the other pixels of the square For example if the frames size is d3 then it consists of 8 pixels if its size is d2 then it contains 4 pixels and if d1 then the frame is reduced to a single pixel

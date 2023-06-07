@@ -1,0 +1,9 @@
+Bishwock                    
+
+https://codeforces.com/problemset/problem/991/D
+
+dp
+
+1500
+
+Bishwock is a chess figure that consists of three squares resembling an "L-bar". This figure can be rotated by 90, 180 and 270 degrees so it can have four possible states: XX   XX   .X   X.X.   .X   XX   XX Bishwocks don't attack any squares and can even occupy on the adjacent squares as long as they don't occupy the same square. Vasya has a board with 2\times n squares onto which he wants to put some bishwocks. To his dismay, several squares on this board are already occupied by pawns and Vasya can't put bishwocks there. However, pawns also don't attack bishwocks and they can occupy adjacent squares peacefully.Knowing the positions of pawns on the board, help Vasya to determine the maximum amount of bishwocks he can put onto the board so that they wouldn't occupy the same squares and wouldn't occupy squares with pawns.

@@ -1,0 +1,9 @@
+Letters                    
+
+https://codeforces.com/problemset/problem/978/C
+
+binary search
+
+1000
+
+There are n dormitories in Berland State University, they are numbered with integers from 1 to n. Each dormitory consists of rooms, there are a_i rooms in i-th dormitory. The rooms in i-th dormitory are numbered from 1 to a_i.A postman delivers letters. Sometimes there is no specific dormitory and room number in it on an envelope. Instead of it only a room number among all rooms of all n dormitories is written on an envelope. In this case, assume that all the rooms are numbered from 1 to a_1 + a_2 + \dots + a_n and the rooms of the first dormitory go first, the rooms of the second dormitory go after them and so on.For example, in case n=2, a_1=3 and a_2=5 an envelope can have any integer from 1 to 8 written on it. If the number 7 is written on an envelope, it means that the letter should be delivered to the room number 4 of the second dormitory.For each of m letters by the room number among all n dormitories, determine the particular dormitory and the room number in a dormitory where this letter should be delivered.

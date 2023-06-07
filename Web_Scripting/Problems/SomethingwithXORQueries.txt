@@ -1,0 +1,9 @@
+Something with XOR Queries                    
+
+httpscodeforcescomproblemsetproblem870D
+
+brute force
+
+2000
+
+This is an interactive problemJury has hidden a permutation p of integers from 0 to n1 You know only the length n Remind that in permutation all integers are distinctLet b be the inverse permutation for p ie pbii for all i The only thing you can do is to ask xor of elements pi and bj printing two indices i and j not necessarily distinct As a result of the query with indices i and j youll get the value  where  denotes the xor operation You can find the description of xor operation in notesNote that some permutations can remain indistinguishable from the hidden one even if you make all possible n2 queries You have to compute the number of permutations indistinguishable from the hidden one and print one of such permutations making no more than 2n queriesThe hidden permutation does not depend on your queries

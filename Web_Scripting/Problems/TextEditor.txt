@@ -1,0 +1,9 @@
+Text Editor                    
+
+httpscodeforcescomproblemsetproblem1701E
+
+brute force
+
+2500
+
+You wanted to write a text t consisting of m lowercase Latin letters But instead you have written a text s consisting of n lowercase Latin letters and now you want to fix it by obtaining the text t from the text sInitially the cursor of your text editor is at the end of the text s after its last character In one move you can do one of the following actions  press the left button so the cursor is moved to the left by one position or does nothing if it is pointing at the beginning of the text ie before its first character  press the right button so the cursor is moved to the right by one position or does nothing if it is pointing at the end of the text ie after its last character  press the home button so the cursor is moved to the beginning of the text before the first character of the text  press the end button so the cursor is moved to the end of the text after the last character of the text  press the backspace button so the character before the cursor is removed from the text if there is no such character nothing happens Your task is to calculate the minimum number of moves required to obtain the text t from the text s using the given set of actions or determine it is impossible to obtain the text t from the text sYou have to answer T independent test cases

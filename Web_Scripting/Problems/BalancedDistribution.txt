@@ -1,0 +1,9 @@
+Balanced Distribution                    
+
+https://codeforces.com/problemset/problem/1237/G
+
+data structures
+
+3500
+
+There are n friends living on a circular street. The friends and their houses are numbered clockwise from 0 to n-1.Initially person i has a_i stones. The friends want to make the distribution of stones among them perfectly balanced: everyone should possess the same number of stones.The only way to change the distribution of stones is by conducting meetings. During a meeting, people from exactly k consecutive houses (remember that the street is circular) gather at the same place and bring all their stones with them. All brought stones may be redistributed among people attending the meeting arbitrarily. The total number of stones they possess before the meeting and after the meeting must stay the same. After the meeting, everyone returns to their home.Find a way to make the distribution of stones perfectly balanced conducting as few meetings as possible.

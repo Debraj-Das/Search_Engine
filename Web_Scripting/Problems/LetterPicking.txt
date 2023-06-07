@@ -1,0 +1,9 @@
+Letter Picking                    
+
+httpscodeforcescomproblemsetproblem1728D
+
+constructive algorithms
+
+1800
+
+Alice and Bob are playing a game Initially they are given a nonempty string s consisting of lowercase Latin letters The length of the string is even Each player also has a string of their own initially emptyAlice starts then they alternate moves In one move a player takes either the first or the last letter of the string s removes it from s and prepends adds to the beginning it to their own stringThe game ends when the string s becomes empty The winner is the player with a lexicographically smaller string If the players strings are equal then its a drawA string a is lexicographically smaller than a string b if there exists such position i that aj  bj for all j  i and ai  biWhat is the result of the game if both players play optimally eg both players try to win if they cant then try to draw

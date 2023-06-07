@@ -1,0 +1,9 @@
+Fix a Tree                    
+
+httpscodeforcescomproblemsetproblem698B
+
+constructive algorithms
+
+1700
+
+A tree is an undirected connected graph without cyclesLets consider a rooted undirected tree with n vertices numbered 1 through n There are many ways to represent such a tree One way is to create an array with n integers p1p2pn where pi denotes a parent of vertex i here for convenience a root is considered its own parent  For this rooted tree the array p is 2332 Given a sequence p1p2pn one is able to restore a tree  There must be exactly one index r that prr A vertex r is a root of the tree  For all other n1 vertices i there is an edge between vertex i and vertex pi A sequence p1p2pn is called valid if the described procedure generates some any rooted tree For example for n3 sequences 122 231 and 213 are not validYou are given a sequence a1a2an not necessarily valid Your task is to change the minimum number of elements in order to get a valid sequence Print the minimum number of changes and an example of a valid sequence after that number of changes If there are many valid sequences achievable in the minimum number of changes print any of them

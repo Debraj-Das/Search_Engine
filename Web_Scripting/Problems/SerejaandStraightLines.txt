@@ -1,0 +1,9 @@
+Sereja and Straight Lines                    
+
+httpscodeforcescomproblemsetproblem314D
+
+binary search
+
+2500
+
+Sereja placed n points on a plane Now Sereja wants to place on the plane two straight lines intersecting at a right angle so that one of the straight lines intersect the Ox axis at an angle of 45 degrees and the maximum distance from the points to the straight lines were minimum In this problem we consider the distance between points x1y1 and x2y2 equal x1x2y1y2 The distance between the point and the straight lines is the minimum distance from the point to some point belonging to one of the linesHelp Sereja find the maximum distance from the points to the optimally located straight lines

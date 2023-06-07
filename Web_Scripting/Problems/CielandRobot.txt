@@ -1,0 +1,9 @@
+Ciel and Robot                    
+
+httpscodeforcescomproblemsetproblem321A
+
+binary search
+
+1700
+
+Fox Ciel has a robot on a 2D plane Initially it is located in 0 0 Fox Ciel code a command to it The command was represented by string s Each character of s is one move operation There are four move operations at all  U go up x y  x y1  D go down x y  x y1  L go left x y  x1 y  R go right x y  x1 y The robot will do the operations in s from left to right and repeat it infinite times Help Fox Ciel to determine if after some steps the robot will located in ab

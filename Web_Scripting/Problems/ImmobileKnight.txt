@@ -1,0 +1,9 @@
+Immobile Knight                    
+
+https://codeforces.com/problemset/problem/1739/A
+
+implementation
+
+800
+
+There is a chess board of size n \times m. The rows are numbered from 1 to n, the columns are numbered from 1 to m.Let's call a cell isolated if a knight placed in that cell can't move to any other cell on the board. Recall that a chess knight moves two cells in one direction and one cell in a perpendicular direction:   Find any isolated cell on the board. If there are no such cells, print any cell on the board.

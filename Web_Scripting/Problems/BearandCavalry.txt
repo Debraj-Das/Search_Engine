@@ -1,0 +1,9 @@
+Bear and Cavalry                    
+
+httpscodeforcescomproblemsetproblem573D
+
+data structures
+
+3000
+
+Would you want to fight against bears riding horses Me neitherLimak is a grizzly bear He is general of the dreadful army of Bearland The most important part of an army is cavalry of courseCavalry of Bearland consists of n warriors and n horses ith warrior has strength wi and ith horse has strength hi Warrior together with his horse is called a unit Strength of a unit is equal to multiplied strengths of warrior and horse Total strength of cavalry is equal to sum of strengths of all n units Good assignment of warriors and horses makes cavalry truly powerfulInitially ith warrior has ith horse You are given q queries In each query two warriors swap their horses with each otherGeneral Limak must be ready for every possible situation What if warriors werent allowed to ride their own horses After each query find the maximum possible strength of cavalry if we consider assignments of all warriors to all horses that no warrior is assigned to his own horse it can be proven that for n2 there is always at least one correct assignmentNote that we cant leave a warrior without a horse

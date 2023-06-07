@@ -1,0 +1,9 @@
+Dexterinas Lab                    
+
+httpscodeforcescomproblemsetproblem717D
+
+games
+
+1900
+
+Dexterina and Womandark have been archrivals since theyve known each other Since both are superintelligent teenage girls theyve always been trying to solve their disputes in a peaceful and nonviolent way After god knows how many different challenges theyve given to one another their score is equal and theyre both desperately trying to best the other in various games of wits This time Dexterina challenged Womandark to a game of NimNim is a twoplayer game in which players take turns removing objects from distinct heaps On each turn a player must remove at least one object and may remove any number of objects from a single heap The player who cant make a turn loses By their agreement the sizes of piles are selected randomly from the range 0x Each piles size is taken independently from the same probability distribution that is known before the start of the gameWomandark is coming up with a brand new and evil idea on how to thwart Dexterinas plans so she hasnt got much spare time She however offered you some tips on looking fabulous in exchange for helping her win in Nim Your task is to tell her what is the probability that the first player to play wins given the rules as above

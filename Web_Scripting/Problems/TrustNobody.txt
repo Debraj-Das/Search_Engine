@@ -1,0 +1,9 @@
+Trust Nobody                    
+
+https://codeforces.com/problemset/problem/1826/A
+
+brute force
+
+1200
+
+There is a group of n people. Some of them might be liars, who always tell lies. Other people always tell the truth. The i-th person says "There are at least l_i liars amongst us". Determine if what people are saying is contradictory, or if it is possible. If it is possible, output the number of liars in the group. If there are multiple possible answers, output any one of them.

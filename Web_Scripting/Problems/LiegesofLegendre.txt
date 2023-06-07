@@ -1,0 +1,9 @@
+Lieges of Legendre                    
+
+httpscodeforcescomproblemsetproblem603C
+
+games
+
+2200
+
+Kevin and Nicky Sun have invented a new game called Lieges of Legendre In this game two players take turns modifying the game state with Kevin moving first Initially the game is set up so that there are n piles of cows with the ith pile containing ai cows During each players turn that player calls upon the power of Sunlight and uses it to either  Remove a single cow from a chosen nonempty pile  Choose a pile of cows with even size 2x x0 and replace it with k piles of x cows each The player who removes the last cow wins Given n k and a sequence a1a2an help Kevin and Nicky find the winner given that both sides play in optimal way

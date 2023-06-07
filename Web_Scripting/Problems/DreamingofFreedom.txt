@@ -1,0 +1,9 @@
+Dreaming of Freedom                    
+
+https://codeforces.com/problemset/problem/1826/C
+
+greedy
+
+1300
+
+Because to take away a man's freedom of choice, even his freedom to make the wrong choice, is to manipulate him as though he were a puppet and not a person.— Madeleine L'EngleThere are n programmers choosing their favorite algorithm amongst m different choice options. Before the first round, all m options are available. In each round, every programmer makes a vote for one of the remaining algorithms. After the round, only the algorithms with the maximum number of votes remain. The voting process ends when there is only one option left. Determine whether the voting process can continue indefinitely or no matter how people vote, they will eventually choose a single option after some finite amount of rounds?

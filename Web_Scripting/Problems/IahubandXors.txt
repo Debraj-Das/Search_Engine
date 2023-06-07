@@ -1,0 +1,9 @@
+Iahub and Xors                    
+
+httpscodeforcescomproblemsetproblem341D
+
+data structures
+
+2500
+
+Iahub does not like background stories so hell tell you exactly what this problem asks you forYou are given a matrix a with n rows and n columns Initially all values of the matrix are zeros Both rows and columns are 1based that is rows are numbered 1 2  n and columns are numbered 1 2  n Lets denote an element on the ith row and jth column as aijWe will call a submatrix x0y0x1y1 such elements aij for which two inequalities hold x0ix1 y0jy1Write a program to perform two following operations  Queryx0 y0 x1 y1 print the xor sum of the elements of the submatrix x0y0x1y1  Updatex0 y0 x1 y1 v each element from submatrix x0y0x1y1 gets xored by value v 

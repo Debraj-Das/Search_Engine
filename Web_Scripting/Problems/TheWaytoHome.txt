@@ -1,0 +1,9 @@
+The Way to Home                    
+
+httpscodeforcescomproblemsetproblem910A
+
+dfs and similar
+
+800
+
+A frog lives on the axis Ox and needs to reach home which is in the point n She starts from the point 1 The frog can jump to the right at a distance not more than d So after she jumped from the point x she can reach the point xa where a is an integer from 1 to dFor each point from 1 to n is known if there is a lily flower in it The frog can jump only in points with a lilies Guaranteed that there are lilies in the points 1 and nDetermine the minimal number of jumps that the frog needs to reach home which is in the point n from the point 1 Consider that initially the frog is in the point 1 If the frog can not reach home print 1

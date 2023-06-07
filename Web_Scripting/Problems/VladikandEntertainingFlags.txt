@@ -1,0 +1,9 @@
+Vladik and Entertaining Flags                    
+
+httpscodeforcescomproblemsetproblem811E
+
+data structures
+
+2600
+
+In his spare time Vladik estimates beauty of the flagsEvery flag could be represented as the matrix nm which consists of positive integersLets define the beauty of the flag as number of components in its matrix We call component a set of cells with same numbers and between any pair of cells from that set there exists a path through adjacent cells from same component Here is the example of the partitioning some flag matrix into components  But this time he decided to change something in the process Now he wants to estimate not the entire flag but some segment Segment of flag can be described as a submatrix of the flag matrix with opposite corners at 1l and nr where conditions 1lrm are satisfiedHelp Vladik to calculate the beauty for some segments of the given flag

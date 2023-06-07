@@ -1,0 +1,9 @@
+Palindromic Matrix                    
+
+https://codeforces.com/problemset/problem/1118/C
+
+constructive algorithms
+
+1700
+
+Let's call some square matrix with integer values in its cells palindromic if it doesn't change after the order of rows is reversed and it doesn't change after the order of columns is reversed.For example, the following matrices are palindromic:  The following matrices are not palindromic because they change after the order of rows is reversed:  The following matrices are not palindromic because they change after the order of columns is reversed:  You are given n^2 integers. Put them into a matrix of n rows and n columns so that each number is used exactly once, each cell contains exactly one number and the resulting matrix is palindromic. If there are multiple answers, print any. If there is no solution, print "NO".

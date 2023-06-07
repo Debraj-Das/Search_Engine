@@ -1,0 +1,9 @@
+Little Elephant and Inversions                    
+
+httpscodeforcescomproblemsetproblem220E
+
+data structures
+
+2400
+
+The Little Elephant has array a consisting of n positive integers indexed from 1 to n Lets denote the number with index i as aiThe Little Elephant wants to count how many pairs of integers l and r are there such that 1lrn and sequence ba1a2 alarar1 an has no more than k inversions An inversion in sequence b is a pair of elements of the sequence b that change their relative order after a stable sorting of the sequence In other words an inversion is a pair of integers i and j such that 1ijb and bibj where b is the length of sequence b and bj is its jth elementHelp the Little Elephant and count the number of the described pairs

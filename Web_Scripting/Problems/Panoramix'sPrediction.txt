@@ -1,0 +1,9 @@
+Panoramixs Prediction                    
+
+httpscodeforcescomproblemsetproblem80A
+
+brute force
+
+800
+
+A prime number is a number which has exactly two distinct divisors one and itself For example numbers 2 7 3 are prime and 1 6 4 are notThe next prime number after x is the smallest prime number greater than x For example the next prime number after 2 is 3 and the next prime number after 3 is 5 Note that there is exactly one next prime number after each number So 5 isnot the next prime number for 2One cold April morning Panoramix predicted that soon Kakofonix will break free from his straitjacket and this will be a black day for the residents of the Gallic countrysidePanoramixs prophecy tells that if some day Asterix and Obelix beat exactly x Roman soldiers where x is a prime number and next day they beat exactly y Roman soldiers where y is the next prime number after x then its time to wait for Armageddon for nothing can shut Kakofonix up while he sings his infernal songYesterday the Gauls beat n Roman soldiers and it turned out that the number n was prime Today their victims were a troop of m Romans mn Determine whether the Gauls should wait for the black day after todays victory of Asterix and Obelix

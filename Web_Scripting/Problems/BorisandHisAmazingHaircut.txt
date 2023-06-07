@@ -1,0 +1,9 @@
+Boris and His Amazing Haircut                    
+
+https://codeforces.com/problemset/problem/1779/D
+
+constructive algorithms
+
+1700
+
+Boris thinks that chess is a tedious game. So he left his tournament early and went to a barber shop as his hair was a bit messy.His current hair can be described by an array a_1,a_2,\ldots, a_n, where a_i is the height of the hair standing at position i. His desired haircut can be described by an array b_1,b_2,\ldots, b_n in a similar fashion.The barber has m razors. Each has its own size and can be used at most once. In one operation, he chooses a razor and cuts a segment of Boris's hair. More formally, an operation is:  Choose any razor which hasn't been used before, let its size be x;  Choose a segment [l,r] (1\leq l \leq r \leq n);  Set a_i := \min (a_i,x) for each l\leq i \leq r; Notice that some razors might have equal sizes — the barber can choose some size x only as many times as the number of razors with size x. He may perform as many operations as he wants, as long as any razor is used at most once and a_i = b_i for each 1 \leq i \leq n at the end. He does not have to use all razors.Can you determine whether the barber can give Boris his desired haircut?

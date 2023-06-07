@@ -1,0 +1,9 @@
+Berserk Robot                     
+
+httpscodeforcescomproblemsetproblem538G
+
+constructive algorithms
+
+3100
+
+Help A robot escaped our lab and we need help finding it The lab is at the point 00 of the coordinate plane at time 0 the robot was there The robots movements are defined by a program a string of length l consisting of characters U L D R Each second the robot executes the next command in his program if the current coordinates of the robot are xy then commands U L D R move it to cells xy1 x1y xy1 x1y respectively The execution of the program started at time 0 The program is looped ie each l seconds of executing the program start again from the first character Unfortunately we dont know what program was loaded into the robot when he left the labOur radars managed to find out the position of the robot at n moments of time we know that at the moment of time ti the robot is at the point xiyi Given this data either help to determine what program could be loaded into the robot or determine that no possible program meets the data and the robot must have broken down

@@ -1,0 +1,9 @@
+Bear and Strings                    
+
+httpscodeforcescomproblemsetproblem385B
+
+brute force
+
+1200
+
+The bear has a string ss1s2 ss record s is the strings length consisting of lowercase English letters The bear wants to count the number of such pairs of indices ij 1ijs that string xijsisi1 sj contains at least one string bear as a substringString xij contains string bear if there is such index k ikj3 that skb sk1e sk2a sk3rHelp the bear cope with the given problem

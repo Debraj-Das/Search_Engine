@@ -1,0 +1,9 @@
+Maximum Sum                    
+
+https://codeforces.com/problemset/problem/1832/B
+
+brute force
+
+1100
+
+You are given an array a_1, a_2, \dots, a_n, where all elements are different.You have to perform exactly k operations with it. During each operation, you do exactly one of the following two actions (you choose which to do yourself):  find two minimum elements in the array, and delete them;  find the maximum element in the array, and delete it. You have to calculate the maximum possible sum of elements in the resulting array.

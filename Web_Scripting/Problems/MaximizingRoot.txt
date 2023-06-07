@@ -1,0 +1,9 @@
+Maximizing Root                    
+
+https://codeforces.com/problemset/problem/1778/F
+
+dfs and similar
+
+2600
+
+You are given a rooted tree consisting of n vertices numbered from 1 to n. Vertex 1 is the root of the tree. Each vertex has an integer value. The value of i-th vertex is a_i. You can do the following operation at most k times.  Choose a vertex v that has not been chosen before and an integer x such that x is a common divisor of the values of all vertices of the subtree of v. Multiply by x the value of each vertex in the subtree of v. What is the maximum possible value of the root node 1 after at most k operations? Formally, you have to maximize the value of a_1.A tree is a connected undirected graph without cycles. A rooted tree is a tree with a selected vertex, which is called the root. The subtree of a node u is the set of all nodes y such that the simple path from y to the root passes through u. Note that u is in the subtree of u.

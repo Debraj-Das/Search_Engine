@@ -1,0 +1,9 @@
+A Determined Cleanup                    
+
+httpscodeforcescomproblemsetproblem933B
+
+math
+
+2000
+
+In order to put away old things and welcome a fresh new year a thorough cleaning of the house is a mustLittle Tommy finds an old polynomial and cleaned it up by taking it modulo another But now he regrets doing thisGiven two integers p and k find a polynomial fx with nonnegative integer coefficients strictly less than k whose remainder is p when divided by xk That is fxqxxkp where qx is a polynomial not necessarily with integer coefficients

@@ -1,0 +1,9 @@
+Perfectionist Arkadiy                    
+
+httpscodeforcescomproblemsetproblem774G
+
+special problem
+
+2700
+
+Arkadiy has lots square photos with size aa He wants to put some of them on a rectangular wall with size hw The photos which Arkadiy will put on the wall must form a rectangular grid and the distances between neighboring vertically and horizontally photos and also the distances between outside rows and columns of photos to the nearest bound of the wall must be equal to x where x is some nonnegative real number Look on the picture below for better understanding of the statement  Arkadiy havent chosen yet how many photos he would put on the wall however he want to put at least one photo Your task is to determine the minimum value of x which can be obtained after putting photos or report that there is no way to put positive number of photos and satisfy all the constraints Suppose that Arkadiy has enough photos to make any valid arrangement according to the constraintsNote that Arkadiy wants to put at least one photo on the wall The photos should not overlap should completely lie inside the wall bounds and should have sides parallel to the wall sides

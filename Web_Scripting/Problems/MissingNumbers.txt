@@ -1,0 +1,9 @@
+Missing Numbers                    
+
+https://codeforces.com/problemset/problem/1081/E
+
+binary search
+
+1900
+
+Chouti is working on a strange math problem.There was a sequence of n positive integers x_1, x_2, \ldots, x_n, where n is even. The sequence was very special, namely for every integer t from 1 to n, x_1+x_2+...+x_t is a square of some integer number (that is, a perfect square).Somehow, the numbers with odd indexes turned to be missing, so he is only aware of numbers on even positions, i.e. x_2, x_4, x_6, \ldots, x_n. The task for him is to restore the original sequence. Again, it's your turn to help him.The problem setter might make mistakes, so there can be no possible sequence at all. If there are several possible sequences, you can output any.

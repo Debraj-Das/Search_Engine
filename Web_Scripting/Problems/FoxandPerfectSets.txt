@@ -1,0 +1,9 @@
+Fox and Perfect Sets                    
+
+httpscodeforcescomproblemsetproblem388D
+
+math
+
+2700
+
+Fox Ciel studies number theoryShe thinks a nonempty set S contains nonnegative integers is perfect if and only if for any  a can be equal to b  Where operation xor means exclusive or operation httpenwikipediaorgwikiExclusiveorPlease calculate the number of perfect sets consisting of integers not greater than k The answer can be very large so print it modulo 1000000007 1097

@@ -1,0 +1,9 @@
+Gabriel and Caterpillar                    
+
+httpscodeforcescomproblemsetproblem652A
+
+implementation
+
+1400
+
+The 9th grade student Gabriel noticed a caterpillar on a tree when walking around in a forest after the classes The caterpillar was on the height h1 cm from the ground On the height h2 cm h2h1 on the same tree hung an apple and the caterpillar was crawling to the appleGabriel is interested when the caterpillar gets the apple He noted that the caterpillar goes up by a cm per hour by day and slips down by b cm per hour by nightIn how many days Gabriel should return to the forest to see the caterpillar get the apple You can consider that the day starts at 10 am and finishes at 10 pm Gabriels classes finish at 2 pm You can consider that Gabriel noticed the caterpillar just after the classes at 2 pmNote that the forest is magic so the caterpillar can slip down under the ground and then lift to the apple

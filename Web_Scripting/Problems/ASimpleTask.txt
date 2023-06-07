@@ -1,0 +1,9 @@
+A Simple Task                    
+
+httpscodeforcescomproblemsetproblem558E
+
+data structures
+
+2300
+
+This task is very simple Given a string S of length n and q queries each query is on the format i j k which means sort the substring consisting of the characters from i to j in nondecreasing order if k1 or in nonincreasing order if k0Output the final string after applying the queries

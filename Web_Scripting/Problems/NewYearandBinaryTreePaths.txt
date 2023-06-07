@@ -1,0 +1,9 @@
+New Year and Binary Tree Paths                    
+
+httpscodeforcescomproblemsetproblem750G
+
+bitmasks
+
+3200
+
+The New Year tree is an infinite perfect binary tree rooted in the node 1 Each node v has two children nodes indexed 2v and 2v1  Polar bears love decorating the New Year tree and Limak is no exception As he is only a little bear he was told to decorate only one simple path between some pair of nodes Though he was given an opportunity to pick the pair himself Now he wants to know the number of unordered pairs of indices uv uv such that the sum of indices of all nodes along the simple path between u and v including endpoints is equal to s Can you help him and count this value

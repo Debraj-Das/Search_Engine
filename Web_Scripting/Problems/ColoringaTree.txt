@@ -1,0 +1,9 @@
+Coloring a Tree                    
+
+httpscodeforcescomproblemsetproblem902B
+
+dfs and similar
+
+1200
+
+You are given a rooted tree with n vertices The vertices are numbered from 1 to n the root is the vertex number 1Each vertex has a color lets denote the color of vertex v by cv Initially cv0You have to color the tree into the given colors using the smallest possible number of steps On each step you can choose a vertex v and a color x and then color all vectices in the subtree of v including v itself in color x In other words for every vertex u such that the path from root to u passes through v set cuxIt is guaranteed that you have to color each vertex in a color different from 0You can learn what a rooted tree is using the link httpsenwikipediaorgwikiTreegraphtheory

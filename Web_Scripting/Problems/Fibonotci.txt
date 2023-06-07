@@ -1,0 +1,9 @@
+Fibonotci                    
+
+httpscodeforcescomproblemsetproblem575A
+
+data structures
+
+2700
+
+Fibonotci sequence is an integer recursive sequence defined by the recurrence relation  Fnsn1Fn1sn2Fn2  with  F00F11 Sequence s is an infinite and almost cyclic sequence with a cycle of length N A sequence s is called almost cyclic with a cycle of length N if  for iN except for a finite number of values si for which  iNFollowing is an example of an almost cyclic sequence with a cycle of length 4  s  538115371153811 Notice that the only value of s for which the equality  does not hold is s6 s67 and s28 You are given s0s1sN1 and all the values of sequence s for which  iNFind 

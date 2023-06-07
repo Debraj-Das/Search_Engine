@@ -1,0 +1,9 @@
+Minimum Array                    
+
+https://codeforces.com/problemset/problem/1157/E
+
+binary search
+
+1700
+
+You are given two arrays a and b, both of length n. All elements of both arrays are from 0 to n-1.You can reorder elements of the array b (if you want, you may leave the order of elements as it is). After that, let array c be the array of length n, the i-th element of this array is c_i = (a_i + b_i) \% n, where x \% y is x modulo y.Your task is to reorder elements of the array b to obtain the lexicographically minimum possible array c.Array x of length n is lexicographically less than array y of length n, if there exists such i (1 \le i \le n), that x_i < y_i, and for any j (1 \le j < i) x_j = y_j.

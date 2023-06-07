@@ -1,0 +1,9 @@
+Forest Fires                    
+
+https://codeforces.com/problemset/problem/1086/F
+
+math
+
+3500
+
+Berland forest was planted several decades ago in a formation of an infinite grid with a single tree in every cell. Now the trees are grown up and they form a pretty dense structure.So dense, actually, that the fire became a real danger for the forest. This season had been abnormally hot in Berland and some trees got caught on fire! The second fire started is considered the second 0. Every second fire lit up all intact neightbouring trees to every currently burning tree. The tree is neighbouring if it occupies adjacent by side or by corner cell. Luckily, after t seconds Berland fire department finally reached the location of fire and instantaneously extinguished it all.Now they want to calculate the destructive power of the fire. Let val_{x, y} be the second the tree in cell (x, y) got caught on fire. The destructive power is the sum of val_{x, y} over all (x, y) of burnt trees.Clearly, all the workers of fire department are firefighters, not programmers, thus they asked you to help them calculate the destructive power of the fire.The result can be rather big, so print it modulo 998244353.

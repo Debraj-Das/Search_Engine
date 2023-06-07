@@ -1,0 +1,9 @@
+Lucky Probability                    
+
+httpscodeforcescomproblemsetproblem109B
+
+brute force
+
+1900
+
+Petya loves lucky numbers We all know that lucky numbers are the positive integers whose decimal representations contain only the lucky digits 4 and 7 For example numbers 47 744 4 are lucky and 5 17 467 are notPetya and his friend Vasya play an interesting game Petya randomly chooses an integer p from the interval plpr and Vasya chooses an integer v from the interval vlvr also randomly Both players choose their integers equiprobably Find the probability that the interval minvpmaxvp contains exactly k lucky numbers

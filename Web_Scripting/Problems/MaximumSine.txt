@@ -1,0 +1,9 @@
+Maximum Sine                    
+
+https://codeforces.com/problemset/problem/1182/F
+
+binary search
+
+2700
+
+You have given integers a, b, p, and q. Let f(x) = \text{abs}(\text{sin}(\frac{p}{q} \pi x)).Find minimum possible integer x that maximizes f(x) where a \le x \le b.

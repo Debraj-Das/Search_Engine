@@ -1,0 +1,9 @@
+Black Cells                    
+
+https://codeforces.com/problemset/problem/1821/D
+
+binary search
+
+1900
+
+You are playing with a really long strip consisting of 10^{18} white cells, numbered from left to right as 0, 1, 2 and so on. You are controlling a special pointer that is initially in cell 0. Also, you have a "Shift" button you can press and hold.In one move, you can do one of three actions:   move the pointer to the right (from cell x to cell x + 1);  press and hold the "Shift" button;  release the "Shift" button: the moment you release "Shift", all cells that were visited while "Shift" was pressed are colored in black.  (Of course, you can't press Shift if you already hold it. Similarly, you can't release Shift if you haven't pressed it.)Your goal is to color at least k cells, but there is a restriction: you are given n segments [l_i, r_i] — you can color cells only inside these segments, i. e. you can color the cell x if and only if l_i \le x \le r_i for some i.What is the minimum number of moves you need to make in order to color at least k cells black?

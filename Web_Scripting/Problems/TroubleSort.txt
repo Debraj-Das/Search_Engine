@@ -1,0 +1,9 @@
+Trouble Sort                    
+
+https://codeforces.com/problemset/problem/1365/B
+
+constructive algorithms
+
+1300
+
+Ashish has n elements arranged in a line. These elements are represented by two integers a_i — the value of the element and b_i — the type of the element (there are only two possible types: 0 and 1). He wants to sort the elements in non-decreasing values of a_i.He can perform the following operation any number of times:  Select any two elements i and j such that b_i \ne b_j and swap them. That is, he can only swap two elements of different types in one move. Tell him if he can sort the elements in non-decreasing values of a_i after performing any number of operations.

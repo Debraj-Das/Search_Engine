@@ -1,0 +1,9 @@
+Mind the Gap                    
+
+https://codeforces.com/problemset/problem/967/A
+
+implementation
+
+1100
+
+These days Arkady works as an air traffic controller at a large airport. He controls a runway which is usually used for landings only. Thus, he has a schedule of planes that are landing in the nearest future, each landing lasts 1 minute.He was asked to insert one takeoff in the schedule. The takeoff takes 1 minute itself, but for safety reasons there should be a time space between the takeoff and any landing of at least s minutes from both sides.Find the earliest time when Arkady can insert the takeoff.

@@ -1,0 +1,9 @@
+Subway Innovation                    
+
+httpscodeforcescomproblemsetproblem371E
+
+greedy
+
+2000
+
+Berland is going through tough times  the dirt price has dropped and that is a blow to the countrys economy Everybody knows that Berland is the top world dirt exporterThe President of Berland was forced to leave only k of the currently existing n subway stationsThe subway stations are located on a straight line one after another the trains consecutively visit the stations as they move You can assume that the stations are on the Ox axis the ith station is at point with coordinate xi In such case the distance between stations i and j is calculated by a simple formula xixjCurrently the Ministry of Transport is choosing which stations to close and which ones to leave Obviously the residents of the capital wont be too enthusiastic about the innovation so it was decided to show the best side to the people The Ministry of Transport wants to choose such k stations that minimize the average commute time in the subwayAssuming that the train speed is constant it is a fixed value the average commute time in the subway is calculated as the sum of pairwise distances between stations divided by the number of pairs that is  and divided by the speed of the trainHelp the Minister of Transport to solve this difficult problem Write a program that given the location of the stations selects such k stations that the average commute time in the subway is minimized

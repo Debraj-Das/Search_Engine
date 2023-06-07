@@ -1,0 +1,9 @@
+Ciel and Flipboard                    
+
+https://codeforces.com/problemset/problem/321/D
+
+dp
+
+2900
+
+Fox Ciel has a board with n rows and n columns, there is one integer in each cell.It's known that n is an odd number, so let's introduce . Fox Ciel can do the following operation many times: she choose a sub-board with size x rows and x columns, then all numbers in it will be multiplied by -1.Return the maximal sum of numbers in the board that she can get by these operations.

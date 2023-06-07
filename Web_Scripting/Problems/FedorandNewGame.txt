@@ -1,0 +1,9 @@
+Fedor and New Game                    
+
+httpscodeforcescomproblemsetproblem467B
+
+bitmasks
+
+1100
+
+After you had helped George and Alex to move in the dorm they went to help their friend Fedor play a new computer game Call of Soldiers 3The game has m1 players and n types of soldiers in total Players Call of Soldiers 3 are numbered form 1 to m1 Types of soldiers are numbered from 0 to n1 Each player has an army Army of the ith player can be described by nonnegative integer xi Consider binary representation of xi if the jth bit of number xi equal to one then the army of the ith player has soldiers of the jth type Fedor is the m1th player of the game He assume that two players can become friends if their armies differ in at most k types of soldiers in other words binary representations of the corresponding numbers differ in at most k bits Help Fedor and count how many players can become his friends

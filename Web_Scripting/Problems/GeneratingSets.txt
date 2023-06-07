@@ -1,0 +1,9 @@
+Generating Sets                    
+
+httpscodeforcescomproblemsetproblem722D
+
+binary search
+
+1900
+
+You are given a set Y of n distinct positive integers y1y2ynSet X of n distinct positive integers x1x2xn is said to generate set Y if one can transform X to Y by applying some number of the following two operation to integers in X  Take any integer xi and multiply it by two ie replace xi with 2xi  Take any integer xi multiply it by two and add one ie replace xi with 2xi1 Note that integers in X are not required to be distinct after each operationTwo sets of distinct integers X and Y are equal if they are equal as sets In other words if we write elements of the sets in the array in the increasing order these arrays would be equalNote that any set of integers or its permutation generates itselfYou are given a set Y and have to find a set X that generates Y and the maximum element of X is mininum possible

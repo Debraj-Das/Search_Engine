@@ -1,0 +1,9 @@
+Counting Factorizations                    
+
+https://codeforces.com/problemset/problem/1794/D
+
+combinatorics
+
+1900
+
+The prime factorization of a positive integer m is the unique way to write it as \displaystyle m=p_1^{e_1}\cdot p_2^{e_2}\cdot \ldots \cdot p_k^{e_k}, where p_1, p_2, \ldots, p_k are prime numbers, p_1 < p_2 < \ldots < p_k and e_1, e_2, \ldots, e_k are positive integers. For each positive integer m, f(m) is defined as the multiset of all numbers in its prime factorization, that is f(m)=\{p_1,e_1,p_2,e_2,\ldots,p_k,e_k\}. For example, f(24)=\{2,3,3,1\}, f(5)=\{1,5\} and f(1)=\{\}.You are given a list consisting of 2n integers a_1, a_2, \ldots, a_{2n}. Count how many positive integers m satisfy that f(m)=\{a_1, a_2, \ldots, a_{2n}\}. Since this value may be large, print it modulo 998\,244\,353.

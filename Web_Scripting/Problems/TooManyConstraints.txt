@@ -1,0 +1,9 @@
+Too Many Constraints                    
+
+https://codeforces.com/problemset/problem/1697/F
+
+2-sat
+
+2800
+
+You are asked to build an array a, consisting of n integers, each element should be from 1 to k.The array should be non-decreasing (a_i \le a_{i+1} for all i from 1 to n-1). You are also given additional constraints on it. Each constraint is of one of three following types:   1~i~x: a_i should not be equal to x;  2~i~j~x: a_i + a_j should be less than or equal to x;  3~i~j~x: a_i + a_j should be greater than or equal to x. Build any non-decreasing array that satisfies all constraints or report that no such array exists.

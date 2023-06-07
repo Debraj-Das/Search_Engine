@@ -1,0 +1,9 @@
+Geometric Progressions                    
+
+httpscodeforcescomproblemsetproblem571E
+
+math
+
+3200
+
+Geometric progression with the first element a and common ratio b is a sequence of numbers aabab2ab3You are given n integer geometric progressions Your task is to find the smallest integer x that is the element of all the given progressions or else state that such integer does not exist

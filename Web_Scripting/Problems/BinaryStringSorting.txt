@@ -1,0 +1,9 @@
+Binary String Sorting                    
+
+httpscodeforcescomproblemsetproblem1809D
+
+constructive algorithms
+
+1800
+
+You are given a binary string s consisting of only characters 0 andor 1You can perform several operations on this string possibly zero There are two types of operations   choose two consecutive elements and swap them In order to perform this operation you pay 1012 coins  choose any element from the string and remove it In order to perform this operation you pay 10121 coins Your task is to calculate the minimum number of coins required to sort the string s in nondecreasing order ie transform s so that s1 le s2 le dots le sm where m is the length of the string after applying all operations An empty string is also considered sorted in nondecreasing order

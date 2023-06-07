@@ -1,0 +1,9 @@
+The Minimum Number of Variables                    
+
+httpscodeforcescomproblemsetproblem279D
+
+bitmasks
+
+2200
+
+Youve got a positive integer sequence a1a2an All numbers in the sequence are distinct Lets fix the set of variables b1b2bm Initially each variable bi 1im contains the value of zero Consider the following sequence consisting of n operationsThe first operation is assigning the value of a1 to some variable bx 1xm Each of the following n1 operations is assigning to some variable by the value that is equal to the sum of values that are stored in the variables bi and bj 1ijym At that the value that is assigned on the tth operation must equal at For each operation numbers yij are chosen anewYour task is to find the minimum number of variables m such that those variables can help you perform the described sequence of operations

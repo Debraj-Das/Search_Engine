@@ -1,0 +1,9 @@
+Industrial Nim                    
+
+httpscodeforcescomproblemsetproblem15C
+
+games
+
+2000
+
+There are n stone quarries in PetrogradEach quarry owns mi dumpers 1in It is known that the first dumper of the ith quarry has xi stones in it the second dumper has xi1 stones in it the third has xi2 and the mith dumper the last for the ith quarry has ximi1 stones in itTwo oligarchs play a wellknown game Nim Players take turns removing stones from dumpers On each turn a player can select any dumper and remove any nonzero amount of stones from it The player who cannot take a stone losesYour task is to find out which oligarch will win provided that both of them play optimally The oligarchs asked you not to reveal their names So lets call the one who takes the first stone tolik and the other one bolik

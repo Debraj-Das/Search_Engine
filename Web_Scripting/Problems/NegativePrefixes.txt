@@ -1,0 +1,9 @@
+Negative Prefixes                    
+
+https://codeforces.com/problemset/problem/1418/B
+
+greedy
+
+1300
+
+You are given an array a, consisting of n integers.Each position i (1 \le i \le n) of the array is either locked or unlocked. You can take the values on the unlocked positions, rearrange them in any order and place them back into the unlocked positions. You are not allowed to remove any values, add the new ones or rearrange the values on the locked positions. You are allowed to leave the values in the same order as they were.For example, let a = [-1, 1, \underline{3}, 2, \underline{-2}, 1, -4, \underline{0}], the underlined positions are locked. You can obtain the following arrays:   [-1, 1, \underline{3}, 2, \underline{-2}, 1, -4, \underline{0}];  [-4, -1, \underline{3}, 2, \underline{-2}, 1, 1, \underline{0}];  [1, -1, \underline{3}, 2, \underline{-2}, 1, -4, \underline{0}];  [1, 2, \underline{3}, -1, \underline{-2}, -4, 1, \underline{0}];  and some others. Let p be a sequence of prefix sums of the array a after the rearrangement. So p_1 = a_1, p_2 = a_1 + a_2, p_3 = a_1 + a_2 + a_3, \dots, p_n = a_1 + a_2 + \dots + a_n.Let k be the maximum j (1 \le j \le n) such that p_j < 0. If there are no j such that p_j < 0, then k = 0.Your goal is to rearrange the values in such a way that k is minimum possible.Output the array a after the rearrangement such that the value k for it is minimum possible. If there are multiple answers then print any of them.

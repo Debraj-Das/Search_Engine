@@ -1,0 +1,9 @@
+Strongly Connected City                    
+
+httpscodeforcescomproblemsetproblem475B
+
+brute force
+
+1400
+
+Imagine a city with n horizontal streets crossing m vertical streets forming an n1m1 grid In order to increase the traffic flow mayor of the city has decided to make each street one way This means in each horizontal street the traffic moves only from west to east or only from east to west Also traffic moves only from north to south or only from south to north in each vertical street It is possible to enter a horizontal street from a vertical street or vice versa at their intersection  The mayor has received some street direction patterns Your task is to check whether it is possible to reach any junction from any other junction in the proposed street direction pattern

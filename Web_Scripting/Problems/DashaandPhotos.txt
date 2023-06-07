@@ -1,0 +1,9 @@
+Dasha and Photos                    
+
+httpscodeforcescomproblemsetproblem761F
+
+brute force
+
+2600
+
+Dasha decided to have a rest after solving the problem D and began to look photos from previous competitionsLets call photos as the matrix with the size nm which consists of lowercase English lettersSome k photos especially interested her because they can be received from phototemplate by painting a rectangular area in a certain color Lets call such photos special   More formally the ith special photo is received from the phototemplate by replacing all characters on some rectangle with upper left corner of the cell with coordinates aibi and lower right corner in the cell with coordinates cidi to the symbol eiDasha asks you to find the special photo so that the total distance from it to all other special photos is minimum And calculate this distanceDetermine the distance between two photos as the sum of distances between all corresponding letters The distance between two letters is the difference module of their positions in the alphabet For example the distance between letters h and m equals 8135 because the letter h is the 8th in the alphabet the letter m is the 13th

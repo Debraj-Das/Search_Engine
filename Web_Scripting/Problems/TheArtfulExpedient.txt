@@ -1,0 +1,9 @@
+The Artful Expedient                    
+
+httpscodeforcescomproblemsetproblem869A
+
+brute force
+
+1100
+
+Rock PaperAfter Karen have found the deterministic winning losing strategy for rockpaperscissors her brother Koyomi comes up with a new game as a substitute The game works as followsA positive integer n is decided first Both Koyomi and Karen independently choose n distinct positive integers denoted by x1x2xn and y1y2yn respectively They reveal their sequences and repeat until all of 2n integers become distinct which is the only final state to be kept and consideredThen they count the number of ordered pairs ij 1ijn such that the value xi xor yj equals to one of the 2n integers Here xor means the bitwise exclusive or operation on two integers and is denoted by operators  andor xor in most programming languagesKaren claims a win if the number of such pairs is even and Koyomi does otherwise And youre here to help determine the winner of their latest game

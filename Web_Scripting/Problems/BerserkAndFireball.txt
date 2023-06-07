@@ -1,0 +1,9 @@
+Berserk And Fireball                    
+
+https://codeforces.com/problemset/problem/1380/D
+
+constructive algorithms
+
+2000
+
+There are n warriors in a row. The power of the i-th warrior is a_i. All powers are pairwise distinct.You have two types of spells which you may cast:   Fireball: you spend x mana and destroy exactly k consecutive warriors;  Berserk: you spend y mana, choose two consecutive warriors, and the warrior with greater power destroys the warrior with smaller power. For example, let the powers of warriors be [2, 3, 7, 8, 11, 5, 4], and k = 3. If you cast Berserk on warriors with powers 8 and 11, the resulting sequence of powers becomes [2, 3, 7, 11, 5, 4]. Then, for example, if you cast Fireball on consecutive warriors with powers [7, 11, 5], the resulting sequence of powers becomes [2, 3, 4].You want to turn the current sequence of warriors powers a_1, a_2, \dots, a_n into b_1, b_2, \dots, b_m. Calculate the minimum amount of mana you need to spend on it.

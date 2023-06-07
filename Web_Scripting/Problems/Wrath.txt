@@ -1,0 +1,9 @@
+Wrath                    
+
+httpscodeforcescomproblemsetproblem892B
+
+greedy
+
+1200
+
+Hands that shed innocent bloodThere are n guilty people in a line the ith of them holds a claw with length Li The bell rings and every person kills some of people in front of him All people kill others at the same time Namely the ith person kills the jth person if and only if ji and jiLiYou are given lengths of the claws You need to find the total number of alive people after the bell rings

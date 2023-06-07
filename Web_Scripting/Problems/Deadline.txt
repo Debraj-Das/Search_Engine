@@ -1,0 +1,9 @@
+Deadline                    
+
+https://codeforces.com/problemset/problem/1288/A
+
+binary search
+
+1100
+
+Adilbek was assigned to a special project. For Adilbek it means that he has n days to run a special program and provide its results. But there is a problem: the program needs to run for d days to calculate the results.Fortunately, Adilbek can optimize the program. If he spends x (x is a non-negative integer) days optimizing the program, he will make the program run in \left\lceil \frac{d}{x + 1} \right\rceil days (\left\lceil a \right\rceil is the ceiling function: \left\lceil 2.4 \right\rceil = 3, \left\lceil 2 \right\rceil = 2). The program cannot be run and optimized simultaneously, so the total number of days he will spend is equal to x + \left\lceil \frac{d}{x + 1} \right\rceil.Will Adilbek be able to provide the generated results in no more than n days?

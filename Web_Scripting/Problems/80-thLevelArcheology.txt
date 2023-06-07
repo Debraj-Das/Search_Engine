@@ -1,0 +1,9 @@
+80th Level Archeology                    
+
+httpscodeforcescomproblemsetproblem731D
+
+brute force
+
+2200
+
+Archeologists have found a secret pass in the dungeon of one of the pyramids of Cycleland To enter the treasury they have to open an unusual lock on the door The lock consists of n words each consisting of some hieroglyphs The wall near the lock has a round switch Each rotation of this switch changes the hieroglyphs according to some rules The instruction nearby says that the door will open only if words written on the lock would be sorted in lexicographical order the definition of lexicographical comparison in given in notes sectionThe rule that changes hieroglyphs is the following One clockwise rotation of the round switch replaces each hieroglyph with the next hieroglyph in alphabet ie hieroglyph x 1xc1 is replaced with hieroglyph x1 and hieroglyph c is replaced with hieroglyph 1Help archeologist determine how many clockwise rotations they should perform in order to open the door or determine that this is impossible ie no cyclic shift of the alphabet will make the sequence of words sorted lexicographically

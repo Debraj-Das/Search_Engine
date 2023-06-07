@@ -1,0 +1,9 @@
+Hossam and Range Minimum Query                    
+
+https://codeforces.com/problemset/problem/1771/F
+
+binary search
+
+2500
+
+Hossam gives you a sequence of integers a_1, \, a_2, \, \dots, \, a_n of length n. Moreover, he will give you q queries of type (l, \, r). For each query, consider the elements a_l, \, a_{l + 1}, \, \dots, \, a_r. Hossam wants to know the smallest number in this sequence, such that it occurs in this sequence an odd number of times.You need to compute the answer for each query before process the next query.

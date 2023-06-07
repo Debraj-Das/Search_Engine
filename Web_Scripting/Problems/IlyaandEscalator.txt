@@ -1,0 +1,9 @@
+Ilya and Escalator                    
+
+httpscodeforcescomproblemsetproblem518D
+
+combinatorics
+
+1700
+
+Ilya got tired of sports programming left university and got a job in the subway He was given the task to determine the escalator load factor Lets assume that n people stand in the queue for the escalator At each second one of the two following possibilities takes place either the first person in the queue enters the escalator with probability p or the first person in the queue doesnt move with probability 1p paralyzed by his fear of escalators and making the whole queue wait behind himFormally speaking the ith person in the queue cannot enter the escalator until people with indices from 1 to i1 inclusive enter it In one second only one person can enter the escalator The escalator is infinite so if a person enters it he never leaves it that is he will be standing on the escalator at any following second Ilya needs to count the expected value of the number of people standing on the escalator after t seconds Your task is to help him solve this complicated task

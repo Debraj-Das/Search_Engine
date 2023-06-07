@@ -1,0 +1,9 @@
+Similar Words                    
+
+https://codeforces.com/problemset/problem/856/B
+
+dp
+
+2300
+
+Let us call a non-empty sequence of lowercase English letters a word. Prefix of a word x is a word y that can be obtained from x by removing zero or more last letters of x.Let us call two words similar, if one of them can be obtained from the other by removing its first letter.You are given a set S of words. Find the maximal possible size of set of non-empty words X such that they satisfy the following:   each word of X is prefix of some word from S;  X has no similar words. 

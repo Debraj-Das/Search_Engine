@@ -1,0 +1,9 @@
+Madoka and Strange Thoughts                    
+
+https://codeforces.com/problemset/problem/1717/A
+
+math
+
+800
+
+Madoka is a very strange girl, and therefore she suddenly wondered how many pairs of integers (a, b) exist, where 1 \leq a, b \leq n, for which \frac{\operatorname{lcm}(a, b)}{\operatorname{gcd}(a, b)} \leq 3.In this problem, \operatorname{gcd}(a, b) denotes the greatest common divisor of the numbers a and b, and \operatorname{lcm}(a, b) denotes the smallest common multiple of the numbers a and b.

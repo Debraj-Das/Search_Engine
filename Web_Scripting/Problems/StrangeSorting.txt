@@ -1,0 +1,9 @@
+Strange Sorting                    
+
+httpscodeforcescomproblemsetproblem484C
+
+implementation
+
+2600
+
+How many specific orders do you know Ascending order descending order order of ascending length order of ascending polar angle Lets have a look at another specific order dsorting This sorting is applied to the strings of length at least d where d is some positive integer The characters of the string are sorted in following manner first come all the 0th characters of the initial string then the 1st ones then the 2nd ones and so on in the end go all the d1th characters of the initial string By the ith characters we mean all the character whose positions are exactly i modulo d If two characters stand on the positions with the same remainder of integer division by d their relative order after the sorting shouldnt be changed The string is zeroindexed For example for string qwertyIts 1sorting is the string qwerty all characters stand on 0 positionsIts 2sorting is the string qetwry characters q e and t stand on 0 positions and characters w r and y are on 1 positionsIts 3sorting is the string qrwtey characters q and r stand on 0 positions characters w and t stand on 1 positions and characters e and y stand on 2 positionsIts 4sorting is the string qtwyerIts 5sorting is the string qywertYou are given string S of length n and m shuffling operations of this string Each shuffling operation accepts two integer arguments k and d and transforms string S as follows For each i from 0 to nk in the increasing order we apply the operation of dsorting to the substring Siik1 Here Sab represents a substring that consists of characters on positions from a to b inclusiveAfter each shuffling operation you need to print string S

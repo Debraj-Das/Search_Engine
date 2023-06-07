@@ -1,0 +1,9 @@
+Pixels                    
+
+httpscodeforcescomproblemsetproblem209B
+
+constructive algorithms
+
+2100
+
+Flatland is inhabited by pixels of three colors red green and blue We know that if two pixels of different colors meet in a violent fight only one of them survives the fight that is the total number of pixels decreases by one Besides if pixels of colors x and y xy meet in a violent fight then the pixel that survives the fight immediately changes its color to z zxzy Pixels of the same color are friends so they dont fightThe King of Flatland knows that his land will be peaceful and prosperous when the pixels are of the same color For each of the three colors you know the number of pixels of this color that inhabit Flatland Help the king and determine whether fights can bring peace and prosperity to the country and if it is possible find the minimum number of fights needed to make the land peaceful and prosperous 

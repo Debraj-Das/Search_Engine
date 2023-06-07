@@ -1,0 +1,9 @@
+Hexagons                    
+
+httpscodeforcescomproblemsetproblem615E
+
+binary search
+
+2100
+
+Ayrat is looking for the perfect code He decided to start his search from an infinite field tiled by hexagons For convenience the coordinate system is introduced take a look at the picture to see how the coordinates of hexagon are defined   Ayrat is searching through the field He started at point 00 and is moving along the spiral see second picture Sometimes he forgets where he is now Help Ayrat determine his location after n moves

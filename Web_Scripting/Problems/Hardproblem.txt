@@ -1,0 +1,9 @@
+Hard problem                    
+
+httpscodeforcescomproblemsetproblem706C
+
+dp
+
+1600
+
+Vasiliy is fond of solving different tasks Today he found one he wasnt able to solve himself so he asks you to helpVasiliy is given n strings consisting of lowercase English letters He wants them to be sorted in lexicographical order as in the dictionary but he is not allowed to swap any of them The only operation he is allowed to do is to reverse any of them first character becomes last second becomes one before last and so onTo reverse the ith string Vasiliy has to spent ci units of energy He is interested in the minimum amount of energy he has to spent in order to have strings sorted in lexicographical orderString A is lexicographically smaller than string B if it is shorter than B AB and is its prefix or if none of them is a prefix of the other and at the first position where they differ character in A is smaller than the character in BFor the purpose of this problem two equal strings nearby do not break the condition of sequence being sorted lexicographically

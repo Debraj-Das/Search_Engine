@@ -1,0 +1,9 @@
+Build a Tree and That Is It                    
+
+https://codeforces.com/problemset/problem/1714/F
+
+constructive algorithms
+
+1900
+
+A tree is a connected undirected graph without cycles. Note that in this problem, we are talking about not rooted trees.You are given four positive integers n, d_{12}, d_{23} and d_{31}. Construct a tree such that:  it contains n vertices numbered from 1 to n,  the distance (length of the shortest path) from vertex 1 to vertex 2 is d_{12},  distance from vertex 2 to vertex 3 is d_{23},  the distance from vertex 3 to vertex 1 is d_{31}. Output any tree that satisfies all the requirements above, or determine that no such tree exists.

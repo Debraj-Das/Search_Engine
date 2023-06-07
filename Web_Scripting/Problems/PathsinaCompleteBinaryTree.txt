@@ -1,0 +1,9 @@
+Paths in a Complete Binary Tree                    
+
+httpscodeforcescomproblemsetproblem792D
+
+bitmasks
+
+1900
+
+T is a complete binary tree consisting of n vertices It means that exactly one vertex is a root and each vertex is either a leaf and doesnt have children or an inner node and has exactly two children All leaves of a complete binary tree have the same depth distance from the root So n is a number such that n1 is a power of 2In the picture you can see a complete binary tree with n15  Vertices are numbered from 1 to n in a special recursive way we recursively assign numbers to all vertices from the left subtree if current vertex is not a leaf then assign a number to the current vertex and then recursively assign numbers to all vertices from the right subtree if it exists In the picture vertices are numbered exactly using this algorithm It is clear that for each size of a complete binary tree exists exactly one way to give numbers to all vertices This way of numbering is called symmetricYou have to write a program that for given n answers q queries to the treeEach query consists of an integer number ui 1uin and a string si where ui is the number of vertex and si represents the path starting from this vertex String si doesnt contain any characters other than L R and U which mean traverse to the left child to the right child and to the parent respectively Characters from si have to be processed from left to right considering that ui is the vertex where the path starts If its impossible to process a character for example to go to the left child of a leaf then you have to skip it The answer is the number of vertex where the path represented by si endsFor example if ui4 and siUURL then the answer is 10

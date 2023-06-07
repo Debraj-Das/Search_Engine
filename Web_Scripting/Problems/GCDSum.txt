@@ -1,0 +1,9 @@
+GCD Sum                    
+
+https://codeforces.com/problemset/problem/1498/A
+
+brute force
+
+800
+
+The \text{gcdSum} of a positive integer is the gcd of that integer with its sum of digits. Formally, \text{gcdSum}(x) = gcd(x, \text{ sum of digits of } x) for a positive integer x. gcd(a, b) denotes the greatest common divisor of a and b — the largest integer d such that both integers a and b are divisible by d.For example: \text{gcdSum}(762) = gcd(762, 7 + 6 + 2)=gcd(762,15) = 3.Given an integer n, find the smallest integer x \ge n such that \text{gcdSum}(x) > 1.

@@ -1,0 +1,9 @@
+Distance Matching                    
+
+https://codeforces.com/problemset/problem/1396/E
+
+constructive algorithms
+
+3200
+
+You are given an integer k and a tree T with n nodes (n is even).Let dist(u, v) be the number of edges on the shortest path from node u to node v in T.Let us define a undirected weighted complete graph G = (V, E) as following:   V = \{x \mid 1 \le x \le n \} i.e. the set of integers from 1 to n E = \{(u, v, w) \mid 1 \le u, v \le n, u \neq v, w = dist(u, v) \} i.e. there is an edge between every pair of distinct nodes, the weight being the distance between their respective nodes in T Your task is simple, find a perfect matching in G with total edge weight k (1 \le k \le n^2).

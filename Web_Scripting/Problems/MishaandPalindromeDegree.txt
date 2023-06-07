@@ -1,0 +1,9 @@
+Misha and Palindrome Degree                    
+
+httpscodeforcescomproblemsetproblem501E
+
+binary search
+
+2500
+
+Misha has an array of n integers indexed by integers from 1 to n Lets define palindrome degree of array a as the number of such index pairs lr1lrn that the elements from the lth to the rth one inclusive can be rearranged in such a way that the whole array will be a palindrome In other words pair lr should meet the condition that after some rearranging of numbers on positions from l to r inclusive it is allowed not to rearrange the numbers at all for any 1in following condition holds aiani1 Your task is to find the palindrome degree of Mishas array

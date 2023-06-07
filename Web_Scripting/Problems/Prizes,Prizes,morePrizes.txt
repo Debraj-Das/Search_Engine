@@ -1,0 +1,9 @@
+Prizes Prizes more Prizes                    
+
+httpscodeforcescomproblemsetproblem208D
+
+implementation
+
+1200
+
+Vasya like many others likes to participate in a variety of sweepstakes and lotteries Now he collects wrappings from a famous chocolate bar Jupiter According to the sweepstake rules each wrapping has an integer written on it  the number of points that the participant adds to his score as he buys the bar After a participant earns a certain number of points he can come to the prize distribution center and exchange the points for prizes When somebody takes a prize the prizes cost is simply subtracted from the number of his pointsVasya didnt only bought the bars he also kept a record of how many points each wrapping cost Also he remembers that he always stucks to the greedy strategy  as soon as he could take at least one prize he went to the prize distribution centre and exchanged the points for prizes Moreover if he could choose between multiple prizes he chose the most expensive one If after an exchange Vasya had enough points left to get at least one more prize then he continued to exchange pointsThe sweepstake has the following prizes the prizes are sorted by increasing of their cost   a mug costs a points  a towel costs b points  a bag costs c points  a bicycle costs d points  a car costs e points Now Vasya wants to recollect what prizes he has received You know sequence p1p2pn where pi is the number of points Vasya got for the ith bar The sequence of points is given in the chronological order You also know numbers a b c d e Your task is to find how many prizes Vasya received what prizes they are and how many points hes got left after all operations are completed

@@ -1,0 +1,9 @@
+Substring                    
+
+https://codeforces.com/problemset/problem/919/D
+
+dfs and similar
+
+1700
+
+You are given a graph with n nodes and m directed edges. One lowercase letter is assigned to each node. We define a path's value as the number of the most frequently occurring letter. For example, if letters on a path are "abaca", then the value of that path is 3. Your task is find a path whose value is the largest.

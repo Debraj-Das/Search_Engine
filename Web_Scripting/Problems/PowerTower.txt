@@ -1,0 +1,9 @@
+Power Tower                    
+
+httpscodeforcescomproblemsetproblem906D
+
+chinese remainder theorem
+
+2700
+
+Priests of the Quetzalcoatl cult want to build a tower to represent a power of their god Tower is usually made of powercharged rocks It is built with the help of rare magic by levitating the current top of tower and adding rocks at its bottom If top which is built from k1 rocks possesses power p and we want to add the rock charged with power wk then value of power of a new tower will be wkp Rocks are added from the last to the first That is for sequence w1wm value of power will beAfter tower is built its power may be extremely large But still priests want to get some information about it namely they want to know a number called cumulative power which is the true value of power taken modulo m Priests have n rocks numbered from 1 to n They ask you to calculate which value of cumulative power will the tower possess if they will build it from rocks numbered ll1r 

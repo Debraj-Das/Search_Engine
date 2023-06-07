@@ -1,0 +1,9 @@
+Pasha Maximizes                    
+
+https://codeforces.com/problemset/problem/435/B
+
+greedy
+
+1400
+
+Pasha has a positive integer a without leading zeroes. Today he decided that the number is too small and he should make it larger. Unfortunately, the only operation Pasha can do is to swap two adjacent decimal digits of the integer.Help Pasha count the maximum number he can get if he has the time to make at most k swaps.

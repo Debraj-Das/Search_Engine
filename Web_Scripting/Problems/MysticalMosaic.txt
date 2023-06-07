@@ -1,0 +1,9 @@
+Mystical Mosaic                    
+
+httpscodeforcescomproblemsetproblem924A
+
+greedy
+
+1300
+
+There is a rectangular grid of n rows of m initiallywhite cells eachArkady performed a certain number possibly zero of operations on it In the ith operation a nonempty subset of rows Ri and a nonempty subset of columns Ci are chosen For each row r in Ri and each column c in Ci the intersection of row r and column c is coloured blackTheres another constraint a row or a column can only be chosen at most once among all operations In other words it means that no pair of ij ij exists such that  or  where  denotes intersection of sets and  denotes the empty setYou are to determine whether a valid sequence of operations exists that produces a given final grid

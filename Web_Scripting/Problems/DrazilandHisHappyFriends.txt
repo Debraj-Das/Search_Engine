@@ -1,0 +1,9 @@
+Drazil and His Happy Friends                    
+
+httpscodeforcescomproblemsetproblem516E
+
+math
+
+3100
+
+Drazil has many friends Some of them are happy and some of them are unhappy Drazil wants to make all his friends become happy So he invented the following planThere are n boys and m girls among his friends Lets number them from 0 to n1 and 0 to m1 separately In ith day Drazil invites th boy and th girl to have dinner together as Drazil is programmer i starts from 0 If one of those two people is happy the other one will also become happy Otherwise those two people remain in their states Once a person becomes happy or if it is happy originally he stays happy foreverDrazil wants to know on which day all his friends become happy or to determine if they wont become all happy at all

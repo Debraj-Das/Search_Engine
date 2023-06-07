@@ -1,0 +1,9 @@
+Covered Points Count                    
+
+https://codeforces.com/problemset/problem/1000/C
+
+data structures
+
+1700
+
+You are given n segments on a coordinate line; each endpoint of every segment has integer coordinates. Some segments can degenerate to points. Segments can intersect with each other, be nested in each other or even coincide.Your task is the following: for every k \in [1..n], calculate the number of points with integer coordinates such that the number of segments that cover these points equals k. A segment with endpoints l_i and r_i covers point x if and only if l_i \le x \le r_i.

@@ -1,0 +1,9 @@
+24 Game                    
+
+httpscodeforcescomproblemsetproblem468A
+
+constructive algorithms
+
+1500
+
+Little X used to play a card game called 24 Game but recently he has found it too easy So he invented a new gameInitially you have a sequence of n integers 12n In a single step you can pick two of them lets denote them a and b erase them from the sequence and append to the sequence either ab or ab or abAfter n1 steps there is only one number left Can you make this number equal to 24

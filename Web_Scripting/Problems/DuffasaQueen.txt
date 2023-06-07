@@ -1,0 +1,9 @@
+Duff as a Queen                    
+
+httpscodeforcescomproblemsetproblem587E
+
+data structures
+
+2900
+
+Duff is the queen of her country Andarz Gu Shes a competitive programming fan Thats why when he saw her minister Malek free she gave her a sequence consisting of n nonnegative integers a1a2an and asked him to perform q queries for her on this sequence  There are two types of queries  given numbers lr and k Malek should perform  for each lir  bitwise exclusive OR of numbers a and b  given numbers l and r Malek should tell her the score of sequence alal1 ar Score of a sequence b1bk is the number of its different Kheshtaks A nonnegative integer w is a Kheshtak of this sequence if and only if there exists a subsequence of b lets denote it as bi1bi2 bix possibly empty such that  1i1i2ixk If this subsequence is empty then w0Unlike Duff Malek is not a programmer Thats why he asked for your help Please help him perform these queries

@@ -1,0 +1,9 @@
+Circle of Numbers                    
+
+https://codeforces.com/problemset/problem/859/G
+
+math
+
+3000
+
+n evenly spaced points have been marked around the edge of a circle. There is a number written at each point. You choose a positive real number k. Then you may repeatedly select a set of 2 or more points which are evenly spaced, and either increase all numbers at points in the set by k or decrease all numbers at points in the set by k. You would like to eventually end up with all numbers equal to 0. Is it possible?A set of 2 points is considered evenly spaced if they are diametrically opposed, and a set of 3 or more points is considered evenly spaced if they form a regular polygon.

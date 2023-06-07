@@ -1,0 +1,9 @@
+Forensic Examination                    
+
+httpscodeforcescomproblemsetproblem666E
+
+data structures
+
+3100
+
+The country of Reberland is the archenemy of Berland Recently the authorities of Berland arrested a Reberlandian spy who tried to bring the leaflets intended for agitational propaganda to Berland illegally  The most leaflets contain substrings of the Absolutely Inadmissible Swearword and maybe even the whole wordBerland legal system uses the difficult algorithm in order to determine the guilt of the spy The main part of this algorithm is the following procedureAll the m leaflets that are brought by the spy are numbered from 1 to m After that its needed to get the answer to q queries of the following kind In which leaflet in the segment of numbers lr the substring of the Absolutely Inadmissible Swearword plpr occurs more oftenThe expert wants you to automate that procedure because this time texts of leaflets are too long Help him

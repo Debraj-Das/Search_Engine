@@ -1,0 +1,9 @@
+Beautiful String                    
+
+https://codeforces.com/problemset/problem/1265/A
+
+constructive algorithms
+
+1000
+
+A string is called beautiful if no two consecutive characters are equal. For example, "ababcb", "a" and "abab" are beautiful strings, while "aaaaaa", "abaa" and "bb" are not.Ahcl wants to construct a beautiful string. He has a string s, consisting of only characters 'a', 'b', 'c' and '?'. Ahcl needs to replace each character '?' with one of the three characters 'a', 'b' or 'c', such that the resulting string is beautiful. Please help him!More formally, after replacing all characters '?', the condition s_i \neq s_{i+1} should be satisfied for all 1 \leq i \leq |s| - 1, where |s| is the length of the string s.

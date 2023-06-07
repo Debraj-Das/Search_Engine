@@ -1,0 +1,9 @@
+Increasing                    
+
+https://codeforces.com/problemset/problem/1742/B
+
+greedy
+
+800
+
+You are given an array a of n positive integers. Determine if, by rearranging the elements, you can make the array strictly increasing. In other words, determine if it is possible to rearrange the elements such that a_1 < a_2 < \dots < a_n holds.

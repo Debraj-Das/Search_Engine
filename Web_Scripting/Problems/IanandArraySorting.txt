@@ -1,0 +1,9 @@
+Ian and Array Sorting                    
+
+https://codeforces.com/problemset/problem/1815/A
+
+greedy
+
+1300
+
+To thank Ian, Mary gifted an array a of length n to Ian. To make himself look smart, he wants to make the array in non-decreasing order by doing the following finitely many times: he chooses two adjacent elements a_i and a_{i+1} (1\le i\le n-1), and increases both of them by 1 or decreases both of them by 1. Note that, the elements of the array can become negative.As a smart person, you notice that, there are some arrays such that Ian cannot make it become non-decreasing order! Therefore, you decide to write a program to determine if it is possible to make the array in non-decreasing order.

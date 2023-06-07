@@ -1,0 +1,9 @@
+Byteland, Berland and Disputed Cities                    
+
+https://codeforces.com/problemset/problem/962/E
+
+constructive algorithms
+
+2200
+
+The cities of Byteland and Berland are located on the axis Ox. In addition, on this axis there are also disputed cities, which belong to each of the countries in their opinion. Thus, on the line Ox there are three types of cities:  the cities of Byteland,  the cities of Berland,  disputed cities. Recently, the project BNET has been launched — a computer network of a new generation. Now the task of the both countries is to connect the cities so that the network of this country is connected.The countries agreed to connect the pairs of cities with BNET cables in such a way that:  If you look at the only cities of Byteland and the disputed cities, then in the resulting set of cities, any city should be reachable from any other one by one or more cables,  If you look at the only cities of Berland and the disputed cities, then in the resulting set of cities, any city should be reachable from any other one by one or more cables. Thus, it is necessary to choose a set of pairs of cities to connect by cables in such a way that both conditions are satisfied simultaneously. Cables allow bi-directional data transfer. Each cable connects exactly two distinct cities.The cost of laying a cable from one city to another is equal to the distance between them. Find the minimum total cost of laying a set of cables so that two subsets of cities (Byteland and disputed cities, Berland and disputed cities) are connected.Each city is a point on the line Ox. It is technically possible to connect the cities a and b with a cable so that the city c (a < c < b) is not connected to this cable, where a, b and c are simultaneously coordinates of the cities a, b and c.

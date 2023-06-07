@@ -1,0 +1,9 @@
+Obtain Two Zeroes                    
+
+https://codeforces.com/problemset/problem/1260/B
+
+binary search
+
+1300
+
+You are given two integers a and b. You may perform any number of operations on them (possibly zero).During each operation you should choose any positive integer x and set a := a - x, b := b - 2x or a := a - 2x, b := b - x. Note that you may choose different values of x in different operations.Is it possible to make a and b equal to 0 simultaneously?Your program should answer t independent test cases.

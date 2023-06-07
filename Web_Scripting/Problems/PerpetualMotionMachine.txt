@@ -1,0 +1,9 @@
+Perpetual Motion Machine                    
+
+https://codeforces.com/problemset/problem/830/E
+
+constructive algorithms
+
+3100
+
+Developer Petr thinks that he invented a perpetual motion machine. Namely, he has a lot of elements, which work in the following way.Each element has one controller that can be set to any non-negative real value. If a controller is set on some value x, then the controller consumes x2 energy units per second. At the same time, any two elements connected by a wire produce y·z energy units per second, where y and z are the values set on their controllers.Petr has only a limited number of wires, so he has already built some scheme of elements and wires, and is now interested if it's possible to set the controllers in such a way that the system produces at least as much power as it consumes, and at least one controller is set on the value different from 0. Help him check this, and if it's possible, find the required integer values that should be set.It is guaranteed that if there exist controllers' settings satisfying the above conditions, then there exist required integer values not greater than 106.

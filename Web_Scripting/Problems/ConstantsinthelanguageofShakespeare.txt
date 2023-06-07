@@ -1,0 +1,9 @@
+Constants in the language of Shakespeare                    
+
+httpscodeforcescomproblemsetproblem132D
+
+constructive algorithms
+
+2100
+
+Shakespeare is a widely known esoteric programming language in which programs look like plays by Shakespeare and numbers are given by combinations of ornate epithets In this problem we will have a closer look at the way the numbers are described in ShakespeareEach constant in Shakespeare is created from nonnegative powers of 2 using arithmetic operations For simplicity well allow only addition and subtraction and will look for a representation of the given number which requires a minimal number of operationsYou are given an integer n You have to represent it as na1a2am where each of ai is a nonnegative power of 2 possibly multiplied by 1 Find a representation which minimizes the value of m

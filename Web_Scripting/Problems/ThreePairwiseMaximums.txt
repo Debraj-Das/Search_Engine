@@ -1,0 +1,9 @@
+Three Pairwise Maximums                    
+
+https://codeforces.com/problemset/problem/1385/A
+
+math
+
+800
+
+You are given three positive (i.e. strictly greater than zero) integers x, y and z.Your task is to find positive integers a, b and c such that x = \max(a, b), y = \max(a, c) and z = \max(b, c), or determine that it is impossible to find such a, b and c.You have to answer t independent test cases. Print required a, b and c in any (arbitrary) order.

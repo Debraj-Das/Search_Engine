@@ -1,0 +1,9 @@
+Removing Columns                    
+
+httpscodeforcescomproblemsetproblem496C
+
+brute force
+
+1500
+
+You are given an nm rectangular table consisting of lower case English letters In one operation you can completely remove one column from the table The remaining parts are combined forming a new table For example after removing the second column from the tableabcdedfghijkwe obtain the tableacdefghjkA table is called good if its rows are ordered from top to bottom lexicographically ie each row is lexicographically no larger than the following one Determine the minimum number of operations of removing a column needed to make a given table good

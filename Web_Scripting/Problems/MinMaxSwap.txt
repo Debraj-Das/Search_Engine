@@ -1,0 +1,9 @@
+Min Max Swap                    
+
+https://codeforces.com/problemset/problem/1631/A
+
+greedy
+
+800
+
+You are given two arrays a and b of n positive integers each. You can apply the following operation to them any number of times:  Select an index i (1\leq i\leq n) and swap a_i with b_i (i. e. a_i becomes b_i and vice versa). Find the minimum possible value of \max(a_1, a_2, \ldots, a_n) \cdot \max(b_1, b_2, \ldots, b_n) you can get after applying such operation any number of times (possibly zero). 

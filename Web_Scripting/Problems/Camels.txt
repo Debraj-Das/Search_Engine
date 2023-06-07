@@ -1,0 +1,9 @@
+Camels                    
+
+httpscodeforcescomproblemsetproblem14E
+
+dp
+
+1900
+
+Bob likes to draw camels with a single hump two humps three humps etc He draws a camel by connecting points on a coordinate plane Now hes drawing camels with t humps representing them as polylines in the plane Each polyline consists of n vertices with coordinates x1y1 x2y2  xnyn The first vertex has a coordinate x11 the second  x22 etc Coordinates yi might be any but should satisfy the following conditions  there should be t humps precisely ie such indexes j 2jn1 so that yj1yjyj1  there should be precisely t1 such indexes j 2jn1 so that yj1yjyj1  no segment of a polyline should be parallel to the Oxaxis  all yi are integers between 1 and 4 For a series of his drawings of camels with t humps Bob wants to buy a notebook but he doesnt know how many pages he will need Output the amount of different polylines that can be drawn to represent camels with t humps for a given number n

@@ -1,0 +1,9 @@
+Maximize Mex                    
+
+https://codeforces.com/problemset/problem/1139/E
+
+flows
+
+2400
+
+There are n students and m clubs in a college. The clubs are numbered from 1 to m. Each student has a potential p_i and is a member of the club with index c_i. Initially, each student is a member of exactly one club. A technical fest starts in the college, and it will run for the next d days. There is a coding competition every day in the technical fest. Every day, in the morning, exactly one student of the college leaves their club. Once a student leaves their club, they will never join any club again. Every day, in the afternoon, the director of the college will select one student from each club (in case some club has no members, nobody is selected from that club) to form a team for this day's coding competition. The strength of a team is the mex of potentials of the students in the team. The director wants to know the maximum possible strength of the team for each of the coming d days. Thus, every day the director chooses such team, that the team strength is maximized.The mex of the multiset S is the smallest non-negative integer that is not present in S. For example, the mex of the \{0, 1, 1, 2, 4, 5, 9\} is 3, the mex of \{1, 2, 3\} is 0 and the mex of \varnothing (empty set) is 0.

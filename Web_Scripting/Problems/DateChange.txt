@@ -1,0 +1,9 @@
+Date Change                    
+
+https://codeforces.com/problemset/problem/153/D
+
+*special problem
+
+2000
+
+You are given a date in "DD.MM.YYYY" ("day.month.year") format and a number of days shift you have to add to this date. Output the resulting date.

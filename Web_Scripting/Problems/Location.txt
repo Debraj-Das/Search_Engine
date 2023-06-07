@@ -1,0 +1,9 @@
+Location                    
+
+https://codeforces.com/problemset/problem/1732/E
+
+data structures
+
+2800
+
+You are given two arrays of integers a_1, a_2, \ldots, a_n and b_1, b_2, \ldots, b_n. You need to handle q queries of the following two types: 1 l r x: assign a_i := x for all l \leq i \leq r; 2 l r: find the minimum value of the following expression among all l \leq i \leq r: \frac{\operatorname{lcm}(a_i, b_i)}{\gcd(a_i, b_i)}.In this problem \gcd(x, y) denotes the greatest common divisor of x and y, and \operatorname{lcm}(x, y) denotes the least common multiple of x and y.

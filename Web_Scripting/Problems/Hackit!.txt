@@ -1,0 +1,9 @@
+Hack it                    
+
+httpscodeforcescomproblemsetproblem468C
+
+binary search
+
+2500
+
+Little X has met the following problem recently Lets define fx as the sum of digits in decimal representation of number x for example f12341234 You are to calculate Of course Little X has solved this problem quickly has locked it and then has tried to hack others He has seen the following C code     ans  solvel r  a    if ans  0      ans  a This code will fail only on the test with  You are given number a help Little X to find a proper test for hack

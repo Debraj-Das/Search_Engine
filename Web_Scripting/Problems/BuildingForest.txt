@@ -1,0 +1,9 @@
+Building Forest                    
+
+httpscodeforcescomproblemsetproblem195E
+
+data structures
+
+2000
+
+An oriented weighted forest is an acyclic weighted digraph in which from each vertex at most one edge goesThe root of vertex v of an oriented weighted forest is a vertex from which no edge goes and which can be reached from vertex v moving along the edges of the weighted oriented forest We denote the root of vertex v as rootvThe depth of vertex v is the sum of weights of paths passing from the vertex v to its root Lets denote the depth of the vertex v as depthvLets consider the process of constructing a weighted directed forest Initially the forest does not contain vertices Vertices are added sequentially one by one Overall there are n performed operations of adding The ith i0 adding operation is described by a set of numbers kv1x1v2x2 vkxk and means that we should add vertex number i and k edges to the graph an edge from vertex rootv1 to vertex i with weight depthv1x1 an edge from vertex rootv2 to vertex i with weight depthv2x2 and so on If k0 then only vertex i is added to the graph there are no added edgesYour task is like this given the operations of adding vertices calculate the sum of the weights of all edges of the forest resulting after the application of all defined operations modulo 1000000007 1097

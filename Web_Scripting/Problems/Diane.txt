@@ -1,0 +1,9 @@
+Diane                    
+
+https://codeforces.com/problemset/problem/1554/D
+
+constructive algorithms
+
+1800
+
+You are given an integer n. Find any string s of length n consisting only of English lowercase letters such that each non-empty substring of s occurs in s an odd number of times. If there are multiple such strings, output any. It can be shown that such string always exists under the given constraints.A string a is a substring of a string b if a can be obtained from b by deletion of several (possibly, zero or all) characters from the beginning and several (possibly, zero or all) characters from the end.

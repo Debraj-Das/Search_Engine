@@ -1,0 +1,9 @@
+Composing Of String                    
+
+https://codeforces.com/problemset/problem/774/I
+
+*special problem
+
+2300
+
+Stepan has a set of n strings. Also, he has a favorite string s. Stepan wants to do the following. He will take some strings of his set and write them down one after another. It is possible that he will take some strings more than once, and will not take some of them at all.Your task is to determine the minimum number of strings in the set which Stepan needs to take and write so that the string s appears as a subsequence in the resulting written down string. For example, in the string "abcd" strings "ad", "acd", "abcd" appear as subsequences, and strings "ba", "abdc" don't appear as subsequences. 

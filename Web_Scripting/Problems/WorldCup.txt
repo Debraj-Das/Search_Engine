@@ -1,0 +1,9 @@
+World Cup                    
+
+https://codeforces.com/problemset/problem/996/B
+
+binary search
+
+1300
+
+Allen wants to enter a fan zone that occupies a round square and has n entrances.There already is a queue of a_i people in front of the i-th entrance. Each entrance allows one person from its queue to enter the fan zone in one minute.Allen uses the following strategy to enter the fan zone:   Initially he stands in the end of the queue in front of the first entrance.  Each minute, if he is not allowed into the fan zone during the minute (meaning he is not the first in the queue), he leaves the current queue and stands in the end of the queue of the next entrance (or the first entrance if he leaves the last entrance). Determine the entrance through which Allen will finally enter the fan zone.

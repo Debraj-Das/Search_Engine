@@ -1,0 +1,9 @@
+Deleting Numbers                    
+
+https://codeforces.com/problemset/problem/1406/E
+
+interactive
+
+2600
+
+This is an interactive problem.There is an unknown integer x (1\le x\le n). You want to find x.At first, you have a set of integers \{1, 2, \ldots, n\}. You can perform the following operations no more than 10000 times:  A a: find how many numbers are multiples of a in the current set.  B a: find how many numbers are multiples of a in this set, and then delete all multiples of a, but x will never be deleted (even if it is a multiple of a). In this operation, a must be greater than 1.  C a: it means that you know that x=a. This operation can be only performed once. Remember that in the operation of type B a>1 must hold.Write a program, that will find the value of x.

@@ -1,0 +1,9 @@
+Captain Flint and Treasure                    
+
+https://codeforces.com/problemset/problem/1388/D
+
+data structures
+
+2000
+
+Captain Fint is involved in another treasure hunt, but have found only one strange problem. The problem may be connected to the treasure's location or may not. That's why captain Flint decided to leave the solving the problem to his crew and offered an absurdly high reward: one day off. The problem itself sounds like this...There are two arrays a and b of length n. Initially, an ans is equal to 0 and the following operation is defined:   Choose position i (1 \le i \le n);  Add a_i to ans;  If b_i \neq -1 then add a_i to a_{b_i}. What is the maximum ans you can get by performing the operation on each i (1 \le i \le n) exactly once?Uncle Bogdan is eager to get the reward, so he is asking your help to find the optimal order of positions to perform the operation on them.

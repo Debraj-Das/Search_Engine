@@ -1,0 +1,9 @@
+Vasyas Function                    
+
+httpscodeforcescomproblemsetproblem837E
+
+binary search
+
+2100
+
+Vasya is studying number theory He has denoted a function fab such that  fa00  fab1fabgcdab where gcdab is the greatest common divisor of a and b Vasya has two numbers x and y and he wants to calculate fxy He tried to do it by himself but found out that calculating this function the way he wants to do that might take very long time So he decided to ask you to implement a program that will calculate this function swiftly

@@ -1,0 +1,9 @@
+Game of Pairs                    
+
+https://codeforces.com/problemset/problem/1404/D
+
+constructive algorithms
+
+2800
+
+This is an interactive problem.Consider a fixed positive integer n. Two players, First and Second play a game as follows:  First considers the 2n numbers 1, 2, \dots, 2n, and partitions them as he wants into n disjoint pairs. Then, Second chooses exactly one element from each of the pairs that First created (he chooses elements he wants). To determine the winner of the game, we compute the sum of the numbers chosen by Second. If the sum of all these numbers is a multiple of 2n, then Second wins. Otherwise, First wins.You are given the integer n. Your task is to decide which player you wish to play as and win the game.

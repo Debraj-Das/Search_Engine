@@ -1,0 +1,9 @@
+Maximum Cost Deletion                    
+
+https://codeforces.com/problemset/problem/1550/B
+
+greedy
+
+1000
+
+You are given a string s of length n consisting only of the characters 0 and 1.You perform the following operation until the string becomes empty: choose some consecutive substring of equal characters, erase it from the string and glue the remaining two parts together (any of them can be empty) in the same order. For example, if you erase the substring 111 from the string 111110, you will get the string 110. When you delete a substring of length l, you get a \cdot l + b points.Your task is to calculate the maximum number of points that you can score in total, if you have to make the given string empty.

@@ -1,0 +1,9 @@
+New Years Eve                    
+
+httpscodeforcescomproblemsetproblem912B
+
+bitmasks
+
+1300
+
+Since Grisha behaved well last year at New Years Eve he was visited by Ded Moroz who brought an enormous bag of gifts with him The bag contains n sweet candies from the good ol bakery each labeled from 1 to n corresponding to its tastiness No two candies have the same tastinessThe choice of candies has a direct effect on Grishas happiness One can assume that he should take the tastiest ones but no the holiday magic turns things upside down It is the xorsum of tastinesses that matters not the ordinary sumA xorsum of a sequence of integers a1a2am is defined as the bitwise XOR of all its elements  here  denotes the bitwise XOR operation more about bitwise XOR can be found hereDed Moroz warned Grisha he has more houses to visit so Grisha can take no more than k candies from the bag Help Grisha determine the largest xorsum largest xorsum means maximum happiness he can obtain

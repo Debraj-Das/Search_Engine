@@ -1,0 +1,9 @@
+From Y to Y                    
+
+httpscodeforcescomproblemsetproblem848A
+
+constructive algorithms
+
+1600
+
+From beginning till end this message has been waiting to be conveyedFor a given unordered multiset of n lowercase English letters multi means that a letter may appear more than once we treat all letters as strings of length 1 and repeat the following operation n1 times  Remove any two elements s and t from the set and add their concatenation st to the set The cost of such operation is defined to be  where fsc denotes the number of times character c appears in string sGiven a nonnegative integer k construct any valid nonempty set of no more than 100000 letters such that the minimum accumulative cost of the whole process is exactly k It can be shown that a solution always exists

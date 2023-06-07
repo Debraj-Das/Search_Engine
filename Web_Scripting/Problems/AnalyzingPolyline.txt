@@ -1,0 +1,9 @@
+Analyzing Polyline                    
+
+httpscodeforcescomproblemsetproblem195D
+
+geometry
+
+1900
+
+As Valeric and Valerko were watching one of the last Euro Championship games in a sports bar they broke a mug Of course the guys paid for it but the barman said that he will let them watch football in his bar only if they help his son complete a programming task The task goes like thatLets consider a set of functions of the following form  Lets define a sum of n functions y1xynx of the given type as function sxy1xynx for any x Its easy to show that in this case the graph sx is a polyline You are given n functions of the given type your task is to find the number of angles that do not equal 180 degrees in the graph sx that is the sum of the given functionsValeric and Valerko really want to watch the next Euro Championship game so they asked you to help them

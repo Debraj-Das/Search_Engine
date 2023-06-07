@@ -1,0 +1,9 @@
+Koxia, Mahiru and Winter Festival                    
+
+https://codeforces.com/problemset/problem/1770/H
+
+constructive algorithms
+
+3500
+
+Wow, what a big face!Kagura MahiruKoxia and Mahiru are enjoying the Winter Festival. The streets of the Winter Festival can be represented as a n \times n undirected grid graph. Formally, the set of vertices is \{(i,j) \; | \; 1 \leq i,j\leq n \} and two vertices (i_1,j_1) and (i_2,j_2) are connected by an edge if and only if |i_1-i_2|+|j_1-j_2|=1.  A network with size n = 3. Koxia and Mahiru are planning to visit The Winter Festival by traversing 2n routes. Although routes are not planned yet, the endpoints of the routes are already planned as follows:  In the i-th route, they want to start from vertex (1, i) and end at vertex (n, p_i), where p is a permutation of length n.  In the (i+n)-th route, they want to start from vertex (i, 1) and end at vertex (q_i, n), where q is a permutation of length n.   A network with size n = 3, points to be connected are shown in the same color for p = [3, 2, 1] and q = [3, 1, 2]. Your task is to find a routing scheme — 2n paths where each path connects the specified endpoints. Let's define the congestion of an edge as the number of times it is used (both directions combined) in the routing scheme. In order to ensure that Koxia and Mahiru won't get too bored because of traversing repeated edges, please find a routing scheme that minimizes the maximum congestion among all edges.  An example solution — the maximum congestion is 2, which is optimal in this case. 

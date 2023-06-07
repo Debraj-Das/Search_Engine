@@ -1,0 +1,9 @@
+Building an Amusement Park                    
+
+https://codeforces.com/problemset/problem/1575/B
+
+binary search
+
+2300
+
+Mr. Chanek lives in a city represented as a plane. He wants to build an amusement park in the shape of a circle of radius r. The circle must touch the origin (point (0, 0)).There are n bird habitats that can be a photo spot for the tourists in the park. The i-th bird habitat is at point p_i = (x_i, y_i). Find the minimum radius r of a park with at least k bird habitats inside. A point is considered to be inside the park if and only if the distance between p_i and the center of the park is less than or equal to the radius of the park. Note that the center and the radius of the park do not need to be integers.In this problem, it is guaranteed that the given input always has a solution with r \leq 2 \cdot 10^5.

@@ -1,0 +1,9 @@
+Spiral Maximum                    
+
+httpscodeforcescomproblemsetproblem173C
+
+brute force
+
+1900
+
+Lets consider a kk square divided into unit squares Please note that k3 and is odd Well paint squares starting from the upper left square in the following order first we move to the right then down then to the left then up then to the right again and so on We finish moving in some direction in one of two cases either weve reached the squares border or the square following after the next square is already painted We finish painting at the moment when we cannot move in any direction and paint a square The figure that consists of the painted squares is a spiral   The figure shows examples of spirals for k3579  You have an nm table each of its cells contains a number Lets consider all possible spirals formed by the table cells It means that we consider all spirals of any size that dont go beyond the borders of the table Lets find the sum of the numbers of the cells that form the spiral You have to find the maximum of those values among all spirals

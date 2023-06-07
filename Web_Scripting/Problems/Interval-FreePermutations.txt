@@ -1,0 +1,9 @@
+Interval-Free Permutations                    
+
+https://codeforces.com/problemset/problem/1089/I
+
+combinatorics
+
+2600
+
+Consider a permutation p_1, p_2, \dots p_n of integers from 1 to n. We call a sub-segment p_l, p_{l+1}, \dots, p_{r-1}, p_{r} of the permutation an interval if it is a reordering of some set of consecutive integers. For example, the permutation (6,7,1,8,5,3,2,4) has the intervals (6,7), (5,3,2,4), (3,2), and others. Each permutation has some trivial intervals — the full permutation itself and every single element. We call a permutation interval-free if it does not have non-trivial intervals. In other words, interval-free permutation does not have intervals of length between 2 and n - 1 inclusive. Your task is to count the number of interval-free permutations of length n modulo prime number p. 

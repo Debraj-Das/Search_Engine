@@ -1,0 +1,9 @@
+Special Permutation                    
+
+https://codeforces.com/problemset/problem/1352/G
+
+constructive algorithms
+
+1600
+
+A permutation of length n is an array p=[p_1,p_2,\dots,p_n], which contains every integer from 1 to n (inclusive) and, moreover, each number appears exactly once. For example, p=[3,1,4,2,5] is a permutation of length 5.For a given number n (n \ge 2), find a permutation p in which absolute difference (that is, the absolute value of difference) of any two neighboring (adjacent) elements is between 2 and 4, inclusive. Formally, find such permutation p that 2 \le |p_i - p_{i+1}| \le 4 for each i (1 \le i < n).Print any such permutation for the given integer n or determine that it does not exist.

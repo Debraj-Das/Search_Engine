@@ -1,0 +1,9 @@
+Between                    
+
+https://codeforces.com/problemset/problem/1815/C
+
+constructive algorithms
+
+2200
+
+You are given an integer n, as well as m pairs of integers (a_i,b_i), where 1\leq a_i , b_i \leq n, a_i \ne b_i.You want to construct a sequence satisfying the following requirements:  All elements in the sequence are integers between 1 and n.  There is exactly one element with value 1 in the sequence.  For each i (1 \le i \le m), between any two elements (on different positions) in the sequence with value a_i, there is at least one element with value b_i.  The sequence constructed has the maximum length among all possible sequences satisfying the above properties. Sometimes, it is possible that such a sequence can be arbitrarily long, in which case you should output "INFINITE". Otherwise, you should output "FINITE" and the sequence itself. If there are multiple possible constructions that yield the maximum length, output any.

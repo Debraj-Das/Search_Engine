@@ -1,0 +1,9 @@
+Hidden Fortress                    
+
+httpscodeforcescomproblemsetproblem1599H
+
+interactive
+
+2100
+
+This is an interactive problemAs part of your contribution in the Great Bubble War you have been tasked with finding the newly built enemy fortress The world you live in is a giant 109 times 109 grid with squares having both coordinates between 1 and 109 You know that the enemy base has the shape of a rectangle with the sides parallel to the sides of the grid The people of your world are extremely scared of being at the edge of the world so you know that the base doesnt contain any of the squares on the edges of the grid the x or y coordinate being 1 or 109 To help you locate the base you have been given a device that you can place in any square of the grid and it will tell you the manhattan distance to the closest square of the base The manhattan distance from square a b to square p q is calculated as apbq If you try to place the device inside the enemy base you will be captured by the enemy Because of this you need to make sure to never place the device inside the enemy base Unfortunately the device is powered by a battery and you cant recharge it This means that you can use the device at most 40 times 

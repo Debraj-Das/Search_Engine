@@ -1,0 +1,9 @@
+Ray Tracing                    
+
+httpscodeforcescomproblemsetproblem724C
+
+greedy
+
+1800
+
+There are k sensors located in the rectangular room of size nm meters The ith sensor is located at point xiyi All sensors are located at distinct points strictly inside the rectangle Opposite corners of the room are located at points 00 and nm Walls of the room are parallel to coordinate axesAt the moment 0 from the point 00 the laser ray is released in the direction of point 11 The ray travels with a speed of  meters per second Thus the ray will reach the point 11 in exactly one second after the startWhen the ray meets the wall its reflected by the rule that the angle of incidence is equal to the angle of reflection If the ray reaches any of the four corners it immediately stopsFor each sensor you have to determine the first moment of time when the ray will pass through the point where this sensor is located If the ray will never pass through this point print 1 for such sensors

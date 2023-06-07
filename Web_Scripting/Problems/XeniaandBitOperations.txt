@@ -1,0 +1,9 @@
+Xenia and Bit Operations                    
+
+httpscodeforcescomproblemsetproblem339D
+
+data structures
+
+1700
+
+Xenia the beginner programmer has a sequence a consisting of 2n nonnegative integers a1a2a2n Xenia is currently studying bit operations To better understand how they work Xenia decided to calculate some value v for aNamely it takes several iterations to calculate value v At the first iteration Xenia writes a new sequence a1ora2a3ora4a2n1ora2n consisting of 2n1 elements In other words she writes down the bitwise OR of adjacent elements of sequence a At the second iteration Xenia writes the bitwise exclusive OR of adjacent elements of the sequence obtained after the first iteration At the third iteration Xenia writes the bitwise OR of the adjacent elements of the sequence obtained after the second iteration And so on the operations of bitwise exclusive OR and bitwise OR alternate In the end she obtains a sequence consisting of one element and that element is vLets consider an example Suppose that sequence a1234 Then lets write down all the transformations 1234  1or233or47  3xor74 The result is v4You are given Xenias initial sequence But to calculate value v for a given sequence would be too easy so you are given additional m queries Each query is a pair of integers pb Query pb means that you need to perform the assignment apb After each query you need to print the new value v for the new sequence a

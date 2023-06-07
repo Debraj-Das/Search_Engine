@@ -1,0 +1,9 @@
+Test Data Generation                    
+
+httpscodeforcescomproblemsetproblem773F
+
+combinatorics
+
+3400
+
+Test data generation is not an easy task Often generating big random test cases is not enough to ensure thorough testing of solutions for correctnessFor example consider a problem from an old Codeforces round Its input format looks roughly as followsThe first line contains a single integer n 1nmaxn the size of the set The second line contains n distinct integers a1a2an 1aimaxa the elements of the set in increasing orderIf you dont pay attention to the problem solution it looks fairly easy to generate a good test case for this problem Let nmaxn take random distinct ai from 1 to maxa sort them Soon you understand that its not that easyHere is the actual problem solution Let g be the greatest common divisor of a1a2an Let xangn Then the correct solution outputs Alice if x is odd and Bob if x is evenConsider two wrong solutions to this problem which differ from the correct one only in the formula for calculating xThe first wrong solution calculates x as xang without subtracting nThe second wrong solution calculates x as xann without dividing by gA test case is interesting if it makes both wrong solutions output an incorrect answerGiven maxn maxa and q find the number of interesting test cases satisfying the constraints and output it modulo q

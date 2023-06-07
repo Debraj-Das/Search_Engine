@@ -1,0 +1,9 @@
+Minimum Integer                    
+
+https://codeforces.com/problemset/problem/1101/A
+
+math
+
+1000
+
+You are given q queries in the following form:Given three integers l_i, r_i and d_i, find minimum positive integer x_i such that it is divisible by d_i and it does not belong to the segment [l_i, r_i].Can you answer all the queries?Recall that a number x belongs to segment [l, r] if l \le x \le r.

@@ -1,0 +1,9 @@
+Permutation Weight (Hard Version)                    
+
+https://codeforces.com/problemset/problem/1685/D2
+
+constructive algorithms
+
+3500
+
+This is a hard version of the problem. The difference between the easy and hard versions is that in this version, you have to output the lexicographically smallest permutation with the smallest weight.You are given a permutation p_1, p_2, \ldots, p_n of integers from 1 to n.Let's define the weight of the permutation q_1, q_2, \ldots, q_n of integers from 1 to n as |q_1 - p_{q_{2}}| + |q_2 - p_{q_{3}}| + \ldots + |q_{n-1} - p_{q_{n}}| + |q_n - p_{q_{1}}|You want your permutation to be as lightweight as possible. Among the permutations q with the smallest possible weight, find the lexicographically smallest.Permutation a_1, a_2, \ldots, a_n is lexicographically smaller than permutation b_1, b_2, \ldots, b_n, if there exists some 1 \le i \le n such that a_j = b_j for all 1 \le j < i and a_i<b_i.

@@ -1,0 +1,9 @@
+The Teacher of Physical Education                    
+
+https://codeforces.com/problemset/problem/683/B
+
+*special problem
+
+1600
+
+n pupils came to Physical Education lesson. We know the name and the height of each pupil. Your task is to help the teacher of Physical Education to line up all pupils in non-decreasing order of their heights.

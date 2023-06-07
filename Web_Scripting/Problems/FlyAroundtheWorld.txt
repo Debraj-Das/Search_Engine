@@ -1,0 +1,9 @@
+Fly Around the World                    
+
+https://codeforces.com/problemset/problem/1517/H
+
+dp
+
+3500
+
+After hearing the story of Dr. Zhang, Wowo decides to plan his own flight around the world. He already chose n checkpoints in the world map. Due to the landform and the clouds, he cannot fly too high or too low. Formally, let b_i be the height of Wowo's aircraft at checkpoint i, x_i^-\le b_i\le x_i^+ should be satisfied for all integers i between 1 and n, where x_i^- and x_i^+ are given integers.The angle of Wowo's aircraft is also limited. For example, it cannot make a 90-degree climb. Formally, y_i^-\le b_i-b_{i-1}\le y_i^+ should be satisfied for all integers i between 2 and n, where y_i^- and y_i^+ are given integers.The final limitation is the speed of angling up or angling down. An aircraft should change its angle slowly for safety concerns. Formally, z_i^- \le (b_i - b_{i-1}) - (b_{i-1} - b_{i-2}) \le z_i^+ should be satisfied for all integers i between 3 and n, where z_i^- and z_i^+ are given integers.Taking all these into consideration, Wowo finds that the heights at checkpoints are too hard for him to choose. Please help Wowo decide whether there exists a sequence of real numbers b_1, \ldots, b_n satisfying all the contraints above.

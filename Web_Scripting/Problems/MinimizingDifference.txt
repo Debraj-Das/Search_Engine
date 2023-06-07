@@ -1,0 +1,9 @@
+Minimizing Difference                    
+
+https://codeforces.com/problemset/problem/1244/E
+
+binary search
+
+2000
+
+You are given a sequence a_1, a_2, \dots, a_n consisting of n integers.You may perform the following operation on this sequence: choose any element and either increase or decrease it by one.Calculate the minimum possible difference between the maximum element and the minimum element in the sequence, if you can perform the aforementioned operation no more than k times.

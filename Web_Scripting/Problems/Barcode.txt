@@ -1,0 +1,9 @@
+Barcode                    
+
+httpscodeforcescomproblemsetproblem225C
+
+dp
+
+1700
+
+Youve got an nm pixel picture Each pixel can be white or black Your task is to change the colors of as few pixels as possible to obtain a barcode pictureA picture is a barcode if the following conditions are fulfilled   All pixels in each column are of the same color  The width of each monochrome vertical line is at least x and at most y pixels In other words if we group all neighbouring columns of the pixels with equal color the size of each group can not be less than x or greater than y 

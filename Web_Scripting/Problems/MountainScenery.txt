@@ -1,0 +1,9 @@
+Mountain Scenery                    
+
+httpscodeforcescomproblemsetproblem218A
+
+brute force
+
+1100
+
+Little Bolek has found a picture with n mountain peaks painted on it The n painted peaks are represented by a nonclosed polyline consisting of 2n segments The segments go through 2n1 points with coordinates 1y1 2y2  2n1y2n1 with the ith segment connecting the point iyi and the point i1yi1 For any even i 2i2n the following condition holds yi1yi and yiyi1 We shall call a vertex of a polyline with an even x coordinate a mountain peak   The figure to the left shows the initial picture the figure to the right shows what the picture looks like after Boleks actions The affected peaks are marked red k  2  Bolek fancied a little mischief He chose exactly k mountain peaks rubbed out the segments that went through those peaks and increased each peaks height by one that is he increased the y coordinate of the corresponding points Then he painted the missing segments to get a new picture of mountain peaks Let us denote the points through which the new polyline passes on Boleks new picture as 1r1 2r2  2n1r2n1Given Boleks final picture restore the initial one

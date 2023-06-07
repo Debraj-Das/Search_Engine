@@ -1,0 +1,9 @@
+Avoid Rainbow Cycles                    
+
+https://codeforces.com/problemset/problem/1408/E
+
+data structures
+
+2400
+
+You are given m sets of integers A_1, A_2, \ldots, A_m; elements of these sets are integers between 1 and n, inclusive.There are two arrays of positive integers a_1, a_2, \ldots, a_m and b_1, b_2, \ldots, b_n. In one operation you can delete an element j from the set A_i and pay a_i + b_j coins for that.You can make several (maybe none) operations (some sets can become empty).After that, you will make an edge-colored undirected graph consisting of n vertices. For each set A_i you will add an edge (x, y) with color i for all x, y \in A_i and x < y. Some pairs of vertices can be connected with more than one edge, but such edges have different colors.You call a cycle i_1 \to e_1 \to i_2 \to e_2 \to \ldots \to i_k \to e_k \to i_1 (e_j is some edge connecting vertices i_j and i_{j+1} in this graph) rainbow if all edges on it have different colors.Find the minimum number of coins you should pay to get a graph without rainbow cycles.

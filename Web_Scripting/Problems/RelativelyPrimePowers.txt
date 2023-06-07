@@ -1,0 +1,9 @@
+Relatively Prime Powers                    
+
+https://codeforces.com/problemset/problem/1036/F
+
+combinatorics
+
+2400
+
+Consider some positive integer x. Its prime factorization will be of form x = 2^{k_1} \cdot 3^{k_2} \cdot 5^{k_3} \cdot \dotsLet's call x elegant if the greatest common divisor of the sequence k_1, k_2, \dots is equal to 1. For example, numbers 5 = 5^1, 12 = 2^2 \cdot 3, 72 = 2^3 \cdot 3^2 are elegant and numbers 8 = 2^3 (GCD = 3), 2500 = 2^2 \cdot 5^4 (GCD = 2) are not.Count the number of elegant integers from 2 to n.Each testcase contains several values of n, for each of them you are required to solve the problem separately.

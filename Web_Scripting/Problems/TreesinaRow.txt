@@ -1,0 +1,9 @@
+Trees in a Row                    
+
+httpscodeforcescomproblemsetproblem402B
+
+brute force
+
+1400
+
+The Queen of England has n trees growing in a row in her garden At that the ith 1in tree from the left has height ai meters Today the Queen decided to update the scenery of her garden She wants the trees heights to meet the condition for all i 1in ai1aik where k is the number the Queen choseUnfortunately the royal gardener is not a machine and he cannot fulfill the desire of the Queen instantly In one minute the gardener can either decrease the height of a tree to any positive integer height or increase the height of a tree to any positive integer height How should the royal gardener act to fulfill a whim of Her Majesty in the minimum number of minutes

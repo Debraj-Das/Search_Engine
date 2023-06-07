@@ -1,0 +1,9 @@
+Polynom                    
+
+httpscodeforcescomproblemsetproblem100F
+
+special problem
+
+1800
+
+You are given a polynom in form pxxa1xa2 xan Write Pike program to print it in a standard form pxxnb1xn1bn1xbn You should write each addend in form CXK for example 5X8Please write the polynom in the shortest way so you should skip unnecessary terms some terms CXK should be reduced or even omitted Look for the samples for clarification

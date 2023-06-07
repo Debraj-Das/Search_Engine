@@ -1,0 +1,9 @@
+Character Swap (Hard Version)                    
+
+https://codeforces.com/problemset/problem/1243/B2
+
+strings
+
+1600
+
+This problem is different from the easy version. In this version Ujan makes at most 2n swaps. In addition, k \le 1000, n \le 50 and it is necessary to print swaps themselves. You can hack this problem if you solve it. But you can hack the previous problem only if you solve both problems.After struggling and failing many times, Ujan decided to try to clean up his house again. He decided to get his strings in order first.Ujan has two distinct strings s and t of length n consisting of only of lowercase English characters. He wants to make them equal. Since Ujan is lazy, he will perform the following operation at most 2n times: he takes two positions i and j (1 \le i,j \le n, the values i and j can be equal or different), and swaps the characters s_i and t_j.Ujan's goal is to make the strings s and t equal. He does not need to minimize the number of performed operations: any sequence of operations of length 2n or shorter is suitable.

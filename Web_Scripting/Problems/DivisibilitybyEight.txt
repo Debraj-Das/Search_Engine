@@ -1,0 +1,9 @@
+Divisibility by Eight                    
+
+https://codeforces.com/problemset/problem/550/C
+
+brute force
+
+1500
+
+You are given a non-negative integer n, its decimal representation consists of at most 100 digits and doesn't contain leading zeroes.Your task is to determine if it is possible in this case to remove some of the digits (possibly not remove any digit at all) so that the result contains at least one digit, forms a non-negative integer, doesn't have leading zeroes and is divisible by 8. After the removing, it is forbidden to rearrange the digits.If a solution exists, you should print it.

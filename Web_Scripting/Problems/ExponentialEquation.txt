@@ -1,0 +1,9 @@
+Exponential Equation                    
+
+https://codeforces.com/problemset/problem/1787/A
+
+constructive algorithms
+
+800
+
+You are given an integer n.Find any pair of integers (x,y) (1\leq x,y\leq n) such that x^y\cdot y+y^x\cdot x = n.

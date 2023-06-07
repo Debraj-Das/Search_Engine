@@ -1,0 +1,9 @@
+Eight Point Sets                    
+
+httpscodeforcescomproblemsetproblem334B
+
+sortings
+
+1400
+
+Gerald is very particular to eight point sets He thinks that any decent eight point set must consist of all pairwise intersections of three distinct integer vertical straight lines and three distinct integer horizontal straight lines except for the average of these nine points In other words there must be three integers x1x2x3 and three more integers y1y2y3 such that x1x2x3 y1y2y3 and the eight point set consists of all points xiyj 1ij3 except for point x2y2You have a set of eight points Find out if Gerald can use this set

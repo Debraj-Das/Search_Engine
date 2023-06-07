@@ -1,0 +1,9 @@
+Pebbles and Beads                    
+
+https://codeforces.com/problemset/problem/1735/F
+
+data structures
+
+2900
+
+There are two currencies: pebbles and beads. Initially you have a pebbles, b beads.There are n days, each day you can exchange one currency for another at some exchange rate.On day i, you can exchange -p_i \leq x \leq p_i pebbles for -q_i \leq y \leq q_i beads or vice versa. It's allowed not to perform an exchange at all. Meanwhile, if you perform an exchange, the proportion x \cdot q_i = -y \cdot p_i must be fulfilled. Fractional exchanges are allowed.You can perform no more than one such exchange in one day. The numbers of pebbles and beads you have must always remain non-negative.Please solve the following n problems independently: for each day i, output the maximum number of pebbles that you can have at the end of day i if you perform exchanges optimally.

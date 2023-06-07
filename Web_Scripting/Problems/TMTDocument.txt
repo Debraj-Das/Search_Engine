@@ -1,0 +1,9 @@
+TMT Document                    
+
+https://codeforces.com/problemset/problem/1509/B
+
+greedy
+
+1100
+
+The student council has a shared document file. Every day, some members of the student council write the sequence TMT (short for Towa Maji Tenshi) in it.However, one day, the members somehow entered the sequence into the document at the same time, creating a jumbled mess. Therefore, it is Suguru Doujima's task to figure out whether the document has malfunctioned. Specifically, he is given a string of length n whose characters are all either T or M, and he wants to figure out if it is possible to partition it into some number of disjoint subsequences, all of which are equal to TMT. That is, each character of the string should belong to exactly one of the subsequences.A string a is a subsequence of a string b if a can be obtained from b by deletion of several (possibly, zero) characters.

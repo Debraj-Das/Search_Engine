@@ -1,0 +1,9 @@
+Illusions of the Desert                    
+
+https://codeforces.com/problemset/problem/1575/I
+
+data structures
+
+2300
+
+Chanek Jones is back, helping his long-lost relative Indiana Jones, to find a secret treasure in a maze buried below a desert full of illusions.The map of the labyrinth forms a tree with n rooms numbered from 1 to n and n - 1 tunnels connecting them such that it is possible to travel between each pair of rooms through several tunnels.The i-th room (1 \leq i \leq n) has a_i illusion rate. To go from the x-th room to the y-th room, there must exist a tunnel between x and y, and it takes \max(|a_x + a_y|, |a_x - a_y|) energy. |z| denotes the absolute value of z.To prevent grave robbers, the maze can change the illusion rate of any room in it. Chanek and Indiana would ask q queries.There are two types of queries to be done:  1\ u\ c — The illusion rate of the x-th room is changed to c (1 \leq u \leq n, 0 \leq |c| \leq 10^9).  2\ u\ v — Chanek and Indiana ask you the minimum sum of energy needed to take the secret treasure at room v if they are initially at room u (1 \leq u, v \leq n). Help them, so you can get a portion of the treasure!

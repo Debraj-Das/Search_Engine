@@ -1,0 +1,9 @@
+New Language                    
+
+httpscodeforcescomproblemsetproblem568C
+
+2sat
+
+2600
+
+Living in Byteland was good enough to begin with but the good king decided to please his subjects and to introduce a national language He gathered the best of wise men and sent an expedition to faraway countries so that they would find out all about how a language should be designedAfter some time the wise men returned from the trip even wiser They locked up for six months in the dining room after which they said to the king there are a lot of different languages but almost all of them have letters that are divided into vowels and consonants in a word vowels and consonants must be combined correctlyThere are very many rules all of them have exceptions but our language will be deprived of such defects We propose to introduce a set of formal rules of combining vowels and consonants and include in the language all the words that satisfy themThe rules of composing words are The letters are divided into vowels and consonants in some certain way All words have a length of exactly n There are m rules of the form pos1t1pos2t2 Each rule is if the position pos1 has a letter of type t1 then the position pos2 has a letter of type t2You are given some string s of length n it is not necessarily a correct word of the new language Among all the words of the language that lexicographically not smaller than the string s find the minimal one in lexicographic order

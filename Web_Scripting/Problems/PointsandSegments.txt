@@ -1,0 +1,9 @@
+Points and Segments                    
+
+httpscodeforcescomproblemsetproblem429E
+
+graphs
+
+3000
+
+Iahub isnt well prepared on geometry problems but he heard that this year there will be a lot of geometry problems on the IOI selection camp Scared Iahub locked himself in the basement and started thinking of new problems of this kind One of them is the followingIahub wants to draw n distinct segments liri on the OX axis He can draw each segment with either red or blue The drawing is good if and only if the following requirement is met for each point x of the OX axis consider all the segments that contains point x suppose that rx red segments and bx blue segments contain point x for each point x inequality rxbx1 must be satisfiedA segment lr contains a point x if and only if lxrIahub gives you the starting and ending points of all the segments You have to find any good drawing for him

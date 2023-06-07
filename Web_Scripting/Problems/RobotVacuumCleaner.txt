@@ -1,0 +1,9 @@
+Robot Vacuum Cleaner                    
+
+httpscodeforcescomproblemsetproblem922D
+
+greedy
+
+1800
+
+Pushok the dog has been chasing Imp for a few hours already  Fortunately Imp knows that Pushok is afraid of a robot vacuum cleaner While moving the robot generates a string t consisting of letters s and h that produces a lot of noise We define noise of string t as the number of occurrences of string sh as a subsequence in it in other words the number of such pairs ij that ij and  and  The robot is off at the moment Imp knows that it has a sequence of strings ti in its memory and he can arbitrary change their order When the robot is started it generates the string t as a concatenation of these strings in the given order The noise of the resulting string equals the noise of this concatenationHelp Imp to find the maximum noise he can achieve by changing the order of the strings

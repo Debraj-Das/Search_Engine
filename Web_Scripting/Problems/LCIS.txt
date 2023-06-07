@@ -1,0 +1,9 @@
+LCIS                    
+
+httpscodeforcescomproblemsetproblem10D
+
+dp
+
+2800
+
+This problem differs from one which was on the online contestThe sequence a1a2an is called increasing if aiai1 for inThe sequence s1s2sk is called the subsequence of the sequence a1a2an if there exist such a set of indexes 1i1i2ikn that aijsj In other words the sequence s can be derived from the sequence a by crossing out some elementsYou are given two sequences of integer numbers You are to find their longest common increasing subsequence ie an increasing sequence of maximum length that is the subsequence of both sequences

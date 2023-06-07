@@ -1,0 +1,9 @@
+Replace and Keep Sorted                    
+
+https://codeforces.com/problemset/problem/1485/B
+
+dp
+
+1200
+
+Given a positive integer k, two arrays are called k-similar if:  they are strictly increasing;  they have the same length;  all their elements are positive integers between 1 and k (inclusive);  they differ in exactly one position. You are given an integer k, a strictly increasing array a and q queries. For each query, you are given two integers l_i \leq r_i. Your task is to find how many arrays b exist, such that b is k-similar to array [a_{l_i},a_{l_i+1}\ldots,a_{r_i}]. 

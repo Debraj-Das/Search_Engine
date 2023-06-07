@@ -1,0 +1,9 @@
+Paint Tree                    
+
+https://codeforces.com/problemset/problem/196/C
+
+constructive algorithms
+
+2200
+
+You are given a tree with n vertexes and n points on a plane, no three points lie on one straight line.Your task is to paint the given tree on a plane, using the given points as vertexes. That is, you should correspond each vertex of the tree to exactly one point and each point should correspond to a vertex. If two vertexes of the tree are connected by an edge, then the corresponding points should have a segment painted between them. The segments that correspond to non-adjacent edges, should not have common points. The segments that correspond to adjacent edges should have exactly one common point.

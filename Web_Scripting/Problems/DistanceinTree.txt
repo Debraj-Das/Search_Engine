@@ -1,0 +1,9 @@
+Distance in Tree                    
+
+https://codeforces.com/problemset/problem/161/D
+
+dfs and similar
+
+1800
+
+A tree is a connected graph that doesn't contain any cycles.The distance between two vertices of a tree is the length (in edges) of the shortest path between these vertices.You are given a tree with n vertices and a positive number k. Find the number of distinct pairs of the vertices which have a distance of exactly k between them. Note that pairs (v, u) and (u, v) are considered to be the same pair.

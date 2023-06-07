@@ -1,0 +1,9 @@
+Next Round                    
+
+httpscodeforcescomproblemsetproblem158A
+
+special problem
+
+800
+
+Contestant who earns a score equal to or greater than the kth place finishers score will advance to the next round as long as the contestant earns a positive score  an excerpt from contest rulesA total of n participants took part in the contest nk and you already know their scores Calculate how many participants will advance to the next round

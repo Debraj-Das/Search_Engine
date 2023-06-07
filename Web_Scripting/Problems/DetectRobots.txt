@@ -1,0 +1,9 @@
+Detect Robots                    
+
+https://codeforces.com/problemset/problem/1056/H
+
+data structures
+
+3200
+
+You successfully found poor Arkady near the exit of the station you've perfectly predicted. You sent him home on a taxi and suddenly came up with a question.There are n crossroads in your city and several bidirectional roads connecting some of them. A taxi ride is a path from some crossroads to another one without passing the same crossroads twice. You have a collection of rides made by one driver and now you wonder if this driver can be a robot or they are definitely a human.You think that the driver can be a robot if for every two crossroads a and b the driver always chooses the same path whenever he drives from a to b. Note that a and b here do not have to be the endpoints of a ride and that the path from b to a can be different. On the contrary, if the driver ever has driven two different paths from a to b, they are definitely a human.Given the system of roads and the description of all rides available to you, determine if the driver can be a robot or not.

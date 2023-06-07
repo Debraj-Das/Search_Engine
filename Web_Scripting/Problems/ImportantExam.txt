@@ -1,0 +1,9 @@
+Important Exam                    
+
+https://codeforces.com/problemset/problem/1201/A
+
+implementation
+
+900
+
+A class of students wrote a multiple-choice test.There are n students in the class. The test had m questions, each of them had 5 possible answers (A, B, C, D or E). There is exactly one correct answer for each question. The correct answer for question i worth a_i points. Incorrect answers are graded with zero points.The students remember what answers they gave on the exam, but they don't know what are the correct answers. They are very optimistic, so they want to know what is the maximum possible total score of all students in the class. 

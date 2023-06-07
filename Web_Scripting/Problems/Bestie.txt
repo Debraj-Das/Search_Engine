@@ -1,0 +1,9 @@
+Bestie                    
+
+https://codeforces.com/problemset/problem/1732/A
+
+brute force
+
+1000
+
+You are given an array a consisting of n integers a_1, a_2, \ldots, a_n. Friends asked you to make the greatest common divisor (GCD) of all numbers in the array equal to 1. In one operation, you can do the following: Select an arbitrary index in the array 1 \leq i \leq n; Make a_i = \gcd(a_i, i), where \gcd(x, y) denotes the GCD of integers x and y. The cost of such an operation is n - i + 1.You need to find the minimum total cost of operations we need to perform so that the GCD of the all array numbers becomes equal to 1.

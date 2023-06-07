@@ -1,0 +1,9 @@
+Fair Share                    
+
+https://codeforces.com/problemset/problem/1634/E
+
+constructive algorithms
+
+2400
+
+Even a cat has things it can do that AI cannot.— Fei-Fei LiYou are given m arrays of positive integers. Each array is of even length.You need to split all these integers into two equal multisets L and R, that is, each element of each array should go into one of two multisets (but not both). Additionally, for each of the m arrays, exactly half of its elements should go into L, and the rest should go into R.Give an example of such a division or determine that no such division exists.

@@ -1,0 +1,9 @@
+Carpeting the Room                    
+
+https://codeforces.com/problemset/problem/100/A
+
+*special problem
+
+1100
+
+Soroush's room is a square with side length n. Before this contest he bought k fine Persian carpets to carpet his room for celebrating the 100th contest on his favorite site. Each Persian carpet is a square of side length n1.Soroush wants to cover all the area of his room. Carpets can be put over each other but it is not allowed to rotate the carpets. Can Soroush carpet his room completely?

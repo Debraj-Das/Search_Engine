@@ -1,0 +1,9 @@
+Maximum Distributed Tree                    
+
+https://codeforces.com/problemset/problem/1401/D
+
+dfs and similar
+
+1800
+
+You are given a tree that consists of n nodes. You should label each of its n-1 edges with an integer in such way that satisfies the following conditions:   each integer must be greater than 0;  the product of all n-1 numbers should be equal to k;  the number of 1-s among all n-1 integers must be minimum possible. Let's define f(u,v) as the sum of the numbers on the simple path from node u to node v. Also, let \sum\limits_{i=1}^{n-1} \sum\limits_{j=i+1}^n f(i,j) be a distribution index of the tree.Find the maximum possible distribution index you can get. Since answer can be too large, print it modulo 10^9 + 7.In this problem, since the number k can be large, the result of the prime factorization of k is given instead.

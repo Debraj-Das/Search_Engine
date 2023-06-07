@@ -1,0 +1,9 @@
+Tree Infection                    
+
+https://codeforces.com/problemset/problem/1665/C
+
+binary search
+
+1600
+
+A tree is a connected graph without cycles. A rooted tree has a special vertex called the root. The parent of a vertex v (different from root) is the previous to v vertex on the shortest path from the root to the vertex v. Children of the vertex v are all vertices for which v is the parent.You are given a rooted tree with n vertices. The vertex 1 is the root. Initially, all vertices are healthy.Each second you do two operations, the spreading operation and, after that, the injection operation:   Spreading: for each vertex v, if at least one child of v is infected, you can spread the disease by infecting at most one other child of v of your choice.  Injection: you can choose any healthy vertex and infect it. This process repeats each second until the whole tree is infected. You need to find the minimal number of seconds needed to infect the whole tree.

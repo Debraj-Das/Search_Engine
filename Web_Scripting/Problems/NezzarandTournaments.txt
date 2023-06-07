@@ -1,0 +1,9 @@
+Nezzar and Tournaments                    
+
+https://codeforces.com/problemset/problem/1477/E
+
+data structures
+
+3300
+
+In the famous Oh-Suit-United tournament, two teams are playing against each other for the grand prize of precious pepper points.The first team consists of n players, and the second team consists of m players. Each player has a potential: the potential of the i-th player in the first team is a_i, and the potential of the i-th player in the second team is b_i.In the tournament, all players will be on the stage in some order. There will be a scoring device, initially assigned to an integer k, which will be used to value the performance of all players.The scores for all players will be assigned in the order they appear on the stage. Let the potential of the current player be x, and the potential of the previous player be y (y equals x for the first player). Then, x-y is added to the value in the scoring device, Afterwards, if the value in the scoring device becomes negative, the value will be reset to 0. Lastly, the player's score is assigned to the current value on the scoring device. The score of a team is the sum of the scores of all its members.As an insane fan of the first team, Nezzar desperately wants the biggest win for the first team. He now wonders what is the maximum difference between scores of the first team and the second team.Formally, let the score of the first team be score_f and the score of the second team be score_s. Nezzar wants to find the maximum value of score_f - score_s over all possible orders of players on the stage.However, situation often changes and there are q events that will happen. There are three types of events:  1 pos x — change a_{pos} to x;  2 pos x — change b_{pos} to x;  3 x — tournament is held with k = x and Nezzar wants you to compute the maximum value of score_f - score_s. Can you help Nezzar to answer the queries of the third type?

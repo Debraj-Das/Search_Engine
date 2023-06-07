@@ -1,0 +1,9 @@
+Two 0-1 Sequences                    
+
+https://codeforces.com/problemset/problem/1704/A
+
+constructive algorithms
+
+800
+
+AquaMoon has two binary sequences a and b, which contain only 0 and 1. AquaMoon can perform the following two operations any number of times (a_1 is the first element of a, a_2 is the second element of a, and so on): Operation 1: if a contains at least two elements, change a_2 to \operatorname{min}(a_1,a_2), and remove the first element of a. Operation 2: if a contains at least two elements, change a_2 to \operatorname{max}(a_1,a_2), and remove the first element of a.Note that after a removal of the first element of a, the former a_2 becomes the first element of a, the former a_3 becomes the second element of a and so on, and the length of a reduces by one.Determine if AquaMoon can make a equal to b by using these operations.

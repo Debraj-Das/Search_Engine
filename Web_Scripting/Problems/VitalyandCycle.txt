@@ -1,0 +1,9 @@
+Vitaly and Cycle                    
+
+https://codeforces.com/problemset/problem/557/D
+
+combinatorics
+
+2000
+
+After Vitaly was expelled from the university, he became interested in the graph theory.Vitaly especially liked the cycles of an odd length in which each vertex occurs at most once.Vitaly was wondering how to solve the following problem. You are given an undirected graph consisting of n vertices and m edges, not necessarily connected, without parallel edges and loops. You need to find t — the minimum number of edges that must be added to the given graph in order to form a simple cycle of an odd length, consisting of more than one vertex. Moreover, he must find w — the number of ways to add t edges in order to form a cycle of an odd length (consisting of more than one vertex). It is prohibited to add loops or parallel edges.Two ways to add edges to the graph are considered equal if they have the same sets of added edges.Since Vitaly does not study at the university, he asked you to help him with this task.

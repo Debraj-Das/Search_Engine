@@ -1,0 +1,9 @@
+Anti-Fibonacci Permutation                    
+
+https://codeforces.com/problemset/problem/1644/B
+
+brute force
+
+800
+
+Let's call a permutation p of length n anti-Fibonacci if the condition p_{i-2} + p_{i-1} \ne p_i holds for all i (3 \le i \le n). Recall that the permutation is the array of length n which contains each integer from 1 to n exactly once.Your task is for a given number n print n distinct anti-Fibonacci permutations of length n.

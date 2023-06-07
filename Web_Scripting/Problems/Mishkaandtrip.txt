@@ -1,0 +1,9 @@
+Mishka and trip                    
+
+httpscodeforcescomproblemsetproblem703B
+
+implementation
+
+1400
+
+Little Mishka is a great traveller and she visited many countries After thinking about where to travel this time she chose XXX beautiful but littleknown northern countryHere are some interesting facts about XXX  XXX consists of n cities k of whose just imagine are capital cities  All of cities in the country are beautiful but each is beautiful in its own way Beauty value of ith city equals to ci  All the cities are consecutively connected by the roads including 1st and nth city forming a cyclic route 12n1 Formally for every 1in there is a road between ith and i1th city and another one between 1st and nth city  Each capital city is connected with each other city directly by the roads Formally if city x is a capital city then for every 1inix there is a road between cities x and i  There is at most one road between any two cities  Price of passing a road directly depends on beauty values of cities it connects Thus if there is a road between cities i and j price of passing it equals cicjMishka started to gather her things for a trip but didnt still decide which route to follow and thus she asked you to help her determine summary price of passing each of the roads in XXX Formally for every pair of cities a and b ab such that there is a road between a and b you are to find sum of products cacb Will you help her

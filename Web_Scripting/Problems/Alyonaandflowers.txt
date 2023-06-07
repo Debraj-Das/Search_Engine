@@ -1,0 +1,9 @@
+Alyona and flowers                    
+
+httpscodeforcescomproblemsetproblem740B
+
+constructive algorithms
+
+1200
+
+Little Alyona is celebrating Happy Birthday Her mother has an array of n flowers Each flower has some mood the mood of ith flower is ai The mood can be positive zero or negativeLets define a subarray as a segment of consecutive flowers The mother suggested some set of subarrays Alyona wants to choose several of the subarrays suggested by her mother After that each of the flowers will add to the girls happiness its mood multiplied by the number of chosen subarrays the flower is inFor example consider the case when the mother has 5 flowers and their moods are equal to 12134 Suppose the mother suggested subarrays 12 34 13 1213 Then if the girl chooses the third and the fourth subarrays then   the first flower adds 111 to the girls happiness because he is in one of chosen subarrays  the second flower adds 212 because he is in one of chosen subarrays  the third flower adds 122 because he is in two of chosen subarrays  the fourth flower adds 326 because he is in two of chosen subarrays  the fifth flower adds 400 because he is in no chosen subarrays Thus in total 122607 is added to the girls happiness Alyona wants to choose such subarrays from those suggested by the mother that the value added to her happiness would be as large as possible Help her do thisAlyona can choose any number of the subarrays even 0 or all suggested by her mother

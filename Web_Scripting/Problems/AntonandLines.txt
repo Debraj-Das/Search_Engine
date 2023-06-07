@@ -1,0 +1,9 @@
+Anton and Lines                    
+
+httpscodeforcescomproblemsetproblem593B
+
+geometry
+
+1600
+
+The teacher gave Anton a large geometry homework but he didnt do it as usual as he participated in a regular round on Codeforces In the task he was given a set of n lines defined by the equations ykixbi It was necessary to determine whether there is at least one point of intersection of two of these lines that lays strictly inside the strip between x1x2 In other words is it true that there are 1ijn and xy such that   ykixbi that is point xy belongs to the line number i  ykjxbj that is point xy belongs to the line number j  x1xx2 that is point xy lies inside the strip bounded by x1x2 You cant leave Anton in trouble can you Write a program that solves the given task

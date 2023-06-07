@@ -1,0 +1,9 @@
+Two Divisors                    
+
+https://codeforces.com/problemset/problem/1366/D
+
+constructive algorithms
+
+2000
+
+You are given n integers a_1, a_2, \dots, a_n.For each a_i find its two divisors d_1 > 1 and d_2 > 1 such that \gcd(d_1 + d_2, a_i) = 1 (where \gcd(a, b) is the greatest common divisor of a and b) or say that there is no such pair.

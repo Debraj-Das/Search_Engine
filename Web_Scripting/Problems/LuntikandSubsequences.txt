@@ -1,0 +1,9 @@
+Luntik and Subsequences                    
+
+https://codeforces.com/problemset/problem/1582/B
+
+combinatorics
+
+900
+
+Luntik came out for a morning stroll and found an array a of length n. He calculated the sum s of the elements of the array (s= \sum_{i=1}^{n} a_i). Luntik calls a subsequence of the array a nearly full if the sum of the numbers in that subsequence is equal to s-1.Luntik really wants to know the number of nearly full subsequences of the array a. But he needs to come home so he asks you to solve that problem!A sequence x is a subsequence of a sequence y if x can be obtained from y by deletion of several (possibly, zero or all) elements.

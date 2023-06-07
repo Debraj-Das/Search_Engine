@@ -1,0 +1,9 @@
+Aztec Catacombs                    
+
+https://codeforces.com/problemset/problem/925/D
+
+constructive algorithms
+
+2600
+
+Indiana Jones found ancient Aztec catacombs containing a golden idol. The catacombs consists of n caves. Each pair of caves is connected with a two-way corridor that can be opened or closed. The entrance to the catacombs is in the cave 1, the idol and the exit are in the cave n.When Indiana goes from a cave x to a cave y using an open corridor, all corridors connected to the cave x change their state: all open corridors become closed, all closed corridors become open. Indiana wants to go from cave 1 to cave n going through as small number of corridors as possible. Help him find the optimal path, or determine that it is impossible to get out of catacombs.

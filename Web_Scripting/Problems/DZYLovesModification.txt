@@ -1,0 +1,9 @@
+DZY Loves Modification                    
+
+httpscodeforcescomproblemsetproblem446B
+
+brute force
+
+2000
+
+As we know DZY loves playing games One day DZY decided to play with a nm matrix To be more precise he decided to modify the matrix with exactly k operationsEach modification is one of the following  Pick some row of the matrix and decrease each element of the row by p This operation brings to DZY the value of pleasure equal to the sum of elements of the row before the decreasing  Pick some column of the matrix and decrease each element of the column by p This operation brings to DZY the value of pleasure equal to the sum of elements of the column before the decreasing DZY wants to know what is the largest total value of pleasure he could get after performing exactly k modifications Please help him to calculate this value

@@ -1,0 +1,9 @@
+The Beach                    
+
+https://codeforces.com/problemset/problem/1753/D
+
+constructive algorithms
+
+2400
+
+Andrew loves the sea. That's why, at the height of the summer season, he decided to go to the beach, taking a sunbed with him to sunbathe.The beach is a rectangular field with n rows and m columns. Some cells of the beach are free, some have roads, stones, shops and other non-movable objects. Some of two adjacent along the side cells can have sunbeds located either horizontally or vertically.Andrew hopes to put his sunbed somewhere, but that's a bad luck, there may no longer be free places for him! That's why Andrew asked you to help him to find a free place for his sunbed. Andrew's sunbed also should be places on two adjacent cells. If there are no two adjacent free cells, then in order to free some place for a sunbed, you will have to disturb other tourists. You can do the following actions:  Come to some sunbed and, after causing p units of discomfort to its owner, lift the sunbed by one of its sides and rotate it by 90 degrees. One half of the sunbed must remain in the same cell and another half of the sunbed must move to the free cell. At the same time, anything could be on the way of a sunbed during the rotation .  Rotation of the sunbed by 90 degrees around cell (1, 2).  Come to some sunbed and, after causing q units of discomfort to its owner, shift the sunbed along its long side by one cell. One half of the sunbed must move to the place of another, and another — to the free cell.  Shift of the sunbed by one cell to the right. In any moment each sunbed occupies two adjacent free cells. You cannot move more than one sunbed at a time.Help Andrew to free a space for his sunbed, causing the minimum possible number of units of discomfort to other tourists, or detect that it is impossible.

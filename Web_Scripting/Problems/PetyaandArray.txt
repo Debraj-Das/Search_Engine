@@ -1,0 +1,9 @@
+Petya and Array                    
+
+https://codeforces.com/problemset/problem/1042/D
+
+data structures
+
+1800
+
+Petya has an array a consisting of n integers. He has learned partial sums recently, and now he can calculate the sum of elements on any segment of the array really fast. The segment is a non-empty sequence of elements standing one next to another in the array.Now he wonders what is the number of segments in his array with the sum less than t. Help Petya to calculate this number.More formally, you are required to calculate the number of pairs l, r (l \le r) such that a_l + a_{l+1} + \dots + a_{r-1} + a_r < t.

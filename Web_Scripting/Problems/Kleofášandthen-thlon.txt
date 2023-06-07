@@ -1,0 +1,9 @@
+Kleofáš and the nthlon                    
+
+httpscodeforcescomproblemsetproblem601C
+
+dp
+
+2300
+
+Kleofáš is participating in an nthlon  a tournament consisting of n different competitions in n different disciplines numbered 1 through n There are m participants in the nthlon and each of them participates in all competitionsIn each of these n competitions the participants are given ranks from 1 to m in such a way that no two participants are given the same rank  in other words the ranks in each competition form a permutation of numbers from 1 to m The score of a participant in a competition is equal to hisher rank in itThe overall score of each participant is computed as the sum of that participants scores in all competitionsThe overall rank of each participant is equal to 1k where k is the number of participants with strictly smaller overall scoreThe nthlon is over now but the results havent been published yet Kleofáš still remembers his ranks in each particular competition however he doesnt remember anything about how well the other participants did Therefore Kleofáš would like to know his expected overall rankAll competitors are equally good at each discipline so all rankings permutations of ranks of everyone except Kleofáš in each competition are equiprobable

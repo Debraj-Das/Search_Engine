@@ -1,0 +1,9 @@
+Wrap Around                    
+
+https://codeforces.com/problemset/problem/1038/F
+
+dp
+
+2900
+
+You are given a binary string s.Find the number of distinct cyclical binary strings of length n which contain s as a substring.The cyclical string t contains s as a substring if there is some cyclical shift of string t, such that s is a substring of this cyclical shift of t.For example, the cyclical string "000111" contains substrings "001", "01110" and "10", but doesn't contain "0110" and "10110".Two cyclical strings are called different if they differ from each other as strings. For example, two different strings, which differ from each other by a cyclical shift, are still considered different cyclical strings.

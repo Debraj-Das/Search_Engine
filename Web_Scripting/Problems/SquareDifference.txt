@@ -1,0 +1,9 @@
+Square Difference                    
+
+https://codeforces.com/problemset/problem/1033/B
+
+math
+
+1100
+
+Alice has a lovely piece of cloth. It has the shape of a square with a side of length a centimeters. Bob also wants such piece of cloth. He would prefer a square with a side of length b centimeters (where b < a). Alice wanted to make Bob happy, so she cut the needed square out of the corner of her piece and gave it to Bob. Now she is left with an ugly L shaped cloth (see pictures below).Alice would like to know whether the area of her cloth expressed in square centimeters is prime. Could you help her to determine it?

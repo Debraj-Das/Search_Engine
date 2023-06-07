@@ -1,0 +1,9 @@
+Factorial                    
+
+https://codeforces.com/problemset/problem/64/A
+
+*special problem
+
+1300
+
+Print the factorial of the given integer number n. The factorial of n is equal to 1·2·...·n.

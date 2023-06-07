@@ -1,0 +1,9 @@
+Co-prime Array                    
+
+https://codeforces.com/problemset/problem/660/A
+
+greedy
+
+1200
+
+You are given an array of n elements, you must make it a co-prime array in as few moves as possible.In each move you can insert any positive integral number you want not greater than 109 in any place in the array.An array is co-prime if any two adjacent numbers of it are co-prime.In the number theory, two integers a and b are said to be co-prime if the only positive integer that divides both of them is 1.

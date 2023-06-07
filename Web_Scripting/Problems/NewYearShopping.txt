@@ -1,0 +1,9 @@
+New Year Shopping                    
+
+httpscodeforcescomproblemsetproblem500F
+
+divide and conquer
+
+2700
+
+Dohyun is running a grocery store He sells n items numbered by integers from 1 to n The ith 1in of them costs ci dollars and if I buy it my happiness increases by hi Each item can be displayed only for p units of time because of freshness As Dohyun displays the ith item at time ti the customers can buy the ith item only from time ti to time tip1 inclusively Also each customer cannot buy the same item more than onceId like to visit Dohyuns grocery store and buy some items for the New Year Party and maximize my happiness Because I am a really busy person I can visit the store only once and for very short period of time In other words if I visit the store at time t I can only buy the items available at time t But I can buy as many items as possible if the budget holds I cant buy same item several times due to store rules It is not necessary to use the whole budgetI made a list of q pairs of integers ajbj which means I may visit the store at time aj and spend at most bj dollars at the store For each pair Id like to know the maximum happiness I can obtain But there are so many pairs that I cant handle them Can you help me

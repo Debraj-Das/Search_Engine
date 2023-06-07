@@ -1,0 +1,9 @@
+Divide and Conquer                    
+
+https://codeforces.com/problemset/problem/1762/A
+
+greedy
+
+800
+
+An array b is good if the sum of elements of b is even. You are given an array a consisting of n positive integers. In one operation, you can select an index i and change a_i := \lfloor \frac{a_i}{2} \rfloor. ^\daggerFind the minimum number of operations (possibly 0) needed to make a good. It can be proven that it is always possible to make a good.^\dagger \lfloor x \rfloor denotes the floor function — the largest integer less than or equal to x. For example, \lfloor 2.7 \rfloor = 2, \lfloor \pi \rfloor = 3 and \lfloor 5 \rfloor =5.

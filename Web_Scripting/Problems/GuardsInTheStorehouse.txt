@@ -1,0 +1,9 @@
+Guards In The Storehouse                    
+
+httpscodeforcescomproblemsetproblem845F
+
+bitmasks
+
+2500
+
+Polycarp owns a shop in the capital of Berland Recently the criminal activity in the capital increased so Polycarp is thinking about establishing some better security in the storehouse of his shopThe storehouse can be represented as a matrix with n rows and m columns Each element of the matrix is either  an empty space or x a wallPolycarp wants to hire some guards possibly zero to watch for the storehouse Each guard will be in some cell of matrix and will protect every cell to the right of his own cell and every cell to the bottom of his own cell until the nearest wall More formally if the guard is standing in the cell x0y0 then he protects cell x1y1 if all these conditions are met  x1y1 is an empty cell  either x0x1 and y0y1 or x0x1 and y0y1  there are no walls between cells x0y0 and x1y1 There can be a guard between these cells guards can look through each other Guards can be placed only in empty cells and can protect only empty cells The plan of placing the guards is some set of cells where guards will be placed of course two plans are different if there exists at least one cell that is included in the first plan but not included in the second plan or vice versa Polycarp calls a plan suitable if there is not more than one empty cell that is not protectedPolycarp wants to know the number of suitable plans Since it can be very large you have to output it modulo 1097

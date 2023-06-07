@@ -1,0 +1,9 @@
+The Butcher                    
+
+https://codeforces.com/problemset/problem/1819/B
+
+geometry
+
+1900
+
+Anton plays his favorite game "Defense of The Ancients 2" for his favorite hero — The Butcher. Now he wants to make his own dinner. To do this he will take a rectangle of height h and width w, then make a vertical or horizontal cut so that both resulting parts have integer sides. After that, he will put one of the parts in the box and cut the other again, and so on.More formally, a rectangle of size h \times w can be cut into two parts of sizes x \times w and (h - x) \times w, where x is an integer from 1 to (h - 1), or into two parts of sizes h \times y and h \times (w - y), where y is an integer from 1 to (w - 1).He will repeat this operation n - 1 times, and then put the remaining rectangle into the box too. Thus, the box will contain n rectangles, of which n - 1 rectangles were put in the box as a result of the cuts, and the n-th rectangle is the one that the Butcher has left after all n - 1 cuts.Unfortunately, Butcher forgot the numbers h and w, but he still has n rectangles mixed in random order. Note that Butcher didn't rotate the rectangles, but only shuffled them. Now he wants to know all possible pairs (h, w) from which this set of rectangles can be obtained. And you have to help him do it!It is guaranteed that there exists at least one pair (h, w) from which this set of rectangles can be obtained.

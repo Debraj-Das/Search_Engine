@@ -1,0 +1,9 @@
+Geometrical Progression                    
+
+httpscodeforcescomproblemsetproblem758F
+
+brute force
+
+2400
+
+For given n l and r find the number of distinct geometrical progression each of which contains n distinct integers not less than l and not greater than r In other words for each progression the following must hold lair and aiaj  where a1a2an is the geometrical progression 1ijn and ijGeometrical progression is a sequence of numbers a1a2an where each term after first is found by multiplying the previous one by a fixed nonzero number d called the common ratio Note that in our task d may be noninteger For example in progression 469 common ratio is Two progressions a1a2an and b1b2bn are considered different if there is such i 1in that aibi

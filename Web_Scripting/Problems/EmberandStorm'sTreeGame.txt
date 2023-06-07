@@ -1,0 +1,9 @@
+Ember and Storms Tree Game                    
+
+httpscodeforcescomproblemsetproblem914H
+
+combinatorics
+
+3400
+
+Ember and Storm play a game First Ember picks a labelled tree T of n vertices such that the degree of every vertex is at most d Then Storm picks two distinct vertices u and v in this tree and writes down the labels of the vertices in the path from u to v in a sequence a1a2 ak Finally Ember picks any index i 1ik in the array Now he performs one of the following two operations exactly once  flip the subrange i1k and add ai to it After this the sequence becomes a1 aiakaiak1ai ai1ai  negate the subrange i1k and add ai to it ie the array becomes a1 aiai1aiai2aiakai Ember wins if the array is monotonically increasing or decreasing after this Otherwise Storm winsThe game can be described by the tuple Tuviop where op is flip or negate depending on the action Ember chose in the last turn Find the number of tuples that can occur if Ember and Storm play optimally When they play optimally if there are multiple moves by which they are guaranteed to win then they may play any of the winning moves Otherwise if someone loses no matter what they play then they may play any of the possible movesReport the answer modulo m

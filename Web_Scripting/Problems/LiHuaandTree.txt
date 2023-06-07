@@ -1,0 +1,9 @@
+Li Hua and Tree                    
+
+https://codeforces.com/problemset/problem/1797/D
+
+brute force
+
+1900
+
+Li Hua has a tree of n vertices and n-1 edges. The root of the tree is vertex 1. Each vertex i has importance a_i. Denote the size of a subtree as the number of vertices in it, and the importance as the sum of the importance of vertices in it. Denote the heavy son of a non-leaf vertex as the son with the largest subtree size. If multiple of them exist, the heavy son is the one with the minimum index.Li Hua wants to perform m operations:  "1 x" (1\leq x \leq n) — calculate the importance of the subtree whose root is x.  "2 x" (2\leq x \leq n) — rotate the heavy son of x up. Formally, denote son_x as the heavy son of x, fa_x as the father of x. He wants to remove the edge between x and fa_x and connect an edge between son_x and fa_x. It is guaranteed that x is not root, but not guaranteed that x is not a leaf. If x is a leaf, please ignore the operation. Suppose you were Li Hua, please solve this problem.

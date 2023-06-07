@@ -1,0 +1,9 @@
+Floor and Mod                    
+
+https://codeforces.com/problemset/problem/1485/C
+
+binary search
+
+1700
+
+A pair of positive integers (a,b) is called special if \lfloor \frac{a}{b} \rfloor = a \bmod b. Here, \lfloor \frac{a}{b} \rfloor is the result of the integer division between a and b, while a \bmod b is its remainder.You are given two integers x and y. Find the number of special pairs (a,b) such that 1\leq a \leq x and 1 \leq b \leq y.

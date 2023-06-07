@@ -1,0 +1,9 @@
+Trucks and Cities                    
+
+https://codeforces.com/problemset/problem/1101/F
+
+binary search
+
+2400
+
+There are n cities along the road, which can be represented as a straight line. The i-th city is situated at the distance of a_i kilometers from the origin. All cities are situated in the same direction from the origin. There are m trucks travelling from one city to another. Each truck can be described by 4 integers: starting city s_i, finishing city f_i, fuel consumption c_i and number of possible refuelings r_i. The i-th truck will spend c_i litres of fuel per one kilometer. When a truck arrives in some city, it can be refueled (but refueling is impossible in the middle of nowhere). The i-th truck can be refueled at most r_i times. Each refueling makes truck's gas-tank full. All trucks start with full gas-tank.All trucks will have gas-tanks of the same size V litres. You should find minimum possible V such that all trucks can reach their destinations without refueling more times than allowed.

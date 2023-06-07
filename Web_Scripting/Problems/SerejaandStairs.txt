@@ -1,0 +1,9 @@
+Sereja and Stairs                    
+
+httpscodeforcescomproblemsetproblem381B
+
+greedy
+
+1100
+
+Sereja loves integer sequences very much He especially likes stairsSequence a1a2aa a is the length of the sequence is stairs if there is such index i 1ia that the following condition is met a1a2ai1aiai1aa1aaFor example sequences 1 2 3 2 and 4 2 are stairs and sequence 3 1 2 isntSereja has m cards with numbers He wants to put some cards on the table in a row to get a stair sequence What maximum number of cards can he put on the table

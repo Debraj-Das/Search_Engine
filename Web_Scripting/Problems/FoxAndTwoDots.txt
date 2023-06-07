@@ -1,0 +1,9 @@
+Fox And Two Dots                    
+
+httpscodeforcescomproblemsetproblem510B
+
+dfs and similar
+
+1500
+
+Fox Ciel is playing a mobile puzzle game called Two Dots The basic levels are played on a board of size nm cells like thisEach cell contains a dot that has some color We will use different uppercase Latin characters to express different colorsThe key of this game is to find a cycle that contain dots of same color Consider 4 blue dots on the picture forming a circle as an example Formally we call a sequence of dots d1d2dk a cycle if and only if it meets the following condition  These k dots are different if ij then di is different from dj  k is at least 4  All dots belong to the same color  For all 1ik1 di and di1 are adjacent Also dk and d1 should also be adjacent Cells x and y are called adjacent if they share an edge Determine if there exists a cycle on the field

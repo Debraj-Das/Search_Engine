@@ -1,0 +1,9 @@
+Prime Square                    
+
+https://codeforces.com/problemset/problem/1436/B
+
+constructive algorithms
+
+900
+
+Sasha likes investigating different math objects, for example, magic squares. But Sasha understands that magic squares have already been studied by hundreds of people, so he sees no sense of studying them further. Instead, he invented his own type of square — a prime square. A square of size n \times n is called prime if the following three conditions are held simultaneously:   all numbers on the square are non-negative integers not exceeding 10^5;  there are no prime numbers in the square;  sums of integers in each row and each column are prime numbers. Sasha has an integer n. He asks you to find any prime square of size n \times n. Sasha is absolutely sure such squares exist, so just help him!

@@ -1,0 +1,9 @@
+Swap Adjacent Elements                    
+
+httpscodeforcescomproblemsetproblem920C
+
+dfs and similar
+
+1400
+
+You have an array a consisting of n integers Each integer from 1 to n appears exactly once in this arrayFor some indices i 1in1 it is possible to swap ith element with i1th for other indices it is not possible You may perform any number of swapping operations any order There is no limit on the number of times you swap ith element with i1th if the position is not forbiddenCan you make this array sorted in ascending order performing some sequence of swapping operations

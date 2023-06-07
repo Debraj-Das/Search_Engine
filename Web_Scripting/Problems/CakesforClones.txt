@@ -1,0 +1,9 @@
+Cakes for Clones                    
+
+https://codeforces.com/problemset/problem/1415/F
+
+dp
+
+2900
+
+You live on a number line. You are initially (at time moment t = 0) located at point x = 0. There are n events of the following type: at time t_i a small cake appears at coordinate x_i. To collect this cake, you have to be at this coordinate at this point, otherwise the cake spoils immediately. No two cakes appear at the same time and no two cakes appear at the same coordinate.You can move with the speed of 1 length unit per one time unit. Also, at any moment you can create a clone of yourself at the same point where you are located. The clone can't move, but it will collect the cakes appearing at this position for you. The clone disappears when you create another clone. If the new clone is created at time moment t, the old clone can collect the cakes that appear before or at the time moment t, and the new clone can collect the cakes that appear at or after time moment t.Can you collect all the cakes (by yourself or with the help of clones)?

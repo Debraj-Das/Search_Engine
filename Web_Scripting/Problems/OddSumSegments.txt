@@ -1,0 +1,9 @@
+Odd Sum Segments                    
+
+httpscodeforcescomproblemsetproblem1196B
+
+constructive algorithms
+
+1200
+
+You are given an array a consisting of n integers a1 a2 dots an You want to split it into exactly k nonempty nonintersecting subsegments such that each subsegment has odd sum ie for each subsegment the sum of all elements that belong to this subsegment is odd It is impossible to rearrange shuffle the elements of a given array Each of the n elements of the array a must belong to exactly one of the k subsegmentsLets see some examples of dividing the array of length 5 into 3 subsegments not necessarily with odd sums 1 2 3 4 5 is the initial array then all possible ways to divide it into 3 nonempty nonintersecting subsegments are described below  1 2 3 4 5  1 2 3 4 5  1 2 3 4 5  1 2 3 4 5  1 2 3 4 5  1 2 3 4 5 Of course it can be impossible to divide the initial array into exactly k subsegments in such a way that each of them will have odd sum of elements In this case print NO Otherwise print YES and any possible division of the array See the output format for the detailed explanationYou have to answer q independent queries

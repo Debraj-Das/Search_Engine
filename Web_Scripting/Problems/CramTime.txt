@@ -1,0 +1,9 @@
+Cram Time                    
+
+https://codeforces.com/problemset/problem/1031/C
+
+greedy
+
+1600
+
+In a galaxy far, far away Lesha the student has just got to know that he has an exam in two days. As always, he hasn't attended any single class during the previous year, so he decided to spend the remaining time wisely.Lesha knows that today he can study for at most a hours, and he will have b hours to study tomorrow. Note that it is possible that on his planet there are more hours in a day than on Earth. Lesha knows that the quality of his knowledge will only depend on the number of lecture notes he will read. He has access to an infinite number of notes that are enumerated with positive integers, but he knows that he can read the first note in one hour, the second note in two hours and so on. In other words, Lesha can read the note with number k in k hours. Lesha can read the notes in arbitrary order, however, he can't start reading a note in the first day and finish its reading in the second day.Thus, the student has to fully read several lecture notes today, spending at most a hours in total, and fully read several lecture notes tomorrow, spending at most b hours in total. What is the maximum number of notes Lesha can read in the remaining time? Which notes should he read in the first day, and which — in the second?

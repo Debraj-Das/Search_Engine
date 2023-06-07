@@ -1,0 +1,9 @@
+Ehab and a 2-operation task                    
+
+https://codeforces.com/problemset/problem/1088/C
+
+constructive algorithms
+
+1400
+
+You're given an array a of length n. You can perform the following operations on it:  choose an index i (1 \le i \le n), an integer x (0 \le x \le 10^6), and replace a_j with a_j+x for all (1 \le j \le i), which means add x to all the elements in the prefix ending at i.  choose an index i (1 \le i \le n), an integer x (1 \le x \le 10^6), and replace a_j with a_j \% x for all (1 \le j \le i), which means replace every element in the prefix ending at i with the remainder after dividing it by x. Can you make the array strictly increasing in no more than n+1 operations?

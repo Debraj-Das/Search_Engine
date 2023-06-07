@@ -1,0 +1,9 @@
+Two Shuffled Sequences                    
+
+https://codeforces.com/problemset/problem/1144/C
+
+constructive algorithms
+
+1000
+
+Two integer sequences existed initially — one of them was strictly increasing, and the other one — strictly decreasing.Strictly increasing sequence is a sequence of integers [x_1 < x_2 < \dots < x_k]. And strictly decreasing sequence is a sequence of integers [y_1 > y_2 > \dots > y_l]. Note that the empty sequence and the sequence consisting of one element can be considered as increasing or decreasing.They were merged into one sequence a. After that sequence a got shuffled. For example, some of the possible resulting sequences a for an increasing sequence [1, 3, 4] and a decreasing sequence [10, 4, 2] are sequences [1, 2, 3, 4, 4, 10] or [4, 2, 1, 10, 4, 3].This shuffled sequence a is given in the input.Your task is to find any two suitable initial sequences. One of them should be strictly increasing and the other one — strictly decreasing. Note that the empty sequence and the sequence consisting of one element can be considered as increasing or decreasing.If there is a contradiction in the input and it is impossible to split the given sequence a to increasing and decreasing sequences, print "NO".

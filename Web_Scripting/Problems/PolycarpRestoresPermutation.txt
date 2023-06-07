@@ -1,0 +1,9 @@
+Polycarp Restores Permutation                    
+
+https://codeforces.com/problemset/problem/1141/C
+
+math
+
+1500
+
+An array of integers p_1, p_2, \dots, p_n is called a permutation if it contains each number from 1 to n exactly once. For example, the following arrays are permutations: [3, 1, 2], [1], [1, 2, 3, 4, 5] and [4, 3, 1, 2]. The following arrays are not permutations: [2], [1, 1], [2, 3, 4].Polycarp invented a really cool permutation p_1, p_2, \dots, p_n of length n. It is very disappointing, but he forgot this permutation. He only remembers the array q_1, q_2, \dots, q_{n-1} of length n-1, where q_i=p_{i+1}-p_i.Given n and q=q_1, q_2, \dots, q_{n-1}, help Polycarp restore the invented permutation.

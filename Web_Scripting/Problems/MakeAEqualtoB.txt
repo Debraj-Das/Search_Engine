@@ -1,0 +1,9 @@
+Make A Equal to B                    
+
+https://codeforces.com/problemset/problem/1736/A
+
+brute force
+
+800
+
+You are given two arrays a and b of n elements, each element is either 0 or 1.You can make operations of 2 kinds.   Pick an index i and change a_i to 1-a_i.  Rearrange the array a however you want. Find the minimum number of operations required to make a equal to b.

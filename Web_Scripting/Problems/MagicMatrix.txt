@@ -1,0 +1,9 @@
+Magic Matrix                    
+
+httpscodeforcescomproblemsetproblem632F
+
+brute force
+
+2400
+
+Youre given a matrix A of size nnLets call the matrix with nonnegative elements magic if it is symmetric so aijaji aii0 and aijmaxaikajk for all triples ijk Note that ijk do not need to be distinctDetermine if the matrix is magicAs the inputoutput can reach very huge size it is recommended to use fast inputoutput methods for example prefer to use scanfprintf instead of cincout in C prefer to use BufferedReaderPrintWriter instead of ScannerSystemout in Java

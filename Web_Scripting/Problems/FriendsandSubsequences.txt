@@ -1,0 +1,9 @@
+Friends and Subsequences                    
+
+httpscodeforcescomproblemsetproblem689D
+
+binary search
+
+2100
+
+Mike and Mike are old childhood rivals they are opposite in everything they do except programming Today they have a problem they cannot solve on their own but together with you who knows Every one of them has an integer sequences a and b of length n Being given a query of the form of pair of integers lr Mike can instantly tell the value of  while Mike can instantly tell the value of Now suppose a robot you asks them all possible different queries of pairs of integers lr 1lrn so he will make exactly nn12 queries and counts how many times their answers coincide thus for how many pairs  is satisfiedHow many occasions will the robot count

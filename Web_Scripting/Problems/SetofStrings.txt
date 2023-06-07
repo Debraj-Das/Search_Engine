@@ -1,0 +1,9 @@
+Set of Strings                    
+
+httpscodeforcescomproblemsetproblem544A
+
+implementation
+
+1100
+
+You are given a string q A sequence of k strings s1s2sk is called beautiful if the concatenation of these strings is string q formally s1s2skq and the first characters of these strings are distinctFind any beautiful sequence of strings or determine that the beautiful sequence doesnt exist

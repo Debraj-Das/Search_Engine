@@ -1,0 +1,9 @@
+Weighted Increasing Subsequences                    
+
+https://codeforces.com/problemset/problem/1621/G
+
+data structures
+
+3200
+
+You are given the sequence of integers a_1, a_2, \ldots, a_n of length n. The sequence of indices i_1 < i_2 < \ldots < i_k of length k denotes the subsequence a_{i_1}, a_{i_2}, \ldots, a_{i_k} of length k of sequence a.The subsequence a_{i_1}, a_{i_2}, \ldots, a_{i_k} of length k of sequence a is called increasing subsequence if a_{i_j} < a_{i_{j+1}} for each 1 \leq j < k.The weight of the increasing subsequence a_{i_1}, a_{i_2}, \ldots, a_{i_k} of length k of sequence a is the number of 1 \leq j \leq k, such that exists index i_k < x \leq n and a_x > a_{i_j}.For example, if a = [6, 4, 8, 6, 5], then the sequence of indices i = [2, 4] denotes increasing subsequence [4, 6] of sequence a. The weight of this increasing subsequence is 1, because for j = 1 exists x = 5 and a_5 = 5 > a_{i_1} = 4, but for j = 2 such x doesn't exist.Find the sum of weights of all increasing subsequences of a modulo 10^9+7.

@@ -1,0 +1,9 @@
+The penguins game                    
+
+httpscodeforcescomproblemsetproblem835E
+
+binary search
+
+2400
+
+Pay attention this problem is interactivePenguin Xoriy came up with a new game recently He has n icicles numbered from 1 to n Each icicle has a temperature an integer from 1 to 109 Exactly two of these icicles are special their temperature is y while a temperature of all the others is xy You have to find those special icicles You can choose a nonempty subset of icicles and ask the penguin what is the bitwise exclusive OR XOR of the temperatures of the icicles in this subset Note that you cant ask more than 19 questionsYou are to find the special icicles

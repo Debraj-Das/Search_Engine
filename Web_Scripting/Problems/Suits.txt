@@ -1,0 +1,9 @@
+Suits                    
+
+https://codeforces.com/problemset/problem/1271/A
+
+brute force
+
+800
+
+A new delivery of clothing has arrived today to the clothing store. This delivery consists of a ties, b scarves, c vests and d jackets.The store does not sell single clothing items — instead, it sells suits of two types:  a suit of the first type consists of one tie and one jacket;  a suit of the second type consists of one scarf, one vest and one jacket. Each suit of the first type costs e coins, and each suit of the second type costs f coins.Calculate the maximum possible cost of a set of suits that can be composed from the delivered clothing items. Note that one item cannot be used in more than one suit (though some items may be left unused).

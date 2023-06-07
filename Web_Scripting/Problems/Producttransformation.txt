@@ -1,0 +1,9 @@
+Product transformation                    
+
+httpscodeforcescomproblemsetproblem852F
+
+combinatorics
+
+2200
+
+Consider an array A with N elements all being the same integer aDefine the product transformation as a simultaneous update AiAiAi1 that is multiplying each element to the element right to it for  with the last number AN remaining the same For example if we start with an array A with a2 and N4 then after one product transformation A4 4 4 2 and after two product transformations A16 16 8 2Your simple task is to calculate the array A after M product transformations Since the numbers can get quite big you should output them modulo Q

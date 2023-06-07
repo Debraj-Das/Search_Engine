@@ -1,0 +1,9 @@
+Willem Chtholly and Seniorious                    
+
+httpscodeforcescomproblemsetproblem896C
+
+data structures
+
+2600
+
+ Willem Whats the matter It seems that theres something wrong with Seniorious Ill have a lookSeniorious is made by linking special talismans in particular orderAfter over 500 years the carillon is now in bad condition so Willem decides to examine it thoroughlySeniorious has n pieces of talisman Willem puts them in a line the ith of which is an integer aiIn order to maintain it Willem needs to perform m operationsThere are four types of operations 1 l r x For each i such that lir assign aix to ai 2 l r x For each i such that lir assign x to ai 3 l r x Print the xth smallest number in the index range lr ie the element at the xth position if all the elements ai such that lir are taken and sorted into an array of nondecreasing integers Its guaranteed that 1xrl1 4 l r x y Print the sum of the xth power of ai such that lir modulo y ie 

@@ -1,0 +1,9 @@
+Not Splitting                    
+
+https://codeforces.com/problemset/problem/1627/F
+
+geometry
+
+2700
+
+There is a k \times k grid, where k is even. The square in row r and column c is denoted by (r,c). Two squares (r_1, c_1) and (r_2, c_2) are considered adjacent if \lvert r_1 - r_2 \rvert + \lvert c_1 - c_2 \rvert = 1.An array of adjacent pairs of squares is called strong if it is possible to cut the grid along grid lines into two connected, congruent pieces so that each pair is part of the same piece. Two pieces are congruent if one can be matched with the other by translation, rotation, and reflection, or a combination of these.  The picture above represents the first test case. Arrows indicate pairs of squares, and the thick black line represents the cut. You are given an array a of n pairs of adjacent squares. Find the size of the largest strong subsequence of a. An array p is a subsequence of an array q if p can be obtained from q by deletion of several (possibly, zero or all) elements.

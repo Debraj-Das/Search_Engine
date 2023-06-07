@@ -1,0 +1,9 @@
+Palindromic Magic                    
+
+https://codeforces.com/problemset/problem/1081/H
+
+data structures
+
+3500
+
+After learning some fancy algorithms about palindromes, Chouti found palindromes very interesting, so he wants to challenge you with this problem.Chouti has got two strings A and B. Since he likes palindromes, he would like to pick a as some non-empty palindromic substring of A and b as some non-empty palindromic substring of B. Concatenating them, he will get string ab.Chouti thinks strings he could get this way are interesting, so he wants to know how many different strings he can get.

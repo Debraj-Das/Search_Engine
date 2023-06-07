@@ -1,0 +1,9 @@
+Diverse Permutation                    
+
+httpscodeforcescomproblemsetproblem482A
+
+constructive algorithms
+
+1200
+
+Permutation p is an ordered set of integers p1p2pn consisting of n distinct positive integers not larger than n Well denote as n the length of permutation p1p2pnYour task is to find such permutation p of length n that the group of numbers p1p2p2p3pn1pn has exactly k distinct elements

@@ -1,0 +1,9 @@
+Partitions                    
+
+httpscodeforcescomproblemsetproblem961G
+
+combinatorics
+
+2700
+
+You are given a set of n elements indexed from 1 to n The weight of ith element is wi The weight of some subset of a given set is denoted as  The weight of some partition R of a given set into k subsets is  recall that a partition of a given set is a set of its subsets such that every element of the given set belongs to exactly one subset in partitionCalculate the sum of weights of all partitions of a given set into exactly k nonempty subsets and print it modulo 1097 Two partitions are considered different iff there exist two elements x and y such that they belong to the same set in one of the partitions and to different sets in another partition

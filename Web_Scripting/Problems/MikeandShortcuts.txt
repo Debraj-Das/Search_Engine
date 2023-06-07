@@ -1,0 +1,9 @@
+Mike and Shortcuts                    
+
+httpscodeforcescomproblemsetproblem689B
+
+dfs and similar
+
+1600
+
+Recently Mike was very busy with studying for exams and contests Now he is going to chill a bit by doing some sight seeing in the cityCity consists of n intersections numbered from 1 to n Mike starts walking from his house located at the intersection number 1 and goes along some sequence of intersections Walking from intersection number i to intersection j requires ij units of energy The total energy spent by Mike to visit a sequence of intersections p11p2pk is equal to  units of energyOf course walking would be boring if there were no shortcuts A shortcut is a special path that allows Mike walking from one intersection to another requiring only 1 unit of energy There are exactly n shortcuts in Mikes city the ith of them allows walking from intersection i to intersection ai iaiai1 but not in the opposite direction thus there is exactly one shortcut starting at each intersection Formally if Mike chooses a sequence p11p2pk then for each 1ik satisfying pi1api and apipi Mike will spend only 1 unit of energy instead of pipi1 walking from the intersection pi to intersection pi1 For example if Mike chooses a sequence p11p2ap1p3ap2pkapk1 he spends exactly k1 units of total energy walking around themBefore going on his adventure Mike asks you to find the minimum amount of energy required to reach each of the intersections from his home Formally for each 1in Mike is interested in finding minimum possible total energy of some sequence p11p2pki

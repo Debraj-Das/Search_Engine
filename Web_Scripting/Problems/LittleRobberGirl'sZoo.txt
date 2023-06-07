@@ -1,0 +1,9 @@
+Little Robber Girls Zoo                    
+
+httpscodeforcescomproblemsetproblem686B
+
+constructive algorithms
+
+1100
+
+Little Robber Girl likes to scare animals in her zoo for fun She decided to arrange the animals in a row in the order of nondecreasing height However the animals were so scared that they couldnt stay in the right placesThe robber girl was angry at first but then she decided to arrange the animals herself She repeatedly names numbers l and r such that rl1 is even After that animals that occupy positions between l and r inclusively are rearranged as follows the animal at position l swaps places with the animal at position l1 the animal l2 swaps with the animal l3  finally the animal at position r1 swaps with the animal rHelp the robber girl to arrange the animals in the order of nondecreasing height You should name at most 20000 segments since otherwise the robber girl will become bored and will start scaring the animals again

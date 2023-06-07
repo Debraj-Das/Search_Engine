@@ -1,0 +1,9 @@
+Vasily the Bear and Triangle                    
+
+httpscodeforcescomproblemsetproblem336A
+
+implementation
+
+1000
+
+Vasily the bear has a favorite rectangle it has one vertex at point 00 and the opposite vertex at point xy Of course the sides of Vasyas favorite rectangle are parallel to the coordinate axes Vasya also loves triangles if the triangles have one vertex at point B00 Thats why today he asks you to find two points Ax1y1 and Cx2y2 such that the following conditions hold  the coordinates of points x1 x2 y1 y2 are integers Besides the following inequation holds x1x2  the triangle formed by point A B and C is rectangular and isosceles  is right  all points of the favorite rectangle are located inside or on the border of triangle ABC  the area of triangle ABC is as small as possible Help the bear find the required points It is not so hard to proof that these points are unique

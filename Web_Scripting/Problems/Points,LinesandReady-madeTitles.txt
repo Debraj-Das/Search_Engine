@@ -1,0 +1,9 @@
+Points Lines and Readymade Titles                    
+
+httpscodeforcescomproblemsetproblem870E
+
+dfs and similar
+
+2300
+
+You are given n distinct points on a plane with integral coordinates For each point you can either draw a vertical line through it draw a horizontal line through it or do nothingYou consider several coinciding straight lines as a single one How many distinct pictures you can get Print the answer modulo 1097

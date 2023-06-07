@@ -1,0 +1,9 @@
+NIT orz!                    
+
+https://codeforces.com/problemset/problem/1696/A
+
+bitmasks
+
+800
+
+NIT, the cleaver, is new in town! Thousands of people line up to orz him. To keep his orzers entertained, NIT decided to let them solve the following problem related to \operatorname{or} z. Can you solve this problem too?You are given a 1-indexed array of n integers, a, and an integer z. You can do the following operation any number (possibly zero) of times:  Select a positive integer i such that 1\le i\le n. Then, simutaneously set a_i to (a_i\operatorname{or} z) and set z to (a_i\operatorname{and} z). In other words, let x and y respectively be the current values of a_i and z. Then set a_i to (x\operatorname{or}y) and set z to (x\operatorname{and}y). Here \operatorname{or} and \operatorname{and} denote the bitwise operations OR and AND respectively.Find the maximum possible value of the maximum value in a after any number (possibly zero) of operations.

@@ -1,0 +1,9 @@
+You                    
+
+https://codeforces.com/problemset/problem/1554/E
+
+dfs and similar
+
+2600
+
+You are given a tree with n nodes. As a reminder, a tree is a connected undirected graph without cycles.Let a_1, a_2, \ldots, a_n be a sequence of integers. Perform the following operation exactly n times:   Select an unerased node u. Assign a_u := number of unerased nodes adjacent to u. Then, erase the node u along with all edges that have it as an endpoint. For each integer k from 1 to n, find the number, modulo 998\,244\,353, of different sequences a_1, a_2, \ldots, a_n that satisfy the following conditions:  it is possible to obtain a by performing the aforementioned operations exactly n times in some order.  \operatorname{gcd}(a_1, a_2, \ldots, a_n) = k. Here, \operatorname{gcd} means the greatest common divisor of the elements in a. 

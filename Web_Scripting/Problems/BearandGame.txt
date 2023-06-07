@@ -1,0 +1,9 @@
+Bear and Game                    
+
+httpscodeforcescomproblemsetproblem673A
+
+implementation
+
+800
+
+Bear Limak likes watching sports on TV He is going to watch a game today The game lasts 90 minutes and there are no breaksEach minute can be either interesting or boring If 15 consecutive minutes are boring then Limak immediately turns TV offYou know that there will be n interesting minutes t1t2tn Your task is to calculate for how many minutes Limak will watch the game

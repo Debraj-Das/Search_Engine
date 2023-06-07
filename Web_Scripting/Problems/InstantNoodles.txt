@@ -1,0 +1,9 @@
+Instant Noodles                    
+
+https://codeforces.com/problemset/problem/1322/C
+
+graphs
+
+2300
+
+Wu got hungry after an intense training session, and came to a nearby store to buy his favourite instant noodles. After Wu paid for his purchase, the cashier gave him an interesting task.You are given a bipartite graph with positive integers in all vertices of the right half. For a subset S of vertices of the left half we define N(S) as the set of all vertices of the right half adjacent to at least one vertex in S, and f(S) as the sum of all numbers in vertices of N(S). Find the greatest common divisor of f(S) for all possible non-empty subsets S (assume that GCD of empty set is 0).Wu is too tired after his training to solve this problem. Help him!

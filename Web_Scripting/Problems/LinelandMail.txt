@@ -1,0 +1,9 @@
+Lineland Mail                    
+
+httpscodeforcescomproblemsetproblem567A
+
+greedy
+
+900
+
+All cities of Lineland are located on the Ox coordinate axis Thus each city is associated with its position xi  a coordinate on the Ox axis No two cities are located at a single pointLineland residents love to send letters to each other A person may send a letter only if the recipient lives in another city because if they live in the same city then it is easier to drop inStrange but true the cost of sending the letter is exactly equal to the distance between the senders city and the recipients cityFor each city calculate two values mini and maxi where mini is the minimum cost of sending a letter from the ith city to some other city and maxi is the the maximum cost of sending a letter from the ith city to some other city

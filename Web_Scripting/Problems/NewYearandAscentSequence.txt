@@ -1,0 +1,9 @@
+New Year and Ascent Sequence                    
+
+https://codeforces.com/problemset/problem/1284/B
+
+binary search
+
+1400
+
+A sequence a = [a_1, a_2, \ldots, a_l] of length l has an ascent if there exists a pair of indices (i, j) such that 1 \le i < j \le l and a_i < a_j. For example, the sequence [0, 2, 0, 2, 0] has an ascent because of the pair (1, 4), but the sequence [4, 3, 3, 3, 1] doesn't have an ascent.Let's call a concatenation of sequences p and q the sequence that is obtained by writing down sequences p and q one right after another without changing the order. For example, the concatenation of the [0, 2, 0, 2, 0] and [4, 3, 3, 3, 1] is the sequence [0, 2, 0, 2, 0, 4, 3, 3, 3, 1]. The concatenation of sequences p and q is denoted as p+q.Gyeonggeun thinks that sequences with ascents bring luck. Therefore, he wants to make many such sequences for the new year. Gyeonggeun has n sequences s_1, s_2, \ldots, s_n which may have different lengths. Gyeonggeun will consider all n^2 pairs of sequences s_x and s_y (1 \le x, y \le n), and will check if its concatenation s_x + s_y has an ascent. Note that he may select the same sequence twice, and the order of selection matters.Please count the number of pairs (x, y) of sequences s_1, s_2, \ldots, s_n whose concatenation s_x + s_y contains an ascent.

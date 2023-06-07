@@ -1,0 +1,9 @@
+Vacations                    
+
+https://codeforces.com/problemset/problem/698/A
+
+dp
+
+1400
+
+Vasya has n days of vacations! So he decided to improve his IT skills and do sport. Vasya knows the following information about each of this n days: whether that gym opened and whether a contest was carried out in the Internet on that day. For the i-th day there are four options:  on this day the gym is closed and the contest is not carried out;  on this day the gym is closed and the contest is carried out;  on this day the gym is open and the contest is not carried out;  on this day the gym is open and the contest is carried out. On each of days Vasya can either have a rest or write the contest (if it is carried out on this day), or do sport (if the gym is open on this day).Find the minimum number of days on which Vasya will have a rest (it means, he will not do sport and write the contest at the same time). The only limitation that Vasya has — he does not want to do the same activity on two consecutive days: it means, he will not do sport on two consecutive days, and write the contest on two consecutive days.

@@ -1,0 +1,9 @@
+Xum                    
+
+https://codeforces.com/problemset/problem/1427/E
+
+bitmasks
+
+2500
+
+You have a blackboard and initially only an odd number x is written on it. Your goal is to write the number 1 on the blackboard.You may write new numbers on the blackboard with the following two operations.   You may take two numbers (not necessarily distinct) already on the blackboard and write their sum on the blackboard. The two numbers you have chosen remain on the blackboard.  You may take two numbers (not necessarily distinct) already on the blackboard and write their bitwise XOR on the blackboard. The two numbers you have chosen remain on the blackboard.  Perform a sequence of operations such that at the end the number 1 is on the blackboard.

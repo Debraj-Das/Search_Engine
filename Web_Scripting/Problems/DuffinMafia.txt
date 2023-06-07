@@ -1,0 +1,9 @@
+Duff in Mafia                    
+
+https://codeforces.com/problemset/problem/587/D
+
+2-sat
+
+3100
+
+Duff is one if the heads of Mafia in her country, Andarz Gu. Andarz Gu has n cities (numbered from 1 to n) connected by m bidirectional roads (numbered by 1 to m).Each road has a destructing time, and a color. i-th road connects cities vi and ui and its color is ci and its destructing time is ti.Mafia wants to destruct a matching in Andarz Gu. A matching is a subset of roads such that no two roads in this subset has common endpoint. They can destruct these roads in parallel, i. e. the total destruction time is a maximum over destruction times of all selected roads.  They want two conditions to be satisfied:  The remaining roads form a proper coloring.  Destructing time of this matching is minimized. The remaining roads after destructing this matching form a proper coloring if and only if no two roads of the same color have same endpoint, or, in the other words, edges of each color should form a matching.There is no programmer in Mafia. That's why Duff asked for your help. Please help her and determine which matching to destruct in order to satisfied those conditions (or state that this is not possible).

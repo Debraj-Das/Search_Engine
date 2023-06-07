@@ -1,0 +1,9 @@
+Divide and Sum                    
+
+https://codeforces.com/problemset/problem/1444/B
+
+combinatorics
+
+1900
+
+You are given an array a of length 2n. Consider a partition of array a into two subsequences p and q of length n each (each element of array a should be in exactly one subsequence: either in p or in q).Let's sort p in non-decreasing order, and q in non-increasing order, we can denote the sorted versions by x and y, respectively. Then the cost of a partition is defined as f(p, q) = \sum_{i = 1}^n |x_i - y_i|.Find the sum of f(p, q) over all correct partitions of array a. Since the answer might be too big, print its remainder modulo 998244353.

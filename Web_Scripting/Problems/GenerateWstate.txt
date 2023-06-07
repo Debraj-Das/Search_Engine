@@ -1,0 +1,9 @@
+Generate W state                    
+
+httpscodeforcescomproblemsetproblem1002A4
+
+
+
+1900
+
+You are given N2k qubits 0k4 in zero state  Your task is to create a generalized W state on them Generalized W state is an equal superposition of all basis states on N qubits that have Hamming weight equal to 1For example for N1 You have to implement an operation which takes an array of N qubits as an input and has no output The output of the operation is the state in which it leaves the qubitsYour code should have the following signaturenamespace Solution     open MicrosoftQuantumPrimitive    open MicrosoftQuantumCanon    operation Solve qs  Qubit              body                     your code here            

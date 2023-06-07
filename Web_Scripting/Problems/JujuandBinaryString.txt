@@ -1,0 +1,9 @@
+Juju and Binary String                    
+
+https://codeforces.com/problemset/problem/1658/F
+
+brute force
+
+2700
+
+The cuteness of a binary string is the number of \texttt{1}s divided by the length of the string. For example, the cuteness of \texttt{01101} is \frac{3}{5}.Juju has a binary string s of length n. She wants to choose some non-intersecting subsegments of s such that their concatenation has length m and it has the same cuteness as the string s. More specifically, she wants to find two arrays l and r of equal length k such that 1 \leq l_1 \leq r_1 < l_2 \leq r_2 < \ldots < l_k \leq r_k \leq n, and also:  \sum\limits_{i=1}^k (r_i - l_i + 1) = m;  The cuteness of s[l_1,r_1]+s[l_2,r_2]+\ldots+s[l_k,r_k] is equal to the cuteness of s, where s[x, y] denotes the subsegment s_x s_{x+1} \ldots s_y, and + denotes string concatenation. Juju does not like splitting the string into many parts, so she also wants to minimize the value of k. Find the minimum value of k such that there exist l and r that satisfy the constraints above or determine that it is impossible to find such l and r for any k.

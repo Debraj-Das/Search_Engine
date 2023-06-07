@@ -1,0 +1,9 @@
+Cup Trick                    
+
+https://codeforces.com/problemset/problem/420/D
+
+data structures
+
+2200
+
+The employees of the F company have lots of ways to entertain themselves. Today they invited a famous magician who shows a trick with plastic cups and a marble.The point is to trick the spectator's attention. Initially, the spectator stands in front of a line of n plastic cups. Then the magician places a small marble under one cup and shuffles the cups. Then the spectator should guess which cup hides the marble.But the head coder of the F company isn't easy to trick. When he saw the performance, he noticed several important facts:  each cup contains a mark — a number from 1 to n; all marks on the cups are distinct;  the magician shuffles the cups in m operations, each operation looks like that: take a cup marked xi, sitting at position yi in the row of cups (the positions are numbered from left to right, starting from 1) and shift it to the very beginning of the cup row (on the first position). When the head coder came home after work he wanted to re-do the trick. Unfortunately, he didn't remember the starting or the final position of the cups. He only remembered which operations the magician performed. Help the coder: given the operations in the order they were made find at least one initial permutation of the cups that can go through the described operations in the given order. Otherwise, state that such permutation doesn't exist.

@@ -1,0 +1,9 @@
+Calculating Function                    
+
+httpscodeforcescomproblemsetproblem486A
+
+implementation
+
+800
+
+For a positive integer n lets define a function ffn1231nn Your task is to calculate fn for a given integer n

@@ -1,0 +1,9 @@
+Eval                    
+
+https://codeforces.com/problemset/problem/470/C
+
+*special problem
+
+1900
+
+You are given a simple arithmetic expression of the form a?b, where a and b are integer constants, and ? can be one of the following operations: '+' (addition), '-' (subtraction), '*' (multiplication), '/' (integer division) or '%' (modulo operation).Output the result of evaluation of this expression.

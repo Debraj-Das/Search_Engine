@@ -1,0 +1,9 @@
+Game With Sticks                    
+
+httpscodeforcescomproblemsetproblem451A
+
+implementation
+
+900
+
+After winning gold and silver in IOI 2014 Akshat and Malvika want to have some fun Now they are playing a game on a grid made of n horizontal and m vertical sticksAn intersection point is any point on the grid which is formed by the intersection of one horizontal stick and one vertical stickIn the grid shown below n3 and m3 There are nm6 sticks in total horizontal sticks are shown in red and vertical sticks are shown in green There are nm9 intersection points numbered from 1 to 9  The rules of the game are very simple The players move in turns Akshat won gold so he makes the first move During hisher move a player must choose any remaining intersection point and remove from the grid all sticks which pass through this point A player will lose the game if heshe cannot make a move ie there are no intersection points remaining on the grid at hisher moveAssume that both players play optimally Who will win the game

@@ -1,0 +1,9 @@
+Easter Eggs                    
+
+https://codeforces.com/problemset/problem/78/B
+
+constructive algorithms
+
+1200
+
+The Easter Rabbit laid n eggs in a circle and is about to paint them. Each egg should be painted one color out of 7: red, orange, yellow, green, blue, indigo or violet. Also, the following conditions should be satisfied:  Each of the seven colors should be used to paint at least one egg.  Any four eggs lying sequentially should be painted different colors. Help the Easter Rabbit paint the eggs in the required manner. We know that it is always possible.

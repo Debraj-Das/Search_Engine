@@ -1,0 +1,9 @@
+Difference Array                    
+
+https://codeforces.com/problemset/problem/1707/B
+
+brute force
+
+1900
+
+You are given an array a consisting of n non-negative integers. It is guaranteed that a is sorted from small to large.For each operation, we generate a new array b_i=a_{i+1}-a_{i} for 1 \le i < n. Then we sort b from small to large, replace a with b, and decrease n by 1.After performing n-1 operations, n becomes 1. You need to output the only integer in array a (that is to say, you need to output a_1).

@@ -1,0 +1,9 @@
+Tear It Apart                    
+
+https://codeforces.com/problemset/problem/1821/C
+
+brute force
+
+1300
+
+You are given a string s, consisting of lowercase Latin letters.In one operation, you can select several (one or more) positions in it such that no two selected positions are adjacent to each other. Then you remove the letters on the selected positions from the string. The resulting parts are concatenated without changing their order.What is the smallest number of operations required to make all the letters in s the same?

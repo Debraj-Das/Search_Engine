@@ -1,0 +1,9 @@
+Working Week                    
+
+https://codeforces.com/problemset/problem/1735/A
+
+constructive algorithms
+
+800
+
+Your working week consists of n days numbered from 1 to n, after day n goes day 1 again. And 3 of them are days off. One of the days off is the last day, day n. You have to decide when the other two are.Choosing days off, you pursue two goals:   No two days should go one after the other. Note that you can't make day 1 a day off because it follows day n.  Working segments framed by days off should be as dissimilar as possible in duration. More specifically, if the segments are of size l_1, l_2, and l_3 days long, you want to maximize \min(|l_1 - l_2|, |l_2 - l_3|, |l_3 - l_1|). Output the maximum value of \min(|l_1 - l_2|, |l_2 - l_3|, |l_3 - l_1|) that can be obtained.

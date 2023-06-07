@@ -1,0 +1,9 @@
+You Are Given Two Binary Strings...                    
+
+https://codeforces.com/problemset/problem/1202/A
+
+bitmasks
+
+1100
+
+You are given two binary strings x and y, which are binary representations of some two integers (let's denote these integers as f(x) and f(y)). You can choose any integer k \ge 0, calculate the expression s_k = f(x) + f(y) \cdot 2^k and write the binary representation of s_k in reverse order (let's denote it as rev_k). For example, let x = 1010 and y = 11; you've chosen k = 1 and, since 2^1 = 10_2, so s_k = 1010_2 + 11_2 \cdot 10_2 = 10000_2 and rev_k = 00001.For given x and y, you need to choose such k that rev_k is lexicographically minimal (read notes if you don't know what does "lexicographically" means).It's guaranteed that, with given constraints, k exists and is finite.

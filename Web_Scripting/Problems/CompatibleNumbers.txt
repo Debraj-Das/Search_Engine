@@ -1,0 +1,9 @@
+Compatible Numbers                    
+
+httpscodeforcescomproblemsetproblem165E
+
+bitmasks
+
+2200
+
+Two integers x and y are compatible if the result of their bitwise AND equals zero that is a  b0 For example numbers 90 10110102 and 36 1001002 are compatible as 10110102  100100202 and numbers 3 112 and 6 1102 are not compatible as 112  1102102You are given an array of integers a1a2an Your task is to find the following for each array element is this element compatible with some other element from the given array If the answer to this question is positive then you also should find any suitable element

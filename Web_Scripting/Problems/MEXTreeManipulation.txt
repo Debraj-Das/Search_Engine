@@ -1,0 +1,9 @@
+MEX Tree Manipulation                    
+
+https://codeforces.com/problemset/problem/1740/H
+
+data structures
+
+3300
+
+Given a rooted tree, define the value of vertex u in the tree recursively as the MEX^\dagger of the values of its children. Note that it is only the children, not all of its descendants. In particular, the value of a leaf is 0.Pak Chanek has a rooted tree that initially only contains a single vertex with index 1, which is the root. Pak Chanek is going to do q queries. In the i-th query, Pak Chanek is given an integer x_i. Pak Chanek needs to add a new vertex with index i+1 as the child of vertex x_i. After adding the new vertex, Pak Chanek needs to recalculate the values of all vertices and report the sum of the values of all vertices in the current tree.^\dagger The MEX (minimum excluded) of an array is the smallest non-negative integer that does not belong to the array. For example, the MEX of [0,1,1,2,6,7] is 3 and the MEX of [6,9] is 0.

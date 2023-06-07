@@ -1,0 +1,9 @@
+Parsa's Humongous Tree                    
+
+https://codeforces.com/problemset/problem/1528/A
+
+dfs and similar
+
+1600
+
+Parsa has a humongous tree on n vertices.On each vertex v he has written two integers l_v and r_v.To make Parsa's tree look even more majestic, Nima wants to assign a number a_v (l_v \le a_v \le r_v) to each vertex v such that the beauty of Parsa's tree is maximized.Nima's sense of the beauty is rather bizarre. He defines the beauty of the tree as the sum of |a_u - a_v| over all edges (u, v) of the tree.Since Parsa's tree is too large, Nima can't maximize its beauty on his own. Your task is to find the maximum possible beauty for Parsa's tree.

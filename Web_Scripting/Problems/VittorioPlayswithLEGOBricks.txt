@@ -1,0 +1,9 @@
+Vittorio Plays with LEGO Bricks                    
+
+https://codeforces.com/problemset/problem/1776/B
+
+dp
+
+2200
+
+Vittorio is playing with his new LEGO Duplo bricks. All the bricks have the shape of a square cuboid with a 2 \times 2 square base and a height of 1. They can be arranged in the 3D space to build structures, provided that the following rules are met: No two bricks can intersect, but they can touch on their faces. The corners of every brick must have integer coordinates (so bricks are axis-aligned) and the z coordinates of all corners must be non-negative. The square bases of every brick must be parallel to the ground (i.e. the plane z=0). The lower base of any brick that is not touching the ground must touch the upper base of some other brick in a region of positive area (when this happens, the two bricks stay attached to each other thanks to small studs).For example, this is a valid structure:  Vittorio wants to build a structure that includes purple bricks in the following n positions: (x_1, 0, h), (x_2, 0, h), \dots, (x_n, 0, h) — these are the coordinates of the centers of their lower bases; note that all of these bricks have y coordinate equal to 0 and z coordinate equal to h. Vittorio will use additional bricks of other colors to support the purple bricks. He is willing to place bricks only in positions where the center of the lower base has y coordinate equal to 0. What is the minimum number of additional bricks needed?It can be shown that a valid construction always exists.

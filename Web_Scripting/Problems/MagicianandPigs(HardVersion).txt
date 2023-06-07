@@ -1,0 +1,9 @@
+Magician and Pigs (Hard Version)                    
+
+https://codeforces.com/problemset/problem/1774/F2
+
+binary search
+
+2700
+
+This is the hard version of the problem. The only difference between the two versions is the constraint on n and x. You can make hacks only if both versions of the problem are solved.Little09 has been interested in magic for a long time, and it's so lucky that he meets a magician! The magician will perform n operations, each of them is one of the following three: 1\ x: Create a pig with x Health Points.  2\ x: Reduce the Health Point of all living pigs by x.  3: Repeat all previous operations. Formally, assuming that this is the i-th operation in the operation sequence, perform the first i-1 operations (including "Repeat" operations involved) in turn.A pig will die when its Health Point is less than or equal to 0. Little09 wants to know how many living pigs there are after all the operations. Please, print the answer modulo 998\,244\,353.

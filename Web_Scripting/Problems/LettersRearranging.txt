@@ -1,0 +1,9 @@
+Letters Rearranging                    
+
+https://codeforces.com/problemset/problem/1093/B
+
+constructive algorithms
+
+900
+
+You are given a string s consisting only of lowercase Latin letters.You can rearrange all letters of this string as you wish. Your task is to obtain a good string by rearranging the letters of the given string or report that it is impossible to do it.Let's call a string good if it is not a palindrome. Palindrome is a string which is read from left to right the same as from right to left. For example, strings "abacaba", "aa" and "z" are palindromes and strings "bba", "xd" are not.You have to answer t independent queries.

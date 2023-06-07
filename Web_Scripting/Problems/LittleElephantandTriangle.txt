@@ -1,0 +1,9 @@
+Little Elephant and Triangle                    
+
+httpscodeforcescomproblemsetproblem220D
+
+geometry
+
+2500
+
+The Little Elephant is playing with the Cartesian coordinates system Most of all he likes playing with integer points The Little Elephant defines an integer point as a pair of integers xy such that 0xw and 0yh Thus the Little Elephant knows only w1h1 distinct integer pointsThe Little Elephant wants to paint a triangle with vertexes at integer points the triangles area must be a positive integer For that he needs to find the number of groups of three points that form such triangle At that the order of points in a group matters that is the group of three points 00 02 22 isnt equal to the group 02 00 22Help the Little Elephant to find the number of groups of three integer points that form a nondegenerate triangle with integer area

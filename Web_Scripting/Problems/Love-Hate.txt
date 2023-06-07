@@ -1,0 +1,9 @@
+Love-Hate                    
+
+https://codeforces.com/problemset/problem/1523/D
+
+bitmasks
+
+2400
+
+  William is hosting a party for n of his trader friends. They started a discussion on various currencies they trade, but there's an issue: not all of his trader friends like every currency. They like some currencies, but not others.For each William's friend i it is known whether he likes currency j. There are m currencies in total. It is also known that a trader may not like more than p currencies.Because friends need to have some common topic for discussions they need to find the largest by cardinality (possibly empty) subset of currencies, such that there are at least \lceil \frac{n}{2} \rceil friends (rounded up) who like each currency in this subset.

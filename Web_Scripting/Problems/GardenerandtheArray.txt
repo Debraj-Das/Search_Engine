@@ -1,0 +1,9 @@
+Gardener and the Array                    
+
+https://codeforces.com/problemset/problem/1775/B
+
+bitmasks
+
+1300
+
+The gardener Kazimir Kazimirovich has an array of n integers c_1, c_2, \dots, c_n.He wants to check if there are two different subsequences a and b of the original array, for which f(a) = f(b), where f(x) is the bitwise OR of all of the numbers in the sequence x.A sequence q is a subsequence of p if q can be obtained from p by deleting several (possibly none or all) elements.Two subsequences are considered different if the sets of indexes of their elements in the original sequence are different, that is, the values of the elements are not considered when comparing the subsequences.  

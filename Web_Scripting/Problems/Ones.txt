@@ -1,0 +1,9 @@
+Ones                    
+
+https://codeforces.com/problemset/problem/1487/F
+
+dp
+
+2900
+
+You are given a positive (greater than zero) integer n.You have to represent n as the sum of integers (possibly negative) consisting only of ones (digits '1'). For example, 24 = 11 + 11 + 1 + 1 and 102 = 111 - 11 + 1 + 1. Among all possible representations, you have to find the one that uses the minimum number of ones in total.

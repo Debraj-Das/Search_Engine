@@ -1,0 +1,9 @@
+Increase Sequence                    
+
+httpscodeforcescomproblemsetproblem466D
+
+combinatorics
+
+2100
+
+Peter has a sequence of integers a1a2an Peter wants all numbers in the sequence to equal h He can perform the operation of adding one on the segment lr add one to all elements of the sequence with indices from l to r inclusive At that Peter never chooses any element as the beginning of the segment twice Similarly Peter never chooses any element as the end of the segment twice In other words for any two segments l1r1 and l2r2 where Peter added one the following inequalities hold l1l2 and r1r2How many distinct ways are there to make all numbers in the sequence equal h Print this number of ways modulo 10000000071097 Two ways are considered distinct if one of them has a segment that isnt in the other way

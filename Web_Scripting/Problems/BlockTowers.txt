@@ -1,0 +1,9 @@
+Block Towers                    
+
+https://codeforces.com/problemset/problem/626/C
+
+brute force
+
+1600
+
+Students in a class are making towers of blocks. Each student makes a (non-zero) tower by stacking pieces lengthwise on top of each other. n of the students use pieces made of two blocks and m of the students use pieces made of three blocks.The students don’t want to use too many blocks, but they also want to be unique, so no two students’ towers may contain the same number of blocks. Find the minimum height necessary for the tallest of the students' towers.

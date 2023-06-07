@@ -1,0 +1,9 @@
+A task for substrings                    
+
+https://codeforces.com/problemset/problem/1801/G
+
+data structures
+
+3400
+
+ Philip is very fond of tasks on the lines. He had already solved all the problems known to him, but this was not enough for him. Therefore, Philip decided to come up with his own task.To do this, he took the string t and a set of n strings s_1, s_2, s_3, ..., s_n. Philip has m queries, in the ith of them, Philip wants to take a substring of the string t from l_ith to r_ith character, and count the number of its substrings that match some string from the set. More formally, Philip wants to count the number of pairs of positions a, b, such that l_i \le a \le b \le r_i, and the substring of the string t from ath to bth character coincides with some string s_j from the set.A substring of the string t from ath to bth character is a string obtained from t by removing the a - 1 character from the beginning and |t| - b characters from the end, where |t| denotes the length of the string t.Philip has already solved this problem, but can you? 

@@ -1,0 +1,9 @@
+April Fools Problem easy                    
+
+httpscodeforcescomproblemsetproblem802M
+
+greedy
+
+1200
+
+The marmots have prepared a very easy problem for this years HC2  this one It involves numbers n k and a sequence of n positive integers a1a2an They also came up with a beautiful and riveting story for the problem statement It explains what the input means what the program should output and it also reads like a good criminalHowever I Heidi will have none of that As my joke for today I am removing the story from the statement and replacing it with these two unhelpful paragraphs Now solve the problem fools

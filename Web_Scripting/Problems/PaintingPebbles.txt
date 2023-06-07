@@ -1,0 +1,9 @@
+Painting Pebbles                    
+
+httpscodeforcescomproblemsetproblem509B
+
+constructive algorithms
+
+1300
+
+There are n piles of pebbles on the table the ith pile contains ai pebbles Your task is to paint each pebble using one of the k given colors so that for each color c and any two piles i and j the difference between the number of pebbles of color c in pile i and number of pebbles of color c in pile j is at most oneIn other words lets say that bic is the number of pebbles of color c in the ith pile Then for any 1ck 1ijn the following condition must be satisfied bicbjc1 It isnt necessary to use all k colors if color c hasnt been used in pile i then bic is considered to be zero

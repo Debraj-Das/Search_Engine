@@ -1,0 +1,9 @@
+Merge Sort                    
+
+httpscodeforcescomproblemsetproblem873D
+
+constructive algorithms
+
+1800
+
+Merge sort is a wellknown sorting algorithm The main function that sorts the elements of array a with indices from lr can be implemented as follows  If the segment lr is already sorted in nondescending order that is for any i such that lir1 aiai1 then end the function call  Let   Call mergesortalmid  Call mergesortamidr  Merge segments lmid and midr making the segment lr sorted in nondescending order The merge algorithm doesnt call any other functions The array in this problem is 0indexed so to sort the whole array you need to call mergesorta0nThe number of calls of function mergesort is very important so Ivan has decided to calculate it while sorting the array For example if a1234 then there will be 1 call of mergesort  mergesort04 which will check that the array is sorted and then end If a213 then the number of calls is 3 first of all you call mergesort03 which then sets mid1 and calls mergesort01 and mergesort13 which do not perform any recursive calls because segments 01 and 13 are sortedIvan has implemented the program that counts the number of mergesort calls but now he needs to test it To do this he needs to find an array a such that a is a permutation of size n that is the number of elements in a is n and every integer number from 1n can be found in this array and the number of mergesort calls when sorting the array is exactly kHelp Ivan to find an array he wants

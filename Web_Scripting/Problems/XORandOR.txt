@@ -1,0 +1,9 @@
+XOR and OR                    
+
+httpscodeforcescomproblemsetproblem282C
+
+constructive algorithms
+
+1500
+
+The Bitlandians are quite weird people They do everything differently They have a different alphabet so they have a different definition for a stringA Bitlandish string is a string made only of characters 0 and 1BitHaval the mayor of Bitland loves to play with Bitlandish strings He takes some Bitlandish string a and applies several possibly zero operations to it In one operation the mayor may take any two adjacent characters of a string define one of them as x and the other one as y Then he calculates two values p and q pxxory qxory Then he replaces one of the two taken characters by p and the other one by qThe xor operation means the bitwise excluding OR operation The or operation is the bitwise OR operationSo for example one operation can transform string 11 to string 10 or to string 01 String 1 cannot be transformed into any other stringYouve got two Bitlandish strings a and b Your task is to check if it is possible for BitHaval to transform string a to string b in several possibly zero described operations

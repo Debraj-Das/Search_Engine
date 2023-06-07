@@ -1,0 +1,9 @@
+Eastern Exhibition                    
+
+https://codeforces.com/problemset/problem/1486/B
+
+binary search
+
+1500
+
+You and your friends live in n houses. Each house is located on a 2D plane, in a point with integer coordinates. There might be different houses located in the same point. The mayor of the city is asking you for places for the building of the Eastern exhibition. You have to find the number of places (points with integer coordinates), so that the summary distance from all the houses to the exhibition is minimal. The exhibition can be built in the same point as some house. The distance between two points (x_1, y_1) and (x_2, y_2) is |x_1 - x_2| + |y_1 - y_2|, where |x| is the absolute value of x. 

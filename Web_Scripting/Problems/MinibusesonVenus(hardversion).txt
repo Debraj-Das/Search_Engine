@@ -1,0 +1,9 @@
+Minibuses on Venus (hard version)                    
+
+https://codeforces.com/problemset/problem/1808/E3
+
+brute force
+
+2800
+
+This is the hard version of the problem. The only difference between the three versions is the constraints on n and k. You can make hacks only if all versions of the problem are solved.Maxim is a minibus driver on Venus.To ride on Maxim's minibus, you need a ticket. Each ticket has a number consisting of n digits. However, as we know, the residents of Venus use a numeral system with base k, rather than the decimal system. Therefore, the ticket number can be considered as a sequence of n integers from 0 to k-1, inclusive.The residents of Venus consider a ticket to be lucky if there is a digit on it that is equal to the sum of the remaining digits, modulo k. For example, if k=10, then the ticket 7135 is lucky because 7 + 1 + 5 \equiv 3 \pmod{10}. On the other hand, the ticket 7136 is not lucky because no digit is equal to the sum of the others modulo 10.Once, while on a trip, Maxim wondered: how many lucky tickets exist? At the same time, Maxim understands that this number can be very large, so he is interested only in the answer modulo some prime number m.  

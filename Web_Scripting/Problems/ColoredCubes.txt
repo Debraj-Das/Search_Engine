@@ -1,0 +1,9 @@
+Colored Cubes                    
+
+https://codeforces.com/problemset/problem/1025/E
+
+constructive algorithms
+
+2700
+
+Vasya passes all exams! Despite expectations, Vasya is not tired, moreover, he is ready for new challenges. However, he does not want to work too hard on difficult problems.Vasya remembered that he has a not-so-hard puzzle: m colored cubes are placed on a chessboard of size n \times n. The fact is that m \leq n and all cubes have distinct colors. Each cube occupies exactly one cell. Also, there is a designated cell for each cube on the board, the puzzle is to place each cube on its place. The cubes are fragile, so in one operation you only can move one cube onto one of four neighboring by side cells, if only it is empty. Vasya wants to be careful, so each operation takes exactly one second. Vasya used to train hard for VK Cup Final, so he can focus his attention on the puzzle for at most 3 hours, that is 10800 seconds. Help Vasya find such a sequence of operations that all cubes will be moved onto their designated places, and Vasya won't lose his attention.

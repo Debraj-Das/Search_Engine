@@ -1,0 +1,9 @@
+Madoka and Math Dad                    
+
+https://codeforces.com/problemset/problem/1647/A
+
+implementation
+
+800
+
+Madoka finally found the administrator password for her computer. Her father is a well-known popularizer of mathematics, so the password is the answer to the following problem.Find the maximum decimal number without zeroes and with no equal digits in a row, such that the sum of its digits is n.Madoka is too tired of math to solve it herself, so help her to solve this problem!

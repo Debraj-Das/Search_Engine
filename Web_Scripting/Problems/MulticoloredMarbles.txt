@@ -1,0 +1,9 @@
+Multicolored Marbles                    
+
+httpscodeforcescomproblemsetproblem209A
+
+dp
+
+1600
+
+Polycarpus plays with red and blue marbles He put n marbles from the left to the right in a row As it turned out the marbles form a zebroidA nonempty sequence of red and blue marbles is a zebroid if the colors of the marbles in this sequence alternate For example sequences red blue red and blue are zebroids and sequence red red is not a zebroidNow Polycarpus wonders how many ways there are to pick a zebroid subsequence from this sequence Help him solve the problem find the number of ways modulo 1000000007 1097

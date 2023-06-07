@@ -1,0 +1,9 @@
+Powered Addition                    
+
+https://codeforces.com/problemset/problem/1338/A
+
+greedy
+
+1500
+
+You have an array a of length n. For every positive integer x you are going to perform the following operation during the x-th second:  Select some distinct indices i_{1}, i_{2}, \ldots, i_{k} which are between 1 and n inclusive, and add 2^{x-1} to each corresponding position of a. Formally, a_{i_{j}} := a_{i_{j}} + 2^{x-1} for j = 1, 2, \ldots, k. Note that you are allowed to not select any indices at all. You have to make a nondecreasing as fast as possible. Find the smallest number T such that you can make the array nondecreasing after at most T seconds.Array a is nondecreasing if and only if a_{1} \le a_{2} \le \ldots \le a_{n}.You have to answer t independent test cases.

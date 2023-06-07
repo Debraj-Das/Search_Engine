@@ -1,0 +1,9 @@
+K-Set Tree                    
+
+https://codeforces.com/problemset/problem/1691/F
+
+combinatorics
+
+2500
+
+You are given a tree G with n vertices and an integer k. The vertices of the tree are numbered from 1 to n.For a vertex r and a subset S of vertices of G, such that |S| = k, we define f(r, S) as the size of the smallest rooted subtree containing all vertices in S when the tree is rooted at r. A set of vertices T is called a rooted subtree, if all the vertices in T are connected, and for each vertex in T, all its descendants belong to T.You need to calculate the sum of f(r, S) over all possible distinct combinations of vertices r and subsets S, where |S| = k. Formally, compute the following: \sum_{r \in V} \sum_{S \subseteq V, |S| = k} f(r, S), where V is the set of vertices in G.Output the answer modulo 10^9 + 7.

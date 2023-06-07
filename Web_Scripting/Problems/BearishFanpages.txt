@@ -1,0 +1,9 @@
+Bearish Fanpages                    
+
+httpscodeforcescomproblemsetproblem643D
+
+
+
+2900
+
+There is a social website with n fanpages numbered 1 through n There are also n companies and the ith company owns the ith fanpageRecently the website created a feature called following Each fanpage must choose exactly one other fanpage to followThe website doesnt allow a situation where i follows j and at the same time j follows i Also a fanpage cant follow itselfLets say that fanpage i follows some other fanpage j0 Also lets say that i is followed by k other fanpages j1j2jk Then when people visit fanpage i they see ads from k2 distinct companies ij0j1jk Exactly ti people subscribe like the ith fanpage and each of them will click exactly one add For each of k1 companies j0j1jk exactly  people will click their ad Remaining  people will click an ad from company i the owner of the fanpageThe total income of the company is equal to the number of people who click ads from this copmanyLimak and Radewoosh ask you for help Initially fanpage i follows fanpage fi Your task is to handle q queries of three types  1 i j fanpage i follows fanpage j from now Its guaranteed that i didnt follow j just before the query Note an extra constraint for the number of queries of this type below in the Input section  2 i print the total income of the ith company  3 print two integers the smallest income of one company and the biggest income of one company 

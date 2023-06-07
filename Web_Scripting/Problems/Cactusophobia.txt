@@ -1,0 +1,9 @@
+Cactusophobia                    
+
+https://codeforces.com/problemset/problem/720/B
+
+dfs and similar
+
+2400
+
+Tree is a connected undirected graph that has no cycles. Edge cactus is a connected undirected graph without loops and parallel edges, such that each edge belongs to at most one cycle.Vasya has an edge cactus, each edge of this graph has some color.Vasya would like to remove the minimal number of edges in such way that his cactus turned to a tree. Vasya wants to make it in such a way that there were edges of as many different colors in the resulting tree, as possible. Help him to find how many different colors can the resulting tree have.

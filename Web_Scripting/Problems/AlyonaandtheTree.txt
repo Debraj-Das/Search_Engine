@@ -1,0 +1,9 @@
+Alyona and the Tree                    
+
+httpscodeforcescomproblemsetproblem682C
+
+dfs and similar
+
+1600
+
+Alyona decided to go on a diet and went to the forest to get some apples There she unexpectedly found a magic rooted tree with root in the vertex 1 every vertex and every edge of which has a number written onThe girl noticed that some of the trees vertices are sad so she decided to play with them Lets call vertex v sad if there is a vertex u in subtree of vertex v such that distvuau where au is the number written on vertex u distvu is the sum of the numbers written on the edges on the path from v to uLeaves of a tree are vertices connected to a single vertex by a single edge but the root of a tree is a leaf if and only if the tree consists of a single vertex rootThus Alyona decided to remove some of tree leaves until there will be no any sad vertex left in the tree What is the minimum number of leaves Alyona needs to remove

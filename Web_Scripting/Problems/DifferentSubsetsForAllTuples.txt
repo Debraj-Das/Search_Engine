@@ -1,0 +1,9 @@
+Different Subsets For All Tuples                    
+
+httpscodeforcescomproblemsetproblem660E
+
+combinatorics
+
+2300
+
+For a sequence a of n integers between 1 and m inclusive denote fa as the number of distinct subsequences of a including the empty subsequenceYou are given two positive integers n and m Let S be the set of all sequences of length n consisting of numbers from 1 to m Compute the sum fa over all a in S modulo 1097

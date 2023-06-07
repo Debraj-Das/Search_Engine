@@ -1,0 +1,9 @@
+Jog Around The Graph                    
+
+https://codeforces.com/problemset/problem/1366/F
+
+binary search
+
+2700
+
+You are given a simple weighted connected undirected graph, consisting of n vertices and m edges.A path in the graph of length k is a sequence of k+1 vertices v_1, v_2, \dots, v_{k+1} such that for each i (1 \le i \le k) the edge (v_i, v_{i+1}) is present in the graph. A path from some vertex v also has vertex v_1=v. Note that edges and vertices are allowed to be included in the path multiple times.The weight of the path is the total weight of edges in it.For each i from 1 to q consider a path from vertex 1 of length i of the maximum weight. What is the sum of weights of these q paths?Answer can be quite large, so print it modulo 10^9+7.

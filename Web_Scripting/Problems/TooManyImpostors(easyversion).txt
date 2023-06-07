@@ -1,0 +1,9 @@
+Too Many Impostors (easy version)                    
+
+https://codeforces.com/problemset/problem/1617/D1
+
+constructive algorithms
+
+1800
+
+This is an interactive problem. The only difference between the easy and hard version is the limit on number of questions.There are n players labelled from 1 to n. It is guaranteed that n is a multiple of 3.Among them, there are k impostors and n-k crewmates. The number of impostors, k, is not given to you. It is guaranteed that \frac{n}{3} < k < \frac{2n}{3}.In each question, you can choose three distinct integers a, b, c (1 \le a, b, c \le n) and ask: "Among the players labelled a, b and c, are there more impostors or more crewmates?" You will be given the integer 0 if there are more impostors than crewmates, and 1 otherwise.Find the number of impostors k and the indices of players that are impostors after asking at most 2n questions.The jury is adaptive, which means the indices of impostors may not be fixed beforehand and can depend on your questions. It is guaranteed that there is at least one set of impostors which fulfills the constraints and the answers to your questions at any time.

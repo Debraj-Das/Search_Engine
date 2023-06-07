@@ -1,0 +1,9 @@
+Arpa and a research in Mexican wave                    
+
+httpscodeforcescomproblemsetproblem851A
+
+implementation
+
+800
+
+Arpa is researching the Mexican waveThere are n spectators in the stadium labeled from 1 to n They start the Mexican wave at time 0   At time 1 the first spectator stands  At time 2 the second spectator stands    At time k the kth spectator stands  At time k1 the k1th spectator stands and the first spectator sits  At time k2 the k2th spectator stands and the second spectator sits    At time n the nth spectator stands and the nkth spectator sits  At time n1 the n1kth spectator sits    At time nk the nth spectator sits Arpa wants to know how many spectators are standing at time t

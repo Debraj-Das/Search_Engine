@@ -1,0 +1,9 @@
+Random Elections                    
+
+httpscodeforcescomproblemsetproblem850E
+
+bitmasks
+
+2800
+
+The presidential election is coming in Bearland next year Everybody is so excited about thisSo far there are three candidates Alice Bob and Charlie There are n citizens in Bearland The election result will determine the life of all citizens of Bearland for many years Because of this great responsibility each of n citizens will choose one of six orders of preference between Alice Bob and Charlie uniformly at random independently from other votersThe government of Bearland has devised a function to help determine the outcome of the election given the voters preferences More specifically the function is  takes n boolean numbers and returns a boolean number The function also obeys the following property f1x11x21xn1fx1x2xnThree rounds will be run between each pair of candidates Alice and Bob Bob and Charlie Charlie and Alice In each round xi will be equal to 1 if ith citizen prefers the first candidate to second in this round and 0 otherwise After this yfx1x2xn will be calculated If y1 the first candidate will be declared as winner in this round If y0 the second will be the winner respectivelyDefine the probability that there is a candidate who won two rounds as p p6n is always an integer Print the value of this integer modulo 10971 000 000 007

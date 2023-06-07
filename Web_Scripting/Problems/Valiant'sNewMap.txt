@@ -1,0 +1,9 @@
+Valiant's New Map                    
+
+https://codeforces.com/problemset/problem/1731/D
+
+binary search
+
+1700
+
+Game studio "DbZ Games" wants to introduce another map in their popular game "Valiant". This time, the map named "Panvel" will be based on the city of Mumbai.Mumbai can be represented as n \times m cellular grid. Each cell (i, j) (1 \le i \le n; 1 \le j \le m) of the grid is occupied by a cuboid building of height a_{i,j}.This time, DbZ Games want to make a map that has perfect vertical gameplay. That's why they want to choose an l \times l square inside Mumbai, such that each building inside the square has a height of at least l.Can you help DbZ Games find such a square of the maximum possible size l?

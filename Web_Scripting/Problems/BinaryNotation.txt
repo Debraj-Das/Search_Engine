@@ -1,0 +1,9 @@
+Binary notation                    
+
+https://codeforces.com/problemset/problem/153/B
+
+*special problem
+
+1800
+
+You are given a positive integer n. Output its binary notation.

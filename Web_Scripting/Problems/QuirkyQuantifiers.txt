@@ -1,0 +1,9 @@
+Quirky Quantifiers                    
+
+httpscodeforcescomproblemsetproblem952A
+
+math
+
+800
+
+InputThe input contains a single integer a 10a999OutputOutput 0 or 1ExamplesInput13Output1Input927Output1Input48Output0

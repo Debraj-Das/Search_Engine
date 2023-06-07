@@ -1,0 +1,9 @@
+King Escape                    
+
+https://codeforces.com/problemset/problem/1033/A
+
+dfs and similar
+
+1000
+
+Alice and Bob are playing chess on a huge chessboard with dimensions n \times n. Alice has a single piece left — a queen, located at (a_x, a_y), while Bob has only the king standing at (b_x, b_y). Alice thinks that as her queen is dominating the chessboard, victory is hers. But Bob has made a devious plan to seize the victory for himself — he needs to march his king to (c_x, c_y) in order to claim the victory for himself. As Alice is distracted by her sense of superiority, she no longer moves any pieces around, and it is only Bob who makes any turns.Bob will win if he can move his king from (b_x, b_y) to (c_x, c_y) without ever getting in check. Remember that a king can move to any of the 8 adjacent squares. A king is in check if it is on the same rank (i.e. row), file (i.e. column), or diagonal as the enemy queen. Find whether Bob can win or not.

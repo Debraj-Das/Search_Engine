@@ -1,0 +1,9 @@
+Zeros and Ones                    
+
+https://codeforces.com/problemset/problem/1734/F
+
+bitmasks
+
+2500
+
+Let S be the Thue-Morse sequence. In other words, S is the 0-indexed binary string with infinite length that can be constructed as follows:   Initially, let S be "0".  Then, we perform the following operation infinitely many times: concatenate S with a copy of itself with flipped bits.For example, here are the first four iterations:  IterationS before iterationS before iteration with flipped bitsConcatenated S1010120110011030110100101101001401101001100101100110100110010110\ldots\ldots\ldots\ldots  You are given two positive integers n and m. Find the number of positions where the strings S_0 S_1 \ldots S_{m-1} and S_n S_{n + 1} \ldots S_{n + m - 1} are different. 

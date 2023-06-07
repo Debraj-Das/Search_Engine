@@ -1,0 +1,9 @@
+Packmen                    
+
+httpscodeforcescomproblemsetproblem847E
+
+binary search
+
+1800
+
+A game field is a strip of 1n square cells In some cells there are Packmen in some cells asterisks other cells are emptyPackman can move to neighboring cell in 1 time unit If there is an asterisk in the target cell then Packman eats it Packman doesnt spend any time to eat an asteriskIn the initial moment of time all Packmen begin to move Each Packman can change direction of its move unlimited number of times but it is not allowed to go beyond the boundaries of the game field Packmen do not interfere with the movement of other packmen in one cell there can be any number of packmen moving in any directionsYour task is to determine minimum possible time after which Packmen can eat all the asterisks

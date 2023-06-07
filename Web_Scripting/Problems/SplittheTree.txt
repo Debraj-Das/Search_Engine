@@ -1,0 +1,9 @@
+Split the Tree                    
+
+https://codeforces.com/problemset/problem/1059/E
+
+binary search
+
+2400
+
+You are given a rooted tree on n vertices, its root is the vertex number 1. The i-th vertex contains a number w_i. Split it into the minimum possible number of vertical paths in such a way that each path contains no more than L vertices and the sum of integers w_i on each path does not exceed S. Each vertex should belong to exactly one path.A vertical path is a sequence of vertices v_1, v_2, \ldots, v_k where v_i (i \ge 2) is the parent of v_{i - 1}.

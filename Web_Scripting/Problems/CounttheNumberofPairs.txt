@@ -1,0 +1,9 @@
+Count the Number of Pairs                    
+
+https://codeforces.com/problemset/problem/1800/B
+
+greedy
+
+1000
+
+Kristina has a string s of length n, consisting only of lowercase and uppercase Latin letters. For each pair of lowercase letter and its matching uppercase letter, Kristina can get 1 burl. However, pairs of characters cannot overlap, so each character can only be in one pair.For example, if she has the string s = "aAaaBACacbE", she can get a burl for the following character pairs:   s_1 = "a" and s_2 = "A"  s_4 = "a" and s_6 = "A"  s_5 = "B" and s_{10} = "b"  s_7= "C" and s_9 = "c" Kristina wants to get more burles for her string, so she is going to perform no more than k operations on it. In one operation, she can:  either select the lowercase character s_i (1 \le i \le n) and make it uppercase.  or select uppercase character s_i (1 \le i \le n) and make it lowercase. For example, when k = 2 and s = "aAaaBACacbE" it can perform one operation: choose s_3 = "a" and make it uppercase. Then she will get another pair of s_3 = "A" and s_8 = "a"Find maximum number of burles Kristina can get for her string.

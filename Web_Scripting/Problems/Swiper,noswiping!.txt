@@ -1,0 +1,9 @@
+Swiper, no swiping!                    
+
+https://codeforces.com/problemset/problem/1239/F
+
+graphs
+
+3400
+
+I'm the Map, I'm the Map! I'm the MAP!!!MapIn anticipation of new adventures Boots wanted to do a good deed. After discussion with the Map and Backpack, they decided to gift Dora a connected graph. After a long search, Boots chose t graph's variants, which Dora might like. However fox Swiper wants to spoil his plan.The Swiper knows, that Dora now is only able to count up to 3, so he has came up with a following idea. He wants to steal some non-empty set of vertices, so that the Dora won't notice the loss. He has decided to steal some non-empty set of vertices, so that after deletion of the stolen vertices and edges adjacent to them, every remaining vertex wouldn't change it's degree modulo 3. The degree of a vertex is the number of edges it is adjacent to. It would've been suspicious to steal all the vertices, so Swiper needs another plan.Boots are sure, that the crime can not be allowed. However they are afraid, that they won't be able to handle this alone. So Boots decided to ask for your help. Please determine for every graph's variant whether the Swiper can perform the theft or not.

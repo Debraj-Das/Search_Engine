@@ -1,0 +1,9 @@
+Simple XML                    
+
+httpscodeforcescomproblemsetproblem125B
+
+implementation
+
+1000
+
+Lets define a string x as an opening tag where x is any small letter of the Latin alphabet Each opening tag matches a closing tag of the type x where x is the same letterTegs can be nested into each other in this case one opening and closing tag pair is located inside another pairLets define the notion of a XMLtext   an empty string is a XMLtext  if s is a XMLtext then sasa also is a XMLtext where a is any small Latin letter  if s1 s2 are XMLtexts then s1s2 also is a XMLtext You are given a XMLtext it is guaranteed that the text is valid your task is to print in the following form   each tag opening and closing is located on a single line  print before the tag 2h spaces where h is the level of the tags nestedness 

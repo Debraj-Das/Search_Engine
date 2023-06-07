@@ -1,0 +1,9 @@
+Incinerate                    
+
+https://codeforces.com/problemset/problem/1763/B
+
+binary search
+
+1200
+
+To destroy humanity, The Monster Association sent n monsters to Earth's surface. The i-th monster has health h_i and power p_i.With his last resort attack, True Spiral Incineration Cannon, Genos can deal k damage to all monsters alive. In other words, Genos can reduce the health of all monsters by k (if k > 0) with a single attack. However, after every attack Genos makes, the monsters advance. With their combined efforts, they reduce Genos' attack damage by the power of the ^\daggerweakest monster ^\ddaggeralive. In other words, the minimum p_i among all currently living monsters is subtracted from the value of k after each attack.^\daggerThe Weakest monster is the one with the least power.^\ddaggerA monster is alive if its health is strictly greater than 0.Will Genos be successful in killing all the monsters?

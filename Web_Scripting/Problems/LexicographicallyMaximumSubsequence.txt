@@ -1,0 +1,9 @@
+Lexicographically Maximum Subsequence                    
+
+httpscodeforcescomproblemsetproblem196A
+
+greedy
+
+1100
+
+Youve got string s consisting of only lowercase English letters Find its lexicographically maximum subsequenceWell call a nonempty string sp1p2 pksp1sp2 spk1p1p2pks a subsequence of string ss1s2 ssString xx1x2 xx is lexicographically larger than string yy1y2 yy if either xy and x1y1x2y2 xyyy or exists such number r rxry that x1y1x2y2 xryr and xr1yr1 Characters in lines are compared like their ASCII codes

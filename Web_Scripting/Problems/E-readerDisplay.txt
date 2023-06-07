@@ -1,0 +1,9 @@
+Ereader Display                    
+
+httpscodeforcescomproblemsetproblem126C
+
+constructive algorithms
+
+2000
+
+After years of hard work scientists invented an absolutely new ereader display The new display has a larger resolution consumes less energy and its production is cheaper And besides one can bend it The only inconvenience is highly unusual management For that very reason the developers decided to leave the ereaders software to programmersThe display is represented by nn square of pixels each of which can be either black or white The display rows are numbered with integers from 1 to n upside down the columns are numbered with integers from 1 to n from the left to the right The display can perform commands like xy When a traditional display fulfills such command it simply inverts a color of xy where x is the row number and y is the column number But in our new display every pixel that belongs to at least one of the segments xxxy and yyxy both ends of both segments are included inverts a colorFor example if initially a display 55 in size is absolutely white then the sequence of commands 14 35 51 33 leads to the following changes  You are an ereader software programmer and you should calculate minimal number of commands needed to display the picture You can regard all display pixels as initially white

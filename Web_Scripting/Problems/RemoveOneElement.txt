@@ -1,0 +1,9 @@
+Remove One Element                    
+
+https://codeforces.com/problemset/problem/1272/D
+
+brute force
+
+1500
+
+You are given an array a consisting of n integers.You can remove at most one element from this array. Thus, the final length of the array is n-1 or n.Your task is to calculate the maximum possible length of the strictly increasing contiguous subarray of the remaining array.Recall that the contiguous subarray a with indices from l to r is a[l \dots r] = a_l, a_{l + 1}, \dots, a_r. The subarray a[l \dots r] is called strictly increasing if a_l < a_{l+1} < \dots < a_r.

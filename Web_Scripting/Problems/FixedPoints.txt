@@ -1,0 +1,9 @@
+Fixed Points                    
+
+httpscodeforcescomproblemsetproblem1551E
+
+binary search
+
+2000
+
+Consider a sequence of integers a1 a2 ldots an In one move you can select any element of the sequence and delete it After an element is deleted all elements to the right are shifted to the left by 1 position so there are no empty spaces in the sequence So after you make a move the sequences length decreases by 1 The indices of the elements after the move are recalculatedEg let the sequence be a3 2 2 1 5 Lets select the element a32 in a move Then after the move the sequence will be equal to a3 2 1 5 so the 3rd element of the new sequence will be a31 and the 4th element will be a45You are given a sequence a1 a2 ldots an and a number k You need to find the minimum number of moves you have to make so that in the resulting sequence there will be at least k elements that are equal to their indices ie the resulting sequence b1 b2 ldots bm will contain at least k indices i such that bi  i

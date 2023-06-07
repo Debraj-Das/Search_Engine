@@ -1,0 +1,9 @@
+The Child and Toy                    
+
+httpscodeforcescomproblemsetproblem437C
+
+graphs
+
+1400
+
+On Childrens Day the child got a toy from Delayyy as a present However the child is so naughty that he cant wait to destroy the toyThe toy consists of n parts and m ropes Each rope links two parts but every pair of parts is linked by at most one rope To split the toy the child must remove all its parts The child can remove a single part at a time and each remove consume an energy Lets define an energy value of part i as vi The child spend vf1vf2vfk energy for removing part i where f1f2fk are the parts that are directly connected to the ith and havent been removedHelp the child to find out what is the minimum total energy he should spend to remove all n parts

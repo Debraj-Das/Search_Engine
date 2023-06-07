@@ -1,0 +1,9 @@
+TubeTube Feed                    
+
+https://codeforces.com/problemset/problem/1822/A
+
+brute force
+
+800
+
+Mushroom Filippov cooked himself a meal and while having his lunch, he decided to watch a video on TubeTube. He can not spend more than t seconds for lunch, so he asks you for help with the selection of video.The TubeTube feed is a list of n videos, indexed from 1 to n. The i-th video lasts a_i seconds and has an entertainment value b_i. Initially, the feed is opened on the first video, and Mushroom can skip to the next video in 1 second (if the next video exists). Mushroom can skip videos any number of times (including zero).Help Mushroom choose one video that he can open and watch in t seconds. If there are several of them, he wants to choose the most entertaining one. Print the index of any appropriate video, or -1 if there is no such.

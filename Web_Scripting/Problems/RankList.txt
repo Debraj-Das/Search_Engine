@@ -1,0 +1,9 @@
+Rank List                    
+
+httpscodeforcescomproblemsetproblem166A
+
+binary search
+
+1100
+
+Another programming contest is over You got hold of the contests final results table The table has the following data For each team we are shown two numbers the number of problems and the total penalty time However for no team we are shown its final placeYou know the rules of comparing the results of two given teams very well Lets say that team a solved pa problems with total penalty time ta and team b solved pb problems with total penalty time tb Team a gets a higher place than team b in the end if it either solved more problems on the contest or solved the same number of problems but in less total time In other words team a gets a higher place than team b in the final results table if either papb or papb and tatb It is considered that the teams that solve the same number of problems with the same penalty time share all corresponding places More formally lets say there is a group of x teams that solved the same number of problems with the same penalty time Lets also say that y teams performed better than the teams from this group In this case all teams from the group share places y1 y2  yx The teams that performed worse than the teams from this group get their places in the results table starting from the yx1th placeYour task is to count what number of teams from the given list shared the kth place 

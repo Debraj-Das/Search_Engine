@@ -1,0 +1,9 @@
+Robot Arm                    
+
+httpscodeforcescomproblemsetproblem618E
+
+data structures
+
+2500
+
+Roger is a robot He has an arm that is a series of n segments connected to each other The endpoints of the ith segment are initially located at points i10 and i0 The endpoint at i10 is colored red and the endpoint at i0 is colored blue for all segments Thus the blue endpoint of the ith segment is touching the red endpoint of the i1th segment for all valid iRoger can move his arm in two different ways   He can choose some segment and some value This is denoted as choosing the segment number i and picking some positive l This change happens as follows the red endpoint of segment number i and segments from 1 to i1 are all fixed in place Imagine a ray from the red endpoint to the blue endpoint The blue endpoint and segments i1 through n are translated l units in the direction of this ray   In this picture the red point labeled A and segments before A stay in place while the blue point labeled B and segments after B gets translated He can choose a segment and rotate it This is denoted as choosing the segment number i and an angle a The red endpoint of the ith segment will stay fixed in place The blue endpoint of that segment and segments i1 to n will rotate clockwise by an angle of a degrees around the red endpoint   In this picture the red point labeled A and segments before A stay in place while the blue point labeled B and segments after B get rotated around point A Roger will move his arm m times These transformations are a bit complicated and Roger easily loses track of where the blue endpoint of the last segment is Help him compute the coordinates of the blue endpoint of the last segment after applying each operation Note that these operations are cumulative and Rogers arm may intersect itself arbitrarily during the moves

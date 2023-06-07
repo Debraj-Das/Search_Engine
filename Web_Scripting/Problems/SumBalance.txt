@@ -1,0 +1,9 @@
+Sum Balance                    
+
+https://codeforces.com/problemset/problem/1242/C
+
+bitmasks
+
+2400
+
+Ujan has a lot of numbers in his boxes. He likes order and balance, so he decided to reorder the numbers.There are k boxes numbered from 1 to k. The i-th box contains n_i integer numbers. The integers can be negative. All of the integers are distinct. Ujan is lazy, so he will do the following reordering of the numbers exactly once. He will pick a single integer from each of the boxes, k integers in total. Then he will insert the chosen numbers — one integer in each of the boxes, so that the number of integers in each box is the same as in the beginning. Note that he may also insert an integer he picked from a box back into the same box.Ujan will be happy if the sum of the integers in each box is the same. Can he achieve this and make the boxes perfectly balanced, like all things should be?

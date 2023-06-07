@@ -1,0 +1,9 @@
+Tree Constructing                    
+
+https://codeforces.com/problemset/problem/1003/E
+
+constructive algorithms
+
+2100
+
+You are given three integers n, d and k.Your task is to construct an undirected tree on n vertices with diameter d and degree of each vertex at most k, or say that it is impossible.An undirected tree is a connected undirected graph with n - 1 edges.Diameter of a tree is the maximum length of a simple path (a path in which each vertex appears at most once) between all pairs of vertices of this tree.Degree of a vertex is the number of edges incident to this vertex (i.e. for a vertex u it is the number of edges (u, v) that belong to the tree, where v is any other vertex of a tree).

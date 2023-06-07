@@ -1,0 +1,9 @@
+Weighed Tree Radius                    
+
+https://codeforces.com/problemset/problem/1783/G
+
+data structures
+
+2800
+
+You are given a tree of n vertices and n - 1 edges. The i-th vertex has an initial weight a_i.Let the distance d_v(u) from vertex v to vertex u be the number of edges on the path from v to u. Note that d_v(u) = d_u(v) and d_v(v) = 0.Let the weighted distance w_v(u) from v to u be w_v(u) = d_v(u) + a_u. Note that w_v(v) = a_v and w_v(u) \neq w_u(v) if a_u \neq a_v.Analogically to usual distance, let's define the eccentricity e(v) of vertex v as the greatest weighted distance from v to any other vertex (including v itself), or e(v) = \max\limits_{1 \le u \le n}{w_v(u)}.Finally, let's define the radius r of the tree as the minimum eccentricity of any vertex, or r = \min\limits_{1 \le v \le n}{e(v)}.You need to perform m queries of the following form:   v_j x_j — assign a_{v_j} = x_j. After performing each query, print the radius r of the current tree.

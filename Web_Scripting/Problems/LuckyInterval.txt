@@ -1,0 +1,9 @@
+Lucky Interval                    
+
+httpscodeforcescomproblemsetproblem109E
+
+brute force
+
+2700
+
+Petya loves lucky numbers We all know that lucky numbers are the positive integers whose decimal representations contain only the lucky digits 4 and 7 For example numbers 47 744 4 are lucky and 5 17 467 are notOne day Petya came across an interval of numbers aal1 Let Fx be the number of lucky digits of number x Find the minimum b ab such that Fa  Fb Fa1  Fb1  Fal1  Fbl1

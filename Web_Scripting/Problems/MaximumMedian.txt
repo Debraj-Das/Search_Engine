@@ -1,0 +1,9 @@
+Maximum Median                    
+
+https://codeforces.com/problemset/problem/1201/C
+
+binary search
+
+1400
+
+You are given an array a of n integers, where n is odd. You can make the following operation with it:  Choose one of the elements of the array (for example a_i) and increase it by 1 (that is, replace it with a_i + 1). You want to make the median of the array the largest possible using at most k operations.The median of the odd-sized array is the middle element after the array is sorted in non-decreasing order. For example, the median of the array [1, 5, 2, 3, 5] is 3.

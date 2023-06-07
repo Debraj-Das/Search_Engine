@@ -1,0 +1,9 @@
+Laboratory Work                    
+
+httpscodeforcescomproblemsetproblem931C
+
+implementation
+
+1700
+
+Anya and Kirill are doing a physics laboratory work In one of the tasks they have to measure some value n times and then compute the average value to lower the errorKirill has already made his measurements and has got the following integer values x1 x2  xn It is important that the values are close to each other namely the difference between the maximum value and the minimum value is at most 2Anya does not want to make the measurements however she cant just copy the values from Kirills work because the error of each measurement is a random value and this coincidence will be noted by the teacher Anya wants to write such integer values y1 y2  yn in her work that the following conditions are met  the average value of x1x2xn is equal to the average value of y1y2yn all Anyas measurements are in the same bounds as all Kirills measurements that is the maximum value among Anyas values is not greater than the maximum value among Kirills values and the minimum value among Anyas values is not less than the minimum value among Kirills values the number of equal measurements in Anyas work and Kirills work is as small as possible among options with the previous conditions met Formally the teacher goes through all Anyas values one by one if there is equal value in Kirills work and it is not strike off yet he strikes off this Anyas value and one of equal values in Kirills work The number of equal measurements is then the total number of strike off values in Anyas work Help Anya to write such a set of measurements that the conditions above are met

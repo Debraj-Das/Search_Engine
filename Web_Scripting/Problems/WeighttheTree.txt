@@ -1,0 +1,9 @@
+Weight the Tree                    
+
+https://codeforces.com/problemset/problem/1646/D
+
+constructive algorithms
+
+2000
+
+You are given a tree of n vertices numbered from 1 to n. A tree is a connected undirected graph without cycles. For each i=1,2, \ldots, n, let w_i be the weight of the i-th vertex. A vertex is called good if its weight is equal to the sum of the weights of all its neighbors.Initially, the weights of all nodes are unassigned. Assign positive integer weights to each vertex of the tree, such that the number of good vertices in the tree is maximized. If there are multiple ways to do it, you have to find one that minimizes the sum of weights of all vertices in the tree.

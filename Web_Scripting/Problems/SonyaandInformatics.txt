@@ -1,0 +1,9 @@
+Sonya and Informatics                    
+
+https://codeforces.com/problemset/problem/1151/F
+
+combinatorics
+
+2300
+
+A girl named Sonya is studying in the scientific lyceum of the Kingdom of Kremland. The teacher of computer science (Sonya's favorite subject!) invented a task for her.Given an array a of length n, consisting only of the numbers 0 and 1, and the number k. Exactly k times the following happens:   Two numbers i and j are chosen equiprobable such that (1 \leq i < j \leq n).  The numbers in the i and j positions are swapped. Sonya's task is to find the probability that after all the operations are completed, the a array will be sorted in non-decreasing order. She turned to you for help. Help Sonya solve this problem.It can be shown that the desired probability is either 0 or it can be represented as \dfrac{P}{Q}, where P and Q are coprime integers and Q \not\equiv 0~\pmod {10^9+7}.

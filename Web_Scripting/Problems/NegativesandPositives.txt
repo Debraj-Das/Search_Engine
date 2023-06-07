@@ -1,0 +1,9 @@
+Negatives and Positives                    
+
+https://codeforces.com/problemset/problem/1791/E
+
+dp
+
+1100
+
+Given an array a consisting of n elements, find the maximum possible sum the array can have after performing the following operation any number of times:   Choose 2 adjacent elements and flip both of their signs. In other words choose an index i such that 1 \leq i \leq n - 1 and assign a_i = -a_i and a_{i+1} = -a_{i+1}. 

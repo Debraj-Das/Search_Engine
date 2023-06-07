@@ -1,0 +1,9 @@
+Teleporters (Easy Version)                    
+
+https://codeforces.com/problemset/problem/1791/G1
+
+greedy
+
+1100
+
+The only difference between the easy and hard versions are the locations you can teleport to.Consider the points 0, 1, \dots, n on the number line. There is a teleporter located on each of the points 1, 2, \dots, n. At point i, you can do the following:  Move left one unit: it costs 1 coin.  Move right one unit: it costs 1 coin.  Use a teleporter at point i, if it exists: it costs a_i coins. As a result, you teleport to point 0. Once you use a teleporter, you can't use it again. You have c coins, and you start at point 0. What's the most number of teleporters you can use?

@@ -1,0 +1,9 @@
+K-good                    
+
+https://codeforces.com/problemset/problem/1656/D
+
+constructive algorithms
+
+1900
+
+We say that a positive integer n is k-good for some positive integer k if n can be expressed as a sum of k positive integers which give k distinct remainders when divided by k.Given a positive integer n, find some k \geq 2 so that n is k-good or tell that such a k does not exist.

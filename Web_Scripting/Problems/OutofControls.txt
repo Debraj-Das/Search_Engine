@@ -1,0 +1,9 @@
+Out of Controls                    
+
+https://codeforces.com/problemset/problem/656/E
+
+*special problem
+
+2000
+
+You are given a complete undirected graph. For each pair of vertices you are given the length of the edge that connects them. Find the shortest paths between each pair of vertices in the graph and return the length of the longest of them.

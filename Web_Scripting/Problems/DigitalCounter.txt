@@ -1,0 +1,9 @@
+Digital Counter                    
+
+httpscodeforcescomproblemsetproblem495A
+
+implementation
+
+1100
+
+Malek lives in an apartment block with 100 floors numbered from 0 to 99 The apartment has an elevator with a digital counter showing the floor that the elevator is currently on The elevator shows each digit of a number with 7 light sticks by turning them on or off The picture below shows how the elevator shows each digitOne day when Malek wanted to go from floor 88 to floor 0 using the elevator he noticed that the counter shows number 89 instead of 88 Then when the elevator started moving the number on the counter changed to 87 After a little thinking Malek came to the conclusion that there is only one explanation for this One of the sticks of the counter was broken Later that day Malek was thinking about the broken stick and suddenly he came up with the following problemSuppose the digital counter is showing number n Malek calls an integer x 0x99 good if its possible that the digital counter was supposed to show x but because of somepossibly none broken sticks its showing n instead Malek wants to know number of good integers for a specific n So you must write a program that calculates this number Please note that the counter always shows two digits

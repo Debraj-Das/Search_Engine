@@ -1,0 +1,9 @@
+Boxers                    
+
+httpscodeforcescomproblemsetproblem1203E
+
+greedy
+
+1500
+
+There are n boxers the weight of the ith boxer is ai Each of them can change the weight by no more than 1 before the competition the weight cannot become equal to zero that is it must remain positive Weight is always an integer numberIt is necessary to choose the largest boxing team in terms of the number of people that all the boxers weights in the team are different ie uniqueWrite a program that for given current values ai will find the maximum possible number of boxers in a teamIt is possible that after some change the weight of some boxer is 150001 but no more

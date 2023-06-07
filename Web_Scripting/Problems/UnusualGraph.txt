@@ -1,0 +1,9 @@
+Unusual Graph                    
+
+https://codeforces.com/problemset/problem/1211/I
+
+*special problem
+
+3000
+
+Ivan on his birthday was presented with array of non-negative integers a_1, a_2, \ldots, a_n. He immediately noted that all a_i satisfy the condition 0 \leq a_i \leq 15.Ivan likes graph theory very much, so he decided to transform his sequence to the graph.There will be n vertices in his graph, and vertices u and v will present in the graph if and only if binary notations of integers a_u and a_v are differ in exactly one bit (in other words, a_u \oplus a_v = 2^k for some integer k \geq 0. Where \oplus is Bitwise XOR).A terrible thing happened in a couple of days, Ivan forgot his sequence a, and all that he remembers is constructed graph!Can you help him, and find any sequence a_1, a_2, \ldots, a_n, such that graph constructed by the same rules that Ivan used will be the same as his graph?

@@ -1,0 +1,9 @@
+Bipartite Array                    
+
+https://codeforces.com/problemset/problem/1620/F
+
+dp
+
+2800
+
+You are given a permutation p consisting of n integers 1, 2, \dots, n (a permutation is an array where each element from 1 to n occurs exactly once).Let's call an array a bipartite if the following undirected graph is bipartite:  the graph consists of n vertices;  two vertices i and j are connected by an edge if i < j and a_i > a_j. Your task is to find a bipartite array of integers a of size n, such that a_i = p_i or a_i = -p_i, or report that no such array exists. If there are multiple answers, print any of them.

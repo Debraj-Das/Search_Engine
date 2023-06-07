@@ -1,0 +1,9 @@
+Flowers and Chocolate                    
+
+httpscodeforcescomproblemsetproblem865G
+
+combinatorics
+
+3300
+
+Its Piegirls birthday soon and Pieguy has decided to buy her a bouquet of flowers and a basket of chocolatesThe flower shop has F different types of flowers available The ith type of flower always has exactly pi petals Pieguy has decided to buy a bouquet consisting of exactly N flowers He may buy the same type of flower multiple times The N flowers are then arranged into a bouquet The position of the flowers within a bouquet matters You can think of a bouquet as an ordered list of flower typesThe chocolate shop sells chocolates in boxes There are B different types of boxes available The ith type of box contains ci pieces of chocolate Pieguy can buy any number of boxes and can buy the same type of box multiple times He will then place these boxes into a basket The position of the boxes within the basket matters You can think of the basket as an ordered list of box typesPieguy knows that Piegirl likes to pluck a petal from a flower before eating each piece of chocolate He would like to ensure that she eats the last piece of chocolate from the last box just after plucking the last petal from the last flower That is the total number of petals on all the flowers in the bouquet should equal the total number of pieces of chocolate in all the boxes in the basketHow many different bouquetbasket combinations can Pieguy buy The answer may be very large so compute it modulo 10000000071097

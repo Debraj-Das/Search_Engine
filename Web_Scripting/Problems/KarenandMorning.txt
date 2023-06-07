@@ -1,0 +1,9 @@
+Karen and Morning                    
+
+https://codeforces.com/problemset/problem/816/A
+
+brute force
+
+1000
+
+Karen is getting ready for a new school day!  It is currently hh:mm, given in a 24-hour format. As you know, Karen loves palindromes, and she believes that it is good luck to wake up when the time is a palindrome.What is the minimum number of minutes she should sleep, such that, when she wakes up, the time is a palindrome?Remember that a palindrome is a string that reads the same forwards and backwards. For instance, 05:39 is not a palindrome, because 05:39 backwards is 93:50. On the other hand, 05:50 is a palindrome, because 05:50 backwards is 05:50.

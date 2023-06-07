@@ -1,0 +1,9 @@
+Menorah                    
+
+https://codeforces.com/problemset/problem/1615/C
+
+brute force
+
+1600
+
+There are n candles on a Hanukkah menorah, and some of its candles are initially lit. We can describe which candles are lit with a binary string s, where the i-th candle is lit if and only if s_i=1.  Initially, the candle lights are described by a string a. In an operation, you select a candle that is currently lit. By doing so, the candle you selected will remain lit, and every other candle will change (if it was lit, it will become unlit and if it was unlit, it will become lit).You would like to make the candles look the same as string b. Your task is to determine if it is possible, and if it is, find the minimum number of operations required.

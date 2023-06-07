@@ -1,0 +1,9 @@
+The Meaningless Game                    
+
+https://codeforces.com/problemset/problem/833/A
+
+math
+
+1700
+
+  Slastyona and her loyal dog Pushok are playing a meaningless game that is indeed very interesting.The game consists of multiple rounds. Its rules are very simple: in each round, a natural number k is chosen. Then, the one who says (or barks) it faster than the other wins the round. After that, the winner's score is multiplied by k2, and the loser's score is multiplied by k. In the beginning of the game, both Slastyona and Pushok have scores equal to one.Unfortunately, Slastyona had lost her notepad where the history of all n games was recorded. She managed to recall the final results for each games, though, but all of her memories of them are vague. Help Slastyona verify their correctness, or, to put it another way, for each given pair of scores determine whether it was possible for a game to finish with such result or not.

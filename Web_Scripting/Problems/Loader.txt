@@ -1,0 +1,9 @@
+Loader                    
+
+httpscodeforcescomproblemsetproblem683I
+
+special problem
+
+2500
+
+A loader works in a warehouse which is a rectangular field with size nm Some cells of this field are free others are occupied by pillars on which the roof of the warehouse rests There is a load in one of the free cells and the loader in another At any moment the loader and the load can not be in the cells with columns outside the warehouse or in the same cellThe loader can move to the adjacent cell two cells are considered adjacent if they have a common side or move the load To move the load the loader should reach the cell adjacent to the load and push the load In this case the load advances to the next cell in the direction in which the loader pushes it and the loader ends up in the cell in which the load wasYour task is to determine a sequence of pushes and loaders movements after which the load will reach the given cell it is guaranteed that this cell is free The load is rather heavy so you need to minimize first the number of pushes and second the number of loaders movements

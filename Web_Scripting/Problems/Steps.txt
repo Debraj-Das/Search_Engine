@@ -1,0 +1,9 @@
+Steps                    
+
+httpscodeforcescomproblemsetproblem152B
+
+binary search
+
+1300
+
+One day Vasya went out for a walk in the yard but there werent any of his friends outside and he had no one to play touch and run But the boy didnt lose the high spirits and decided to play touch and run with himself You may ask How did he do that The answer is simpleVasya noticed that the yard is a rectangular nm field The squares have coordinates xy 1xn1ym where x is the index of the row and y is the index of the columnInitially Vasya stands in the square with coordinates xcyc To play he has got a list of k vectors dxidyi of nonzero length The game goes like this The boy considers all vectors in the order from 1 to k and consecutively chooses each vector as the current one After the boy has chosen a current vector he makes the maximally possible number of valid steps in the vectors direction it is possible that he makes zero stepsA step is defined as one movement from the square where the boy is standing now in the direction of the current vector That is if Vasya is positioned in square xy and the current vector is dxdy one step moves Vasya to square xdxydy A step is considered valid if the boy does not go out of the yard if he performs the stepVasya stepped on and on on and on until he ran out of vectors in his list Ha had been stepping for so long that he completely forgot how many steps he had made Help the boy and count how many steps he had made

@@ -1,0 +1,9 @@
+Santa's Gift                    
+
+https://codeforces.com/problemset/problem/960/H
+
+data structures
+
+3100
+
+Santa has an infinite number of candies for each of m flavours. You are given a rooted tree with n vertices. The root of the tree is the vertex 1. Each vertex contains exactly one candy. The i-th vertex has a candy of flavour f_i.Sometimes Santa fears that candies of flavour k have melted. He chooses any vertex x randomly and sends the subtree of x to the Bakers for a replacement. In a replacement, all the candies with flavour k are replaced with a new candy of the same flavour. The candies which are not of flavour k are left unchanged. After the replacement, the tree is restored.The actual cost of replacing one candy of flavour k is c_k (given for each k). The Baker keeps the price fixed in order to make calculation simple. Every time when a subtree comes for a replacement, the Baker charges C, no matter which subtree it is and which flavour it is.Suppose that for a given flavour k the probability that Santa chooses a vertex for replacement is same for all the vertices. You need to find out the expected value of error in calculating the cost of replacement of flavour k. The error in calculating the cost is defined as follows. Error\ E(k) =\ (Actual Cost\ –\ Price\ charged\ by\ the\ Bakers) ^ 2.Note that the actual cost is the cost of replacement of one candy of the flavour k multiplied by the number of candies in the subtree.Also, sometimes Santa may wish to replace a candy at vertex x with a candy of some flavour from his pocket.You need to handle two types of operations:   Change the flavour of the candy at vertex x to w.  Calculate the expected value of error in calculating the cost of replacement for a given flavour k. 

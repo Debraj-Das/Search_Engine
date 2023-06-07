@@ -1,0 +1,9 @@
+Convex Countour                    
+
+https://codeforces.com/problemset/problem/838/E
+
+dp
+
+2300
+
+You are given an strictly convex polygon with n vertices. It is guaranteed that no three points are collinear. You would like to take a maximum non intersecting path on the polygon vertices that visits each point at most once.More specifically your path can be represented as some sequence of distinct polygon vertices. Your path is the straight line segments between adjacent vertices in order. These segments are not allowed to touch or intersect each other except at the vertices in your sequence.Given the polygon, print the maximum length non-intersecting path that visits each point at most once.

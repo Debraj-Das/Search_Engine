@@ -1,0 +1,9 @@
+Madoka and Formal Statement                    
+
+https://codeforces.com/problemset/problem/1717/C
+
+greedy
+
+1300
+
+Given an array of integer a_1, a_2, \ldots, a_n. In one operation you can make a_i := a_i + 1 if i < n and a_i \leq a_{i + 1}, or i = n and a_i \leq a_1.You need to check whether the array a_1, a_2, \ldots, a_n can become equal to the array b_1, b_2, \ldots, b_n in some number of operations (possibly, zero). Two arrays a and b of length n are called equal if a_i = b_i for all integers i from 1 to n.

@@ -1,0 +1,9 @@
+Dorms War                    
+
+https://codeforces.com/problemset/problem/1670/B
+
+brute force
+
+1100
+
+Hosssam decided to sneak into Hemose's room while he is sleeping and change his laptop's password. He already knows the password, which is a string s of length n. He also knows that there are k special letters of the alphabet: c_1,c_2,\ldots, c_k.Hosssam made a program that can do the following.  The program considers the current password s of some length m.  Then it finds all positions i (1\le i<m) such that s_{i+1} is one of the k special letters.  Then it deletes all of those positions from the password s even if s_{i} is a special character. If there are no positions to delete, then the program displays an error message which has a very loud sound. For example, suppose the string s is "abcdef" and the special characters are 'b' and 'd'. If he runs the program once, the positions 1 and 3 will be deleted as they come before special characters, so the password becomes "bdef". If he runs the program again, it deletes position 1, and the password becomes "def". If he is wise, he won't run it a third time.Hosssam wants to know how many times he can run the program on Hemose's laptop without waking him up from the sound of the error message. Can you help him?

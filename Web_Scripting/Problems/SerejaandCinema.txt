@@ -1,0 +1,9 @@
+Sereja and Cinema                    
+
+httpscodeforcescomproblemsetproblem380D
+
+combinatorics
+
+2500
+
+The cinema theater hall in Serejas city is n seats lined up in front of one large screen There are slots for personal possessions to the left and to the right of each seat Any two adjacent seats have exactly one shared slot The figure below shows the arrangement of seats and slots for n4  Today its the premiere of a movie called Dry Hard The tickets for all the seats have been sold There is a very strict controller at the entrance to the theater so all n people will come into the hall one by one As soon as a person enters a cinema hall he immediately momentarily takes his seat and occupies all empty slots to the left and to the right from him If there are no empty slots the man gets really upset and leavesPeople are not very constant so its hard to predict the order in which the viewers will enter the hall For some seats Sereja knows the number of the viewer his number in the entering queue of the viewers that will come and take this seat For others it can be any order Being a programmer and a mathematician Sereja wonders how many ways are there for the people to enter the hall such that nobody gets upset As the number can be quite large print it modulo 1000000007 1097

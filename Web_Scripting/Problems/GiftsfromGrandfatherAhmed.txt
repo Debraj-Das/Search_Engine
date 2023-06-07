@@ -1,0 +1,9 @@
+Gifts from Grandfather Ahmed                    
+
+https://codeforces.com/problemset/problem/1798/F
+
+dp
+
+2500
+
+Grandfather Ahmed's School has n+1 students. The students are divided into k classes, and s_i students study in the i-th class. So, s_1 + s_2 + \ldots + s_k = n+1.Due to the upcoming April Fools' Day, all students will receive gifts!Grandfather Ahmed planned to order n+1 boxes of gifts. Each box can contain one or more gifts. He plans to distribute the boxes between classes so that the following conditions are satisfied:  Class number i receives exactly s_i boxes (so that each student can open exactly one box).  The total number of gifts in the boxes received by the i-th class should be a multiple of s_i (it should be possible to equally distribute the gifts among the s_i students of this class). Unfortunately, Grandfather Ahmed ordered only n boxes with gifts, the i-th of which contains a_i gifts.Ahmed has to buy the missing gift box, and the number of gifts in the box should be an integer between 1 and 10^6. Help Ahmed to determine, how many gifts should the missing box contain, and build a suitable distribution of boxes to classes, or report that this is impossible.

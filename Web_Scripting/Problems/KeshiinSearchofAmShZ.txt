@@ -1,0 +1,9 @@
+Keshi in Search of AmShZ                    
+
+https://codeforces.com/problemset/problem/1693/C
+
+graphs
+
+2300
+
+AmShZ has traveled to Italy from Iran for the Thom Yorke concert. There are n cities in Italy indexed from 1 to n and m directed roads indexed from 1 to m. Initially, Keshi is located in the city 1 and wants to go to AmShZ's house in the city n. Since Keshi doesn't know the map of Italy, AmShZ helps him to see each other as soon as possible.In the beginning of each day, AmShZ can send one of the following two messages to Keshi: AmShZ sends the index of one road to Keshi as a blocked road. Then Keshi will understand that he should never use that road and he will remain in his current city for the day. AmShZ tells Keshi to move. Then, Keshi will randomly choose one of the cities reachable from his current city and move there. (city B is reachable from city A if there's an out-going road from city A to city B which hasn't become blocked yet). If there are no such cities, Keshi will remain in his current city.Note that AmShZ always knows Keshi's current location. AmShZ and Keshi want to find the smallest possible integer d for which they can make sure that they will see each other after at most d days. Help them find d.

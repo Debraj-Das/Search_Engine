@@ -1,0 +1,9 @@
+Public Service                    
+
+httpscodeforcescomproblemsetproblem923F
+
+constructive algorithms
+
+3200
+
+There are N cities in Bobs country connected by roads Some pairs of cities are connected by public transport There are two competing transport companies Boblines operating buses and Bobrail running trains When traveling from A to B a passenger always first selects the mode of transport either bus or train and then embarks on a journey For every pair of cities there are exactly two ways of how to travel between them without visiting any city more than once one using only bus routes and the second using only train routes Furthermore there is no pair of cities that is directly connected by both a bus route and a train routeYou obtained the plans of each of the networks Unfortunately each of the companies uses different names for the same cities More precisely the bus company numbers the cities using integers from 1 to N while the train company uses integers between N1 and 2N Find one possible mapping between those two numbering schemes such that no pair of cities is connected directly by both a bus route and a train route Note that this mapping has to map different cities to different cities

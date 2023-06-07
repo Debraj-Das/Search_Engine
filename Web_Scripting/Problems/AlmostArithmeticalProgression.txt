@@ -1,0 +1,9 @@
+Almost Arithmetical Progression                    
+
+httpscodeforcescomproblemsetproblem255C
+
+brute force
+
+1500
+
+Gena loves sequences of numbers Recently he has discovered a new type of sequences which he called an almost arithmetical progression A sequence is an almost arithmetical progression if its elements can be represented as  a1p where p is some integer  aiai11i1q i1 where q is some integer Right now Gena has a piece of paper with sequence b consisting of n integers Help Gena find there the longest subsequence of integers that is an almost arithmetical progressionSequence s1s2sk is a subsequence of sequence b1b2bn if there is such increasing sequence of indexes i1i2ik 1i1i2 ikn that bijsj In other words sequence s can be obtained from b by crossing out some elements

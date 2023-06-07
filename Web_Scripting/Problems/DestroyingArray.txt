@@ -1,0 +1,9 @@
+Destroying Array                    
+
+httpscodeforcescomproblemsetproblem722C
+
+data structures
+
+1600
+
+You are given an array consisting of n nonnegative integers a1a2anYou are going to destroy integers in the array one by one Thus you are given the permutation of integers from 1 to n defining the order elements of the array are destroyedAfter each element is destroyed you have to find out the segment of the array such that it contains no destroyed elements and the sum of its elements is maximum possible The sum of elements in the empty segment is considered to be 0

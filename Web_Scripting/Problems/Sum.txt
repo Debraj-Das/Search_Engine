@@ -1,0 +1,9 @@
+Sum                    
+
+https://codeforces.com/problemset/problem/1442/D
+
+data structures
+
+2800
+
+You are given n non-decreasing arrays of non-negative numbers. Vasya repeats the following operation k times:   Selects a non-empty array.  Puts the first element of the selected array in his pocket.  Removes the first element from the selected array. Vasya wants to maximize the sum of the elements in his pocket.

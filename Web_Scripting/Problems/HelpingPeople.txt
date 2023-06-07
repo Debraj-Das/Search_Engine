@@ -1,0 +1,9 @@
+Helping People                    
+
+httpscodeforcescomproblemsetproblem494C
+
+dp
+
+2600
+
+Malek is a rich man He also is very generous Thats why he decided to split his money between poor people A charity institute knows n poor people numbered from 1 to n The institute gave Malek q recommendations A recommendation is a segment of people like lr which means the institute recommended that Malek gives one dollar to every person whose number is in this segmentHowever this charity has very odd rules about the recommendations Because of those rules the recommendations are given in such a way that for every two recommendation ab and cd one of the following conditions holds   The two segments are completely disjoint More formally either abcd or cdab  One of the two segments are inside another More formally either acdb or cabd The goodness of a charity is the value of maximum money a person has after Malek finishes giving his money The institute knows for each recommendation what is the probability that Malek will accept it They want to know the expected value of goodness of this charity So they asked you for helpYou have been given the list of recommendations and for each recommendation the probability of it being accepted by Malek You have also been given how much money each person initially has You must find the expected value of goodness

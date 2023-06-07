@@ -1,0 +1,9 @@
+You Are Given Some Strings...                    
+
+https://codeforces.com/problemset/problem/1202/E
+
+brute force
+
+2400
+
+You are given a string t and n strings s_1, s_2, \dots, s_n. All strings consist of lowercase Latin letters.Let f(t, s) be the number of occurences of string s in string t. For example, f('\text{aaabacaa}', '\text{aa}') = 3, and f('\text{ababa}', '\text{aba}') = 2.Calculate the value of \sum\limits_{i=1}^{n} \sum\limits_{j=1}^{n} f(t, s_i + s_j), where s + t is the concatenation of strings s and t. Note that if there are two pairs i_1, j_1 and i_2, j_2 such that s_{i_1} + s_{j_1} = s_{i_2} + s_{j_2}, you should include both f(t, s_{i_1} + s_{j_1}) and f(t, s_{i_2} + s_{j_2}) in answer.

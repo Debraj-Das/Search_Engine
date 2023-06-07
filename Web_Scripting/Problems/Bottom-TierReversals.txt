@@ -1,0 +1,9 @@
+Bottom-Tier Reversals                    
+
+https://codeforces.com/problemset/problem/1558/C
+
+constructive algorithms
+
+2000
+
+You have a permutation: an array a = [a_1, a_2, \ldots, a_n] of distinct integers from 1 to n. The length of the permutation n is odd.You need to sort the permutation in increasing order.In one step, you can choose any prefix of the permutation with an odd length and reverse it. Formally, if a = [a_1, a_2, \ldots, a_n], you can choose any odd integer p between 1 and n, inclusive, and set a to [a_p, a_{p-1}, \ldots, a_1, a_{p+1}, a_{p+2}, \ldots, a_n].Find a way to sort a using no more than \frac{5n}{2} reversals of the above kind, or determine that such a way doesn't exist. The number of reversals doesn't have to be minimized.

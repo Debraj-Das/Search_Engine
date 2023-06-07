@@ -1,0 +1,9 @@
+Balanced Reversals                    
+
+https://codeforces.com/problemset/problem/1237/H
+
+constructive algorithms
+
+3300
+
+You have two strings a and b of equal even length n consisting of characters 0 and 1.We're in the endgame now. To finally make the universe perfectly balanced, you need to make strings a and b equal.In one step, you can choose any prefix of a of even length and reverse it. Formally, if a = a_1 a_2 \ldots a_n, you can choose a positive even integer p \le n and set a to a_p a_{p-1} \ldots a_1 a_{p+1} a_{p+2} \ldots a_n.Find a way to make a equal to b using at most n + 1 reversals of the above kind, or determine that such a way doesn't exist. The number of reversals doesn't have to be minimized.

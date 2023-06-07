@@ -1,0 +1,9 @@
+Valid Bitonic Permutations                    
+
+https://codeforces.com/problemset/problem/1763/D
+
+combinatorics
+
+2200
+
+You are given five integers n, i, j, x, and y. Find the number of bitonic permutations B, of the numbers 1 to n, such that B_i=x, and B_j=y. Since the answer can be large, compute it modulo 10^9+7.A bitonic permutation is a permutation of numbers, such that the elements of the permutation first increase till a certain index k, 2 \le k \le n-1, and then decrease till the end. Refer to notes for further clarification.

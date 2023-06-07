@@ -1,0 +1,9 @@
+Key races                    
+
+https://codeforces.com/problemset/problem/835/A
+
+math
+
+800
+
+Two boys decided to compete in text typing on the site "Key races". During the competition, they have to type a text consisting of s characters. The first participant types one character in v1 milliseconds and has ping t1 milliseconds. The second participant types one character in v2 milliseconds and has ping t2 milliseconds.If connection ping (delay) is t milliseconds, the competition passes for a participant as follows:   Exactly after t milliseconds after the start of the competition the participant receives the text to be entered.  Right after that he starts to type it.  Exactly t milliseconds after he ends typing all the text, the site receives information about it. The winner is the participant whose information on the success comes earlier. If the information comes from both participants at the same time, it is considered that there is a draw.Given the length of the text and the information about participants, determine the result of the game.

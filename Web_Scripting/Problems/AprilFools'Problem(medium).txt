@@ -1,0 +1,9 @@
+April Fools' Problem (medium)                    
+
+https://codeforces.com/problemset/problem/802/N
+
+binary search
+
+2400
+
+The marmots need to prepare k problems for HC2 over n days. Each problem, once prepared, also has to be printed.The preparation of a problem on day i (at most one per day) costs ai CHF, and the printing of a problem on day i (also at most one per day) costs bi CHF. Of course, a problem cannot be printed before it has been prepared (but doing both on the same day is fine).What is the minimum cost of preparation and printing?

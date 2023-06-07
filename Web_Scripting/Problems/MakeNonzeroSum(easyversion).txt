@@ -1,0 +1,9 @@
+Make Nonzero Sum (easy version)                    
+
+https://codeforces.com/problemset/problem/1753/A1
+
+constructive algorithms
+
+1300
+
+This is the easy version of the problem. The difference is that in this version the array can not contain zeros. You can make hacks only if both versions of the problem are solved.You are given an array [a_1, a_2, \ldots a_n] consisting of integers -1 and 1. You have to build a partition of this array into the set of segments [l_1, r_1], [l_2, r_2], \ldots, [l_k, r_k] with the following property:  Denote the alternating sum of all elements of the i-th segment as s_i: s_i = a_{l_i} - a_{l_i+1} + a_{l_i+2} - a_{l_i+3} + \ldots \pm a_{r_i}. For example, the alternating sum of elements of segment [2, 4] in array [1, 0, -1, 1, 1] equals to 0 - (-1) + 1 = 2.  The sum of s_i over all segments of partition should be equal to zero. Note that each s_i does not have to be equal to zero, this property is about sum of s_i over all segments of partition.The set of segments [l_1, r_1], [l_2, r_2], \ldots, [l_k, r_k] is called a partition of the array a of length n if 1 = l_1 \le r_1, l_2 \le r_2, \ldots, l_k \le r_k = n and r_i + 1 = l_{i+1} for all i = 1, 2, \ldots k-1. In other words, each element of the array must belong to exactly one segment.You have to build a partition of the given array with properties described above or determine that such partition does not exist.Note that it is not required to minimize the number of segments in the partition.

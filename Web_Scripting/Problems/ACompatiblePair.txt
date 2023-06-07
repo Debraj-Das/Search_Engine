@@ -1,0 +1,9 @@
+A Compatible Pair                    
+
+httpscodeforcescomproblemsetproblem934A
+
+brute force
+
+1400
+
+Nian is a monster which lives deep in the oceans Once a year it shows up on the land devouring livestock and even people In order to keep the monster away people fill their villages with red colour light and cracking noise all of which frighten the monster out of comingLittle Tommy has n lanterns and Big Banban has m lanterns Tommys lanterns have brightness a1a2an and Banbans have brightness b1b2bm respectivelyTommy intends to hide one of his lanterns then Banban picks one of Tommys nonhidden lanterns and one of his own lanterns to form a pair The pairs brightness will be the product of the brightness of two lanternsTommy wants to make the product as small as possible while Banban tries to make it as large as possibleYou are asked to find the brightness of the chosen pair if both of them choose optimally

@@ -1,0 +1,9 @@
+Marmots (hard)                    
+
+https://codeforces.com/problemset/problem/802/F
+
+math
+
+2800
+
+Your task is the exact same as for the easy version. But this time, the marmots subtract the village's population P from their random number before responding to Heidi's request.Also, there are now villages with as few as a single inhabitant, meaning that .Can you help Heidi find out whether a village follows a Poisson or a uniform distribution?

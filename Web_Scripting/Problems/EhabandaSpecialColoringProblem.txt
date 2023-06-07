@@ -1,0 +1,9 @@
+Ehab and a Special Coloring Problem                    
+
+https://codeforces.com/problemset/problem/1174/C
+
+constructive algorithms
+
+1300
+
+You're given an integer n. For every integer i from 2 to n, assign a positive integer a_i such that the following conditions hold:  For any pair of integers (i,j), if i and j are coprime, a_i \neq a_j.  The maximal value of all a_i should be minimized (that is, as small as possible). A pair of integers is called coprime if their greatest common divisor is 1.

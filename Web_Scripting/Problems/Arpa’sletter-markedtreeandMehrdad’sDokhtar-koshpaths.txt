@@ -1,0 +1,9 @@
+Arpa’s letter-marked tree and Mehrdad’s Dokhtar-kosh paths                    
+
+https://codeforces.com/problemset/problem/741/D
+
+data structures
+
+2900
+
+Just in case somebody missed it: we have wonderful girls in Arpa’s land.Arpa has a rooted tree (connected acyclic graph) consisting of n vertices. The vertices are numbered 1 through n, the vertex 1 is the root. There is a letter written on each edge of this tree. Mehrdad is a fan of Dokhtar-kosh things. He call a string Dokhtar-kosh, if we can shuffle the characters in string such that it becomes palindrome.  He asks Arpa, for each vertex v, what is the length of the longest simple path in subtree of v that form a Dokhtar-kosh string.

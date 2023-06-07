@@ -1,0 +1,9 @@
+Dirty Deeds Done Dirt Cheap                    
+
+https://codeforces.com/problemset/problem/1148/D
+
+greedy
+
+1800
+
+You are given n pairs of integers (a_1, b_1), (a_2, b_2), \ldots, (a_n, b_n). All of the integers in the pairs are distinct and are in the range from 1 to 2 \cdot n inclusive.Let's call a sequence of integers x_1, x_2, \ldots, x_{2k} good if either   x_1 < x_2 > x_3 < \ldots < x_{2k-2} > x_{2k-1} < x_{2k}, or  x_1 > x_2 < x_3 > \ldots > x_{2k-2} < x_{2k-1} > x_{2k}. You need to choose a subset of distinct indices i_1, i_2, \ldots, i_t and their order in a way that if you write down all numbers from the pairs in a single sequence (the sequence would be a_{i_1}, b_{i_1}, a_{i_2}, b_{i_2}, \ldots, a_{i_t}, b_{i_t}), this sequence is good.What is the largest subset of indices you can choose? You also need to construct the corresponding index sequence i_1, i_2, \ldots, i_t.

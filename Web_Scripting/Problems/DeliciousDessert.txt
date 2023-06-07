@@ -1,0 +1,9 @@
+Delicious Dessert                    
+
+https://codeforces.com/problemset/problem/1780/G
+
+binary search
+
+2400
+
+Today is an important day for chef Tonio — an auditor has arrived in his hometown of Morioh. He has also arrived at Tonio's restaurant and ordered dessert. Tonio has not been prepared for this turn of events.As you know, dessert is a string of lowercase English letters. Tonio remembered the rule of desserts — a string s of length n. Any dessert t is delicious if the number of occurrences of t in s as a substring is divisible by the length of t.Now Tonio wants to know the number of delicious substrings of s. If the substring occurs several times in the string s, then all occurrences must be taken into account.

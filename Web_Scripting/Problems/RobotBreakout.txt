@@ -1,0 +1,9 @@
+Robot Breakout                    
+
+https://codeforces.com/problemset/problem/1196/C
+
+implementation
+
+1500
+
+n robots have escaped from your laboratory! You have to find them as soon as possible, because these robots are experimental, and their behavior is not tested yet, so they may be really dangerous!Fortunately, even though your robots have escaped, you still have some control over them. First of all, you know the location of each robot: the world you live in can be modeled as an infinite coordinate plane, and the i-th robot is currently located at the point having coordinates (x_i, y_i). Furthermore, you may send exactly one command to all of the robots. The command should contain two integer numbers X and Y, and when each robot receives this command, it starts moving towards the point having coordinates (X, Y). The robot stops its movement in two cases:  either it reaches (X, Y);  or it cannot get any closer to (X, Y). Normally, all robots should be able to get from any point of the coordinate plane to any other point. Each robot usually can perform four actions to move. Let's denote the current coordinates of the robot as (x_c, y_c). Then the movement system allows it to move to any of the four adjacent points:  the first action allows it to move from (x_c, y_c) to (x_c - 1, y_c);  the second action allows it to move from (x_c, y_c) to (x_c, y_c + 1);  the third action allows it to move from (x_c, y_c) to (x_c + 1, y_c);  the fourth action allows it to move from (x_c, y_c) to (x_c, y_c - 1). Unfortunately, it seems that some movement systems of some robots are malfunctioning. For each robot you know which actions it can perform, and which it cannot perform.You want to send a command so all robots gather at the same point. To do so, you have to choose a pair of integer numbers X and Y so that each robot can reach the point (X, Y). Is it possible to find such a point?

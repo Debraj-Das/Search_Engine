@@ -1,0 +1,9 @@
+Alyona and Triangles                    
+
+https://codeforces.com/problemset/problem/682/E
+
+geometry
+
+2600
+
+You are given n points with integer coordinates on the plane. Points are given in a way such that there is no triangle, formed by any three of these n points, which area exceeds S.Alyona tried to construct a triangle with integer coordinates, which contains all n points and which area doesn't exceed 4S, but, by obvious reason, had no success in that. Please help Alyona construct such triangle. Please note that vertices of resulting triangle are not necessarily chosen from n given points.

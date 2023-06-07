@@ -1,0 +1,9 @@
+Touchy-Feely Palindromes                    
+
+https://codeforces.com/problemset/problem/784/D
+
+*special problem
+
+1900
+
+InputThe only line of the input contains a string of digits. The length of the string is between 1 and 10, inclusive.OutputOutput "Yes" or "No".ExamplesInput373OutputYesInput121OutputNoInput436OutputYes

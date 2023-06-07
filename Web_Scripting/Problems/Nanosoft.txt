@@ -1,0 +1,9 @@
+Nanosoft                    
+
+https://codeforces.com/problemset/problem/1301/E
+
+binary search
+
+2500
+
+Warawreh created a great company called Nanosoft. The only thing that Warawreh still has to do is to place a large picture containing its logo on top of the company's building.The logo of Nanosoft can be described as four squares of the same size merged together into one large square. The top left square is colored with red, the top right square is colored with green, the bottom left square is colored with yellow and the bottom right square is colored with blue.An Example of some correct logos:An Example of some incorrect logos:Warawreh went to Adhami's store in order to buy the needed picture. Although Adhami's store is very large he has only one picture that can be described as a grid of n rows and m columns. The color of every cell in the picture will be green (the symbol 'G'), red (the symbol 'R'), yellow (the symbol 'Y') or blue (the symbol 'B').Adhami gave Warawreh q options, in every option he gave him a sub-rectangle from that picture and told him that he can cut that sub-rectangle for him. To choose the best option, Warawreh needs to know for every option the maximum area of sub-square inside the given sub-rectangle that can be a Nanosoft logo. If there are no such sub-squares, the answer is 0.Warawreh couldn't find the best option himself so he asked you for help, can you help him?

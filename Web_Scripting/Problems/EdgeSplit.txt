@@ -1,0 +1,9 @@
+Edge Split                    
+
+https://codeforces.com/problemset/problem/1726/D
+
+brute force
+
+2000
+
+You are given a connected, undirected and unweighted graph with n vertices and m edges. Notice the limit on the number of edges: m \le n + 2.Let's say we color some of the edges red and the remaining edges blue. Now consider only the red edges and count the number of connected components in the graph. Let this value be c_1. Similarly, consider only the blue edges and count the number of connected components in the graph. Let this value be c_2.Find an assignment of colors to the edges such that the quantity c_1+c_2 is minimised.

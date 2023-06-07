@@ -1,0 +1,9 @@
+Neighbour Ordering                    
+
+https://codeforces.com/problemset/problem/1656/I
+
+constructive algorithms
+
+3500
+
+Given an undirected graph G, we say that a neighbour ordering is an ordered list of all the neighbours of a vertex for each of the vertices of G. Consider a given neighbour ordering of G and three vertices u, v and w, such that v is a neighbor of u and w. We write u <_{v} w if u comes after w in v's neighbor list.A neighbour ordering is said to be good if, for each simple cycle v_1, v_2, \ldots, v_c of the graph, one of the following is satisfied:  v_1 <_{v_2} v_3, v_2 <_{v_3} v_4, \ldots, v_{c-2} <_{v_{c-1}} v_c, v_{c-1} <_{v_c} v_1, v_c <_{v_1} v_2. v_1 >_{v_2} v_3, v_2 >_{v_3} v_4, \ldots, v_{c-2} >_{v_{c-1}} v_c, v_{c-1} >_{v_c} v_1, v_c >_{v_1} v_2. Given a graph G, determine whether there exists a good neighbour ordering for it and construct one if it does.

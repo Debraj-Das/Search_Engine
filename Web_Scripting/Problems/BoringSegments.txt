@@ -1,0 +1,9 @@
+Boring Segments                    
+
+https://codeforces.com/problemset/problem/1555/E
+
+data structures
+
+2100
+
+You are given n segments on a number line, numbered from 1 to n. The i-th segments covers all integer points from l_i to r_i and has a value w_i.You are asked to select a subset of these segments (possibly, all of them). Once the subset is selected, it's possible to travel between two integer points if there exists a selected segment that covers both of them. A subset is good if it's possible to reach point m starting from point 1 in arbitrary number of moves.The cost of the subset is the difference between the maximum and the minimum values of segments in it. Find the minimum cost of a good subset.In every test there exists at least one good subset.

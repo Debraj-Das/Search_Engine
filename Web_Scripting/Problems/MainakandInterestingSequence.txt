@@ -1,0 +1,9 @@
+Mainak and Interesting Sequence                    
+
+https://codeforces.com/problemset/problem/1726/B
+
+bitmasks
+
+1100
+
+Mainak has two positive integers n and m.Mainak finds a sequence a_1, a_2, \ldots, a_n of n positive integers interesting, if for all integers i (1 \le i \le n), the bitwise XOR of all elements in a which are strictly less than a_i is 0. Formally if p_i is the bitwise XOR of all elements in a which are strictly less than a_i, then a is an interesting sequence if p_1 = p_2 = \ldots = p_n = 0.For example, sequences [1,3,2,3,1,2,3], [4,4,4,4], [25] are interesting, whereas [1,2,3,4] (p_2 = 1 \ne 0), [4,1,1,2,4] (p_1 = 1 \oplus 1 \oplus 2 = 2 \ne 0), [29,30,30] (p_2 = 29 \ne 0) aren't interesting.Here a \oplus b denotes bitwise XOR of integers a and b.Find any interesting sequence a_1, a_2, \ldots, a_n (or report that there exists no such sequence) such that the sum of the elements in the sequence a is equal to m, i.e. a_1 + a_2 \ldots + a_n = m.As a reminder, the bitwise XOR of an empty sequence is considered to be 0.

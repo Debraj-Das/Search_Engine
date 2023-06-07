@@ -1,0 +1,9 @@
+Infinite Sequence                    
+
+httpscodeforcescomproblemsetproblem675A
+
+math
+
+1100
+
+Vasya likes everything infinite Now he is studying the properties of a sequence s such that its first element is equal to a s1a and the difference between any two neighbouring elements is equal to c sisi1c In particular Vasya wonders if his favourite integer b appears in this sequence that is there exists a positive integer i such that sib Of course you are the person he asks for a help

@@ -1,0 +1,9 @@
+Spanning Tree Queries                    
+
+https://codeforces.com/problemset/problem/1633/E
+
+binary search
+
+2400
+
+You are given a connected weighted undirected graph, consisting of n vertices and m edges.You are asked k queries about it. Each query consists of a single integer x. For each query, you select a spanning tree in the graph. Let the weights of its edges be w_1, w_2, \dots, w_{n-1}. The cost of a spanning tree is \sum \limits_{i=1}^{n-1} |w_i - x| (the sum of absolute differences between the weights and x). The answer to a query is the lowest cost of a spanning tree.The queries are given in a compressed format. The first p (1 \le p \le k) queries q_1, q_2, \dots, q_p are provided explicitly. For queries from p+1 to k, q_j = (q_{j-1} \cdot a + b) \mod c.Print the xor of answers to all queries.

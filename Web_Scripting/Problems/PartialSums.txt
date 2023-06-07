@@ -1,0 +1,9 @@
+Partial Sums                    
+
+httpscodeforcescomproblemsetproblem223C
+
+combinatorics
+
+1900
+
+Youve got an array a consisting of n integers The array elements are indexed from 1 to n Lets determine a two step operation like that  First we build by the array a an array s of partial sums consisting of n elements Element number i 1in of array s equals  The operation xmody means that we take the remainder of the division of number x by number y  Then we write the contents of the array s to the array a Element number i 1in of the array s becomes the ith element of the array a aisi You task is to find array a after exactly k described operations are applied

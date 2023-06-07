@@ -1,0 +1,9 @@
+Math Test                    
+
+https://codeforces.com/problemset/problem/1622/E
+
+bitmasks
+
+2200
+
+Petya is a math teacher. n of his students has written a test consisting of m questions. For each student, it is known which questions he has answered correctly and which he has not.If the student answers the j-th question correctly, he gets p_j points (otherwise, he gets 0 points). Moreover, the points for the questions are distributed in such a way that the array p is a permutation of numbers from 1 to m.For the i-th student, Petya knows that he expects to get x_i points for the test. Petya wonders how unexpected the results could be. Petya believes that the surprise value of the results for students is equal to \sum\limits_{i=1}^{n} |x_i - r_i|, where r_i is the number of points that the i-th student has got for the test.Your task is to help Petya find such a permutation p for which the surprise value of the results is maximum possible. If there are multiple answers, print any of them.

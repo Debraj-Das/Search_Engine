@@ -1,0 +1,9 @@
+Colorful Operations                    
+
+https://codeforces.com/problemset/problem/1638/E
+
+brute force
+
+2400
+
+You have an array a_1,a_2, \dots, a_n. Each element initially has value 0 and color 1. You are also given q queries to perform:   Color l r c: Change the color of elements a_l,a_{l+1},\cdots,a_r to c (1 \le l \le r \le n, 1 \le c \le n).  Add c x: Add x to values of all elements a_i (1 \le i \le n) of color c (1 \le c \le n, -10^9 \le x \le 10^9).  Query i: Print a_i (1 \le i \le n). 

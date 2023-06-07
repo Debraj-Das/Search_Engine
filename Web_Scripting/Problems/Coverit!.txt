@@ -1,0 +1,9 @@
+Cover it!                    
+
+https://codeforces.com/problemset/problem/1176/E
+
+dfs and similar
+
+1700
+
+You are given an undirected unweighted connected graph consisting of n vertices and m edges. It is guaranteed that there are no self-loops or multiple edges in the given graph.Your task is to choose at most \lfloor\frac{n}{2}\rfloor vertices in this graph so each unchosen vertex is adjacent (in other words, connected by an edge) to at least one of chosen vertices.It is guaranteed that the answer exists. If there are multiple answers, you can print any.You will be given multiple independent queries to answer.

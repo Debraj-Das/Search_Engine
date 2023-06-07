@@ -1,0 +1,9 @@
+Repetitions Decoding                    
+
+https://codeforces.com/problemset/problem/1641/B
+
+constructive algorithms
+
+2000
+
+Olya has an array of integers a_1, a_2, \ldots, a_n. She wants to split it into tandem repeats. Since it's rarely possible, before that she wants to perform the following operation several (possibly, zero) number of times: insert a pair of equal numbers into an arbitrary position. Help her!More formally:  A tandem repeat is a sequence x of even length 2k such that for each 1 \le i \le k the condition x_i = x_{i + k} is satisfied.  An array a could be split into tandem repeats if you can split it into several parts, each being a subsegment of the array, such that each part is a tandem repeat.  In one operation you can choose an arbitrary letter c and insert [c, c] to any position in the array (at the beginning, between any two integers, or at the end).  You are to perform several operations and split the array into tandem repeats or determine that it is impossible. Please note that you do not have to minimize the number of operations. 

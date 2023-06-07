@@ -1,0 +1,9 @@
+2-Letter Strings                    
+
+https://codeforces.com/problemset/problem/1669/E
+
+data structures
+
+1200
+
+Given n strings, each of length 2, consisting of lowercase Latin alphabet letters from 'a' to 'k', output the number of pairs of indices (i, j) such that i < j and the i-th string and the j-th string differ in exactly one position.In other words, count the number of pairs (i, j) (i < j) such that the i-th string and the j-th string have exactly one position p (1 \leq p \leq 2) such that {s_{i}}_{p} \neq {s_{j}}_{p}.The answer may not fit into 32-bit integer type, so you should use 64-bit integers like long long in C++ to avoid integer overflow.

@@ -1,0 +1,9 @@
+DDoS                    
+
+https://codeforces.com/problemset/problem/1057/B
+
+*special problem
+
+1400
+
+We get more and more news about DDoS-attacks of popular websites.Arseny is an admin and he thinks that a website is under a DDoS-attack if the total number of requests for a some period of time exceeds 100 \cdot t, where t — the number of seconds in this time segment. Arseny knows statistics on the number of requests per second since the server is booted. He knows the sequence r_1, r_2, \dots, r_n, where r_i — the number of requests in the i-th second after boot. Determine the length of the longest continuous period of time, which Arseny considers to be a DDoS-attack. A seeking time period should not go beyond the boundaries of the segment [1, n].

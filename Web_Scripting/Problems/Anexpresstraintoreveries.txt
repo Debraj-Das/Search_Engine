@@ -1,0 +1,9 @@
+An express train to reveries                    
+
+httpscodeforcescomproblemsetproblem814B
+
+constructive algorithms
+
+1300
+
+Sengoku still remembers the mysterious colourful meteoroids she discovered with Lalachan when they were little In particular one of the nights impressed her deeply giving her the illusion that all her fancies would be realizedOn that night Sengoku constructed a permutation p1p2pn of integers from 1 to n inclusive with each integer representing a colour wishing for the colours to see in the coming meteor outburst Two incredible outbursts then arrived each with n meteorids colours of which being integer sequences a1a2an and b1b2bn respectively Meteoroids colours were also between 1 and n inclusive and the two sequences were not identical that is at least one i 1in exists such that aibi holdsWell she almost had it all  each of the sequences a and b matched exactly n1 elements in Sengokus permutation In other words there is exactly one i 1in such that aipi and exactly one j 1jn such that bjpjFor now Sengoku is able to recover the actual colour sequences a and b through astronomical records but her wishes have been long forgotten You are to reconstruct any possible permutation Sengoku could have had on that night

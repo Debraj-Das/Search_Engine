@@ -1,0 +1,9 @@
+Corridor                    
+
+httpscodeforcescomproblemsetproblem82E
+
+geometry
+
+2600
+
+Consider a house plan Let the house be represented by an infinite horizontal strip defined by the inequality hyh Strictly outside the house there are two light sources at the points 0f and 0f Windows are located in the walls the windows are represented by segments on the lines yh and yh Also the windows are arranged symmetrically about the line y0Your task is to find the area of the floor at the home which will be lighted by the sources of light   

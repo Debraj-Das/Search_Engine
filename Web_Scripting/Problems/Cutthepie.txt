@@ -1,0 +1,9 @@
+Cut the pie                    
+
+https://codeforces.com/problemset/problem/799/G
+
+binary search
+
+3500
+
+Arkady reached the n-th level in Township game, so Masha decided to bake a pie for him! Of course, the pie has a shape of convex n-gon, i.e. a polygon with n vertices.Arkady decided to cut the pie in two equal in area parts by cutting it by a straight line, so that he can eat one of them and give the other to Masha. There is a difficulty because Arkady has already put a knife at some point of the pie, so he now has to cut the pie by a straight line passing trough this point.Help Arkady: find a line that passes through the point Arkady has put a knife into and cuts the pie into two parts of equal area, or determine that it's impossible. Your program has to quickly answer many queries with the same pie, but different points in which Arkady puts a knife.

@@ -1,0 +1,9 @@
+Table Bowling                    
+
+https://codeforces.com/problemset/problem/64/H
+
+*special problem
+
+2300
+
+Table bowling tournament participant completed the competition according to the given final standings table. The table is given as a sequence of lines, each line has a format "name score". Your task is to prepare another table consisting of lines in the form "place name". Sort participant by score (desc.) and by the name lexicographically in the case of a tie. Places are numerated from 1. If more than one participant has some score, all of them share the places and you should output something like "12-14 john".Please, look into the samples for clarification.

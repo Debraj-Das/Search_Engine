@@ -1,0 +1,9 @@
+Equidistant Vertices                    
+
+httpscodeforcescomproblemsetproblem1551F
+
+brute force
+
+2200
+
+A tree is an undirected connected graph without cyclesYou are given a tree of n vertices Find the number of ways to choose exactly k vertices in this tree ie a kelement subset of vertices so that all pairwise distances between the selected vertices are equal in other words there exists an integer c such that for all u v u ne v u v are in selected vertices duvc where duv is the distance from u to vSince the answer may be very large you need to output it modulo 109  7

@@ -1,0 +1,9 @@
+Arkady and a Nobodymen                    
+
+httpscodeforcescomproblemsetproblem860E
+
+data structures
+
+2700
+
+Arkady words in a large company There are n employees working in a system of a strict hierarchy Namely each employee with an exception of the CEO has exactly one immediate manager The CEO is a manager through a chain of immediate managers of all employeesEach employee has an integer rank The CEO has rank equal to 1 each other employee has rank equal to the rank of his immediate manager plus 1Arkady has a good post in the company however he feels that he is nobody in the companys structure and there are a lot of people who can replace him He introduced the value of replaceability Consider an employee a and an employee b the latter being manager of a not necessarily immediate Then the replaceability rab of a with respect to b is the number of subordinates not necessarily immediate of the manager b whose rank is not greater than the rank of a Apart from replaceability Arkady introduced the value of negligibility The negligibility za of employee a equals the sum of his replaceabilities with respect to all his managers ie  where the sum is taken over all his managers bArkady is interested not only in negligibility of himself but also in negligibility of all employees in the company Find the negligibility of each employee for Arkady

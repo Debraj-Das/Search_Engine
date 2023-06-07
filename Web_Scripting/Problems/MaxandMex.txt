@@ -1,0 +1,9 @@
+Max and Mex                    
+
+https://codeforces.com/problemset/problem/1496/B
+
+math
+
+1100
+
+You are given a multiset S initially consisting of n distinct non-negative integers. A multiset is a set, that can contain some elements multiple times.You will perform the following operation k times:   Add the element \lceil\frac{a+b}{2}\rceil (rounded up) into S, where a = \operatorname{mex}(S) and b = \max(S). If this number is already in the set, it is added again. Here \operatorname{max} of a multiset denotes the maximum integer in the multiset, and \operatorname{mex} of a multiset denotes the smallest non-negative integer that is not present in the multiset. For example:   \operatorname{mex}(\{1,4,0,2\})=3;   \operatorname{mex}(\{2,5,1\})=0. Your task is to calculate the number of distinct elements in S after k operations will be done.

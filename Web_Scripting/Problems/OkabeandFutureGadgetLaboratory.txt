@@ -1,0 +1,9 @@
+Okabe and Future Gadget Laboratory                    
+
+httpscodeforcescomproblemsetproblem821A
+
+implementation
+
+800
+
+Okabe needs to renovate the Future Gadget Laboratory after he tried doing some crazy experiments The lab is represented as an n by n square grid of integers A good lab is defined as a lab in which every number not equal to 1 can be expressed as the sum of a number in the same row and a number in the same column In other words for every xy such that 1xyn and axy1 there should exist two indices s and t so that axyaxsaty where aij denotes the integer in ith row and jth columnHelp Okabe determine whether a given lab is good

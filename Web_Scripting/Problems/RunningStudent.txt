@@ -1,0 +1,9 @@
+Running Student                    
+
+httpscodeforcescomproblemsetproblem9B
+
+brute force
+
+1200
+
+And again a misfortune fell on Poor Student He is being late for an examHaving rushed to a bus stop that is in point 00 he got on a minibus and they drove along a straight line parallel to axis OX in the direction of increasing xPoor Student knows the following   during one run the minibus makes n stops the ith stop is in point xi0  coordinates of all the stops are different  the minibus drives at a constant speed equal to vb  it can be assumed the passengers get on and off the minibus at a bus stop momentarily  Student can get off the minibus only at a bus stop  Student will have to get off the minibus at a terminal stop if he does not get off earlier  the University where the exam will be held is in point xuyu  Student can run from a bus stop to the University at a constant speed vs as long as needed  a distance between two points can be calculated according to the following formula   Student is already on the minibus so he cannot get off at the first bus stop Poor Student wants to get to the University as soon as possible Help him to choose the bus stop where he should get off If such bus stops are multiple choose the bus stop closest to the University

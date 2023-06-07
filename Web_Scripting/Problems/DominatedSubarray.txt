@@ -1,0 +1,9 @@
+Dominated Subarray                    
+
+httpscodeforcescomproblemsetproblem1257C
+
+greedy
+
+1200
+
+Lets call an array t dominated by value v in the next situationAt first array t should have at least 2 elements Now lets calculate number of occurrences of each number num in t and define it as occnum Then t is dominated by v if and only if occv  occv for any other number v For example arrays 1 2 3 4 5 2 11 11 and 3 2 3 2 3 are dominated by 2 11 and 3 respectevitely but arrays 3 1 2 and 3 3 2 2 1 are notSmall remark since any array can be dominated only by one number we can not specify this number and just say that array is either dominated or notYou are given array a1 a2 dots an Calculate its shortest dominated subarray or say that there are no such subarraysThe subarray of a is a contiguous part of the array a ie the array ai ai  1 dots aj for some 1 le i le j le n

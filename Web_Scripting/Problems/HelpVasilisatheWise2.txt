@@ -1,0 +1,9 @@
+Help Vasilisa the Wise 2                    
+
+httpscodeforcescomproblemsetproblem143A
+
+brute force
+
+1000
+
+Vasilisa the Wise from the Kingdom of Far Far Away got a magic box with a secret as a present from her friend Hellawisa the Wise from the Kingdom of A Little Closer However Vasilisa the Wise does not know what the boxs secret is since she cannot open it again She hopes that you will help her one more time with thatThe boxs lock looks as follows it contains 4 identical deepenings for gems as a 22 square and some integer numbers are written at the locks edge near the deepenings The example of a lock is given on the picture below  The box is accompanied with 9 gems Their shapes match the deepenings shapes and each gem contains one number from 1 to 9 each number is written on exactly one gem The box will only open after it is decorated with gems correctly that is each deepening in the lock should be filled with exactly one gem Also the sums of numbers in the squares rows columns and two diagonals of the square should match the numbers written at the locks edge For example the above lock will open if we fill the deepenings with gems with numbers as is shown on the picture below  Now Vasilisa the Wise wants to define given the numbers on the boxs lock which gems she should put in the deepenings to open the box Help Vasilisa to solve this challenging task

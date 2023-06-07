@@ -1,0 +1,9 @@
+Hongcows Game                    
+
+httpscodeforcescomproblemsetproblem744B
+
+bitmasks
+
+1900
+
+This is an interactive problem In the interaction section below you will see the information about flushing the outputIn this problem you will be playing a game with Hongcow How lucky of youHongcow has a hidden n by n matrix M Let Mij denote the entry ith row and jth column of the matrix The rows and columns are labeled from 1 to nThe matrix entries are between 0 and 109 In addition Mii0 for all valid i Your task is to find the minimum value along each row excluding diagonal elements Formally for each i you must find To do this you can ask Hongcow some questionsA question consists of giving Hongcow a subset of distinct indices w1w2wk with 1kn Hongcow will respond with n integers The ith integer will contain the minimum value of min1jkMiwjYou may only ask Hongcow at most 20 questions he thinks you only need that many questions answeredWhen you are ready to answer print out a single integer 1 on its own line then n integers on the next line The ith integer should be the minimum value in the ith row of the matrix excluding the ith element Do not forget to flush the final answer as well Printing the answer does not count as asking a questionYou will get Wrong Answer verdict if   Your question or answers are not in the format described in this statement  You ask strictly more than 20 questions  Your question contains duplicate indices  The value of k in your question does not lie in the range from 1 to n inclusive  Your final answer is not correct  You will get Idleness Limit Exceeded if you dont print anything or if you forget to flush the output including for the final answer more info about flushing output below

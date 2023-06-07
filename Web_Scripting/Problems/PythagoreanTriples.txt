@@ -1,0 +1,9 @@
+Pythagorean Triples                    
+
+httpscodeforcescomproblemsetproblem707C
+
+math
+
+1500
+
+Katya studies in a fifth grade Recently her class studied right triangles and the Pythagorean theorem It appeared that there are triples of positive integers such that you can construct a right triangle with segments of lengths corresponding to triple Such triples are called Pythagorean triplesFor example triples 345 51213 and 6810 are Pythagorean triplesHere Katya wondered if she can specify the length of some side of right triangle and find any Pythagorean triple corresponding to such length Note that the side which length is specified can be a cathetus as well as hypotenuseKatya had no problems with completing this task Will you do the same

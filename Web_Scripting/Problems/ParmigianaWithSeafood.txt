@@ -1,0 +1,9 @@
+Parmigiana With Seafood                    
+
+https://codeforces.com/problemset/problem/1776/M
+
+binary search
+
+3000
+
+The "Parmigiana di melanzane" is a typical Italian dish. Alessandro and Bianca have very different tastes when it comes to it: Alessandro loves to eat Parmigiana with seafood, but Bianca thinks it is an atrocity! To decide which ingredients to include in the dish they prepare, they play the following game.There are n possible ingredients, labeled from 1 to n. The higher the label, the closer the ingredient is to being seafood. The ingredients are connected by n - 1 edges, in such a way as to form a tree. Alessandro and Bianca take turns, with Alessandro going first. They alternately choose a terminal ingredient x, that is an ingredient currently connected to at most one other ingredient, and remove it from the tree. If the terminal ingredient x was chosen by Alessandro, it goes in the recipe; if it was chosen by Bianca, it is discarded.The taste of the Parmigiana is measured as the maximum label of an ingredient in the recipe. Alessandro wants to maximize the taste, while Bianca wants to minimize the taste. If both play optimally, what is the taste of the Parmigiana?

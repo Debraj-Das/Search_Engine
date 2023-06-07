@@ -1,0 +1,9 @@
+Tea Party                    
+
+httpscodeforcescomproblemsetproblem808C
+
+constructive algorithms
+
+1400
+
+Polycarp invited all his friends to the tea party to celebrate the holiday He has n cups one for each of his n friends with volumes a1a2an His teapot stores w milliliters of tea wa1a2an Polycarp wants to pour tea in cups in such a way that  Every cup will contain tea for at least half of its volume  Every cup will contain integer number of milliliters of tea  All the tea from the teapot will be poured into cups  All friends will be satisfied Friend with cup i wont be satisfied if there exists such cup j that cup i contains less tea than cup j but aiajFor each cup output how many milliliters of tea should be poured in it If its impossible to pour all the tea and satisfy all conditions then output 1

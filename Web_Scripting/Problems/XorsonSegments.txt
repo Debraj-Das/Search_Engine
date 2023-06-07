@@ -1,0 +1,9 @@
+Xors on Segments                    
+
+httpscodeforcescomproblemsetproblem620F
+
+data structures
+
+2800
+
+You are given an array with n integers ai and m queries Each query is described by two integers ljrjLets define the function  The function is defined for only uvFor each query print the maximal value of the function faxay over all ljxyrj axay

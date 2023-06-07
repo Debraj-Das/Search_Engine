@@ -1,0 +1,9 @@
+Joey Takes Money                    
+
+https://codeforces.com/problemset/problem/1731/A
+
+greedy
+
+800
+
+Joey is low on money. His friend Chandler wants to lend Joey some money, but can't give him directly, as Joey is too proud of himself to accept it. So, in order to trick him, Chandler asks Joey to play a game.In this game, Chandler gives Joey an array a_1, a_2, \dots, a_n (n \geq 2) of positive integers (a_i \ge 1).Joey can perform the following operation on the array any number of times:   Take two indices i and j (1 \le i < j \le n).  Choose two integers x and y (x, y \ge 1) such that x \cdot y = a_i \cdot a_j.  Replace a_i by x and a_j by y. In the end, Joey will get the money equal to the sum of elements of the final array. Find the maximum amount of money \mathrm{ans} Joey can get but print 2022 \cdot \mathrm{ans}. Why multiplied by 2022? Because we are never gonna see it again!It is guaranteed that the product of all the elements of the array a doesn't exceed 10^{12}. 

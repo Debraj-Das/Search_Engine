@@ -1,0 +1,9 @@
+Travel Card                    
+
+httpscodeforcescomproblemsetproblem756B
+
+binary search
+
+1600
+
+A new innovative ticketing systems for public transport is introduced in Bytesburg Now there is a single travel card for all transport To make a trip a passenger scan his card and then he is charged according to the fareThe fare is constructed in the following manner There are three types of tickets   a ticket for one trip costs 20 byteland rubles  a ticket for 90 minutes costs 50 byteland rubles  a ticket for one day 1440 minutes costs 120 byteland rubles Note that a ticket for x minutes activated at time t can be used for trips started in time range from t to tx1 inclusive Assume that all trips take exactly one minuteTo simplify the choice for the passenger the system automatically chooses the optimal tickets After each trip starts the system analyses all the previous trips and the current trip and chooses a set of tickets for these trips with a minimum total cost Let the minimum total cost of tickets to cover all trips from the first to the current is a and the total sum charged before is b Then the system charges the passenger the sum abYou have to write a program that for given trips made by a passenger calculates the sum the passenger is charged after each trip

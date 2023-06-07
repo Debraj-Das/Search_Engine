@@ -1,0 +1,9 @@
+Jamie and Todo List                    
+
+httpscodeforcescomproblemsetproblem916D
+
+data structures
+
+2200
+
+Why I have to finish so many assignmentsJamie is getting very busy with his school life He starts to forget the assignments that he has to do He decided to write the things down on a todo list He assigns a value priority for each of his assignment lower value means more important so he can decide which he needs to spend more time onAfter a few days Jamie finds out the list is too large that he cant even manage the list by himself As you are a good friend of Jamie help him write a program to support the following operations on the todo list  set ai xi Add assignment ai to the todo list if it is not present and set its priority to xi If assignment ai is already in the todo list its priority is changed to xi  remove ai Remove assignment ai from the todo list if it is present in it  query ai Output the number of assignments that are more important have a smaller priority value than assignment ai so Jamie can decide a better schedule Output 1 if ai is not in the todo list  undo di Undo all changes that have been made in the previous di days not including the day of this operation At day 0 the todo list is empty In each of the following q days Jamie will do exactly one out of the four operations If the operation is a query you should output the result of the query before proceeding to the next day or poor Jamie cannot make appropriate decisions

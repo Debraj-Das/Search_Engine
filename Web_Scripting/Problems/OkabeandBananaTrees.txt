@@ -1,0 +1,9 @@
+Okabe and Banana Trees                    
+
+httpscodeforcescomproblemsetproblem821B
+
+brute force
+
+1300
+
+Okabe needs bananas for one of his experiments for some strange reason So he decides to go to the forest and cut banana treesConsider the point xy in the 2D plane such that x and y are integers and 0xy There is a tree in such a point and it has xy bananas There are no trees nor bananas in other points Now Okabe draws a line with equation  Okabe can select a single rectangle with axis aligned sides with all points on or under the line and cut all the trees in all points that are inside or on the border of this rectangle and take their bananas Okabes rectangle can be degenerate that is it can be a line segment or even a pointHelp Okabe and find the maximum number of bananas he can get if he chooses the rectangle wiselyOkabe is sure that the answer does not exceed 1018 You can trust him

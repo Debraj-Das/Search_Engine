@@ -1,0 +1,9 @@
+Zero Remainder Sum                     
+
+https://codeforces.com/problemset/problem/1433/F
+
+dp
+
+2100
+
+You are given a matrix a of size n \times m consisting of integers.You can choose no more than \left\lfloor\frac{m}{2}\right\rfloor elements in each row. Your task is to choose these elements in such a way that their sum is divisible by k and this sum is the maximum.In other words, you can choose no more than a half (rounded down) of elements in each row, you have to find the maximum sum of these elements divisible by k.Note that you can choose zero elements (and the sum of such set is 0).

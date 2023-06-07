@@ -1,0 +1,9 @@
+Column Swapping                    
+
+https://codeforces.com/problemset/problem/1684/C
+
+brute force
+
+1400
+
+You are given a grid with n rows and m columns, where each cell has a positive integer written on it. Let's call a grid good, if in each row the sequence of numbers is sorted in a non-decreasing order. It means, that for each 1 \le i \le n and 2 \le j \le m the following holds: a_{i,j} \ge a_{i, j-1}.You have to to do the following operation exactly once: choose two columns with indexes i and j (not necessarily different), 1 \le i, j \le m, and swap them.You are asked to determine whether it is possible to make the grid good after the swap and, if it is, find the columns that need to be swapped.

@@ -1,0 +1,9 @@
+Pursuit                    
+
+https://codeforces.com/problemset/problem/1530/C
+
+binary search
+
+1200
+
+You and your friend Ilya are participating in an individual programming contest consisting of multiple stages. A contestant can get between 0 and 100 points, inclusive, for each stage, independently of other contestants.Points received by contestants in different stages are used for forming overall contest results. Suppose that k stages of the contest are completed. For each contestant, k - \lfloor \frac{k}{4} \rfloor stages with the highest scores are selected, and these scores are added up. This sum is the overall result of the contestant. (Here \lfloor t \rfloor denotes rounding t down.)For example, suppose 9 stages are completed, and your scores are 50, 30, 50, 50, 100, 10, 30, 100, 50. First, 7 stages with the highest scores are chosen — for example, all stages except for the 2-nd and the 6-th can be chosen. Then your overall result is equal to 50 + 50 + 50 + 100 + 30 + 100 + 50 = 430.As of now, n stages are completed, and you know the points you and Ilya got for these stages. However, it is unknown how many more stages will be held. You wonder what the smallest number of additional stages is, after which your result might become greater than or equal to Ilya's result, at least in theory. Find this number!

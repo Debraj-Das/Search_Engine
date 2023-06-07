@@ -1,0 +1,9 @@
+Send the Fool Further easy                    
+
+httpscodeforcescomproblemsetproblem802J
+
+dfs and similar
+
+1400
+
+Heidis friend Jenny is asking Heidi to deliver an important letter to one of their common friends Since Jenny is Irish Heidi thinks that this might be a prank More precisely she suspects that the message she is asked to deliver states Send the fool further and upon reading it the recipient will ask Heidi to deliver the same message to yet another friend that the recipient has in common with Heidi and so onHeidi believes that her friends want to avoid awkward situations so she will not be made to visit the same person including Jenny twice She also knows how much it costs to travel between any two of her friends who know each other She wants to know what is the maximal amount of money she will waste on travel if it really is a prankHeidis n friends are labeled 0 through n1 and their network of connections forms a tree In other words every two of her friends a b know each other possibly indirectly there is a sequence of friends starting from a and ending on b and such that each two consecutive friends in the sequence know each other directly and there are exactly n1 pairs of friends who know each other directlyJenny is given the number 0

@@ -1,0 +1,9 @@
+Z mod X = C                    
+
+https://codeforces.com/problemset/problem/1684/B
+
+constructive algorithms
+
+800
+
+You are given three positive integers a, b, c (a < b < c). You have to find three positive integers x, y, z such that:x \bmod y = a, y \bmod z = b, z \bmod x = c.Here p \bmod q denotes the remainder from dividing p by q. It is possible to show that for such constraints the answer always exists.

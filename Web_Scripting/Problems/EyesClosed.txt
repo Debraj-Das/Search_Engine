@@ -1,0 +1,9 @@
+Eyes Closed                    
+
+httpscodeforcescomproblemsetproblem895E
+
+data structures
+
+2300
+
+Vasya and Petya were tired of studying so they decided to play a game Before the game begins Vasya looks at array a consisting of n integers As soon as he remembers all elements of a the game begins Vasya closes his eyes and Petya does q actions of one of two types1 Petya says 4 integers l1r1l2r2 boundaries of two nonintersecting segments After that he swaps one random element from the l1r1 segment with another random element from the l2r2 segment2 Petya asks Vasya the sum of the elements of a in the lr segmentVasya is a mathematician so he answers Petya the mathematical expectation of the sum of the elements in the segmentYour task is to write a program which will answer the second type questions as Vasya would do it In other words your program should print the mathematical expectation of the sum of the elements of a in the lr segment for every second type query

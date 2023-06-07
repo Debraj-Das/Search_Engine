@@ -1,0 +1,9 @@
+Round Subset                    
+
+https://codeforces.com/problemset/problem/837/D
+
+dp
+
+2100
+
+Let's call the roundness of the number the number of zeros to which it ends.You have an array of n numbers. You need to choose a subset of exactly k numbers so that the roundness of the product of the selected numbers will be maximum possible.

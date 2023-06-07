@@ -1,0 +1,9 @@
+Common Prefixes                    
+
+https://codeforces.com/problemset/problem/1384/A
+
+constructive algorithms
+
+1200
+
+The length of the longest common prefix of two strings s = s_1 s_2 \ldots s_n and t = t_1 t_2 \ldots t_m is defined as the maximum integer k (0 \le k \le min(n,m)) such that s_1 s_2 \ldots s_k equals t_1 t_2 \ldots t_k.Koa the Koala initially has n+1 strings s_1, s_2, \dots, s_{n+1}.For each i (1 \le i \le n) she calculated a_i — the length of the longest common prefix of s_i and s_{i+1}.Several days later Koa found these numbers, but she couldn't remember the strings.So Koa would like to find some strings s_1, s_2, \dots, s_{n+1} which would have generated numbers a_1, a_2, \dots, a_n. Can you help her?If there are many answers print any. We can show that answer always exists for the given constraints. 

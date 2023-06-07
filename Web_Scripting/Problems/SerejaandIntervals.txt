@@ -1,0 +1,9 @@
+Sereja and Intervals                    
+
+httpscodeforcescomproblemsetproblem367E
+
+combinatorics
+
+2700
+
+Sereja is interested in intervals of numbers so he has prepared a problem about intervals for you An interval of numbers is a pair of integers lr 1lrm Interval l1r1 belongs to interval l2r2 if the following condition is met l2l1r1r2Sereja wants to write out a sequence of n intervals l1r1 l2r2  lnrn on a piece of paper At that no interval in the sequence can belong to some other interval of the sequence Also Sereja loves number x very much and he wants some at least one interval in the sequence to have lix Sereja wonders how many distinct ways to write such intervals are thereHelp Sereja and find the required number of ways modulo 1000000007 1097Two ways are considered distinct if there is such j 1jn that the jth intervals in two corresponding sequences are not equal

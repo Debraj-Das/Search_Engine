@@ -1,0 +1,9 @@
+Matchmaker                    
+
+httpscodeforcescomproblemsetproblem159B
+
+special problem
+
+1100
+
+Polycarpus has n markers and m marker caps Each marker is described by two numbers xi is the color and yi is the diameter Correspondingly each cap is described by two numbers aj is the color and bj is the diameter Cap ajbj can close marker xiyi only if their diameters match that is bjyi Besides a marker is considered to be beautifully closed if the cap color and the marker color match that is ajxiFind the way to close the maximum number of markers If there are several such ways then choose the one that has the maximum number of beautifully closed markers

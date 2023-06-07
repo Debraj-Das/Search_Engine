@@ -1,0 +1,9 @@
+Vasily the Bear and Sequence                    
+
+httpscodeforcescomproblemsetproblem336C
+
+brute force
+
+1800
+
+Vasily the bear has got a sequence of positive integers a1a2an Vasily the Bear wants to write out several numbers on a piece of paper so that the beauty of the numbers he wrote out was maximum The beauty of the written out numbers b1b2bk is such maximum nonnegative integer v that number b1 and b2 and  and bk is divisible by number 2v without a remainder If such number v doesnt exist that is for any nonnegative integer v number b1 and b2 and  and bk is divisible by 2v without a remainder the beauty of the written out numbers equals 1 Tell the bear which numbers he should write out so that the beauty of the written out numbers is maximum If there are multiple ways to write out the numbers you need to choose the one where the bear writes out as many numbers as possibleHere expression x and y means applying the bitwise AND operation to numbers x and y In programming languages C and Java this operation is represented by  in Pascal  by and

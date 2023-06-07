@@ -1,0 +1,9 @@
+Edge Reverse                    
+
+https://codeforces.com/problemset/problem/1777/E
+
+binary search
+
+2200
+
+You will be given a weighted directed graph of n nodes and m directed edges, where the i-th edge has a weight of w_i (1 \le i \le m).You need to reverse some edges of this graph so that there is at least one node in the graph from which every other node is reachable. The cost of these reversals is equal to the maximum weight of all reversed edges. If no edge reversal is required, assume the cost to be 0.It is guaranteed that no self-loop or duplicate edge exists.Find the minimum cost required for completing the task. If there is no solution, print a single integer -1.

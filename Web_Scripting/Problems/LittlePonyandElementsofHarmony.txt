@@ -1,0 +1,9 @@
+Little Pony and Elements of Harmony                    
+
+httpscodeforcescomproblemsetproblem453D
+
+dp
+
+3000
+
+The Elements of Harmony are six supernatural artifacts representing subjective aspects of harmony They are arguably the most powerful force in Equestria The inside of Elements of Harmony can be seen as a complete graph with n vertices labeled from 0 to n1 where n is a power of two equal to 2m  The energy in Elements of Harmony is in constant movement According to the ancient book the energy of vertex u in time i eiu equals to Here b is the transformation coefficient  an array of m1 integers and fuv is the number of ones in the binary representation of number uxorvGiven the transformation coefficient and the energy distribution at time 0 e0 Help Twilight Sparkle predict the energy distribution at time t et The answer can be quite large so output it modulo p

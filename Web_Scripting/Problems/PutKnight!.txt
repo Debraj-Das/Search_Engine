@@ -1,0 +1,9 @@
+Put Knight                    
+
+httpscodeforcescomproblemsetproblem120E
+
+games
+
+1400
+
+Petya and Gena play a very interesting game Put a Knight on a chessboard nn in size In this game they take turns to put chess pieces called knights on the board so that no two knights could threat each other A knight located in square rc can threat squares r1c2 r1c2 r1c2 r1c2 r2c1 r2c1 r2c1 and r2c1 some of the squares may be located outside the chessboard The player who cant put a new knight during his move loses Determine which player wins considering that both players play optimally well and Petya starts

@@ -1,0 +1,9 @@
+Number Transformation II                    
+
+httpscodeforcescomproblemsetproblem346C
+
+greedy
+
+2200
+
+You are given a sequence of positive integers x1x2xn and two nonnegative integers a and b Your task is to transform a into b To do that you can perform the following moves  subtract 1 from the current a  subtract a mod xi 1in from the current a Operation a mod xi means taking the remainder after division of number a by number xiNow you want to know the minimum number of moves needed to transform a into b

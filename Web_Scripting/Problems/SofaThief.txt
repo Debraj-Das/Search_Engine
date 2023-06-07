@@ -1,0 +1,9 @@
+Sofa Thief                    
+
+httpscodeforcescomproblemsetproblem818C
+
+brute force
+
+2000
+
+Yet another round on DecoForces is coming Grandpa Maks wanted to participate in it but someone has stolen his precious sofa And how can one perform well with such a major lossFortunately the thief had left a note for Grandpa Maks This note got Maks to the sofa storehouse Still he had no idea which sofa belongs to him as they all looked the sameThe storehouse is represented as matrix nm Every sofa takes two neighbouring by some side cells No cell is covered by more than one sofa There can be empty cellsSofa A is standing to the left of sofa B if there exist two such cells a and b that xaxb a is covered by A and b is covered by B Sofa A is standing to the top of sofa B if there exist two such cells a and b that yayb a is covered by A and b is covered by B Right and bottom conditions are declared the same way Note that in all conditions AB Also some sofa A can be both to the top of another sofa B and to the bottom of it The same is for left and right conditionsThe note also stated that there are cntl sofas to the left of Grandpa Makss sofa cntr  to the right cntt  to the top and cntb  to the bottomGrandpa Maks asks you to help him to identify his sofa It is guaranteed that there is no more than one sofa of given conditionsOutput the number of Grandpa Makss sofa If there is no such sofa that all the conditions are met for it then output 1

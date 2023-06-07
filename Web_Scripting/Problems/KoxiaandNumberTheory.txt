@@ -1,0 +1,9 @@
+Koxia and Number Theory                    
+
+https://codeforces.com/problemset/problem/1770/C
+
+brute force
+
+1700
+
+Joi has an array a of n positive integers. Koxia wants you to determine whether there exists a positive integer x > 0 such that \gcd(a_i+x,a_j+x)=1 for all 1 \leq i < j \leq n.Here \gcd(y, z) denotes the greatest common divisor (GCD) of integers y and z.

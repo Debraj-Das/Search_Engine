@@ -1,0 +1,9 @@
+Red-Black Number                    
+
+https://codeforces.com/problemset/problem/1593/F
+
+dfs and similar
+
+2100
+
+It is given a non-negative integer x, the decimal representation of which contains n digits. You need to color each its digit in red or black, so that the number formed by the red digits is divisible by A, and the number formed by the black digits is divisible by B.At least one digit must be colored in each of two colors. Consider, the count of digits colored in red is r and the count of digits colored in black is b. Among all possible colorings of the given number x, you need to output any such that the value of |r - b| is the minimum possible.Note that the number x and the numbers formed by digits of each color, may contain leading zeros.  Example of painting a number for A = 3 and B = 13 The figure above shows an example of painting the number x = 02165 of n = 5 digits for A = 3 and B = 13. The red digits form the number 015, which is divisible by 3, and the black ones — 26, which is divisible by 13. Note that the absolute value of the difference between the counts of red and black digits is 1, it is impossible to achieve a smaller value.

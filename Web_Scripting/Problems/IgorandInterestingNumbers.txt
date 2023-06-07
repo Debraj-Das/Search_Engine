@@ -1,0 +1,9 @@
+Igor and Interesting Numbers                    
+
+httpscodeforcescomproblemsetproblem747F
+
+brute force
+
+2500
+
+Igor likes hexadecimal notation and considers positive integer in the hexadecimal notation interesting if each digit and each letter in it appears no more than t times For example if t3 then integers 13a13322 aaa abcdef0123456789 are interesting but numbers aaaa abababab and 1000000 are not interestingYour task is to find the kth smallest interesting for Igor integer in the hexadecimal notation The integer should not contain leading zeros

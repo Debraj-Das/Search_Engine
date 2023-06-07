@@ -1,0 +1,9 @@
+K-Complete Word                    
+
+https://codeforces.com/problemset/problem/1332/C
+
+dfs and similar
+
+1500
+
+Word s of length n is called k-complete if   s is a palindrome, i.e. s_i=s_{n+1-i} for all 1 \le i \le n;  s has a period of k, i.e. s_i=s_{k+i} for all 1 \le i \le n-k. For example, "abaaba" is a 3-complete word, while "abccba" is not.Bob is given a word s of length n consisting of only lowercase Latin letters and an integer k, such that n is divisible by k. He wants to convert s to any k-complete word.To do this Bob can choose some i (1 \le i \le n) and replace the letter at position i with some other lowercase Latin letter.So now Bob wants to know the minimum number of letters he has to replace to convert s to any k-complete word.Note that Bob can do zero changes if the word s is already k-complete.You are required to answer t test cases independently.

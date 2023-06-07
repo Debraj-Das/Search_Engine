@@ -1,0 +1,9 @@
+Smile House                    
+
+https://codeforces.com/problemset/problem/147/B
+
+binary search
+
+2500
+
+A smile house is created to raise the mood. It has n rooms. Some of the rooms are connected by doors. For each two rooms (number i and j), which are connected by a door, Petya knows their value cij — the value which is being added to his mood when he moves from room i to room j.Petya wondered whether he can raise his mood infinitely, moving along some cycle? And if he can, then what minimum number of rooms he will need to visit during one period of a cycle?

@@ -1,0 +1,9 @@
+Kamalolmolks Painting                    
+
+httpscodeforcescomproblemsetproblem475C
+
+brute force
+
+2100
+
+Rumors say that one of Kamalolmolks paintings has been altered A rectangular brush has been moved right and down on the paintingConsider the painting as a nm rectangular grid At the beginning an xy rectangular brush is placed somewhere in the frame with edges parallel to the frame 1xn1ym Then the brush is moved several times Each time the brush is moved one unit right or down The brush has been strictly inside the frame during the painting The brush alters every cell it has covered at some momentYou have found one of the old Kamalolmolks paintings You want to know if its possible that it has been altered in described manner If yes you also want to know minimum possible area of the brush 

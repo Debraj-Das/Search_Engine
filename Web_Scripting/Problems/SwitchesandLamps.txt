@@ -1,0 +1,9 @@
+Switches and Lamps                    
+
+httpscodeforcescomproblemsetproblem985B
+
+implementation
+
+1200
+
+You are given n switches and m lamps The ith switch turns on some subset of the lamps This information is given as the matrix a consisting of n rows and m columns where aij1 if the ith switch turns on the jth lamp and aij0 if the ith switch is not connected to the jth lampInitially all m lamps are turned offSwitches change state only from off to on It means that if you press two or more switches connected to the same lamp then the lamp will be turned on after any of this switches is pressed and will remain its state even if any switch connected to this lamp is pressed afterwardsIt is guaranteed that if you push all n switches then all m lamps will be turned onYour think that you have too many switches and you would like to ignore one of them Your task is to say if there exists such a switch that if you will ignore not use it but press all the other n1 switches then all the m lamps will be turned on

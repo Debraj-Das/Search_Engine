@@ -1,0 +1,9 @@
+DravDe saves the world                    
+
+httpscodeforcescomproblemsetproblem28E
+
+geometry
+
+2800
+
+How horrible The empire of galactic chickens tries to conquer a beautiful city Z they have built a huge incubator that produces millions of chicken soldiers a day and fenced it around The huge incubator looks like a polygon on the plane Oxy with n vertices Naturally DravDe cant keep still he wants to destroy the chicken empire For sure he will start with the incubatorDravDe is strictly outside the incubators territory in point Axaya and wants to get inside and kill all the chickens working there But it takes a lot of doing The problem is that recently DravDe went roller skating and has broken both his legs He will get to the incubators territory in his jet airplane LEVAP41LEVAP41 flies at speed Vxvyvzv DravDe can get on the plane in point A fly for some time and then air drop himself DravDe is very heavy thats why he falls vertically at speed Fdown but in each point of his free fall DravDe can open his parachute and from that moment he starts to fall at the wind speed Uxuyuzu until he lands Unfortunately DravDe isnt good at mathematics Would you help poor worlds saviour find such an air dropping plan that allows him to land on the incubators territory If the answer is not unique DravDe wants to find the plan with the minimum time of his flight on the plane If the answers are still multiple he wants to find the one with the minimum time of his free fall before opening his parachute

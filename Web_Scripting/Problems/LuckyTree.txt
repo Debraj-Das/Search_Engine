@@ -1,0 +1,9 @@
+Lucky Tree                    
+
+httpscodeforcescomproblemsetproblem109C
+
+dp
+
+1900
+
+Petya loves lucky numbers We all know that lucky numbers are the positive integers whose decimal representations contain only the lucky digits 4 and 7 For example numbers 47 744 4 are lucky and 5 17 467 are notOne day Petya encountered a tree with n vertexes Besides the tree was weighted i e each edge of the tree has weight a positive integer An edge is lucky if its weight is a lucky number Note that a tree with n vertexes is an undirected connected graph that has exactly n1 edgesPetya wondered how many vertex triples ijk exists that on the way from i to j as well as on the way from i to k there must be at least one lucky edge all three vertexes are pairwise distinct The order of numbers in the triple matters that is the triple 123 is not equal to the triple 213 and is not equal to the triple 132 Find how many such triples of vertexes exist

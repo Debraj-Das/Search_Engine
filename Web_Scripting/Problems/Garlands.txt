@@ -1,0 +1,9 @@
+Garlands                    
+
+httpscodeforcescomproblemsetproblem707E
+
+data structures
+
+2400
+
+Like all children Alesha loves New Year celebration During the celebration he and his whole family dress up the firtree Like all children Alesha likes to play with garlands chains consisting of a lightbulbsAlesha uses a grid field sized nm for playing The rows of the field are numbered from 1 to n from the top to the bottom and columns are numbered from 1 to m from the left to the rightAlesha has k garlands which he places at the field He does so in the way such that each lightbulb of each garland lies in the center of some cell in the field and each cell contains at most one lightbulb Of course lightbulbs which are neighbours in some garland appears in cells neighbouring by a sideThe example of garland placingEach garland is turned off or turned on at any moment If some garland is turned on then each of its lightbulbs is turned on the same applies for garland turned off Each lightbulb in the whole garland set is unique and thus being turned on brings Alesha some pleasure described by an integer value Turned off lightbulbs dont bring Alesha any pleasureAlesha can turn garlands on and off and wants to know the sum of pleasure value which the lightbulbs placed in the centers of the cells in some rectangular part of the field bring him Initially all the garlands are turned onAlesha is still very little and cant add big numbers He extremely asks you to help him

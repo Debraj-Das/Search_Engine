@@ -1,0 +1,9 @@
+Tavas on the Path                    
+
+httpscodeforcescomproblemsetproblem536E
+
+data structures
+
+3100
+
+Tavas lives in Tavaspolis Tavaspolis has n cities numbered from 1 to n connected by n1 bidirectional roads There exists a path between any two cities Also each road has a length  Tavas favorite strings are binary strings they contain only 0 and 1 For any binary string like ss1s2 sk Ts is its Goodness Ts can be calculated as followsConsider there are exactly m blocks of 1s in this string a block of 1s in s is a maximal consecutive substring of s that only contains 1 with lengths x1x2xmDefine  where f is a given sequence if m0 then Ts0Tavas loves queries He asks you to answer q queries In each query he gives you numbers vul and you should print following numberConsider the roads on the path from city v to city u e1e2exBuild the binary string b of length x such that bi1 if and only if lwei where we is the length of road eYou should print Tb for this query

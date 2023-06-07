@@ -1,0 +1,9 @@
+Phoenix and Memory                    
+
+https://codeforces.com/problemset/problem/1348/F
+
+data structures
+
+2600
+
+Phoenix is trying to take a photo of his n friends with labels 1, 2, \dots, n who are lined up in a row in a special order. But before he can take the photo, his friends get distracted by a duck and mess up their order.Now, Phoenix must restore the order but he doesn't remember completely! He only remembers that the i-th friend from the left had a label between a_i and b_i inclusive. Does there exist a unique way to order his friends based of his memory? 

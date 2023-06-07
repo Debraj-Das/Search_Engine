@@ -1,0 +1,9 @@
+String Counting                    
+
+https://codeforces.com/problemset/problem/1487/G
+
+combinatorics
+
+2700
+
+You have c_1 letters 'a', c_2 letters 'b', ..., c_{26} letters 'z'. You want to build a beautiful string of length n from them (obviously, you cannot use the i-th letter more than c_i times). Each c_i is greater than \frac{n}{3}.A string is called beautiful if there are no palindromic contiguous substrings of odd length greater than 1 in it. For example, the string "abacaba" is not beautiful, it has several palindromic substrings of odd length greater than 1 (for example, "aca"). Another example: the string "abcaa" is beautiful.Calculate the number of different strings you can build, and print the answer modulo 998244353.

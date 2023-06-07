@@ -1,0 +1,9 @@
+Making Shapes                    
+
+https://codeforces.com/problemset/problem/1290/F
+
+dp
+
+3500
+
+You are given n pairwise non-collinear two-dimensional vectors. You can make shapes in the two-dimensional plane with these vectors in the following fashion: Start at the origin (0, 0). Choose a vector and add the segment of the vector to the current point. For example, if your current point is at (x, y) and you choose the vector (u, v), draw a segment from your current point to the point at (x + u, y + v) and set your current point to (x + u, y + v). Repeat step 2 until you reach the origin again.You can reuse a vector as many times as you want.Count the number of different, non-degenerate (with an area greater than 0) and convex shapes made from applying the steps, such that the shape can be contained within a m \times m square, and the vectors building the shape are in counter-clockwise fashion. Since this number can be too large, you should calculate it by modulo 998244353.Two shapes are considered the same if there exists some parallel translation of the first shape to another.A shape can be contained within a m \times m square if there exists some parallel translation of this shape so that every point (u, v) inside or on the border of the shape satisfies 0 \leq u, v \leq m.

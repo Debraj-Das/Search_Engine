@@ -1,0 +1,9 @@
+AntiPalindromize                    
+
+httpscodeforcescomproblemsetproblem884F
+
+flows
+
+2500
+
+A string a of length m is called antipalindromic iff m is even and for each i 1im aiami1Ivan has a string s consisting of n lowercase Latin letters n is even He wants to form some string t that will be an antipalindromic permutation of s Also Ivan has denoted the beauty of index i as bi and the beauty of t as the sum of bi among all indices i such that sitiHelp Ivan to determine maximum possible beauty of t he can get

@@ -1,0 +1,9 @@
+Maximum Xor Secondary                    
+
+httpscodeforcescomproblemsetproblem280B
+
+data structures
+
+1800
+
+Bike loves looking for the second maximum element in the sequence The second maximum element in the sequence of distinct numbers x1x2xk k1 is such maximum element xj that the following inequality holds The lucky number of the sequence of distinct positive integers x1x2xk k1 is the number that is equal to the bitwise excluding OR of the maximum element of the sequence and the second maximum element of the sequenceYouve got a sequence of distinct positive integers s1s2sn n1 Lets denote sequence slsl1sr as slr 1lrn Your task is to find the maximum number among all lucky numbers of sequences slrNote that as all numbers in sequence s are distinct all the given definitions make sence

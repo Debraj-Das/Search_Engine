@@ -1,0 +1,9 @@
+Chladni Figure                    
+
+https://codeforces.com/problemset/problem/1147/B
+
+brute force
+
+1900
+
+Inaka has a disc, the circumference of which is n units. The circumference is equally divided by n points numbered clockwise from 1 to n, such that points i and i + 1 (1 \leq i < n) are adjacent, and so are points n and 1.There are m straight segments on the disc, the endpoints of which are all among the aforementioned n points.Inaka wants to know if her image is rotationally symmetrical, i.e. if there is an integer k (1 \leq k < n), such that if all segments are rotated clockwise around the center of the circle by k units, the new image will be the same as the original one.

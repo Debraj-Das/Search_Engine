@@ -1,0 +1,9 @@
+Trees of Tranquillity                    
+
+https://codeforces.com/problemset/problem/1528/C
+
+data structures
+
+2300
+
+Soroush and Keshi each have a labeled and rooted tree on n vertices. Both of their trees are rooted from vertex 1.Soroush and Keshi used to be at war. After endless decades of fighting, they finally became allies to prepare a Codeforces round. To celebrate this fortunate event, they decided to make a memorial graph on n vertices.They add an edge between vertices u and v in the memorial graph if both of the following conditions hold:   One of u or v is the ancestor of the other in Soroush's tree.  Neither of u or v is the ancestor of the other in Keshi's tree. Here vertex u is considered ancestor of vertex v, if u lies on the path from 1 (the root) to the v.Popping out of nowhere, Mashtali tried to find the maximum clique in the memorial graph for no reason. He failed because the graph was too big. Help Mashtali by finding the size of the maximum clique in the memorial graph.As a reminder, clique is a subset of vertices of the graph, each two of which are connected by an edge.

@@ -1,0 +1,9 @@
+Rain                    
+
+https://codeforces.com/problemset/problem/1710/B
+
+binary search
+
+2100
+
+You are the owner of a harvesting field which can be modeled as an infinite line, whose positions are identified by integers.It will rain for the next n days. On the i-th day, the rain will be centered at position x_i and it will have intensity p_i. Due to these rains, some rainfall will accumulate; let a_j be the amount of rainfall accumulated at integer position j. Initially a_j is 0, and it will increase by \max(0,p_i-|x_i-j|) after the i-th day's rain.A flood will hit your field if, at any moment, there is a position j with accumulated rainfall a_j>m.You can use a magical spell to erase exactly one day's rain, i.e., setting p_i=0. For each i from 1 to n, check whether in case of erasing the i-th day's rain there is no flood.

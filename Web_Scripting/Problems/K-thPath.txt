@@ -1,0 +1,9 @@
+K-th Path                    
+
+https://codeforces.com/problemset/problem/1196/F
+
+brute force
+
+2200
+
+You are given a connected undirected weighted graph consisting of n vertices and m edges.You need to print the k-th smallest shortest path in this graph (paths from the vertex to itself are not counted, paths from i to j and from j to i are counted as one).More formally, if d is the matrix of shortest paths, where d_{i, j} is the length of the shortest path between vertices i and j (1 \le i < j \le n), then you need to print the k-th element in the sorted array consisting of all d_{i, j}, where 1 \le i < j \le n.

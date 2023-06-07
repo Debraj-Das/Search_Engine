@@ -1,0 +1,9 @@
+Earth Wind and Fire                    
+
+https://codeforces.com/problemset/problem/1148/E
+
+constructive algorithms
+
+2300
+
+There are n stones arranged on an axis. Initially the i-th stone is located at the coordinate s_i. There may be more than one stone in a single place.You can perform zero or more operations of the following type:   take two stones with indices i and j so that s_i \leq s_j, choose an integer d (0 \leq 2 \cdot d \leq s_j - s_i), and replace the coordinate s_i with (s_i + d) and replace coordinate s_j with (s_j - d). In other words, draw stones closer to each other. You want to move the stones so that they are located at positions t_1, t_2, \ldots, t_n. The order of the stones is not important — you just want for the multiset of the stones resulting positions to be the same as the multiset of t_1, t_2, \ldots, t_n.Detect whether it is possible to move the stones this way, and if yes, construct a way to do so. You don't need to minimize the number of moves.

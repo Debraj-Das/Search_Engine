@@ -1,0 +1,9 @@
+Score of a Tree                    
+
+https://codeforces.com/problemset/problem/1777/D
+
+bitmasks
+
+1900
+
+You are given a tree of n nodes, rooted at 1. Every node has a value of either 0 or 1 at time t=0.At any integer time t>0, the value of a node becomes the bitwise XOR of the values of its children at time t - 1; the values of leaves become 0 since they don't have any children.Let S(t) denote the sum of values of all nodes at time t. Let F(A) denote the sum of S(t) across all values of t such that 0 \le t \le 10^{100}, where A is the initial assignment of 0s and 1s in the tree.The task is to find the sum of F(A) for all 2^n initial configurations of 0s and 1s in the tree. Print the sum modulo 10^9+7.

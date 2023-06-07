@@ -1,0 +1,9 @@
+Creating a Character                    
+
+https://codeforces.com/problemset/problem/1217/A
+
+binary search
+
+1300
+
+You play your favourite game yet another time. You chose the character you didn't play before. It has str points of strength and int points of intelligence. Also, at start, the character has exp free experience points you can invest either in strength or in intelligence (by investing one point you can either raise strength by 1 or raise intelligence by 1).Since you'd like to make some fun you want to create a jock character, so it has more strength than intelligence points (resulting strength is strictly greater than the resulting intelligence).Calculate the number of different character builds you can create (for the purpose of replayability) if you must invest all free points. Two character builds are different if their strength and/or intellect are different.

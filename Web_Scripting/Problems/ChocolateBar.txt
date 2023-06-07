@@ -1,0 +1,9 @@
+Chocolate Bar                    
+
+httpscodeforcescomproblemsetproblem598E
+
+brute force
+
+2000
+
+You have a rectangular chocolate bar consisting of nm single squares You want to eat exactly k squares so you may need to break the chocolate bar In one move you can break any single rectangular piece of chocolate in two rectangular pieces You can break only by lines between squares horizontally or vertically The cost of breaking is equal to square of the break lengthFor example if you have a chocolate bar consisting of 23 unit squares then you can break it horizontally and get two 13 pieces the cost of such breaking is 329 or you can break it vertically in two ways and get two pieces 21 and 22 the cost of such breaking is 224For several given values n m and k find the minimum total cost of breaking You can eat exactly k squares of chocolate if after all operations of breaking there is a set of rectangular pieces of chocolate with the total size equal to k squares The remaining nmk squares are not necessarily form a single rectangular piece

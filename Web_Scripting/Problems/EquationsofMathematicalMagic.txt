@@ -1,0 +1,9 @@
+Equations of Mathematical Magic                    
+
+https://codeforces.com/problemset/problem/1064/B
+
+math
+
+1200
+
+Colossal! — exclaimed Hawk-nose. — A programmer! That's exactly what we are looking for.Arkadi and Boris Strugatsky. Monday starts on SaturdayReading the book "Equations of Mathematical Magic" Roman Oira-Oira and Cristobal Junta found an interesting equation: a - (a \oplus x) - x = 0 for some given a, where \oplus stands for a bitwise exclusive or (XOR) of two integers (this operation is denoted as ^ or xor in many modern programming languages). Oira-Oira quickly found some x, which is the solution of the equation, but Cristobal Junta decided that Oira-Oira's result is not interesting enough, so he asked his colleague how many non-negative solutions of this equation exist. This task turned out to be too difficult for Oira-Oira, so he asks you to help.

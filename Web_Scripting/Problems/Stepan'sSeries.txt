@@ -1,0 +1,9 @@
+Stepan's Series                    
+
+https://codeforces.com/problemset/problem/774/J
+
+*special problem
+
+2000
+
+Well, the series which Stepan watched for a very long time, ended. In total, the series had n episodes. For each of them, Stepan remembers either that he definitely has watched it, or that he definitely hasn't watched it, or he is unsure, has he watched this episode or not. Stepan's dissatisfaction is the maximum number of consecutive series that Stepan did not watch.Your task is to determine according to Stepan's memories if his dissatisfaction could be exactly equal to k.

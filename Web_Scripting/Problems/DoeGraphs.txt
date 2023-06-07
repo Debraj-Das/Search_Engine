@@ -1,0 +1,9 @@
+Doe Graphs                    
+
+httpscodeforcescomproblemsetproblem232C
+
+constructive algorithms
+
+2600
+
+John Doe decided that some mathematical object must be named after him So he invented the Doe graphs The Doe graphs are a family of undirected graphs each of them is characterized by a single nonnegative number  its order Well denote a graph of order k as Dk and well denote the number of vertices in the graph Dk as Dk Then lets define the Doe graphs as follows  D0 consists of a single vertex that has number 1  D1 consists of two vertices with numbers 1 and 2 connected by an edge  Dn for n2 is obtained from graphs Dn1 and Dn2 Dn1 and Dn2 are joined in one graph at that numbers of all vertices of graph Dn2 increase by Dn1 for example vertex number 1 of graph Dn2 becomes vertex number 1Dn1 After that two edges are added to the graph the first one goes between vertices with numbers Dn1 and Dn11 the second one goes between vertices with numbers Dn11 and 1 Note that the definition of graph Dn implies that Dn is a connected graph its vertices are numbered from 1 to Dn   The picture shows the Doe graphs of order 1 2 3 and 4 from left to right John thinks that Doe graphs are that great because for them exists a polynomial algorithm for the search of Hamiltonian path However your task is to answer queries of finding the shortestlength path between the vertices ai and bi in the graph DnA path between a pair of vertices u and v in the graph is a sequence of vertices x1 x2  xk k1 such that x1u xkv and for any i ik vertices xi and xi1 are connected by a graph edge The length of path x1 x2  xk is number k1

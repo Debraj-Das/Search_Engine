@@ -1,0 +1,9 @@
+Marmots easy                    
+
+httpscodeforcescomproblemsetproblem802D
+
+math
+
+2100
+
+Heidi is a statistician to the core and she likes to study the evolution of marmot populations in each of V 1V100 villages So it comes that every spring when Heidi sees the first snowdrops sprout in the meadows around her barn she impatiently dons her snowshoes and sets out to the Alps to welcome her friends the marmots to a new season of thrilling adventuresArriving in a village Heidi asks each and every marmot she comes across for the number of inhabitants of that village This year the marmots decide to play an April Fools joke on Heidi Instead of consistently providing the exact number of inhabitants P 10P1000 of the village they respond with a random nonnegative integer k drawn from one of two types of probability distributions  Poisson davril distribution the probability of getting an answer k is  for k0123  Uniform distribution the probability of getting an answer k is  for k0122P Heidi collects exactly 250 answers per village Every village follows either the Poisson or the uniform distribution Heidi cannot tell marmots apart so she may query some marmots several times and each time the marmot will answer with a new number drawn from the villages distributionCan you help Heidi to find out whether a village follows a Poisson or a uniform distribution

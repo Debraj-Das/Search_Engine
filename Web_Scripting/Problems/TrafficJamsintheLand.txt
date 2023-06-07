@@ -1,0 +1,9 @@
+Traffic Jams in the Land                    
+
+httpscodeforcescomproblemsetproblem498D
+
+data structures
+
+2400
+
+Some country consists of n1 cities located along a straight highway Lets number the cities with consecutive integers from 1 to n1 in the order they occur along the highway Thus the cities are connected by n segments of the highway the ith segment connects cities number i and i1 Every segment of the highway is associated with a positive integer ai1  the period of traffic jams appearance on it In order to get from city x to city y xy some drivers use the following tactics Initially the driver is in city x and the current time t equals zero Until the driver arrives in city y he perfors the following actions  if the current time t is a multiple of ax then the segment of the highway number x is now having traffic problems and the driver stays in the current city for one unit of time formally speaking we assign tt1  if the current time t is not a multiple of ax then the segment of the highway number x is now clear and thats why the driver uses one unit of time to move to city x1 formally we assign tt1 and xx1 You are developing a new traffic control system You want to consecutively process q queries of two types  determine the final value of time t after the ride from city x to city y xy assuming that we apply the tactics that is described above Note that for each query t is being reset to 0  replace the period of traffic jams appearing on the segment number x by value y formally assign axy Write a code that will effectively process the queries given above

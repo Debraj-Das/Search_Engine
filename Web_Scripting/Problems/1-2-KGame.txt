@@ -1,0 +1,9 @@
+12K Game                    
+
+httpscodeforcescomproblemsetproblem1194D
+
+games
+
+1700
+
+Alice and Bob play a game There is a paper strip which is divided into n1 cells numbered from left to right starting from 0 There is a chip placed in the nth cell the last onePlayers take turns Alice is first Each player during his or her turn has to move the chip 1 2 or k cells to the left so if the chip is currently in the cell i the player can move it into cell i1 i2 or ik The chip should not leave the borders of the paper strip it is impossible for example to move it k cells to the left if the current cell has number ik The player who cant make a move loses the gameWho wins if both participants play optimallyAlice and Bob would like to play several games so you should determine the winner in each game

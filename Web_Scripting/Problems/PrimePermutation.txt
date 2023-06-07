@@ -1,0 +1,9 @@
+Prime Permutation                    
+
+httpscodeforcescomproblemsetproblem123A
+
+implementation
+
+1300
+
+You are given a string s consisting of small Latin letters Lets denote the length of the string as s The characters in the string are numbered starting from 1 Your task is to find out if it is possible to rearrange characters in string s so that for any prime number ps and for any integer i ranging from 1 to sp inclusive the following condition was fulfilled spspi If the answer is positive find one way to rearrange the characters

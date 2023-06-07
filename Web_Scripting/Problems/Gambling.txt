@@ -1,0 +1,9 @@
+Gambling                    
+
+https://codeforces.com/problemset/problem/1692/H
+
+data structures
+
+1700
+
+Marian is at a casino. The game at the casino works like this.Before each round, the player selects a number between 1 and 10^9. After that, a dice with 10^9 faces is rolled so that a random number between 1 and 10^9 appears. If the player guesses the number correctly their total money is doubled, else their total money is halved. Marian predicted the future and knows all the numbers x_1, x_2, \dots, x_n that the dice will show in the next n rounds. He will pick three integers a, l and r (l \leq r). He will play r-l+1 rounds (rounds between l and r inclusive). In each of these rounds, he will guess the same number a. At the start (before the round l) he has 1 dollar.Marian asks you to determine the integers a, l and r (1 \leq a \leq 10^9, 1 \leq l \leq r \leq n) such that he makes the most money at the end.Note that during halving and multiplying there is no rounding and there are no precision errors. So, for example during a game, Marian could have money equal to \dfrac{1}{1024}, \dfrac{1}{128}, \dfrac{1}{2}, 1, 2, 4, etc. (any value of 2^t, where t is an integer of any sign).

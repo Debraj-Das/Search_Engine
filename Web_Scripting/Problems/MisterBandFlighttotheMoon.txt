@@ -1,0 +1,9 @@
+Mister B and Flight to the Moon                    
+
+https://codeforces.com/problemset/problem/819/E
+
+constructive algorithms
+
+2800
+
+In order to fly to the Moon Mister B just needs to solve the following problem.There is a complete indirected graph with n vertices. You need to cover it with several simple cycles of length 3 and 4 so that each edge is in exactly 2 cycles.We are sure that Mister B will solve the problem soon and will fly to the Moon. Will you?

@@ -1,0 +1,9 @@
+Create The Teams                    
+
+https://codeforces.com/problemset/problem/1380/C
+
+brute force
+
+1400
+
+There are n programmers that you want to split into several non-empty teams. The skill of the i-th programmer is a_i. You want to assemble the maximum number of teams from them. There is a restriction for each team: the number of programmers in the team multiplied by the minimum skill among all programmers in the team must be at least x.Each programmer should belong to at most one team. Some programmers may be left without a team.Calculate the maximum number of teams that you can assemble.

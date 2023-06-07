@@ -1,0 +1,9 @@
+Games on a CD                    
+
+https://codeforces.com/problemset/problem/727/E
+
+data structures
+
+2300
+
+Several years ago Tolya had n computer games and at some point of time he decided to burn them to CD. After that he wrote down the names of the games one after another in a circle on the CD in clockwise order. The names were distinct, the length of each name was equal to k. The names didn't overlap.Thus, there is a cyclic string of length n·k written on the CD.Several years have passed and now Tolya can't remember which games he burned to his CD. He knows that there were g popular games that days. All of the games he burned were among these g games, and no game was burned more than once.You have to restore any valid list of games Tolya could burn to the CD several years ago.

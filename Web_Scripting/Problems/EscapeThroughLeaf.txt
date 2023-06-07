@@ -1,0 +1,9 @@
+Escape Through Leaf                    
+
+https://codeforces.com/problemset/problem/932/F
+
+data structures
+
+2700
+
+You are given a tree with n nodes (numbered from 1 to n) rooted at node 1. Also, each node has two values associated with it. The values for i-th node are ai and bi.You can jump from a node to any node in its subtree. The cost of one jump from node x to node y is the product of ax and by. The total cost of a path formed by one or more jumps is sum of costs of individual jumps. For every node, calculate the minimum total cost to reach any leaf from that node. Pay attention, that root can never be leaf, even if it has degree 1.Note that you cannot jump from a node to itself.

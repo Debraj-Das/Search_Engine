@@ -1,0 +1,9 @@
+Asya And Kittens                    
+
+https://codeforces.com/problemset/problem/1131/F
+
+constructive algorithms
+
+1700
+
+Asya loves animals very much. Recently, she purchased n kittens, enumerated them from 1 and n and then put them into the cage. The cage consists of one row of n cells, enumerated with integers from 1 to n from left to right. Adjacent cells had a partially transparent partition wall between them, hence there were n - 1 partitions originally. Initially, each cell contained exactly one kitten with some number.Observing the kittens, Asya noticed, that they are very friendly and often a pair of kittens in neighboring cells wants to play together. So Asya started to remove partitions between neighboring cells. In particular, on the day i, Asya:  Noticed, that the kittens x_i and y_i, located in neighboring cells want to play together.  Removed the partition between these two cells, efficiently creating a single cell, having all kittens from two original cells. Since Asya has never putted partitions back, after n - 1 days the cage contained a single cell, having all kittens.For every day, Asya remembers numbers of kittens x_i and y_i, who wanted to play together, however she doesn't remember how she placed kittens in the cage in the beginning. Please help her and find any possible initial arrangement of the kittens into n cells.

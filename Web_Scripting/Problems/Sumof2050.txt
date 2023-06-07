@@ -1,0 +1,9 @@
+Sum of 2050                    
+
+https://codeforces.com/problemset/problem/1517/A
+
+greedy
+
+800
+
+A number is called 2050-number if it is 2050, 20500, ..., (2050 \cdot 10^k for integer k \ge 0).Given a number n, you are asked to represent n as the sum of some (not necessarily distinct) 2050-numbers. Compute the minimum number of 2050-numbers required for that.

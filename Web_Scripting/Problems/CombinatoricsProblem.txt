@@ -1,0 +1,9 @@
+Combinatorics Problem                    
+
+https://codeforces.com/problemset/problem/1832/E
+
+brute force
+
+2200
+
+Recall that the binomial coefficient \binom{x}{y} is calculated as follows (x and y are non-negative integers):  if x < y, then \binom{x}{y} = 0;  otherwise, \binom{x}{y} = \frac{x!}{y! \cdot (x-y)!}. You are given an array a_1, a_2, \dots, a_n and an integer k. You have to calculate a new array b_1, b_2, \dots, b_n, where  b_1 = (\binom{1}{k} \cdot a_1) \bmod 998244353;  b_2 = (\binom{2}{k} \cdot a_1 + \binom{1}{k} \cdot a_2) \bmod 998244353;  b_3 = (\binom{3}{k} \cdot a_1 + \binom{2}{k} \cdot a_2 + \binom{1}{k} \cdot a_3) \bmod 998244353, and so on. Formally, b_i = (\sum\limits_{j=1}^{i} \binom{i - j + 1}{k} \cdot a_j) \bmod 998244353.Note that the array is given in a modified way, and you have to output it in a modified way as well.

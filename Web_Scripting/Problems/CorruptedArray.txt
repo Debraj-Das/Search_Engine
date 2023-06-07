@@ -1,0 +1,9 @@
+Corrupted Array                    
+
+https://codeforces.com/problemset/problem/1512/D
+
+constructive algorithms
+
+1200
+
+You are given a number n and an array b_1, b_2, \ldots, b_{n+2}, obtained according to the following algorithm:   some array a_1, a_2, \ldots, a_n was guessed;  array a was written to array b, i.e. b_i = a_i (1 \le i \le n);  The (n+1)-th element of the array b is the sum of the numbers in the array a, i.e. b_{n+1} = a_1+a_2+\ldots+a_n;  The (n+2)-th element of the array b was written some number x (1 \le x \le 10^9), i.e. b_{n+2} = x; The  array b was shuffled. For example, the array b=[2, 3, 7, 12 ,2] it could be obtained in the following ways:   a=[2, 2, 3] and x=12;  a=[3, 2, 7] and x=2. For the given array b, find any array a that could have been guessed initially.

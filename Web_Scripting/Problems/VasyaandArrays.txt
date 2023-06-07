@@ -1,0 +1,9 @@
+Vasya and Arrays                    
+
+https://codeforces.com/problemset/problem/1036/D
+
+greedy
+
+1600
+
+Vasya has two arrays A and B of lengths n and m, respectively.He can perform the following operation arbitrary number of times (possibly zero): he takes some consecutive subsegment of the array and replaces it with a single element, equal to the sum of all elements on this subsegment. For example, from the array [1, 10, 100, 1000, 10000] Vasya can obtain array [1, 1110, 10000], and from array [1, 2, 3] Vasya can obtain array [6].Two arrays A and B are considered equal if and only if they have the same length and for each valid i A_i = B_i.Vasya wants to perform some of these operations on array A, some on array B, in such a way that arrays A and B become equal. Moreover, the lengths of the resulting arrays should be maximal possible.Help Vasya to determine the maximum length of the arrays that he can achieve or output that it is impossible to make arrays A and B equal.

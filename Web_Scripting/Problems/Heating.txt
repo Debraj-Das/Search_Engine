@@ -1,0 +1,9 @@
+Heating                    
+
+https://codeforces.com/problemset/problem/1260/A
+
+math
+
+1000
+
+Several days ago you bought a new house and now you are planning to start a renovation. Since winters in your region can be very cold you need to decide how to heat rooms in your house.Your house has n rooms. In the i-th room you can install at most c_i heating radiators. Each radiator can have several sections, but the cost of the radiator with k sections is equal to k^2 burles.Since rooms can have different sizes, you calculated that you need at least sum_i sections in total in the i-th room. For each room calculate the minimum cost to install at most c_i radiators with total number of sections not less than sum_i.

@@ -1,0 +1,9 @@
+Upgrading Array                    
+
+httpscodeforcescomproblemsetproblem402D
+
+dp
+
+1800
+
+You have an array of positive integers a1a2an and a set of bad prime numbers b1b2bm The prime numbers that do not occur in the set b are considered good The beauty of array a is the sum  where function fs is determined as follows  f10  Lets assume that p is the minimum prime divisor of s If p is a good prime then  otherwise  You are allowed to perform an arbitrary probably zero number of operations to improve array a The operation of improvement is the following sequence of actions  Choose some number r 1rn and calculate the value g  GCDa1a2ar  Apply the assignments     What is the maximum beauty of the array you can get 

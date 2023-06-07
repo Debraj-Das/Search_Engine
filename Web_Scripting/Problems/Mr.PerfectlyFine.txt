@@ -1,0 +1,9 @@
+Mr. Perfectly Fine                    
+
+https://codeforces.com/problemset/problem/1829/C
+
+bitmasks
+
+800
+
+Victor wants to become "Mr. Perfectly Fine". For that, he needs to acquire a certain set of skills. More precisely, he has 2 skills he needs to acquire. Victor has n books. Reading book i takes him m_i minutes and will give him some (possibly none) of the required two skills, represented by a binary string of length 2.What is the minimum amount of time required so that Victor acquires all of the two skills? 

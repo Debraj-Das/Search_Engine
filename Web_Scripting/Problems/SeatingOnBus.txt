@@ -1,0 +1,9 @@
+Seating On Bus                    
+
+httpscodeforcescomproblemsetproblem660B
+
+implementation
+
+1000
+
+Consider 2n rows of the seats in a bus n rows of the seats on the left and n rows of the seats on the right Each row can be filled by two people So the total capacity of the bus is 4nConsider that m m4n people occupy the seats in the bus The passengers entering the bus are numbered from 1 to m in the order of their entering the bus The pattern of the seat occupation is as below1st row left window seat 1st row right window seat 2nd row left window seat 2nd row right window seat   nth row left window seat nth row right window seatAfter occupying all the window seats for m2n the nonwindow seats are occupied1st row left nonwindow seat 1st row right nonwindow seat   nth row left nonwindow seat nth row right nonwindow seatAll the passengers go to a single final destination In the final destination the passengers get off in the given order1st row left nonwindow seat 1st row left window seat 1st row right nonwindow seat 1st row right window seat   nth row left nonwindow seat nth row left window seat nth row right nonwindow seat nth row right window seat  The seating for n9 and m36 You are given the values n and m Output m numbers from 1 to m the order in which the passengers will get off the bus

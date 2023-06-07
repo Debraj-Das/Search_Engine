@@ -1,0 +1,9 @@
+Homework                    
+
+httpscodeforcescomproblemsetproblem720C
+
+constructive algorithms
+
+3100
+
+Today Peter has got an additional homework for tomorrow The teacher has given three integers to him n m and k and asked him to mark one or more squares on a square grid of size nm The marked squares must form a connected figure and there must be exactly k triples of marked squares that form an Lshaped tromino all three squares are inside a 22 squareThe set of squares forms a connected figure if it is possible to get from any square to any other one if you are allowed to move from a square to any adjacent by a common side squarePeter cannot fulfill the task so he asks you for help Help him to create such figure

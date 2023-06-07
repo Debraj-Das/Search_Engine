@@ -1,0 +1,9 @@
+Substring and Subsequence                    
+
+httpscodeforcescomproblemsetproblem163A
+
+dp
+
+1700
+
+One day Polycarpus got hold of two nonempty strings s and t consisting of lowercase Latin letters Polycarpus is quite good with strings so he immediately wondered how many different pairs of x y are there such that x is a substring of string s y is a subsequence of string t and the content of x and y is the same Two pairs are considered different if they contain different substrings of string s or different subsequences of string t Read the whole statement to understand the definition of different substrings and subsequencesThe length of string s is the number of characters in it If we denote the length of the string s as s we can write the string as ss1s2 ssA substring of s is a nonempty string xsa bsasa1 sb 1abs For example code and force are substrings or codeforces while coders is not Two substrings sa b and sc d are considered to be different if ac or bd For example if scodeforces s22 and s66 are different though their content is the sameA subsequence of s is a nonempty string ysp1p2 pysp1sp2 spy 1p1p2pys For example coders is a subsequence of codeforces Two subsequences usp1p2 pu and vsq1q2 qv are considered different if the sequences p and q are different

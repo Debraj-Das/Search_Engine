@@ -1,0 +1,9 @@
+Little Artem and Random Variable                    
+
+httpscodeforcescomproblemsetproblem641D
+
+dp
+
+2400
+
+Little Artyom decided to study probability theory He found a book with a lot of nice exercises and now wants you to help him with one of themConsider two dices When thrown each dice shows some integer from 1 to n inclusive For each dice the probability of each outcome is given of course their sum is 1 and different dices may have different probability distributionsWe throw both dices simultaneously and then calculate values maxab and minab where a is equal to the outcome of the first dice while b is equal to the outcome of the second dice You dont know the probability distributions for particular values on each dice but you know the probability distributions for maxab and minab That is for each x from 1 to n you know the probability that maxab would be equal to x and the probability that minab would be equal to x Find any valid probability distribution for values on the dices Its guaranteed that the input data is consistent that is at least one solution exists

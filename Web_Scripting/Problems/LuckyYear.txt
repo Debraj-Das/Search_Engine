@@ -1,0 +1,9 @@
+Lucky Year                    
+
+https://codeforces.com/problemset/problem/808/A
+
+implementation
+
+900
+
+Apart from having lots of holidays throughout the year, residents of Berland also have whole lucky years. Year is considered lucky if it has no more than 1 non-zero digit in its number. So years 100, 40000, 5 are lucky and 12, 3001 and 12345 are not.You are given current year in Berland. Your task is to find how long will residents of Berland wait till the next lucky year.

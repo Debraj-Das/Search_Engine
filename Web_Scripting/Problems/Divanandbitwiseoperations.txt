@@ -1,0 +1,9 @@
+Divan and bitwise operations                    
+
+https://codeforces.com/problemset/problem/1614/C
+
+bitmasks
+
+1500
+
+Once Divan analyzed a sequence a_1, a_2, \ldots, a_n consisting of n non-negative integers as follows. He considered each non-empty subsequence of the sequence a, computed the bitwise XOR of its elements and added up all the XORs, obtaining the coziness of the sequence a.A sequence c is a subsequence of a sequence d if c can be obtained from d by deletion of several (possibly, zero or all) elements. For example, [1, \, 2, \, 3, \, 4], [2, \, 4], and [2] are subsequences of [1, \, 2, \, 3, \, 4], but [4, \, 3] and [0] are not.Divan was very proud of his analysis, but now he lost the sequence a, and also the coziness value! However, Divan remembers the value of bitwise OR on m contiguous subsegments of the sequence a. It turns out that each element of the original sequence is contained in at least one of these m segments.Divan asks you to help find the coziness of the sequence a using the information he remembers. If several coziness values are possible, print any.As the result can be very large, print the value modulo 10^9 + 7.

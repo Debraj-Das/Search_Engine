@@ -1,0 +1,9 @@
+Duff in the Army                    
+
+httpscodeforcescomproblemsetproblem587C
+
+data structures
+
+2200
+
+Recently Duff has been a soldier in the army Malek is her commanderTheir country Andarz Gu has n cities numbered from 1 to n and n1 bidirectional roads Each road connects two different cities There exist a unique path between any two citiesThere are also m people living in Andarz Gu numbered from 1 to m Each person has and ID number ID number of ith person is i and heshe lives in city number ci Note that there may be more than one person in a city also there may be no people living in the city  Malek loves to order Thats why he asks Duff to answer to q queries In each query he gives her numbers vu and aTo answer a queryAssume there are x people living in the cities lying on the path from city v to city u Assume these peoples IDs are p1p2px in increasing order If kminxa then Duff should tell Malek numbers kp1p2pk in this order In the other words Malek wants to know a minimums on that path or less if there are less than a peopleDuff is very busy at the moment so she asked you to help her and answer the queries

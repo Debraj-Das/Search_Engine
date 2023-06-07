@@ -1,0 +1,9 @@
+Megacity                    
+
+https://codeforces.com/problemset/problem/424/B
+
+binary search
+
+1200
+
+The administration of the Tomsk Region firmly believes that it's time to become a megacity (that is, get population of one million). Instead of improving the demographic situation, they decided to achieve its goal by expanding the boundaries of the city.The city of Tomsk can be represented as point on the plane with coordinates (0; 0). The city is surrounded with n other locations, the i-th one has coordinates (xi, yi) with the population of ki people. You can widen the city boundaries to a circle of radius r. In such case all locations inside the circle and on its border are included into the city.Your goal is to write a program that will determine the minimum radius r, to which is necessary to expand the boundaries of Tomsk, so that it becomes a megacity.

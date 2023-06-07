@@ -1,0 +1,9 @@
+Bear and Rectangle Strips                    
+
+httpscodeforcescomproblemsetproblem771E
+
+dp
+
+3000
+
+Limak has a grid that consists of 2 rows and n columns The jth cell in the ith row contains an integer tij which can be positive negative or zeroA nonempty rectangle of cells is called nice if and only if the sum of numbers in its cells is equal to 0Limak wants to choose some nice rectangles and give them to his friends as gifts No two chosen rectangles should share a cell What is the maximum possible number of nice rectangles Limak can choose

@@ -1,0 +1,9 @@
+Acyclic Organic Compounds                    
+
+https://codeforces.com/problemset/problem/601/D
+
+data structures
+
+2400
+
+You are given a tree T with n vertices (numbered 1 through n) and a letter in each vertex. The tree is rooted at vertex 1.Let's look at the subtree Tv of some vertex v. It is possible to read a string along each simple path starting at v and ending at some vertex in Tv (possibly v itself). Let's denote the number of distinct strings which can be read this way as . Also, there's a number cv assigned to each vertex v. We are interested in vertices with the maximum value of .You should compute two statistics: the maximum value of  and the number of vertices v with the maximum .

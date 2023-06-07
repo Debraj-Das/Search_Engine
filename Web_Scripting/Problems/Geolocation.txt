@@ -1,0 +1,9 @@
+Geolocation                    
+
+https://codeforces.com/problemset/problem/1220/G
+
+geometry
+
+3400
+
+You are working for the Gryzzl company, headquartered in Pawnee, Indiana.The new national park has been opened near Pawnee recently and you are to implement a geolocation system, so people won't get lost. The concept you developed is innovative and minimalistic. There will be n antennas located somewhere in the park. When someone would like to know their current location, their Gryzzl hologram phone will communicate with antennas and obtain distances from a user's current location to all antennas.Knowing those distances and antennas locations it should be easy to recover a user's location... Right? Well, almost. The only issue is that there is no way to distinguish antennas, so you don't know, which distance corresponds to each antenna. Your task is to find a user's location given as little as all antennas location and an unordered multiset of distances.

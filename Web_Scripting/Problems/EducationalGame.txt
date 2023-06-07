@@ -1,0 +1,9 @@
+Educational Game                    
+
+httpscodeforcescomproblemsetproblem178A3
+
+greedy
+
+1100
+
+The Smart Beaver from ABBYY began to develop a new educational game for children The rules of the game are fairly simple and are described belowThe playing field is a sequence of n nonnegative integers ai numbered from 1 to n The goal of the game is to make numbers a1a2ak ie some prefix of the sequence equal to zero for some fixed k kn and this should be done in the smallest possible number of movesOne move is choosing an integer i 1in such that ai0 and an integer t t0 such that i2tn After the values of i and t have been selected the value of ai is decreased by 1 and the value of ai2t is increased by 1 For example let n4 and a1012 then it is possible to make move i3 t0 and get a1003 or to make move i1 t1 and get a0022 the only possible other move is i1 t0You are given n and the initial sequence ai The task is to calculate the minimum number of moves needed to make the first k elements of the original sequence equal to zero for each possible k 1kn

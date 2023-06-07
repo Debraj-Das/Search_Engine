@@ -1,0 +1,9 @@
+Bicolored Segments                    
+
+httpscodeforcescomproblemsetproblem1389F
+
+data structures
+
+2600
+
+You are given n segments l1 r1 l2 r2 dots ln rn Each segment has one of two colors the ith segments color is tiLets call a pair of segments i and j bad if the following two conditions are met  ti ne tj  the segments li ri and lj rj intersect embed or touch ie there exists an integer x such that x in li ri and x in lj rj Calculate the maximum number of segments that can be selected from the given ones so that there is no bad pair among the selected ones

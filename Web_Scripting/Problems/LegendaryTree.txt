@@ -1,0 +1,9 @@
+Legendary Tree                    
+
+https://codeforces.com/problemset/problem/1129/E
+
+binary search
+
+3100
+
+This is an interactive problem.A legendary tree rests deep in the forest. Legend has it that individuals who realize this tree would eternally become a Legendary Grandmaster.To help you determine the tree, Mikaela the Goddess has revealed to you that the tree contains n vertices, enumerated from 1 through n. She also allows you to ask her some questions as follows. For each question, you should tell Mikaela some two disjoint non-empty sets of vertices S and T, along with any vertex v that you like. Then, Mikaela will count and give you the number of pairs of vertices (s, t) where s \in S and t \in T such that the simple path from s to t contains v.Mikaela the Goddess is busy and will be available to answer at most 11\,111 questions.This is your only chance. Your task is to determine the tree and report its edges.

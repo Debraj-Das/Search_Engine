@@ -1,0 +1,9 @@
+Ksenia and Combinatorics                    
+
+httpscodeforcescomproblemsetproblem382E
+
+combinatorics
+
+2600
+
+Ksenia has her winter exams Today she is learning combinatorics Heres one of the problems she needs to learn to solveHow many distinct trees are there consisting of n vertices each with the following properties  the tree is marked that is the vertices of the tree are numbered from 1 to n  each vertex of the tree is connected with at most three other vertices and at the same moment the vertex with number 1 is connected with at most two other vertices  the size of the trees maximum matching equals k Two trees are considered distinct if there are such two vertices u and v that in one tree they are connected by an edge and in the other tree they are notHelp Ksenia solve the problem for the given n and k As the answer to the problem can be very huge you should output it modulo 10000000071097

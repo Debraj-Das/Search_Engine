@@ -1,0 +1,9 @@
+Levko and Strings                    
+
+httpscodeforcescomproblemsetproblem360C
+
+combinatorics
+
+2500
+
+Levko loves strings of length n consisting of lowercase English letters very much He has one such string s For each string t of length n Levko defines its beauty relative to s as the number of pairs of indexes i j 1ijn such that substring tij is lexicographically larger than substring sijThe boy wondered how many strings t are there such that their beauty relative to s equals exactly k Help him find the remainder after division this number by 1000000007 1097A substring sij of string ss1s2 sn is string sisi1 sjString xx1x2 xp is lexicographically larger than string yy1y2 yp if there is such number r rp that x1y1x2y2 xryr and xr1yr1 The string characters are compared by their ASCII codes

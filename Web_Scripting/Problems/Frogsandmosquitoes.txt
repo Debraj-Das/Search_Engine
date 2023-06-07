@@ -1,0 +1,9 @@
+Frogs and mosquitoes                    
+
+httpscodeforcescomproblemsetproblem609F
+
+data structures
+
+2500
+
+There are n frogs sitting on the coordinate axis Ox For each frog two values xiti are known  the position and the initial length of the tongue of the ith frog it is guaranteed that all positions xi are different m mosquitoes one by one are landing to the coordinate axis For each mosquito two values are known pj  the coordinate of the position where the jth mosquito lands and bj  the size of the jth mosquito Frogs and mosquitoes are represented as points on the coordinate axisThe frog can eat mosquito if mosquito is in the same position with the frog or to the right and the distance between them is not greater than the length of the tongue of the frogIf at some moment several frogs can eat a mosquito the leftmost frog will eat it with minimal xi After eating a mosquito the length of the tongue of a frog increases with the value of the size of eaten mosquito Its possible that after it the frog will be able to eat some other mosquitoes the frog should eat them in this caseFor each frog print two values  the number of eaten mosquitoes and the length of the tongue after landing all mosquitoes and after eating all possible mosquitoes by frogsEach mosquito is landing to the coordinate axis only after frogs eat all possible mosquitoes landed before Mosquitoes are given in order of their landing to the coordinate axis

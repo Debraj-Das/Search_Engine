@@ -1,0 +1,9 @@
+Sasha and a Very Easy Test                    
+
+https://codeforces.com/problemset/problem/1109/E
+
+data structures
+
+2700
+
+Egor likes math, and not so long ago he got the highest degree of recognition in the math community — Egor became a red mathematician. In this regard, Sasha decided to congratulate Egor and give him a math test as a present. This test contains an array a of integers of length n and exactly q queries. Queries were of three types:   "1 l r x" — multiply each number on the range from l to r by x.  "2 p x" — divide the number at the position p by x (divisibility guaranteed).  "3 l r" — find the sum of all elements on the range from l to r. The sum can be big, so Sasha asked Egor to calculate the sum modulo some integer mod. But since Egor is a red mathematician, he doesn't have enough time to solve such easy tasks, at the same time he doesn't want to anger Sasha, that's why he asked you to help and to find answers for all queries of the 3-rd type.

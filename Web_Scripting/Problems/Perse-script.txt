@@ -1,0 +1,9 @@
+Persescript                    
+
+httpscodeforcescomproblemsetproblem72D
+
+special problem
+
+2300
+
+Two good friends were trying to make a new programming language called PersescriptThe most important part of this language is strings A string in Persescript is put between characters So for example Hello is a string But Hello is a variable name or a keyword which are not considered in this problemPersescript is functionbased So there are no operators in this language For example for summing two numbers you have to write sumab and not abThere are several functions for working on strings These include   concatxy is a function which gets two strings x and y and puts y at the end of x and returns the result For example concatHelloWorld returns HelloWorld  reversex gets a single string x and reverses it For example reverseHello returns olleH  substrxab gets a string x and two integers a and b 1abn where n is the length of x And returns the substring of x between indexes a and b inclusive For example substrHello24 returns ell  substrxabc is another version of substr which works just like the last one but c is the step of adding c is positive For example substrHelloWorld1102 returns Hlool This substr means that you put the ath character  and then every cth character until you reach bYoure going to manipulate the string part of Persescript Given a string expression you should print its result It is guaranteed that the expression contains only strings shown by characters  and the above functionsCommands in Persescript are caseinsensitive So to call substr function you can write SUBsTr But you cant print as the result hElLo instead of printing HelloSee the samples for more information

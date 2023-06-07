@@ -1,0 +1,9 @@
+The Wall                    
+
+httpscodeforcescomproblemsetproblem340A
+
+math
+
+1200
+
+Iahub and his friend Floyd have started painting a wall Iahub is painting the wall red and Floyd is painting it pink You can consider the wall being made of a very large number of bricks numbered 1 2 3 and so on Iahub has the following scheme of painting he skips x1 consecutive bricks then he paints the xth one That is hell paint bricks x 2x 3x and so on red Similarly Floyd skips y1 consecutive bricks then he paints the yth one Hence hell paint bricks y 2y 3y and so on pinkAfter painting the wall all day the boys observed that some bricks are painted both red and pink Iahub has a lucky number a and Floyd has a lucky number b Boys wonder how many bricks numbered no less than a and no greater than b are painted both red and pink This is exactly your task compute and print the answer to the question 

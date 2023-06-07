@@ -1,0 +1,9 @@
+Maximum Flow                    
+
+httpscodeforcescomproblemsetproblem843E
+
+flows
+
+3000
+
+You are given a directed graph consisting of n vertices and m edges The vertices s and t are marked as source and sink correspondingly Additionally there are no edges ending at s and there are no edges beginning in tThe graph was constructed in a following way initially each edge had capacity ci0 A maximum flow with source at s and sink at t was constructed in this flow network Lets denote fi as the value of flow passing through edge with index i Next all capacities ci and flow value fi were erased Instead indicators gi were written on edges  if flow value passing through edge i was positive ie 1 if fi0 and 0 otherwiseUsing the graph and values gi find out what is the minimum possible number of edges in the initial flow network that could be saturated the passing flow is equal to capacity ie fici Also construct the corresponding flow network with maximum flow in itA flow in directed graph is described by flow values fi on each of the edges so that the following conditions are satisfied   for each vertex except source and sink total incoming flow and total outcoming flow are equal  for each edge 0fici A flow is maximum if the difference between the sum of flow values on edges from the source and the sum of flow values on edges to the source there are no such in this problem is maximum possible

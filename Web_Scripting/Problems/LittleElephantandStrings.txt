@@ -1,0 +1,9 @@
+Little Elephant and Strings                    
+
+httpscodeforcescomproblemsetproblem204E
+
+data structures
+
+2800
+
+The Little Elephant loves strings very much He has an array a from n strings consisting of lowercase English letters Lets number the elements of the array from 1 to n then lets denote the element number i as ai For each string ai 1in the Little Elephant wants to find the number of pairs of integers l and r 1lrai such that substring ail r is a substring to at least k strings from array a including the ith stringHelp the Little Elephant solve this problemIf you are not familiar with the basic notation in string problems you can find the corresponding definitions in the notes

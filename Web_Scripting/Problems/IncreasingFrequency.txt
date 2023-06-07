@@ -1,0 +1,9 @@
+Increasing Frequency                    
+
+https://codeforces.com/problemset/problem/1082/E
+
+binary search
+
+2000
+
+You are given array a of length n. You can choose one segment [l, r] (1 \le l \le r \le n) and integer value k (positive, negative or even zero) and change a_l, a_{l + 1}, \dots, a_r by k each (i.e. a_i := a_i + k for each l \le i \le r).What is the maximum possible number of elements with value c that can be obtained after one such operation?

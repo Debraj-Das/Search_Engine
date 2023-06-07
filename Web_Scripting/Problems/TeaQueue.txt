@@ -1,0 +1,9 @@
+Tea Queue                    
+
+https://codeforces.com/problemset/problem/920/B
+
+implementation
+
+1200
+
+Recently n students from city S moved to city P to attend a programming camp.They moved there by train. In the evening, all students in the train decided that they want to drink some tea. Of course, no two people can use the same teapot simultaneously, so the students had to form a queue to get their tea.i-th student comes to the end of the queue at the beginning of li-th second. If there are multiple students coming to the queue in the same moment, then the student with greater index comes after the student with lesser index. Students in the queue behave as follows: if there is nobody in the queue before the student, then he uses the teapot for exactly one second and leaves the queue with his tea; otherwise the student waits for the people before him to get their tea. If at the beginning of ri-th second student i still cannot get his tea (there is someone before him in the queue), then he leaves the queue without getting any tea. For each student determine the second he will use the teapot and get his tea (if he actually gets it).

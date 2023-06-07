@@ -1,0 +1,9 @@
+Rogue-like Game                    
+
+https://codeforces.com/problemset/problem/1431/H
+
+*special problem
+
+2600
+
+Marina plays a new rogue-like game. In this game, there are n different character species and m different classes. The game is played in runs; for each run, Marina has to select a species and a class for her character. If she selects the i-th species and the j-th class, she will get c_{i, j} points for this run.Initially, some species and classes are unlocked, all others are locked. To unlock the i-th species, Marina has to get at least a_i points in total for previous runs — that is, as soon as her total score for played runs is at least a_i, this species is unlocked. Similarly, to unlock the j-th class, she has to get at least b_j points in total for previous runs. If a_i = 0 for some i, then this species is unlocked initially (the same applies to classes with b_j = 0).Marina wants to unlock all species and classes in the minimum number of runs. Before playing the game, she can read exactly one guide on some combination of species and class, and reading a guide will increase the score she gets for all runs with that combination by k (formally, before playing the game, she can increase exactly one value of c_{i, j} by k).What is the minimum number of runs she has to play to unlock all species and classes if she chooses the combination to read a guide on optimally?

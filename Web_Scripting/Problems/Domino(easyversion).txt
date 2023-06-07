@@ -1,0 +1,9 @@
+Domino (easy version)                    
+
+https://codeforces.com/problemset/problem/1551/D1
+
+constructive algorithms
+
+1700
+
+The only difference between this problem and D2 is that you don't have to provide the way to construct the answer in this problem, but you have to do it in D2.There's a table of n \times m cells (n rows and m columns). The value of n \cdot m is even.A domino is a figure that consists of two cells having a common side. It may be horizontal (one of the cells is to the right of the other) or vertical (one of the cells is above the other).You need to find out whether it is possible to place \frac{nm}{2} dominoes on the table so that exactly k of them are horizontal and all the other dominoes are vertical. The dominoes cannot overlap and must fill the whole table.

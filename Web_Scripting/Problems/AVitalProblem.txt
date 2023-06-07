@@ -1,0 +1,9 @@
+A Vital Problem                    
+
+https://codeforces.com/problemset/problem/926/I
+
+
+
+1700
+
+Polycarp has a strict daily schedule. He has n alarms set for each day, and the i-th alarm rings each day at the same time during exactly one minute.Determine the longest time segment when Polycarp can sleep, i. e. no alarm rings in that period. It is possible that Polycarp begins to sleep in one day, and wakes up in another.

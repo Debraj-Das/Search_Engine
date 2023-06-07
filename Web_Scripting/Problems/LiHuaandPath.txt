@@ -1,0 +1,9 @@
+Li Hua and Path                    
+
+https://codeforces.com/problemset/problem/1797/F
+
+data structures
+
+3000
+
+Li Hua has a tree of n vertices and n-1 edges. The vertices are numbered from 1 to n.A pair of vertices (u,v) (u < v) is considered cute if exactly one of the following two statements is true:  u is the vertex with the minimum index among all vertices on the path (u,v).  v is the vertex with the maximum index among all vertices on the path (u,v).There will be m operations. In each operation, he decides an integer k_j, then inserts a vertex numbered n+j to the tree, connecting with the vertex numbered k_j.He wants to calculate the number of cute pairs before operations and after each operation.Suppose you were Li Hua, please solve this problem.

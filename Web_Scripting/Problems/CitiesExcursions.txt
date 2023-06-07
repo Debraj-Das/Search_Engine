@@ -1,0 +1,9 @@
+Cities Excursions                    
+
+httpscodeforcescomproblemsetproblem864F
+
+dfs and similar
+
+2700
+
+There are n cities in Berland Some pairs of them are connected with m directed roads One can use only these roads to move from one city to another There are no roads that connect a city to itself For each pair of cities xy there is at most one road from x to yA path from city s to city t is a sequence of cities p1 p2   pk where p1s pkt and there is a road from city pi to city pi1 for each i from 1 to k1 The path can pass multiple times through each city except t It cant pass through t more than onceA path p from s to t is ideal if it is the lexicographically minimal such path In other words p is ideal path from s to t if for any other path q from s to t piqi where i is the minimum integer such that piqiThere is a tourist agency in the country that offers q unusual excursions the jth excursion starts at city sj and ends in city tj For each pair sj tj help the agency to study the ideal path from sj to tj Note that it is possible that there is no ideal path from sj to tj This is possible due to two reasons   there is no path from sj to tj  there are paths from sj to tj but for every such path p there is another path q from sj to tj such that piqi where i is the minimum integer for which piqi The agency would like to know for the ideal path from sj to tj the kjth city in that path on the way from sj to tjFor each triple sj tj kj 1jq find if there is an ideal path from sj to tj and print the kjth city in that path if there is any

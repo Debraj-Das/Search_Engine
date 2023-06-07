@@ -1,0 +1,9 @@
+Friends Meeting                    
+
+httpscodeforcescomproblemsetproblem931A
+
+brute force
+
+800
+
+Two friends are on the coordinate axis Ox in points with integer coordinates One of them is in the point x1a another one is in the point x2b Each of the friends can move by one along the line in any direction unlimited number of times When a friend moves the tiredness of a friend changes according to the following rules the first move increases the tiredness by 1 the second move increases the tiredness by 2 the third by 3 and so on For example if a friend moves first to the left then to the right returning to the same point and then again to the left his tiredness becomes equal to 1236The friends want to meet in a integer point Determine the minimum total tiredness they should gain if they meet in the same point

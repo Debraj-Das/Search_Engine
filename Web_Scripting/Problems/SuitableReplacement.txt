@@ -1,0 +1,9 @@
+Suitable Replacement                    
+
+https://codeforces.com/problemset/problem/825/D
+
+binary search
+
+1500
+
+You are given two strings s and t consisting of small Latin letters, string s can also contain '?' characters. Suitability of string s is calculated by following metric:Any two letters can be swapped positions, these operations can be performed arbitrary number of times over any pair of positions. Among all resulting strings s, you choose the one with the largest number of non-intersecting occurrences of string t. Suitability is this number of occurrences.You should replace all '?' characters with small Latin letters in such a way that the suitability of string s is maximal.

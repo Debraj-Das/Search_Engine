@@ -1,0 +1,9 @@
+Roma and Changing Signs                    
+
+https://codeforces.com/problemset/problem/262/B
+
+greedy
+
+1200
+
+Roma works in a company that sells TVs. Now he has to prepare a report for the last year.Roma has got a list of the company's incomes. The list is a sequence that consists of n integers. The total income of the company is the sum of all integers in sequence. Roma decided to perform exactly k changes of signs of several numbers in the sequence. He can also change the sign of a number one, two or more times.The operation of changing a number's sign is the operation of multiplying this number by -1.Help Roma perform the changes so as to make the total income of the company (the sum of numbers in the resulting sequence) maximum. Note that Roma should perform exactly k changes.

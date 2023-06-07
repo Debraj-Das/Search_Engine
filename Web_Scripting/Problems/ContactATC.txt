@@ -1,0 +1,9 @@
+Contact ATC                    
+
+httpscodeforcescomproblemsetproblem924D
+
+
+
+2500
+
+Arkady the air traffic controller is now working with n planes in the air All planes move along a straight coordinate axis with Arkadys station being at point 0 on it The ith plane small enough to be represented by a point currently has a coordinate of xi and is moving with speed vi Its guaranteed that xivi0 ie all planes are moving towards the stationOccasionally the planes are affected by winds With a wind of speed vwind not necessarily positive or integral the speed of the ith plane becomes vivwindAccording to weather report the current wind has a steady speed falling inside the range ww inclusive but the exact value cannot be measured accurately since this value is rather small  smaller than the absolute value of speed of any planeEach plane should contact Arkady at the exact moment it passes above his station And you are to help Arkady count the number of pairs of planes ij ij there are such that there is a possible value of wind speed under which planes i and j contact Arkady at the same moment This value neednt be the same across different pairsThe wind speed is the same for all planes You may assume that the wind has a steady speed and lasts arbitrarily long

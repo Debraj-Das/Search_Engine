@@ -1,0 +1,9 @@
+Sorting by Subsequences                    
+
+httpscodeforcescomproblemsetproblem843A
+
+dfs and similar
+
+1400
+
+You are given a sequence a1a2an consisting of different integers It is required to split this sequence into the maximum number of subsequences such that after sorting integers in each of them in increasing order the total sequence also will be sorted in increasing orderSorting integers in a subsequence is a process such that the numbers included in a subsequence are ordered in increasing order and the numbers which are not included in a subsequence dont change their placesEvery element of the sequence must appear in exactly one subsequence

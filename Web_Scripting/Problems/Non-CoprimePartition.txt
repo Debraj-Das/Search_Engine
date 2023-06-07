@@ -1,0 +1,9 @@
+Non-Coprime Partition                    
+
+https://codeforces.com/problemset/problem/1038/B
+
+constructive algorithms
+
+1100
+
+Find out if it is possible to partition the first n positive integers into two non-empty disjoint sets S_1 and S_2 such that:\mathrm{gcd}(\mathrm{sum}(S_1), \mathrm{sum}(S_2)) > 1 Here \mathrm{sum}(S) denotes the sum of all elements present in set S and \mathrm{gcd} means thegreatest common divisor.Every integer number from 1 to n should be present in exactly one of S_1 or S_2.

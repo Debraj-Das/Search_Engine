@@ -1,0 +1,9 @@
+Vasya and Isolated Vertices                    
+
+https://codeforces.com/problemset/problem/1065/B
+
+constructive algorithms
+
+1300
+
+Vasya has got an undirected graph consisting of n vertices and m edges. This graph doesn't contain any self-loops or multiple edges. Self-loop is an edge connecting a vertex to itself. Multiple edges are a pair of edges such that they connect the same pair of vertices. Since the graph is undirected, the pair of edges (1, 2) and (2, 1) is considered to be multiple edges. Isolated vertex of the graph is a vertex such that there is no edge connecting this vertex to any other vertex.Vasya wants to know the minimum and maximum possible number of isolated vertices in an undirected graph consisting of n vertices and m edges. 

@@ -1,0 +1,9 @@
+Bombs                    
+
+https://codeforces.com/problemset/problem/1326/E
+
+data structures
+
+2400
+
+You are given a permutation, p_1, p_2, \ldots, p_n.Imagine that some positions of the permutation contain bombs, such that there exists at least one position without a bomb.For some fixed configuration of bombs, consider the following process. Initially, there is an empty set, A.For each i from 1 to n: Add p_i to A.  If the i-th position contains a bomb, remove the largest element in A.After the process is completed, A will be non-empty. The cost of the configuration of bombs equals the largest element in A.You are given another permutation, q_1, q_2, \ldots, q_n.For each 1 \leq i \leq n, find the cost of a configuration of bombs such that there exists a bomb in positions q_1, q_2, \ldots, q_{i-1}. For example, for i=1, you need to find the cost of a configuration without bombs, and for i=n, you need to find the cost of a configuration with bombs in positions q_1, q_2, \ldots, q_{n-1}.

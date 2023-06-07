@@ -1,0 +1,9 @@
+Dima and Figure                    
+
+httpscodeforcescomproblemsetproblem273D
+
+dp
+
+2400
+
+Dima loves making pictures on a piece of squared paper And yet more than that Dima loves the pictures that depict one of his favorite figures A piece of squared paper of size nm is represented by a table consisting of n rows and m columns All squares are white on blank squared paper Dima defines a picture as an image on a blank piece of paper obtained by painting some squares blackThe picture portrays one of Dimas favorite figures if the following conditions hold  The picture contains at least one painted cell  All painted cells form a connected set that is you can get from any painted cell to any other one you can move from one cell to a sideadjacent one  The minimum number of moves needed to go from the painted cell at coordinates x1y1 to the painted cell at coordinates x2y2 moving only through the colored cells equals x1x2y1y2 Now Dima is wondering how many paintings are on an nm piece of paper that depict one of his favorite figures Count this number modulo 10000000071097

@@ -1,0 +1,9 @@
+Endless Matrix                    
+
+httpscodeforcescomproblemsetproblem249E
+
+math
+
+2600
+
+A Russian space traveller Alisa Selezneva like any other schoolgirl of the late 21 century is interested in science She has recently visited the MIT Moscow Institute of Time where its chairman and the coinventor of the time machine academician Petrov told her about the construction of a time machineDuring the demonstration of the time machine performance Alisa noticed that the machine does not have high speed and the girl got interested in the reason for such disadvantage As it turns out on closer examination one of the problems that should be solved for the time machine isnt solved by an optimal algorithm If you find a way to solve this problem optimally the time machine will run faster and use less energyA task that none of the staff can solve optimally is as follows There exists a matrix a which is filled by the following ruleThe cells are consecutive positive integers starting with one Besides aijatk ijtk1 if  maxijmaxtk  maxijmaxtk and jk  maxijmaxtk jk and it So after the first 36 numbers are inserted matrix a will look as follows  To solve the problem you should learn to find rather quickly for the given values of x1y1x2 and y2 x1x2y1y2 the meaning of expressionAs the meaning of this expression can be large enough it is sufficient to know only the last 10 digits of the sought valueSo no one in MTI can solve the given task Alice was brave enough to use the time machine and travel the past to help youYour task is to write a program that uses the given values x1y1x2 and y2 finds the last 10 digits of the given expression

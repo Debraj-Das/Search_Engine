@@ -1,0 +1,9 @@
+Bear and Bowling                    
+
+httpscodeforcescomproblemsetproblem573E
+
+data structures
+
+3200
+
+Limak is an old brown bear He often goes bowling with his friends Today he feels really good and tries to beat his own recordFor rolling a ball one gets a score  an integer maybe negative number of points Score for ith roll is multiplied by i and scores are summed up So for k rolls with scores s1s2sk total score is  Total score is 0 if there were no rollsLimak made n rolls and got score ai for ith of them He wants to maximize his total score and he came up with an interesting idea He will cancel some rolls saying that something distracted him or there was a strong windLimak is able to cancel any number of rolls maybe even all or none of them Total score is calculated as if there were only noncanceled rolls Look at the sample tests for clarification What maximum total score can Limak get

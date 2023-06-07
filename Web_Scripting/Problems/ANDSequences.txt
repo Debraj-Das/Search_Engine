@@ -1,0 +1,9 @@
+AND Sequences                    
+
+https://codeforces.com/problemset/problem/1513/B
+
+bitmasks
+
+1400
+
+A sequence of n non-negative integers (n \ge 2) a_1, a_2, \dots, a_n is called good if for all i from 1 to n-1 the following condition holds true: a_1 \: \& \: a_2 \: \& \: \dots \: \& \: a_i = a_{i+1} \: \& \: a_{i+2} \: \& \: \dots \: \& \: a_n, where \& denotes the bitwise AND operation.You are given an array a of size n (n \geq 2). Find the number of permutations p of numbers ranging from 1 to n, for which the sequence a_{p_1}, a_{p_2}, ... ,a_{p_n} is good. Since this number can be large, output it modulo 10^9+7.

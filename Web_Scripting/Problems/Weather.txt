@@ -1,0 +1,9 @@
+Weather                    
+
+httpscodeforcescomproblemsetproblem234C
+
+dp
+
+1300
+
+Scientists say a lot about the problems of global warming and cooling of the Earth Indeed such natural phenomena strongly influence all life on our planetOur hero Vasya is quite concerned about the problems He decided to try a little experiment and observe how outside daily temperature changes He hung out a thermometer on the balcony every morning and recorded the temperature He had been measuring the temperature for the last n days Thus he got a sequence of numbers t1t2tn where the ith number is the temperature on the ith dayVasya analyzed the temperature statistics in other cities and came to the conclusion that the city has no environmental problems if first the temperature outside is negative for some nonzero number of days and then the temperature is positive for some nonzero number of days More formally there must be a positive integer k 1kn1 such that t10t20tk0 and tk10tk20tn0 In particular the temperature should never be zero If this condition is not met Vasya decides that his city has environmental problems and gets upsetYou do not want to upset Vasya Therefore you want to select multiple values of temperature and modify them to satisfy Vasyas condition You need to know what the least number of temperature values needs to be changed for that

@@ -1,0 +1,9 @@
+stSpanning Tree                    
+
+httpscodeforcescomproblemsetproblem723F
+
+dsu
+
+2300
+
+You are given an undirected connected graph consisting of n vertices and m edges There are no loops and no multiple edges in the graphYou are also given two distinct vertices s and t and two values ds and dt Your task is to build any spanning tree of the given graph note that the graph is not weighted such that the degree of the vertex s doesnt exceed ds and the degree of the vertex t doesnt exceed dt or determine that there is no such spanning treeThe spanning tree of the graph G is a subgraph which is a tree and contains all vertices of the graph G In other words it is a connected graph which contains n1 edges and can be obtained by removing some of the edges from GThe degree of a vertex is the number of edges incident to this vertex

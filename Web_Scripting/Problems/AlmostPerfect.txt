@@ -1,0 +1,9 @@
+Almost Perfect                    
+
+https://codeforces.com/problemset/problem/1726/E
+
+combinatorics
+
+2400
+
+A permutation p of length n is called almost perfect if for all integer 1 \leq i \leq n, it holds that \lvert p_i - p^{-1}_i \rvert \le 1, where p^{-1} is the inverse permutation of p (i.e. p^{-1}_{k_1} = k_2 if and only if p_{k_2} = k_1).Count the number of almost perfect permutations of length n modulo 998244353.

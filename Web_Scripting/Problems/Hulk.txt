@@ -1,0 +1,9 @@
+Hulk                    
+
+httpscodeforcescomproblemsetproblem705A
+
+implementation
+
+800
+
+Dr Bruce Banner hates his enemies like others dont As we all know he can barely talk when he turns into the incredible Hulk Thats why he asked you to help him to express his feelingsHulk likes the Inception so much and like that his feelings are complicated They have n layers The first layer is hate second one is love third one is hate and so onFor example if n1 then his feeling is I hate it or if n2 its I hate that I love it and if n3 its I hate that I love that I hate it and so onPlease help Dr Banner

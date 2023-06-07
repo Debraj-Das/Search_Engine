@@ -1,0 +1,9 @@
+Product Sum                    
+
+https://codeforces.com/problemset/problem/631/E
+
+data structures
+
+2600
+
+Blake is the boss of Kris, however, this doesn't spoil their friendship. They often gather at the bar to talk about intriguing problems about maximising some values. This time the problem is really special.You are given an array a of length n. The characteristic of this array is the value  — the sum of the products of the values ai by i. One may perform the following operation exactly once: pick some element of the array and move to any position. In particular, it's allowed to move the element to the beginning or to the end of the array. Also, it's allowed to put it back to the initial position. The goal is to get the array with the maximum possible value of characteristic.  

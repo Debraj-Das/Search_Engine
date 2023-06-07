@@ -1,0 +1,9 @@
+Random Task                    
+
+httpscodeforcescomproblemsetproblem431D
+
+binary search
+
+2100
+
+One day after a difficult lecture a diligent student Sasha saw a graffitied desk in the classroom She came closer and read Find such positive integer n that among numbers n1 n2  2n there are exactly m numbers which binary representation contains exactly k digits oneThe girl got interested in the task and she asked you to help her solve it Sasha knows that you are afraid of large numbers so she guaranteed that there is an answer that doesnt exceed 1018

@@ -1,0 +1,9 @@
+Doremy's Experimental Tree                    
+
+https://codeforces.com/problemset/problem/1764/F
+
+brute force
+
+2500
+
+Doremy has an edge-weighted tree with n vertices whose weights are integers between 1 and 10^9. She does \frac{n(n+1)}{2} experiments on it.In each experiment, Doremy chooses vertices i and j such that j \leq i and connects them directly with an edge with weight 1. Then, there is exactly one cycle (or self-loop when i=j) in the graph. Doremy defines f(i,j) as the sum of lengths of shortest paths from every vertex to the cycle.Formally, let \mathrm{dis}_{i,j}(x,y) be the length of the shortest path between vertex x and y when the edge (i,j) of weight 1 is added, and S_{i,j} be the set of vertices that are on the cycle when edge (i,j) is added. Then, f(i,j)=\sum_{x=1}^{n}\left(\min_{y\in S_{i,j}}\mathrm{dis}_{i,j}(x,y)\right). Doremy writes down all values of f(i,j) such that 1 \leq j \leq i \leq n, then goes to sleep. However, after waking up, she finds that the tree has gone missing. Fortunately, the values of f(i,j) are still in her notebook, and she knows which i and j they belong to. Given the values of f(i,j), can you help her restore the tree?It is guaranteed that at least one suitable tree exists.

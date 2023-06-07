@@ -1,0 +1,9 @@
+Anti Light's Cell Guessing                    
+
+https://codeforces.com/problemset/problem/1610/A
+
+math
+
+900
+
+You are playing a game on a n \times m grid, in which the computer has selected some cell (x, y) of the grid, and you have to determine which one. To do so, you will choose some k and some k cells (x_1, y_1),\, (x_2, y_2), \ldots, (x_k, y_k), and give them to the computer. In response, you will get k numbers b_1,\, b_2, \ldots b_k, where b_i is the manhattan distance from (x_i, y_i) to the hidden cell (x, y) (so you know which distance corresponds to which of k input cells). After receiving these b_1,\, b_2, \ldots, b_k, you have to be able to determine the hidden cell. What is the smallest k for which is it possible to always guess the hidden cell correctly, no matter what cell computer chooses?As a reminder, the manhattan distance between cells (a_1, b_1) and (a_2, b_2) is equal to |a_1-a_2|+|b_1-b_2|.

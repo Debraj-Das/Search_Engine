@@ -1,0 +1,9 @@
+Prince's Problem                    
+
+https://codeforces.com/problemset/problem/986/E
+
+brute force
+
+2800
+
+Let the main characters of this problem be personages from some recent movie. New Avengers seem to make a lot of buzz. I didn't watch any part of the franchise and don't know its heroes well, but it won't stop me from using them in this problem statement. So, Thanos and Dr. Strange are doing their superhero and supervillain stuff, but then suddenly they stumble across a regular competitive programming problem.You are given a tree with n vertices.In each vertex v there is positive integer a_{v}.You have to answer q queries.Each query has a from u v x.You have to calculate \prod_{w \in P} gcd(x, a_{w}) \mod (10^{9} + 7), where P is a set of vertices on path from u to v. In other words, you are to calculate the product of gcd(x, a_{w}) for all vertices w on the path from u to v. As it might be large, compute it modulo 10^9+7. Here gcd(s, t) denotes the greatest common divisor of s and t.Note that the numbers in vertices do not change after queries.I suppose that you are more interested in superhero business of Thanos and Dr. Strange than in them solving the problem. So you are invited to solve this problem instead of them.

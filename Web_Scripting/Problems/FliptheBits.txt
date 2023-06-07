@@ -1,0 +1,9 @@
+Flip the Bits                    
+
+https://codeforces.com/problemset/problem/1504/B
+
+constructive algorithms
+
+1200
+
+There is a binary string a of length n. In one operation, you can select any prefix of a with an equal number of 0 and 1 symbols. Then all symbols in the prefix are inverted: each 0 becomes 1 and each 1 becomes 0.For example, suppose a=0111010000.   In the first operation, we can select the prefix of length 8 since it has four 0's and four 1's: [01110100]00\to [10001011]00.  In the second operation, we can select the prefix of length 2 since it has one 0 and one 1: [10]00101100\to [01]00101100.  It is illegal to select the prefix of length 4 for the third operation, because it has three 0's and one 1. Can you transform the string a into the string b using some finite number of operations (possibly, none)?

@@ -1,0 +1,9 @@
+Impressionism                    
+
+https://codeforces.com/problemset/problem/1718/E
+
+constructive algorithms
+
+3500
+
+Burenka has two pictures a and b, which are tables of the same size n \times m. Each cell of each painting has a color — a number from 0 to 2 \cdot 10^5, and there are no repeating colors in any row or column of each of the two paintings, except color 0.Burenka wants to get a picture b from the picture a. To achieve her goal, Burenka can perform one of 2 operations: swap any two rows of a or any two of its columns. Tell Burenka if she can fulfill what she wants, and if so, tell her the sequence of actions.The rows are numbered from 1 to n from top to bottom, the columns are numbered from 1 to m from left to right.

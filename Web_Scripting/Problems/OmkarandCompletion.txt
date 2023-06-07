@@ -1,0 +1,9 @@
+Omkar and Completion                    
+
+https://codeforces.com/problemset/problem/1372/A
+
+constructive algorithms
+
+800
+
+You have been blessed as a child of Omkar. To express your gratitude, please solve this problem for Omkar!An array a of length n is called complete if all elements are positive and don't exceed 1000, and for all indices x,y,z (1 \leq x,y,z \leq n), a_{x}+a_{y} \neq a_{z} (not necessarily distinct).You are given one integer n. Please find any complete array of length n. It is guaranteed that under given constraints such array exists.

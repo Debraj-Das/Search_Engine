@@ -1,0 +1,9 @@
+Little Pony and Harmony Chest                    
+
+https://codeforces.com/problemset/problem/453/B
+
+bitmasks
+
+2000
+
+Princess Twilight went to Celestia and Luna's old castle to research the chest from the Elements of Harmony.  A sequence of positive integers bi is harmony if and only if for every two elements of the sequence their greatest common divisor equals 1. According to an ancient book, the key of the chest is a harmony sequence bi which minimizes the following expression:You are given sequence ai, help Princess Twilight to find the key.

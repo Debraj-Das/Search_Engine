@@ -1,0 +1,9 @@
+Average Superhero Gang Power                     
+
+https://codeforces.com/problemset/problem/1111/B
+
+brute force
+
+1700
+
+Every superhero has been given a power value by the Felicity Committee. The avengers crew wants to maximize the average power of the superheroes in their team by performing certain operations.Initially, there are n superheroes in avengers team having powers a_1, a_2, \ldots, a_n, respectively. In one operation, they can remove one superhero from their team (if there are at least two) or they can increase the power of a superhero by 1. They can do at most m operations. Also, on a particular superhero at most k operations can be done.Can you help the avengers team to maximize the average power of their crew?

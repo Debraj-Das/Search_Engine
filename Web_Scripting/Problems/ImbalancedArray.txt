@@ -1,0 +1,9 @@
+Imbalanced Array                    
+
+httpscodeforcescomproblemsetproblem817D
+
+data structures
+
+1900
+
+You are given an array a consisting of n elements The imbalance value of some subsegment of this array is the difference between the maximum and minimum element from this segment The imbalance value of the array is the sum of imbalance values of all subsegments of this arrayFor example the imbalance value of array 141 is 9 because there are 6 different subsegments of this array   1 from index 1 to index 1 imbalance value is 0  14 from index 1 to index 2 imbalance value is 3  141 from index 1 to index 3 imbalance value is 3  4 from index 2 to index 2 imbalance value is 0  41 from index 2 to index 3 imbalance value is 3  1 from index 3 to index 3 imbalance value is 0 You have to determine the imbalance value of the array a

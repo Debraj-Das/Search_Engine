@@ -1,0 +1,9 @@
+Kirill and Company                    
+
+https://codeforces.com/problemset/problem/1741/G
+
+bitmasks
+
+2200
+
+Kirill lives on a connected undirected graph of n vertices and m edges at vertex 1. One fine evening he gathered f friends, the i-th friend lives at the vertex h_i. So all friends are now in the vertex 1, the i-th friend must get to his home to the vertex h_i.The evening is about to end and it is time to leave. It turned out that k (k \le 6) of his friends have no cars, and they would have to walk if no one gives them a ride. One friend with a car can give a ride to any number of friends without cars, but only if he can give them a ride by driving along one of the shortest paths to his house.For example, in the graph below, a friend from vertex h_i=5 can give a ride to friends from the following sets of vertices: [2, 3], [2, 4], [2], [3], [4], but can't give a ride to friend from vertex 6 or a set [3, 4].  The vertices where friends without cars live are highlighted in green, and with cars — in red. Kirill wants as few friends as possible to have to walk. Help him find the minimum possible number.

@@ -1,0 +1,9 @@
+Koala and Lights                    
+
+https://codeforces.com/problemset/problem/1209/B
+
+implementation
+
+1300
+
+It is a holiday season, and Koala is decorating his house with cool lights! He owns n lights, all of which flash periodically.After taking a quick glance at them, Koala realizes that each of his lights can be described with two parameters a_i and b_i. Light with parameters a_i and b_i will toggle (on to off, or off to on) every a_i seconds starting from the b_i-th second. In other words, it will toggle at the moments b_i, b_i + a_i, b_i + 2 \cdot a_i and so on.You know for each light whether it's initially on or off and its corresponding parameters a_i and b_i. Koala is wondering what is the maximum number of lights that will ever be on at the same time. So you need to find that out.  Here is a graphic for the first example. 

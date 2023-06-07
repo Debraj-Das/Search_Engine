@@ -1,0 +1,9 @@
+Riding in a Lift                    
+
+httpscodeforcescomproblemsetproblem479E
+
+combinatorics
+
+1900
+
+Imagine that you are in a building that has exactly n floors You can move between the floors in a lift Lets number the floors from bottom to top with integers from 1 to n Now youre on the floor number a You are very bored so you want to take the lift Floor number b has a secret lab the entry is forbidden However you already are in the mood and decide to make k consecutive trips in the liftLet us suppose that at the moment you are on the floor number x initially you were on floor a For another trip between floors you choose some floor with number y yx and the lift travels to this floor As you cannot visit floor b with the secret lab you decided that the distance from the current floor x to the chosen y must be strictly less than the distance from the current floor x to floor b with the secret lab Formally it means that the following inequation must fulfill xyxb After the lift successfully transports you to floor y you write down number y in your notepadYour task is to find the number of distinct number sequences that you could have written in the notebook as the result of k trips in the lift As the sought number of trips can be rather large find the remainder after dividing the number by 1000000007 1097

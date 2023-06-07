@@ -1,0 +1,9 @@
+Bulbs                    
+
+https://codeforces.com/problemset/problem/615/A
+
+implementation
+
+800
+
+Vasya wants to turn on Christmas lights consisting of m bulbs. Initially, all bulbs are turned off. There are n buttons, each of them is connected to some set of bulbs. Vasya can press any of these buttons. When the button is pressed, it turns on all the bulbs it's connected to. Can Vasya light up all the bulbs?If Vasya presses the button such that some bulbs connected to it are already turned on, they do not change their state, i.e. remain turned on.

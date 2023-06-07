@@ -1,0 +1,9 @@
+Minimum Sum                    
+
+httpscodeforcescomproblemsetproblem120J
+
+divide and conquer
+
+1900
+
+You are given a set of n vectors on a plane For each vector you are allowed to multiply any of its coordinates by 1 Thus each vector vixiyi can be transformed into one of the following four vectors  vi1xiyi  vi2xiyi  vi3xiyi  vi4xiyi  You should find two vectors from the set and determine which of their coordinates should be multiplied by 1 so that the absolute value of the sum of the resulting vectors was minimally possible More formally you should choose two vectors vi vj 1ijnij and two numbers k1 k2 1k1k24 so that the value of the expression vik1vjk2 were minimum

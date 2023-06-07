@@ -1,0 +1,9 @@
+RC Kaboom Show                    
+
+httpscodeforcescomproblemsetproblem1359F
+
+binary search
+
+2900
+
+You know its hard to conduct a show with lots of participants and spectators at the same place nowadays Still you are not giving up on your dream to make a car crash showcase You decided to replace the real cars with remote controlled ones call the event Remote Control Kaboom Show and stream everything onlineFor the preparation you arranged an arena an infinite 2Dfield You also bought n remote controlled cars and set them up on the arena Unfortunately the cars you bought can only go forward without turning left right or around So you additionally put the cars in the direction you want them to goTo be formal for each car i 1 le i le n you chose its initial position xi yi and a direction vector dxi dyi Moreover each car has a constant speed si units per second So after car i is launched it stars moving from xi yi in the direction dxi dyi with constant speed siThe goal of the show is to create a car collision as fast as possible You noted that launching every car at the beginning of the show often fails to produce any collisions at all Thus you plan to launch the ith car at some moment ti You havent chosen ti thats yet to be decided Note that its not necessary for ti to be integer and ti is allowed to be equal to tj for any i jThe show starts at time 0 The show ends when two cars i and j i ne j collide ie come to the same coordinate at the same time The duration of the show is the time between the start and the endWhats the fastest crash you can arrange by choosing all ti If its possible to arrange a crash then print the shortest possible duration of the show Otherwise report that its impossible

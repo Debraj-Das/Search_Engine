@@ -1,0 +1,9 @@
+Frequency Problem (Hard Version)                    
+
+https://codeforces.com/problemset/problem/1446/D2
+
+data structures
+
+3000
+
+This is the hard version of the problem. The difference between the versions is in the constraints on the array elements. You can make hacks only if all versions of the problem are solved.You are given an array [a_1, a_2, \dots, a_n]. Your goal is to find the length of the longest subarray of this array such that the most frequent value in it is not unique. In other words, you are looking for a subarray such that if the most frequent value occurs f times in this subarray, then at least 2 different values should occur exactly f times.An array c is a subarray of an array d if c can be obtained from d by deletion of several (possibly, zero or all) elements from the beginning and several (possibly, zero or all) elements from the end.

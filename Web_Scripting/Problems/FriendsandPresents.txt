@@ -1,0 +1,9 @@
+Friends and Presents                    
+
+httpscodeforcescomproblemsetproblem483B
+
+binary search
+
+1800
+
+You have two friends You want to present each of them several positive integers You want to present cnt1 numbers to the first friend and cnt2 numbers to the second friend Moreover you want all presented numbers to be distinct that also means that no number should be presented to both friendsIn addition the first friend does not like the numbers that are divisible without remainder by prime number x The second one does not like the numbers that are divisible without remainder by prime number y Of course youre not going to present your friends numbers they dont likeYour task is to find such minimum number v that you can form presents using numbers from a set 12v Of course you may choose not to present some numbers at allA positive integer number greater than 1 is called prime if it has no positive divisors other than 1 and itself

@@ -1,0 +1,9 @@
+Anton and Classes                    
+
+httpscodeforcescomproblemsetproblem785B
+
+greedy
+
+1100
+
+Anton likes to play chess Also he likes to do programming No wonder that he decided to attend chess classes and programming classesAnton has n variants when he will attend chess classes ith variant is given by a period of time l1ir1i Also he has m variants when he will attend programming classes ith variant is given by a period of time l2ir2iAnton needs to choose exactly one of n possible periods of time when he will attend chess classes and exactly one of m possible periods of time when he will attend programming classes He wants to have a rest between classes so from all the possible pairs of the periods he wants to choose the one where the distance between the periods is maximalThe distance between periods l1r1 and l2r2 is the minimal possible distance between a point in the first period and a point in the second period that is the minimal possible ij where l1ir1 and l2jr2 In particular when the periods intersect the distance between them is 0Anton wants to know how much time his rest between the classes will last in the best case Help Anton and find this number

@@ -1,0 +1,9 @@
+Football Kit                    
+
+httpscodeforcescomproblemsetproblem432B
+
+brute force
+
+1200
+
+Consider a football tournament where n teams participate Each team has two football kits for home games and for away games The kit for home games of the ith team has color xi and the kit for away games of this team has color yi xiyiIn the tournament each team plays exactly one home game and exactly one away game with each other team nn1 games in total The team that plays the home game traditionally plays in its home kit The team that plays an away game plays in its away kit However if two teams has the kits of the same color they cannot be distinguished In this case the away team plays in its home kitCalculate how many games in the described tournament each team plays in its home kit and how many games it plays in its away kit

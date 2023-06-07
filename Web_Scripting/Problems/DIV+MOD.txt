@@ -1,0 +1,9 @@
+DIV + MOD                    
+
+https://codeforces.com/problemset/problem/1650/B
+
+math
+
+900
+
+Not so long ago, Vlad came up with an interesting function: f_a(x)=\left\lfloor\frac{x}{a}\right\rfloor + x \bmod a, where \left\lfloor\frac{x}{a}\right\rfloor is \frac{x}{a}, rounded down, x \bmod a — the remainder of the integer division of x by a.For example, with a=3 and x=11, the value f_3(11) = \left\lfloor\frac{11}{3}\right\rfloor + 11 \bmod 3 = 3 + 2 = 5.The number a is fixed and known to Vlad. Help Vlad find the maximum value of f_a(x) if x can take any integer value from l to r inclusive (l \le x \le r).

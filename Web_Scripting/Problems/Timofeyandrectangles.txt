@@ -1,0 +1,9 @@
+Timofey and rectangles                    
+
+https://codeforces.com/problemset/problem/763/B
+
+constructive algorithms
+
+2100
+
+One of Timofey's birthday presents is a colourbook in a shape of an infinite plane. On the plane n rectangles with sides parallel to coordinate axes are situated. All sides of the rectangles have odd length. Rectangles cannot intersect, but they can touch each other.Help Timofey to color his rectangles in 4 different colors in such a way that every two rectangles touching each other by side would have different color, or determine that it is impossible.Two rectangles intersect if their intersection has positive area. Two rectangles touch by sides if there is a pair of sides such that their intersection has non-zero length  The picture corresponds to the first example 

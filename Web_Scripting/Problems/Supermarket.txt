@@ -1,0 +1,9 @@
+Supermarket                    
+
+https://codeforces.com/problemset/problem/919/A
+
+brute force
+
+800
+
+We often go to supermarkets to buy some fruits or vegetables, and on the tag there prints the price for a kilo. But in some supermarkets, when asked how much the items are, the clerk will say that a yuan for b kilos (You don't need to care about what "yuan" is), the same as a/b yuan for a kilo.Now imagine you'd like to buy m kilos of apples. You've asked n supermarkets and got the prices. Find the minimum cost for those apples.You can assume that there are enough apples in all supermarkets.

@@ -1,0 +1,9 @@
+Make It Round                    
+
+https://codeforces.com/problemset/problem/1759/D
+
+brute force
+
+1400
+
+Inflation has occurred in Berlandia, so the store needs to change the price of goods.The current price of good n is given. It is allowed to increase the price of the good by k times, with 1 \le k \le m, k is an integer. Output the roundest possible new price of the good. That is, the one that has the maximum number of zeros at the end.For example, the number 481000 is more round than the number 1000010 (three zeros at the end of 481000 and only one at the end of 1000010).If there are several possible variants, output the one in which the new price is maximal.If it is impossible to get a rounder price, output n \cdot m (that is, the maximum possible price).

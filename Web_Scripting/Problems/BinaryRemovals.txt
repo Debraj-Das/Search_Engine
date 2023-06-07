@@ -1,0 +1,9 @@
+Binary Removals                    
+
+https://codeforces.com/problemset/problem/1499/B
+
+brute force
+
+1000
+
+You are given a string s, consisting only of characters '0' or '1'. Let |s| be the length of s.You are asked to choose some integer k (k > 0) and find a sequence a of length k such that:   1 \le a_1 < a_2 < \dots < a_k \le |s|;  a_{i-1} + 1 < a_i for all i from 2 to k. The characters at positions a_1, a_2, \dots, a_k are removed, the remaining characters are concatenated without changing the order. So, in other words, the positions in the sequence a should not be adjacent.Let the resulting string be s'. s' is called sorted if for all i from 2 to |s'| s'_{i-1} \le s'_i.Does there exist such a sequence a that the resulting string s' is sorted?

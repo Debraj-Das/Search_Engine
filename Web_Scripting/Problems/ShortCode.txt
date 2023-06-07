@@ -1,0 +1,9 @@
+Short Code                    
+
+https://codeforces.com/problemset/problem/965/E
+
+data structures
+
+2200
+
+Arkady's code contains n variables. Each variable has a unique name consisting of lowercase English letters only. One day Arkady decided to shorten his code.He wants to replace each variable name with its non-empty prefix so that these new names are still unique (however, a new name of some variable can coincide with some old name of another or same variable). Among such possibilities he wants to find the way with the smallest possible total length of the new names.A string a is a prefix of a string b if you can delete some (possibly none) characters from the end of b and obtain a.Please find this minimum possible total length of new names.

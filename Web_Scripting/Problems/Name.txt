@@ -1,0 +1,9 @@
+Name                    
+
+httpscodeforcescomproblemsetproblem180D
+
+greedy
+
+1900
+
+Everything got unclear to us in a far away constellation Tau Ceti Specifically the Taucetians choose names to their children in a very peculiar mannerTwo young parents abac and bbad think what name to give to their firstborn child They decided that the name will be the permutation of letters of string s To keep up with the neighbours they decided to call the baby so that the name was lexicographically strictly larger than the neighbours sons name tOn the other hand they suspect that a name tax will be introduced shortly According to it the Taucetians with lexicographically larger names will pay larger taxes Thats the reason abac and bbad want to call the newborn so that the name was lexicographically strictly larger than name t and lexicographically minimum at thatThe lexicographical order of strings is the order we are all used to the dictionary order Such comparison is used in all modern programming languages to compare strings Formally a string p of length n is lexicographically less than string q of length m if one of the two statements is correct  nm and p is the beginning prefix of string q for example aba is less than string abaa  p1q1 p2q2  pk1qk1 pkqk for some k 1kminnm here characters in strings are numbered starting from 1 Write a program that given string s and the heighbours childs name t determines the string that is the result of permutation of letters in s The string should be lexicographically strictly more than t and also lexicographically minimum

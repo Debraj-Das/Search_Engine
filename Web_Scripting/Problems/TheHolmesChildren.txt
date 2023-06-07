@@ -1,0 +1,9 @@
+The Holmes Children                    
+
+httpscodeforcescomproblemsetproblem776E
+
+math
+
+2100
+
+The Holmes children are fighting over who amongst them is the cleverestMycroft asked Sherlock and Eurus to find value of fn where f11 and for n2 fn is the number of distinct ordered positive integer pairs xy that satisfy xyn and gcdxy1 The integer gcdab is the greatest common divisor of a and bSherlock said that solving this was childs play and asked Mycroft to instead get the value of  Summation is done over all positive integers d that divide nEurus was quietly observing all this and finally came up with her problem to astonish both Sherlock and MycroftShe defined a kcomposite function Fkn recursively as followsShe wants them to tell the value of Fkn modulo 1000000007

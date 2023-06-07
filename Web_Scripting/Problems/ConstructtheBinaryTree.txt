@@ -1,0 +1,9 @@
+Construct the Binary Tree                    
+
+https://codeforces.com/problemset/problem/1311/E
+
+brute force
+
+2200
+
+You are given two integers n and d. You need to construct a rooted binary tree consisting of n vertices with a root at the vertex 1 and the sum of depths of all vertices equals to d.A tree is a connected graph without cycles. A rooted tree has a special vertex called the root. A parent of a vertex v is the last different from v vertex on the path from the root to the vertex v. The depth of the vertex v is the length of the path from the root to the vertex v. Children of vertex v are all vertices for which v is the parent. The binary tree is such a tree that no vertex has more than 2 children.You have to answer t independent test cases.

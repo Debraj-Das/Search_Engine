@@ -1,0 +1,9 @@
+Formurosa                    
+
+httpscodeforcescomproblemsetproblem217C
+
+divide and conquer
+
+2600
+
+The Bytelandian Institute for Biological Research BIBR is investigating the properties of two species of bacteria named simply 0 and 1 Even under a microscope bacteria of those two species are very difficult to distinguish In fact the only thing the scientists possess that is able to differentiate between them is a plant called FormurosaIf the scientists place a sample of colonies of bacteria on each on Formurosas leaves it will activate a complicated nutrition process During that process color of Formurosa changes to reflect the result of a  possibly very complicated  logical formula on the species of bacteria involving constants and the operators  OR  AND and  XOR If it is 0 the plant will turn red otherwise  it will turn blueFor example if the nutrition process of Formurosa is described by the formula 1 then Formurosa has four leaves the  signs denote the leaves If we place 0100 on the respective leaves the result of the nutrition process will be 010101 therefore the plant will turn blueThe scientists have n colonies of bacteria They do not know their types the only thing they know for sure is that not all colonies are of the same type They want to attempt to determine the bacterias species by repeated evaluations with Formurosa During each evaluation they must place exactly one sample on every leaf of the plant However they may use multiple samples of one colony during a single evaluation they can even cover the whole plant with bacteria from one colonyIs it possible for them to always determine the species of each colony no matter what they are assuming they are not all the same

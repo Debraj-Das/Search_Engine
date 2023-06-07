@@ -1,0 +1,9 @@
+DZY Loves FFT                    
+
+httpscodeforcescomproblemsetproblem444B
+
+probabilities
+
+2300
+
+DZY loves Fast Fourier Transformation and he enjoys using itFast Fourier Transformation is an algorithm used to calculate convolution Specifically if a b and c are sequences with length n which are indexed from 0 to n1 andWe can calculate c fast using Fast Fourier TransformationDZY made a little change on this formula NowTo make things easier a is a permutation of integers from 1 to n and b is a sequence only containing 0 and 1 Given a and b DZY needs your help to calculate cBecause he is naughty DZY provides a special way to get a and b What you need is only three integers n d x After getting them use the code below to generate a and bx is 64bit variablefunction getNextX     x  x  37  10007  1000000007    return xfunction initAB     fori  0 i  n i  i  1        ai  i  1        fori  0 i  n i  i  1        swapai agetNextX  i  1        fori  0 i  n i  i  1        if i  d            bi  1        else            bi  0        fori  0 i  n i  i  1        swapbi bgetNextX  i  1    Operation x  y denotes remainder after division x by y Function swapx y swaps two values x and y

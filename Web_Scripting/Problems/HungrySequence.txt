@@ -1,0 +1,9 @@
+Hungry Sequence                    
+
+httpscodeforcescomproblemsetproblem327B
+
+math
+
+1200
+
+Iahub and Iahubina went to a date at a luxury restaurant Everything went fine until paying for the food Instead of money the waiter wants Iahub to write a Hungry sequence consisting of n integers A sequence a1 a2  an consisting of n integers is Hungry if and only if   Its elements are in increasing order That is an inequality aiaj holds for any two indices ij ij  For any two indices i and j ij aj must not be divisible by ai Iahub is in trouble so he asks you for help Find a Hungry sequence with n elements

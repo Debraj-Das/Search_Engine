@@ -1,0 +1,9 @@
+Mark the Dust Sweeper                    
+
+https://codeforces.com/problemset/problem/1705/B
+
+constructive algorithms
+
+900
+
+Mark is cleaning a row of n rooms. The i-th room has a nonnegative dust level a_i. He has a magical cleaning machine that can do the following three-step operation.   Select two indices i<j such that the dust levels a_i, a_{i+1}, \dots, a_{j-1} are all strictly greater than 0.  Set a_i to a_i-1.  Set a_j to a_j+1.  Mark's goal is to make a_1 = a_2 = \ldots = a_{n-1} = 0 so that he can nicely sweep the n-th room. Determine the minimum number of operations needed to reach his goal.

@@ -1,0 +1,9 @@
+Two Rooted Trees                    
+
+httpscodeforcescomproblemsetproblem403E
+
+data structures
+
+2900
+
+You have two rooted undirected trees each contains n vertices Lets number the vertices of each tree with integers from 1 to n The root of each tree is at vertex 1 The edges of the first tree are painted blue the edges of the second one are painted red For simplicity lets say that the first tree is blue and the second tree is redEdge xy is called bad for edge pq if two conditions are fulfilled   The color of edge xy is different from the color of edge pq  Lets consider the tree of the same color that edge pq is Exactly one of vertices x y lies both in the subtree of vertex p and in the subtree of vertex q In this problem your task is to simulate the process described below The process consists of several stages  On each stage edges of exactly one color are deleted  On the first stage exactly one blue edge is deleted  Lets assume that at the stage i weve deleted edges u1v1 u2v2  ukvk At the stage i1 we will delete all undeleted bad edges for edge u1v1 then we will delete all undeleted bad edges for edge u2v2 and so on until we reach edge ukvk  For each stage of deleting edges determine what edges will be removed on the stage Note that the definition of a bad edge always considers the initial tree before it had any edges removed

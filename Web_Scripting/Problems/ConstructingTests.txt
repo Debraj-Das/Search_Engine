@@ -1,0 +1,9 @@
+Constructing Tests                    
+
+httpscodeforcescomproblemsetproblem938C
+
+binary search
+
+1700
+
+Lets denote a mfree matrix as a binary that is consisting of only 1s and 0s matrix such that every square submatrix of size mm of this matrix contains at least one zero Consider the following problemYou are given two integers n and m You have to construct an mfree square matrix of size nn such that the number of 1s in this matrix is maximum possible Print the maximum possible number of 1s in such matrixYou dont have to solve this problem Instead you have to construct a few tests for itYou will be given t numbers x1 x2  xt For every  find two integers ni and mi nimi such that the answer for the aforementioned problem is exactly xi if we set nni and mmi

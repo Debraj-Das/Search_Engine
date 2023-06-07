@@ -1,0 +1,9 @@
+GCD and MST                    
+
+https://codeforces.com/problemset/problem/1513/D
+
+constructive algorithms
+
+2000
+
+You are given an array a of n (n \geq 2) positive integers and an integer p. Consider an undirected weighted graph of n vertices numbered from 1 to n for which the edges between the vertices i and j (i<j) are added in the following manner:  If gcd(a_i, a_{i+1}, a_{i+2}, \dots, a_{j}) = min(a_i, a_{i+1}, a_{i+2}, \dots, a_j), then there is an edge of weight min(a_i, a_{i+1}, a_{i+2}, \dots, a_j) between i and j.  If i+1=j, then there is an edge of weight p between i and j. Here gcd(x, y, \ldots) denotes the greatest common divisor (GCD) of integers x, y, ....Note that there could be multiple edges between i and j if both of the above conditions are true, and if both the conditions fail for i and j, then there is no edge between these vertices.The goal is to find the weight of the minimum spanning tree of this graph.

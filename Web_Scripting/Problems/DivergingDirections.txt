@@ -1,0 +1,9 @@
+Diverging Directions                    
+
+httpscodeforcescomproblemsetproblem838B
+
+data structures
+
+2100
+
+You are given a directed weighted graph with n nodes and 2n2 edges The nodes are labeled from 1 to n while the edges are labeled from 1 to 2n2 The graphs edges can be split into two parts  The first n1 edges will form a rooted spanning tree with node 1 as the root All these edges will point away from the root  The last n1 edges will be from node i to node 1 for all 2in You are given q queries There are two types of queries  1 i w Change the weight of the ith edge to w  2 u v Print the length of the shortest path between nodes u to v Given these queries print the shortest path lengths

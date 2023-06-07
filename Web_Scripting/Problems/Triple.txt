@@ -1,0 +1,9 @@
+Triple                    
+
+https://codeforces.com/problemset/problem/1119/H
+
+fft
+
+3200
+
+You have received your birthday gifts — n triples of integers! The i-th of them is \lbrace a_{i}, b_{i}, c_{i} \rbrace. All numbers are greater than or equal to 0, and strictly smaller than 2^{k}, where k is a fixed integer.One day, you felt tired playing with triples. So you came up with three new integers x, y, z, and then formed n arrays. The i-th array consists of a_i repeated x times, b_i repeated y times and c_i repeated z times. Thus, each array has length (x + y + z).You want to choose exactly one integer from each array such that the XOR (bitwise exclusive or) of them is equal to t. Output the number of ways to choose the numbers for each t between 0 and 2^{k} - 1, inclusive, modulo 998244353.

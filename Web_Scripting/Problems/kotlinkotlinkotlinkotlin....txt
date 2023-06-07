@@ -1,0 +1,9 @@
+kotlinkotlinkotlinkotlin...                    
+
+https://codeforces.com/problemset/problem/1211/F
+
+*special problem
+
+2300
+
+Polycarp really likes writing the word "kotlin". He wrote this word several times in a row without spaces. For example, he could write the string like "kotlinkotlinkotlinkotlin".Polycarp sliced (cut) the written string into n pieces and mixed them. As a result, he has n strings s_1, s_2, \dots, s_n and he can arrange them in the right order, concatenate (join) all of them and get a string like "kotlinkotlin...kotlin".Help Polycarp to find the right order of strings s_1, s_2, \dots, s_n, so that if he writes the strings in this order, he will get the word "kotlin" or the sequence of this word.Pay attention that you must use all given strings and you must use each string only once.

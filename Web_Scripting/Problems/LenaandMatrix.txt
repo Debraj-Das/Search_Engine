@@ -1,0 +1,9 @@
+Lena and Matrix                    
+
+https://codeforces.com/problemset/problem/1689/D
+
+data structures
+
+1900
+
+Lena is a beautiful girl who likes logical puzzles.As a gift for her birthday, Lena got a matrix puzzle!The matrix consists of n rows and m columns, and each cell is either black or white. The coordinates (i,j) denote the cell which belongs to the i-th row and j-th column for every 1\leq i \leq n and 1\leq j \leq m. To solve the puzzle, Lena has to choose a cell that minimizes the Manhattan distance to the farthest black cell from the chosen cell.More formally, let there be k \ge 1 black cells in the matrix with coordinates (x_i,y_i) for every 1\leq i \leq k. Lena should choose a cell (a,b) that minimizes \max_{i=1}^{k}(|a-x_i|+|b-y_i|).As Lena has no skill, she asked you for help. Will you tell her the optimal cell to choose? 

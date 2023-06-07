@@ -1,0 +1,9 @@
+Almost Rectangle                    
+
+https://codeforces.com/problemset/problem/1512/B
+
+implementation
+
+800
+
+There is a square field of size n \times n in which two cells are marked. These cells can be in the same row or column.You are to mark two more cells so that they are the corners of a rectangle with sides parallel to the coordinate axes.For example, if n=4 and a rectangular field looks like this (there are asterisks in the marked cells): \begin{matrix} . & . & * & . \\ . & . & . & . \\ * & . & . & . \\ . & . & . & . \\ \end{matrix} Then you can mark two more cells as follows \begin{matrix} * & . & * & . \\ . & . & . & . \\ * & . & * & . \\ . & . & . & . \\ \end{matrix} If there are several possible solutions, then print any of them.

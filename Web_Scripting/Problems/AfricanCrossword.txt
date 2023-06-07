@@ -1,0 +1,9 @@
+African Crossword                    
+
+httpscodeforcescomproblemsetproblem90B
+
+implementation
+
+1100
+
+An African crossword is a rectangular table nm in size Each cell of the table contains exactly one letter This table it is also referred to as grid contains some encrypted word that needs to be decodedTo solve the crossword you should cross out all repeated letters in rows and columns In other words a letter should only be crossed out if and only if the corresponding column or row contains at least one more letter that is exactly the same Besides all such letters are crossed out simultaneouslyWhen all repeated letters have been crossed out we should write the remaining letters in a string The letters that occupy a higher position follow before the letters that occupy a lower position If the letters are located in one row then the letter to the left goes first The resulting word is the answer to the problemYou are suggested to solve an African crossword and print the word encrypted there

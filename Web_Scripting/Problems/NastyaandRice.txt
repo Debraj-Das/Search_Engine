@@ -1,0 +1,9 @@
+Nastya and Rice                    
+
+https://codeforces.com/problemset/problem/1341/A
+
+math
+
+900
+
+Nastya just made a huge mistake and dropped a whole package of rice on the floor. Mom will come soon. If she sees this, then Nastya will be punished.In total, Nastya dropped n grains. Nastya read that each grain weighs some integer number of grams from a - b to a + b, inclusive (numbers a and b are known), and the whole package of n grains weighs from c - d to c + d grams, inclusive (numbers c and d are known). The weight of the package is the sum of the weights of all n grains in it.Help Nastya understand if this information can be correct. In other words, check whether each grain can have such a mass that the i-th grain weighs some integer number x_i (a - b \leq x_i \leq a + b), and in total they weigh from c - d to c + d, inclusive (c - d \leq \sum\limits_{i=1}^{n}{x_i} \leq c + d).

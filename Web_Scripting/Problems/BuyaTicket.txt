@@ -1,0 +1,9 @@
+Buy a Ticket                    
+
+httpscodeforcescomproblemsetproblem938D
+
+data structures
+
+2000
+
+Musicians of a popular band Flayer have announced that they are going to make their exit with a world tour Of course they will visit Berland as wellThere are n cities in Berland People can travel between cities using twodirectional train routes there are exactly m routes ith route can be used to go from city vi to city ui and from ui to vi and it costs wi coins to use this routeEach city will be visited by Flayer and the cost of the concert ticket in ith city is ai coinsYou have friends in every city of Berland and they knowing about your programming skills asked you to calculate the minimum possible number of coins they have to pay to visit the concert For every city i you have to compute the minimum number of coins a person from city i has to spend to travel to some city j or possibly stay in city i attend a concert there and return to city i if jiFormally for every  you have to calculate  where dij is the minimum number of coins you have to spend to travel from city i to city j If there is no way to reach city j from city i then we consider dij to be infinitely large

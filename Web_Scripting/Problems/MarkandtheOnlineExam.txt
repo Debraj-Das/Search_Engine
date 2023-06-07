@@ -1,0 +1,9 @@
+Mark and the Online Exam                    
+
+https://codeforces.com/problemset/problem/1705/F
+
+bitmasks
+
+2900
+
+Mark is administering an online exam consisting of n true-false questions. However, he has lost all answer keys. He needs a way to retrieve the answers before his client gets infuriated.Fortunately, he has access to the grading system. Thus, for each query, you can input the answers to all n questions, and the grading system will output how many of them are correct.He doesn't have much time, so he can use the grading system at most 675 times. Help Mark determine the answer keys.Note that answer keys are fixed in advance and will not change depending on your queries.

@@ -1,0 +1,9 @@
+The Child and Polygon                    
+
+httpscodeforcescomproblemsetproblem437E
+
+dp
+
+2500
+
+This time our child has a simple polygon He has to find the number of ways to split the polygon into nondegenerate triangles each way must satisfy the following requirements  each vertex of each triangle is one of the polygon vertex  each side of the polygon must be the side of exactly one triangle  the area of intersection of every two triangles equals to zero and the sum of all areas of triangles equals to the area of the polygon  each triangle must be completely inside the polygon  each side of each triangle must contain exactly two vertices of the polygon The picture below depicts an example of a correct splitting  Please help the child Calculate the described number of ways modulo 1000000007 1097 for him

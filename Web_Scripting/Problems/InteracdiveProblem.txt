@@ -1,0 +1,9 @@
+Interacdive Problem                    
+
+https://codeforces.com/problemset/problem/1624/F
+
+binary search
+
+2000
+
+This problem is interactive.We decided to play a game with you and guess the number x (1 \le x < n), where you know the number n.You can make queries like this: + c: this command assigns x = x + c (1 \le c < n) and then returns you the value \lfloor\frac{x}{n}\rfloor (x divide by n and round down).You win if you guess the current number with no more than 10 queries.

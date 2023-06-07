@@ -1,0 +1,9 @@
+Oleg and chess                    
+
+httpscodeforcescomproblemsetproblem793G
+
+data structures
+
+3400
+
+Oleg the bank client solves an interesting chess problem place on nn chessboard the maximum number of rooks so that they dont beat each other Of course no two rooks can share the same cellRemind that a rook standing in the cell ab beats a rook standing in the cell xy if and only if ax or byUnfortunately of fortunately for Oleg the answer in this problem was always n so the task bored Oleg soon He decided to make it more difficult by removing some cells from the board If a cell is deleted Oleg cant put a rook there but rooks do beat each other through deleted cellsOleg deletes the cells in groups namely he repeatedly choose a rectangle with sides parallel to the board sides and deletes all the cells inside the rectangle Formally if he chooses a rectangle lower left cell of which has coordinates x1y1 and upper right cell of which has coordinates x2y2 then he deletes all such cells with coordinates xy that x1xx2 and y1yy2 It is guaranteed that no cell is deleted twice ie the chosen rectangles do not intersectThis version of the problem Oleg cant solve and his friend Igor is busy at a conference so he cant help OlegYou are the last hope for Oleg Help him given the size of the board and the deleted rectangles find the maximum possible number of rooks that could be placed on the board so that no two rooks beat each other

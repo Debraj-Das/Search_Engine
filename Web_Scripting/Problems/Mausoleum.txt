@@ -1,0 +1,9 @@
+Mausoleum                    
+
+httpscodeforcescomproblemsetproblem567F
+
+dp
+
+2400
+
+King of Berland Berl IV has recently died Hail Berl V As a sign of the highest achievements of the deceased king the new king decided to build a mausoleum with Berl IVs body on the main square of the capitalThe mausoleum will be constructed from 2n blocks each of them has the shape of a cuboid Each block has the bottom base of a 11 meter square Among the blocks exactly two of them have the height of one meter exactly two have the height of two meters  exactly two have the height of n metersThe blocks are arranged in a row without spacing one after the other Of course not every arrangement of blocks has the form of a mausoleum In order to make the given arrangement in the form of the mausoleum it is necessary that when you pass along the mausoleum from one end to the other the heights of the blocks first were nondecreasing ie increasing or remained the same and then  nonincreasing decrease or remained unchanged It is possible that any of these two areas will be omitted For example the following sequences of block height meet this requirement  12234431  11  2211  123321 Suddenly k more requirements appeared Each of the requirements has the form hxi signi hyi where ht is the height of the tth block and a signi is one of the five possible signs  equals  less than  more than  less than or equals  more than or equals Thus each of the k additional requirements is given by a pair of indexes xi yi 1xiyi2n and sign signiFind the number of possible ways to rearrange the blocks so that both the requirement about the shape of the mausoleum see paragraph 3 and the k additional requirements were met

@@ -1,0 +1,9 @@
+Circular Local MiniMax                    
+
+https://codeforces.com/problemset/problem/1685/A
+
+constructive algorithms
+
+1100
+
+You are given n integers a_1, a_2, \ldots, a_n. Is it possible to arrange them on a circle so that each number is strictly greater than both its neighbors or strictly smaller than both its neighbors?In other words, check if there exists a rearrangement b_1, b_2, \ldots, b_n of the integers a_1, a_2, \ldots, a_n such that for each i from 1 to n at least one of the following conditions holds: b_{i-1} < b_i > b_{i+1} b_{i-1} > b_i < b_{i+1}To make sense of the previous formulas for i=1 and i=n, one shall define b_0=b_n and b_{n+1}=b_1.

@@ -1,0 +1,9 @@
+Zero-One (Hard Version)                    
+
+https://codeforces.com/problemset/problem/1733/D2
+
+dp
+
+2000
+
+This is the hard version of this problem. In this version, n \le 5000 holds, and this version has no restriction between x and y. You can make hacks only if both versions of the problem are solved.You are given two binary strings a and b, both of length n. You can do the following operation any number of times (possibly zero).   Select two indices l and r (l < r).  Change a_l to (1 - a_l), and a_r to (1 - a_r).  If l + 1 = r, the cost of the operation is x. Otherwise, the cost is y. You have to find the minimum cost needed to make a equal to b or say there is no way to do so.

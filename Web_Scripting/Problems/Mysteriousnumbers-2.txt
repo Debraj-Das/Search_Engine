@@ -1,0 +1,9 @@
+Mysterious numbers  2                    
+
+httpscodeforcescomproblemsetproblem171G
+
+special problem
+
+1600
+
+InputThe only line of input contains three integers a1a2a3 1a1a2a320 separated by spacesOutputOutput a single integerExamplesInput2 3 2Output5Input13 14 1Output14Input14 5 9Output464Input17 18 3Output53

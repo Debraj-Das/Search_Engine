@@ -1,0 +1,9 @@
+Ela and Prime GCD                    
+
+https://codeforces.com/problemset/problem/1737/F
+
+constructive algorithms
+
+3300
+
+After a long, tough, but fruitful day at DTL, Ela goes home happily. She entertains herself by solving Competitive Programming problems. She prefers short statements, because she already read too many long papers and documentation at work. The problem of the day reads:You are given an integer c. Suppose that c has n divisors. You have to find a sequence with n - 1 integers [a_1, a_2, ... a_{n - 1}], which satisfies the following conditions:  Each element is strictly greater than 1.  Each element is a divisor of c.  All elements are distinct.  For all 1 \le i < n - 1, \gcd(a_i, a_{i + 1}) is a prime number. In this problem, because c can be too big, the result of prime factorization of c is given instead. Note that \gcd(x, y) denotes the greatest common divisor (GCD) of integers x and y and a prime number is a positive integer which has exactly 2 divisors.

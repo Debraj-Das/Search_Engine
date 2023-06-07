@@ -1,0 +1,9 @@
+L BREAK into program                    
+
+https://codeforces.com/problemset/problem/1505/H
+
+*special problem
+
+2500
+
+Hack the program and get the password hidden in it.

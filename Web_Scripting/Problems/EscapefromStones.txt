@@ -1,0 +1,9 @@
+Escape from Stones                    
+
+httpscodeforcescomproblemsetproblem264A
+
+constructive algorithms
+
+1200
+
+Squirrel Liss lived in a forest peacefully but unexpected trouble happens Stones fall from a mountain Initially Squirrel Liss occupies an interval 01 Next n stones will fall and Liss will escape from the stones The stones are numbered from 1 to n in orderThe stones always fall to the center of Lisss interval When Liss occupies the interval kdkd and a stone falls to k she will escape to the left or to the right If she escapes to the left her new interval will be kdk If she escapes to the right her new interval will be kkdYou are given a string s of length n If the ith character of s is l or r when the ith stone falls Liss will escape to the left or to the right respectively Find the sequence of stones numbers from left to right after all the n stones falls

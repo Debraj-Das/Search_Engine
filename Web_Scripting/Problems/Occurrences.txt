@@ -1,0 +1,9 @@
+Occurrences                    
+
+https://codeforces.com/problemset/problem/1574/F
+
+combinatorics
+
+2700
+
+A subarray of array a from index l to the index r is the array [a_l, a_{l+1}, \dots, a_{r}]. The number of occurrences of the array b in the array a is the number of subarrays of a such that they are equal to b.You are given n arrays A_1, A_2, \dots, A_n; the elements of these arrays are integers from 1 to k. You have to build an array a consisting of m integers from 1 to k in such a way that, for every given subarray A_i, the number of occurrences of A_i in the array a is not less than the number of occurrences of each non-empty subarray of A_i in a. Note that if A_i doesn't occur in a, and no subarray of A_i occurs in a, this condition is still met for A_i.Your task is to calculate the number of different arrays a you can build, and print it modulo 998244353.

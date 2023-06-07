@@ -1,0 +1,9 @@
+Hot is Cold                    
+
+https://codeforces.com/problemset/problem/1146/E
+
+bitmasks
+
+2400
+
+You are given an array of n integers a_1, a_2, \ldots, a_n.You will perform q operations. In the i-th operation, you have a symbol s_i which is either "<" or ">" and a number x_i.You make a new array b such that b_j = -a_j if a_j s_i x_i and b_j = a_j otherwise (i.e. if s_i is '>', then all a_j > x_i will be flipped). After doing all these replacements, a is set to be b.You want to know what your final array looks like after all operations.

@@ -1,0 +1,9 @@
+Boboniu Plays Chess                    
+
+https://codeforces.com/problemset/problem/1395/B
+
+constructive algorithms
+
+1100
+
+Boboniu likes playing chess with his employees. As we know, no employee can beat the boss in the chess game, so Boboniu has never lost in any round.You are a new applicant for his company. Boboniu will test you with the following chess question:Consider a n\times m grid (rows are numbered from 1 to n, and columns are numbered from 1 to m). You have a chess piece, and it stands at some cell (S_x,S_y) which is not on the border (i.e. 2 \le S_x \le n-1 and 2 \le S_y \le m-1).From the cell (x,y), you can move your chess piece to (x,y') (1\le y'\le m, y' \neq y) or (x',y) (1\le x'\le n, x'\neq x). In other words, the chess piece moves as a rook. From the cell, you can move to any cell on the same row or column.Your goal is to visit each cell exactly once. Can you find a solution?Note that cells on the path between two adjacent cells in your route are not counted as visited, and it is not required to return to the starting point.

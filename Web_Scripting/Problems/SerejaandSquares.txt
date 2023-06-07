@@ -1,0 +1,9 @@
+Sereja and Squares                    
+
+httpscodeforcescomproblemsetproblem314E
+
+dp
+
+2900
+
+Sereja painted n points on the plane point number i 1in has coordinates i0 Then Sereja marked each point with a small or large English letter Sereja dont like letter x so he didnt use it to mark points Sereja thinks that the points are marked beautifully if the following conditions holds  all points can be divided into pairs so that each point will belong to exactly one pair  in each pair the point with the lesser abscissa will be marked with a small English letter and the point with the larger abscissa will be marked with the same large English letter  if we built a square on each pair the pairs points will be the squares opposite points and the segment between them will be the squares diagonal then among the resulting squares there wont be any intersecting or touching ones Little Petya erased some small and all large letters marking the points Now Sereja wonders how many ways are there to return the removed letters so that the points were marked beautifully

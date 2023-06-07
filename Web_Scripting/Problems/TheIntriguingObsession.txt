@@ -1,0 +1,9 @@
+The Intriguing Obsession                    
+
+httpscodeforcescomproblemsetproblem869C
+
+combinatorics
+
+1800
+
+ This is not playing but duty as allies of justice Niichan Not allies but justice itself OniichanWith hands joined go everywhere at a speed faster than our thoughts This time the Fire Sisters Karen and Tsukihi is heading for somewhere theyve never reached watersurrounded islandsThere are three clusters of islands conveniently coloured red blue and purple The clusters consist of a b and c distinct islands respectivelyBridges have been built between some possibly all or none of the islands A bridge bidirectionally connects two different islands and has length 1 For any two islands of the same colour either they shouldnt be reached from each other through bridges or the shortest distance between them is at least 3 apparently in order to prevent oddities from spreading quickly inside a clusterThe Fire Sisters are ready for the unknown but theyd also like to test your courage And youre here to figure out the number of different ways to build all bridges under the constraints and give the answer modulo 998244353 Two ways are considered different if a pair of islands exist such that theres a bridge between them in one of them but not in the other

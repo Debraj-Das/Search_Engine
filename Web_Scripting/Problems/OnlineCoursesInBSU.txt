@@ -1,0 +1,9 @@
+Online Courses In BSU                    
+
+https://codeforces.com/problemset/problem/770/C
+
+*special problem
+
+1500
+
+Now you can take online courses in the Berland State University! Polycarp needs to pass k main online courses of his specialty to get a diploma. In total n courses are availiable for the passage.The situation is complicated by the dependence of online courses, for each course there is a list of those that must be passed before starting this online course (the list can be empty, it means that there is no limitation).Help Polycarp to pass the least number of courses in total to get the specialty (it means to pass all main and necessary courses). Write a program which prints the order of courses. Polycarp passes courses consistently, he starts the next course when he finishes the previous one. Each course can't be passed more than once. 

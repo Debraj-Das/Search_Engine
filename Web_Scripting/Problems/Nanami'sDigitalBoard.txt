@@ -1,0 +1,9 @@
+Nanamis Digital Board                    
+
+httpscodeforcescomproblemsetproblem433D
+
+dsu
+
+2000
+
+Nanami is an expert at playing games This day Nanamis good friend Hajime invited her to watch a game of baseball Unwilling as she was she followed him to the stadium But Nanami had no interest in the game so she looked around to see if there was something that might interest her Thats when she saw the digital board at one end of the stadiumThe digital board is n pixels in height and m pixels in width every pixel is either light or dark The pixels are described by its coordinate The jth pixel of the ith line is pixel ij The board displays messages by switching a combination of pixels to light and the rest to dark Nanami notices that the state of the pixels on the board changes from time to time At certain times certain pixels on the board may switch from light to dark or from dark to lightNanami wonders what is the area of the biggest light block such that a specific pixel is on its side A light block is a subrectangle of the board in which all pixels are light Pixel ij belongs to a side of subrectangle with x1y1 and x2y2 as its upperleft and lowerright vertex if and only if it satisfies the logical condition ix1 or ix2 and y1jy2 or jy1 or jy2 and x1ix2Nanami has all the history of changing pixels also she has some questions of the described type can you answer them

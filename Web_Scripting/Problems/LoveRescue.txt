@@ -1,0 +1,9 @@
+Love Rescue                    
+
+httpscodeforcescomproblemsetproblem939D
+
+dfs and similar
+
+1600
+
+Valya and Tolya are an ideal pair but they quarrel sometimes Recently Valya took offense at her boyfriend because he came to her in tshirt with lettering that differs from lettering on her pullover Now she doesnt want to see him and Tolya is seating at his room and crying at her photos all day longThis story could be very sad but fairy godmother Tolyas grandmother decided to help them and restore their relationship She secretly took Tolyas tshirt and Valyas pullover and wants to make the letterings on them same In order to do this for one unit of mana she can buy a spell that can change some letters on the clothes Your task is calculate the minimum amount of mana that Tolyas grandmother should spend to rescue love of Tolya and ValyaMore formally letterings on Tolyas tshirt and Valyas pullover are two strings with same length n consisting only of lowercase English letters Using one unit of mana grandmother can buy a spell of form c1c2 where c1 and c2 are some lowercase English letters which can arbitrary number of times transform a single letter c1 to c2 and viseversa on both Tolyas tshirt and Valyas pullover You should find the minimum amount of mana that grandmother should spend to buy a set of spells that can make the letterings equal In addition you should output the required set of spells 

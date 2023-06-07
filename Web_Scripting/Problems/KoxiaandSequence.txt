@@ -1,0 +1,9 @@
+Koxia and Sequence                    
+
+https://codeforces.com/problemset/problem/1770/F
+
+bitmasks
+
+3100
+
+Mari has three integers n, x, and y.Call an array a of n non-negative integers good if it satisfies the following conditions:  a_1+a_2+\ldots+a_n=x, and  a_1 \, | \, a_2 \, | \, \ldots \, | \, a_n=y, where | denotes the bitwise OR operation. The score of a good array is the value of a_1 \oplus a_2 \oplus \ldots \oplus a_n, where \oplus denotes the bitwise XOR operation.Koxia wants you to find the total bitwise XOR of the scores of all good arrays. If there are no good arrays, output 0 instead.

@@ -1,0 +1,9 @@
+Counterexample                     
+
+httpscodeforcescomproblemsetproblem483A
+
+brute force
+
+1100
+
+Your friend has recently learned about coprime numbers A pair of numbers ab is called coprime if the maximum number that divides both a and b is equal to one Your friend often comes up with different statements He has recently supposed that if the pair ab is coprime and the pair bc is coprime then the pair ac is coprime You want to find a counterexample for your friends statement Therefore your task is to find three distinct numbers abc for which the statement is false and the numbers meet the condition labcr More specifically you need to find three numbers abc such that labcr pairs ab and bc are coprime and pair ac is not coprime

@@ -1,0 +1,9 @@
+Equation                    
+
+httpscodeforcescomproblemsetproblem20B
+
+math
+
+2000
+
+You are given an equation  Ax2BxC0 Your task is to find the number of distinct roots of the equation and print all of them in ascending order

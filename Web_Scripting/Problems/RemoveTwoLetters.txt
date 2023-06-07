@@ -1,0 +1,9 @@
+Remove Two Letters                    
+
+https://codeforces.com/problemset/problem/1800/D
+
+data structures
+
+1200
+
+Dmitry has a string s, consisting of lowercase Latin letters.Dmitry decided to remove two consecutive characters from the string s and you are wondering how many different strings can be obtained after such an operation.For example, Dmitry has a string "aaabcc". You can get the following different strings: "abcc"(by deleting the first two or second and third characters), "aacc"(by deleting the third and fourth characters),"aaac"(by deleting the fourth and the fifth character) and "aaab" (by deleting the last two).

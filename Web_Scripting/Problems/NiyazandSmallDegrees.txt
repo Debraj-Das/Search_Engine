@@ -1,0 +1,9 @@
+Niyaz and Small Degrees                    
+
+https://codeforces.com/problemset/problem/1119/F
+
+data structures
+
+3400
+
+Niyaz has a tree with n vertices numerated from 1 to n. A tree is a connected graph without cycles.Each edge in this tree has strictly positive integer weight. A degree of a vertex is the number of edges adjacent to this vertex.Niyaz does not like when vertices in the tree have too large degrees. For each x from 0 to (n-1), he wants to find the smallest total weight of a set of edges to be deleted so that degrees of all vertices become at most x.

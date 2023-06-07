@@ -1,0 +1,9 @@
+Mice and Holes                    
+
+httpscodeforcescomproblemsetproblem797F
+
+data structures
+
+2600
+
+One day Masha came home and noticed n mice in the corridor of her flat Of course she shouted loudly so scared mice started to run to the holes in the corridorThe corridor can be represeted as a numeric axis with n mice and m holes on it ith mouse is at the coordinate xi and jth hole  at coordinate pj jth hole has enough room for cj mice so not more than cj mice can enter this holeWhat is the minimum sum of distances that mice have to go through so that they all can hide in the holes If ith mouse goes to the hole j then its distance is xipjPrint the minimum sum of distances

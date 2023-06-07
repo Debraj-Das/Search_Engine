@@ -1,0 +1,9 @@
+LCM                    
+
+https://codeforces.com/problemset/problem/188/C
+
+*special problem
+
+1400
+
+Least common multiple (LCM) of two numbers is the smallest positive integer which is divisible by both of them. You are given integers a and b. Calculate their LCM.

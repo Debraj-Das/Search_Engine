@@ -1,0 +1,9 @@
+Petr                    
+
+httpscodeforcescomproblemsetproblem113B
+
+brute force
+
+2000
+
+Long ago when Petya was a schoolboy he was very much interested in the Petr language grammar During one lesson Petya got interested in the following question how many different continuous substrings starting with the sbegin and ending with the send it is possible sbeginsend the given string t has Substrings are different if and only if their contents arent equal their positions of occurence dont matter Petya wasnt quite good at math thats why he couldnt count this number Help him

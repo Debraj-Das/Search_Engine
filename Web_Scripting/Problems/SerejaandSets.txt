@@ -1,0 +1,9 @@
+Sereja and Sets                    
+
+httpscodeforcescomproblemsetproblem425E
+
+dp
+
+2500
+
+Lets assume that set S consists of m distinct intervals l1r1 l2r2  lmrm 1lirin liri are integersLets assume that fS is the maximum number of intervals that you can choose from the set S such that every two of them do not intersect We assume that two intervals l1r1 and l2r2 intersect if there is an integer x which meets two inequalities l1xr1 and l2xr2Sereja wonders how many sets S are there such that fSk Count this number modulo 1000000007 1097

@@ -1,0 +1,9 @@
+Intersection of Permutations                    
+
+https://codeforces.com/problemset/problem/1093/E
+
+data structures
+
+2400
+
+You are given two permutations a and b, both consisting of n elements. Permutation of n elements is such a integer sequence that each value from 1 to n appears exactly once in it.You are asked to perform two types of queries with them:  1~l_a~r_a~l_b~r_b — calculate the number of values which appear in both segment [l_a; r_a] of positions in permutation a and segment [l_b; r_b] of positions in permutation b;  2~x~y — swap values on positions x and y in permutation b. Print the answer for each query of the first type.It is guaranteed that there will be at least one query of the first type in the input.

@@ -1,0 +1,9 @@
+Very Suspicious                    
+
+https://codeforces.com/problemset/problem/1670/D
+
+binary search
+
+1700
+
+Sehr Sus is an infinite hexagonal grid as pictured below, controlled by MennaFadali, ZerooCool and Hosssam.They love equilateral triangles and want to create n equilateral triangles on the grid by adding some straight lines. The triangles must all be empty from the inside (in other words, no straight line or hexagon edge should pass through any of the triangles).You are allowed to add straight lines parallel to the edges of the hexagons. Given n, what is the minimum number of lines you need to add to create at least n equilateral triangles as described?  Adding two red lines results in two new yellow equilateral triangles. 

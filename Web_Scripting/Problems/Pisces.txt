@@ -1,0 +1,9 @@
+Pisces                    
+
+https://codeforces.com/problemset/problem/1023/G
+
+data structures
+
+3400
+
+A group of researchers are studying fish population in a natural system of lakes and rivers. The system contains n lakes connected by n - 1 rivers. Each river has integer length (in kilometers) and can be traversed in both directions. It is possible to travel between any pair of lakes by traversing the rivers (that is, the network of lakes and rivers form a tree).There is an unknown number of indistinguishable fish living in the lakes. On day 1, fish can be at arbitrary lakes. Fish can travel between lakes by swimming the rivers. Each fish can swim a river l kilometers long in any direction in l days. Further, each fish can stay any number of days in any particular lake it visits. No fish ever appear or disappear from the lake system. Each lake can accomodate any number of fish at any time.The researchers made several observations. The j-th of these observations is "on day d_j there were at least f_j distinct fish in the lake p_j". Help the researchers in determining the smallest possible total number of fish living in the lake system that doesn't contradict the observations.

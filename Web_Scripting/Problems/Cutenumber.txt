@@ -1,0 +1,9 @@
+Cute number                    
+
+https://codeforces.com/problemset/problem/1687/D
+
+binary search
+
+2900
+
+Ran is especially skilled in computation and mathematics. It is said that she can do unimaginable calculation work in an instant.—Perfect Memento in Strict SenseRan Yakumo is a cute girl who loves creating cute Maths problems.Let f(x) be the minimal square number strictly greater than x, and g(x) be the maximal square number less than or equal to x. For example, f(1)=f(2)=g(4)=g(8)=4.A positive integer x is cute if x-g(x)<f(x)-x. For example, 1,5,11 are cute integers, while 3,8,15 are not. Ran gives you an array a of length n. She wants you to find the smallest non-negative integer k such that a_i + k is a cute number for any element of a.

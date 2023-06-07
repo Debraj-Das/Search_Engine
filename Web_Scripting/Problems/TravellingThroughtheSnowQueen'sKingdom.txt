@@ -1,0 +1,9 @@
+Travelling Through the Snow Queen's Kingdom                    
+
+https://codeforces.com/problemset/problem/685/E
+
+bitmasks
+
+2800
+
+Gerda is travelling to the palace of the Snow Queen.The road network consists of n intersections and m bidirectional roads. Roads are numbered from 1 to m. Snow Queen put a powerful spell on the roads to change the weather conditions there. Now, if Gerda steps on the road i at the moment of time less or equal to i, she will leave the road exactly at the moment i. In case she steps on the road i at the moment of time greater than i, she stays there forever.Gerda starts at the moment of time l at the intersection number s and goes to the palace of the Snow Queen, located at the intersection number t. Moreover, she has to be there at the moment r (or earlier), before the arrival of the Queen.Given the description of the road network, determine for q queries li, ri, si and ti if it's possible for Gerda to get to the palace on time.

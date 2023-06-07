@@ -1,0 +1,9 @@
+Mahmoud and Ehab and the evenodd game                    
+
+httpscodeforcescomproblemsetproblem959A
+
+games
+
+800
+
+Mahmoud and Ehab play a game called the evenodd game Ehab chooses his favorite integer n and then they take turns starting from Mahmoud In each players turn he has to choose an integer a and subtract it from n such that  1an  If its Mahmouds turn a has to be even but if its Ehabs turn a has to be odd If the current player cant choose any number satisfying the conditions he loses Can you determine the winner if they both play optimally

@@ -1,0 +1,9 @@
+Min Max Sort                    
+
+httpscodeforcescomproblemsetproblem1792C
+
+binary search
+
+1500
+
+You are given a permutation p of length n a permutation of length n is an array of length n in which each integer from 1 to n occurs exactly onceYou can perform the following operation any number of times possibly zero   choose two different elements x and y and erase them from the permutation  insert the minimum of x and y into the permutation in such a way that it becomes the first element  insert the maximum of x and y into the permutation in such a way that it becomes the last element For example if p  1 5 4 2 3 and we want to apply the operation to the elements 3 and 5 then after the first step of the operation the permutation becomes p  1 4 2 and after we insert the elements it becomes p  3 1 4 2 5Your task is to calculate the minimum number of operations described above to sort the permutation p in ascending order ie transform p so that p1  p2  dots  pn

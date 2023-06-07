@@ -1,0 +1,9 @@
+Beautiful numbers                    
+
+https://codeforces.com/problemset/problem/55/D
+
+dp
+
+2500
+
+Volodya is an odd boy and his taste is strange as well. It seems to him that a positive integer number is beautiful if and only if it is divisible by each of its nonzero digits. We will not argue with this and just count the quantity of beautiful numbers in given ranges.

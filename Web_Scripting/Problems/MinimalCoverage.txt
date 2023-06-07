@@ -1,0 +1,9 @@
+Minimal Coverage                    
+
+https://codeforces.com/problemset/problem/1579/G
+
+dp
+
+2200
+
+You are given n lengths of segments that need to be placed on an infinite axis with coordinates.The first segment is placed on the axis so that one of its endpoints lies at the point with coordinate 0. Let's call this endpoint the "start" of the first segment and let's call its "end" as that endpoint that is not the start. The "start" of each following segment must coincide with the "end" of the previous one. Thus, if the length of the next segment is d and the "end" of the previous one has the coordinate x, the segment can be placed either on the coordinates [x-d, x], and then the coordinate of its "end" is x - d, or on the coordinates [x, x+d], in which case its "end" coordinate is x + d.The total coverage of the axis by these segments is defined as their overall union which is basically the set of points covered by at least one of the segments. It's easy to show that the coverage will also be a segment on the axis. Determine the minimal possible length of the coverage that can be obtained by placing all the segments on the axis without changing their order.

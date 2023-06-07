@@ -1,0 +1,9 @@
+Ralph and Mushrooms                    
+
+httpscodeforcescomproblemsetproblem894E
+
+dp
+
+2100
+
+Ralph is going to collect mushrooms in the Mushroom Forest There are m directed paths connecting n trees in the Mushroom Forest On each path grow some mushrooms When Ralph passes a path he collects all the mushrooms on the path The Mushroom Forest has a magical fertile ground where mushrooms grow at a fantastic speed New mushrooms regrow as soon as Ralph finishes mushroom collection on a path More specifically after Ralph passes a path the ith time there regrow i mushrooms less than there was before this pass That is if there is initially x mushrooms on a path then Ralph will collect x mushrooms for the first time x1 mushrooms the second time x12 mushrooms the third time and so on However the number of mushrooms can never be less than 0For example let there be 9 mushrooms on a path initially The number of mushrooms that can be collected from the path is 9 8 6 and 3 when Ralph passes by from first to fourth time From the fifth time and later Ralph cant collect any mushrooms from the path but still can pass itRalph decided to start from the tree s How many mushrooms can he collect using only described paths

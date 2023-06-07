@@ -1,0 +1,9 @@
+Generate plus state or minus state                    
+
+httpscodeforcescomproblemsetproblem1001A
+
+special problem
+
+1100
+
+You are given a qubit in state  and an integer sign Your task is to convert the given qubit to state  if sign1 or  if sign1

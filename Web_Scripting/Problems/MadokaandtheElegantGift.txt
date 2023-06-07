@@ -1,0 +1,9 @@
+Madoka and the Elegant Gift                    
+
+https://codeforces.com/problemset/problem/1647/B
+
+brute force
+
+1200
+
+Madoka's father just reached 1 million subscribers on Mathub! So the website decided to send him a personalized award — The Mathhub's Bit Button! The Bit Button is a rectangular table with n rows and m columns with 0 or 1 in each cell. After exploring the table Madoka found out that: A subrectangle A is contained in a subrectangle B if there's no cell contained in A but not contained in B. Two subrectangles intersect if there is a cell contained in both of them. A subrectangle is called black if there's no cell with value 0 inside it. A subrectangle is called nice if it's black and it's not contained in another black subrectangle. The table is called elegant if there are no two nice intersecting subrectangles.For example, in the first illustration the red subrectangle is nice, but in the second one it's not, because it's contained in the purple subrectangle.  Help Madoka to determine whether the table is elegant.

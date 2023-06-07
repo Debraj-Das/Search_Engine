@@ -1,0 +1,9 @@
+Infected Tree                    
+
+https://codeforces.com/problemset/problem/1689/C
+
+dfs and similar
+
+1600
+
+Byteland is a beautiful land known because of its beautiful trees.Misha has found a binary tree with n vertices, numbered from 1 to n. A binary tree is an acyclic connected bidirectional graph containing n vertices and n - 1 edges. Each vertex has a degree at most 3, whereas the root is the vertex with the number 1 and it has a degree at most 2.Unfortunately, the root got infected.The following process happens n times:  Misha either chooses a non-infected (and not deleted) vertex and deletes it with all edges which have an end in this vertex or just does nothing.  Then, the infection spreads to each vertex that is connected by an edge to an already infected vertex (all already infected vertices remain infected). As Misha does not have much time to think, please tell him what is the maximum number of vertices he can save from the infection (note that deleted vertices are not counted as saved).

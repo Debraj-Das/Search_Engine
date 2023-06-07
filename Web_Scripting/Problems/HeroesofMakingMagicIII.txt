@@ -1,0 +1,9 @@
+Heroes of Making Magic III                    
+
+httpscodeforcescomproblemsetproblem717F
+
+data structures
+
+2600
+
+Im strolling on sunshine yeahah And doesnt it feel good Well it certainly feels good for our Heroes of Making Magic who are casually walking on a onedirectional road fighting imps Imps are weak and feeble creatures and they are not good at much However Heroes enjoy fighting them For fun if nothing else Our Hero Ignatius simply adores imps He is observing a line of imps represented as a zeroindexed array of integers a of length n where ai denotes the number of imps at the ith position Sometimes imps can appear out of nowhere When heroes fight imps they select a segment of the line start at one end of the segment and finish on the other end without ever exiting the segment They can move exactly one cell left or right from their current position and when they do so they defeat one imp on the cell that they moved to so the number of imps on that cell decreases by one This also applies when heroes appear at one end of the segment at the beginning of their walk Their goal is to defeat all imps on the segment without ever moving to an empty cell in it without imps since they would get bored Since Ignatius loves imps he doesnt really want to fight them so no imps are harmed during the events of this task However he would like you to tell him whether it would be possible for him to clear a certain segment of imps in the above mentioned way if he wanted to You are given q queries which have two types   1 a b k denotes that k imps appear at each cell from the interval ab  2 a b  asks whether Ignatius could defeat all imps on the interval ab in the way described above 

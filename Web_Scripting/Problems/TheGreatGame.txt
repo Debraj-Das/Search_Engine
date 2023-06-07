@@ -1,0 +1,9 @@
+The Great Game                    
+
+https://codeforces.com/problemset/problem/409/A
+
+*special problem
+
+1700
+
+Two teams meet in The Game World Championship. Some scientists consider this game to be the most intellectually challenging game in the world. You are given two strings describing the teams' actions in the final battle. Figure out who became the champion.

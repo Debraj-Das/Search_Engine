@@ -1,0 +1,9 @@
+The Unbearable Lightness of Weights                    
+
+https://codeforces.com/problemset/problem/1032/E
+
+dp
+
+2100
+
+You have a set of n weights. You know that their masses are a_1, a_2, ..., a_n grams, but you don't know which of them has which mass. You can't distinguish the weights.However, your friend does know the mass of each weight. You can ask your friend to give you exactly k weights with the total mass m (both parameters k and m are chosen by you), and your friend will point to any valid subset of weights, if it is possible.You are allowed to make this query only once. Find the maximum possible number of weights you can reveal after this query.

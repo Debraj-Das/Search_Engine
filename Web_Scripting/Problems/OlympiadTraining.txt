@@ -1,0 +1,9 @@
+Olympiad Training                    
+
+https://codeforces.com/problemset/problem/1746/G
+
+binary search
+
+3500
+
+Anton decided to get ready for an Olympiad in Informatics. Ilya prepared n tasks for him to solve. It is possible to submit the solution for the i-th task in the first d_{i} days only. Anton cannot solve more than one task a day. Ilya estimated the usefulness of the i-th tasks as r_{i} and divided the tasks into three topics, the topic of the i-th task is type_{i}.Anton wants to solve exactly a tasks on the first topic, b tasks on the second topic and c tasks on the third topic. Tell Anton if it is possible to do so, and if it is, calculate the maximum total usefulness of the tasks he may solve.

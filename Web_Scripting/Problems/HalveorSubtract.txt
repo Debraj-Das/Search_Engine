@@ -1,0 +1,9 @@
+Halve or Subtract                    
+
+https://codeforces.com/problemset/problem/1799/F
+
+binary search
+
+2700
+
+You have an array of positive integers a_1, a_2, \ldots, a_n, of length n. You are also given a positive integer b.You are allowed to perform the following operations (possibly several) times in any order:   Choose some 1 \le i \le n, and replace a_i with \lceil \frac{a_i}{2} \rceil. Here, \lceil x \rceil denotes the smallest integer not less than x.  Choose some 1 \le i \le n, and replace a_i with \max(a_i - b, 0). However, you must also follow these rules:   You can perform at most k_1 operations of type 1 in total.  You can perform at most k_2 operations of type 2 in total.  For all 1 \le i \le n, you can perform at most 1 operation of type 1 on element a_i.  For all 1 \le i \le n, you can perform at most 1 operation of type 2 on element a_i. The cost of an array is the sum of its elements. Find the minimum cost of a you can achieve by performing these operations.

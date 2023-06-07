@@ -1,0 +1,9 @@
+Perishable Roads                    
+
+https://codeforces.com/problemset/problem/773/D
+
+dp
+
+2700
+
+In the country of Never, there are n cities and a well-developed road system. There is exactly one bidirectional road between every pair of cities, thus, there are as many as  roads! No two roads intersect, and no road passes through intermediate cities. The art of building tunnels and bridges has been mastered by Neverians.An independent committee has evaluated each road of Never with a positive integer called the perishability of the road. The lower the road's perishability is, the more pleasant it is to drive through this road.It's the year of transport in Never. It has been decided to build a museum of transport in one of the cities, and to set a single signpost directing to some city (not necessarily the one with the museum) in each of the other cities. The signposts must satisfy the following important condition: if any Neverian living in a city without the museum starts travelling from that city following the directions of the signposts, then this person will eventually arrive in the city with the museum.Neverians are incredibly positive-minded. If a Neverian travels by a route consisting of several roads, he considers the perishability of the route to be equal to the smallest perishability of all the roads in this route.The government of Never has not yet decided where to build the museum, so they consider all n possible options. The most important is the sum of perishabilities of the routes to the museum city from all the other cities of Never, if the travelers strictly follow the directions of the signposts. The government of Never cares about their citizens, so they want to set the signposts in a way which minimizes this sum. Help them determine the minimum possible sum for all n possible options of the city where the museum can be built.

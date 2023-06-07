@@ -1,0 +1,9 @@
+Sonya and Bitwise OR                    
+
+https://codeforces.com/problemset/problem/1004/F
+
+bitmasks
+
+2600
+
+Sonya has an array a_1, a_2, \ldots, a_n consisting of n integers and also one non-negative integer x. She has to perform m queries of two types:  1 i y: replace i-th element by value y, i.e. to perform an operation a_{i} := y;  2 l r: find the number of pairs (L, R) that l\leq L\leq R\leq r and bitwise OR of all integers in the range [L, R] is at least x (note that x is a constant for all queries). Can you help Sonya perform all her queries?Bitwise OR is a binary operation on a pair of non-negative integers. To calculate the bitwise OR of two numbers, you need to write both numbers in binary notation. The result is a number, in binary, which contains a one in each digit if there is a one in the binary notation of at least one of the two numbers. For example, 10 OR 19 = 1010_2 OR 10011_2 = 11011_2 = 27.

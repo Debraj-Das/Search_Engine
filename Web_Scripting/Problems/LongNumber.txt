@@ -1,0 +1,9 @@
+Long number                    
+
+httpscodeforcescomproblemsetproblem756F
+
+expression parsing
+
+3400
+
+Consider the following grammar expression  term  expression  term term  number  number  number  number  expression  number  posdigit  number digit digit  0  posdigit posdigit  1  2  3  4  5  6  7  8  9This grammar describes a number in decimal system using the following rules number describes itself numbernumber lr lr describes integer which is concatenation of all integers from l to r written without leading zeros For example 811 describes 891011 numberexpression describes integer which is concatenation of number copies of integer described by expression expressionterm describes integer which is concatenation of integers described by expression and termFor example 22412217 describes the integer 2341234117171717You are given an expression in the given grammar Print the integer described by it modulo 1097

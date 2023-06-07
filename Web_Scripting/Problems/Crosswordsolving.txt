@@ -1,0 +1,9 @@
+Crossword solving                    
+
+https://codeforces.com/problemset/problem/822/B
+
+brute force
+
+1000
+
+Erelong Leha was bored by calculating of the greatest common divisor of two factorials. Therefore he decided to solve some crosswords. It's well known that it is a very interesting occupation though it can be very difficult from time to time. In the course of solving one of the crosswords, Leha had to solve a simple task. You are able to do it too, aren't you?Leha has two strings s and t. The hacker wants to change the string s at such way, that it can be found in t as a substring. All the changes should be the following: Leha chooses one position in the string s and replaces the symbol in this position with the question mark "?". The hacker is sure that the question mark in comparison can play the role of an arbitrary symbol. For example, if he gets string s="ab?b" as a result, it will appear in t="aabrbb" as a substring.Guaranteed that the length of the string s doesn't exceed the length of the string t. Help the hacker to replace in s as few symbols as possible so that the result of the replacements can be found in t as a substring. The symbol "?" should be considered equal to any other symbol.

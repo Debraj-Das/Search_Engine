@@ -1,0 +1,9 @@
+Tournament Construction                    
+
+httpscodeforcescomproblemsetproblem850D
+
+constructive algorithms
+
+2800
+
+Ivan is reading a book about tournaments He knows that a tournament is an oriented graph with exactly one oriented edge between each pair of vertices The score of a vertex is the number of edges going outside this vertex Yesterday Ivan learned Landaus criterion there is tournament with scores d1d2dn if and only if  for all 1kn and Now Ivan wanna solve following problem given a set of numbers Sa1a2am is there a tournament with given set of scores Ie is there tournament with sequence of scores d1d2dn such that if we remove duplicates in scores we obtain the required set a1a2am Find a tournament with minimum possible number of vertices 

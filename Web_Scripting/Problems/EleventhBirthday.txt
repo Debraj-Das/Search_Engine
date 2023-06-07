@@ -1,0 +1,9 @@
+Eleventh Birthday                    
+
+httpscodeforcescomproblemsetproblem856C
+
+combinatorics
+
+2400
+
+It is Boryas eleventh birthday and he has got a great present n cards with numbers The ith card has the number ai written on it Borya wants to put his cards in a row to get one greater number For example if Borya has cards with numbers 1 31 and 12 and he puts them in a row in this order he would get a number 13112He is only 11 but he already knows that there are n ways to put his cards in a row But today is a special day so he is only interested in such ways that the resulting big number is divisible by eleven So the way from the previous paragraph is good because 13112119211 but if he puts the cards in the following order 31 1 12 he would get a number 31112 it is not divisible by 11 so this way is not good for Borya Help Borya to find out how many good ways to put the cards are thereBorya considers all cards different even if some of them contain the same number For example if Borya has two cards with 1 on it there are two good waysHelp Borya find the number of good ways to put the cards This number can be large so output it modulo 998244353

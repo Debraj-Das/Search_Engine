@@ -1,0 +1,9 @@
+Omkar and Tours                    
+
+https://codeforces.com/problemset/problem/1583/H
+
+data structures
+
+3300
+
+Omkar is hosting tours of his country, Omkarland! There are n cities in Omkarland, and, rather curiously, there are exactly n-1 bidirectional roads connecting the cities to each other. It is guaranteed that you can reach any city from any other city through the road network.Every city has an enjoyment value e. Each road has a capacity c, denoting the maximum number of vehicles that can be on it, and an associated toll t. However, the toll system in Omkarland has an interesting quirk: if a vehicle travels on multiple roads on a single journey, they pay only the highest toll of any single road on which they traveled. (In other words, they pay \max t over all the roads on which they traveled.) If a vehicle traverses no roads, they pay 0 toll.Omkar has decided to host q tour groups. Each tour group consists of v vehicles starting at city x. (Keep in mind that a tour group with v vehicles can travel only on roads with capacity \geq v.) Being the tour organizer, Omkar wants his groups to have as much fun as they possibly can, but also must reimburse his groups for the tolls that they have to pay. Thus, for each tour group, Omkar wants to know two things: first, what is the enjoyment value of the city y with maximum enjoyment value that the tour group can reach from their starting city, and second, how much per vehicle will Omkar have to pay to reimburse the entire group for their trip from x to y? (This trip from x to y will always be on the shortest path from x to y.)In the case that there are multiple reachable cities with the maximum enjoyment value, Omkar will let his tour group choose which one they want to go to. Therefore, to prepare for all possible scenarios, he wants to know the amount of money per vehicle that he needs to guarantee that he can reimburse the group regardless of which city they choose.

@@ -1,0 +1,9 @@
+Cube Snake                    
+
+httpscodeforcescomproblemsetproblem198D
+
+constructive algorithms
+
+2700
+
+Youve got an nnn cube split into unit cubes Your task is to number all unit cubes in this cube with positive integers from 1 to n3 so that   each number was used as a cubes number exactly once  for each 1in3 unit cubes with numbers i and i1 were neighbouring that is shared a side  for each 1in there were at least two different subcubes with sizes iii made from unit cubes which are numbered with consecutive numbers That is there are such two numbers x and y that the unit cubes of the first subcube are numbered by numbers x x1  xi31 and the unit cubes of the second subcube are numbered by numbers y y1  yi31 Find and print the required numeration of unit cubes of the cube

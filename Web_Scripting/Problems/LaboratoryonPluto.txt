@@ -1,0 +1,9 @@
+Laboratory on Pluto                    
+
+https://codeforces.com/problemset/problem/1775/F
+
+constructive algorithms
+
+2500
+
+As you know, Martian scientists are actively engaged in space research. One of the highest priorities is Pluto. In order to study this planet in more detail, it was decided to build a laboratory on Pluto.It is known that the lab will be built of n square blocks of equal size. For convenience, we will assume that Pluto's surface is a plane divided by vertical and horizontal lines into unit squares. Each square is either occupied by a lab block or not, and only n squares are occupied.Since each block is square, it has four walls. If a wall is adjacent to another block, it is considered inside, otherwise — outside.Pluto is famous for its extremely cold temperatures, so the outside walls of the lab must be insulated. One unit of insulation per exterior wall would be required. Thus, the greater the total length of the outside walls of the lab (i. e., its perimeter), the more insulation will be needed.Consider the lab layout in the figure below. It shows that the lab consists of n = 33 blocks, and all the blocks have a total of 24 outside walls, i. e. 24 units of insulation will be needed.You should build the lab optimally, i. e., minimize the amount of insulation. On the other hand, there may be many optimal options, so scientists may be interested in the number of ways to build the lab using the minimum amount of insulation, modulo a prime number m.Two ways are considered the same if they are the same when overlapping without turning. Thus, if a lab plan is rotated by 90^{\circ}, such a new plan can be considered a separate way.To help scientists explore Pluto, you need to write a program that solves these difficult problems.  

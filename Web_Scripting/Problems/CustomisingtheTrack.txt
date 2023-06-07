@@ -1,0 +1,9 @@
+Customising the Track                    
+
+https://codeforces.com/problemset/problem/1543/B
+
+combinatorics
+
+900
+
+Highway 201 is the most busy street in Rockport. Traffic cars cause a lot of hindrances to races, especially when there are a lot of them. The track which passes through this highway can be divided into n sub-tracks. You are given an array a where a_i represents the number of traffic cars in the i-th sub-track. You define the inconvenience of the track as \sum\limits_{i=1}^{n} \sum\limits_{j=i+1}^{n} \lvert a_i-a_j\rvert, where |x| is the absolute value of x. You can perform the following operation any (possibly zero) number of times: choose a traffic car and move it from its current sub-track to any other sub-track.Find the minimum inconvenience you can achieve.

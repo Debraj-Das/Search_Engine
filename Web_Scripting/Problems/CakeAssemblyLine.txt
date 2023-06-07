@@ -1,0 +1,9 @@
+Cake Assembly Line                    
+
+https://codeforces.com/problemset/problem/1786/B
+
+brute force
+
+1300
+
+A cake assembly line in a bakery was once again optimized, and now n cakes are made at a time! In the last step, each of the n cakes should be covered with chocolate.Consider a side view on the conveyor belt, let it be a number line. The i-th cake occupies the segment [a_i - w, a_i + w] on this line, each pair of these segments does not have common points. Above the conveyor, there are n dispensers, and when a common button is pressed, chocolate from the i-th dispenser will cover the conveyor segment [b_i - h, b_i + h]. Each pair of these segments also does not have common points.  Cakes and dispensers corresponding to the first example. The calibration of this conveyor belt part has not yet been performed, so you are to make it. Determine if it's possible to shift the conveyor so that each cake has some chocolate on it, and there is no chocolate outside the cakes. You can assume that the conveyour is long enough, so the cakes never fall. Also note that the button can only be pressed once.  In the first example we can shift the cakes as shown in the picture. 

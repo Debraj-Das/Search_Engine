@@ -1,0 +1,9 @@
+Anton and Tree                    
+
+https://codeforces.com/problemset/problem/734/E
+
+dfs and similar
+
+2100
+
+Anton is growing a tree in his garden. In case you forgot, the tree is a connected acyclic undirected graph.There are n vertices in the tree, each of them is painted black or white. Anton doesn't like multicolored trees, so he wants to change the tree such that all vertices have the same color (black or white).To change the colors Anton can use only operations of one type. We denote it as paint(v), where v is some vertex of the tree. This operation changes the color of all vertices u such that all vertices on the shortest path from v to u have the same color (including v and u). For example, consider the tree  and apply operation paint(3) to get the following:  Anton is interested in the minimum number of operation he needs to perform in order to make the colors of all vertices equal.

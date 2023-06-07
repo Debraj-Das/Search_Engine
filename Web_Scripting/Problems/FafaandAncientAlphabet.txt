@@ -1,0 +1,9 @@
+Fafa and Ancient Alphabet                    
+
+httpscodeforcescomproblemsetproblem935D
+
+math
+
+1900
+
+Ancient Egyptians are known to have used a large set of symbols  to write on the walls of the temples Fafa and Fifa went to one of the temples and found two nonempty words S1 and S2 of equal lengths on the wall of temple written one below the other Since this temple is very ancient some symbols from the words were erased The symbols in the set  have equal probability for being in the position of any erased symbolFifa challenged Fafa to calculate the probability that S1 is lexicographically greater than S2 Can you help Fafa with this taskYou know that  ie there were m distinct characters in Egyptians alphabet in this problem these characters are denoted by integers from 1 to m in alphabet order A word x is lexicographically greater than a word y of the same length if the words are same up to some position and then the word x has a larger character than the word yWe can prove that the probability equals to some fraction  where P and Q are coprime integers and  Print as the answer the value  ie such a nonnegative integer less than 1097 such that  where  means that a and b give the same remainders when divided by m

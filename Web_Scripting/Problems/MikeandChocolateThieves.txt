@@ -1,0 +1,9 @@
+Mike and Chocolate Thieves                    
+
+httpscodeforcescomproblemsetproblem689C
+
+binary search
+
+1700
+
+Bad news came to Mikes village some thieves stole a bunch of chocolates from the local factory Horrible Aside from loving sweet things thieves from this area are known to be very greedy So after a thief takes his number of chocolates for himself the next thief will take exactly k times more than the previous one The value of k k1 is a secret integer known only to them It is also known that each thiefs bag can carry at most n chocolates if they intend to take more the deal is cancelled and that there were exactly four thieves involved Sadly only the thieves know the value of n but rumours say that the numbers of ways they could have taken the chocolates for a fixed n but not fixed k is m Two ways are considered different if one of the thieves they should be numbered in the order they take chocolates took different number of chocolates in themMike want to track the thieves down so he wants to know what their bags are and value of n will help him in that Please find the smallest possible value of n or tell him that the rumors are false and there is no such n

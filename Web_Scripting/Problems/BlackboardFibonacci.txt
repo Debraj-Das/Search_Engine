@@ -1,0 +1,9 @@
+Blackboard Fibonacci                    
+
+httpscodeforcescomproblemsetproblem217B
+
+brute force
+
+2100
+
+Fibonacci numbers are the sequence of integers f00 f11 f21 f32 f43 f55  fnfn2fn1 So every next number is the sum of the previous twoBajtek has developed a nice way to compute Fibonacci numbers on a blackboard First he writes a 0 Then below it he writes a 1 Then he performs the following two operations  operation T replace the top number with the sum of both numbers  operation B replace the bottom number with the sum of both numbers If he performs n operations starting with T and then choosing operations alternately so that the sequence of operations looks like TBTBTBTB the last number written will be equal to fn1Unfortunately Bajtek sometimes makes mistakes and repeats an operation two or more times in a row For example if Bajtek wanted to compute f7 then he would want to do n6 operations TBTBTB If he instead performs the sequence of operations TTTBBT then he will have made 3 mistakes and he will incorrectly compute that the seventh Fibonacci number is 10 The number of mistakes in the sequence of operations is the number of neighbouring equal operations TT or BBYou are given the number n of operations that Bajtek has made in an attempt to compute fn1 and the number r that is the result of his computations that is last written number Find the minimum possible number of mistakes that Bajtek must have made and any possible sequence of n operations resulting in r with that number of mistakesAssume that Bajtek always correctly starts with operation T

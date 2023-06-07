@@ -1,0 +1,9 @@
+Books                    
+
+httpscodeforcescomproblemsetproblem279B
+
+binary search
+
+1400
+
+When Valera has got some free time he goes to the library to read some books Today hes got t free minutes to read Thats why Valera took n books in the library and for each book he estimated the time he is going to need to read it Lets number the books by integers from 1 to n Valera needs ai minutes to read the ith bookValera decided to choose an arbitrary book with number i and read the books one by one starting from this book In other words he will first read book number i then book number i1 then book number i2 and so on He continues the process until he either runs out of the free time or finishes reading the nth book Valera reads each book up to the end that is he doesnt start reading the book if he doesnt have enough free time to finish reading it Print the maximum number of books Valera can read

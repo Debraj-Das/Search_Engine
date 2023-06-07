@@ -1,0 +1,9 @@
+Armchairs                    
+
+httpscodeforcescomproblemsetproblem1525D
+
+dp
+
+1800
+
+There are n armchairs numbered from 1 to n from left to right Some armchairs are occupied by people at most one person per armchair others are not The number of occupied armchairs is not greater than fracn2For some reason you would like to tell people to move from their armchairs to some other ones If the ith armchair is occupied by someone and the jth armchair is not you can tell the person sitting in the ith armchair to move to the jth armchair The time it takes a person to move from the ith armchair to the jth one is i  j minutes You may perform this operation any number of times but these operations must be done sequentially ie you cannot tell a person to move until the person you asked to move in the last operation has finished moving to their destination armchairYou want to achieve the following situation every seat that was initially occupied must be free What is the minimum time you need to do it

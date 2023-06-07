@@ -1,0 +1,9 @@
+Business trip                    
+
+httpscodeforcescomproblemsetproblem149A
+
+greedy
+
+900
+
+What joy Petyas parents went on a business trip for the whole year and the playful kid is left all by himself Petya got absolutely happy He jumped on the bed and threw pillows all day long until Today Petya opened the cupboard and found a scary note there His parents had left him with duties he should water their favourite flower all year each day in the morning in the afternoon and in the evening Wait a second  thought Petya He know for a fact that if he fulfills the parents task in the ith 1i12 month of the year then the flower will grow by ai centimeters and if he doesnt water the flower in the ith month then the flower wont grow this month Petya also knows that try as he might his parents wont believe that he has been watering the flower if it grows strictly less than by k centimeters Help Petya choose the minimum number of months when he will water the flower given that the flower should grow no less than by k centimeters

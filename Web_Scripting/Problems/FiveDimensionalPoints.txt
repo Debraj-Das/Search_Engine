@@ -1,0 +1,9 @@
+Five Dimensional Points                    
+
+https://codeforces.com/problemset/problem/850/A
+
+brute force
+
+1700
+
+You are given set of n points in 5-dimensional space. The points are labeled from 1 to n. No two points coincide.We will call point a bad if there are different points b and c, not equal to a, from the given set such that angle between vectors  and  is acute (i.e. strictly less than ). Otherwise, the point is called good.The angle between vectors  and  in 5-dimensional space is defined as , where  is the scalar product and  is length of .Given the list of points, print the indices of the good points in ascending order.

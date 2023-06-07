@@ -1,0 +1,9 @@
+Long Legs                    
+
+httpscodeforcescomproblemsetproblem1814B
+
+brute force
+
+1700
+
+A robot is placed in a cell 0 0 of an infinite grid This robot has adjustable length legs Initially its legs have length 1Let the robot currently be in the cell x y and have legs of length m In one move it can perform one of the following three actions   jump into the cell x  m y  jump into the cell x y  m  increase the length of the legs by 1 ie set it to m  1 Whats the smallest number of moves robot has to make to reach a cell a b

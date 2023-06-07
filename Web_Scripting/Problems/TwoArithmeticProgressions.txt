@@ -1,0 +1,9 @@
+Two Arithmetic Progressions                    
+
+httpscodeforcescomproblemsetproblem710D
+
+math
+
+2500
+
+You are given two arithmetic progressions a1kb1 and a2lb2 Find the number of integers x such that LxR and xa1kb1a2lb2 for some integers kl0

@@ -1,0 +1,9 @@
+Playlist for Polycarp (easy version)                    
+
+https://codeforces.com/problemset/problem/1185/G1
+
+bitmasks
+
+2100
+
+The only difference between easy and hard versions is constraints.Polycarp loves to listen to music, so he never leaves the player, even on the way home from the university. Polycarp overcomes the distance from the university to the house in exactly T minutes.In the player, Polycarp stores n songs, each of which is characterized by two parameters: t_i and g_i, where t_i is the length of the song in minutes (1 \le t_i \le 15), g_i is its genre (1 \le g_i \le 3).Polycarp wants to create such a playlist so that he can listen to music all the time on the way from the university to his home, and at the time of his arrival home, the playlist is over. Polycarp never interrupts songs and always listens to them from beginning to end. Thus, if he started listening to the i-th song, he would spend exactly t_i minutes on its listening. Polycarp also does not like when two songs of the same genre play in a row (i.e. successively/adjacently) or when the songs in his playlist are repeated.Help Polycarpus count the number of different sequences of songs (their order matters), the total duration is exactly T, such that there are no two consecutive songs of the same genre in them and all the songs in the playlist are different.

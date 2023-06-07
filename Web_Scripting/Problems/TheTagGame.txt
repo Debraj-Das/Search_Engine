@@ -1,0 +1,9 @@
+The Tag Game                    
+
+httpscodeforcescomproblemsetproblem813C
+
+dfs and similar
+
+1700
+
+Alice got tired of playing the tag game by the usual rules so she offered Bob a little modification to it Now the game should be played on an undirected rooted tree of n vertices Vertex 1 is the root of the treeAlice starts at vertex 1 and Bob starts at vertex x x1 The moves are made in turns Bob goes first In one move one can either stay at the current vertex or travel to the neighbouring oneThe game ends when Alice goes to the same vertex where Bob is standing Alice wants to minimize the total number of moves and Bob wants to maximize itYou should write a program which will determine how many moves will the game last

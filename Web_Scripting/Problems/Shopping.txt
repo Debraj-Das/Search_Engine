@@ -1,0 +1,9 @@
+Shopping                    
+
+httpscodeforcescomproblemsetproblem665B
+
+brute force
+
+1400
+
+Ayush is a cashier at the shopping center Recently his department has started a click and collect service which allows users to shop online The store contains k items n customers have already used the above service Each user paid for m items Let aij denote the jth item in the ith persons orderDue to the space limitations all the items are arranged in one single row When Ayush receives the ith order he will find one by one all the items aij 1jm in the row Let posx denote the position of the item x in the row at the moment of its collection Then Ayush takes time equal to posai1posai2posaim for the ith customerWhen Ayush accesses the xth element he keeps a new stock in the front of the row and takes away the xth element Thus the values are updatingYour task is to calculate the total time it takes for Ayush to process all the ordersYou can assume that the market has endless stock

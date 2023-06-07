@@ -1,0 +1,9 @@
+String Compression                    
+
+httpscodeforcescomproblemsetproblem825F
+
+dp
+
+2400
+
+Ivan wants to write a letter to his friend The letter is a string s consisting of lowercase Latin lettersUnfortunately when Ivan started writing the letter he realised that it is very long and writing the whole letter may take extremely long time So he wants to write the compressed version of string s instead of the string itselfThe compressed version of string s is a sequence of strings c1s1c2s2cksk where ci is the decimal representation of number ai without any leading zeroes and si is some string consisting of lowercase Latin letters If Ivan writes string s1 exactly a1 times then string s2 exactly a2 times and so on the result will be string sThe length of a compressed version is c1s1c2s2 cksk Among all compressed versions Ivan wants to choose a version such that its length is minimum possible Help Ivan to determine minimum possible length

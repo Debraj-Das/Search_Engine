@@ -1,0 +1,9 @@
+Coffee Break                    
+
+https://codeforces.com/problemset/problem/1041/C
+
+binary search
+
+1600
+
+Recently Monocarp got a job. His working day lasts exactly m minutes. During work, Monocarp wants to drink coffee at certain moments: there are n minutes a_1, a_2, \dots, a_n, when he is able and willing to take a coffee break (for the sake of simplicity let's consider that each coffee break lasts exactly one minute). However, Monocarp's boss doesn't like when Monocarp takes his coffee breaks too often. So for the given coffee break that is going to be on minute a_i, Monocarp must choose the day in which he will drink coffee during the said minute, so that every day at least d minutes pass between any two coffee breaks. Monocarp also wants to take these n coffee breaks in a minimum possible number of working days (he doesn't count days when he is not at work, and he doesn't take coffee breaks on such days). Take into account that more than d minutes pass between the end of any working day and the start of the following working day.For each of the n given minutes determine the day, during which Monocarp should take a coffee break in this minute. You have to minimize the number of days spent. 

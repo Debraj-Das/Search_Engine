@@ -1,0 +1,9 @@
+Vasya and Golden Ticket                    
+
+https://codeforces.com/problemset/problem/1030/C
+
+implementation
+
+1300
+
+Recently Vasya found a golden ticket — a sequence which consists of n digits a_1a_2\dots a_n. Vasya considers a ticket to be lucky if it can be divided into two or more non-intersecting segments with equal sums. For example, ticket 350178 is lucky since it can be divided into three segments 350, 17 and 8: 3+5+0=1+7=8. Note that each digit of sequence should belong to exactly one segment.Help Vasya! Tell him if the golden ticket he found is lucky or not.

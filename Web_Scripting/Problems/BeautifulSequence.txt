@@ -1,0 +1,9 @@
+Beautiful Sequence                    
+
+https://codeforces.com/problemset/problem/1264/B
+
+brute force
+
+1900
+
+An integer sequence is called beautiful if the difference between any two consecutive numbers is equal to 1. More formally, a sequence s_1, s_2, \ldots, s_{n} is beautiful if |s_i - s_{i+1}| = 1 for all 1 \leq i \leq n - 1.Trans has a numbers 0, b numbers 1, c numbers 2 and d numbers 3. He wants to construct a beautiful sequence using all of these a + b + c + d numbers.However, it turns out to be a non-trivial task, and Trans was not able to do it. Could you please help Trans?

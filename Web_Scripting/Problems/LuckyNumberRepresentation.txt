@@ -1,0 +1,9 @@
+Lucky Number Representation                    
+
+httpscodeforcescomproblemsetproblem354E
+
+constructive algorithms
+
+2200
+
+We know that lucky digits are digits 4 and 7 however Vasyas got another favorite digit 0 and he assumes it also is lucky Lucky numbers are such nonnegative integers whose decimal record only contains lucky digits For example numbers 0477074 are lucky but 17377895 7 are notVasya has t important positive integers he needs to remember Vasya is quite superstitious and he wants to remember lucky numbers only so he is asking you for each important number to represent it as a sum of exactly six lucky numbers Vasya just cant remember more numbers Then Vasya can just remember these six numbers and calculate the important number at any momentFor each of t important integers represent it as the sum of six lucky numbers or state that this is impossible

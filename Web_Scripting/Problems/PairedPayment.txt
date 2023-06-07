@@ -1,0 +1,9 @@
+Paired Payment                    
+
+https://codeforces.com/problemset/problem/1486/E
+
+binary search
+
+2200
+
+There are n cities and m bidirectional roads in the country. The roads in the country form an undirected weighted graph. The graph is not guaranteed to be connected. Each road has it's own parameter w. You can travel through the roads, but the government made a new law: you can only go through two roads at a time (go from city a to city b and then from city b to city c) and you will have to pay (w_{ab} + w_{bc})^2 money to go through those roads. Find out whether it is possible to travel from city 1 to every other city t and what's the minimum amount of money you need to get from 1 to t.

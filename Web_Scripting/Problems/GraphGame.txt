@@ -1,0 +1,9 @@
+Graph Game                    
+
+httpscodeforcescomproblemsetproblem235D
+
+graphs
+
+3000
+
+In computer science there is a method called Divide And Conquer By Node to solve some hard problems about paths on a tree Lets desribe how this method works by functionsolvet t is a tree   Chose a node x its common to chose weightcenter in tree t Lets call this step Line A  Deal with all paths that pass x  Then delete x from tree t  After that t becomes some subtrees  Apply solve on each subtree This ends when t has only one node because after deleting it theres nothing Now WJMZBMR has mistakenly believed that its ok to chose any node in Line A So hell chose a node at random To make the situation worse he thinks a tree should have the same number of edges and nodes So this procedure becomes like thatLets define the variable totalCost Initially the value of totalCost equal to 0 So solvet now t is a graph   totalCosttotalCostsizeoft The operation  means assignment Sizeoft means the number of nodes in t  Choose a node x in graph t at random uniformly among all nodes of t  Then delete x from graph t  After that t becomes some connected components  Apply solve on each component Hell apply solve on a connected graph with n nodes and n edges He thinks it will work quickly but its very slow So he wants to know the expectation of totalCost of this procedure Can you help him

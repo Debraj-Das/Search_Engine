@@ -1,0 +1,9 @@
+Building Forest Trails                    
+
+https://codeforces.com/problemset/problem/1578/B
+
+data structures
+
+2800
+
+There are n villages lying equidistant on a circle in the middle of a thick, impassable forest. From ancient times, it was impossible to move from one village to another, but technical progress has changed a lot. Now, there is a technology to build passable trails in the forest. The building process consists of m events. Each event is either building a trail or querying if two villages are connected. Trails are built as straight lines connecting two villages. After a trail is built, anybody can walk along the trail from one village to another. Moreover, if two trails cross, anybody can turn at the intersection, and if other trails leave a village you have just reached, they can also be used to walk along. So, for example, if villages are numbered 1 to 6 in the order around the circle, and there are trails 1 to 3, 2 to 4, and 4 to 6, then all villages, except the 5-th, are reachable from the 1-st village.Given a list of m events, for each query, find if two given villages are reachable from each other at that moment.

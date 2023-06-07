@@ -1,0 +1,9 @@
+Longest Subsequence                    
+
+httpscodeforcescomproblemsetproblem632D
+
+brute force
+
+2100
+
+You are given array a with n elements and the number m Consider some subsequence of a and the value of least common multiple LCM of its elements Denote LCM as l Find any longest subsequence of a with the value lmA subsequence of a is an array we can get by erasing some elements of a It is allowed to erase zero or all elementsThe LCM of an empty array equals 1

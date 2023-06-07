@@ -1,0 +1,9 @@
+Moamen and XOR                    
+
+https://codeforces.com/problemset/problem/1557/C
+
+bitmasks
+
+1700
+
+Moamen and Ezzat are playing a game. They create an array a of n non-negative integers where every element is less than 2^k.Moamen wins if a_1 \,\&\, a_2 \,\&\, a_3 \,\&\, \ldots \,\&\, a_n \ge a_1 \oplus a_2 \oplus a_3 \oplus \ldots \oplus a_n.Here \& denotes the bitwise AND operation, and \oplus denotes the bitwise XOR operation.Please calculate the number of winning for Moamen arrays a.As the result may be very large, print the value modulo 1\,000\,000\,007 (10^9 + 7).

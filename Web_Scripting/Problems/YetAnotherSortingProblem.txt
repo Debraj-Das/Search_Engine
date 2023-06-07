@@ -1,0 +1,9 @@
+Yet Another Sorting Problem                    
+
+https://codeforces.com/problemset/problem/1585/D
+
+data structures
+
+1900
+
+Petya has an array of integers a_1, a_2, \ldots, a_n. He only likes sorted arrays. Unfortunately, the given array could be arbitrary, so Petya wants to sort it.Petya likes to challenge himself, so he wants to sort array using only 3-cycles. More formally, in one operation he can pick 3 pairwise distinct indices i, j, and k (1 \leq i, j, k \leq n) and apply i \to j \to k \to i cycle to the array a. It simultaneously places a_i on position j, a_j on position k, and a_k on position i, without changing any other element.For example, if a is [10, 50, 20, 30, 40, 60] and he chooses i = 2, j = 1, k = 5, then the array becomes [\underline{50}, \underline{40}, 20, 30, \underline{10}, 60].Petya can apply arbitrary number of 3-cycles (possibly, zero). You are to determine if Petya can sort his array a, i. e. make it non-decreasing.

@@ -1,0 +1,9 @@
+New Year Tree                    
+
+httpscodeforcescomproblemsetproblem379F
+
+data structures
+
+2400
+
+You are a programmer and you have a New Year Tree not the traditional fur tree though  a tree of four vertices one vertex of degree three has number 1 connected with three leaves their numbers are from 2 to 4On the New Year programmers usually have fun You decided to have fun as well by adding vertices to the tree One adding operation looks as follows  First we choose some leaf of the tree with number v  Lets mark the number of vertices on the tree at this moment by variable n then two vertexes are added to the tree their numbers are n1 and n2 also you get new edges one between vertices v and n1 and one between vertices v and n2 Your task is not just to model the process of adding vertices to the tree but after each adding operation print the diameter of the current tree Come on lets solve the New Year problem

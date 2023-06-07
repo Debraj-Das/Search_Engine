@@ -1,0 +1,9 @@
+Paths and Trees                    
+
+httpscodeforcescomproblemsetproblem545E
+
+graphs
+
+2000
+
+Little girl Susie accidentally found her elder brothers notebook She has many things to do more important than solving problems but she found this problem too interesting so she wanted to know its solution and decided to ask you about it So the problem statement is as followsLets assume that we are given a connected weighted undirected graph GVE here V is the set of vertices E is the set of edges The shortestpath tree from vertex u is such graph G1VE1 that is a tree with the set of edges E1 that is the subset of the set of edges of the initial graph E and the lengths of the shortest paths from u to any vertex to G and to G1 are the same You are given a connected weighted undirected graph G and vertex u Your task is to find the shortestpath tree of the given graph from vertex u the total weight of whose edges is minimum possible

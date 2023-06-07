@@ -1,0 +1,9 @@
+Timofey and a tree                    
+
+https://codeforces.com/problemset/problem/763/A
+
+dfs and similar
+
+1600
+
+Each New Year Timofey and his friends cut down a tree of n vertices and bring it home. After that they paint all the n its vertices, so that the i-th vertex gets color ci.Now it's time for Timofey birthday, and his mother asked him to remove the tree. Timofey removes the tree in the following way: he takes some vertex in hands, while all the other vertices move down so that the tree becomes rooted at the chosen vertex. After that Timofey brings the tree to a trash can.Timofey doesn't like it when many colors are mixing together. A subtree annoys him if there are vertices of different color in it. Timofey wants to find a vertex which he should take in hands so that there are no subtrees that annoy him. He doesn't consider the whole tree as a subtree since he can't see the color of the root vertex.A subtree of some vertex is a subgraph containing that vertex and all its descendants.Your task is to determine if there is a vertex, taking which in hands Timofey wouldn't be annoyed.

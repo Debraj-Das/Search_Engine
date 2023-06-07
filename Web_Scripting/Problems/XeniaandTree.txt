@@ -1,0 +1,9 @@
+Xenia and Tree                    
+
+https://codeforces.com/problemset/problem/342/E
+
+data structures
+
+2400
+
+Xenia the programmer has a tree consisting of n nodes. We will consider the tree nodes indexed from 1 to n. We will also consider the first node to be initially painted red, and the other nodes — to be painted blue.The distance between two tree nodes v and u is the number of edges in the shortest path between v and u.Xenia needs to learn how to quickly execute queries of two types:  paint a specified blue node in red;  calculate which red node is the closest to the given one and print the shortest distance to the closest red node. Your task is to write a program which will execute the described queries.

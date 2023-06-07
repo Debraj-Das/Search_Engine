@@ -1,0 +1,9 @@
+Counting Rectangles                    
+
+https://codeforces.com/problemset/problem/1722/E
+
+brute force
+
+1600
+
+You have n rectangles, the i-th rectangle has height h_i and width w_i.You are asked q queries of the form h_s \ w_s \ h_b \ w_b. For each query output, the total area of rectangles you own that can fit a rectangle of height h_s and width w_s while also fitting in a rectangle of height h_b and width w_b. In other words, print \sum h_i \cdot w_i for i such that h_s < h_i < h_b and w_s < w_i < w_b. Please note, that if two rectangles have the same height or the same width, then they cannot fit inside each other. Also note that you cannot rotate rectangles.Please note that the answer for some test cases won't fit into 32-bit integer type, so you should use at least 64-bit integer type in your programming language (like long long for C++).

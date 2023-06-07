@@ -1,0 +1,9 @@
+Unimodal Array                    
+
+httpscodeforcescomproblemsetproblem831A
+
+implementation
+
+1000
+
+Array of integers is unimodal if  it is strictly increasing in the beginning  after that it is constant  after that it is strictly decreasing The first block increasing and the last block decreasing may be absent It is allowed that both of this blocks are absentFor example the following three arrays are unimodal 57111121 442 7 but the following three are not unimodal 55661 1212 4556Write a program that checks if an array is unimodal

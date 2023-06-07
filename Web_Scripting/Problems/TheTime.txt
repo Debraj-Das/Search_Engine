@@ -1,0 +1,9 @@
+The Time                    
+
+https://codeforces.com/problemset/problem/622/B
+
+implementation
+
+900
+
+You are given the current time in 24-hour format hh:mm. Find and print the time after a minutes.Note that you should find only the time after a minutes, see the examples to clarify the problem statement.You can read more about 24-hour format here https://en.wikipedia.org/wiki/24-hour_clock.

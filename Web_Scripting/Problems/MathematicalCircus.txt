@@ -1,0 +1,9 @@
+Mathematical Circus                    
+
+https://codeforces.com/problemset/problem/1719/B
+
+constructive algorithms
+
+800
+
+A new entertainment has appeared in Buryatia — a mathematical circus! The magician shows two numbers to the audience — n and k, where n is even. Next, he takes all the integers from 1 to n, and splits them all into pairs (a, b) (each integer must be in exactly one pair) so that for each pair the integer (a + k) \cdot b is divisible by 4 (note that the order of the numbers in the pair matters), or reports that, unfortunately for viewers, such a split is impossible.Burenka really likes such performances, so she asked her friend Tonya to be a magician, and also gave him the numbers n and k.Tonya is a wolf, and as you know, wolves do not perform in the circus, even in a mathematical one. Therefore, he asks you to help him. Let him know if a suitable splitting into pairs is possible, and if possible, then tell it.

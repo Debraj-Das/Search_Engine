@@ -1,0 +1,9 @@
+The Tree                    
+
+https://codeforces.com/problemset/problem/1017/G
+
+data structures
+
+3200
+
+Abendsen assigned a mission to Juliana. In this mission, Juliana has a rooted tree with n vertices. Vertex number 1 is the root of this tree. Each vertex can be either black or white. At first, all vertices are white. Juliana is asked to process q queries. Each query is one of three types:  If vertex v is white, mark it as black; otherwise, perform this operation on all direct sons of v instead.  Mark all vertices in the subtree of v (including v) as white.  Find the color of the i-th vertex.   An example of operation "1 1" (corresponds to the first example test). The vertices 1 and 2 are already black, so the operation goes to their sons instead. Can you help Juliana to process all these queries?

@@ -1,0 +1,9 @@
+Integers Have Friends                    
+
+https://codeforces.com/problemset/problem/1548/B
+
+binary search
+
+1800
+
+British mathematician John Littlewood once said about Indian mathematician Srinivasa Ramanujan that "every positive integer was one of his personal friends."It turns out that positive integers can also be friends with each other! You are given an array a of distinct positive integers. Define a subarray a_i, a_{i+1}, \ldots, a_j to be a friend group if and only if there exists an integer m \ge 2 such that a_i \bmod m = a_{i+1} \bmod m = \ldots = a_j \bmod m, where x \bmod y denotes the remainder when x is divided by y.Your friend Gregor wants to know the size of the largest friend group in a.

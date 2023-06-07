@@ -1,0 +1,9 @@
+Find Pair                    
+
+httpscodeforcescomproblemsetproblem160C
+
+implementation
+
+1700
+
+Youve got another problem dealing with arrays Lets consider an arbitrary sequence containing n not necessarily different integers a1 a2  an We are interested in all possible pairs of numbers ai aj 1ijn In other words lets consider all n2 pairs of numbers picked from the given arrayFor example in sequence a315 are 9 pairs of numbers 333135131115535155Lets sort all resulting pairs lexicographically by nondecreasing Let us remind you that pair p1 q1 is lexicographically less than pair p2 q2 only if either p1  p2 or p1  p2 and q1  q2Then the sequence mentioned above will be sorted like that 111315313335515355Lets number all the pair in the sorted list from 1 to n2 Your task is formulated like this you should find the kth pair in the ordered list of all possible pairs of the array youve been given

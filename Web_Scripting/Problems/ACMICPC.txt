@@ -1,0 +1,9 @@
+ACM ICPC                    
+
+https://codeforces.com/problemset/problem/886/A
+
+brute force
+
+1000
+
+In a small but very proud high school it was decided to win ACM ICPC. This goal requires to compose as many teams of three as possible, but since there were only 6 students who wished to participate, the decision was to build exactly two teams.After practice competition, participant number i got a score of ai. Team score is defined as sum of scores of its participants. High school management is interested if it's possible to build two teams with equal scores. Your task is to answer that question.

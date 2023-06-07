@@ -1,0 +1,9 @@
+Half-sum                    
+
+https://codeforces.com/problemset/problem/1817/E
+
+brute force
+
+3400
+
+You're given a multiset of non-negative integers \{a_1, a_2, \dots, a_n\}.In one step you take two elements x and y of the multiset, remove them and insert their mean value \frac{x + y}{2} back into the multiset.You repeat the step described above until you are left with only two numbers A and B. What is the maximum possible value of their absolute difference |A-B|?Since the answer is not an integer number, output it modulo 10^9+7.

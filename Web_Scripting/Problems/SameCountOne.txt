@@ -1,0 +1,9 @@
+Same Count One                    
+
+https://codeforces.com/problemset/problem/1774/D
+
+brute force
+
+1600
+
+ChthollyNotaSeniorious received a special gift from AquaMoon: n binary arrays of length m. AquaMoon tells him that in one operation, he can choose any two arrays and any position pos from 1 to m, and swap the elements at positions pos in these arrays.He is fascinated with this game, and he wants to find the minimum number of operations needed to make the numbers of 1s in all arrays the same. He has invited you to participate in this interesting game, so please try to find it!If it is possible, please output specific exchange steps in the format described in the output section. Otherwise, please output -1.

@@ -1,0 +1,9 @@
+AmShZ Farm                    
+
+https://codeforces.com/problemset/problem/1528/F
+
+combinatorics
+
+3300
+
+To AmShZ, all arrays are equal, but some arrays are more-equal than others. Specifically, the arrays consisting of n elements from 1 to n that can be turned into permutations of numbers from 1 to n by adding a non-negative integer to each element.Mashtali who wants to appear in every problem statement thinks that an array b consisting of k elements is compatible with a more-equal array a consisting of n elements if for each 1 \le i \le k we have 1 \le b_i \le n and also a_{b_1} = a_{b_2} = \ldots = a_{b_k}.Find the number of pairs of arrays a and b such that a is a more-equal array consisting of n elements and b is an array compatible with a consisting of k elements modulo 998244353.Note that the elements of b are not necessarily distinct, same holds for a.

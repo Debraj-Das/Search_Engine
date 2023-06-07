@@ -1,0 +1,9 @@
+Once Again                    
+
+httpscodeforcescomproblemsetproblem582B
+
+constructive algorithms
+
+1900
+
+You are given an array of positive integers a1a2anT of length nT We know that for any in it is true that aiain Find the length of the longest nondecreasing sequence of the given array

@@ -1,0 +1,9 @@
+Arthur and Questions                    
+
+httpscodeforcescomproblemsetproblem518E
+
+greedy
+
+2200
+
+After bracket sequences Arthur took up number theory He has got a new favorite sequence of length n a1a2an consisting of integers and integer k not exceeding nThis sequence had the following property if you write out the sums of all its segments consisting of k consecutive elements a1a2aka2a3ak1ank1ank2an then those numbers will form strictly increasing sequenceFor example for the following sample n5k3a12456 the sequence of numbers will look as follows 12424545671115 that means that sequence a meets the described property Obviously the sequence of sums will have nk1 elementsSomebody we wont say who replaced some numbers in Arthurs sequence by question marks if this number is replaced it is replaced by exactly one question mark We need to restore the sequence so that it meets the required property and also minimize the sum ai where ai is the absolute value of ai

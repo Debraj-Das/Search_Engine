@@ -1,0 +1,9 @@
+Swap and Take                    
+
+https://codeforces.com/problemset/problem/1736/E
+
+dp
+
+2600
+
+You're given an array consisting of n integers. You have to perform n turns.Initially your score is 0.On the i-th turn, you are allowed to leave the array as it is or swap any one pair of 2 adjacent elements in the array and change exactly one of them to 0(and leave the value of other element unchanged) after swapping. In either case(whether you swap or not), after this you add a_i to your score. What's the maximum possible score you can get?

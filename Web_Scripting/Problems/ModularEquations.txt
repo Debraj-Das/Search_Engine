@@ -1,0 +1,9 @@
+Modular Equations                    
+
+https://codeforces.com/problemset/problem/495/B
+
+math
+
+1600
+
+Last week, Hamed learned about a new type of equations in his math class called Modular Equations. Lets define i modulo j as the remainder of division of i by j and denote it by . A Modular Equation, as Hamed's teacher described, is an equation of the form  in which a and b are two non-negative integers and x is a variable. We call a positive integer x for which  a solution of our equation.Hamed didn't pay much attention to the class since he was watching a movie. He only managed to understand the definitions of these equations.Now he wants to write his math exercises but since he has no idea how to do that, he asked you for help. He has told you all he knows about Modular Equations and asked you to write a program which given two numbers a and b determines how many answers the Modular Equation  has.

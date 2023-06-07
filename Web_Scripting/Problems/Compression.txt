@@ -1,0 +1,9 @@
+Compression                    
+
+https://codeforces.com/problemset/problem/1107/D
+
+dp
+
+1800
+
+You are given a binary matrix A of size n \times n. Let's denote an x-compression of the given matrix as a matrix B of size \frac{n}{x} \times \frac{n}{x} such that for every i \in [1, n], j \in [1, n] the condition A[i][j] = B[\lceil \frac{i}{x} \rceil][\lceil \frac{j}{x} \rceil] is met.Obviously, x-compression is possible only if x divides n, but this condition is not enough. For example, the following matrix of size 2 \times 2 does not have any 2-compression: 01   10 For the given matrix A, find maximum x such that an x-compression of this matrix is possible.Note that the input is given in compressed form. But even though it is compressed, you'd better use fast input.

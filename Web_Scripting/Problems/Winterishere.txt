@@ -1,0 +1,9 @@
+Winter is here                    
+
+httpscodeforcescomproblemsetproblem839D
+
+combinatorics
+
+2200
+
+Winter is here at the North and the White Walkers are close John Snow has an army consisting of n soldiers While the rest of the world is fighting for the Iron Throne he is going to get ready for the attack of the White WalkersHe has created a method to know how strong his army is Let the ith soldiers strength be ai For some k he calls i1i2ik a clan if i1i2i3ik and gcdai1ai2aik1  He calls the strength of that clan kgcdai1ai2aik Then he defines the strength of his army by the sum of strengths of all possible clansYour task is to find the strength of his army As the number may be very large you have to print it modulo 1000000007 1097Greatest common divisor gcd of a sequence of integers is the maximum possible integer so that each element of the sequence is divisible by it

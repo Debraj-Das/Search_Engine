@@ -1,0 +1,9 @@
+Little Elephant and Interval                    
+
+httpscodeforcescomproblemsetproblem204A
+
+binary search
+
+1500
+
+The Little Elephant very much loves sums on intervalsThis time he has a pair of integers l and r lr The Little Elephant has to find the number of such integers x lxr that the first digit of integer x equals the last one in decimal notation For example such numbers as 101 477474 or 9 will be included in the answer and 47 253 or 1020 will notHelp him and count the number of described numbers x for a given pair l and r

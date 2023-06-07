@@ -1,0 +1,9 @@
+Genius                    
+
+https://codeforces.com/problemset/problem/1497/D
+
+bitmasks
+
+2500
+
+Please note the non-standard memory limit.There are n problems numbered with integers from 1 to n. i-th problem has the complexity c_i = 2^i, tag tag_i and score s_i.After solving the problem i it's allowed to solve problem j if and only if \text{IQ} < |c_i - c_j| and tag_i \neq tag_j. After solving it your \text{IQ} changes and becomes \text{IQ} = |c_i - c_j| and you gain |s_i - s_j| points.Any problem can be the first. You can solve problems in any order and as many times as you want.Initially your \text{IQ} = 0. Find the maximum number of points that can be earned.

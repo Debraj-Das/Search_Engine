@@ -1,0 +1,9 @@
+Download More RAM                    
+
+https://codeforces.com/problemset/problem/1629/A
+
+brute force
+
+800
+
+Did you know you can download more RAM? There is a shop with n different pieces of software that increase your RAM. The i-th RAM increasing software takes a_i GB of memory to run (temporarily, once the program is done running, you get the RAM back), and gives you an additional b_i GB of RAM (permanently). Each software can only be used once. Your PC currently has k GB of RAM.Note that you can't use a RAM-increasing software if it takes more GB of RAM to use than what you currently have.Since RAM is the most important thing in the world, you wonder, what is the maximum possible amount of RAM achievable?

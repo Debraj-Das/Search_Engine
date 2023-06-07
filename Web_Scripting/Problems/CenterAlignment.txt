@@ -1,0 +1,9 @@
+Center Alignment                    
+
+https://codeforces.com/problemset/problem/5/B
+
+implementation
+
+1200
+
+Almost every text editor has a built-in function of center text alignment. The developers of the popular in Berland text editor «Textpad» decided to introduce this functionality into the fourth release of the product.You are to implement the alignment in the shortest possible time. Good luck!

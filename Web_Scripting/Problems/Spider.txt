@@ -1,0 +1,9 @@
+Spider                    
+
+httpscodeforcescomproblemsetproblem223D
+
+geometry
+
+3000
+
+A plane contains a not necessarily convex polygon without selfintersections consisting of n vertexes numbered from 1 to n There is a spider sitting on the border of the polygon the spider can move like that  Transfer The spider moves from the point p1 with coordinates x1y1 lying on the polygon border to the point p2 with coordinates x2y2 also lying on the border The spider cant go beyond the polygon border as it transfers that is the spiders path from point p1 to point p2 goes along the polygon border Its up to the spider to choose the direction of walking round the polygon border clockwise or counterclockwise  Descend The spider moves from point p1 with coordinates x1y1 to point p2 with coordinates x2y2 at that points p1 and p2 must lie on one vertical straight line x1x2 point p1 must be not lower than point p2 y1y2 and segment p1p2 mustnt have points located strictly outside the polygon specifically the segment can have common points with the border Initially the spider is located at the polygon vertex with number s Find the length of the shortest path to the vertex number t consisting of transfers and descends The distance is determined by the usual Euclidean metric 

@@ -1,0 +1,9 @@
+View Angle                    
+
+https://codeforces.com/problemset/problem/257/C
+
+brute force
+
+1800
+
+Flatland has recently introduced a new type of an eye check for the driver's licence. The check goes like that: there is a plane with mannequins standing on it. You should tell the value of the minimum angle with the vertex at the origin of coordinates and with all mannequins standing inside or on the boarder of this angle. As you spend lots of time "glued to the screen", your vision is impaired. So you have to write a program that will pass the check for you.

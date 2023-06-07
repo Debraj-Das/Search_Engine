@@ -1,0 +1,9 @@
+A Wide, Wide Graph                    
+
+https://codeforces.com/problemset/problem/1805/D
+
+dfs and similar
+
+1800
+
+You are given a tree (a connected graph without cycles) with n vertices. Consider a fixed integer k. Then, the graph G_k is an undirected graph with n vertices, where an edge between vertices u and v exists if and only if the distance between vertices u and v in the given tree is at least k.For each k from 1 to n, print the number of connected components in the graph G_k.

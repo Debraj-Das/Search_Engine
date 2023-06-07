@@ -1,0 +1,9 @@
+Cormen  The Best Friend Of a Man                    
+
+httpscodeforcescomproblemsetproblem732B
+
+dp
+
+1000
+
+Recently a dog was bought for Polycarp The dogs name is Cormen Now Polycarp has a lot of troubles For example Cormen likes going for a walk Empirically Polycarp learned that the dog needs at least k walks for any two consecutive days in order to feel good For example if k5 and yesterday Polycarp went for a walk with Cormen 2 times today he has to go for a walk at least 3 times Polycarp analysed all his affairs over the next n days and made a sequence of n integers a1a2an where ai is the number of times Polycarp will walk with the dog on the ith day while doing all his affairs for example he has to go to a shop throw out the trash etcHelp Polycarp determine the minimum number of walks he needs to do additionaly in the next n days so that Cormen will feel good during all the n days You can assume that on the day before the first day and on the day after the nth day Polycarp will go for a walk with Cormen exactly k times Write a program that will find the minumum number of additional walks and the appropriate schedule the sequence of integers b1b2bn biai where bi means the total number of walks with the dog on the ith day

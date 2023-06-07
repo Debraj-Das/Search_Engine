@@ -1,0 +1,9 @@
+Subsequence Addition (Hard Version)                    
+
+https://codeforces.com/problemset/problem/1807/G2
+
+bitmasks
+
+1100
+
+The only difference between the two versions is that in this version, the constraints are higher.Initially, array a contains just the number 1. You can perform several operations in order to change the array. In an operation, you can select some subsequence^{\dagger} of a and add into a an element equal to the sum of all elements of the subsequence. You are given a final array c. Check if c can be obtained from the initial array a by performing some number (possibly 0) of operations on the initial array.^{\dagger} A sequence b is a subsequence of a sequence a if b can be obtained from a by the deletion of several (possibly zero, but not all) elements. In other words, select k (1 \leq k \leq |a|) distinct indices i_1, i_2, \dots, i_k and insert anywhere into a a new element with the value equal to a_{i_1} + a_{i_2} + \dots + a_{i_k}.

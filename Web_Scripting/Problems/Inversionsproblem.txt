@@ -1,0 +1,9 @@
+Inversions problem                    
+
+httpscodeforcescomproblemsetproblem513G3
+
+dp
+
+3100
+
+You are given a permutation of n numbers p1p2pn We perform k operations of the following type choose uniformly at random two indices l and r lr and reverse the order of the elements plpl1pr Your task is to find the expected value of the number of inversions in the resulting permutation

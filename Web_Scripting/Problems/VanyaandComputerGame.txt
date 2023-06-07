@@ -1,0 +1,9 @@
+Vanya and Computer Game                    
+
+httpscodeforcescomproblemsetproblem492D
+
+binary search
+
+1800
+
+Vanya and his friend Vova play a computer game where they need to destroy n monsters to pass a level Vanyas character performs attack with frequency x hits per second and Vovas character performs attack with frequency y hits per second Each character spends fixed time to raise a weapon and then he hits the time to raise the weapon is 1x seconds for the first character and 1y seconds for the second one The ith monster dies after he receives ai hits Vanya and Vova wonder who makes the last hit on each monster If Vanya and Vova make the last hit at the same time we assume that both of them have made the last hit

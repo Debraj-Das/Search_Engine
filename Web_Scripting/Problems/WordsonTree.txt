@@ -1,0 +1,9 @@
+Words on Tree                    
+
+https://codeforces.com/problemset/problem/1657/F
+
+2-sat
+
+2600
+
+You are given a tree consisting of n vertices, and q triples (x_i, y_i, s_i), where x_i and y_i are integers from 1 to n, and s_i is a string with length equal to the number of vertices on the simple path from x_i to y_i.You want to write a lowercase Latin letter on each vertex in such a way that, for each of q given triples, at least one of the following conditions holds:  if you write out the letters on the vertices on the simple path from x_i to y_i in the order they appear on this path, you get the string s_i;  if you write out the letters on the vertices on the simple path from y_i to x_i in the order they appear on this path, you get the string s_i. Find any possible way to write a letter on each vertex to meet these constraints, or report that it is impossible.

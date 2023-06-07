@@ -1,0 +1,9 @@
+Chip Game                    
+
+https://codeforces.com/problemset/problem/1033/G
+
+games
+
+3500
+
+Alice and Bob decided to play one ultimate game. They have n piles, the i-th pile initially contain v_i chips. Alice selects a positive integer a from interval [1, m], and Bob selects a number b the same way. Then the game starts. In her turn, Alice can select any pile containing at least a chips, and remove exactly a chips from it. Similarly, in his turn, Bob can choose any pile with at least b chips, and remove exactly b chips from it. If a player cannot make a move, he or she loses. If both players play optimally, the outcome ultimately depends on the choice of a and b, and on the starting player. Consider a fixed pair (a,b). There are four types of games:   Alice wins, regardless of who starts.  Bob wins, regardless of who starts.  If Alice starts, she wins. If Bob starts, he wins. We say that the first player wins.  If Alice starts, Bob wins. If Bob starts, Alice wins. We say that the second player wins. Among all choices of a and b (i.e. for each pair (a, b) such that 1\leq a, b\leq m), determine how many games are won by Alice (regardless of who starts), how many are won by Bob (regardless of who starts), how many are won by the first player, and how many are won by the second player. 

@@ -1,0 +1,9 @@
+Sea Battle                    
+
+httpscodeforcescomproblemsetproblem729D
+
+constructive algorithms
+
+1700
+
+Galya is playing onedimensional Sea Battle on a 1n grid In this game a ships are placed on the grid Each of the ships consists of b consecutive cells No cell can be part of two ships however the ships can touch each otherGalya doesnt know the ships location She can shoot to some cells and after each shot she is told if that cell was a part of some ship this case is called hit or not this case is called missGalya has already made k shots all of them were missesYour task is to calculate the minimum number of cells such that if Galya shoot at all of them she would hit at least one shipIt is guaranteed that there is at least one valid ships placement

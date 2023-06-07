@@ -1,0 +1,9 @@
+Nice table                    
+
+https://codeforces.com/problemset/problem/1098/B
+
+brute force
+
+2100
+
+You are given an n \times m table, consisting of characters «A», «G», «C», «T». Let's call a table nice, if every 2 \times 2 square contains all four distinct characters. Your task is to find a nice table (also consisting of «A», «G», «C», «T»), that differs from the given table in the minimum number of characters.

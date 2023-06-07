@@ -1,0 +1,9 @@
+Equilibrium                    
+
+https://codeforces.com/problemset/problem/1556/E
+
+data structures
+
+2200
+
+  William has two arrays a and b, each consisting of n items.For some segments l..r of these arrays William wants to know if it is possible to equalize the values of items in these segments using a balancing operation. Formally, the values are equalized if for each i from l to r holds a_i = b_i.To perform a balancing operation an even number of indices must be selected, such that l \le pos_1 < pos_2 < \dots < pos_k \le r. Next the items of array a at positions pos_1, pos_3, pos_5, \dots get incremented by one and the items of array b at positions pos_2, pos_4, pos_6, \dots get incremented by one.William wants to find out if it is possible to equalize the values of elements in two arrays for each segment using some number of balancing operations, and what is the minimal number of operations required for that. Note that for each segment the operations are performed independently.

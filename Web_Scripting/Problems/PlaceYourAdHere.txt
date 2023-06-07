@@ -1,0 +1,9 @@
+Place Your Ad Here                    
+
+httpscodeforcescomproblemsetproblem542A
+
+data structures
+
+2400
+
+Ivan Anatolyevichs agency is starting to become famous in the town They have already ordered and made n TV commercial videos Each video is made in a special way the colors and the soundtrack are adjusted to the time of the day and the viewers mood Thats why the ith video can only be shown within the time range of liri it is not necessary to use the whole segment but the broadcast time should be within this segmentNow its time to choose a TV channel to broadcast the commercial Overall there are m TV channels broadcasting in the city the jth one has cj viewers and is ready to sell time ajbj to broadcast the commercialIvan Anatolyevich is facing a hard choice he has to choose exactly one video i and exactly one TV channel j to broadcast this video and also a time range to broadcast xy At that the time range should be chosen so that it is both within range liri and within range ajbjLets define the efficiency of the broadcast as value yxcj  the total sum of time that all the viewers of the TV channel are going to spend watching the commercial Help Ivan Anatolyevich choose the broadcast with the maximum efficiency

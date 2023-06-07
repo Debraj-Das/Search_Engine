@@ -1,0 +1,9 @@
+Epic Novel                    
+
+httpscodeforcescomproblemsetproblem1571B
+
+special problem
+
+1300
+
+Alex has bought a new novel that was published in n volumes He has read these volumes one by one and each volume has taken him several maybe one full days to read So on the first day he was reading the first volume and on each of the following days he was reading either the same volume he had been reading on the previous day or the next volumeLet vi be the number of the volume Alex was reading on the ith day Here are some examples  one of the possible situations is v1  1 v2  1 v3  2 v4  3 v5  3 this situation means that Alex has spent two days 1st and 2nd on the first volume one day 3rd on the second volume and two days 4th and 5th on the third volume  a situation v1  2 v2  2 v3  3 is impossible since Alex started with the first volume so v1 cannot be anything but 1  a situation v1  1 v2  2 v3  3 v4  1 is impossible since Alex wont return to the first volume after reading the third one  a situation v1  1 v2  3 is impossible since Alex doesnt skip volumes You know that Alex was reading the volume va on the day a and the volume vc on the day c Now you want to guess which volume was he reading on the day b which is between the days a and c so a  b  c There may be some ambiguity so you want to make any valid guess ie choose some volume number vb so its possible that Alex was reading volume va on day a volume vb on day b and volume vc on day c

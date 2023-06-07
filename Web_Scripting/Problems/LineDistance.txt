@@ -1,0 +1,9 @@
+Line Distance                    
+
+https://codeforces.com/problemset/problem/1446/F
+
+binary search
+
+3200
+
+You are given an integer k and n distinct points with integer coordinates on the Euclidean plane, the i-th point has coordinates (x_i, y_i).Consider a list of all the \frac{n(n - 1)}{2} pairs of points ((x_i, y_i), (x_j, y_j)) (1 \le i < j \le n). For every such pair, write out the distance from the line through these two points to the origin (0, 0).Your goal is to calculate the k-th smallest number among these distances.

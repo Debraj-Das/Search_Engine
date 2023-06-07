@@ -1,0 +1,9 @@
+Mystic Permutation                    
+
+https://codeforces.com/problemset/problem/1689/B
+
+data structures
+
+900
+
+Monocarp is a little boy who lives in Byteland and he loves programming.Recently, he found a permutation of length n. He has to come up with a mystic permutation. It has to be a new permutation such that it differs from the old one in each position.More formally, if the old permutation is p_1,p_2,\ldots,p_n and the new one is q_1,q_2,\ldots,q_n it must hold that p_1\neq q_1, p_2\neq q_2, \ldots ,p_n\neq q_n.Monocarp is afraid of lexicographically large permutations. Can you please help him to find the lexicographically minimal mystic permutation?

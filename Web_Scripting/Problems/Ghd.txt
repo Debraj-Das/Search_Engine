@@ -1,0 +1,9 @@
+Ghd                    
+
+httpscodeforcescomproblemsetproblem364D
+
+brute force
+
+2900
+
+John Doe offered his sister Jane Doe find the gcd of some set of numbers aGcd is a positive integer g such that all number from the set are evenly divisible by g and there isnt such g gg that all numbers of the set are evenly divisible by gUnfortunately Jane couldnt cope with the task and John offered her to find the ghd of the same subset of numbersGhd is a positive integer g such that at least half of numbers from the set are evenly divisible by g and there isnt such g gg that at least half of the numbers from the set are evenly divisible by gJane coped with the task for two hours Please try it too

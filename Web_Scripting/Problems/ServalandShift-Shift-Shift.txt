@@ -1,0 +1,9 @@
+Serval and Shift-Shift-Shift                    
+
+https://codeforces.com/problemset/problem/1789/D
+
+bitmasks
+
+2200
+
+Serval has two n-bit binary integer numbers a and b. He wants to share those numbers with Toxel.Since Toxel likes the number b more, Serval decides to change a into b by some (possibly zero) operations. In an operation, Serval can choose any positive integer k between 1 and n, and change a into one of the following number:  a\oplus(a\ll k)  a\oplus(a\gg k) In other words, the operation moves every bit of a left or right by k positions, where the overflowed bits are removed, and the missing bits are padded with 0. The bitwise XOR of the shift result and the original a is assigned back to a.Serval does not have much time. He wants to perform no more than n operations to change a into b. Please help him to find out an operation sequence, or determine that it is impossible to change a into b in at most n operations. You do not need to minimize the number of operations. In this problem, x\oplus y denotes the bitwise XOR operation of x and y. a\ll k and a\gg k denote the logical left shift and logical right shift.

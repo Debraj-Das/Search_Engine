@@ -1,0 +1,9 @@
+Convex Shape                    
+
+httpscodeforcescomproblemsetproblem275B
+
+constructive algorithms
+
+1700
+
+Consider an nm grid Initially all the cells of the grid are colored white Lenny has painted some of the cells at least one black We call a painted grid convex if one can walk from any black cell to any another black cell using a path of sideadjacent black cells changing his direction at most once during the path In the figure below the left grid is convex while the right one is not convex because there exist two cells which need more than one time to change direction in their path  Youre given a painted grid in the input Tell Lenny if the grid is convex or not

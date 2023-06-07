@@ -1,0 +1,9 @@
+Double Tree                    
+
+https://codeforces.com/problemset/problem/1140/G
+
+data structures
+
+2700
+
+You are given a special undirected graph. It consists of 2n vertices numbered from 1 to 2n. The following properties hold for the graph: there are exactly 3n-2 edges in the graph: n edges connect vertices having odd numbers with vertices having even numbers, n - 1 edges connect vertices having odd numbers with each other, and n - 1 edges connect vertices having even numbers with each other;  for each edge (u, v) between a pair of vertices with odd numbers, there exists an edge (u + 1, v + 1), and vice versa;  for each odd number u \in [1, 2n - 1], there exists an edge (u, u + 1);  the graph is connected; moreover, if we delete all vertices with even numbers from it, and all edges incident to them, the graph will become a tree (the same applies to deleting odd vertices).So, the graph can be represented as two trees having the same structure, and n edges connecting each vertex of the first tree to the corresponding vertex of the second tree.Edges of the graph are weighted. The length of some simple path in the graph is the sum of weights of traversed edges.You are given q queries to this graph; in each query, you are asked to compute the length of the shortest path between some pair of vertices in this graph. Can you answer all of the queries?

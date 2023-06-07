@@ -1,0 +1,9 @@
+Mister B and PR Shifts                    
+
+httpscodeforcescomproblemsetproblem819B
+
+data structures
+
+1900
+
+Some time ago Mister B detected a strange signal from the space which he started to studyAfter some transformation the signal turned out to be a permutation p of length n or its cyclic shift For the further investigation Mister B need some basis thats why he decided to choose cyclic shift of this permutation which has the minimum possible deviationLets define the deviation of a permutation p as Find a cyclic shift of permutation p with minimum possible deviation If there are multiple solutions print any of themLets denote id k 0kn of a cyclic shift of permutation p as the number of right shifts needed to reach this shift for example  k0 shift p1p2 pn  k1 shift pnp1 pn1    kn1 shift p2p3 pnp1 

@@ -1,0 +1,9 @@
+KPeriodic Array                    
+
+httpscodeforcescomproblemsetproblem371A
+
+greedy
+
+1000
+
+This task will exclusively concentrate only on the arrays where all elements equal 1 andor 2Array a is kperiod if its length is divisible by k and there is such array b of length k that a is represented by array b written exactly  times consecutively In other words array a is kperiodic if it has period of length kFor example any array is nperiodic where n is the array length Array 212121 is at the same time 2periodic and 6periodic and array 121121121 is at the same time 3periodic and 9periodicFor the given array a consisting only of numbers one and two find the minimum number of elements to change to make the array kperiodic If the array already is kperiodic then the required value equals 0

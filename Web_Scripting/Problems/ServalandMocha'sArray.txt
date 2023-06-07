@@ -1,0 +1,9 @@
+Serval and Mocha's Array                    
+
+https://codeforces.com/problemset/problem/1789/A
+
+brute force
+
+800
+
+Mocha likes arrays, and Serval gave her an array consisting of positive integers as a gift.Mocha thinks that for an array of positive integers a, it is good iff the greatest common divisor of all the elements in a is no more than its length. And for an array of at least 2 positive integers, it is beautiful iff all of its prefixes whose length is no less than 2 are good. For example:  [3,6] is not good, because \gcd(3,6)=3 is greater than its length 2.  [1,2,4] is both good and beautiful, because all of its prefixes whose length is no less than 2, which are [1,2] and [1,2,4], are both good.  [3,6,1] is good but not beautiful, because [3,6] is not good. Now Mocha gives you the gift array a of n positive integers, and she wants to know whether array a could become beautiful by reordering the elements in a. It is allowed to keep the array a unchanged.

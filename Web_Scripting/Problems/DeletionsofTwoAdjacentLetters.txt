@@ -1,0 +1,9 @@
+Deletions of Two Adjacent Letters                    
+
+https://codeforces.com/problemset/problem/1650/A
+
+implementation
+
+800
+
+The string s is given, the string length is odd number. The string consists of lowercase letters of the Latin alphabet.As long as the string length is greater than 1, the following operation can be performed on it: select any two adjacent letters in the string s and delete them from the string. For example, from the string "lemma" in one operation, you can get any of the four strings: "mma", "lma", "lea" or "lem" In particular, in one operation, the length of the string reduces by 2.Formally, let the string s have the form s=s_1s_2 \dots s_n (n>1). During one operation, you choose an arbitrary index i (1 \le i < n) and replace s=s_1s_2 \dots s_{i-1}s_{i+2} \dots s_n.For the given string s and the letter c, determine whether it is possible to make such a sequence of operations that in the end the equality s=c will be true? In other words, is there such a sequence of operations that the process will end with a string of length 1, which consists of the letter c?

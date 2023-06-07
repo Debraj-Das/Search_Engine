@@ -1,0 +1,9 @@
+Best Pair                    
+
+https://codeforces.com/problemset/problem/1637/E
+
+binary search
+
+2100
+
+You are given an array a of length n. Let cnt_x be the number of elements from the array which are equal to x. Let's also define f(x, y) as (cnt_x + cnt_y) \cdot (x + y).Also you are given m bad pairs (x_i, y_i). Note that if (x, y) is a bad pair, then (y, x) is also bad.Your task is to find the maximum value of f(u, v) over all pairs (u, v), such that u \neq v, that this pair is not bad, and also that u and v each occur in the array a. It is guaranteed that such a pair exists.

@@ -1,0 +1,9 @@
+Vlad and Candies                    
+
+https://codeforces.com/problemset/problem/1660/B
+
+math
+
+800
+
+Not so long ago, Vlad had a birthday, for which he was presented with a package of candies. There were n types of candies, there are a_i candies of the type i (1 \le i \le n).Vlad decided to eat exactly one candy every time, choosing any of the candies of a type that is currently the most frequent (if there are several such types, he can choose any of them). To get the maximum pleasure from eating, Vlad does not want to eat two candies of the same type in a row.Help him figure out if he can eat all the candies without eating two identical candies in a row.

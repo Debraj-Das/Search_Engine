@@ -1,0 +1,9 @@
+Bear and Compressing                    
+
+httpscodeforcescomproblemsetproblem653B
+
+brute force
+
+1300
+
+Limak is a little polar bear Polar bears hate long strings and thus they like to compress them You should also know that Limak is so young that he knows only first six letters of the English alphabet a b c d e and fYou are given a set of q possible operations Limak can perform them in any order any operation may be applied any number of times The ith operation is described by a string ai of length two and a string bi of length one No two of q possible operations have the same string aiWhen Limak has a string s he can perform the ith operation on s if the first two letters of s match a twoletter string ai Performing the ith operation removes first two letters of s and inserts there a string bi See the notes section for further clarificationYou may note that performing an operation decreases the length of a string s exactly by 1 Also for some sets of operations there may be a string that cannot be compressed any further because the first two letters dont match any aiLimak wants to start with a string of length n and perform n1 operations to finally get a oneletter string a In how many ways can he choose the starting string to be able to get a Remember that Limak can use only letters he knows

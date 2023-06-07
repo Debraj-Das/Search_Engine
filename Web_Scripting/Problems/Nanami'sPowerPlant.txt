@@ -1,0 +1,9 @@
+Nanamis Power Plant                    
+
+httpscodeforcescomproblemsetproblem434D
+
+flows
+
+2900
+
+Nanami likes playing games and is also really good at it This day she was playing a new game which involved operating a power plant Nanamis job is to control the generators in the plant and produce maximum outputThere are n generators in the plant Each generator should be set to a generating level Generating level is an integer possibly zero or negative the generating level of the ith generator should be between li and ri both inclusive The output of a generator can be calculated using a certain quadratic function fx where x is the generating level of the generator Each generator has its own function the function of the ith generator is denoted as fixHowever there are m further restrictions to the generators Let the generating level of the ith generator be xi Each restriction is of the form xuxvd where u and v are IDs of two different generators and d is an integerNanami found the game tedious but giving up is against her creed So she decided to have a program written to calculate the answer for her the maximum total output of generators Somehow this became your job

@@ -1,0 +1,9 @@
+Block Tower                    
+
+httpscodeforcescomproblemsetproblem327D
+
+constructive algorithms
+
+1900
+
+After too much playing on paper Iahub has switched to computer games The game he plays is called Block Towers It is played in a rectangular grid with n rows and m columns it contains nm cells The goal of the game is to build your own city Some cells in the grid are big holes where Iahub cant build any building The rest of cells are empty In some empty cell Iahub can build exactly one tower of two following types  Blue towers Each has population limit equal to 100  Red towers Each has population limit equal to 200 However it can be built in some cell only if in that moment at least one of the neighbouring cells has a Blue Tower Two cells are neighbours is they share a side Iahub is also allowed to destroy a building from any cell He can do this operation as much as he wants After destroying a building the other buildings are not influenced and the destroyed cell becomes empty so Iahub can build a tower in this cell if needed see the second example for such a caseIahub can convince as many population as he wants to come into his city So he needs to configure his city to allow maximum population possible Therefore he should find a sequence of operations that builds the city in an optimal way so that total population limit is as large as possibleHe says hes the best at this game but he doesnt have the optimal solution Write a program that calculates the optimal one to show him that hes not as good as he thinks 

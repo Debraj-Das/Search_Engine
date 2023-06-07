@@ -1,0 +1,9 @@
+Yet Another Task with Queens                    
+
+httpscodeforcescomproblemsetproblem131E
+
+sortings
+
+1700
+
+A queen is the strongest chess piece In modern chess the queen can move any number of squares in any horizontal vertical or diagonal direction considering that therere no other pieces on its way The queen combines the options given to the rook and the bishopThere are m queens on a square nn chessboard You know each queens positions the ith queen is positioned in the square rici where ri is the board row number numbered from the top to the bottom from 1 to n and ci is the boards column number numbered from the left to the right from 1 to n No two queens share the same positionFor each queen one can count w  the number of other queens that the given queen threatens attacks For a fixed attack direction only the first queen in this direction is under attack if there are many queens are on the ray of the attack Obviously for any queen w is between 0 and 8 inclusivePrint the sequence t0t1t8 where ti is the number of queens that threaten exactly i other queens ie the number of queens that their w equals i

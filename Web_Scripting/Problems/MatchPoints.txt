@@ -1,0 +1,9 @@
+Match Points                    
+
+https://codeforces.com/problemset/problem/1156/C
+
+binary search
+
+2000
+
+You are given a set of points x_1, x_2, ..., x_n on the number line.Two points i and j can be matched with each other if the following conditions hold:  neither i nor j is matched with any other point;  |x_i - x_j| \ge z. What is the maximum number of pairs of points you can match with each other?

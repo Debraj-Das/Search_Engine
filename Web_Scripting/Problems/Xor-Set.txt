@@ -1,0 +1,9 @@
+Xor-Set                    
+
+https://codeforces.com/problemset/problem/1261/F
+
+bitmasks
+
+3100
+
+You are given two sets of integers: A and B. You need to output the sum of elements in the set C = \{x | x = a \oplus b, a \in A, b \in B\} modulo 998244353, where \oplus denotes the bitwise XOR operation. Each number should be counted only once.For example, if A = \{2, 3\} and B = \{2, 3\} you should count integer 1 only once, despite the fact that you can get it as 3 \oplus 2 and as 2 \oplus 3. So the answer for this case is equal to 1 + 0 = 1.Let's call a segment [l; r] a set of integers \{l, l+1, \dots, r\}.The set A is given as a union of n_A segments, the set B is given as a union of n_B segments.

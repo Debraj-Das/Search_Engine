@@ -1,0 +1,9 @@
+Lunatic Never Content                    
+
+https://codeforces.com/problemset/problem/1826/B
+
+math
+
+1100
+
+You have an array a of n non-negative integers. Let's define f(a, x) = [a_1 \bmod x, a_2 \bmod x, \dots, a_n \bmod x] for some positive integer x. Find the biggest x, such that f(a, x) is a palindrome.Here, a \bmod x is the remainder of the integer division of a by x.An array is a palindrome if it reads the same backward as forward. More formally, an array a of length n is a palindrome if for every i (1 \leq i \leq n) a_i = a_{n - i + 1}.

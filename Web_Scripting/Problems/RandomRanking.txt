@@ -1,0 +1,9 @@
+Random Ranking                    
+
+httpscodeforcescomproblemsetproblem303E
+
+dp
+
+3000
+
+Imagine a real contest or exam of n participants Every participant will get a particular score We can predict the standings board more or less if we do some statistics on their previous performance  Lets say the score of the participants will be uniformly distributed in interval liri the score can be a real number Can you predict the standings board according to these data In other words you should say for each participant the probability that he gets some fixed place in the scoreboard The participants are sorted by increasing of their scores in the scoreboard So the participant with the largest score gets the last place

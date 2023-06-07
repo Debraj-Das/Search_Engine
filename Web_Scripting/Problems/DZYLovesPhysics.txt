@@ -1,0 +1,9 @@
+DZY Loves Physics                    
+
+httpscodeforcescomproblemsetproblem444A
+
+greedy
+
+1600
+
+DZY loves Physics and he enjoys calculating densityAlmost everything has density even a graph We define the density of a nondirected graph nodes and edges of the graph have some values as follows  where v is the sum of the values of the nodes e is the sum of the values of the edgesOnce DZY got a graph G now he wants to find a connected induced subgraph G of the graph such that the density of G is as large as possibleAn induced subgraph GVE of a graph GVE is a graph that satisfies    edge  if and only if  and edge   the value of an edge in G is the same as the value of the corresponding edge in G so as the value of a node Help DZY to find the induced subgraph with maximum density Note that the induced subgraph you choose must be connected  

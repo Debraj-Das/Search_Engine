@@ -1,0 +1,9 @@
+Greed                    
+
+httpscodeforcescomproblemsetproblem892A
+
+greedy
+
+900
+
+Jafar has n cans of cola Each can is described by two integers remaining volume of cola ai and cans capacity bi ai  biJafar has decided to pour all remaining cola into just 2 cans determine if he can do this or not

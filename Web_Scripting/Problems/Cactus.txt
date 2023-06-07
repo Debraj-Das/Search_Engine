@@ -1,0 +1,9 @@
+Cactus                    
+
+httpscodeforcescomproblemsetproblem231E
+
+data structures
+
+2100
+
+A connected undirected graph is called a vertex cactus if each vertex of this graph belongs to at most one simple cycleA simple cycle in a undirected graph is a sequence of distinct vertices v1v2vt t2 such that for any i 1it exists an edge between vertices vi and vi1 and also exists an edge between vertices v1 and vtA simple path in a undirected graph is a sequence of not necessarily distinct vertices v1v2vt t0 such that for any i 1it exists an edge between vertices vi and vi1 and furthermore each edge occurs no more than once Well say that a simple path v1v2vt starts at vertex v1 and ends at vertex vtYouve got a graph consisting of n vertices and m edges that is a vertex cactus Also youve got a list of k pairs of interesting vertices xiyi for which you want to know the following information  the number of distinct simple paths that start at vertex xi and end at vertex yi We will consider two simple paths distinct if the sets of edges of the paths are distinctFor each pair of interesting vertices count the number of distinct simple paths between them As this number can be rather large you should calculate it modulo 1000000007 1097 

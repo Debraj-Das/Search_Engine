@@ -1,0 +1,9 @@
+Hossam and Trainees                    
+
+https://codeforces.com/problemset/problem/1771/C
+
+greedy
+
+1600
+
+Hossam has n trainees. He assigned a number a_i for the i-th trainee. A pair of the i-th and j-th (i \neq j) trainees is called successful if there is an integer x (x \geq 2), such that x divides a_i, and x divides a_j.Hossam wants to know if there is a successful pair of trainees.Hossam is very tired now, so he asks you for your help!

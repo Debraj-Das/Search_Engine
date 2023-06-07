@@ -1,0 +1,9 @@
+Priority Queue                    
+
+https://codeforces.com/problemset/problem/1542/D
+
+combinatorics
+
+2200
+
+You are given a sequence A, where its elements are either in the form + x or -, where x is an integer.For such a sequence S where its elements are either in the form + x or -, define f(S) as follows:  iterate through S's elements from the first one to the last one, and maintain a multiset T as you iterate through it.  for each element, if it's in the form + x, add x to T; otherwise, erase the smallest element from T (if T is empty, do nothing).  after iterating through all S's elements, compute the sum of all elements in T. f(S) is defined as the sum. The sequence b is a subsequence of the sequence a if b can be derived from a by removing zero or more elements without changing the order of the remaining elements. For all A's subsequences B, compute the sum of f(B), modulo 998\,244\,353.

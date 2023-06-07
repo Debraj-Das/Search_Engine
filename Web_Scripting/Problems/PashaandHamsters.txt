@@ -1,0 +1,9 @@
+Pasha and Hamsters                    
+
+https://codeforces.com/problemset/problem/421/A
+
+constructive algorithms
+
+800
+
+Pasha has two hamsters: Arthur and Alexander. Pasha put n apples in front of them. Pasha knows which apples Arthur likes. Similarly, Pasha knows which apples Alexander likes. Pasha doesn't want any conflict between the hamsters (as they may like the same apple), so he decided to distribute the apples between the hamsters on his own. He is going to give some apples to Arthur and some apples to Alexander. It doesn't matter how many apples each hamster gets but it is important that each hamster gets only the apples he likes. It is possible that somebody doesn't get any apples.Help Pasha distribute all the apples between the hamsters. Note that Pasha wants to distribute all the apples, not just some of them.

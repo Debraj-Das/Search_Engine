@@ -1,0 +1,9 @@
+Producing Snow                    
+
+https://codeforces.com/problemset/problem/923/B
+
+binary search
+
+1600
+
+Alice likes snow a lot! Unfortunately, this year's winter is already over, and she can't expect to have any more of it. Bob has thus bought her a gift — a large snow maker. He plans to make some amount of snow every day. On day i he will make a pile of snow of volume Vi and put it in her garden.Each day, every pile will shrink a little due to melting. More precisely, when the temperature on a given day is Ti, each pile will reduce its volume by Ti. If this would reduce the volume of a pile to or below zero, it disappears forever. All snow piles are independent of each other. Note that the pile made on day i already loses part of its volume on the same day. In an extreme case, this may mean that there are no piles left at the end of a particular day.You are given the initial pile sizes and the temperature on each day. Determine the total volume of snow melted on each day. 

@@ -1,0 +1,9 @@
+Hard Cut                    
+
+https://codeforces.com/problemset/problem/1684/H
+
+constructive algorithms
+
+3400
+
+You are given a binary string s. You have to cut it into any number of non-intersecting substrings, so that the sum of binary integers denoted by these substrings is a power of 2. Each element of s should be in exactly one substring.

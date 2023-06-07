@@ -1,0 +1,9 @@
+Two Rival Students                    
+
+https://codeforces.com/problemset/problem/1257/A
+
+greedy
+
+800
+
+You are the gym teacher in the school.There are n students in the row. And there are two rivalling students among them. The first one is in position a, the second in position b. Positions are numbered from 1 to n from left to right.Since they are rivals, you want to maximize the distance between them. If students are in positions p and s respectively, then distance between them is |p - s|. You can do the following operation at most x times: choose two adjacent (neighbouring) students and swap them.Calculate the maximum distance between two rivalling students after at most x swaps.

@@ -1,0 +1,9 @@
+XOR Counting                    
+
+https://codeforces.com/problemset/problem/1815/D
+
+bitmasks
+
+2600
+
+Given two positive integers n and m. Find the sum of all possible values of a_1\bigoplus a_2\bigoplus\ldots\bigoplus a_m, where a_1,a_2,\ldots,a_m are non-negative integers such that a_1+a_2+\ldots+a_m=n.Note that all possible values a_1\bigoplus a_2\bigoplus\ldots\bigoplus a_m should be counted in the sum exactly once.As the answer may be too large, output your answer modulo 998244353.Here, \bigoplus denotes the bitwise XOR operation.

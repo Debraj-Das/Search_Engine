@@ -1,0 +1,9 @@
+Running Miles                    
+
+https://codeforces.com/problemset/problem/1826/D
+
+brute force
+
+1700
+
+There is a street with n sights, with sight number i being i miles from the beginning of the street. Sight number i has beauty b_i. You want to start your morning jog l miles and end it r miles from the beginning of the street. By the time you run, you will see sights you run by (including sights at l and r miles from the start). You are interested in the 3 most beautiful sights along your jog, but every mile you run, you get more and more tired.So choose l and r, such that there are at least 3 sights you run by, and the sum of beauties of the 3 most beautiful sights minus the distance in miles you have to run is maximized. More formally, choose l and r, such that b_{i_1} + b_{i_2} + b_{i_3} - (r - l) is maximum possible, where i_1, i_2, i_3 are the indices of the three maximum elements in range [l, r].

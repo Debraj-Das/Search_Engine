@@ -1,0 +1,9 @@
+Serval and Inversion Magic                    
+
+https://codeforces.com/problemset/problem/1789/B
+
+brute force
+
+800
+
+Serval has a string s that only consists of 0 and 1 of length n. The i-th character of s is denoted as s_i, where 1\leq i\leq n.Serval can perform the following operation called Inversion Magic on the string s:  Choose an segment [l, r] (1\leq l\leq r\leq n). For l\leq i\leq r, change s_i into 1 if s_i is 0, and change s_i into 0 if s_i is 1. For example, let s be 010100 and the segment [2,5] is chosen. The string s will be 001010 after performing the Inversion Magic.Serval wants to make s a palindrome after performing Inversion Magic exactly once. Help him to determine whether it is possible.A string is a palindrome iff it reads the same backwards as forwards. For example, 010010 is a palindrome but 10111 is not.

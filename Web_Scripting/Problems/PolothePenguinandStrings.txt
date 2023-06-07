@@ -1,0 +1,9 @@
+Polo the Penguin and Strings                    
+
+httpscodeforcescomproblemsetproblem288A
+
+greedy
+
+1300
+
+Little penguin Polo adores strings But most of all he adores strings of length nOne day he wanted to find a string that meets the following conditions  The string consists of n lowercase English letters that is the strings length equals n exactly k of these letters are distinct  No two neighbouring letters of a string coincide that is if we represent a string as ss1s2 sn then the following inequality holds sisi11in  Among all strings that meet points 1 and 2 the required string is lexicographically smallest Help him find such string or state that such string doesnt existString xx1x2 xp is lexicographically less than string yy1y2 yq if either pq and x1y1x2y2 xpyp or there is such number r rprq that x1y1x2y2 xryr and xr1yr1 The characters of the strings are compared by their ASCII codes

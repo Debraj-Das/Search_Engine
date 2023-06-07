@@ -1,0 +1,9 @@
+Tournamentgraph                    
+
+httpscodeforcescomproblemsetproblem323B
+
+constructive algorithms
+
+2200
+
+In this problem you have to build tournament graph consisting of n vertices such that for any oriented pair of vertices vu vu there exists a path from vertex v to vertex u consisting of no more then two edgesA directed graph without selfloops is a tournament if there is exactly one edge between any two distinct vertices in one out of two possible directions

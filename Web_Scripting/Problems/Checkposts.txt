@@ -1,0 +1,9 @@
+Checkposts                    
+
+httpscodeforcescomproblemsetproblem427C
+
+dfs and similar
+
+1700
+
+Your city has n junctions There are m oneway roads between the junctions As a mayor of the city you have to ensure the security of all the junctionsTo ensure the security you have to build some police checkposts Checkposts can only be built in a junction A checkpost at junction i can protect junction j if either ij or the police patrol car can go to j from i and then come back to iBuilding checkposts costs some money As some areas of the city are more expensive than others building checkpost at some junctions might cost more money than other junctionsYou have to determine the minimum possible money needed to ensure the security of all the junctions Also you have to find the number of ways to ensure the security in minimum price and in addition in minimum number of checkposts Two ways are different if any of the junctions contains a checkpost in one of them and do not contain in the other

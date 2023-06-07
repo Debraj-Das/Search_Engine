@@ -1,0 +1,9 @@
+Multiples and Power Differences                    
+
+https://codeforces.com/problemset/problem/1485/D
+
+constructive algorithms
+
+2200
+
+You are given a matrix a consisting of positive integers. It has n rows and m columns.Construct a matrix b consisting of positive integers. It should have the same size as a, and the following conditions should be met:   1 \le b_{i,j} \le 10^6;  b_{i,j} is a multiple of a_{i,j};  the absolute value of the difference between numbers in any adjacent pair of cells (two cells that share the same side) in b is equal to k^4 for some integer k \ge 1 (k is not necessarily the same for all pairs, it is own for each pair). We can show that the answer always exists.

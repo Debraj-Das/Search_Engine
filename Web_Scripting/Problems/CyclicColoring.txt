@@ -1,0 +1,9 @@
+Cyclic Coloring                    
+
+httpscodeforcescomproblemsetproblem183C
+
+dfs and similar
+
+2200
+
+You are given a directed graph G with n vertices and m arcs multiple arcs and selfloops are allowed You have to paint each vertex of the graph into one of the k kn colors in such way that for all arcs of the graph leading from a vertex u to vertex v vertex v is painted with the next color of the color used to paint vertex uThe colors are numbered cyclically 1 through k This means that for each color i ik its next color is color i1 In addition the next color of color k is color 1 Note that if k1 then the next color for color 1 is again color 1Your task is to find and print the largest possible value of k kn such that its possible to color G as described above with k colors Note that you dont necessarily use all the k colors that is for each color i there does not necessarily exist a vertex that is colored with color i

@@ -1,0 +1,9 @@
+The Number Games                    
+
+https://codeforces.com/problemset/problem/980/E
+
+data structures
+
+2200
+
+The nation of Panel holds an annual show called The Number Games, where each district in the nation will be represented by one contestant.The nation has n districts numbered from 1 to n, each district has exactly one path connecting it to every other district. The number of fans of a contestant from district i is equal to 2^i.This year, the president decided to reduce the costs. He wants to remove k contestants from the games. However, the districts of the removed contestants will be furious and will not allow anyone to cross through their districts. The president wants to ensure that all remaining contestants are from districts that can be reached from one another. He also wishes to maximize the total number of fans of the participating contestants.Which contestants should the president remove?

@@ -1,0 +1,9 @@
+Startup Funding                    
+
+httpscodeforcescomproblemsetproblem633E
+
+binary search
+
+2400
+
+An ecommerce startup pitches to the investors to get funding They have been functional for n weeks now and also have a websiteFor each week they know the number of unique visitors during this week vi and the revenue ci To evaluate the potential of the startup at some range of weeks from l to r inclusive investors use the minimum among the maximum number of visitors multiplied by 100 and the minimum revenue during this period that is The truth is that investors have no idea how to efficiently evaluate the startup so they are going to pick some k random distinct weeks li and give them to managers of the startup For each li they should pick some rili and report maximum number of visitors and minimum revenue during this periodThen investors will calculate the potential of the startup for each of these ranges and take minimum value of pliri as the total evaluation grade of the startup Assuming that managers of the startup always report the optimal values of ri for some particular li ie the value such that the resulting grade of the startup is maximized what is the expected resulting grade of the startup 

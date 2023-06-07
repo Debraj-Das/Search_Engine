@@ -1,0 +1,9 @@
+Ebony and Ivory                    
+
+https://codeforces.com/problemset/problem/633/A
+
+brute force
+
+1100
+
+Dante is engaged in a fight with "The Savior". Before he can fight it with his sword, he needs to break its shields. He has two guns, Ebony and Ivory, each of them is able to perform any non-negative number of shots.For every bullet that hits the shield, Ebony deals a units of damage while Ivory deals b units of damage. In order to break the shield Dante has to deal exactly c units of damage. Find out if this is possible.

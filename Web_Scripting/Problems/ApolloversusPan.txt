@@ -1,0 +1,9 @@
+Apollo versus Pan                    
+
+https://codeforces.com/problemset/problem/1466/E
+
+bitmasks
+
+1800
+
+Only a few know that Pan and Apollo weren't only battling for the title of the GOAT musician. A few millenniums later, they also challenged each other in math (or rather in fast calculations). The task they got to solve is the following:Let x_1, x_2, \ldots, x_n be the sequence of n non-negative integers. Find this value: \sum_{i=1}^n \sum_{j=1}^n \sum_{k=1}^n (x_i \, \& \, x_j) \cdot (x_j \, | \, x_k)Here \& denotes the bitwise and, and | denotes the bitwise or.Pan and Apollo could solve this in a few seconds. Can you do it too? For convenience, find the answer modulo 10^9 + 7.

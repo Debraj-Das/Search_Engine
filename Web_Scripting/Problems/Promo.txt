@@ -1,0 +1,9 @@
+Promo                    
+
+https://codeforces.com/problemset/problem/1697/B
+
+greedy
+
+900
+
+The store sells n items, the price of the i-th item is p_i. The store's management is going to hold a promotion: if a customer purchases at least x items, y cheapest of them are free.The management has not yet decided on the exact values of x and y. Therefore, they ask you to process q queries: for the given values of x and y, determine the maximum total value of items received for free, if a customer makes one purchase.Note that all queries are independent; they don't affect the store's stock.

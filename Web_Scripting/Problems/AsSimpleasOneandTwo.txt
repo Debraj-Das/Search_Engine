@@ -1,0 +1,9 @@
+As Simple as One and Two                    
+
+https://codeforces.com/problemset/problem/1276/A
+
+dp
+
+1400
+
+You are given a non-empty string s=s_1s_2\dots s_n, which consists only of lowercase Latin letters. Polycarp does not like a string if it contains at least one string "one" or at least one string "two" (or both at the same time) as a substring. In other words, Polycarp does not like the string s if there is an integer j (1 \le j \le n-2), that s_{j}s_{j+1}s_{j+2}="one" or s_{j}s_{j+1}s_{j+2}="two".For example:  Polycarp does not like strings "oneee", "ontwow", "twone" and "oneonetwo" (they all have at least one substring "one" or "two"),  Polycarp likes strings "oonnee", "twwwo" and "twnoe" (they have no substrings "one" and "two"). Polycarp wants to select a certain set of indices (positions) and remove all letters on these positions. All removals are made at the same time.For example, if the string looks like s="onetwone", then if Polycarp selects two indices 3 and 6, then "onetwone" will be selected and the result is "ontwne".What is the minimum number of indices (positions) that Polycarp needs to select to make the string liked? What should these positions be?

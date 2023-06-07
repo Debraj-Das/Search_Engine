@@ -1,0 +1,9 @@
+Erase Subsequences                    
+
+https://codeforces.com/problemset/problem/1303/E
+
+dp
+
+2200
+
+You are given a string s. You can build new string p from s using the following operation no more than two times:   choose any subsequence s_{i_1}, s_{i_2}, \dots, s_{i_k} where 1 \le i_1 < i_2 < \dots < i_k \le |s|;  erase the chosen subsequence from s (s can become empty);  concatenate chosen subsequence to the right of the string p (in other words, p = p + s_{i_1}s_{i_2}\dots s_{i_k}). Of course, initially the string p is empty. For example, let s = \text{ababcd}. At first, let's choose subsequence s_1 s_4 s_5 = \text{abc} — we will get s = \text{bad} and p = \text{abc}. At second, let's choose s_1 s_2 = \text{ba} — we will get s = \text{d} and p = \text{abcba}. So we can build \text{abcba} from \text{ababcd}.Can you build a given string t using the algorithm above?

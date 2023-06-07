@@ -1,0 +1,9 @@
+Yuezheng Ling and Dynamic Tree                    
+
+https://codeforces.com/problemset/problem/1491/H
+
+data structures
+
+3400
+
+Yuezheng Ling gives Luo Tianyi a tree which has n nodes, rooted at 1. Luo Tianyi will tell you that the parent of the i-th node is a_i (1 \leq a_i<i for 2 \le i \le n), and she will ask you to perform q queries of 2 types: She'll give you three integers l, r and x (2 \le l \le r \le n, 1 \le x \le 10^5). You need to replace a_i with \max(a_i-x,1) for all i with l \leq i \leq r. She'll give you two integers u, v (1 \le u, v \le n). You need to find the LCA of nodes u and v (their lowest common ancestor).

@@ -1,0 +1,9 @@
+Alena And The Heater                    
+
+httpscodeforcescomproblemsetproblem940D
+
+binary search
+
+1600
+
+Weve tried solitary confinement waterboarding and listening to Just In Beaver to no avail We need something extremeLittle Alena got an array as a birthday presentThe array b of length n is obtained from the array a of length n and two integers l and rlr using the following procedureb1b2b3b40For all 5in   bi0 if aiai1ai2ai3ai4r and bi1bi2bi3bi41  bi1 if aiai1ai2ai3ai4l and bi1bi2bi3bi40  bibi1 otherwise You are given arrays a and b of the same length Find two integers l and rlr such that applying the algorithm described above will yield an array b equal to bIts guaranteed that the answer exists

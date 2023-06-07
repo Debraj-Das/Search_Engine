@@ -1,0 +1,9 @@
+Case of Chocolate                    
+
+httpscodeforcescomproblemsetproblem555C
+
+data structures
+
+2200
+
+Andrewid the Android is a galaxyknown detective Now he does not investigate any case and is eating chocolate out of boredomA bar of chocolate can be presented as an nn table where each cell represents one piece of chocolate The columns of the table are numbered from 1 to n from left to right and the rows are numbered from top to bottom Lets call the antidiagonal to be a diagonal that goes the lower left corner to the upper right corner of the table First Andrewid eats all the pieces lying below the antidiagonal Then he performs the following q actions with the remaining triangular part first he chooses a piece on the antidiagonal and either direction up or left and then he begins to eat all the pieces starting from the selected cell moving in the selected direction until he reaches the already eaten piece or chocolate bar edgeAfter each action he wants to know how many pieces he ate as a result of this action

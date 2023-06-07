@@ -1,0 +1,9 @@
+Common Divisor Graph                    
+
+https://codeforces.com/problemset/problem/1553/G
+
+brute force
+
+2700
+
+Consider a sequence of distinct integers a_1, \ldots, a_n, each representing one node of a graph. There is an edge between two nodes if the two values are not coprime, i. e. they have a common divisor greater than 1.There are q queries, in each query, you want to get from one given node a_s to another a_t. In order to achieve that, you can choose an existing value a_i and create new value a_{n+1} = a_i \cdot (1 + a_i), with edges to all values that are not coprime with a_{n+1}. Also, n gets increased by 1. You can repeat that operation multiple times, possibly making the sequence much longer and getting huge or repeated values. What's the minimum possible number of newly created nodes so that a_t is reachable from a_s?Queries are independent. In each query, you start with the initial sequence a given in the input.

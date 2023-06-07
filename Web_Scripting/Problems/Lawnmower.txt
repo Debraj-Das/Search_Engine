@@ -1,0 +1,9 @@
+Lawnmower                    
+
+httpscodeforcescomproblemsetproblem115B
+
+greedy
+
+1500
+
+You have a garden consisting entirely of grass and weeds Your garden is described by an nm grid with rows numbered 1 to n from top to bottom and columns 1 to m from left to right Each cell is identified by a pair rc which means that the cell is located at row r and column c Each cell may contain either grass or weeds For example a 45 garden may look as follows empty cells denote grass  You have a landmower with you to mow all the weeds Initially you are standing with your lawnmower at the topleft corner of the garden That is at cell 11 At any moment of time you are facing a certain direction  either left or right And initially you face rightIn one move you can do either one of these1 Move one cell in the direction that you are facing  if you are facing right move from cell rc to cell rc1     if you are facing left move from cell rc to cell rc1    2 Move one cell down that is from cell rc to cell r1c and change your direction to the opposite one  if you were facing right previously you will face left     if you were facing left previously you will face right    You are not allowed to leave the garden Weeds will be mowed if you and your lawnmower are standing at the cell containing the weeds your direction doesnt matter This action isnt counted as a moveWhat is the minimum number of moves required to mow all the weeds

@@ -1,0 +1,9 @@
+Challenging Cliffs                    
+
+https://codeforces.com/problemset/problem/1537/C
+
+constructive algorithms
+
+1200
+
+You are a game designer and want to make an obstacle course. The player will walk from left to right. You have n heights of mountains already selected and want to arrange them so that the absolute difference of the heights of the first and last mountains is as small as possible. In addition, you want to make the game difficult, and since walking uphill or flat is harder than walking downhill, the difficulty of the level will be the number of mountains i (1 \leq i < n) such that h_i \leq h_{i+1} where h_i is the height of the i-th mountain. You don't want to waste any of the mountains you modelled, so you have to use all of them. From all the arrangements that minimize |h_1-h_n|, find one that is the most difficult. If there are multiple orders that satisfy these requirements, you may find any.

@@ -1,0 +1,9 @@
+A rectangle                    
+
+httpscodeforcescomproblemsetproblem630E
+
+math
+
+1900
+
+Developing tools for creation of locations maps for turnbased fights in a new game Petya faced the following problemA field map consists of hexagonal cells Since locations sizes are going to be big a game designer wants to have a tool for quick filling of a field part with identical enemy units This action will look like following a game designer will select a rectangular area on the map and each cell whose center belongs to the selected rectangle will be filled with the enemy unitMore formally if a game designer selected cells having coordinates x1y1 and x2y2 where x1x2 and y1y2 then all cells having center coordinates xy such that x1xx2 and y1yy2 will be filled Orthogonal coordinates system is set up so that one of cell sides is parallel to OX axis all hexagon centers have integer coordinates and for each integer x there are cells having center with such x coordinate and for each integer y there are cells having center with such y coordinate It is guaranteed that difference x2x1 is divisible by 2Working on the problem Petya decided that before painting selected units he wants to output number of units that will be painted on the mapHelp him implement counting of these units before painting  

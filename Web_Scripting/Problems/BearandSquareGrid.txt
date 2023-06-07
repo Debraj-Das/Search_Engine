@@ -1,0 +1,9 @@
+Bear and Square Grid                    
+
+httpscodeforcescomproblemsetproblem679C
+
+dfs and similar
+
+2400
+
+You have a grid with n rows and n columns Each cell is either empty denoted by  or blocked denoted by XTwo empty cells are directly connected if they share a side Two cells r1c1 located in the row r1 and column c1 and r2c2 are connected if there exists a sequence of empty cells that starts with r1c1 finishes with r2c2 and any two consecutive cells in this sequence are directly connected A connected component is a set of empty cells such that any two cells in the component are connected and there is no cell in this set that is connected to some cell not in this setYour friend Limak is a big grizzly bear He is able to destroy any obstacles in some range More precisely you can choose a square of size kk in the grid and Limak will transform all blocked cells there to empty ones However you can ask Limak to help only onceThe chosen square must be completely inside the grid Its possible that Limak wont change anything because all cells are empty anywayYou like big connected components After Limak helps you what is the maximum possible size of the biggest connected component in the grid

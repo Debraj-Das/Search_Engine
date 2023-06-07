@@ -1,0 +1,9 @@
+Maximize Sum of Digits                    
+
+https://codeforces.com/problemset/problem/770/B
+
+*special problem
+
+1300
+
+Anton has the integer x. He is interested what positive integer, which doesn't exceed x, has the maximum sum of digits.Your task is to help Anton and to find the integer that interests him. If there are several such integers, determine the biggest of them. 

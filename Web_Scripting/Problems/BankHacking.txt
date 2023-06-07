@@ -1,0 +1,9 @@
+Bank Hacking                    
+
+httpscodeforcescomproblemsetproblem796C
+
+constructive algorithms
+
+1900
+
+Although Inzane successfully found his beloved bone Zane his owner has yet to return To search for Zane he would need a lot of money of which he sadly has none To deal with the problem he has decided to hack the banks  There are n banks numbered from 1 to n There are also n1 wires connecting the banks All banks are initially online Each bank also has its initial strength bank i has initial strength aiLet us define some keywords before we proceed Bank i and bank j are neighboring if and only if there exists a wire directly connecting them Bank i and bank j are semineighboring if and only if there exists an online bank k such that bank i and bank k are neighboring and bank k and bank j are neighboringWhen a bank is hacked it becomes offline and no longer online and other banks that are neighboring or semineighboring to it have their strengths increased by 1To start his plan Inzane will choose a bank to hack first Indeed the strength of such bank must not exceed the strength of his computer After this he will repeatedly choose some bank to hack next until all the banks are hacked but he can continue to hack bank x if and only if all these conditions are met  Bank x is online That is bank x is not hacked yet  Bank x is neighboring to some offline bank  The strength of bank x is less than or equal to the strength of Inzanes computer Determine the minimum strength of the computer Inzane needs to hack all the banks

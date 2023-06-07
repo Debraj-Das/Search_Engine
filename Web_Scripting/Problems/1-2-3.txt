@@ -1,0 +1,9 @@
+123                    
+
+httpscodeforcescomproblemsetproblem863C
+
+graphs
+
+1800
+
+Ilya is working for the company that constructs robots Ilya writes programs for entertainment robots and his current project is Bob a newgeneration game robot Ilyas boss wants to know his progress so far Especially he is interested if Bob is better at playing different games than the previous model Alice So now Ilya wants to compare his robots performance in a simple game called 123 This game is similar to the RockPaperScissors game both robots secretly choose a number from the set 123 and say it at the same moment If both robots choose the same number then its a draw and noone gets any points But if chosen numbers are different then one of the robots gets a point 3 beats 2 2 beats 1 and 1 beats 3 Both robots programs make them choose their numbers in such a way that their choice in i1th game depends only on the numbers chosen by them in ith game Ilya knows that the robots will play k games Alice will choose number a in the first game and Bob will choose b in the first game He also knows both robots programs and can tell what each robot will choose depending on their choices in previous game Ilya doesnt want to wait until robots play all k games so he asks you to predict the number of points they will have after the final game 

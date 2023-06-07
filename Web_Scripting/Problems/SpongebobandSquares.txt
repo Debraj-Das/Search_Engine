@@ -1,0 +1,9 @@
+Spongebob and Squares                    
+
+httpscodeforcescomproblemsetproblem599D
+
+brute force
+
+1900
+
+Spongebob is already tired trying to reason his weird actions and calculations so he simply asked you to find all pairs of n and m such that there are exactly x distinct squares in the table consisting of n rows and m columns For example in a 35 table there are 15 squares with side one 8 squares with side two and 3 squares with side three The total number of distinct squares in a 35 table is 158326

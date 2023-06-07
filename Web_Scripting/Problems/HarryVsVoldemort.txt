@@ -1,0 +1,9 @@
+Harry Vs Voldemort                    
+
+httpscodeforcescomproblemsetproblem855G
+
+dfs and similar
+
+3300
+
+After destroying all of Voldemorts Horcruxes Harry and Voldemort are up for the final battle They each cast spells from their wands and the spells collideThe battle scene is Hogwarts which can be represented in the form of a tree There are in total n places in Hogwarts joined using n1 undirected roadsRon who was viewing this battle between Harry and Voldemort wondered how many triplets of places uvw are there such that if Harry is standing at place u and Voldemort is standing at place v their spells collide at a place w This is possible for a triplet only when u v and w are distinct and there exist paths from u to w and from v to w which do not pass through the same roadsNow due to the battle havoc new paths are being added all the time You have to tell Ron the answer after each additionFormally you are given a tree with n vertices and n1 edges q new edges are being added between the nodes of the tree After each addition you need to tell the number of triplets uvw such that u v and w are distinct and there exist two paths one between u and w another between v and w such that these paths do not have an edge in common

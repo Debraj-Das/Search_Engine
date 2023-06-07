@@ -1,0 +1,9 @@
+Addition on Segments                    
+
+https://codeforces.com/problemset/problem/981/E
+
+bitmasks
+
+2200
+
+Grisha come to a contest and faced the following problem.You are given an array of size n, initially consisting of zeros. The elements of the array are enumerated from 1 to n. You perform q operations on the array. The i-th operation is described with three integers l_i, r_i and x_i (1 \leq l_i \leq r_i \leq n, 1 \leq x_i \leq n) and means that you should add x_i to each of the elements with indices l_i, l_i + 1, \ldots, r_i. After all operations you should find the maximum in the array.Grisha is clever, so he solved the problem quickly.However something went wrong inside his head and now he thinks of the following question: "consider we applied some subset of the operations to the array. What are the possible values of the maximum in the array?"Help Grisha, find all integers y between 1 and n such that if you apply some subset (possibly empty) of the operations, then the maximum in the array becomes equal to y.

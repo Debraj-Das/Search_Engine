@@ -1,0 +1,9 @@
+May Holidays                    
+
+https://codeforces.com/problemset/problem/925/E
+
+data structures
+
+2900
+
+It's May in Flatland, and there are m days in this month. Despite the fact that May Holidays are canceled long time ago, employees of some software company still have a habit of taking short or long vacations in May.Of course, not all managers of the company like this. There are n employees in the company that form a tree-like structure of subordination: each employee has a unique integer id i between 1 and n, and each employee with id i (except the head manager whose id is 1) has exactly one direct manager with id p_i. The structure of subordination is not cyclic, i.e. if we start moving from any employee to his direct manager, then we will eventually reach the head manager. We define that an employee u is a subordinate of an employee v, if v is a direct manager of u, or the direct manager of u is a subordinate of v. Let s_i be the number of subordinates the i-th employee has (for example, s_1 = n - 1, because all employees except himself are subordinates of the head manager).Each employee i has a bearing limit of t_i, which is an integer between 0 and s_i. It denotes the maximum number of the subordinates of the i-th employee being on vacation at the same moment that he can bear. If at some moment strictly more than t_i subordinates of the i-th employee are on vacation, and the i-th employee himself is not on a vacation, he becomes displeased.In each of the m days of May exactly one event of the following two types happens: either one employee leaves on a vacation at the beginning of the day, or one employee returns from a vacation in the beginning of the day. You know the sequence of events in the following m days. Your task is to compute for each of the m days the number of displeased employees on that day.

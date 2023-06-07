@@ -1,0 +1,9 @@
+Entangled Substrings                    
+
+https://codeforces.com/problemset/problem/1817/F
+
+string suffix structures
+
+3500
+
+Quantum entanglement is when two particles link together in a certain way no matter how far apart they are in space.You are given a string s. A pair of its non-empty substrings (a, b) is called entangled if there is a (possibly empty) link string c such that:  Every occurrence of a in s is immediately followed by cb;  Every occurrence of b in s is immediately preceded by ac. In other words, a and b occur in s only as substrings of acb. Compute the total number of entangled pairs of substrings of s.A string a is a substring of a string b if a can be obtained from b by the deletion of several (possibly zero or all) characters from the beginning and several (possibly zero or all) characters from the end.

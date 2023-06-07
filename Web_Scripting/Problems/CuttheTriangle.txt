@@ -1,0 +1,9 @@
+Cut the Triangle                    
+
+https://codeforces.com/problemset/problem/1767/A
+
+implementation
+
+800
+
+You are given a non-degenerate triangle (a non-degenerate triangle is a triangle with positive area). The vertices of the triangle have coordinates (x_1, y_1), (x_2, y_2) and (x_3, y_3).You want to draw a straight line to cut the triangle into two non-degenerate triangles. Furthermore, the line you draw should be either horizontal or vertical.Can you draw the line to meet all the constraints?Here are some suitable ways to draw the line:  However, these ways to draw the line are not suitable (the first line cuts the triangle into a triangle and a quadrangle; the second line doesn't cut the triangle at all; the third line is neither horizontal nor vertical):  

@@ -1,0 +1,9 @@
+The Smallest String Concatenation                    
+
+httpscodeforcescomproblemsetproblem632C
+
+sortings
+
+1700
+
+Youre given a list of n strings a1a2an Youd like to concatenate them together in some order such that the resulting string would be lexicographically smallestGiven the list of strings output the lexicographically smallest concatenation

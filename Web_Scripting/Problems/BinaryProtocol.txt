@@ -1,0 +1,9 @@
+Binary Protocol                    
+
+https://codeforces.com/problemset/problem/825/A
+
+implementation
+
+1100
+
+Polycarp has just invented a new binary protocol for data transmission. He is encoding positive integer decimal number to binary string using following algorithm:  Each digit is represented with number of '1' characters equal to the value of that digit (for 0 it is zero ones).  Digits are written one by one in order corresponding to number and separated by single '0' character. Though Polycarp learnt how to encode the numbers, he has no idea how to decode them back. Help him calculate the decoded number.

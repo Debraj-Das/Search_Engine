@@ -1,0 +1,9 @@
+Significant Cups                    
+
+https://codeforces.com/problemset/problem/774/B
+
+*special problem
+
+2100
+
+Stepan is a very experienced olympiad participant. He has n cups for Physics olympiads and m cups for Informatics olympiads. Each cup is characterized by two parameters — its significance ci and width wi.Stepan decided to expose some of his cups on a shelf with width d in such a way, that:  there is at least one Physics cup and at least one Informatics cup on the shelf,  the total width of the exposed cups does not exceed d,  from each subjects (Physics and Informatics) some of the most significant cups are exposed (i. e. if a cup for some subject with significance x is exposed, then all the cups for this subject with significance greater than x must be exposed too). Your task is to determine the maximum possible total significance, which Stepan can get when he exposes cups on the shelf with width d, considering all the rules described above. The total significance is the sum of significances of all the exposed cups.

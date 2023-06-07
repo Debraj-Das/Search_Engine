@@ -1,0 +1,9 @@
+Solo mid Oracle                    
+
+https://codeforces.com/problemset/problem/1413/E
+
+greedy
+
+2100
+
+Meka-Naruto plays a computer game. His character has the following ability: given an enemy hero, deal a instant damage to him, and then heal that enemy b health points at the end of every second, for exactly c seconds, starting one second after the ability is used. That means that if the ability is used at time t, the enemy's health decreases by a at time t, and then increases by b at time points t + 1, t + 2, ..., t + c due to this ability.The ability has a cooldown of d seconds, i. e. if Meka-Naruto uses it at time moment t, next time he can use it is the time t + d. Please note that he can only use the ability at integer points in time, so all changes to the enemy's health also occur at integer times only.The effects from different uses of the ability may stack with each other; that is, the enemy which is currently under k spells gets k\cdot b amount of heal this time. Also, if several health changes occur at the same moment, they are all counted at once.Now Meka-Naruto wonders if he can kill the enemy by just using the ability each time he can (that is, every d seconds). The enemy is killed if their health points become 0 or less. Assume that the enemy's health is not affected in any way other than by Meka-Naruto's character ability. What is the maximal number of health points the enemy can have so that Meka-Naruto is able to kill them?

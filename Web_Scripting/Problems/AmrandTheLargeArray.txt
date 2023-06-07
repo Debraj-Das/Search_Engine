@@ -1,0 +1,9 @@
+Amr and The Large Array                    
+
+https://codeforces.com/problemset/problem/558/B
+
+implementation
+
+1300
+
+Amr has got a large array of size n. Amr doesn't like large arrays so he intends to make it smaller.Amr doesn't care about anything in the array except the beauty of it. The beauty of the array is defined to be the maximum number of times that some number occurs in this array. He wants to choose the smallest subsegment of this array such that the beauty of it will be the same as the original array.Help Amr by choosing the smallest subsegment possible.

@@ -1,0 +1,9 @@
+Hamming Distance Sum                    
+
+httpscodeforcescomproblemsetproblem608B
+
+combinatorics
+
+1500
+
+Genos needs your help He was asked to solve the following programming problem by SaitamaThe length of some string s is denoted s The Hamming distance between two strings s and t of equal length is defined as  where si is the ith character of s and ti is the ith character of t For example the Hamming distance between string 0011 and string 0110 is 0001111001012Given two binary strings a and b find the sum of the Hamming distances between a and all contiguous substrings of b of length a

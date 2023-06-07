@@ -1,0 +1,9 @@
+Perfectly Imperfect Array                    
+
+https://codeforces.com/problemset/problem/1514/A
+
+math
+
+800
+
+Given an array a of length n, tell us whether it has a non-empty subsequence such that the product of its elements is not a perfect square.A sequence b is a subsequence of an array a if b can be obtained from a by deleting some (possibly zero) elements.

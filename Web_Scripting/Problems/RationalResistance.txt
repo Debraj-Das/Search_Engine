@@ -1,0 +1,9 @@
+Rational Resistance                    
+
+httpscodeforcescomproblemsetproblem343A
+
+math
+
+1600
+
+Mad scientist Mike is building a time machine in his spare time To finish the work he needs a resistor with a certain resistance valueHowever all Mike has is lots of identical resistors with unit resistance R01 Elements with other resistance can be constructed from these resistors In this problem we will consider the following as elements   one resistor  an element and one resistor plugged in sequence  an element and one resistor plugged in parallel   With the consecutive connection the resistance of the new element equals RReR0 With the parallel connection the resistance of the new element equals  In this case Re equals the resistance of the element being connectedMike needs to assemble an element with a resistance equal to the fraction  Determine the smallest possible number of resistors he needs to make such an element

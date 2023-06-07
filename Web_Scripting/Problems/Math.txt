@@ -1,0 +1,9 @@
+Math                    
+
+https://codeforces.com/problemset/problem/1505/F
+
+*special problem
+
+2200
+
+    *The two images are equivalent, feel free to use either one.

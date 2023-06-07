@@ -1,0 +1,9 @@
+Fake News (medium)                    
+
+https://codeforces.com/problemset/problem/802/H
+
+constructive algorithms
+
+2200
+
+Thanks to your help, Heidi is confident that no one can fool her. She has now decided to post some fake news on the HC2 Facebook page. However, she wants to be able to communicate to the HC2 committee that the post is fake, using some secret phrase hidden in the post as a subsequence. To make this method foolproof, she wants the phrase to appear n times in the post. She is asking you to design a post (string) s and a hidden phrase p such that p appears in s as a subsequence exactly n times.

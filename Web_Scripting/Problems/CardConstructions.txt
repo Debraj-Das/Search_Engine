@@ -1,0 +1,9 @@
+Card Constructions                    
+
+https://codeforces.com/problemset/problem/1345/B
+
+binary search
+
+1100
+
+A card pyramid of height 1 is constructed by resting two cards against each other. For h>1, a card pyramid of height h is constructed by placing a card pyramid of height h-1 onto a base. A base consists of h pyramids of height 1, and h-1 cards on top. For example, card pyramids of heights 1, 2, and 3 look as follows:  You start with n cards and build the tallest pyramid that you can. If there are some cards remaining, you build the tallest pyramid possible with the remaining cards. You repeat this process until it is impossible to build another pyramid. In the end, how many pyramids will you have constructed?

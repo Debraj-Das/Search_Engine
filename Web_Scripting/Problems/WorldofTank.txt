@@ -1,0 +1,9 @@
+World of Tank                    
+
+httpscodeforcescomproblemsetproblem936D
+
+dp
+
+3000
+
+Vitya loves programming and problem solving but sometimes to distract himself a little he plays computer games Once he found a new interesting game about tanks and he liked it so much that he went through almost all levels in one day Remained only the last level which was too tricky Then Vitya remembered that he is a programmer and wrote a program that helped him to pass this difficult level Try do the sameThe game is organized as follows There is a long road two cells wide and n cells long Some cells have obstacles You control a tank that occupies one cell Initially the tank is located before the start of the road in a cell with coordinates 01 Your task is to move the tank to the end of the road to the cell n11 or n12  Every second the tank moves one cell to the right the coordinate x is increased by one When you press the up or down arrow keys the tank instantly changes the lane that is the y coordinate When you press the spacebar the tank shoots and the nearest obstacle along the lane in which the tank rides is instantly destroyed In order to load a gun the tank needs t seconds Initially the gun is not loaded that means the first shot can be made only after t seconds after the tank starts to moveIf at some point the tank is in the same cell with an obstacle not yet destroyed it burns out If you press the arrow exactly at the moment when the tank moves forward the tank will first move forward and then change the lane so it will not be possible to move diagonallyYour task is to find out whether it is possible to pass the level and if possible to find the order of actions the player need to make

@@ -1,0 +1,9 @@
+Product Oriented Recurrence                    
+
+https://codeforces.com/problemset/problem/1182/E
+
+dp
+
+2300
+
+Let f_{x} = c^{2x-6} \cdot f_{x-1} \cdot f_{x-2} \cdot f_{x-3} for x \ge 4.You have given integers n, f_{1}, f_{2}, f_{3}, and c. Find f_{n} \bmod (10^{9}+7).

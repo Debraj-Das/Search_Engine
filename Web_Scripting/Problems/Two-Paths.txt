@@ -1,0 +1,9 @@
+Two-Paths                    
+
+https://codeforces.com/problemset/problem/1000/G
+
+data structures
+
+2700
+
+You are given a weighted tree (undirected connected graph with no cycles, loops or multiple edges) with n vertices. The edge \{u_j, v_j\} has weight w_j. Also each vertex i has its own value a_i assigned to it.Let's call a path starting in vertex u and ending in vertex v, where each edge can appear no more than twice (regardless of direction), a 2-path. Vertices can appear in the 2-path multiple times (even start and end vertices).For some 2-path p profit \text{Pr}(p) = \sum\limits_{v \in \text{distinct vertices in } p}{a_v} - \sum\limits_{e \in \text{distinct edges in } p}{k_e \cdot w_e}, where k_e is the number of times edge e appears in p. That is, vertices are counted once, but edges are counted the number of times they appear in p.You are about to answer m queries. Each query is a pair of vertices (qu, qv). For each query find 2-path p from qu to qv with maximal profit \text{Pr}(p).

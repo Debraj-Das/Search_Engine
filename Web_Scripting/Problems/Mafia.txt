@@ -1,0 +1,9 @@
+Mafia                    
+
+httpscodeforcescomproblemsetproblem348A
+
+binary search
+
+1600
+
+One day n friends gathered together to play Mafia During each round of the game some player must be the supervisor and other n1 people take part in the game For each person we know in how many rounds he wants to be a player not the supervisor the ith person wants to play ai rounds What is the minimum number of rounds of the Mafia game they need to play to let each person play at least as many rounds as they want

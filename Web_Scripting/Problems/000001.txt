@@ -1,0 +1,9 @@
+000001                    
+
+httpscodeforcescomproblemsetproblem409F
+
+special problem
+
+1900
+
+InputThe input contains a single integer a 1a64OutputOutput a single integerExamplesInput2Output1Input4Output2Input27Output5Input42Output6

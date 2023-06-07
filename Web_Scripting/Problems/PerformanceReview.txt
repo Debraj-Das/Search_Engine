@@ -1,0 +1,9 @@
+Performance Review                    
+
+https://codeforces.com/problemset/problem/1252/G
+
+data structures
+
+2100
+
+Randall is a software engineer at a company with N employees. Every year, the company re-evaluates its employees. At the end of every year, the company replaces its several worst-performing employees and replaces with the same number of new employees, so that the company keeps having N employees. Each person has a constant performance and can be represented by an integer (higher integer means better performance), and no two people have the same performance.The performance of the initial employees are represented by an array of integers A = [A_1, A_2, \dots, A_N] where A_i is the performance of the i^{th} employee. Randall is employee 1, so his performance is A_1. We will consider the first M years. At the end of the i^{th} year, the company replaces its R_i worst-performing employees and replaces with R_i new employees. The performance of these new employees are represented by an array of integers B_i = [(B_i)_1, (B_i)_2, \dots, (B_i)_{R_i}] where (B_i)_j is the performance of the j^{th} new employee.He will consider Q scenarios. On the i^{th} scenario, he will change the value of (B_{X_i})_{Y_i} to Z_i. For each scenario, Randall is wondering whether he will still be in the company after M years. Note that the changes in each scenario are kept for the subsequent scenarios.

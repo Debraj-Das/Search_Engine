@@ -1,0 +1,9 @@
+Selling Numbers                    
+
+https://codeforces.com/problemset/problem/778/E
+
+dp
+
+3000
+
+Boris really likes numbers and even owns a small shop selling interesting numbers. He has n decimal numbers Bi. Cost of the number in his shop is equal to the sum of costs of its digits. You are given the values cd, where cd is the cost of the digit d. Of course, Boris is interested in that numbers he owns have the maximum cost possible.Recently Boris got hold of the magical artifact A, which can allow him to increase the cost of his collection. Artifact is a string, consisting of digits and '?' symbols. To use the artifact, Boris must replace all '?' with digits to get a decimal number without leading zeros (it is also not allowed to get number 0). After that, the resulting number is added to all numbers Bi in Boris' collection. He uses the artifact exactly once.What is the maximum cost of the collection Boris can achieve after using the artifact?

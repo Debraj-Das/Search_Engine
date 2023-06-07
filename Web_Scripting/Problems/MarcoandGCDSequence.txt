@@ -1,0 +1,9 @@
+Marco and GCD Sequence                    
+
+httpscodeforcescomproblemsetproblem894C
+
+constructive algorithms
+
+1900
+
+In a dream Marco met an elderly man with a pair of black glasses The man told him the key to immortality and then disappeared with the wind of timeWhen he woke up he only remembered that the key was a sequence of positive integers of some length n but forgot the exact sequence Let the elements of the sequence be a1a2an He remembered that he calculated gcdaiai1aj for every 1ijn and put it into a set S gcd here means the greatest common divisorNote that even if a number is put into the set S twice or more it only appears once in the setNow Marco gives you the set S and asks you to help him figure out the initial sequence If there are many solutions print any of them It is also possible that there are no sequences that produce the set S in this case print 1

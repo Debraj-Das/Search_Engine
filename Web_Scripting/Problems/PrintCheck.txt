@@ -1,0 +1,9 @@
+Print Check                    
+
+httpscodeforcescomproblemsetproblem631B
+
+constructive algorithms
+
+1200
+
+Kris works in a large company Blake Technologies As a best engineer of the company he was assigned a task to develop a printer that will be able to print horizontal and vertical strips First prototype is already built and Kris wants to tests it He wants you to implement the program that checks the result of the printingPrinter works with a rectangular sheet of paper of size nm Consider the list as a table consisting of n rows and m columns Rows are numbered from top to bottom with integers from 1 to n while columns are numbered from left to right with integers from 1 to m Initially all cells are painted in color 0Your program has to support two operations   Paint all cells in row ri in color ai  Paint all cells in column ci in color ai If during some operation i there is a cell that have already been painted the color of this cell also changes to aiYour program has to print the resulting table after k operation

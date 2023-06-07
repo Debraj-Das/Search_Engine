@@ -1,0 +1,9 @@
+Sereja and Mirroring                    
+
+httpscodeforcescomproblemsetproblem426B
+
+implementation
+
+1300
+
+Lets assume that we are given a matrix b of size xy lets determine the operation of mirroring matrix b The mirroring of matrix b is a 2xy matrix c which has the following properties  the upper half of matrix c rows with numbers from 1 to x exactly matches b  the lower half of matrix c rows with numbers from x1 to 2x is symmetric to the upper one the symmetry line is the line that separates two halves the line that goes in the middle between rows x and x1 Sereja has an nm matrix a He wants to find such matrix b that it can be transformed into matrix a if well perform on it several possibly zero mirrorings What minimum number of rows can such matrix contain

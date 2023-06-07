@@ -1,0 +1,9 @@
+I Might Be Wrong                    
+
+https://codeforces.com/problemset/problem/1693/F
+
+binary search
+
+3400
+
+You are given a binary string S of length n indexed from 1 to n. You can perform the following operation any number of times (possibly zero):Choose two integers l and r (1 \le l \le r \le n). Let cnt_0 be the number of times 0 occurs in S[l \ldots r] and cnt_1 be the number of times 1 occurs in S[l \ldots r]. You can pay |cnt_0 - cnt_1| + 1 coins and sort the S[l \ldots r]. (by S[l \ldots r] we mean the substring of S starting at position l and ending at position r)For example if S =  11001, we can perform the operation on S[2 \ldots 4], paying |2 - 1| + 1 = 2 coins, and obtain S =  10011 as a new string.Find the minimum total number of coins required to sort S in increasing order.

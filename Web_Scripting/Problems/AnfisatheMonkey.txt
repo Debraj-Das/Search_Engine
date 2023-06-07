@@ -1,0 +1,9 @@
+Anfisa the Monkey                    
+
+https://codeforces.com/problemset/problem/44/E
+
+dp
+
+1400
+
+Anfisa the monkey learns to type. She is yet unfamiliar with the "space" key and can only type in lower-case Latin letters. Having typed for a fairly long line, Anfisa understood that it would be great to divide what she has written into k lines not shorter than a and not longer than b, for the text to resemble human speech more. Help Anfisa.

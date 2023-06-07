@@ -1,0 +1,9 @@
+Numbers on the blackboard                    
+
+httpscodeforcescomproblemsetproblem878E
+
+combinatorics
+
+3300
+
+A sequence of n integers is written on a blackboard Soon Sasha will come to the blackboard and start the following actions let x and y be two adjacent numbers x before y then he can remove them and write x2y instead of them He will perform these operations until one number is left Sasha likes big numbers and will get the biggest possible numberNikita wants to get to the blackboard before Sasha and erase some of the numbers He has q options in the option i he erases all numbers to the left of the lith number and all numbers to the right of rith number ie all numbers between the lith and the rith inclusive remain on the blackboard For each of the options he wants to know how big Sashas final number is going to be This number can be very big so output it modulo 1097

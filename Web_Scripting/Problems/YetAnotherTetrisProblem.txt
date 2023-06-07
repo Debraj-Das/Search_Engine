@@ -1,0 +1,9 @@
+Yet Another Tetris Problem                    
+
+https://codeforces.com/problemset/problem/1324/A
+
+implementation
+
+900
+
+You are given some Tetris field consisting of n columns. The initial height of the i-th column of the field is a_i blocks. On top of these columns you can place only figures of size 2 \times 1 (i.e. the height of this figure is 2 blocks and the width of this figure is 1 block). Note that you cannot rotate these figures.Your task is to say if you can clear the whole field by placing such figures.More formally, the problem can be described like this:The following process occurs while at least one a_i is greater than 0:  You place one figure 2 \times 1 (choose some i from 1 to n and replace a_i with a_i + 2);  then, while all a_i are greater than zero, replace each a_i with a_i - 1. And your task is to determine if it is possible to clear the whole field (i.e. finish the described process), choosing the places for new figures properly.You have to answer t independent test cases.

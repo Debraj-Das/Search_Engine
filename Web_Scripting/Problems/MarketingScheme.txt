@@ -1,0 +1,9 @@
+Marketing Scheme                    
+
+https://codeforces.com/problemset/problem/1437/A
+
+brute force
+
+800
+
+You got a job as a marketer in a pet shop, and your current task is to boost sales of cat food. One of the strategies is to sell cans of food in packs with discounts. Suppose you decided to sell packs with a cans in a pack with a discount and some customer wants to buy x cans of cat food. Then he follows a greedy strategy:   he buys \left\lfloor \frac{x}{a} \right\rfloor packs with a discount;  then he wants to buy the remaining (x \bmod a) cans one by one. \left\lfloor \frac{x}{a} \right\rfloor is x divided by a rounded down, x \bmod a is the remainer of x divided by a.But customers are greedy in general, so if the customer wants to buy (x \bmod a) cans one by one and it happens that (x \bmod a) \ge \frac{a}{2} he decides to buy the whole pack of a cans (instead of buying (x \bmod a) cans). It makes you, as a marketer, happy since the customer bought more than he wanted initially.You know that each of the customers that come to your shop can buy any number of cans from l to r inclusive. Can you choose such size of pack a that each customer buys more cans than they wanted initially?

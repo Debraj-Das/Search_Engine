@@ -1,0 +1,9 @@
+Levels and Regions                    
+
+httpscodeforcescomproblemsetproblem643C
+
+dp
+
+2400
+
+Radewoosh is playing a computer game There are n levels numbered 1 through n Levels are divided into k regions groups Each region contains some positive number of consecutive levelsThe game repeats the the following process If all regions are beaten then the game ends immediately Otherwise the system finds the first region with at least one nonbeaten level Let X denote this region The system creates an empty bag for tokens Each token will represent one level and there may be many tokens representing the same level  For each already beaten level i in the region X the system adds ti tokens to the bag tokens representing the ith level  Let j denote the first nonbeaten level in the region X The system adds tj tokens to the bag  Finally the system takes a uniformly random token from the bag and a player starts the level represented by the token A player spends one hour and beats the level even if he has already beaten it in the past Given n k and values t1t2tn your task is to split levels into regions Each level must belong to exactly one region and each region must contain nonempty consecutive set of levels What is the minimum possible expected number of hours required to finish the game

@@ -1,0 +1,9 @@
+Joty and Chocolate                    
+
+https://codeforces.com/problemset/problem/678/C
+
+implementation
+
+1600
+
+Little Joty has got a task to do. She has a line of n tiles indexed from 1 to n. She has to paint them in a strange pattern.An unpainted tile should be painted Red if it's index is divisible by a and an unpainted tile should be painted Blue if it's index is divisible by b. So the tile with the number divisible by a and b can be either painted Red or Blue.After her painting is done, she will get p chocolates for each tile that is painted Red and q chocolates for each tile that is painted Blue.Note that she can paint tiles in any order she wants.Given the required information, find the maximum number of chocolates Joty can get.

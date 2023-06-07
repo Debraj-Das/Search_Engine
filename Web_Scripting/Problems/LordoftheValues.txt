@@ -1,0 +1,9 @@
+Lord of the Values                    
+
+https://codeforces.com/problemset/problem/1523/B
+
+constructive algorithms
+
+1100
+
+  While trading on his favorite exchange trader William realized that he found a vulnerability. Using this vulnerability he could change the values of certain internal variables to his advantage. To play around he decided to change the values of all internal variables from a_1, a_2, \ldots, a_n to -a_1, -a_2, \ldots, -a_n. For some unknown reason, the number of service variables is always an even number.William understands that with his every action he attracts more and more attention from the exchange's security team, so the number of his actions must not exceed 5\,000 and after every operation no variable can have an absolute value greater than 10^{18}. William can perform actions of two types for two chosen variables with indices i and j, where i < j:  Perform assignment a_i = a_i + a_j  Perform assignment a_j = a_j - a_i  William wants you to develop a strategy that will get all the internal variables to the desired values.

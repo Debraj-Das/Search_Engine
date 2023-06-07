@@ -1,0 +1,9 @@
+Maximum Sum of Digits                    
+
+https://codeforces.com/problemset/problem/1060/B
+
+greedy
+
+1100
+
+You are given a positive integer n.Let S(x) be sum of digits in base 10 representation of x, for example, S(123) = 1 + 2 + 3 = 6, S(0) = 0.Your task is to find two integers a, b, such that 0 \leq a, b \leq n, a + b = n and S(a) + S(b) is the largest possible among all such pairs.

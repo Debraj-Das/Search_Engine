@@ -1,0 +1,9 @@
+Baby Ehab's Hyper Apartment                    
+
+https://codeforces.com/problemset/problem/1514/E
+
+binary search
+
+2700
+
+This is an interactive problem.Baby Ehab loves crawling around his apartment. It has n rooms numbered from 0 to n-1. For every pair of rooms, a and b, there's either a direct passage from room a to room b, or from room b to room a, but never both.Baby Ehab wants to go play with Baby Badawy. He wants to know if he could get to him. However, he doesn't know anything about his apartment except the number of rooms. He can ask the baby sitter two types of questions:   is the passage between room a and room b directed from a to b or the other way around?  does room x have a passage towards any of the rooms s_1, s_2, ..., s_k? He can ask at most 9n queries of the first type and at most 2n queries of the second type.After asking some questions, he wants to know for every pair of rooms a and b whether there's a path from a to b or not. A path from a to b is a sequence of passages that starts from room a and ends at room b.

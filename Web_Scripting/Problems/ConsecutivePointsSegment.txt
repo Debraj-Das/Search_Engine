@@ -1,0 +1,9 @@
+Consecutive Points Segment                    
+
+httpscodeforcescomproblemsetproblem1671B
+
+brute force
+
+1000
+
+You are given n points with integer coordinates on a coordinate axis OX The coordinate of the ith point is xi All points coordinates are distinct and given in strictly increasing orderFor each point i you can do the following operation no more than once take this point and move it by 1 to the left or to the right ie you can change its coordinate xi to xi  1 or to xi  1 In other words for each point you choose separately its new coordinate For the ith point it can be either xi  1 xi or xi  1Your task is to determine if you can move some points as described above in such a way that the new set of points forms a consecutive segment of integers ie for some integer l the coordinates of points should be equal to l l  1 ldots l  n  1Note that the resulting points should have distinct coordinatesYou have to answer t independent test cases

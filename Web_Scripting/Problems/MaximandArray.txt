@@ -1,0 +1,9 @@
+Maxim and Array                    
+
+httpscodeforcescomproblemsetproblem721D
+
+constructive algorithms
+
+2000
+
+Recently Maxim has found an array of n integers needed by no one He immediately come up with idea of changing it he invented positive integer x and decided to add or subtract it from arbitrary array elements Formally by applying single operation Maxim chooses integer i 1in and replaces the ith element of array ai either with aix or with aix Please note that the operation may be applied more than once to the same positionMaxim is a curious minimalis thus he wants to know what is the minimum value that the product of all array elements ie  can reach if Maxim would apply no more than k operations to it Please help him in that

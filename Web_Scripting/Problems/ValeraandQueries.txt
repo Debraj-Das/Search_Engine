@@ -1,0 +1,9 @@
+Valera and Queries                    
+
+httpscodeforcescomproblemsetproblem369E
+
+binary search
+
+2200
+
+Valera loves segments He has recently come up with one interesting problemThe Ox axis of coordinates has n segments the ith segment starts in position li and ends in position ri we will mark it as liri Your task is to process m queries each consists of number cnti and a set of cnti coordinates of points located on the Ox axis The answer to the query is the number of segments such that each of them contains at least one point from the query Segment lr contains point q if lqrValera found the solution of this problem too difficult So he asked you to help him Help Valera 

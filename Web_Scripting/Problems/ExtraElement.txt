@@ -1,0 +1,9 @@
+Extra Element                    
+
+https://codeforces.com/problemset/problem/1185/D
+
+implementation
+
+1700
+
+A sequence a_1, a_2, \dots, a_k is called an arithmetic progression if for each i from 1 to k elements satisfy the condition a_i = a_1 + c \cdot (i - 1) for some fixed c.For example, these five sequences are arithmetic progressions: [5, 7, 9, 11], [101], [101, 100, 99], [13, 97] and [5, 5, 5, 5, 5]. And these four sequences aren't arithmetic progressions: [3, 1, 2], [1, 2, 4, 8], [1, -1, 1, -1] and [1, 2, 3, 3, 3].You are given a sequence of integers b_1, b_2, \dots, b_n. Find any index j (1 \le j \le n), such that if you delete b_j from the sequence, you can reorder the remaining n-1 elements, so that you will get an arithmetic progression. If there is no such index, output the number -1.

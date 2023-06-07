@@ -1,0 +1,9 @@
+Running Track                    
+
+https://codeforces.com/problemset/problem/615/C
+
+dp
+
+2000
+
+A boy named Ayrat lives on planet AMI-1511. Each inhabitant of this planet has a talent. Specifically, Ayrat loves running, moreover, just running is not enough for him. He is dreaming of making running a real art.First, he wants to construct the running track with coating t. On planet AMI-1511 the coating of the track is the sequence of colored blocks, where each block is denoted as the small English letter. Therefore, every coating can be treated as a string.Unfortunately, blocks aren't freely sold to non-business customers, but Ayrat found an infinite number of coatings s. Also, he has scissors and glue. Ayrat is going to buy some coatings s, then cut out from each of them exactly one continuous piece (substring) and glue it to the end of his track coating. Moreover, he may choose to flip this block before glueing it. Ayrat want's to know the minimum number of coating s he needs to buy in order to get the coating t for his running track. Of course, he also want's to know some way to achieve the answer.

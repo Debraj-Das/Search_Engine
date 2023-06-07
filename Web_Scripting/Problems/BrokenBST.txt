@@ -1,0 +1,9 @@
+Broken BST                    
+
+https://codeforces.com/problemset/problem/797/D
+
+data structures
+
+2100
+
+Let T be arbitrary binary tree — tree, every vertex of which has no more than two children. Given tree is rooted, so there exists only one vertex which doesn't have a parent — it's the root of a tree. Every vertex has an integer number written on it. Following algorithm is run on every value from the tree T:  Set pointer to the root of a tree.  Return success if the value in the current vertex is equal to the number you are looking for  Go to the left child of the vertex if the value in the current vertex is greater than the number you are looking for  Go to the right child of the vertex if the value in the current vertex is less than the number you are looking for  Return fail if you try to go to the vertex that doesn't exist Here is the pseudo-code of the described algorithm: bool find(TreeNode t, int x) {    if (t == null)        return false;    if (t.value == x)        return true;    if (x < t.value)        return find(t.left, x);    else        return find(t.right, x);}find(root, x);The described algorithm works correctly if the tree is binary search tree (i.e. for each node the values of left subtree are less than the value in the node, the values of right subtree are greater than the value in the node). But it can return invalid result if tree is not a binary search tree.Since the given tree is not necessarily a binary search tree, not all numbers can be found this way. Your task is to calculate, how many times the search will fail being running on every value from the tree.If the tree has multiple vertices with the same values on them then you should run algorithm on every one of them separately.

@@ -1,0 +1,9 @@
+Make Array Good                    
+
+https://codeforces.com/problemset/problem/1762/B
+
+constructive algorithms
+
+1100
+
+An array b of m positive integers is good if for all pairs i and j (1 \leq i,j \leq m), \max(b_i,b_j) is divisible by \min(b_i,b_j).You are given an array a of n positive integers. You can perform the following operation:  Select an index i (1 \leq i \leq n) and an integer x (0 \leq x \leq a_i) and add x to a_i, in other words, a_i := a_i+x.  After this operation, a_i \leq 10^{18} should be satisfied. You have to construct a sequence of at most n operations that will make a good. It can be proven that under the constraints of the problem, such a sequence of operations always exists.

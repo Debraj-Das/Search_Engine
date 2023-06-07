@@ -1,0 +1,9 @@
+Uniformly Branched Trees                    
+
+httpscodeforcescomproblemsetproblem724F
+
+combinatorics
+
+2700
+
+A tree is a connected graph without cyclesTwo trees consisting of n vertices each are called isomorphic if there exists a permutation p1n1n such that the edge uv is present in the first tree if and only if the edge pupv is present in the second treeVertex of the tree is called internal if its degree is greater than or equal to twoCount the number of different nonisomorphic trees consisting of n vertices such that the degree of each internal vertex is exactly d Print the answer over the given prime modulo mod

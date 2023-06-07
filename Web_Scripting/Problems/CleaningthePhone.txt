@@ -1,0 +1,9 @@
+Cleaning the Phone                    
+
+https://codeforces.com/problemset/problem/1475/D
+
+binary search
+
+1800
+
+Polycarp often uses his smartphone. He has already installed n applications on it. Application with number i takes up a_i units of memory.Polycarp wants to free at least m units of memory (by removing some applications).Of course, some applications are more important to Polycarp than others. He came up with the following scoring system — he assigned an integer b_i to each application:   b_i = 1 — regular application;  b_i = 2 — important application. According to this rating system, his phone has b_1 + b_2 + \ldots + b_n convenience points.Polycarp believes that if he removes applications with numbers i_1, i_2, \ldots, i_k, then he will free a_{i_1} + a_{i_2} + \ldots + a_{i_k} units of memory and lose b_{i_1} + b_{i_2} + \ldots + b_{i_k} convenience points.For example, if n=5, m=7, a=[5, 3, 2, 1, 4], b=[2, 1, 1, 2, 1], then Polycarp can uninstall the following application sets (not all options are listed below):   applications with numbers 1, 4 and 5. In this case, it will free a_1+a_4+a_5=10 units of memory and lose b_1+b_4+b_5=5 convenience points;  applications with numbers 1 and 3. In this case, it will free a_1+a_3=7 units of memory and lose b_1+b_3=3 convenience points.  applications with numbers 2 and 5. In this case, it will free a_2+a_5=7 memory units and lose b_2+b_5=2 convenience points. Help Polycarp, choose a set of applications, such that if removing them will free at least m units of memory and lose the minimum number of convenience points, or indicate that such a set does not exist.

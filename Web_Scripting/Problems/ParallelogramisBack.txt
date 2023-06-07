@@ -1,0 +1,9 @@
+Parallelogram is Back                    
+
+https://codeforces.com/problemset/problem/749/B
+
+brute force
+
+1200
+
+Long time ago Alex created an interesting problem about parallelogram. The input data for this problem contained four integer points on the Cartesian plane, that defined the set of vertices of some non-degenerate (positive area) parallelogram. Points not necessary were given in the order of clockwise or counterclockwise traversal.Alex had very nice test for this problem, but is somehow happened that the last line of the input was lost and now he has only three out of four points of the original parallelogram. He remembers that test was so good that he asks you to restore it given only these three points.

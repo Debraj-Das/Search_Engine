@@ -1,0 +1,9 @@
+Sum of Substrings                    
+
+https://codeforces.com/problemset/problem/1691/C
+
+brute force
+
+1400
+
+You are given a binary string s of length n.Let's define d_i as the number whose decimal representation is s_i s_{i+1} (possibly, with a leading zero). We define f(s) to be the sum of all the valid d_i. In other words, f(s) = \sum\limits_{i=1}^{n-1} d_i.For example, for the string s = 1011:   d_1 = 10 (ten);  d_2 = 01 (one)  d_3 = 11 (eleven);  f(s) = 10 + 01 + 11 = 22. In one operation you can swap any two adjacent elements of the string. Find the minimum value of f(s) that can be achieved if at most k operations are allowed.

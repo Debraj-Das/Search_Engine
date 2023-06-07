@@ -1,0 +1,9 @@
+Almost Equal                    
+
+https://codeforces.com/problemset/problem/1205/A
+
+constructive algorithms
+
+1200
+
+You are given integer n. You have to arrange numbers from 1 to 2n, using each of them exactly once, on the circle, so that the following condition would be satisfied:For every n consecutive numbers on the circle write their sum on the blackboard. Then any two of written on the blackboard 2n numbers differ not more than by 1.For example, choose n = 3. On the left you can see an example of a valid arrangement: 1 + 4 + 5 = 10, 4 + 5 + 2 = 11, 5 + 2 + 3 = 10, 2 + 3 + 6 = 11, 3 + 6 + 1 = 10, 6 + 1 + 4 = 11, any two numbers differ by at most 1. On the right you can see an invalid arrangement: for example, 5 + 1 + 6 = 12, and 3 + 2 + 4 = 9, 9 and 12 differ more than by 1.  

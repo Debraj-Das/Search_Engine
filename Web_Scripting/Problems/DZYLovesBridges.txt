@@ -1,0 +1,9 @@
+DZY Loves Bridges                    
+
+httpscodeforcescomproblemsetproblem446E
+
+math
+
+3100
+
+DZY owns 2m islands near his home numbered from 1 to 2m He loves building bridges to connect the islands Every bridge he builds takes one days time to walk acrossDZY has a strange rule of building the bridges For every pair of islands uvuv he has built 2k different bridges connecting them where  ab means b is divisible by a These bridges are bidirectionalAlso DZY has built some bridges connecting his home with the islands Specifically there are ai different bridges from his home to the ith island These are oneway bridges so after he leaves his home he will never come backDZY decides to go to the islands for sightseeing At first he is at home He chooses and walks across one of the bridges connecting with his home and arrives at some island After that he will spend t days on the islands Each day he can choose to stay and rest or to walk to another island across the bridge It is allowed to stay at an island for more than one day Its also allowed to cross one bridge more than onceSuppose that right after the tth day DZY stands at the ith island Let ansi be the number of ways for DZY to reach the ith island after tth day Your task is to calculate ansi for each i modulo 1051131

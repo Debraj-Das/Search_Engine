@@ -1,0 +1,9 @@
+A Tide of Riverscape                    
+
+https://codeforces.com/problemset/problem/989/B
+
+constructive algorithms
+
+1200
+
+ Walking along a riverside, Mino silently takes a note of something."Time," Mino thinks aloud."What?""Time and tide wait for no man," explains Mino. "My name, taken from the river, always reminds me of this.""And what are you recording?""You see it, tide. Everything has its own period, and I think I've figured out this one," says Mino with confidence.Doubtfully, Kanno peeks at Mino's records. The records are expressed as a string s of characters '0', '1' and '.', where '0' denotes a low tide, '1' denotes a high tide, and '.' denotes an unknown one (either high or low).You are to help Mino determine whether it's possible that after replacing each '.' independently with '0' or '1', a given integer p is not a period of the resulting string. In case the answer is yes, please also show such a replacement to Mino.In this problem, a positive integer p is considered a period of string s, if for all 1 \leq i \leq \lvert s \rvert - p, the i-th and (i + p)-th characters of s are the same. Here \lvert s \rvert is the length of s.

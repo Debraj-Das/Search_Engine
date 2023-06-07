@@ -1,0 +1,9 @@
+Everyone Loves to Sleep                    
+
+https://codeforces.com/problemset/problem/1714/A
+
+implementation
+
+900
+
+Vlad, like everyone else, loves to sleep very much.Every day Vlad has to do n things, each at a certain time. For each of these things, he has an alarm clock set, the i-th of them is triggered on h_i hours m_i minutes every day (0 \le h_i < 24, 0 \le m_i < 60). Vlad uses the 24-hour time format, so after h=12, m=59 comes h=13, m=0 and after h=23, m=59 comes h=0, m=0.This time Vlad went to bed at H hours M minutes (0 \le H < 24, 0 \le M < 60) and asks you to answer: how much he will be able to sleep until the next alarm clock.If any alarm clock rings at the time when he went to bed, then he will sleep for a period of time of length 0.

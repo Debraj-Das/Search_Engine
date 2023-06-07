@@ -1,0 +1,9 @@
+Bear and Colors                    
+
+https://codeforces.com/problemset/problem/643/A
+
+implementation
+
+1500
+
+Bear Limak has n colored balls, arranged in one long row. Balls are numbered 1 through n, from left to right. There are n possible colors, also numbered 1 through n. The i-th ball has color ti.For a fixed interval (set of consecutive elements) of balls we can define a dominant color. It's a color occurring the biggest number of times in the interval. In case of a tie between some colors, the one with the smallest number (index) is chosen as dominant.There are  non-empty intervals in total. For each color, your task is to count the number of intervals in which this color is dominant.

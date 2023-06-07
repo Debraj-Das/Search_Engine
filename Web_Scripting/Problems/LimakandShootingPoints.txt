@@ -1,0 +1,9 @@
+Limak and Shooting Points                    
+
+httpscodeforcescomproblemsetproblem698D
+
+brute force
+
+2600
+
+Bearland is a dangerous place Limak cant travel on foot Instead he has k magic teleportation stones Each stone can be used at most once The ith stone allows to teleport to a point axiayi Limak can use stones in any orderThere are n monsters in Bearland The ith of them stands at mximyiThe given kn points are pairwise distinctAfter each teleportation Limak can shoot an arrow in some direction An arrow will hit the first monster in the chosen direction Then both an arrow and a monster disappear Its dangerous to stay in one place for long so Limak can shoot only one arrow from one placeA monster should be afraid if its possible that Limak will hit it How many monsters should be afraid of Limak

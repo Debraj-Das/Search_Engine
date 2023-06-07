@@ -1,0 +1,9 @@
+Guest Student                    
+
+https://codeforces.com/problemset/problem/1089/G
+
+math
+
+1500
+
+Berland State University invites people from all over the world as guest students. You can come to the capital of Berland and study with the best teachers in the country.Berland State University works every day of the week, but classes for guest students are held on the following schedule. You know the sequence of seven integers a_1, a_2, \dots, a_7 (a_i = 0 or a_i = 1):  a_1=1 if and only if there are classes for guest students on Sundays;  a_2=1 if and only if there are classes for guest students on Mondays;  ...   a_7=1 if and only if there are classes for guest students on Saturdays. The classes for guest students are held in at least one day of a week.You want to visit the capital of Berland and spend the minimum number of days in it to study k days as a guest student in Berland State University. Write a program to find the length of the shortest continuous period of days to stay in the capital to study exactly k days as a guest student.

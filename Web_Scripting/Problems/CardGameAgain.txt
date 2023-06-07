@@ -1,0 +1,9 @@
+Card Game Again                    
+
+httpscodeforcescomproblemsetproblem818E
+
+binary search
+
+1900
+
+Vova again tries to play some computer card gameThe rules of deck creation in this game are simple Vova is given an existing deck of n cards and a magic number k The order of the cards in the deck is fixed Each card has a number written on it number ai is written on the ith card in the deckAfter receiving the deck and the magic number Vova removes x possibly x0 cards from the top of the deck y possibly y0 cards from the bottom of the deck and the rest of the deck is his new deck Vova has to leave at least one card in the deck after removing cards So Vovas new deck actually contains cards x1 x2  ny1 ny from the original deckVovas new deck is considered valid iff the product of all numbers written on the cards in his new deck is divisible by k So Vova received a deck possibly not a valid one and a number k and now he wonders how many ways are there to choose x and y so the deck he will get after removing x cards from the top and y cards from the bottom is valid

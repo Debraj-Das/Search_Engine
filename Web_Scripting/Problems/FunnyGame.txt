@@ -1,0 +1,9 @@
+Funny Game                    
+
+httpscodeforcescomproblemsetproblem731E
+
+dp
+
+2200
+
+Once upon a time Petya and Gena gathered after another programming competition and decided to play some game As they consider most modern games to be boring they always try to invent their own games They have only stickers and markers but that wont stop themThe game they came up with has the following rules Initially there are n stickers on the wall arranged in a row Each sticker has some number written on it Now they alternate turn Petya moves firstOne move happens as follows Lets say there are m2 stickers on the wall The player who makes the current move picks some integer k from 2 to m and takes k leftmost stickers removes them from the wall After that he makes the new sticker puts it to the left end of the row and writes on it the new integer equal to the sum of all stickers he took on this move Game ends when there is only one sticker left on the wall The score of the player is equal to the sum of integers written on all stickers he took during all his moves The goal of each player is to maximize the difference between his score and the score of his opponentGiven the integer n and the initial sequence of stickers on the wall define the result of the game ie the difference between the Petyas and Genas score if both players play optimally 

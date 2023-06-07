@@ -1,0 +1,9 @@
+Maximum Absurdity                    
+
+httpscodeforcescomproblemsetproblem332B
+
+data structures
+
+1500
+
+Reforms continue entering Berland For example during yesterday sitting the Berland Parliament approved as much as n laws each law has been assigned a unique number from 1 to n Today all these laws were put on the table of the President of Berland GW Boosch to be signedThis time mr Boosch plans to sign 2k laws He decided to choose exactly two nonintersecting segments of integers from 1 to n of length k and sign all laws whose numbers fall into these segments More formally mr Boosch is going to choose two integers a b 1abnk1bak and sign all laws with numbers lying in the segments aak1 and bbk1 borders are includedAs mr Boosch chooses the laws to sign he of course considers the public opinion Allberland Public Opinion Study Centre APOSC conducted opinion polls among the citizens processed the results into a report and gave it to the president The report contains the absurdity value for each law in the public opinion As mr Boosch is a real patriot he is keen on signing the laws with the maximum total absurdity Help him

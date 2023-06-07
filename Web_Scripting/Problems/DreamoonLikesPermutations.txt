@@ -1,0 +1,9 @@
+Dreamoon Likes Permutations                    
+
+https://codeforces.com/problemset/problem/1330/B
+
+implementation
+
+1400
+
+The sequence of m integers is called the permutation if it contains all integers from 1 to m exactly once. The number m is called the length of the permutation.Dreamoon has two permutations p_1 and p_2 of non-zero lengths l_1 and l_2.Now Dreamoon concatenates these two permutations into another sequence a of length l_1 + l_2. First l_1 elements of a is the permutation p_1 and next l_2 elements of a is the permutation p_2. You are given the sequence a, and you need to find two permutations p_1 and p_2. If there are several possible ways to restore them, you should find all of them. (Note that it is also possible that there will be no ways.)

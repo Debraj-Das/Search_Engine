@@ -1,0 +1,9 @@
+Board Game                    
+
+httpscodeforcescomproblemsetproblem605D
+
+data structures
+
+2500
+
+You are playing a board card game In this game the player has two characteristics x and y the white magic skill and the black magic skill respectively There are n spell cards lying on the table each of them has four characteristics ai bi ci and di In one move a player can pick one of the cards and cast the spell written on it but only if first two of its characteristics meet the requirement aix and biy ie if the player has enough magic skill to cast this spell However after casting the spell the characteristics of a player change and become equal to xci and ydiAt the beginning of the game both characteristics of a player are equal to zero The goal of the game is to cast the nth spell Your task is to make it in as few moves as possible You are allowed to use spell in any order and any number of times for example you may not use some spells at all

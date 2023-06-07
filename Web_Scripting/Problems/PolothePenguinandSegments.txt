@@ -1,0 +1,9 @@
+Polo the Penguin and Segments                     
+
+httpscodeforcescomproblemsetproblem289A
+
+brute force
+
+1100
+
+Little penguin Polo adores integer segments that is pairs of integers lr lr He has a set that consists of n integer segments l1r1l2r2lnrn We know that no two segments of this set intersect In one move Polo can either widen any segment of the set 1 unit to the left or 1 unit to the right that is transform lr to either segment l1r or to segment lr1The value of a set of segments that consists of n segments l1r1l2r2lnrn is the number of integers x such that there is integer j for which the following inequality holds ljxrjFind the minimum number of moves needed to make the value of the set of Polos segments divisible by k

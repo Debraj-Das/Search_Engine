@@ -1,0 +1,9 @@
+Tricky Interactor                    
+
+https://codeforces.com/problemset/problem/1081/F
+
+constructive algorithms
+
+2600
+
+This is an interactive problem.Chouti was tired of studying, so he opened the computer and started playing a puzzle game.Long long ago, the boy found a sequence s_1, s_2, \ldots, s_n of length n, kept by a tricky interactor. It consisted of 0s and 1s only and the number of 1s is t. The boy knows nothing about this sequence except n and t, but he can try to find it out with some queries with the interactor.We define an operation called flipping. Flipping [l,r] (1 \leq l \leq r \leq n) means for each x \in [l,r], changing s_x to 1-s_x.In each query, the boy can give the interactor two integers l,r satisfying 1 \leq l \leq r \leq n and the interactor will either flip [1,r] or [l,n] (both outcomes have the same probability and all decisions made by interactor are independent from each other, see Notes section for more details). The interactor will tell the current number of 1s after each operation. Note, that the sequence won't be restored after each operation.Help the boy to find the original sequence in no more than 10000 interactions."Weird legend, dumb game." he thought. However, after several tries, he is still stuck with it. Can you help him beat this game?

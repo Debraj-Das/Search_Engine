@@ -1,0 +1,9 @@
+Hamster Farm                    
+
+https://codeforces.com/problemset/problem/939/B
+
+implementation
+
+1000
+
+Dima has a hamsters farm. Soon N hamsters will grow up on it and Dima will sell them in a city nearby.Hamsters should be transported in boxes. If some box is not completely full, the hamsters in it are bored, that's why each box should be completely full with hamsters.Dima can buy boxes at a factory. The factory produces boxes of K kinds, boxes of the i-th kind can contain in themselves ai hamsters. Dima can buy any amount of boxes, but he should buy boxes of only one kind to get a wholesale discount.Of course, Dima would buy boxes in such a way that each box can be completely filled with hamsters and transported to the city. If there is no place for some hamsters, Dima will leave them on the farm.Find out how many boxes and of which type should Dima buy to transport maximum number of hamsters.

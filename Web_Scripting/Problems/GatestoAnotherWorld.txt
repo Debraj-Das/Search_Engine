@@ -1,0 +1,9 @@
+Gates to Another World                    
+
+https://codeforces.com/problemset/problem/1556/G
+
+bitmasks
+
+3300
+
+  As mentioned previously William really likes playing video games. In one of his favorite games, the player character is in a universe where every planet is designated by a binary number from 0 to 2^n - 1. On each planet, there are gates that allow the player to move from planet i to planet j if the binary representations of i and j differ in exactly one bit.William wants to test you and see how you can handle processing the following queries in this game universe:  Destroy planets with numbers from l to r inclusively. These planets cannot be moved to anymore. Figure out if it is possible to reach planet b from planet a using some number of planetary gates. It is guaranteed that the planets a and b are not destroyed. 

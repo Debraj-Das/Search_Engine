@@ -1,0 +1,9 @@
+Magic Stones                    
+
+https://codeforces.com/problemset/problem/1110/E
+
+constructive algorithms
+
+2200
+
+Grigory has n magic stones, conveniently numbered from 1 to n. The charge of the i-th stone is equal to c_i.Sometimes Grigory gets bored and selects some inner stone (that is, some stone with index i, where 2 \le i \le n - 1), and after that synchronizes it with neighboring stones. After that, the chosen stone loses its own charge, but acquires the charges from neighboring stones. In other words, its charge c_i changes to c_i' = c_{i + 1} + c_{i - 1} - c_i.Andrew, Grigory's friend, also has n stones with charges t_i. Grigory is curious, whether there exists a sequence of zero or more synchronization operations, which transforms charges of Grigory's stones into charges of corresponding Andrew's stones, that is, changes c_i into t_i for all i?

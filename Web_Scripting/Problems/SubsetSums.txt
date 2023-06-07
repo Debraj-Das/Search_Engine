@@ -1,0 +1,9 @@
+Subset Sums                    
+
+httpscodeforcescomproblemsetproblem348C
+
+brute force
+
+2500
+
+You are given an array a1a2an and m sets S1S2Sm of indices of elements of this array Lets denote SkSki1iSk In other words Ski is some element from set SkIn this problem you have to answer q queries of the two types  Find the sum of elements with indices from set Sk  The query format is  k  Add number x to all elements at indices from set Sk aSki is replaced by aSkix for all i 1iSk The query format is  k x After each first type query print the required sum

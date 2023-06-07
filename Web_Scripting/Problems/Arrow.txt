@@ -1,0 +1,9 @@
+Arrow                    
+
+httpscodeforcescomproblemsetproblem630O
+
+geometry
+
+2000
+
+Petya has recently started working as a programmer in the IT city company that develops computer gamesBesides game mechanics implementation to create a game it is necessary to create tool programs that can be used by game designers to create game levels Petyas first assignment is to create a tool that allows to paint different arrows on the screenA user of this tool will choose a point on the screen specify a vector the arrow direction and vary several parameters to get the required graphical effect In the first version of the program Petya decided to limit parameters of the arrow by the following a point with coordinates pxpy a nonzero vector with coordinates vxvy positive scalars abcdacThe produced arrow should have the following properties The arrow consists of a triangle and a rectangle The triangle is isosceles with base of length a and altitude of length b perpendicular to the base The rectangle sides lengths are c and d Point pxpy is situated in the middle of the triangle base and in the middle of side of rectangle that has length c Area of intersection of the triangle and the rectangle is zero The direction from pxpy point to the triangle vertex opposite to base containing the point coincides with direction of vxvy vectorEnumerate the arrow points coordinates in counterclockwise order starting from the tip  

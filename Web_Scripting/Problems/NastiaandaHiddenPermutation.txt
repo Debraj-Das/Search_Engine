@@ -1,0 +1,9 @@
+Nastia and a Hidden Permutation                    
+
+https://codeforces.com/problemset/problem/1521/C
+
+constructive algorithms
+
+2000
+
+This is an interactive problem!Nastia has a hidden permutation p of length n consisting of integers from 1 to n. You, for some reason, want to figure out the permutation. To do that, you can give her an integer t (1 \le t \le 2), two different indices i and j (1 \le i, j \le n, i \neq j), and an integer x (1 \le x \le n - 1). Depending on t, she will answer:   t = 1: \max{(\min{(x, p_i)}, \min{(x + 1, p_j)})};  t = 2: \min{(\max{(x, p_i)}, \max{(x + 1, p_j)})}. You can ask Nastia at most \lfloor \frac {3 \cdot n} { 2} \rfloor + 30 times. It is guaranteed that she will not change her permutation depending on your queries. Can you guess the permutation?

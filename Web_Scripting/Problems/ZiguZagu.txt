@@ -1,0 +1,9 @@
+Zigu Zagu                    
+
+https://codeforces.com/problemset/problem/1672/H
+
+constructive algorithms
+
+2700
+
+You have a binary string a of length n consisting only of digits 0 and 1. You are given q queries. In the i-th query, you are given two indices l and r such that 1 \le l \le r \le n. Let s=a[l,r]. You are allowed to do the following operation on s:  Choose two indices x and y such that 1 \le x \le y \le |s|. Let t be the substring t = s[x, y]. Then for all 1 \le i \le |t| - 1, the condition t_i \neq t_{i+1} has to hold. Note that x = y is always a valid substring.  Delete the substring s[x, y] from s. For each of the q queries, find the minimum number of operations needed to make s an empty string.Note that for a string s, s[l,r] denotes the subsegment s_l,s_{l+1},\ldots,s_r.

@@ -1,0 +1,9 @@
+Complementary XOR                    
+
+https://codeforces.com/problemset/problem/1750/C
+
+constructive algorithms
+
+1400
+
+You have two binary strings a and b of length n. You would like to make all the elements of both strings equal to 0. Unfortunately, you can modify the contents of these strings using only the following operation:  You choose two indices l and r (1 \le l \le r \le n);  For every i that respects l \le i \le r, change a_i to the opposite. That is, a_i := 1 - a_i;  For every i that respects either 1 \le i < l or r < i \le n, change b_i to the opposite. That is, b_i := 1 - b_i. Your task is to determine if this is possible, and if it is, to find such an appropriate chain of operations. The number of operations should not exceed n + 5. It can be proven that if such chain of operations exists, one exists with at most n + 5 operations. 

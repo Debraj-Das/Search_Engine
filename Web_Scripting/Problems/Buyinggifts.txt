@@ -1,0 +1,9 @@
+Buying gifts                    
+
+https://codeforces.com/problemset/problem/1801/B
+
+data structures
+
+1800
+
+ Little Sasha has two friends, whom he wants to please with gifts on the Eighth of March. To do this, he went to the largest shopping center in the city.There are n departments in the mall, each of which has exactly two stores. For convenience, we number the departments with integers from 1 to n. It is known that gifts in the first store of the i department cost a_i rubles, and in the second store of the i department — b_i rubles.Entering the mall, Sasha will visit each of the n departments of the mall, and in each department, he will enter exactly one store. When Sasha gets into the i-th department, he will perform exactly one of two actions:  Buy a gift for the first friend, spending a_i rubles on it.  Buy a gift for the second friend, spending b_i rubles on it. Sasha is going to buy at least one gift for each friend. Moreover, he wants to pick up gifts in such a way that the price difference of the most expensive gifts bought for friends is as small as possible so that no one is offended.More formally: let m_1  be the maximum price of a gift bought to the first friend, and m_2  be the maximum price of a gift bought to the second friend. Sasha wants to choose gifts in such a way as to minimize the value of \lvert m_1 - m_2 \rvert. 

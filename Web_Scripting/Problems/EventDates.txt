@@ -1,0 +1,9 @@
+Event Dates                    
+
+httpscodeforcescomproblemsetproblem45D
+
+greedy
+
+1900
+
+On a history lesson the teacher asked Vasya to name the dates when n famous events took place He doesnt remembers the exact dates but he remembers a segment of days liri inclusive on which the event could have taken place However Vasya also remembers that there was at most one event in one day Help him choose such n dates of famous events that will fulfill both conditions It is guaranteed that it is possible

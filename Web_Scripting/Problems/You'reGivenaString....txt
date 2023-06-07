@@ -1,0 +1,9 @@
+You're Given a String...                    
+
+https://codeforces.com/problemset/problem/23/A
+
+brute force
+
+1200
+
+You're given a string of lower-case Latin letters. Your task is to find the length of its longest substring that can be met in the string at least twice. These occurrences can overlap (see sample test 2).

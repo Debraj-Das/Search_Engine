@@ -1,0 +1,9 @@
+Maximum Sum of Products                    
+
+https://codeforces.com/problemset/problem/1519/D
+
+brute force
+
+1600
+
+You are given two integer arrays a and b of length n.You can reverse at most one subarray (continuous subsegment) of the array a. Your task is to reverse such a subarray that the sum \sum\limits_{i=1}^n a_i \cdot b_i is maximized.

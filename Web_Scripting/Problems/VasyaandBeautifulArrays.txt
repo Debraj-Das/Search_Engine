@@ -1,0 +1,9 @@
+Vasya and Beautiful Arrays                    
+
+httpscodeforcescomproblemsetproblem354C
+
+brute force
+
+2100
+
+Vasyas got a birthday coming up and his mom decided to give him an array of positive integers a of length nVasya thinks that an arrays beauty is the greatest common divisor of all its elements His mom of course wants to give him as beautiful an array as possible with largest possible beauty Unfortunately the shop has only one array a left On the plus side the seller said that he could decrease some numbers in the array no more than by k for each numberThe seller can obtain array b from array a if the following conditions hold bi00aibik for all 1inHelp mom find the maximum possible beauty of the array she will give to Vasya that seller can obtain

@@ -1,0 +1,9 @@
+Parking Lot                    
+
+httpscodeforcescomproblemsetproblem480E
+
+data structures
+
+2800
+
+Petyas been bored at work and he is killing the time by watching the parking lot at the office The parking lot looks from above like an nm table a cell of the table corresponds to a single parking spot Some spots in the parking lot are taken others are emptyPetya watches cars riding into the parking lot one by one After a car settles down at the parking spot Petya amuzes himself by counting what maximum square of empty spots ie a square subtable can be seen on the parking lot if we look at it from above Also he takes notes of the squares size side length in his notebook You task is given the state of the parking lot at the initial moment of time and the information about where the arriving cars park restore what Petya wrote in his notebook It is midday so nobody leaves the lot

@@ -1,0 +1,9 @@
+Parliament of Berland                    
+
+httpscodeforcescomproblemsetproblem644A
+
+special problem
+
+1000
+
+There are n parliamentarians in Berland They are numbered with integers from 1 to n It happened that all parliamentarians with odd indices are Democrats and all parliamentarians with even indices are RepublicansNew parliament assembly hall is a rectangle consisting of ab chairs a rows of b chairs each Two chairs are considered neighbouring if they share as side For example chair number 5 in row number 2 is neighbouring to chairs number 4 and 6 in this row and chairs with number 5 in rows 1 and 3 Thus chairs have four neighbours in general except for the chairs on the border of the hallWe know that if two parliamentarians from one political party that is two Democrats or two Republicans seat nearby they spent all time discussing internal party issuesWrite the program that given the number of parliamentarians and the sizes of the hall determine if there is a way to find a seat for any parliamentarian such that no two members of the same party share neighbouring seats

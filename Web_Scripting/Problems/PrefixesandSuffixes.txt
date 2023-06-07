@@ -1,0 +1,9 @@
+Prefixes and Suffixes                    
+
+https://codeforces.com/problemset/problem/1730/D
+
+constructive algorithms
+
+2200
+
+You have two strings s_1 and s_2 of length n, consisting of lowercase English letters. You can perform the following operation any (possibly zero) number of times:   Choose a positive integer 1 \leq k \leq n.  Swap the prefix of the string s_1 and the suffix of the string s_2 of length k. Is it possible to make these two strings equal by doing described operations?

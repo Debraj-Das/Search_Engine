@@ -1,0 +1,9 @@
+Obtain The String                    
+
+https://codeforces.com/problemset/problem/1295/C
+
+dp
+
+1600
+
+You are given two strings s and t consisting of lowercase Latin letters. Also you have a string z which is initially empty. You want string z to be equal to string t. You can perform the following operation to achieve this: append any subsequence of s at the end of string z. A subsequence is a sequence that can be derived from the given sequence by deleting zero or more elements without changing the order of the remaining elements. For example, if z = ac, s = abcde, you may turn z into following strings in one operation:   z = acace (if we choose subsequence ace);  z = acbcd (if we choose subsequence bcd);  z = acbce (if we choose subsequence bce). Note that after this operation string s doesn't change.Calculate the minimum number of such operations to turn string z into string t. 

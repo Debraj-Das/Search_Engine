@@ -1,0 +1,9 @@
+The Meeting Place Cannot Be Changed                    
+
+https://codeforces.com/problemset/problem/982/F
+
+dfs and similar
+
+2700
+
+Petr is a detective in Braginsk. Somebody stole a huge amount of money from a bank and Petr is to catch him. Somebody told Petr that some luxurious car moves along the roads without stopping.Petr knows that it is the robbers who drive the car. The roads in Braginsk are one-directional and each of them connects two intersections. Petr wants to select one intersection such that if the robbers continue to drive the roads indefinitely, they will sooner or later come to that intersection. The initial position of the robbers is unknown. Find such an intersection that fits the requirements.

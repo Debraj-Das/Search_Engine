@@ -1,0 +1,9 @@
+Increasing Matrix                    
+
+https://codeforces.com/problemset/problem/1231/C
+
+greedy
+
+1100
+
+In this problem, a n \times m rectangular matrix a is called increasing if, for each row of i, when go from left to right, the values strictly increase (that is, a_{i,1}<a_{i,2}<\dots<a_{i,m}) and for each column j, when go from top to bottom, the values strictly increase (that is, a_{1,j}<a_{2,j}<\dots<a_{n,j}).In a given matrix of non-negative integers, it is necessary to replace each value of 0 with some positive integer so that the resulting matrix is increasing and the sum of its elements is maximum, or find that it is impossible.It is guaranteed that in a given value matrix all values of 0 are contained only in internal cells (that is, not in the first or last row and not in the first or last column).

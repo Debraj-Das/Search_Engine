@@ -1,0 +1,9 @@
+Two Fairs                    
+
+https://codeforces.com/problemset/problem/1276/B
+
+combinatorics
+
+1900
+
+There are n cities in Berland and some pairs of them are connected by two-way roads. It is guaranteed that you can pass from any city to any other, moving along the roads. Cities are numerated from 1 to n.Two fairs are currently taking place in Berland — they are held in two different cities a and b (1 \le a, b \le n; a \ne b).Find the number of pairs of cities x and y (x \ne a, x \ne b, y \ne a, y \ne b) such that if you go from x to y you will have to go through both fairs (the order of visits doesn't matter). Formally, you need to find the number of pairs of cities x,y such that any path from x to y goes through a and b (in any order).Print the required number of pairs. The order of two cities in a pair does not matter, that is, the pairs (x,y) and (y,x) must be taken into account only once.

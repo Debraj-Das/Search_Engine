@@ -1,0 +1,9 @@
+Sasha and Array                    
+
+httpscodeforcescomproblemsetproblem718C
+
+data structures
+
+2300
+
+Sasha has an array of integers a1a2an You have to perform m queries There might be queries of two types  1 l r x increase all integers on the segment from l to r by values x  2 l r find  where fx is the xth Fibonacci number As this number may be large you only have to find it modulo 1097 In this problem we define Fibonacci numbers as follows f11 f21 fxfx1fx2 for all x2Sasha is a very talented boy and he managed to perform all queries in five seconds Will you be able to write the program that performs as well as Sasha

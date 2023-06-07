@@ -1,0 +1,9 @@
+Yet Another Array Queries Problem                    
+
+httpscodeforcescomproblemsetproblem863D
+
+data structures
+
+1800
+
+You are given an array a of size n and q queries to it There are queries of two types   1 li ri  perform a cyclic shift of the segment liri to the right That is for every x such that lixri new value of ax1 becomes equal to old value of ax and new value of ali becomes equal to old value of ari  2 li ri  reverse the segment liri  There are m important indices in the array b1 b2  bm For each i such that 1im you have to output the number that will have index bi in the array after all queries are performed

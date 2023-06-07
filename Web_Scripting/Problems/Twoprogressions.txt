@@ -1,0 +1,9 @@
+Two progressions                    
+
+httpscodeforcescomproblemsetproblem125D
+
+constructive algorithms
+
+2200
+
+An arithmetic progression is such a nonempty sequence of numbers where the difference between any two successive numbers is constant This constant number is called common difference For example the sequence 3 7 11 15 is an arithmetic progression The definition implies that any sequences whose length equals 1 or 2 are arithmetic and all sequences whose length equals 0 are nonarithmeticYou are given a sequence of different integers a1a2an You should either split it into two arithmetic progressions or find out that the operation is impossible to perform Splitting assigns each member of the given sequence to one of two progressions but the relative order of numbers does not change Splitting is an inverse operation to merging

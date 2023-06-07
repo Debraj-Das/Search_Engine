@@ -1,0 +1,9 @@
+Zero Path                    
+
+https://codeforces.com/problemset/problem/1695/C
+
+brute force
+
+1700
+
+You are given a grid with n rows and m columns. We denote the square on the i-th (1\le i\le n) row and j-th (1\le j\le m) column by (i, j) and the number there by a_{ij}. All numbers are equal to 1 or to -1. You start from the square (1, 1) and can move one square down or one square to the right at a time. In the end, you want to end up at the square (n, m).Is it possible to move in such a way so that the sum of the values written in all the visited cells (including a_{11} and a_{nm}) is 0?

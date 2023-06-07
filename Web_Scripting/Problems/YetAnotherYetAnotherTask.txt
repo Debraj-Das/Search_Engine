@@ -1,0 +1,9 @@
+Yet Another Yet Another Task                    
+
+https://codeforces.com/problemset/problem/1359/D
+
+data structures
+
+2000
+
+Alice and Bob are playing yet another card game. This time the rules are the following. There are n cards lying in a row in front of them. The i-th card has value a_i. First, Alice chooses a non-empty consecutive segment of cards [l; r] (l \le r). After that Bob removes a single card j from that segment (l \le j \le r). The score of the game is the total value of the remaining cards on the segment (a_l + a_{l + 1} + \dots + a_{j - 1} + a_{j + 1} + \dots + a_{r - 1} + a_r). In particular, if Alice chooses a segment with just one element, then the score after Bob removes the only card is 0.Alice wants to make the score as big as possible. Bob takes such a card that the score is as small as possible.What segment should Alice choose so that the score is maximum possible? Output the maximum score.

@@ -1,0 +1,9 @@
+Change-free                    
+
+https://codeforces.com/problemset/problem/767/E
+
+greedy
+
+2400
+
+Student Arseny likes to plan his life for n days ahead. He visits a canteen every day and he has already decided what he will order in each of the following n days. Prices in the canteen do not change and that means Arseny will spend ci rubles during the i-th day.There are 1-ruble coins and 100-ruble notes in circulation. At this moment, Arseny has m coins and a sufficiently large amount of notes (you can assume that he has an infinite amount of them). Arseny loves modern technologies, so he uses his credit card everywhere except the canteen, but he has to pay in cash in the canteen because it does not accept cards.Cashier always asks the student to pay change-free. However, it's not always possible, but Arseny tries to minimize the dissatisfaction of the cashier. Cashier's dissatisfaction for each of the days is determined by the total amount of notes and coins in the change. To be precise, if the cashier gives Arseny x notes and coins on the i-th day, his dissatisfaction for this day equals x·wi. Cashier always gives change using as little coins and notes as possible, he always has enough of them to be able to do this.  "Caution! Angry cashier" Arseny wants to pay in such a way that the total dissatisfaction of the cashier for n days would be as small as possible. Help him to find out how he needs to pay in each of the n days!Note that Arseny always has enough money to pay, because he has an infinite amount of notes. Arseny can use notes and coins he received in change during any of the following days.

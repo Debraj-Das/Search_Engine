@@ -1,0 +1,9 @@
+Flow Optimality                    
+
+httpscodeforcescomproblemsetproblem457E
+
+constructive algorithms
+
+3000
+
+There is a computer network consisting of n nodes numbered 1 through n There are links in the network that connect pairs of nodes A pair of nodes may have multiple links between them but no node has a link to itselfEach link supports unlimited bandwidth in either direction however a link may only transmit in a single direction at any given time The cost of sending data across a link is proportional to the square of the bandwidth Specifically each link has a positive weight and the cost of sending data across the link is the weight times the square of the bandwidthThe network is connected there is a series of links from any node to any other node and furthermore designed to remain connected in the event of any single node failureYou needed to send data from node 1 to node n at a bandwidth of some positive number k That is you wish to assign a bandwidth to each link so that the bandwidth into a node minus the bandwidth out of a node is k for node 1 k for node n and 0 for all other nodes The individual bandwidths do not need to be integersWishing to minimize the total cost you drew a diagram of the network then gave the task to an intern to solve The intern claimed to have solved the task and written the optimal bandwidths on your diagram but then spilled coffee on it rendering much of it unreadable including parts of the original diagram and the value of kFrom the information available determine if the interns solution may have been optimal That is determine if there exists a valid network total bandwidth and optimal solution which is a superset of the given information Furthermore determine the efficiency of the interns solution if possible where efficiency is defined as total cost divided by total bandwidth

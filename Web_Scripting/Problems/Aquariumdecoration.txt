@@ -1,0 +1,9 @@
+Aquarium decoration                    
+
+https://codeforces.com/problemset/problem/799/E
+
+data structures
+
+2500
+
+Arkady and Masha want to choose decorations for thier aquarium in Fishdom game. They have n decorations to choose from, each of them has some cost. To complete a task Arkady and Masha need to choose exactly m decorations from given, and they want to spend as little money as possible.There is one difficulty: Masha likes some a of the given decorations, Arkady likes some b of the given decorations. Some decorations may be liked by both Arkady and Masha, or not be liked by both. The friends want to choose such decorations so that each of them likes at least k decorations among the chosen. Help Masha and Arkady find the minimum sum of money they need to spend.

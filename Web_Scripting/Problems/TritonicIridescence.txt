@@ -1,0 +1,9 @@
+Tritonic Iridescence                    
+
+https://codeforces.com/problemset/problem/957/A
+
+implementation
+
+1300
+
+Overlooking the captivating blend of myriads of vernal hues, Arkady the painter lays out a long, long canvas.Arkady has a sufficiently large amount of paint of three colours: cyan, magenta, and yellow. On the one-dimensional canvas split into n consecutive segments, each segment needs to be painted in one of the colours.Arkady has already painted some (possibly none or all) segments and passes the paintbrush to you. You are to determine whether there are at least two ways of colouring all the unpainted segments so that no two adjacent segments are of the same colour. Two ways are considered different if and only if a segment is painted in different colours in them.

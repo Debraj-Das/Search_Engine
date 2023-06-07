@@ -1,0 +1,9 @@
+Ehab and Prefix MEXs                    
+
+https://codeforces.com/problemset/problem/1364/C
+
+brute force
+
+1600
+
+Given an array a of length n, find another array, b, of length n such that:  for each i (1 \le i \le n) MEX(\{b_1, b_2, \ldots, b_i\})=a_i. The MEX of a set of integers is the smallest non-negative integer that doesn't belong to this set.If such array doesn't exist, determine this.

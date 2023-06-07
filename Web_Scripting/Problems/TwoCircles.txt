@@ -1,0 +1,9 @@
+Two Circles                    
+
+httpscodeforcescomproblemsetproblem363E
+
+brute force
+
+2500
+
+Lets assume that we are given an nm table filled by integers Well mark a cell in the ith row and jth column as ij Thus 11 is the upper left cell of the table and nm is the lower right cell Well assume that a circle of radius r with the center in cell i0j0 is a set of such cells ij that  Well consider only the circles that do not go beyond the limits of the table that is for which r1i0nr and r1j0mr    A circle of radius 3 with the center at 45 Find two such nonintersecting circles of the given radius r that the sum of numbers in the cells that belong to these circles is maximum Two circles intersect if there is a cell that belongs to both circles As there can be more than one way to choose a pair of circles with the maximum sum we will also be interested in the number of such pairs Calculate the number of unordered pairs of circles for instance a pair of circles of radius 2 with centers at 34 and 77 is the same pair as the pair of circles of radius 2 with centers at 77 and 34 

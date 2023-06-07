@@ -1,0 +1,9 @@
+Josuke and Complete Graph                    
+
+https://codeforces.com/problemset/problem/1780/E
+
+binary search
+
+2400
+
+Josuke received a huge undirected weighted complete^\dagger graph G as a gift from his grandfather. The graph contains 10^{18} vertices. The peculiarity of the gift is that the weight of the edge between the different vertices u and v is equal to \gcd(u, v)^\ddagger. Josuke decided to experiment and make a new graph G'. To do this, he chooses two integers l \le r and deletes all vertices except such vertices v that l \le v \le r, and also deletes all the edges except between the remaining vertices.Now Josuke is wondering how many different weights are there in G'. Since their count turned out to be huge, he asks for your help.^\dagger A complete graph is a simple undirected graph in which every pair of distinct vertices is adjacent.^\ddagger \gcd(x, y) denotes the greatest common divisor (GCD) of the numbers x and y.

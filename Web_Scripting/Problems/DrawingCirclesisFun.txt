@@ -1,0 +1,9 @@
+Drawing Circles is Fun                    
+
+httpscodeforcescomproblemsetproblem372E
+
+combinatorics
+
+3000
+
+There are a set of points S on the plane This set doesnt contain the origin O00 and for each two distinct points in the set A and B the triangle OAB has strictly positive areaConsider a set of pairs of points P1P2P3P4P2k1P2k Well call the set good if and only if  k2  All Pi are distinct and each Pi is an element of S  For any two pairs P2i1P2i and P2j1P2j the circumcircles of triangles OP2i1P2j1 and OP2iP2j have a single common point and the circumcircle of triangles OP2i1P2j and OP2iP2j1 have a single common point Calculate the number of good sets of pairs modulo 1000000007 1097

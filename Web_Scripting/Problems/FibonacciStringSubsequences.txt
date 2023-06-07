@@ -1,0 +1,9 @@
+Fibonacci String Subsequences                    
+
+httpscodeforcescomproblemsetproblem946F
+
+combinatorics
+
+2400
+
+You are given a binary string s each character of this string is either 0 or 1Lets denote the cost of string t as the number of occurences of s in t For example if s is 11 and t is 111011 then the cost of t is 3Lets also denote the Fibonacci strings sequence as follows F0 is 0 F1 is 1 FiFi1Fi2 if i1 where  means the concatenation of two stringsYour task is to calculate the sum of costs of all subsequences of the string Fx Since answer may be large calculate it modulo 1097

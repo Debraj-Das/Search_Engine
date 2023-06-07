@@ -1,0 +1,9 @@
+Wi-Fi                    
+
+https://codeforces.com/problemset/problem/1216/F
+
+data structures
+
+2100
+
+You work as a system administrator in a dormitory, which has n rooms one after another along a straight hallway. Rooms are numbered from 1 to n.You have to connect all n rooms to the Internet.You can connect each room to the Internet directly, the cost of such connection for the i-th room is i coins. Some rooms also have a spot for a router. The cost of placing a router in the i-th room is also i coins. You cannot place a router in a room which does not have a spot for it. When you place a router in the room i, you connect all rooms with the numbers from max(1,~i - k) to min(n,~i + k) inclusive to the Internet, where k is the range of router. The value of k is the same for all routers. Calculate the minimum total cost of connecting all n rooms to the Internet. You can assume that the number of rooms which have a spot for a router is not greater than the number of routers you have.

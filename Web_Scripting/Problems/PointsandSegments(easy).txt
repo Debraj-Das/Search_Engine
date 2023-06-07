@@ -1,0 +1,9 @@
+Points and Segments easy                    
+
+httpscodeforcescomproblemsetproblem430A
+
+constructive algorithms
+
+1600
+
+Iahub isnt well prepared on geometry problems but he heard that this year there will be a lot of geometry problems on the IOI selection camp Scared Iahub locked himself in the basement and started thinking of new problems of this kind One of them is the followingIahub wants to draw n distinct points and m segments on the OX axis He can draw each point with either red or blue The drawing is good if and only if the following requirement is met for each segment liri consider all the red points belong to it ri points and all the blue points belong to it bi points each segment i should satisfy the inequality ribi1Iahub thinks that point x belongs to segment lr if inequality lxr holdsIahub gives to you all coordinates of points and segments Please help him to find any good drawing

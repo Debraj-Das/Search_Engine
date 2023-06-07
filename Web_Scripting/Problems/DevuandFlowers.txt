@@ -1,0 +1,9 @@
+Devu and Flowers                    
+
+httpscodeforcescomproblemsetproblem451E
+
+bitmasks
+
+2300
+
+Devu wants to decorate his garden with flowers He has purchased n boxes where the ith box contains fi flowers All flowers in a single box are of the same color hence they are indistinguishable Also no two boxes have flowers of the same colorNow Devu wants to select exactly s flowers from the boxes to decorate his garden Devu would like to know in how many different ways can he select the flowers from each box Since this number may be very large he asks you to find the number modulo 1097 Devu considers two ways different if there is at least one box from which different number of flowers are selected in these two ways

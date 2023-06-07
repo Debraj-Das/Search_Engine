@@ -1,0 +1,9 @@
+PalindORme                    
+
+https://codeforces.com/problemset/problem/1605/F
+
+combinatorics
+
+2900
+
+An integer array a of length n is said to be a PalindORme if (a_{1} | a_{2}  |  \ldots  |  a_{i}) = (a_{{n - i + 1}}  |  \ldots  |  a_{{n - 1}}  |  a_{n})  for all  1 \leq i \leq n, where | denotes the bitwise OR operation.An integer array a of length n is considered to be good if its elements can be rearranged to form a PalindORme. Formally, array a is good if there exists a permutation p_1, p_2, \ldots p_n (an array where each integer from 1 to n appears exactly once) for which a_{p_1}, a_{p_2}, \ldots a_{p_n} is a PalindORme.Find the number of good arrays of length n, consisting only of integers in the range [0, 2^{k} - 1], and print it modulo some prime m.Two arrays a_1, a_2, \ldots, a_n and b_1, b_2, \ldots, b_n are considered to be different if there exists any i (1 \leq i \leq n) such that a_i \ne b_i.

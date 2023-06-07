@@ -1,0 +1,9 @@
+Constant Palindrome Sum                    
+
+https://codeforces.com/problemset/problem/1343/D
+
+brute force
+
+1700
+
+You are given an array a consisting of n integers (it is guaranteed that n is even, i.e. divisible by 2). All a_i does not exceed some integer k.Your task is to replace the minimum number of elements (replacement is the following operation: choose some index i from 1 to n and replace a_i with some integer in range [1; k]) to satisfy the following conditions:  after all replacements, all a_i are positive integers not greater than k;  for all i from 1 to \frac{n}{2} the following equation is true: a_i + a_{n - i + 1} = x, where x should be the same for all \frac{n}{2} pairs of elements. You have to answer t independent test cases.

@@ -1,0 +1,9 @@
+Li Hua and Array                    
+
+https://codeforces.com/problemset/problem/1797/E
+
+brute force
+
+2300
+
+Li Hua wants to solve a problem about \varphi — Euler's totient function. Please recall that \varphi(x)=\sum\limits_{i=1}^x[\gcd(i,x)=1].^{\dagger,\ddagger}He has a sequence a_1,a_2,\cdots,a_n and he wants to perform m operations:  "1 l r" (1\le l\le r\le n) — for each x\in[l,r], change a_x into \varphi(a_x).  "2 l r" (1\le l\le r\le n) — find out the minimum changes needed to make sure a_l=a_{l+1}=\cdots=a_r. In each change, he chooses one x\in[l,r], change a_x into \varphi(a_x). Each operation of this type is independent, which means the array doesn't actually change. Suppose you were Li Hua, please solve this problem.^\dagger \gcd(x,y) denotes the greatest common divisor (GCD) of integers x and y. ^\ddagger The notation [\textrm{cond}] equals 1 if the condition \textrm{cond} is true, and 0 otherwise.

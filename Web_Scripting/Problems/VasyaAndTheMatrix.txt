@@ -1,0 +1,9 @@
+Vasya And The Matrix                    
+
+httpscodeforcescomproblemsetproblem1016D
+
+constructive algorithms
+
+1800
+
+Now Vasya is taking an exam in mathematics In order to get a good mark Vasya needs to guess the matrix that the teacher has constructedVasya knows that the matrix consists of n rows and m columns For each row he knows the xor bitwise excluding or of the elements in this row The sequence a1a2an denotes the xor of elements in rows with indices 1 2  n respectively Similarly for each column he knows the xor of the elements in this column The sequence b1b2bm denotes the xor of elements in columns with indices 1 2  m respectivelyHelp Vasya Find a matrix satisfying the given constraints or tell him that there is no suitable matrix

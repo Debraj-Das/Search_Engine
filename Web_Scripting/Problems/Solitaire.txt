@@ -1,0 +1,9 @@
+Solitaire                    
+
+httpscodeforcescomproblemsetproblem71D
+
+brute force
+
+2200
+
+Vasya has a pack of 54 cards 52 standard cards and 2 distinct jokers That is all he has at the moment Not to die from boredom Vasya plays Solitaire with themVasya lays out nm cards as a rectangle nm If there are jokers among them then Vasya should change them with some of the rest of 54nm cards which are not layed out so that there were no jokers left Vasya can pick the cards to replace the jokers arbitrarily Remember that each card presents in pack exactly once i e in a single copy Vasya tries to perform the replacements so that the solitaire was solvedVasya thinks that the solitaire is solved if after the jokers are replaced there exist two nonoverlapping squares 33 inside each of which all the cards either have the same suit or pairwise different ranksDetermine by the initial position whether the solitaire can be solved or not If it can be solved show the way in which it is possible

@@ -1,0 +1,9 @@
+Roads Orientation Problem                    
+
+httpscodeforcescomproblemsetproblem730K
+
+graphs
+
+3200
+
+Berland consists of n cities and m bidirectional roads connecting pairs of cities There is no road connecting a city to itself and between any pair of cities there is no more than one road It is possible to reach any city from any other moving along roadsCurrently Mr President is in the city s and his destination is the city t He plans to move along roads from s to t stThats why Ministry of Fools and Roads has difficult days The minister is afraid that Mr President could get into a traffic jam or get lost Who knows what else can happenTo be sure that everything goes as planned the minister decided to temporarily make all roads oneway So each road will be oriented in one of two possible directions The following conditions must be satisfied  There should be no cycles along roads after orientation  The city s should be the only such city that all its roads are oriented out ie there are no ingoing roads to the city s and the city s is the only such city  The city t should be the only such city that all its roads are oriented in ie there are no outgoing roads from the city t and the city t is the only such city Help the minister solve his problem Write a program to find any such orientation of all roads or report that no solution exists

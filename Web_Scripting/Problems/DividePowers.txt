@@ -1,0 +1,9 @@
+Divide Powers                    
+
+https://codeforces.com/problemset/problem/1452/F
+
+constructive algorithms
+
+2900
+
+You are given a multiset of powers of two. More precisely, for each i from 0 to n exclusive you have cnt_i elements equal to 2^i.In one operation, you can choose any one element 2^l > 1 and divide it into two elements 2^{l - 1}.You should perform q queries. Each query has one of two types:   "1 pos val" — assign cnt_{pos} := val;  "2 x k" — calculate the minimum number of operations you need to make at least k elements with value lower or equal to 2^x. Note that all queries of the second type don't change the multiset; that is, you just calculate the minimum number of operations, you don't perform them.

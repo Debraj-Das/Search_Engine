@@ -1,0 +1,9 @@
+Windblume Ode                    
+
+https://codeforces.com/problemset/problem/1583/A
+
+math
+
+800
+
+A bow adorned with nameless flowers that bears the earnest hopes of an equally nameless person.You have obtained the elegant bow known as the Windblume Ode. Inscribed in the weapon is an array of n (n \ge 3) positive distinct integers (i.e. different, no duplicates are allowed).Find the largest subset (i.e. having the maximum number of elements) of this array such that its sum is a composite number. A positive integer x is called composite if there exists a positive integer y such that 1 < y < x and x is divisible by y.If there are multiple subsets with this largest size with the composite sum, you can output any of them. It can be proven that under the constraints of the problem such a non-empty subset always exists.

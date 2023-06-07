@@ -1,0 +1,9 @@
+Singer House                    
+
+httpscodeforcescomproblemsetproblem830D
+
+combinatorics
+
+2800
+
+It is known that passages in Singer house are complex and intertwined Lets define a Singer khouse as a graph built by the following process take complete binary tree of height k and add edges from each vertex to all its successors if they are not yet present  Singer 4house Count the number of nonempty paths in Singer khouse which do not pass the same vertex twice Two paths are distinct if the sets or the orders of visited vertices are different Since the answer can be large output it modulo 1097

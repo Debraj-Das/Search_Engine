@@ -1,0 +1,9 @@
+The Hero with Bombs                    
+
+httpscodeforcescomproblemsetproblem683J
+
+special problem
+
+3000
+
+In a new computer game you need to help the hero to get out of the maze which is a rectangular field of size nm The hero is located in one of the cells of this field He knows where the exit of the maze is and he wants to reach itIn one move the hero can either move to the next cell ie the cell which has a common side with the current cell if it is free or plant a bomb on the cell where he is or skip the move and do nothing A planted bomb explodes after three moves that is after the hero makes 3 more actions but does not have time to make the fourth all three types of moves described above are considered as actionsThe explosion destroys the obstacles in all the cells which have at least one common point with this cell ie in all the cells sharing with the bomb cell a corner or a side The explosion must not hurt the cell with the exit or the cell with the hero The hero can not go beyond the boundaries of the mazeYour task is to determine the sequence of heros actions to reach the exit Note that you havent to minimize the length of the sequence The only restriction  the length of the resulting sequence should not exceed 100000 symbols

@@ -1,0 +1,9 @@
+Narrow Components                    
+
+https://codeforces.com/problemset/problem/1661/E
+
+brute force
+
+2500
+
+You are given a matrix a, consisting of 3 rows and n columns. Each cell of the matrix is either free or taken.A free cell y is reachable from a free cell x if at least one of these conditions hold:   x and y share a side;  there exists a free cell z such that z is reachable from x and y is reachable from z. A connected component is a set of free cells of the matrix such that all cells in it are reachable from one another, but adding any other free cell to the set violates this rule.You are asked q queries about the matrix. Each query is the following:   l r — count the number of connected components of the matrix, consisting of columns from l to r of the matrix a, inclusive. Print the answers to all queries.

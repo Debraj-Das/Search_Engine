@@ -1,0 +1,9 @@
+Find Divisible                    
+
+https://codeforces.com/problemset/problem/1096/A
+
+greedy
+
+800
+
+You are given a range of positive integers from l to r.Find such a pair of integers (x, y) that l \le x, y \le r, x \ne y and x divides y.If there are multiple answers, print any of them.You are also asked to answer T independent queries.

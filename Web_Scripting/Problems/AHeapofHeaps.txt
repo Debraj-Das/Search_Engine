@@ -1,0 +1,9 @@
+A Heap of Heaps                    
+
+httpscodeforcescomproblemsetproblem538F
+
+brute force
+
+2200
+
+Andrew skipped lessons on the subject Algorithms and Data Structures for the entire term When he came to the final test the teacher decided to give him a difficult task as a punishmentThe teacher gave Andrew an array of n numbers a1  an After that he asked Andrew for each k from 1 to n1 to build a kary heap on the array and count the number of elements for which the property of the minimumrooted heap is violated ie the value of an element is less than the value of its parentAndrew looked up on the Wikipedia that a kary heap is a rooted tree with vertices in elements of the array If the elements of the array are indexed from 1 to n then the children of element v are elements with indices kv12  kv1 if some of these elements lie outside the borders of the array the corresponding children are absent In any kary heap every element except for the first one has exactly one parent for the element 1 the parent is absent this element is the root of the heap Denote pv as the number of the parent of the element with the number v Lets say that for a nonroot element v the property of the heap is violated if avapvHelp Andrew cope with the task

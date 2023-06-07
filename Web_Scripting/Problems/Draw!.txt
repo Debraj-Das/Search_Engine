@@ -1,0 +1,9 @@
+Draw!                    
+
+https://codeforces.com/problemset/problem/1131/B
+
+greedy
+
+1400
+
+You still have partial information about the score during the historic football match. You are given a set of pairs (a_i, b_i), indicating that at some point during the match the score was "a_i: b_i". It is known that if the current score is «x:y», then after the goal it will change to "x+1:y" or "x:y+1". What is the largest number of times a draw could appear on the scoreboard?The pairs "a_i:b_i" are given in chronological order (time increases), but you are given score only for some moments of time. The last pair corresponds to the end of the match.

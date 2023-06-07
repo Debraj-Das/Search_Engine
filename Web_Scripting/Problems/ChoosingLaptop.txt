@@ -1,0 +1,9 @@
+Choosing Laptop                    
+
+https://codeforces.com/problemset/problem/106/B
+
+brute force
+
+1000
+
+Vasya is choosing a laptop. The shop has n laptops to all tastes.Vasya is interested in the following properties: processor speed, ram and hdd. Vasya is a programmer and not a gamer which is why he is not interested in all other properties.If all three properties of a laptop are strictly less than those properties of some other laptop, then the first laptop is considered outdated by Vasya. Among all laptops Vasya does not consider outdated, he chooses the cheapest one.There are very many laptops, which is why Vasya decided to write a program that chooses the suitable laptop. However, Vasya doesn't have his own laptop yet and he asks you to help him.

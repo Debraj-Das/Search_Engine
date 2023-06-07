@@ -1,0 +1,9 @@
+Little Elephant and Sorting                    
+
+httpscodeforcescomproblemsetproblem205B
+
+brute force
+
+1400
+
+The Little Elephant loves sortingsHe has an array a consisting of n integers Lets number the array elements from 1 to n then the ith element will be denoted as ai The Little Elephant can make one move to choose an arbitrary pair of integers l and r 1lrn and increase ai by 1 for all i such that lirHelp the Little Elephant find the minimum number of moves he needs to convert array a to an arbitrary array sorted in the nondecreasing order Array a consisting of n elements is sorted in the nondecreasing order if for any i 1in aiai1 holds

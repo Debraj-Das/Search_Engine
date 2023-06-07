@@ -1,0 +1,9 @@
+PriceFixed                    
+
+https://codeforces.com/problemset/problem/1539/D
+
+binary search
+
+1600
+
+Lena is the most economical girl in Moscow. So, when her dad asks her to buy some food for a trip to the country, she goes to the best store  — "PriceFixed". Here are some rules of that store:  The store has an infinite number of items of every product.  All products have the same price: 2 rubles per item.  For every product i there is a discount for experienced buyers: if you buy b_i items of products (of any type, not necessarily type i), then for all future purchases of the i-th product there is a 50\% discount (so you can buy an item of the i-th product for 1 ruble!). Lena needs to buy n products: she must purchase at least a_i items of the i-th product. Help Lena to calculate the minimum amount of money she needs to spend if she optimally chooses the order of purchasing. Note that if she wants, she can buy more items of some product than needed.

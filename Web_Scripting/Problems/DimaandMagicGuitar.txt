@@ -1,0 +1,9 @@
+Dima and Magic Guitar                    
+
+httpscodeforcescomproblemsetproblem366E
+
+brute force
+
+2200
+
+Dima loves Inna very much He decided to write a song for her Dima has a magic guitar with n strings and m frets Dima makes the guitar produce sounds like that to play a note he needs to hold one of the strings on one of the frets and then pull the string When Dima pulls the ith string holding it on the jth fret the guitar produces a note lets denote it as aij We know that Dimas guitar can produce k distinct notes It is possible that some notes can be produced in multiple ways In other words it is possible that aijapq at ijpqDima has already written a song  a sequence of s notes In order to play the song you need to consecutively produce the notes from the song on the guitar You can produce each note in any available way Dima understood that there are many ways to play a song and he wants to play it so as to make the song look as complicated as possible try to act like CobeinWell represent a way to play a song as a sequence of pairs xiyi 1is such that the xith string on the yith fret produces the ith note from the song The complexity of moving between pairs x1y1 and x2y2 equals    The complexity of a way to play a song is the maximum of complexities of moving between adjacent pairsHelp Dima determine the maximum complexity of the way to play his song The guys gotta look cool

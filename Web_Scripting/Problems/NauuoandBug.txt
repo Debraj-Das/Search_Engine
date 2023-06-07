@@ -1,0 +1,9 @@
+Nauuo and Bug                    
+
+https://codeforces.com/problemset/problem/1172/F
+
+data structures
+
+3300
+
+Nauuo is a girl who loves coding.One day she was solving a problem which requires to calculate a sum of some numbers modulo p.She wrote the following code and got the verdict "Wrong answer".She soon discovered the bug — the ModAdd function only worked for numbers in the range [0,p), but the numbers in the problem may be out of the range. She was curious about the wrong function, so she wanted to know the result of it.However, the original code worked too slow, so she asked you to help her.You are given an array a_1,a_2,\ldots,a_n and a number p. Nauuo will make m queries, in each query, you are given l and r, and you have to calculate the results of Sum(a,l,r,p). You can see the definition of the Sum function in the pseudocode above.Note that the integers won't overflow in the code above.

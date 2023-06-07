@@ -1,0 +1,9 @@
+Candies Distribution                    
+
+https://codeforces.com/problemset/problem/1054/C
+
+constructive algorithms
+
+1500
+
+There are n children numbered from 1 to n in a kindergarten. Kindergarten teacher gave a_i (1 \leq a_i \leq n) candies to the i-th child. Children were seated in a row in order from 1 to n from left to right and started eating candies. While the i-th child was eating candies, he calculated two numbers l_i and r_i — the number of children seating to the left of him that got more candies than he and the number of children seating to the right of him that got more candies than he, respectively.Formally, l_i is the number of indices j (1 \leq j < i), such that a_i < a_j and r_i is the number of indices j (i < j \leq n), such that a_i < a_j.Each child told to the kindergarten teacher the numbers l_i and r_i that he calculated. Unfortunately, she forgot how many candies she has given to each child. So, she asks you for help: given the arrays l and r determine whether she could have given the candies to the children such that all children correctly calculated their values l_i and r_i, or some of them have definitely made a mistake. If it was possible, find any way how she could have done it.

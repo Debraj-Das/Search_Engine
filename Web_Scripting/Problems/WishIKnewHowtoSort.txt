@@ -1,0 +1,9 @@
+Wish I Knew How to Sort                    
+
+https://codeforces.com/problemset/problem/1753/C
+
+dp
+
+2000
+
+You are given a binary array a (all elements of the array are 0 or 1) of length n. You wish to sort this array, but unfortunately, your algorithms teacher forgot to teach you sorting algorithms. You perform the following operations until a is sorted:  Choose two random indices i and j such that i < j. Indices are chosen equally probable among all pairs of indices (i, j) such that 1 \le i < j \le n.  If a_i > a_j, then swap elements a_i and a_j. What is the expected number of such operations you will perform before the array becomes sorted?It can be shown that the answer can be expressed as an irreducible fraction \frac{p}{q}, where p and q are integers and q \not \equiv 0 \pmod{998\,244\,353}. Output the integer equal to p \cdot q^{-1} \bmod 998\,244\,353. In other words, output such an integer x that 0 \le x < 998\,244\,353 and x \cdot q \equiv p \pmod{998\,244\,353}.

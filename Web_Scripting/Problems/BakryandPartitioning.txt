@@ -1,0 +1,9 @@
+Bakry and Partitioning                    
+
+https://codeforces.com/problemset/problem/1592/C
+
+bitmasks
+
+1700
+
+Bakry faced a problem, but since he's lazy to solve it, he asks for your help.You are given a tree of n nodes, the i-th node has value a_i assigned to it for each i from 1 to n. As a reminder, a tree on n nodes is a connected graph with n-1 edges.You want to delete at least 1, but at most k-1 edges from the tree, so that the following condition would hold:For every connected component calculate the bitwise XOR of the values of the nodes in it. Then, these values have to be the same for all connected components.Is it possible to achieve this condition?

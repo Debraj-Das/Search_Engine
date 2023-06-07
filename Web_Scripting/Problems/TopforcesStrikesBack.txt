@@ -1,0 +1,9 @@
+Topforces Strikes Back                    
+
+https://codeforces.com/problemset/problem/1183/F
+
+brute force
+
+2100
+
+One important contest will take place on the most famous programming platform (Topforces) very soon!The authors have a pool of n problems and should choose at most three of them into this contest. The prettiness of the i-th problem is a_i. The authors have to compose the most pretty contest (in other words, the cumulative prettinesses of chosen problems should be maximum possible).But there is one important thing in the contest preparation: because of some superstitions of authors, the prettinesses of problems cannot divide each other. In other words, if the prettinesses of chosen problems are x, y, z, then x should be divisible by neither y, nor z, y should be divisible by neither x, nor z and z should be divisible by neither x, nor y. If the prettinesses of chosen problems are x and y then neither x should be divisible by y nor y should be divisible by x. Any contest composed from one problem is considered good.Your task is to find out the maximum possible total prettiness of the contest composed of at most three problems from the given pool.You have to answer q independent queries.If you are Python programmer, consider using PyPy instead of Python when you submit your code.

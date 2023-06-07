@@ -1,0 +1,9 @@
+Music Festival                    
+
+https://codeforces.com/problemset/problem/1801/C
+
+binary search
+
+1900
+
+ The boy Vitya loves to listen to music very much. He knows that n albums are due to be released this Friday, i-th of which contains k_i tracks. Of course, Vitya has already listened to all the tracks, and knows that in the i-th album, the coolness of the j-th track is equal to a_{i,j}.Vitya has a friend Masha, whom he really wants to invite to the festival, where his favorite bands perform. However, in order for a friend to agree, she must first evaluate the released novelties. Vitya knows that if Masha listens to a track that was cooler than all the previous ones, she will get 1 unit of impression. Unfortunately, albums can only be listened to in their entirety, without changing the songs in them in places.Help Vitya find such an order of albums so that Masha's impression turns out to be as much as possible, and she definitely went to the festival with him. 

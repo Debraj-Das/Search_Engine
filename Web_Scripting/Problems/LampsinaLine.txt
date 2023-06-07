@@ -1,0 +1,9 @@
+Lamps in a Line                    
+
+httpscodeforcescomproblemsetproblem100E
+
+special problem
+
+1600
+
+There are n lamps in a line The lamps are numbered 1 to n from left to right There are also n keys When key number i is pressed all lamps number x such that ix change their stateFor two integer numbers a and b we say ab if and only if there exists an integer c such that acbAmirali likes to play with the keys He randomly pressed k keys and wants to know the final state of the lamps Help him by writing a Pike piece of code to solve this task

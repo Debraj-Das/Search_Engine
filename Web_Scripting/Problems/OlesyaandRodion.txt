@@ -1,0 +1,9 @@
+Olesya and Rodion                    
+
+httpscodeforcescomproblemsetproblem584A
+
+math
+
+1000
+
+Olesya loves numbers consisting of n digits and Rodion only likes numbers that are divisible by t Find some number that satisfies both of themYour task is given the n and t print an integer strictly larger than zero consisting of n digits that is divisible by t If such number doesnt exist print 1

@@ -1,0 +1,9 @@
+Greedy Change                    
+
+httpscodeforcescomproblemsetproblem10E
+
+constructive algorithms
+
+2600
+
+Billy investigates the question of applying greedy algorithm to different spheres of life At the moment he is studying the application of greedy algorithm to the problem about change There is an amount of n coins of different face values and the coins of each value are not limited in number The task is to collect the sum x with the minimum amount of coins Greedy algorithm with each its step takes the coin of the highest face value not exceeding x Obviously if among the coins face values exists the face value 1 any sum x can be collected with the help of greedy algorithm However greedy algorithm does not always give the optimal representation of the sum ie the representation with the minimum amount of coins For example if there are face values 134 and it is asked to collect the sum 6 greedy algorithm will represent the sum as 411 while the optimal representation is 33 containing one coin less By the given set of face values find out if there exist such a sum x that greedy algorithm will collect in a nonoptimal way If such a sum exists find out the smallest of these sums

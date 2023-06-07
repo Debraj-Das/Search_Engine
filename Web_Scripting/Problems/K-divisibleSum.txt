@@ -1,0 +1,9 @@
+K-divisible Sum                    
+
+https://codeforces.com/problemset/problem/1476/A
+
+binary search
+
+1000
+
+You are given two integers n and k.You should create an array of n positive integers a_1, a_2, \dots, a_n such that the sum (a_1 + a_2 + \dots + a_n) is divisible by k and maximum element in a is minimum possible.What is the minimum possible maximum element in a?

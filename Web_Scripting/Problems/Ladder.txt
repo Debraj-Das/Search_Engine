@@ -1,0 +1,9 @@
+Ladder                    
+
+httpscodeforcescomproblemsetproblem279C
+
+dp
+
+1700
+
+Youve got an array consisting of n integers a1a2an Also youve got m queries the ith query is described by two integers liri Numbers liri define a subsegment of the original array that is the sequence of numbers aliali1ali2ari For each query you should check whether the corresponding segment is a ladder A ladder is a sequence of integers b1b2bk such that it first doesnt decrease then doesnt increase In other words there is such integer x 1xk that the following inequation fulfills b1b2bxbx1bx2bk Note that the nondecreasing and the nonincreasing sequences are also considered ladders

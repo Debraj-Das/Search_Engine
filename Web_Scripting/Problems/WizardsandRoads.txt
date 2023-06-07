@@ -1,0 +1,9 @@
+Wizards and Roads                    
+
+httpscodeforcescomproblemsetproblem167D
+
+data structures
+
+3000
+
+In some country live wizards They love to build cities and roadsThe country used to have k cities the jth city 1jk was located at a point xj yj It was decided to create another nk cities And the ith one kin was created at a point with coordinates xi yi  xiaxi1bmod1099  yicyi1dmod1099 Here a b c d are primes Also acbdAfter the construction of all n cities the wizards have noticed something surprising It turned out that for every two different cities i and j xixj and yiyj holdsThe cities are built its time to build roads It was decided to use the most difficult and of course the most powerful spell for the construction of roads Using this spell creates a road between the towns of u v yu  yv if and only if for any city w which lies strictly inside the corner at the point u v see below there is a city s that does not lie in the corner which is located along the xcoordinate strictly between w and u and simultaneously ysyvA corner on the points p2x2 y2 p1x1 y1 y1y2 is the set of points xy for which at least one of the two conditions is fulfilled   minx1x2xmaxx1x2 and yy1  y1yy2 and xx2x1x20    The pictures showing two different corners  In order to test the spell the wizards will apply it to all the cities that lie on the xcoordinate in the interval LR After the construction of roads the national government wants to choose the maximum number of pairs of cities connected by the road so that no city occurs in two or more pairs Your task is for each m offered variants of values L R to calculate the maximum number of such pairs after the construction of the roads Please note that the cities that do not lie in the interval LR on the xcoordinate do not affect the construction of roads in any way

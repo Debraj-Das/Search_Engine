@@ -1,0 +1,9 @@
+TV Shows                    
+
+https://codeforces.com/problemset/problem/1061/D
+
+data structures
+
+2000
+
+There are n TV shows you want to watch. Suppose the whole time is split into equal parts called "minutes". The i-th of the shows is going from l_i-th to r_i-th minute, both ends inclusive.You need a TV to watch a TV show and you can't watch two TV shows which air at the same time on the same TV, so it is possible you will need multiple TVs in some minutes. For example, if segments [l_i, r_i] and [l_j, r_j] intersect, then shows i and j can't be watched simultaneously on one TV.Once you start watching a show on some TV it is not possible to "move" it to another TV (since it would be too distracting), or to watch another show on the same TV until this show ends.There is a TV Rental shop near you. It rents a TV for x rupees, and charges y (y < x) rupees for every extra minute you keep the TV. So in order to rent a TV for minutes [a; b] you will need to pay x + y \cdot (b - a). You can assume, that taking and returning of the TV doesn't take any time and doesn't distract from watching other TV shows. Find the minimum possible cost to view all shows. Since this value could be too large, print it modulo 10^9 + 7.

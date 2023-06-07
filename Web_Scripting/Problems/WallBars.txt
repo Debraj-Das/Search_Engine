@@ -1,0 +1,9 @@
+Wall Bars                    
+
+httpscodeforcescomproblemsetproblem268D
+
+dp
+
+2300
+
+Manao is working for a construction company Recently an order came to build wall bars in a childrens park Manao was commissioned to develop a plan of construction which will enable the company to save the most moneyAfter reviewing the formal specifications for the wall bars Manao discovered a number of controversial requirements and decided to treat them to the companys advantage His resulting design can be described as follows  Lets introduce some unit of length The construction center is a pole of height n  At heights 12n exactly one horizontal bar sticks out from the pole Each bar sticks in one of four prefixed directions  A child can move from one bar to another if the distance between them does not exceed h and they stick in the same direction If a child is on the ground he can climb onto any of the bars at height between 1 and h In Manaos construction a child should be able to reach at least one of the bars at heights nh1nh2n if he begins at the ground   The figure to the left shows what a common set of wall bars looks like The figure to the right shows Manaos construction Manao is wondering how many distinct construction designs that satisfy his requirements exist As this number can be rather large print the remainder after dividing it by 10000000091099 Two designs are considered distinct if there is such height i that the bars on the height i in these designs dont stick out in the same direction

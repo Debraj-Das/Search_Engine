@@ -1,0 +1,9 @@
+Interestring graph and Apples                    
+
+httpscodeforcescomproblemsetproblem9E
+
+dfs and similar
+
+2300
+
+Hexadecimal likes drawing She has drawn many graphs already both directed and not Recently she has started to work on a stilllife interesting graph and apples An undirected graph is called interesting if each of its vertices belongs to one cycle only  a funny ring  and does not belong to any other cycles A funny ring is a cycle that goes through all the vertices just once Moreover loops are funny rings tooShe has already drawn the apples and some of the graph edges But now it is not clear how to connect the rest of the vertices to get an interesting graph as a result The answer should contain the minimal amount of added edges And furthermore the answer should be the lexicographically smallest one The set of edges x1y1x2y2xnyn where xiyi is lexicographically smaller than the set u1v1u2v2unvn where uivi provided that the sequence of integers x1y1x2y2xnyn is lexicographically smaller than the sequence u1v1u2v2unvn If you do not cope Hexadecimal will eat you eat you alive

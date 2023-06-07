@@ -1,0 +1,9 @@
+Round Marriage                    
+
+https://codeforces.com/problemset/problem/981/F
+
+binary search
+
+2500
+
+It's marriage season in Ringland!Ringland has a form of a circle's boundary of length L. There are n bridegrooms and n brides, and bridegrooms decided to marry brides.Of course, each bridegroom should choose exactly one bride, and each bride should be chosen by exactly one bridegroom.All objects in Ringland are located on the boundary of the circle, including the capital, bridegrooms' castles and brides' palaces. The castle of the i-th bridegroom is located at the distance a_i from the capital in clockwise direction, and the palace of the i-th bride is located at the distance b_i from the capital in clockwise direction.Let's define the inconvenience of a marriage the maximum distance that some bride should walk along the circle from her palace to her bridegroom's castle in the shortest direction (in clockwise or counter-clockwise direction).Help the bridegrooms of Ringland to choose brides in such a way that the inconvenience of the marriage is the smallest possible.

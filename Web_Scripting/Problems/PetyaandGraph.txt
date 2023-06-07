@@ -1,0 +1,9 @@
+Petya and Graph                    
+
+https://codeforces.com/problemset/problem/1082/G
+
+flows
+
+2400
+
+Petya has a simple graph (that is, a graph without loops or multiple edges) consisting of n vertices and m edges.The weight of the i-th vertex is a_i.The weight of the i-th edge is w_i.A subgraph of a graph is some set of the graph vertices and some set of the graph edges. The set of edges must meet the condition: both ends of each edge from the set must belong to the chosen set of vertices. The weight of a subgraph is the sum of the weights of its edges, minus the sum of the weights of its vertices. You need to find the maximum weight of subgraph of given graph. The given graph does not contain loops and multiple edges.

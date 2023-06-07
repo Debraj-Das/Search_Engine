@@ -1,0 +1,9 @@
+Big Problems for Organizers                    
+
+httpscodeforcescomproblemsetproblem418D
+
+data structures
+
+2800
+
+The Finals of the Russian Code Cup 2214 will be held in n hotels Two hotels lets assume that they are the main hotels will host all sorts of events and the remaining hotels will accommodate the participants The hotels are connected by n1 roads you can get from any hotel to any other oneThe organizers wonder what is the minimum time all the participants need to get to the main hotels if each participant goes to the main hotel that is nearest to him and moving between two hotels connected by a road takes one unit of timeThe hosts consider various options for the location of the main hotels For each option help the organizers to find minimal time

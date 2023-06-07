@@ -1,0 +1,9 @@
+Little Elephant and Rozdil                    
+
+https://codeforces.com/problemset/problem/205/A
+
+brute force
+
+900
+
+The Little Elephant loves Ukraine very much. Most of all he loves town Rozdol (ukr. "Rozdil").However, Rozdil is dangerous to settle, so the Little Elephant wants to go to some other town. The Little Elephant doesn't like to spend much time on travelling, so for his journey he will choose a town that needs minimum time to travel to. If there are multiple such cities, then the Little Elephant won't go anywhere.For each town except for Rozdil you know the time needed to travel to this town. Find the town the Little Elephant will go to or print "Still Rozdil", if he stays in Rozdil.

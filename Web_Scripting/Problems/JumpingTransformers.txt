@@ -1,0 +1,9 @@
+Jumping Transformers                    
+
+https://codeforces.com/problemset/problem/1218/C
+
+dp
+
+2600
+
+You, the mighty Blackout, are standing in the upper-left (0,0) corner of NxM matrix. You must move either right or down each second. There are K transformers jumping around the matrix in the following way. Each transformer starts jumping from position (x,y), at time t, and jumps to the next position each second. The x-axes grows downwards, and y-axes grows to the right. The order of jumping positions is defined as {(x,y),(x+d,y-d),(x+d,y),(x,y+d)}, and is periodic. Before time t transformer is not in the matrix.You want to arrive to the bottom-right corner (N-1,M-1), while slaying transformers and losing the least possible amount of energy. When you meet the transformer (or more of them) in the matrix field, you must kill them all, and you lose the sum of the energy amounts required to kill each transformer.After the transformer is killed, he of course stops jumping, falls into the abyss and leaves the matrix world. Output minimum possible amount of energy wasted.

@@ -1,0 +1,9 @@
+Taisia and Dice                    
+
+https://codeforces.com/problemset/problem/1790/B
+
+greedy
+
+800
+
+Taisia has n six-sided dice. Each face of the die is marked with a number from 1 to 6, each number from 1 to 6 is used once.Taisia rolls all n dice at the same time and gets a sequence of values a_1, a_2, \ldots, a_n (1 \le a_i \le 6), where a_i is the value on the upper face of the i-th dice. The sum of this sequence is equal to s.Suddenly, Taisia's pet cat steals exactly one dice with maximum value a_i and calculates the sum of the values on the remaining n-1 dice, which is equal to r.You only know the number of dice n and the values of s, r. Restore a possible sequence a that fulfills the constraints.

@@ -1,0 +1,9 @@
+Barcelonian Distance                    
+
+https://codeforces.com/problemset/problem/1032/D
+
+geometry
+
+1900
+
+In this problem we consider a very simplified model of Barcelona city.Barcelona can be represented as a plane with streets of kind x = c and y = c for every integer c (that is, the rectangular grid). However, there is a detail which makes Barcelona different from Manhattan. There is an avenue called Avinguda Diagonal which can be represented as a the set of points (x, y) for which ax + by + c = 0.One can walk along streets, including the avenue. You are given two integer points A and B somewhere in Barcelona. Find the minimal possible distance one needs to travel to get to B from A.

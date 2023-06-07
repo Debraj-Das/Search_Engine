@@ -1,0 +1,9 @@
+Curiosity Has No Limits                    
+
+https://codeforces.com/problemset/problem/1031/B
+
+
+
+1500
+
+When Masha came to math classes today, she saw two integer sequences of length n - 1 on the blackboard. Let's denote the elements of the first sequence as a_i (0 \le a_i \le 3), and the elements of the second sequence as b_i (0 \le b_i \le 3).Masha became interested if or not there is an integer sequence of length n, which elements we will denote as t_i (0 \le t_i \le 3), so that for every i (1 \le i \le n - 1) the following is true:   a_i = t_i | t_{i + 1} (where | denotes the bitwise OR operation) and  b_i = t_i \& t_{i + 1} (where \& denotes the bitwise AND operation). The question appeared to be too difficult for Masha, so now she asked you to check whether such a sequence t_i of length n exists. If it exists, find such a sequence. If there are multiple such sequences, find any of them.

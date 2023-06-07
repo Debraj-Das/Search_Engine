@@ -1,0 +1,9 @@
+Letters Removing                    
+
+https://codeforces.com/problemset/problem/899/F
+
+data structures
+
+2100
+
+Petya has a string of length n consisting of small and large English letters and digits.He performs m operations. Each operation is described with two integers l and r and a character c: Petya removes from the string all characters c on positions between l and r, inclusive. It's obvious that the length of the string remains the same or decreases after each operation.Find how the string will look like after Petya performs all m operations.

@@ -1,0 +1,9 @@
+The Sum of the kth Powers                    
+
+httpscodeforcescomproblemsetproblem622F
+
+math
+
+2600
+
+There are wellknown formulas    Also mathematicians found similar formulas for higher degreesFind the value of the sum  modulo 1097 so you should find the remainder after dividing the answer by the value 1097

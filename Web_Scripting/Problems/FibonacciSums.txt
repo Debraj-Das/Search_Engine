@@ -1,0 +1,9 @@
+Fibonacci Sums                    
+
+httpscodeforcescomproblemsetproblem126D
+
+dp
+
+2300
+
+Fibonacci numbers have the following formF11 F22 FiFi1Fi2i2Lets consider some nonempty set Ss1s2sk consisting of different Fibonacci numbers Lets find the sum of values of this sets elementsLets call the set S a number ns decomposition into Fibonacci sum Its easy to see that several numbers have several decompositions into Fibonacci sum For example for 13 we have 1358238  three decompositions and for 16 31312133581258  four decompositionsBy the given number n determine the number of its possible different decompositions into Fibonacci sum

@@ -1,0 +1,9 @@
+Counting Rhombi                    
+
+httpscodeforcescomproblemsetproblem189B
+
+brute force
+
+1300
+
+You have two positive integers w and h Your task is to count the number of rhombi which have the following properties   Have positive area  With vertices at integer points  All vertices of the rhombi are located inside or on the border of the rectangle with vertices at points 00 w0 wh 0h In other words for all vertices xiyi of the rhombus the following conditions should fulfill 0xiw and 0yih  Its diagonals are parallel to the axis  Count the number of such rhombiLet us remind you that a rhombus is a quadrilateral whose four sides all have the same length

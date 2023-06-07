@@ -1,0 +1,9 @@
+Valued Keys                    
+
+httpscodeforcescomproblemsetproblem801B
+
+constructive algorithms
+
+900
+
+You found a mysterious function f The function takes two strings s1 and s2 These strings must consist only of lowercase English letters and must be the same lengthThe output of the function f is another string of the same length The ith character of the output is equal to the minimum of the ith character of s1 and the ith character of s2For example fab ba  aa and fnzwzl zizez  niwelYou found two strings x and y of the same length and consisting of only lowercase English letters Find any string z such that fxzy or print 1 if no such string z exists

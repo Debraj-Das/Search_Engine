@@ -1,0 +1,9 @@
+Unique Palindromes                    
+
+https://codeforces.com/problemset/problem/1823/D
+
+constructive algorithms
+
+1900
+
+A palindrome is a string that reads the same backwards as forwards. For example, the string abcba is palindrome, while the string abca is not.Let p(t) be the number of unique palindromic substrings of string t, i. e. the number of substrings t[l \dots r] that are palindromes themselves. Even if some substring occurs in t several times, it's counted exactly once. (The whole string t is also counted as a substring of t).For example, string t = abcbbcabcb has p(t) = 6 unique palindromic substrings: a, b, c, bb, bcb and cbbc.Now, let's define p(s, m) = p(t) where t = s[1 \dots m]. In other words, p(s, m) is the number of palindromic substrings in the prefix of s of length m. For example, p(abcbbcabcb, 5) = p(abcbb) = 5.You are given an integer n and k "conditions" (k \le 20). Let's say that string s, consisting of n lowercase Latin letters, is good if all k conditions are satisfied at the same time. A condition is a pair (x_i, c_i) and have the following meaning:   p(s, x_i) = c_i, i. e. a prefix of s of length x_i contains exactly c_i unique palindromic substrings.  Find a good string s or report that such s doesn't exist.Look in Notes if you need further clarifications.

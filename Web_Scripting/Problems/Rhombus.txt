@@ -1,0 +1,9 @@
+Rhombus                    
+
+httpscodeforcescomproblemsetproblem263E
+
+brute force
+
+2500
+
+Youve got a table of size nm On the intersection of the ith row 1in and the jth column 1jm there is a nonnegative integer aij Besides youve got a nonnegative integer kYour task is to find such pair of integers ab that meets these conditions   kank1  kbmk1  lets denote the maximum of the function  among all integers x and y that satisfy the inequalities kxnk1 and kymk1 as mval for the required pair of numbers the following equation must hold fabmval 

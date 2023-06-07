@@ -1,0 +1,9 @@
+Soldier and Number Game                    
+
+httpscodeforcescomproblemsetproblem546D
+
+constructive algorithms
+
+1700
+
+Two soldiers are playing a game At the beginning first of them chooses a positive integer n and gives it to the second soldier Then the second one tries to make maximum possible number of rounds Each round consists of choosing a positive integer x1 such that n is divisible by x and replacing n with nx When n becomes equal to 1 and there is no more possible valid moves the game is over and the score of the second soldier is equal to the number of rounds he performedTo make the game more interesting first soldier chooses n of form ab for some positive integer a and b ab Here by k we denote the factorial of k that is defined as a product of all positive integers not large than kWhat is the maximum possible score of the second soldier

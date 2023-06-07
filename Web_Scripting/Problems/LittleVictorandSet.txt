@@ -1,0 +1,9 @@
+Little Victor and Set                    
+
+httpscodeforcescomproblemsetproblem460D
+
+brute force
+
+2300
+
+Little Victor adores the sets theory Let us remind you that a set is a group of numbers where all numbers are pairwise distinct Today Victor wants to find a set of integers S that has the following properties  for all x  the following inequality holds lxr  1Sk  lets denote the ith element of the set S as si value  must be as small as possible Help Victor find the described set

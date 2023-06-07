@@ -1,0 +1,9 @@
+Points in triangle                    
+
+httpscodeforcescomproblemsetproblem530H
+
+special problem
+
+2100
+
+You are given a set of points on a plane with positive integer coordinates Find a triangle of minimum area with vertices in points 00 A0 and 0B A and B are unknown positive integers that contains all the given points inside it points on the edges count towards being inside

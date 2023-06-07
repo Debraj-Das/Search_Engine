@@ -1,0 +1,9 @@
+HQ                    
+
+https://codeforces.com/problemset/problem/290/E
+
+*special problem
+
+2500
+
+The famous joke programming language HQ9+ has only 4 commands. In this problem we will explore its subset — a language called HQ...

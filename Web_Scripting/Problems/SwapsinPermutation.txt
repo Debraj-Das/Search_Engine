@@ -1,0 +1,9 @@
+Swaps in Permutation                    
+
+httpscodeforcescomproblemsetproblem691D
+
+dfs and similar
+
+1700
+
+You are given a permutation of the numbers 12n and m pairs of positions ajbjAt each step you can choose a pair from the given positions and swap the numbers in that positions What is the lexicographically maximal permutation one can getLet p and q be two permutations of the numbers 12n p is lexicographically smaller than the q if a number 1in exists so pkqk for 1ki and piqi

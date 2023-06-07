@@ -1,0 +1,9 @@
+Sequence of Comparisons                    
+
+https://codeforces.com/problemset/problem/1571/A
+
+*special problem
+
+800
+
+Once upon a time, Petya had an array of integers a of length n. But over time, the array itself was lost, and only n-1 results of comparisons of neighboring array elements remained. In other words, for every i from 1 to n-1, Petya knows exactly one of these three facts:  a_i < a_{i+1};  a_i = a_{i+1};  a_i > a_{i+1}. Petya wonders if it is possible to uniquely determine the result of comparing a_1 and a_n.You have to help Petya determine the result of comparing a_1 and a_n or report that the result cannot be determined unambiguously.

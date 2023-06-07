@@ -1,0 +1,9 @@
+Fox And Travelling                    
+
+httpscodeforcescomproblemsetproblem512D
+
+dp
+
+2900
+
+Fox Ciel is going to travel to New Foxland during this summerNew Foxland has n attractions that are linked by m undirected roads Two attractions are called adjacent if they are linked by a road Fox Ciel has k days to visit this city and each day she will visit exactly one attractionThere is one important rule in New Foxland you cant visit an attraction if it has more than one adjacent attraction that you havent visited yetAt the beginning Fox Ciel havent visited any attraction During her travelling she may move aribtrarly between attraction After visiting attraction a she may travel to any attraction b satisfying conditions above that hasnt been visited yet even if it is not reachable from a by using the roads Ciel uses boat for travelling between attractions so it is possible She wants to know how many different travelling plans she can make Calculate this number modulo 1099 for every k from 0 to n since she hasnt decided for how many days she is visiting New Foxland

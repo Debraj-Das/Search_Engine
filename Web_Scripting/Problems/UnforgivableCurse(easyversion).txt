@@ -1,0 +1,9 @@
+Unforgivable Curse (easy version)                    
+
+https://codeforces.com/problemset/problem/1800/E1
+
+brute force
+
+1400
+
+This is an easy version of the problem. In this version, k is always 3.The chief wizard of the Wizengamot once caught the evil wizard Drahyrt, but the evil wizard has returned and wants revenge on the chief wizard. So he stole spell s from his student Harry.The spell — is a n-length string of lowercase Latin letters.Drahyrt wants to replace spell with an unforgivable curse — string t.Drahyrt, using ancient magic, can swap letters at a distance k or k+1 in spell as many times as he wants. In this version of the problem, you can swap letters at a distance of 3 or 4. In other words, Drahyrt can change letters in positions i and j in spell s if |i-j|=3 or |i-j|=4.For example, if s =  "talant" and t =  "atltna", Drahyrt can act as follows:  swap the letters at positions 1 and 4 to get spell "aaltnt".  swap the letters at positions 2 and 6 to get spell "atltna". You are given spells s and t. Can Drahyrt change spell s to t?

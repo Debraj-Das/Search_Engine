@@ -1,0 +1,9 @@
+Bad Luck Island                    
+
+https://codeforces.com/problemset/problem/540/D
+
+dp
+
+1900
+
+The Bad Luck Island is inhabited by three kinds of species: r rocks, s scissors and p papers. At some moments of time two random individuals meet (all pairs of individuals can meet equiprobably), and if they belong to different species, then one individual kills the other one: a rock kills scissors, scissors kill paper, and paper kills a rock. Your task is to determine for each species what is the probability that this species will be the only one to inhabit this island after a long enough period of time.

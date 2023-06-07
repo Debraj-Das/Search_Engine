@@ -1,0 +1,9 @@
+Arpa and a game with Mojtaba                    
+
+https://codeforces.com/problemset/problem/850/C
+
+bitmasks
+
+2200
+
+Mojtaba and Arpa are playing a game. They have a list of n numbers in the game.In a player's turn, he chooses a number pk (where p is a prime number and k is a positive integer) such that pk divides at least one number in the list. For each number in the list divisible by pk, call it x, the player will delete x and add  to the list. The player who can not make a valid choice of p and k loses.Mojtaba starts the game and the players alternatively make moves. Determine which one of players will be the winner if both players play optimally.

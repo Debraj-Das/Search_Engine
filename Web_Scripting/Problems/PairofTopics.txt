@@ -1,0 +1,9 @@
+Pair of Topics                    
+
+https://codeforces.com/problemset/problem/1324/D
+
+binary search
+
+1400
+
+The next lecture in a high school requires two topics to be discussed. The i-th topic is interesting by a_i units for the teacher and by b_i units for the students.The pair of topics i and j (i < j) is called good if a_i + a_j > b_i + b_j (i.e. it is more interesting for the teacher).Your task is to find the number of good pairs of topics.

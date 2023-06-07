@@ -1,0 +1,9 @@
+Paranoid String                    
+
+https://codeforces.com/problemset/problem/1694/B
+
+constructive algorithms
+
+1200
+
+Let's call a binary string T of length m indexed from 1 to m paranoid if we can obtain a string of length 1 by performing the following two kinds of operations m-1 times in any order : Select any substring of T that is equal to 01, and then replace it with 1. Select any substring of T that is equal to 10, and then replace it with 0.For example, if T =  001, we can select the substring [T_2T_3] and perform the first operation. So we obtain T =  01.You are given a binary string S of length n indexed from 1 to n. Find the number of pairs of integers (l, r) 1 \le l \le r \le n such that S[l \ldots r] (the substring of S from l to r) is a paranoid string. 

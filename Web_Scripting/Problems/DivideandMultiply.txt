@@ -1,0 +1,9 @@
+Divide and Multiply                    
+
+https://codeforces.com/problemset/problem/1609/A
+
+greedy
+
+900
+
+  William has array of n numbers a_1, a_2, \dots, a_n. He can perform the following sequence of operations any number of times:   Pick any two items from array a_i and a_j, where a_i must be a multiple of 2  a_i = \frac{a_i}{2}  a_j = a_j \cdot 2 Help William find the maximal sum of array elements, which he can get by performing the sequence of operations described above.

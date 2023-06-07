@@ -1,0 +1,9 @@
+Empty Rectangles                    
+
+httpscodeforcescomproblemsetproblem364E
+
+divide and conquer
+
+3000
+
+Youve got an nm table n rows and m columns each cell of the table contains a 0 or a 1Your task is to calculate the number of rectangles with the sides that are parallel to the sides of the table and go along the cell borders such that the number one occurs exactly k times in the rectangle 

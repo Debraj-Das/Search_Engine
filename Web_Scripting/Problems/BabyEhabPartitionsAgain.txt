@@ -1,0 +1,9 @@
+Baby Ehab Partitions Again                    
+
+https://codeforces.com/problemset/problem/1516/C
+
+bitmasks
+
+1700
+
+Baby Ehab was toying around with arrays. He has an array a of length n. He defines an array to be good if there's no way to partition it into 2 subsequences such that the sum of the elements in the first is equal to the sum of the elements in the second. Now he wants to remove the minimum number of elements in a so that it becomes a good array. Can you help him?A sequence b is a subsequence of an array a if b can be obtained from a by deleting some (possibly zero or all) elements. A partitioning of an array is a way to divide it into 2 subsequences such that every element belongs to exactly one subsequence, so you must use all the elements, and you can't share any elements.

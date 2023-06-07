@@ -1,0 +1,9 @@
+Dima and Guards                    
+
+https://codeforces.com/problemset/problem/366/A
+
+implementation
+
+1100
+
+Nothing has changed since the last round. Dima and Inna still love each other and want to be together. They've made a deal with Seryozha and now they need to make a deal with the dorm guards...There are four guardposts in Dima's dorm. Each post contains two guards (in Russia they are usually elderly women). You can bribe a guard by a chocolate bar or a box of juice. For each guard you know the minimum price of the chocolate bar she can accept as a gift and the minimum price of the box of juice she can accept as a gift. If a chocolate bar for some guard costs less than the minimum chocolate bar price for this guard is, or if a box of juice for some guard costs less than the minimum box of juice price for this guard is, then the guard doesn't accept such a gift.In order to pass through a guardpost, one needs to bribe both guards.The shop has an unlimited amount of juice and chocolate of any price starting with 1. Dima wants to choose some guardpost, buy one gift for each guard from the guardpost and spend exactly n rubles on it.Help him choose a post through which he can safely sneak Inna or otherwise say that this is impossible. Mind you, Inna would be very sorry to hear that!

@@ -1,0 +1,9 @@
+Vladik and fractions                    
+
+https://codeforces.com/problemset/problem/743/C
+
+brute force
+
+1500
+
+Vladik and Chloe decided to determine who of them is better at math. Vladik claimed that for any positive integer n he can represent fraction  as a sum of three distinct positive fractions in form .Help Vladik with that, i.e for a given n find three distinct positive integers x, y and z such that . Because Chloe can't check Vladik's answer if the numbers are large, he asks you to print numbers not exceeding 109.If there is no such answer, print -1.

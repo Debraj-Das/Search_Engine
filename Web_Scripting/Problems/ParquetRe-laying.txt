@@ -1,0 +1,9 @@
+Parquet Relaying                    
+
+httpscodeforcescomproblemsetproblem778D
+
+constructive algorithms
+
+2700
+
+Peter decided to lay a parquet in the room of size nm the parquet consists of tiles of size 12 When the workers laid the parquet it became clear that the tiles pattern looks not like Peter likes and workers will have to relay itThe workers decided that removing entire parquet and then laying it again is very difficult task so they decided to make such an operation every hour remove two tiles which form a 22 square rotate them 90 degrees and put them back on the same place  They have no idea how to obtain the desired configuration using these operations and whether it is possible at allHelp Peter to make a plan for the workers or tell that it is impossible The plan should contain at most 100000 commands

@@ -1,0 +1,9 @@
+Cows and Primitive Roots                    
+
+httpscodeforcescomproblemsetproblem284A
+
+implementation
+
+1400
+
+The cows have just learned what a primitive root is Given a prime p a primitive root  is an integer x 1xp such that none of integers x1x21xp21 are divisible by p but xp11 is Unfortunately computing primitive roots can be time consuming so the cows need your help Given a prime p help the cows find the number of primitive roots 

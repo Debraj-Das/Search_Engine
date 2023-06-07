@@ -1,0 +1,9 @@
+Epic Convolution                    
+
+https://codeforces.com/problemset/problem/1054/H
+
+chinese remainder theorem
+
+3500
+
+You are given two arrays a_0, a_1, \ldots, a_{n - 1} and b_0, b_1, \ldots, b_{m-1}, and an integer c.Compute the following sum:\sum_{i=0}^{n-1} \sum_{j=0}^{m-1} a_i b_j c^{i^2\,j^3}Since it's value can be really large, print it modulo 490019.

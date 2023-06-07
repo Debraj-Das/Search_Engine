@@ -1,0 +1,9 @@
+Line to Cashier                    
+
+httpscodeforcescomproblemsetproblem408A
+
+implementation
+
+900
+
+Little Vasya went to the supermarket to get some groceries He walked about the supermarket for a long time and got a basket full of products Now he needs to choose the cashier to pay for the productsThere are n cashiers at the exit from the supermarket At the moment the queue for the ith cashier already has ki people The jth person standing in the queue to the ith cashier has mij items in the basket Vasya knows that  the cashier needs 5 seconds to scan one item  after the cashier scans each item of some customer he needs 15 seconds to take the customers money and give him the change Of course Vasya wants to select a queue so that he can leave the supermarket as soon as possible Help him write a program that displays the minimum number of seconds after which Vasya can get to one of the cashiers

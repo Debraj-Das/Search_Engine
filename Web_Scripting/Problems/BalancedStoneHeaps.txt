@@ -1,0 +1,9 @@
+Balanced Stone Heaps                    
+
+https://codeforces.com/problemset/problem/1623/C
+
+binary search
+
+1600
+
+There are n heaps of stone. The i-th heap has h_i stones. You want to change the number of stones in the heap by performing the following process once:   You go through the heaps from the 3-rd heap to the n-th heap, in this order.  Let i be the number of the current heap.  You can choose a number d (0 \le 3 \cdot d \le h_i), move d stones from the i-th heap to the (i - 1)-th heap, and 2 \cdot d stones from the i-th heap to the (i - 2)-th heap.  So after that h_i is decreased by 3 \cdot d, h_{i - 1} is increased by d, and h_{i - 2} is increased by 2 \cdot d.  You can choose different or same d for different operations. Some heaps may become empty, but they still count as heaps. What is the maximum number of stones in the smallest heap after the process?

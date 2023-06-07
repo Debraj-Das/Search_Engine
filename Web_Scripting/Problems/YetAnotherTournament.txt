@@ -1,0 +1,9 @@
+Yet Another Tournament                    
+
+https://codeforces.com/problemset/problem/1783/C
+
+binary search
+
+1700
+
+You are participating in Yet Another Tournament. There are n + 1 participants: you and n other opponents, numbered from 1 to n.Each two participants will play against each other exactly once. If the opponent i plays against the opponent j, he wins if and only if i > j.When the opponent i plays against you, everything becomes a little bit complicated. In order to get a win against opponent i, you need to prepare for the match for at least a_i minutes — otherwise, you lose to that opponent.You have m minutes in total to prepare for matches, but you can prepare for only one match at one moment. In other words, if you want to win against opponents p_1, p_2, \dots, p_k, you need to spend a_{p_1} + a_{p_2} + \dots + a_{p_k} minutes for preparation — and if this number is greater than m, you cannot achieve a win against all of these opponents at the same time.The final place of each contestant is equal to the number of contestants with strictly more wins + 1. For example, if 3 contestants have 5 wins each, 1 contestant has 3 wins and 2 contestants have 1 win each, then the first 3 participants will get the 1-st place, the fourth one gets the 4-th place and two last ones get the 5-th place.Calculate the minimum possible place (lower is better) you can achieve if you can't prepare for the matches more than m minutes in total.

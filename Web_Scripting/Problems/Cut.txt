@@ -1,0 +1,9 @@
+Cut                    
+
+https://codeforces.com/problemset/problem/1516/D
+
+binary search
+
+2100
+
+This time Baby Ehab will only cut and not stick. He starts with a piece of paper with an array a of length n written on it, and then he does the following:  he picks a range (l, r) and cuts the subsegment a_l, a_{l + 1}, \ldots, a_r out, removing the rest of the array.  he then cuts this range into multiple subranges.  to add a number theory spice to it, he requires that the elements of every subrange must have their product equal to their least common multiple (LCM). Formally, he partitions the elements of a_l, a_{l + 1}, \ldots, a_r into contiguous subarrays such that the product of every subarray is equal to its LCM. Now, for q independent ranges (l, r), tell Baby Ehab the minimum number of subarrays he needs.

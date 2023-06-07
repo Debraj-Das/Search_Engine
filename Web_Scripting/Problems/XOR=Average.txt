@@ -1,0 +1,9 @@
+XOR = Average                    
+
+https://codeforces.com/problemset/problem/1758/B
+
+constructive algorithms
+
+900
+
+You are given an integer n. Find a sequence of n integers a_1, a_2, \dots, a_n such that 1 \leq a_i \leq 10^9 for all i and a_1 \oplus a_2 \oplus \dots \oplus a_n = \frac{a_1 + a_2 + \dots + a_n}{n}, where \oplus represents the bitwise XOR.It can be proven that there exists a sequence of integers that satisfies all the conditions above.

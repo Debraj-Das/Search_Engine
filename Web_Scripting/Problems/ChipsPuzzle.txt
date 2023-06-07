@@ -1,0 +1,9 @@
+Chips Puzzle                    
+
+https://codeforces.com/problemset/problem/1054/E
+
+constructive algorithms
+
+2400
+
+Egor came up with a new chips puzzle and suggests you to play.The puzzle has the form of a table with n rows and m columns, each cell can contain several black or white chips placed in a row. Thus, the state of the cell can be described by a string consisting of characters '0' (a white chip) and '1' (a black chip), possibly empty, and the whole puzzle can be described as a table, where each cell is a string of zeros and ones. The task is to get from one state of the puzzle some other state.To do this, you can use the following operation.  select 2 different cells (x_1, y_1) and (x_2, y_2): the cells must be in the same row or in the same column of the table, and the string in the cell (x_1, y_1) must be non-empty;  in one operation you can move the last character of the string at the cell (x_1, y_1) to the beginning of the string at the cell (x_2, y_2). Egor came up with two states of the table for you: the initial state and the final one. It is guaranteed that the number of zeros and ones in the tables are the same. Your goal is with several operations get the final state from the initial state. Of course, Egor does not want the number of operations to be very large. Let's denote as s the number of characters in each of the tables (which are the same). Then you should use no more than 4 \cdot s operations.

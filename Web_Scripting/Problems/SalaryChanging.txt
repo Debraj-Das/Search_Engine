@@ -1,0 +1,9 @@
+Salary Changing                    
+
+httpscodeforcescomproblemsetproblem1251D
+
+binary search
+
+1900
+
+You are the head of a large enterprise n people work at you and n is odd ie n is not divisible by 2You have to distribute salaries to your employees Initially you have s dollars for it and the ith employee should get a salary from li to ri dollars You have to distribute salaries in such a way that the median salary is maximum possibleTo find the median of a sequence of odd length you have to sort it and take the element in the middle position after sorting For example  the median of the sequence 5 1 10 17 6 is 6  the median of the sequence 1 2 1 is 1 It is guaranteed that you have enough money to pay the minimum salary ie l1  l2  dots  ln le sNote that you dont have to spend all your s dollars on salariesYou have to answer t test cases

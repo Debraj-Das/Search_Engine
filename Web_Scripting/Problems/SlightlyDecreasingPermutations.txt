@@ -1,0 +1,9 @@
+Slightly Decreasing Permutations                    
+
+httpscodeforcescomproblemsetproblem285A
+
+greedy
+
+1100
+
+Permutation p is an ordered set of integers p1p2pn consisting of n distinct positive integers each of them doesnt exceed n Well denote the ith element of permutation p as pi Well call number n the size or the length of permutation p1p2pnThe decreasing coefficient of permutation p1p2pn is the number of such i 1in that pipi1You have numbers n and k Your task is to print the permutation of length n with decreasing coefficient k

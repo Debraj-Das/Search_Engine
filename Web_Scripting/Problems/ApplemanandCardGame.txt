@@ -1,0 +1,9 @@
+Appleman and Card Game                    
+
+https://codeforces.com/problemset/problem/462/B
+
+greedy
+
+1300
+
+Appleman has n cards. Each card has an uppercase letter written on it. Toastman must choose k cards from Appleman's cards. Then Appleman should give Toastman some coins depending on the chosen cards. Formally, for each Toastman's card i you should calculate how much Toastman's cards have the letter equal to letter on ith, then sum up all these quantities, such a number of coins Appleman should give to Toastman.Given the description of Appleman's cards. What is the maximum number of coins Toastman can get?

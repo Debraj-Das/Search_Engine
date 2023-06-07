@@ -1,0 +1,9 @@
+Replace                    
+
+https://codeforces.com/problemset/problem/1707/E
+
+binary search
+
+3500
+
+You are given an integer array a_1,\ldots, a_n, where 1\le a_i \le n for all i.There's a "replace" function f which takes a pair of integers (l, r), where l \le r, as input and outputs the pair f\big( (l, r) \big)=\left(\min\{a_l,a_{l+1},\ldots,a_r\},\, \max\{a_l,a_{l+1},\ldots,a_r\}\right).Consider repeated calls of this function. That is, from a starting pair (l, r) we get f\big((l, r)\big), then f\big(f\big((l, r)\big)\big), then f\big(f\big(f\big((l, r)\big)\big)\big), and so on.Now you need to answer q queries. For the i-th query you have two integers l_i and r_i (1\le l_i\le r_i\le n). You must answer the minimum number of times you must apply the "replace" function to the pair (l_i,r_i) to get (1, n), or report that it is impossible.

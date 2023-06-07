@@ -1,0 +1,9 @@
+AND, OR and square sum                    
+
+https://codeforces.com/problemset/problem/1368/D
+
+bitmasks
+
+1700
+
+Gottfried learned about binary number representation. He then came up with this task and presented it to you.You are given a collection of n non-negative integers a_1, \ldots, a_n. You are allowed to perform the following operation: choose two distinct indices 1 \leq i, j \leq n. If before the operation a_i = x, a_j = y, then after the operation a_i = x~\mathsf{AND}~y, a_j = x~\mathsf{OR}~y, where \mathsf{AND} and \mathsf{OR} are bitwise AND and OR respectively (refer to the Notes section for formal description). The operation may be performed any number of times (possibly zero).After all operations are done, compute \sum_{i=1}^n a_i^2 — the sum of squares of all a_i. What is the largest sum of squares you can achieve?

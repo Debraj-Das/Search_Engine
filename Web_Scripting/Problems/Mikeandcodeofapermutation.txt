@@ -1,0 +1,9 @@
+Mike and code of a permutation                    
+
+httpscodeforcescomproblemsetproblem798E
+
+constructive algorithms
+
+3000
+
+Mike has discovered a new way to encode permutations If he has a permutation Pp1p2pn he will encode it in the following wayDenote by Aa1a2an a sequence of length n which will represent the code of the permutation For each i from 1 to n sequentially he will choose the smallest unmarked j 1jn such that pipj and will assign to ai the number j in other words he performs aij and will mark j If there is no such j hell assign to ai the number 1 he performs ai1 Mike forgot his original permutation but he remembers its code Your task is simple find any permutation such that its code is the same as the code of Mikes original permutationYou may assume that there will always be at least one valid permutation

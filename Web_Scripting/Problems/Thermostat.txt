@@ -1,0 +1,9 @@
+Thermostat                    
+
+https://codeforces.com/problemset/problem/1759/C
+
+greedy
+
+1100
+
+Vlad came home and found out that someone had reconfigured the old thermostat to the temperature of a.The thermostat can only be set to a temperature from l to r inclusive, the temperature cannot change by less than x. Formally, in one operation you can reconfigure the thermostat from temperature a to temperature b if |a - b| \ge x and l \le b \le r.You are given l, r, x, a and b. Find the minimum number of operations required to get temperature b from temperature a, or say that it is impossible.

@@ -1,0 +1,9 @@
+Diverse Segments                    
+
+https://codeforces.com/problemset/problem/1684/F
+
+data structures
+
+2600
+
+You are given an array a of n integers. Also you are given m subsegments of that array. The left and the right endpoints of the j-th segment are l_j and r_j respectively.You are allowed to make no more than one operation. In that operation you choose any subsegment of the array a and replace each value on this segment with any integer (you are also allowed to keep elements the same).You have to apply this operation so that for the given m segments, the elements on each segment are distinct. More formally, for each 1 \le j \le m all elements a_{l_{j}}, a_{l_{j}+1}, \ldots, a_{r_{j}-1}, a_{r_{j}} should be distinct.You don't want to use the operation on a big segment, so you have to find the smallest length of a segment, so that you can apply the operation to this segment and meet the above-mentioned conditions. If it is not needed to use this operation, the answer is 0.

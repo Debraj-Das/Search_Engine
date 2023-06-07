@@ -1,0 +1,9 @@
+A Bit Similar                    
+
+https://codeforces.com/problemset/problem/1469/E
+
+bitmasks
+
+2400
+
+Let's call two strings a and b (both of length k) a bit similar if they have the same character in some position, i. e. there exists at least one i \in [1, k] such that a_i = b_i.You are given a binary string s of length n (a string of n characters 0 and/or 1) and an integer k. Let's denote the string s[i..j] as the substring of s starting from the i-th character and ending with the j-th character (that is, s[i..j] = s_i s_{i + 1} s_{i + 2} \dots s_{j - 1} s_j).Let's call a binary string t of length k beautiful if it is a bit similar to all substrings of s having length exactly k; that is, it is a bit similar to s[1..k], s[2..k+1], \dots, s[n-k+1..n].Your goal is to find the lexicographically smallest string t that is beautiful, or report that no such string exists. String x is lexicographically less than string y if either x is a prefix of y (and x \ne y), or there exists such i (1 \le i \le \min(|x|, |y|)), that x_i < y_i, and for any j (1 \le j < i) x_j = y_j.

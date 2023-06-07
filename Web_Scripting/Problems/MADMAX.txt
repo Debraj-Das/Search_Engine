@@ -1,0 +1,9 @@
+MADMAX                    
+
+httpscodeforcescomproblemsetproblem917B
+
+dfs and similar
+
+1700
+
+As we all know Max is the best video game player among her friends Her friends were so jealous of hers that they created an actual game just to prove that shes not the best at games The game is played on a directed acyclic graph a DAG with n vertices and m edges Theres a character written on each edge a lowercase English letter  Max and Lucas are playing the game Max goes first then Lucas then Max again and so on Each player has a marble initially located at some vertex Each player in hisher turn should move hisher marble along some edge a player can move the marble from vertex v to vertex u if theres an outgoing edge from v to u If the player moves hisher marble from vertex v to vertex u the character of that round is the character written on the edge from v to u Theres one additional rule the ASCII code of character of round i should be greater than or equal to the ASCII code of character of round i1 for i1 The rounds are numbered for both players together ie Max goes in odd numbers Lucas goes in even numbers The player that cant make a move loses the game The marbles may be at the same vertex at the same timeSince the game could take a while and Lucas and Max have to focus on finding Dart they dont have time to play So they asked you if they both play optimally who wins the gameYou have to determine the winner of the game for all initial positions of the marbles

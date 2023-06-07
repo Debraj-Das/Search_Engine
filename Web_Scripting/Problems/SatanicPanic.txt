@@ -1,0 +1,9 @@
+Satanic Panic                    
+
+https://codeforces.com/problemset/problem/1146/H
+
+dp
+
+2900
+
+You are given a set of n points in a 2D plane. No three points are collinear.A pentagram is a set of 5 points A,B,C,D,E that can be arranged as follows.  Note the length of the line segments don't matter, only that those particular intersections exist.Count the number of ways to choose 5 points from the given set that form a pentagram.

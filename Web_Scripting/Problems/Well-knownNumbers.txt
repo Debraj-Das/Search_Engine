@@ -1,0 +1,9 @@
+Wellknown Numbers                    
+
+httpscodeforcescomproblemsetproblem225B
+
+binary search
+
+1600
+
+Numbers kbonacci k is integer k1 are a generalization of Fibonacci numbers and are determined as follows  Fkn0 for integer n 1nk  Fkk1  FknFkn1Fkn2Fknk for integer n nk Note that we determine the kbonacci numbers Fkn only for integer values of n and kYouve got a number s represent it as a sum of several at least two distinct kbonacci numbers 

@@ -1,0 +1,9 @@
+The Golden Age                    
+
+httpscodeforcescomproblemsetproblem813B
+
+brute force
+
+1800
+
+Unlucky year in Berland is such a year that its number n can be represented as nxayb where a and b are nonnegative integer numbers For example if x2 and y3 then the years 4 and 17 are unlucky 42031 1723322430 and year 18 isnt unlucky as there is no such representation for itSuch interval of years that there are no unlucky years in it is called The Golden AgeYou should write a program which will find maximum length of The Golden Age which starts no earlier than the year l and ends no later than the year r If all years in the interval lr are unlucky then the answer is 0

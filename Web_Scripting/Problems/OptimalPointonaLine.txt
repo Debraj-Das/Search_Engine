@@ -1,0 +1,9 @@
+Optimal Point on a Line                    
+
+https://codeforces.com/problemset/problem/710/B
+
+brute force
+
+1400
+
+You are given n points on a line with their coordinates xi. Find the point x so the sum of distances to the given points is minimal.

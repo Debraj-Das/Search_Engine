@@ -1,0 +1,9 @@
+Reconnaissance                    
+
+httpscodeforcescomproblemsetproblem32A
+
+brute force
+
+800
+
+According to the regulations of Berlands army a reconnaissance unit should consist of exactly two soldiers Since these two soldiers shouldnt differ much their heights can differ by at most d centimeters Captain Bob has n soldiers in his detachment Their heights are a1a2an centimeters Some soldiers are of the same height Bob wants to know how many ways exist to form a reconnaissance unit of two soldiers from his detachmentWays 12 and 21 should be regarded as different

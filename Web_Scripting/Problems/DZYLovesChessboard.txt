@@ -1,0 +1,9 @@
+DZY Loves Chessboard                    
+
+https://codeforces.com/problemset/problem/445/A
+
+dfs and similar
+
+1200
+
+DZY loves chessboard, and he enjoys playing with it.He has a chessboard of n rows and m columns. Some cells of the chessboard are bad, others are good. For every good cell, DZY wants to put a chessman on it. Each chessman is either white or black. After putting all chessmen, DZY wants that no two chessmen with the same color are on two adjacent cells. Two cells are adjacent if and only if they share a common edge.You task is to find any suitable placement of chessmen on the given chessboard.

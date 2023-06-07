@@ -1,0 +1,9 @@
+Random Teams                    
+
+https://codeforces.com/problemset/problem/478/B
+
+combinatorics
+
+1300
+
+n participants of the competition were split into m teams in some manner so that each team has at least one participant. After the competition each pair of participants from the same team became friends.Your task is to write a program that will find the minimum and the maximum number of pairs of friends that could have formed by the end of the competition.

@@ -1,0 +1,9 @@
+Friends and Gifts                    
+
+https://codeforces.com/problemset/problem/1283/C
+
+constructive algorithms
+
+1500
+
+There are n friends who want to give gifts for the New Year to each other. Each friend should give exactly one gift and receive exactly one gift. The friend cannot give the gift to himself.For each friend the value f_i is known: it is either f_i = 0 if the i-th friend doesn't know whom he wants to give the gift to or 1 \le f_i \le n if the i-th friend wants to give the gift to the friend f_i.You want to fill in the unknown values (f_i = 0) in such a way that each friend gives exactly one gift and receives exactly one gift and there is no friend who gives the gift to himself. It is guaranteed that the initial information isn't contradictory.If there are several answers, you can print any.

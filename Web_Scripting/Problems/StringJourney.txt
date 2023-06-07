@@ -1,0 +1,9 @@
+String Journey                    
+
+httpscodeforcescomproblemsetproblem1063F
+
+data structures
+
+3300
+
+We call a sequence of strings t1tk a journey of length k if for each i1 ti is a substring of ti1 and length of ti is strictly less than length of ti1 For example abb is a journey but abc and aa are notDefine a journey on string s as journey t1tk such that all its parts can be nested inside s in such a way that there exists a sequence of strings u1uk1 each of these strings can be empty and su1t1u2t2 uktkuk1 As an example abb is a journey on string abb but not on bab because the journey strings ti should appear from the left to the rightThe length of a journey on a string is the number of strings in it Determine the maximum possible length of a journey on the given string s

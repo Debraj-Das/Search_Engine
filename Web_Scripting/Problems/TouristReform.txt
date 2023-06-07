@@ -1,0 +1,9 @@
+Tourist Reform                    
+
+https://codeforces.com/problemset/problem/732/F
+
+dfs and similar
+
+2300
+
+Berland is a tourist country! At least, it can become such — the government of Berland is confident about this. There are n cities in Berland, some pairs of which are connected by two-ways roads. Each road connects two different cities. In Berland there are no roads which connect the same pair of cities. It is possible to get from any city to any other city using given two-ways roads. According to the reform each road will become one-way. It will be oriented to one of two directions.To maximize the tourist attraction of Berland, after the reform for each city i the value ri will be calculated. It will equal to the number of cities x for which there is an oriented path from the city i to the city x. In other words, ri will equal the number of cities which can be reached from the city i by roads. The government is sure that tourist's attention will be focused on the minimum value of ri.Help the government of Berland make the reform to maximize the minimum of ri.

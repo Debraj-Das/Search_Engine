@@ -1,0 +1,9 @@
+Inverse Genealogy                    
+
+https://codeforces.com/problemset/problem/1379/E
+
+constructive algorithms
+
+2800
+
+Ivan is fond of genealogy. Currently he is studying a particular genealogical structure, which consists of some people. In this structure every person has either both parents specified, or none. Additionally, each person has exactly one child, except for one special person, who does not have any children. The people in this structure are conveniently numbered from 1 to n, and s_i denotes the child of the person i (and s_i = 0 for exactly one person who does not have any children).We say that a is an ancestor of b if either a = b, or a has a child, who is an ancestor of b. That is a is an ancestor for a, s_a, s_{s_a}, etc.We say that person i is imbalanced in case this person has both parents specified, and the total number of ancestors of one of the parents is at least double the other. Ivan counted the number of imbalanced people in the structure, and got k people in total. However, he is not sure whether he computed it correctly, and would like to check if there is at least one construction with n people that have k imbalanced people in total. Please help him to find one such construction, or determine if it does not exist.

@@ -1,0 +1,9 @@
+A Prank                    
+
+https://codeforces.com/problemset/problem/1062/A
+
+greedy
+
+1300
+
+JATC and his friend Giraffe are currently in their room, solving some problems. Giraffe has written on the board an array a_1, a_2, ..., a_n of integers, such that 1 \le a_1 < a_2 < \ldots < a_n \le 10^3, and then went to the bathroom.JATC decided to prank his friend by erasing some consecutive elements in the array. Since he doesn't want for the prank to go too far, he will only erase in a way, such that Giraffe can still restore the array using the information from the remaining elements. Because Giraffe has created the array, he's also aware that it's an increasing array and all the elements are integers in the range [1, 10^3].JATC wonders what is the greatest number of elements he can erase?

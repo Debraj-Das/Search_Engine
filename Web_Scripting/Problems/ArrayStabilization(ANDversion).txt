@@ -1,0 +1,9 @@
+Array Stabilization (AND version)                    
+
+https://codeforces.com/problemset/problem/1579/F
+
+brute force
+
+1700
+
+You are given an array a[0 \ldots n - 1] = [a_0, a_1, \ldots, a_{n - 1}] of zeroes and ones only. Note that in this problem, unlike the others, the array indexes are numbered from zero, not from one.In one step, the array a is replaced by another array of length n according to the following rules:   First, a new array a^{\rightarrow d} is defined as a cyclic shift of the array a to the right by d cells. The elements of this array can be defined as a^{\rightarrow d}_i = a_{(i + n - d) \bmod n}, where (i + n - d) \bmod n is the remainder of integer division of i + n - d by n.  It means that the whole array a^{\rightarrow d} can be represented as a sequence a^{\rightarrow d} = [a_{n - d}, a_{n - d + 1}, \ldots, a_{n - 1}, a_0, a_1, \ldots, a_{n - d - 1}]  Then each element of the array a_i is replaced by a_i \,\&\, a^{\rightarrow d}_i, where \& is a logical "AND" operator. For example, if a = [0, 0, 1, 1] and d = 1, then a^{\rightarrow d} = [1, 0, 0, 1] and the value of a after the first step will be [0 \,\&\, 1, 0 \,\&\, 0, 1 \,\&\, 0, 1 \,\&\, 1], that is [0, 0, 0, 1].The process ends when the array stops changing. For a given array a, determine whether it will consist of only zeros at the end of the process. If yes, also find the number of steps the process will take before it finishes.

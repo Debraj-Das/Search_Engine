@@ -1,0 +1,9 @@
+Han Solo and Lazer Gun                    
+
+httpscodeforcescomproblemsetproblem514B
+
+brute force
+
+1400
+
+There are n Imperial stormtroopers on the field The battle field is a plane with Cartesian coordinate system Each stormtrooper is associated with his coordinates xy on this plane Han Solo has the newest duplex lazer gun to fight these stormtroopers It is situated at the point x0y0 In one shot it can can destroy all the stormtroopers situated on some line that crosses point x0y0Your task is to determine what minimum number of shots Han Solo needs to defeat all the stormtroopersThe gun is the newest invention it shoots very quickly and even after a very large number of shots the stormtroopers dont have enough time to realize whats happening and change their location 

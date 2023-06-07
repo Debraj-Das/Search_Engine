@@ -1,0 +1,9 @@
+Game Relics                    
+
+https://codeforces.com/problemset/problem/1267/G
+
+math
+
+3000
+
+Esports is a form of competitive sports using video games. Dota 2 is one of the most popular competitive video games in Esports. Recently, a new video game Dota 3 was released. In Dota 3 a player can buy some relics for their hero. Relics are counters that track hero's actions and statistics in a game.Gloria likes to play Dota 3, so she wants to buy all n available relics for her favorite hero.Relics can be bought using an in-game currency called shards. Each relic has its own price — c_i shards for the i-th relic. A player can buy a relic using one of the following options:   Pay c_i shards to buy the i-th relic;  Pay x shards and randomly get one of all n relics. The probability of getting a relic is the same for all n relics. If a duplicate relic is received, then the relic is recycled and \frac{x}{2} shards are given back to the player. Gloria wants to buy all n relics. Help her minimize the expected number of shards she spends to buy all the relics.

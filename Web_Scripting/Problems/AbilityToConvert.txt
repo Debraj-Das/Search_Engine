@@ -1,0 +1,9 @@
+Ability To Convert                    
+
+httpscodeforcescomproblemsetproblem758D
+
+constructive algorithms
+
+2000
+
+Alexander is learning how to convert numbers from the decimal system to any other however he doesnt know English letters so he writes any number only as a decimal number it means that instead of the letter A he will write the number 10 Thus by converting the number 475 from decimal to hexadecimal system he gets 11311 47511621316111160 Alexander lived calmly until he tried to convert the number back to the decimal number systemAlexander remembers that he worked with little numbers so he asks to find the minimum decimal number so that by converting it to the system with the base n he will get the number k

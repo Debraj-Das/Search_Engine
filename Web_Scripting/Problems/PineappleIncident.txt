@@ -1,0 +1,9 @@
+Pineapple Incident                    
+
+httpscodeforcescomproblemsetproblem697A
+
+implementation
+
+900
+
+Ted has a pineapple This pineapple is able to bark like a bulldog At time t in seconds it barks for the first time Then every s seconds after it it barks twice with 1 second interval Thus it barks at times t ts ts1 t2s t2s1 etc  Barney woke up in the morning and wants to eat the pineapple but he cant eat it when its barking Barney plans to eat it at time x in seconds so he asked you to tell him if its gonna bark at that time

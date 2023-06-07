@@ -1,0 +1,9 @@
+Ruminations on Ruminants                    
+
+httpscodeforcescomproblemsetproblem603D
+
+geometry
+
+2900
+
+Kevin Sun is ruminating on the origin of cows while standing at the origin of the Cartesian plane He notices n lines  on the plane each representable by an equation of the form axbyc He also observes that no two lines are parallel and that no three lines pass through the same pointFor each triple ijk such that 1ijkn Kevin considers the triangle formed by the three lines   He calls a triangle original if the circumcircle of that triangle passes through the origin Since Kevin believes that the circles of bovine life are tied directly to such triangles he wants to know the number of original triangles formed by unordered triples of distinct lines Recall that the circumcircle of a triangle is the circle which passes through all the vertices of that triangle

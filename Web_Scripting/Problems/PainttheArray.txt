@@ -1,0 +1,9 @@
+Paint the Array                    
+
+https://codeforces.com/problemset/problem/1618/C
+
+math
+
+1100
+
+You are given an array a consisting of n positive integers. You have to choose a positive integer d and paint all elements into two colors. All elements which are divisible by d will be painted red, and all other elements will be painted blue.The coloring is called beautiful if there are no pairs of adjacent elements with the same color in the array. Your task is to find any value of d which yields a beautiful coloring, or report that it is impossible.

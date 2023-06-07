@@ -1,0 +1,9 @@
+Restoring Numbers                    
+
+httpscodeforcescomproblemsetproblem509D
+
+constructive algorithms
+
+2200
+
+Vasya had two arrays consisting of nonnegative integers a of size n and b of size m Vasya chose a positive integer k and created an nm matrix v using the following formulaVasya wrote down matrix v on a piece of paper and put it in the tableA year later Vasya was cleaning his table when he found a piece of paper containing an nm matrix w He remembered making a matrix one day by the rules given above but he was not sure if he had found the paper with the matrix v from those days Your task is to find out if the matrix w that youve found could have been obtained by following these rules and if it could then for what numbers ka1a2anb1b2bm it is possible

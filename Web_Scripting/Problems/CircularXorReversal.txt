@@ -1,0 +1,9 @@
+Circular Xor Reversal                    
+
+https://codeforces.com/problemset/problem/1748/F
+
+bitmasks
+
+3000
+
+You have an array a_0, a_1, \ldots, a_{n-1} of length n. Initially, a_i = 2^i for all 0 \le i \lt n. Note that array a is zero-indexed. You want to reverse this array (that is, make a_i equal to 2^{n-1-i} for all 0 \le i \lt n). To do this, you can perform the following operation no more than 250\,000 times:  Select an integer i (0 \le i \lt n) and replace a_i by a_i \oplus a_{(i+1)\bmod n}. Here, \oplus denotes the bitwise XOR operation.Your task is to find any sequence of operations that will result in the array a being reversed. It can be shown that under the given constraints, a solution always exists.

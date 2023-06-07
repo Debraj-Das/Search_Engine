@@ -1,0 +1,9 @@
+Balance (Hard version)                    
+
+https://codeforces.com/problemset/problem/1732/D2
+
+brute force
+
+2400
+
+This is the hard version of the problem. The only difference is that in this version there are remove queries.Initially you have a set containing one element — 0. You need to handle q queries of the following types:+ x — add the integer x to the set. It is guaranteed that this integer is not contained in the set; - x — remove the integer x from the set. It is guaranteed that this integer is contained in the set; ? k — find the k\text{-mex} of the set. In our problem, we define the k\text{-mex} of a set of integers as the smallest non-negative integer x that is divisible by k and which is not contained in the set.

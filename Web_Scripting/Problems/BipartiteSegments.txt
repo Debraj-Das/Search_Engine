@@ -1,0 +1,9 @@
+Bipartite Segments                    
+
+httpscodeforcescomproblemsetproblem901C
+
+binary search
+
+2300
+
+You are given an undirected graph with n vertices There are no edgesimple cycles with the even length in it In other words there are no cycles of even length that pass each edge at most once Lets enumerate vertices from 1 to n You have to answer q queries Each query is described by a segment of vertices lr and you have to count the number of its subsegments xy lxyr such that if we delete all vertices except the segment of vertices xy including x and y and edges between them the resulting graph is bipartite

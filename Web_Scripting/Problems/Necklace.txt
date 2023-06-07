@@ -1,0 +1,9 @@
+Necklace                    
+
+https://codeforces.com/problemset/problem/613/C
+
+constructive algorithms
+
+2500
+
+Ivan wants to make a necklace as a present to his beloved girl. A necklace is a cyclic sequence of beads of different colors. Ivan says that necklace is beautiful relative to the cut point between two adjacent beads, if the chain of beads remaining after this cut is a palindrome (reads the same forward and backward).  Ivan has beads of n colors. He wants to make a necklace, such that it's beautiful relative to as many cuts as possible. He certainly wants to use all the beads. Help him to make the most beautiful necklace.

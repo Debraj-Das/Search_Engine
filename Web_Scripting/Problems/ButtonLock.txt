@@ -1,0 +1,9 @@
+Button Lock                    
+
+https://codeforces.com/problemset/problem/1510/B
+
+flows
+
+2600
+
+You are standing in front of the room with great treasures. The only thing stopping you is the door with a push-button combination lock. This lock has d buttons with digits from 0 to d - 1. Whenever you press a button, it stays pushed down. You can not pop back up just one button, but there is a "RESET" button — pressing it pops up all other buttons. Initially, no buttons are pushed down.The door instantly opens when some specific set of digits is pushed down. Sadly, you don't know the password for it. Having read the documentation for this specific lock, you found out that there are n possible passwords for this particular lock. Find the shortest sequence of button presses, such that all possible passwords appear at least once during its execution. Any shortest correct sequence of button presses will be accepted.

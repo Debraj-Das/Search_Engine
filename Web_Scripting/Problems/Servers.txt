@@ -1,0 +1,9 @@
+Servers                    
+
+httpscodeforcescomproblemsetproblem747C
+
+implementation
+
+1300
+
+There are n servers in a laboratory each of them can perform tasks Each server has a unique id integer from 1 to nIt is known that during the day q tasks will come the ith of them is characterized with three integers ti the moment in seconds in which the task will come ki the number of servers needed to perform it and di the time needed to perform this task in seconds All ti are distinctTo perform the ith task you need ki servers which are unoccupied in the second ti After the servers begin to perform the task each of them will be busy over the next di seconds Thus they will be busy in seconds titi1tidi1 For performing the task ki servers with the smallest ids will be chosen from all the unoccupied servers If in the second ti there are not enough unoccupied servers the task is ignoredWrite the program that determines which tasks will be performed and which will be ignored

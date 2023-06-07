@@ -1,0 +1,9 @@
+Ian Visits Mary                    
+
+https://codeforces.com/problemset/problem/1816/A
+
+constructive algorithms
+
+800
+
+Ian and Mary are frogs living on lattice points of the Cartesian coordinate plane, with Ian living on (0,0) and Mary living on (a,b). Ian would like to visit Mary by jumping around the Cartesian coordinate plane. Every second, he jumps from his current position (x_p, y_p) to another lattice point (x_q, y_q), such that no lattice point other than (x_p, y_p) and (x_q, y_q) lies on the segment between point (x_p, y_p) and point (x_q, y_q). As Ian wants to meet Mary as soon as possible, he wants to jump towards point (a,b) using at most 2 jumps. Unfortunately, Ian is not good at maths. Can you help him?A lattice point is defined as a point with both the x-coordinate and y-coordinate being integers.

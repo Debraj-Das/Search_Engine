@@ -1,0 +1,9 @@
+Square Counting                    
+
+https://codeforces.com/problemset/problem/1646/A
+
+math
+
+800
+
+Luis has a sequence of n+1 integers a_1, a_2, \ldots, a_{n+1}. For each i = 1, 2, \ldots, n+1 it is guaranteed that 0\leq a_i < n, or a_i=n^2. He has calculated the sum of all the elements of the sequence, and called this value s. Luis has lost his sequence, but he remembers the values of n and s. Can you find the number of elements in the sequence that are equal to n^2?We can show that the answer is unique under the given constraints.

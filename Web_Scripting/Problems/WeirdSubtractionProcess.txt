@@ -1,0 +1,9 @@
+Weird Subtraction Process                    
+
+httpscodeforcescomproblemsetproblem946B
+
+math
+
+1100
+
+You have two variables a and b Consider the following sequence of actions performed with these variables If a0 or b0 end the process Otherwise go to step 2 If a2b then set the value of a to a2b and repeat step 1 Otherwise go to step 3 If b2a then set the value of b to b2a and repeat step 1 Otherwise end the processInitially the values of a and b are positive integers and so the process will be finiteYou have to determine the values of a and b after the process ends

@@ -1,0 +1,9 @@
+Power Substring                    
+
+httpscodeforcescomproblemsetproblem913G
+
+math
+
+3200
+
+You are given n positive integers a1a2anFor every ai you need to find a positive integer ki such that the decimal notation of 2ki contains the decimal notation of ai as a substring among its last min100length2ki digits Here lengthm is the length of the decimal notation of mNote that you dont have to minimize ki The decimal notations in this problem do not contain leading zeros

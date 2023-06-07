@@ -1,0 +1,9 @@
+Two Chess Pieces                    
+
+https://codeforces.com/problemset/problem/1774/E
+
+dfs and similar
+
+1900
+
+Cirno_9baka has a tree with n nodes. He is willing to share it with you, which means you can operate on it.Initially, there are two chess pieces on the node 1 of the tree. In one step, you can choose any piece, and move it to the neighboring node. You are also given an integer d. You need to ensure that the distance between the two pieces doesn't ever exceed d.Each of these two pieces has a sequence of nodes which they need to pass in any order, and eventually, they have to return to the root. As a curious boy, he wants to know the minimum steps you need to take.

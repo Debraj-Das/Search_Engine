@@ -1,0 +1,9 @@
+Toy Machine                    
+
+https://codeforces.com/problemset/problem/1817/D
+
+constructive algorithms
+
+2700
+
+There is a toy machine with toys arranged in two rows of n cells each (n is odd).  Initial state for n=9. Initially, n-2 toys are placed in the non-corner cells of the top row. The bottom row is initially empty, and its leftmost, rightmost, and central cells are blocked. There are 4 buttons to control the toy machine: left, right, up, and down marked by the letters L, R, U, and D correspondingly.When pressing L, R, U, or D, all the toys will be moved simultaneously in the corresponding direction and will only stop if they push into another toy, the wall or a blocked cell. Your goal is to move the k-th toy into the leftmost cell of the top row. The toys are numbered from 1 to n-2 from left to right. Given n and k, find a solution that uses at most 1\,000\,000 button presses.To test out the toy machine, a web page is available that lets you play the game in real time. 

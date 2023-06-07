@@ -1,0 +1,9 @@
+Power Tree                    
+
+httpscodeforcescomproblemsetproblem607D
+
+data structures
+
+2600
+
+Genos and Saitama went shopping for Christmas trees However a different type of tree caught their attention the exalted Power Tree A Power Tree starts out as a single root vertex indexed 1 A Power Tree grows through a magical phenomenon known as an update In an update a single vertex is added to the tree as a child of some other vertexEvery vertex in the tree the root and all the added vertices has some value vi associated with it The power of a vertex is defined as the strength of the multiset composed of the value associated with this vertex vi and the powers of its direct children The strength of a multiset is defined as the sum of all elements in the multiset multiplied by the number of elements in it Or in other words for some multiset S Saitama knows the updates that will be performed on the tree so he decided to test Genos by asking him queries about the tree during its growth cycleAn update is of the form 1pv and adds a new vertex with value v as a child of vertex pA query is of the form 2u and asks for the power of vertex uPlease help Genos respond to these queries modulo 1097

@@ -1,0 +1,9 @@
+Relatively Prime Graph                    
+
+https://codeforces.com/problemset/problem/1009/D
+
+brute force
+
+1700
+
+Let's call an undirected graph G = (V, E) relatively prime if and only if for each edge (v, u) \in E  GCD(v, u) = 1 (the greatest common divisor of v and u is 1). If there is no edge between some pair of vertices v and u then the value of GCD(v, u) doesn't matter. The vertices are numbered from 1 to |V|.Construct a relatively prime graph with n vertices and m edges such that it is connected and it contains neither self-loops nor multiple edges.If there exists no valid graph with the given number of vertices and edges then output "Impossible".If there are multiple answers then print any of them.

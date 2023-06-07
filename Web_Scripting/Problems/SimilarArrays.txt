@@ -1,0 +1,9 @@
+Similar Arrays                    
+
+https://codeforces.com/problemset/problem/1090/D
+
+constructive algorithms
+
+1800
+
+Vasya had an array of n integers, each element of the array was from 1 to n. He chose m pairs of different positions and wrote them down to a sheet of paper. Then Vasya compared the elements at these positions, and wrote down the results of the comparisons to another sheet of paper. For each pair he wrote either "greater", "less", or "equal".After several years, he has found the first sheet of paper, but he couldn't find the second one. Also he doesn't remember the array he had. In particular, he doesn't remember if the array had equal elements. He has told this sad story to his informatics teacher Dr Helen.She told him that it could be the case that even if Vasya finds his second sheet, he would still not be able to find out whether the array had two equal elements. Now Vasya wants to find two arrays of integers, each of length n. All elements of the first array must be distinct, and there must be two equal elements in the second array. For each pair of positions Vasya wrote at the first sheet of paper, the result of the comparison must be the same for the corresponding elements of the first array, and the corresponding elements of the second array. Help Vasya find two such arrays of length n, or find out that there are no such arrays for his sets of pairs.

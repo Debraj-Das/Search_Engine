@@ -1,0 +1,9 @@
+Mastermind                    
+
+https://codeforces.com/problemset/problem/1381/C
+
+constructive algorithms
+
+2500
+
+In the game of Mastermind, there are two players  — Alice and Bob. Alice has a secret code, which Bob tries to guess. Here, a code is defined as a sequence of n colors. There are exactly n+1 colors in the entire universe, numbered from 1 to n+1 inclusive.When Bob guesses a code, Alice tells him some information about how good of a guess it is, in the form of two integers x and y.The first integer x is the number of indices where Bob's guess correctly matches Alice's code. The second integer y is the size of the intersection of the two codes as multisets. That is, if Bob were to change the order of the colors in his guess, y is the maximum number of indices he could get correct.For example, suppose n=5, Alice's code is [3,1,6,1,2], and Bob's guess is [3,1,1,2,5]. At indices 1 and 2 colors are equal, while in the other indices they are not equal. So x=2. And the two codes have the four colors 1,1,2,3 in common, so y=4.  Solid lines denote a matched color for the same index. Dashed lines denote a matched color at a different index. x is the number of solid lines, and y is the total number of lines. You are given Bob's guess and two values x and y. Can you find one possibility of Alice's code so that the values of x and y are correct?

@@ -1,0 +1,9 @@
+Bear and Bowling 4                    
+
+httpscodeforcescomproblemsetproblem660F
+
+binary search
+
+2500
+
+Limak is an old brown bear He often goes bowling with his friends Today he feels really good and tries to beat his own recordFor rolling a ball one gets a score  an integer maybe negative number of points Score for the ith roll is multiplied by i and scores are summed up So for k rolls with scores s1s2sk the total score is  The total score is 0 if there were no rollsLimak made n rolls and got score ai for the ith of them He wants to maximize his total score and he came up with an interesting idea He can say that some first rolls were only a warmup and that he wasnt focused during the last rolls More formally he can cancel any prefix and any suffix of the sequence a1a2an It is allowed to cancel all rolls or to cancel none of themThe total score is calculated as if there were only noncanceled rolls So the first noncanceled roll has score multiplied by 1 the second one has score multiplied by 2 and so on till the last noncanceled rollWhat maximum total score can Limak get

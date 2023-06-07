@@ -1,0 +1,9 @@
+Points on Plane                    
+
+httpscodeforcescomproblemsetproblem576C
+
+constructive algorithms
+
+2100
+
+On a plane are n points xi yi with integer coordinates between 0 and 106 The distance between the two points with numbers a and b is said to be the following value  the distance calculated by such formula is called Manhattan distanceWe call a hamiltonian path to be some permutation pi of numbers from 1 to n We say that the length of this path is value Find some hamiltonian path with a length of no more than 25108 Note that you do not have to minimize the path length

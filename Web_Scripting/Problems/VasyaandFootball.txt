@@ -1,0 +1,9 @@
+Vasya and Football                    
+
+https://codeforces.com/problemset/problem/493/A
+
+implementation
+
+1300
+
+Vasya has started watching football games. He has learned that for some fouls the players receive yellow cards, and for some fouls they receive red cards. A player who receives the second yellow card automatically receives a red card.Vasya is watching a recorded football match now and makes notes of all the fouls that he would give a card for. Help Vasya determine all the moments in time when players would be given red cards if Vasya were the judge. For each player, Vasya wants to know only the first moment of time when he would receive a red card from Vasya.

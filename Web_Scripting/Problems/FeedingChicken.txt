@@ -1,0 +1,9 @@
+Feeding Chicken                    
+
+https://codeforces.com/problemset/problem/1254/A
+
+constructive algorithms
+
+1700
+
+Long is a huge fan of CFC (Codeforces Fried Chicken). But the price of CFC is increasing, so he decides to breed the chicken on his own farm.His farm is presented by a rectangle grid with r rows and c columns. Some of these cells contain rice, others are empty. k chickens are living on his farm. The number of chickens is not greater than the number of cells with rice on the farm.Long wants to give his chicken playgrounds by assigning these farm cells to his chickens. He would like to satisfy the following requirements:  Each cell of the farm is assigned to exactly one chicken.  Each chicken is assigned at least one cell.  The set of cells assigned to every chicken forms a connected area. More precisely, if two cells (x, y) and (u, v) are assigned to the same chicken, this chicken is able to walk from (x, y) to (u, v) by passing only its cells and moving from each cell to another cell sharing a side. Long also wants to prevent his chickens from fighting for food. Hence he wants the difference between the maximum and the minimum number of cells with rice assigned to a chicken to be as small as possible. Please help him.

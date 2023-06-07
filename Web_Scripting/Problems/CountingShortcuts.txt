@@ -1,0 +1,9 @@
+Counting Shortcuts                    
+
+https://codeforces.com/problemset/problem/1650/G
+
+data structures
+
+2100
+
+Given an undirected connected graph with n vertices and m edges. The graph contains no loops (edges from a vertex to itself) and multiple edges (i.e. no more than one edge between each pair of vertices). The vertices of the graph are numbered from 1 to n. Find the number of paths from a vertex s to t whose length differs from the shortest path from s to t by no more than 1. It is necessary to consider all suitable paths, even if they pass through the same vertex or edge more than once (i.e. they are not simple).  Graph consisting of 6 of vertices and 8 of edges For example, let n = 6, m = 8, s = 6 and t = 1, and let the graph look like the figure above. Then the length of the shortest path from s to t is 1. Consider all paths whose length is at most 1 + 1 = 2.   6 \rightarrow 1. The length of the path is 1.  6 \rightarrow 4 \rightarrow 1. Path length is 2.  6 \rightarrow 2 \rightarrow 1. Path length is 2.  6 \rightarrow 5 \rightarrow 1. Path length is 2. There is a total of 4 of matching paths.

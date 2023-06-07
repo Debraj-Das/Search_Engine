@@ -1,0 +1,9 @@
+Reverse String                    
+
+https://codeforces.com/problemset/problem/1553/B
+
+brute force
+
+1300
+
+You have a string s and a chip, which you can place onto any character of this string. After placing the chip, you move it to the right several (maybe zero) times, i. e. you perform the following operation several times: if the current position of the chip is i, you move it to the position i + 1. Of course, moving the chip to the right is impossible if it is already in the last position.After moving the chip to the right, you move it to the left several (maybe zero) times, i. e. you perform the following operation several times: if the current position of the chip is i, you move it to the position i - 1. Of course, moving the chip to the left is impossible if it is already in the first position.When you place a chip or move it, you write down the character where the chip ends up after your action. For example, if s is abcdef, you place the chip onto the 3-rd character, move it to the right 2 times and then move it to the left 3 times, you write down the string cdedcb.You are given two strings s and t. Your task is to determine whether it's possible to perform the described operations with s so that you write down the string t as a result.

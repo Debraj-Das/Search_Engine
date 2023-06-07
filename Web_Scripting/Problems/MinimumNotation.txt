@@ -1,0 +1,9 @@
+Minimum Notation                    
+
+https://codeforces.com/problemset/problem/1730/C
+
+data structures
+
+1200
+
+You have a string s consisting of digits from 0 to 9 inclusive. You can perform the following operation any (possibly zero) number of times:   You can choose a position i and delete a digit d on the i-th position. Then insert the digit \min{(d + 1, 9)} on any position (at the beginning, at the end or in between any two adjacent digits). What is the lexicographically smallest string you can get by performing these operations?A string a is lexicographically smaller than a string b of the same length if and only if the following holds:   in the first position where a and b differ, the string a has a smaller digit than the corresponding digit in b. 

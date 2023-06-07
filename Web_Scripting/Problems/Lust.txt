@@ -1,0 +1,9 @@
+Lust                    
+
+httpscodeforcescomproblemsetproblem891E
+
+combinatorics
+
+3000
+
+A false witness that speaketh liesYou are given a sequence containing n integers There is a variable res that is equal to 0 initially The following process repeats k timesChoose an index from 1 to n uniformly at random Name it x Add to res the multiply of all ais such that 1in but ix Then subtract ax by 1You have to find expected value of res at the end of the process It can be proved that the expected value of res can be represented as an irreducible fraction  You have to find 

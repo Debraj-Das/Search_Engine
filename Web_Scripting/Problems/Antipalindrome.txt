@@ -1,0 +1,9 @@
+Antipalindrome                    
+
+httpscodeforcescomproblemsetproblem981A
+
+brute force
+
+900
+
+A string is a palindrome if it reads the same from the left to the right and from the right to the left For example the strings kek abacaba r and papicipap are palindromes while the strings abb and iq are notA substring sl ldots r 1leqlleqrleqs of a string ss1s2 ldots ss is the string slsl1 ldots srAnna does not like palindromes so she makes her friends call her Ann She also changes all the words she reads in a similar way Namely each word s is changed into its longest substring that is not a palindrome If all the substrings of s are palindromes she skips the word at allSome time ago Ann read the word s What is the word she changed it into

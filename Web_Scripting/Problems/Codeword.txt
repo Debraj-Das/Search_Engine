@@ -1,0 +1,9 @@
+Codeword                    
+
+httpscodeforcescomproblemsetproblem666C
+
+combinatorics
+
+2500
+
+The famous sculptor Cicasso is a Reberlandian spyThese is breaking news in Berlandian papers today And now the sculptor is hiding This time you give the shelter to the maestro You have a protected bunker and you provide it to your friend You set the security system in such way that only you can open the bunker To open it one should solve the problem which is hard for others but is simple for youEvery day the bunker generates a codeword s Every time someone wants to enter the bunker integer n appears on the screen As the answer one should enter another integer  the residue modulo 1097 of the number of strings of length n that consist only of lowercase English letters and contain the string s as the subsequenceThe subsequence of string a is a string b that can be derived from the string a by removing some symbols from it maybe none or all of them In particular any string is the subsequence of itself For example the string cfo is the subsequence of the string codeforcesYou havent implemented the algorithm that calculates the correct answers yet and you should do that ASAP

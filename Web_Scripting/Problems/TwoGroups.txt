@@ -1,0 +1,9 @@
+Two Groups                    
+
+https://codeforces.com/problemset/problem/1747/A
+
+constructive algorithms
+
+800
+
+You are given an array a consisting of n integers. You want to distribute these n integers into two groups s_1 and s_2 (groups can be empty) so that the following conditions are satisfied:  For each i (1 \leq i \leq n), a_i goes into exactly one group. The value |sum(s_1)| - |sum(s_2)| is the maximum possible among all such ways to distribute the integers.Here sum(s_1) denotes the sum of the numbers in the group s_1, and sum(s_2) denotes the sum of the numbers in the group s_2.Determine the maximum possible value of |sum(s_1)| - |sum(s_2)|.

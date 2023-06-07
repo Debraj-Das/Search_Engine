@@ -1,0 +1,9 @@
+Fish                    
+
+httpscodeforcescomproblemsetproblem16E
+
+bitmasks
+
+1900
+
+n fish numbered from 1 to n live in a lake Every day right one pair of fish meet and the probability of each other pair meeting is the same If two fish with indexes i and j meet the first will eat up the second with the probability aij and the second will eat up the first with the probability aji1aij The described process goes on until there are at least two fish in the lake For each fish find out the probability that it will survive to be the last in the lake

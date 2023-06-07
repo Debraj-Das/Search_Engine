@@ -1,0 +1,9 @@
+Fixed Point Removal                    
+
+https://codeforces.com/problemset/problem/1404/C
+
+binary search
+
+2300
+
+Let a_1, \ldots, a_n be an array of n positive integers. In one operation, you can choose an index i such that a_i = i, and remove a_i from the array (after the removal, the remaining parts are concatenated).The weight of a is defined as the maximum number of elements you can remove.You must answer q independent queries (x, y): after replacing the x first elements of a and the y last elements of a by n+1 (making them impossible to remove), what would be the weight of a?

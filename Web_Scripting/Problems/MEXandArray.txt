@@ -1,0 +1,9 @@
+MEX and Array                    
+
+https://codeforces.com/problemset/problem/1637/B
+
+brute force
+
+1100
+
+Let there be an array b_1, b_2, \ldots, b_k. Let there be a partition of this array into segments [l_1; r_1], [l_2; r_2], \ldots, [l_c; r_c], where l_1 = 1, r_c = k, and for any 2 \leq i \leq c holds that r_{i-1} + 1 = l_i. In other words, each element of the array belongs to exactly one segment.Let's define the cost of a partition as c + \sum_{i = 1}^{c} \operatorname{mex}(\{b_{l_i}, b_{l_i + 1}, \ldots, b_{r_i}\}), where \operatorname{mex} of a set of numbers S is the smallest non-negative integer that does not occur in the set S. In other words, the cost of a partition is the number of segments plus the sum of MEX over all segments. Let's define the value of an array b_1, b_2, \ldots, b_k as the maximum possible cost over all partitions of this array.You are given an array a of size n. Find the sum of values of all its subsegments.An array x is a subsegment of an array y if x can be obtained from y by deletion of several (possibly, zero or all) elements from the beginning and several (possibly, zero or all) elements from the end.

@@ -1,0 +1,9 @@
+Array Elimination                    
+
+https://codeforces.com/problemset/problem/1601/A
+
+bitmasks
+
+1300
+
+You are given array a_1, a_2, \ldots, a_n, consisting of non-negative integers.Let's define operation of "elimination" with integer parameter k (1 \leq k \leq n) as follows:  Choose k distinct array indices 1 \leq i_1 < i_2 < \ldots < i_k \le n.  Calculate x = a_{i_1} ~ \& ~ a_{i_2} ~ \& ~ \ldots ~ \& ~ a_{i_k}, where \& denotes the bitwise AND operation (notes section contains formal definition).  Subtract x from each of a_{i_1}, a_{i_2}, \ldots, a_{i_k}; all other elements remain untouched. Find all possible values of k, such that it's possible to make all elements of array a equal to 0 using a finite number of elimination operations with parameter k. It can be proven that exists at least one possible k for any array a.Note that you firstly choose k and only after that perform elimination operations with value k you've chosen initially.

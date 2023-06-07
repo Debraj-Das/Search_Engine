@@ -1,0 +1,9 @@
+Omkar and Modes                    
+
+https://codeforces.com/problemset/problem/1372/F
+
+binary search
+
+2700
+
+Ray lost his array and needs to find it by asking Omkar. Omkar is willing to disclose that the array has the following qualities:  The array has n (1 \le n \le 2 \cdot 10^5) elements.  Every element in the array a_i is an integer in the range 1 \le a_i \le 10^9.  The array is sorted in nondecreasing order. Ray is allowed to send Omkar a series of queries. A query consists of two integers, l and r such that 1 \le l \le r \le n. Omkar will respond with two integers, x and f. x is the mode of the subarray from index l to index r inclusive. The mode of an array is defined by the number that appears the most frequently. If there are multiple numbers that appear the most number of times, the smallest such number is considered to be the mode. f is the amount of times that x appears in the queried subarray.The array has k (1 \le k \le \min(25000,n)) distinct elements. However, due to Ray's sins, Omkar will not tell Ray what k is. Ray is allowed to send at most 4k queries.Help Ray find his lost array.

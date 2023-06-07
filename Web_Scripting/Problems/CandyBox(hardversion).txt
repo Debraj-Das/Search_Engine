@@ -1,0 +1,9 @@
+Candy Box hard version                    
+
+httpscodeforcescomproblemsetproblem1183G
+
+greedy
+
+2000
+
+This problem is a version of problem D from the same contest with some additional constraints and tasksThere are n candies in a candy box The type of the ith candy is ai 1 le ai le n You have to prepare a gift using some of these candies with the following restriction the numbers of candies of each type presented in a gift should be all distinct ie for example a gift having two candies of type 1 and two candies of type 2 is badIt is possible that multiple types of candies are completely absent from the gift It is also possible that not all candies of some types will be taken to a giftYou really like some of the candies and dont want to include them into the gift but you want to eat them yourself instead For each candy a number fi is given which is equal to 0 if you really want to keep ith candy for yourself or 1 if you dont mind including it into your gift It is possible that two candies of the same type have different values of fiYou want your gift to be as large as possible but you dont want to include too many of the candies you want to eat into the gift So you want to calculate the maximum possible number of candies that can be included into a gift and among all ways to choose maximum number of candies you want to maximize the number of candies having fi  1 in your giftYou have to answer q independent queriesIf you are Python programmer consider using PyPy instead of Python when you submit your code

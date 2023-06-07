@@ -1,0 +1,9 @@
+Ehab and another construction problem                    
+
+https://codeforces.com/problemset/problem/1088/A
+
+brute force
+
+800
+
+Given an integer x, find 2 integers a and b such that:   1 \le a,b \le x  b divides a (a is divisible by b).  a \cdot b>x.  \frac{a}{b}<x. 

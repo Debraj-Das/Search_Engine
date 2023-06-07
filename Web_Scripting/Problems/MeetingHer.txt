@@ -1,0 +1,9 @@
+Meeting Her                    
+
+httpscodeforcescomproblemsetproblem238E
+
+dp
+
+2600
+
+Urpal lives in a big city He has planned to meet his lover tonight The city has n junctions numbered from 1 to n The junctions are connected by m directed streets all the roads have equal length Urpal lives in junction a and the date is planned in a restaurant in junction b He wants to use public transportation to get to junction b There are k bus transportation companies At the beginning of every second a bus from the ith company chooses a random shortest path between junction si and junction ti and passes through it There might be no path from si to ti In that case no bus will leave from si to ti If a bus passes through a junction where Urpal stands he can get on the bus He can also get off the bus at any junction along the path Now Urpal wants to know if its possible to go to the date using public transportation in a finite amount of time the time of travel is the sum of length of the traveled roads and what is the minimum number of buses he should take in the worst caseAt any moment Urpal knows only his own position and the place where the date will be When he gets on the bus he knows only the index of the company of this bus Of course Urpal knows the city map and the the pairs siti for each companyNote that Urpal doesnt know buses velocity 

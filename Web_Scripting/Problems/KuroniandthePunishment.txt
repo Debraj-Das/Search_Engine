@@ -1,0 +1,9 @@
+Kuroni and the Punishment                    
+
+https://codeforces.com/problemset/problem/1305/F
+
+math
+
+2500
+
+Kuroni is very angry at the other setters for using him as a theme! As a punishment, he forced them to solve the following problem:You have an array a consisting of n positive integers. An operation consists of choosing an element and either adding 1 to it or subtracting 1 from it, such that the element remains positive. We say the array is good if the greatest common divisor of all its elements is not 1. Find the minimum number of operations needed to make the array good.Unable to match Kuroni's intellect, the setters failed to solve the problem. Help them escape from Kuroni's punishment!

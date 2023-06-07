@@ -1,0 +1,9 @@
+Hammer throwing                    
+
+https://codeforces.com/problemset/problem/683/E
+
+*special problem
+
+1800
+
+n athletes take part in the hammer throw. Each of them has his own unique identifier — the integer from 1 to n (all athletes have distinct identifiers). After the draw, the order in which the athletes will throw the hammer has been determined (they will do it one by one).Unfortunately, a not very attentive judge lost the list with the order of athletes, but each of the athletes has remembered how many competitors with identifiers larger than his own will throw the hammer before him.Your task is to help the organizers as quickly as possible to restore the order of the athletes.

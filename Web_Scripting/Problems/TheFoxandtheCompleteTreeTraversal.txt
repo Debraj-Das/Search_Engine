@@ -1,0 +1,9 @@
+The Fox and the Complete Tree Traversal                    
+
+https://codeforces.com/problemset/problem/1819/C
+
+constructive algorithms
+
+2400
+
+The fox Yae climbed the tree of the Sacred Sakura. A tree is a connected undirected graph that does not contain cycles.The fox uses her magical powers to move around the tree. Yae can jump from vertex v to another vertex u if and only if the distance between these vertices does not exceed 2. In other words, in one jump Yae can jump from vertex v to vertex u if vertices v and u are connected by an edge, or if there exists such vertex w that vertices v and w are connected by an edge, and also vertices u and w are connected by an edge.After Yae was able to get the sakura petal, she wondered if there was a cyclic route in the tree v_1, v_2, \ldots, v_n such that:  the fox can jump from vertex v_i to vertex v_{i + 1},  the fox can jump from vertex v_n to vertex v_1,  all v_i are pairwise distinct. Help the fox determine if the required traversal exists.

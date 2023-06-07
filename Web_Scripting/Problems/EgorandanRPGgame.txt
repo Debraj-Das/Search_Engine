@@ -1,0 +1,9 @@
+Egor and an RPG game                    
+
+https://codeforces.com/problemset/problem/1097/E
+
+constructive algorithms
+
+3400
+
+One Saturday afternoon Egor was playing his favorite RPG game. While discovering new lands and territories, he came across the following sign:  Egor is a passionate player, but he is an algorithmician as well. That's why he instantly spotted four common letters in two words on the sign above — if we permute the letters "R", "E", "G", "O" from the first word, we can obtain the letters "O", "G", "R", "E". Egor got inspired by the sign and right away he came up with a problem about permutations.You are given a permutation of length n. You have to split it into some non-empty subsequences so that each element of the permutation belongs to exactly one subsequence. Each subsequence must be monotonic — that is, either increasing or decreasing.Sequence is called to be a subsequence if it can be derived from permutation by deleting some (possibly none) elements without changing the order of the remaining elements.The number of subsequences should be small enough — let f(n) be the minimum integer k such that every permutation of length n can be partitioned into at most k monotonic subsequences.You need to split the permutation into at most f(n) monotonic subsequences.

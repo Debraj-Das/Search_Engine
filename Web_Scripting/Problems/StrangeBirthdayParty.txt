@@ -1,0 +1,9 @@
+Strange Birthday Party                    
+
+https://codeforces.com/problemset/problem/1470/A
+
+binary search
+
+1300
+
+Petya organized a strange birthday party. He invited n friends and assigned an integer k_i to the i-th of them. Now Petya would like to give a present to each of them. In the nearby shop there are m unique presents available, the j-th present costs c_j dollars (1 \le c_1 \le c_2 \le \ldots \le c_m). It's not allowed to buy a single present more than once.For the i-th friend Petya can either buy them a present j \le k_i, which costs c_j dollars, or just give them c_{k_i} dollars directly.Help Petya determine the minimum total cost of hosting his party.

@@ -1,0 +1,9 @@
+Projectors                    
+
+https://codeforces.com/problemset/problem/1250/K
+
+flows
+
+3100
+
+There are n lectures and m seminars to be conducted today at the Faculty of Approximate Sciences. The i-th lecture starts at a_i and ends at b_i (formally, time of the lecture spans an interval [a_i, b_i), the right bound is exclusive). The j-th seminar starts at p_j and ends at q_j (similarly, time of the seminar spans an interval [p_j, q_j), the right bound is exclusive).There are x HD-projectors numbered from 1 to x and y ordinary projectors numbered from x + 1 to x + y available at the faculty. Projectors should be distributed in such a way that:  an HD-projector is used in each lecture;  some projector (ordinary or HD) is used in each seminar;  a projector (ordinary or HD) can only be used in one event at the same moment of time;  if a projector is selected for an event, it is used there for the whole duration of the event;  a projector can be reused in some following event, if it starts not earlier than current event finishes. You are to find such distribution of projectors, if it exists.Again, note that the right bound of the event's time range is not inclusive: if some event starts exactly when another event finishes, the projector can be reused (suppose that it is instantly transported to the location of the event).

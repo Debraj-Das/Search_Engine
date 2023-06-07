@@ -1,0 +1,9 @@
+Guarding warehouses                    
+
+https://codeforces.com/problemset/problem/1218/B
+
+data structures
+
+3000
+
+Bob Bubblestrong just got a new job as security guard. Bob is now responsible for safety of a collection of warehouses, each containing the most valuable Bubble Cup assets - the high-quality bubbles. His task is to detect thieves inside the warehouses and call the police.Looking from the sky, each warehouse has a shape of a convex polygon. Walls of no two warehouses intersect, and of course, none of the warehouses is built inside of another warehouse.Little did the Bubble Cup bosses know how lazy Bob is and that he enjoys watching soap operas (he heard they are full of bubbles) from the coziness of his office. Instead of going from one warehouse to another to check if warehouses are secured, the plan Bob has is to monitor all the warehouses from the comfort of his office using the special X-ray goggles. The goggles have an infinite range, so a thief in any of the warehouses could easily be spotted.However, the goggles promptly broke and the X-rays are now strong only enough to let Bob see through a single wall. Now, Bob would really appreciate if you could help him find out what is the total area inside of the warehouses monitored by the broken goggles, so that he could know how much area of the warehouses he needs to monitor in person.

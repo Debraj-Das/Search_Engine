@@ -1,0 +1,9 @@
+Paint the Tree                    
+
+https://codeforces.com/problemset/problem/1223/E
+
+dp
+
+2100
+
+You are given a weighted tree consisting of n vertices. Recall that a tree is a connected graph without cycles. Vertices u_i and v_i are connected by an edge with weight w_i.Let's define the k-coloring of the tree as an assignment of exactly k colors to each vertex, so that each color is used no more than two times. You can assume that you have infinitely many colors available. We say that an edge is saturated in the given k-coloring if its endpoints share at least one color (i.e. there exists a color that is assigned to both endpoints).Let's also define the value of a k-coloring as the sum of weights of saturated edges.Please calculate the maximum possible value of a k-coloring of the given tree.You have to answer q independent queries.

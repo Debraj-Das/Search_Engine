@@ -1,0 +1,9 @@
+Wait for it                    
+
+httpscodeforcescomproblemsetproblem696E
+
+data structures
+
+3000
+
+Barney is searching for his dream girl He lives in NYC NYC has n junctions numbered from 1 to n and n1 roads connecting them We will consider the NYC as a rooted tree with root being junction 1 m girls live in NYC ith of them lives along junction ci and her weight initially equals i pounds  Barney consider a girl x to be better than a girl y if and only if girl x has weight strictly less than girl y or girl x and girl y have equal weights and index of girl x living junction index is strictly less than girl y living junction index ie cxcy Thus for any two girls one of them is always better than another oneFor the next q days one event happens each day There are two types of events  Barney goes from junction v to junction u As a result he picks at most k best girls he still have not invited from junctions on his way and invites them to his house to test if one of them is his dream girl If there are less than k not invited girls on his path he invites all of them Girls living along junctions in subtree of junction v including v itself put on some weight As result their weights increase by k pounds Your task is for each event of first type tell Barney the indices of girls he will invite to his home in this event

@@ -1,0 +1,9 @@
+Johnny and New Toy                    
+
+https://codeforces.com/problemset/problem/1361/F
+
+data structures
+
+3300
+
+Johnny has a new toy. As you may guess, it is a little bit extraordinary. The toy is a permutation P of numbers from 1 to n, written in one row next to each other. For each i from 1 to n - 1 between P_i and P_{i + 1} there is a weight W_i written, and those weights form a permutation of numbers from 1 to n - 1. There are also extra weights W_0 = W_n = 0.The instruction defines subsegment [L, R] as good if W_{L - 1} < W_i and W_R < W_i for any i in \{L, L + 1, \ldots, R - 1\}. For such subsegment it also defines W_M as minimum of set \{W_L, W_{L + 1}, \ldots, W_{R - 1}\}. Now the fun begins. In one move, the player can choose one of the good subsegments, cut it into [L, M] and [M + 1, R] and swap the two parts. More precisely, before one move the chosen subsegment of our toy looks like: W_{L - 1}, P_L, W_L, \ldots, W_{M - 1}, P_M, W_M, P_{M + 1}, W_{M + 1}, \ldots, W_{R - 1}, P_R, W_R and afterwards it looks like this: W_{L - 1}, P_{M + 1}, W_{M + 1}, \ldots, W_{R - 1}, P_R, W_M, P_L, W_L, \ldots, W_{M - 1}, P_M, W_R Such a move can be performed multiple times (possibly zero), and the goal is to achieve the minimum number of inversions in P. Johnny's younger sister Megan thinks that the rules are too complicated, so she wants to test her brother by choosing some pair of indices X and Y, and swapping P_X and P_Y (X might be equal Y). After each sister's swap, Johnny wonders, what is the minimal number of inversions that he can achieve, starting with current P and making legal moves?You can assume that the input is generated randomly. P and W were chosen independently and equiprobably over all permutations; also, Megan's requests were chosen independently and equiprobably over all pairs of indices.

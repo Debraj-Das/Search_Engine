@@ -1,0 +1,9 @@
+Parallelepiped                    
+
+https://codeforces.com/problemset/problem/224/A
+
+brute force
+
+1100
+
+You've got a rectangular parallelepiped with integer edge lengths. You know the areas of its three faces that have a common vertex. Your task is to find the sum of lengths of all 12 edges of this parallelepiped.

@@ -1,0 +1,9 @@
+Fedor and coupons                    
+
+https://codeforces.com/problemset/problem/754/D
+
+binary search
+
+2100
+
+All our characters have hobbies. The same is true for Fedor. He enjoys shopping in the neighboring supermarket. The goods in the supermarket have unique integer ids. Also, for every integer there is a product with id equal to this integer. Fedor has n discount coupons, the i-th of them can be used with products with ids ranging from li to ri, inclusive. Today Fedor wants to take exactly k coupons with him.Fedor wants to choose the k coupons in such a way that the number of such products x that all coupons can be used with this product x is as large as possible (for better understanding, see examples). Fedor wants to save his time as well, so he asks you to choose coupons for him. Help Fedor!

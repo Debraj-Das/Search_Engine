@@ -1,0 +1,9 @@
+Alex and Complicated Task                    
+
+httpscodeforcescomproblemsetproblem467E
+
+data structures
+
+2300
+
+After you have read all the problems probably you think Alex is genius person Thats true One day he came up with the following taskGiven a sequence of integer numbers a1a2an You are to find a longest sequence b1b2b4m that satisfies the following conditions  b4k1b4k3 for all valid integer k  b4k2b4k4 for all valid integer k  sequence b is subsequence of a not necessarily contiguous subsequence And finally Alex had given this complicated task to George and George gave it to you Help George to cope with the task

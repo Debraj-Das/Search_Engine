@@ -1,0 +1,9 @@
+Diverse Team                    
+
+https://codeforces.com/problemset/problem/988/A
+
+brute force
+
+800
+
+There are n students in a school class, the rating of the i-th student on Codehorses is a_i. You have to form a team consisting of k students (1 \le k \le n) such that the ratings of all team members are distinct.If it is impossible to form a suitable team, print "NO" (without quotes). Otherwise print "YES", and then print k distinct numbers which should be the indices of students in the team you form. If there are multiple answers, print any of them.

@@ -1,0 +1,9 @@
+Pashmak and Parmidas problem                    
+
+httpscodeforcescomproblemsetproblem459D
+
+data structures
+
+1800
+
+Parmida is a clever girl and she wants to participate in Olympiads this year Of course she wants her partner to be clever too although hes not Parmida has prepared the following test problem for PashmakThere is a sequence a that consists of n integers a1a2an Lets denote flrx the number of indices k such that lkr and akx His task is to calculate the number of pairs of indicies ij 1ijn such that f1iaifjnajHelp Pashmak with the test

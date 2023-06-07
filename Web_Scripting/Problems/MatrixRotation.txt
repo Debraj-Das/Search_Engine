@@ -1,0 +1,9 @@
+Matrix Rotation                    
+
+https://codeforces.com/problemset/problem/1772/B
+
+brute force
+
+800
+
+You have a matrix 2 \times 2 filled with distinct integers. You want your matrix to become beautiful. The matrix is beautiful if the following two conditions are satisfied:  in each row, the first element is smaller than the second element;  in each column, the first element is smaller than the second element.   You can perform the following operation on the matrix any number of times: rotate it clockwise by 90 degrees, so the top left element shifts to the top right cell, the top right element shifts to the bottom right cell, and so on:  Determine if it is possible to make the matrix beautiful by applying zero or more operations.

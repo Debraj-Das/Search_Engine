@@ -1,0 +1,9 @@
+Dima and Continuous Line                    
+
+httpscodeforcescomproblemsetproblem358A
+
+brute force
+
+1400
+
+Dima and Seryozha live in an ordinary dormitory room for two One day Dima had a date with his girl and he asked Seryozha to leave the room As a compensation Seryozha made Dima do his homeworkThe teacher gave Seryozha the coordinates of n distinct points on the abscissa axis and asked to consecutively connect them by semicircus in a certain order first connect the first point with the second one then connect the second point with the third one then the third one with the fourth one and so on to the nth point Two points with coordinates x10 and x20 should be connected by a semicircle that passes above the abscissa axis with the diameter that coincides with the segment between points Seryozha needs to find out if the line on the picture intersects itself For clarifications see the picture Seryozha showed to Dima the left picture has selfintersections the right picture doesnt have any  Seryozha is not a small boy so the coordinates of the points can be rather large Help Dima cope with the problem

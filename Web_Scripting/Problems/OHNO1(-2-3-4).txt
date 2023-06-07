@@ -1,0 +1,9 @@
+OH NO1 (-2-3-4)                    
+
+https://codeforces.com/problemset/problem/1815/F
+
+constructive algorithms
+
+3500
+
+You are given an undirected graph with n vertices and 3m edges. The graph may contain multi-edges, but does not contain self-loops. The graph satisfies the following property: the given edges can be divided into m groups of 3, such that each group is a triangle.A triangle is defined as three edges (a,b), (b,c) and (c,a) for some three distinct vertices a,b,c (1 \leq a,b,c \leq n).Initially, each vertex v has a non-negative integer weight a_v. For every edge (u,v) in the graph, you should perform the following operation exactly once:   Choose an integer x between 1 and 4. Then increase both a_u and a_v by x. After performing all operations, the following requirement should be satisfied: if u and v are connected by an edge, then a_u \ne a_v.It can be proven this is always possible under the constraints of the task. Output a way to do so, by outputting the choice of x for each edge. It is easy to see that the order of operations does not matter. If there are multiple valid answers, output any.  

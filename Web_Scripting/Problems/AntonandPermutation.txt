@@ -1,0 +1,9 @@
+Anton and Permutation                    
+
+httpscodeforcescomproblemsetproblem785E
+
+brute force
+
+2200
+
+Anton likes permutations especially he likes to permute their elements Note that a permutation of n elements is a sequence of numbers a1a2an in which every number from 1 to n appears exactly onceOne day Anton got a new permutation and started to play with it He does the following operation q times he takes two elements of the permutation and swaps these elements After each operation he asks his friend Vanya how many inversions there are in the new permutation The number of inversions in a permutation is the number of distinct pairs ij such that 1ijn and aiajVanya is tired of answering Antons silly questions So he asked you to write a program that would answer these questions instead of himInitially Antons permutation was 12n that is aii for all i such that 1in

@@ -1,0 +1,9 @@
+Theft of Blueprints                    
+
+httpscodeforcescomproblemsetproblem332D
+
+graphs
+
+2400
+
+Insurgents accidentally got hold of the plan of a top secret research polygon created on a distant planet for the needs of the Galaxy Empire The insurgents suppose that this polygon is developing new deadly weapon The polygon consists of n missile silos connected by bidirectional underground passages The passages are linked to laboratories where research is conducted Naturally the passages are guarded severely the passage between silos i and j is patrolled by cij war droidsThe insurgents studied the polygon plan and noticed its unusual structure As it turned out for any kelement set of silos S there is exactly one silo that is directly connected by a passage with each silo from S well call this silo adjacent with S Having considered that the insurgents decided to act as follows  they choose a kelement set of silos S  a group of scouts lands from the air into each silo from S  each group moves along the corresponding passage to the silo adjacent with S as the scouts move they check out the laboratories and watch for any signs of weapon blueprints  in the silo adjacent with S the groups get on the ship and fly away The danger of the operation is the total number of droids that patrol the passages through which the scouts will go The danger of the operation obviously only depends on the way to choose set S The insurgents havent yet decided on the exact silos to send the scouts to However they already want to start preparing the weapons for the scout groups To do that the insurgents need to know the mathematical average of the dangers of the operations that correspond to all possible ways to choose set S Solve this problem to help the insurgents protect the ideals of the Republic

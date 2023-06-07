@@ -1,0 +1,9 @@
+Equal Reversal                    
+
+https://codeforces.com/problemset/problem/1698/F
+
+constructive algorithms
+
+2800
+
+There is an array a of length n. You may perform the following operation on it:  Choose two indices l and r where 1 \le l \le r \le n and a_l = a_r. Then, reverse the subsegment from the l-th to the r-th element, i. e. set [a_l, a_{l + 1}, \ldots, a_{r - 1}, a_r] to [a_r, a_{r-1}, \ldots, a_{l+1}, a_l]. You are also given another array b of length n which is a permutation of a. Find a sequence of at most n^2 operations that transforms array a into b, or report that no such sequence exists.

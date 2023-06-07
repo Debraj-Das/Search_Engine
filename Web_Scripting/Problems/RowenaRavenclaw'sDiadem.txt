@@ -1,0 +1,9 @@
+Rowena Ravenclaws Diadem                    
+
+httpscodeforcescomproblemsetproblem855D
+
+trees
+
+2500
+
+Harry upon inquiring Helena Ravenclaws ghost came to know that she told Tom Riddle or Youknowwho about Rowena Ravenclaws diadem and that he stole it from her Harry thought that Riddle would have assumed that he was the only one to discover the Room of Requirement and thus would have hidden it there So Harry is trying to get inside the Room of Requirement to destroy the diadem as he knows that it is a horcruxBut he has to answer a puzzle in order to enter the room He is given n objects numbered from 1 to n Some of the objects have a parent object that has a lesser number Formally object i may have a parent object parenti such that parentiiThere is also a type associated with each parent relation it can be either of type 1 or type 2 Type 1 relation means that the child object is like a special case of the parent object Type 2 relation means that the second object is always a part of the first object and all its special casesNote that if an object b is a special case of object a and c is a special case of object b then c is considered to be a special case of object a as well The same holds for parts if object b is a part of a and object c is a part of b then we say that object c is a part of a Also note that if object b is a part of a and object c is a special case of a then b is a part of c as wellAn object is considered to be neither a part of itself nor a special case of itselfNow Harry has to answer two type of queries  1 u v he needs to tell if object v is a special case of object u  2 u v he needs to tell if object v is a part of object u 

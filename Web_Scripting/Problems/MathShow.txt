@@ -1,0 +1,9 @@
+Math Show                    
+
+httpscodeforcescomproblemsetproblem846B
+
+brute force
+
+1800
+
+Polycarp takes part in a math show He is given n tasks each consists of k subtasks numbered 1 through k It takes him tj minutes to solve the jth subtask of any task Thus time required to solve a subtask depends only on its index but not on the task itself Polycarp can solve subtasks in any orderBy solving subtask of arbitrary problem he earns one point Thus the number of points for task is equal to the number of solved subtasks in it Moreover if Polycarp completely solves the task solves all k of its subtasks he recieves one extra point Thus total number of points he recieves for the complete solution of the task is k1Polycarp has M minutes of time What is the maximum number of points he can earn

@@ -1,0 +1,9 @@
+Magic Stick                    
+
+https://codeforces.com/problemset/problem/1257/B
+
+math
+
+1000
+
+Recently Petya walked in the forest and found a magic stick.Since Petya really likes numbers, the first thing he learned was spells for changing numbers. So far, he knows only two spells that can be applied to a positive integer:   If the chosen number a is even, then the spell will turn it into \frac{3a}{2};  If the chosen number a is greater than one, then the spell will turn it into a-1. Note that if the number is even and greater than one, then Petya can choose which spell to apply.Petya now has only one number x. He wants to know if his favorite number y can be obtained from x using the spells he knows. The spells can be used any number of times in any order. It is not required to use spells, Petya can leave x as it is.

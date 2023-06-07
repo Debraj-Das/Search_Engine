@@ -1,0 +1,9 @@
+Counting Arrays                    
+
+httpscodeforcescomproblemsetproblem893E
+
+combinatorics
+
+2000
+
+You are given two positive integer numbers x and y An array F is called an yfactorization of x iff the following conditions are met  There are y elements in F and all of them are integer numbers   You have to count the number of pairwise distinct arrays that are yfactorizations of x Two arrays A and B are considered different iff there exists at least one index i 1iy such that AiBi Since the answer can be very large print it modulo 1097

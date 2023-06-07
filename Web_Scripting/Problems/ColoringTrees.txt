@@ -1,0 +1,9 @@
+Coloring Trees                    
+
+httpscodeforcescomproblemsetproblem711C
+
+dp
+
+1700
+
+ZS the Coder and Chris the Baboon has arrived at Udayland They walked in the park where n trees grow They decided to be naughty and color the trees in the park The trees are numbered with integers from 1 to n from left to rightInitially tree i has color ci ZS the Coder and Chris the Baboon recognizes only m different colors so 0cim where ci0 means that tree i is uncoloredZS the Coder and Chris the Baboon decides to color only the uncolored trees ie the trees with ci0 They can color each of them them in any of the m colors from 1 to m Coloring the ith tree with color j requires exactly pij litres of paintThe two friends define the beauty of a coloring of the trees as the minimum number of contiguous groups each group contains some subsegment of trees you can split all the n trees into so that each group contains trees of the same color For example if the colors of the trees from left to right are 2111322313 the beauty of the coloring is 7 since we can partition the trees into 7 contiguous groups of the same color  2111322313 ZS the Coder and Chris the Baboon wants to color all uncolored trees so that the beauty of the coloring is exactly k They need your help to determine the minimum amount of paint in litres needed to finish the jobPlease note that the friends cant color the trees that are already colored

@@ -1,0 +1,9 @@
+Distinct Digits                    
+
+https://codeforces.com/problemset/problem/1228/A
+
+brute force
+
+800
+
+You have two integers l and r. Find an integer x which satisfies the conditions below:  l \le x \le r.  All digits of x are different. If there are multiple answers, print any of them.

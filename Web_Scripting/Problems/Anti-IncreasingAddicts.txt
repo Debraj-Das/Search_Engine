@@ -1,0 +1,9 @@
+Anti-Increasing Addicts                    
+
+https://codeforces.com/problemset/problem/1738/G
+
+constructive algorithms
+
+2900
+
+You are given an n \times n grid. We write (i, j) to denote the cell in the i-th row and j-th column. For each cell, you are told whether yon can delete it or not. Given an integer k, you are asked to delete exactly (n-k+1)^2 cells from the grid such that the following condition holds.   You cannot find k not deleted cells (x_1, y_1), (x_2, y_2), \dots, (x_k, y_k) that are strictly increasing, i.e., x_i < x_{i+1} and y_i < y_{i+1} for all 1 \leq i < k.  Your task is to find a solution, or report that it is impossible. 

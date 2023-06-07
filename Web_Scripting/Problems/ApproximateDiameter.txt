@@ -1,0 +1,9 @@
+Approximate Diameter                    
+
+https://codeforces.com/problemset/problem/1804/F
+
+binary search
+
+2700
+
+Jack has a graph of n vertices and m edges. All edges are bidirectional and of unit length. The graph is connected, i. e. there exists a path between any two of its vertices. There can be more than one edge connecting the same pair of vertices. The graph can contain self-loops, i. e. edges connecting a node to itself.The distance between vertices u and v is denoted as \rho(u, v) and equals the minimum possible number of edges on a path between u and v. The diameter of graph G is defined as the maximum possible distance between some pair of its vertices. We denote it as d(G). In other words, d(G) = \max_{1 \le u, v \le n}{\rho(u, v)}.Jack plans to consecutively apply q updates to his graph. Each update adds exactly one edge to the graph. Denote as G_i the graph after exactly i updates are made. Jack wants to calculate q + 1 values d(G_0), d(G_1), d(G_2), \ldots, d(G_q).However, Jack suspects that finding the exact diameters of q + 1 graphs might be a difficult task, so he is fine with approximate answers that differ from the correct answers no more than twice. Formally, Jack wants to find a sequence of positive integers a_0, a_1, a_2, \ldots, a_q such that \left\lceil \frac{d(G_i)}{2} \right\rceil \le a_i \le 2 \cdot d(G_i) for each i.HacksYou cannot make hacks in this problem.

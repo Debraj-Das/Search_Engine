@@ -1,0 +1,9 @@
+Teleporters                    
+
+https://codeforces.com/problemset/problem/1661/F
+
+binary search
+
+2600
+
+There are n+1 teleporters on a straight line, located in points 0, a_1, a_2, a_3, ..., a_n. It's possible to teleport from point x to point y if there are teleporters in both of those points, and it costs (x-y)^2 energy.You want to install some additional teleporters so that it is possible to get from the point 0 to the point a_n (possibly through some other teleporters) spending no more than m energy in total. Each teleporter you install must be located in an integer point.What is the minimum number of teleporters you have to install?

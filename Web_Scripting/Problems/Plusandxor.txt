@@ -1,0 +1,9 @@
+Plus and xor                    
+
+httpscodeforcescomproblemsetproblem76D
+
+dp
+
+1700
+
+Bitwise exclusive OR or bitwise addition modulo two is a binary operation which is equivalent to applying logical exclusive OR to every pair of bits located on the same positions in binary notation of operands In other words a binary digit of the result is equal to 1 if and only if bits on the respective positions in the operands are differentFor example if X1091011011012 Y41101010012 then  X xor Y681010001002 Write a program which takes two nonnegative integers A and B as an input and finds two nonnegative integers X and Y which satisfy the following conditions   AXY  BX xor Y where xor is bitwise exclusive or  X is the smallest number among all numbers for which the first two conditions are true 

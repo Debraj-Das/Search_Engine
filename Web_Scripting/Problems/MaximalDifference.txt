@@ -1,0 +1,9 @@
+Maximal Difference                    
+
+httpscodeforcescomproblemsetproblem661D
+
+special problem
+
+2100
+
+You are given an array of integers ai Find the largest absolute value of difference between adjacent elements of the array maxabsaiai1

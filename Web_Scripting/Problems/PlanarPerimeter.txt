@@ -1,0 +1,9 @@
+Planar Perimeter                    
+
+https://codeforces.com/problemset/problem/1242/E
+
+constructive algorithms
+
+3200
+
+Ujan has finally cleaned up his house and now wants to decorate the interior. He decided to place a beautiful carpet that would really tie the guest room together.He is interested in carpets that are made up of polygonal patches such that each side of a patch is either a side of another (different) patch, or is an exterior side of the whole carpet. In other words, the carpet can be represented as a planar graph, where each patch corresponds to a face of the graph, each face is a simple polygon. The perimeter of the carpet is the number of the exterior sides. Ujan considers a carpet beautiful if it consists of f patches, where the i-th patch has exactly a_i sides, and the perimeter is the smallest possible. Find an example of such a carpet, so that Ujan can order it!

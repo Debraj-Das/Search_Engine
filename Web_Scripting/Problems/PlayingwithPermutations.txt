@@ -1,0 +1,9 @@
+Playing with Permutations                    
+
+httpscodeforcescomproblemsetproblem251B
+
+implementation
+
+1800
+
+Little Petya likes permutations a lot Recently his mom has presented him permutation q1q2qn of length nA permutation a of length n is a sequence of integers a1a2an 1ain all integers there are distinct There is only one thing Petya likes more than permutations playing with little Masha As it turns out Masha also has a permutation of length n Petya decided to get the same permutation whatever the cost may be For that he devised a game with the following rules  Before the beginning of the game Petya writes permutation 12n on the blackboard After that Petya makes exactly k moves which are described below  During a move Petya tosses a coin If the coin shows heads he performs point 1 if the coin shows tails he performs point 2  Lets assume that the board contains permutation p1p2pn at the given moment Then Petya removes the written permutation p from the board and writes another one instead pq1pq2pqn In other words Petya applies permutation q which he has got from his mother to permutation p  All actions are similar to point 1 except that Petya writes permutation t on the board such that tqipi for all i from 1 to n In other words Petya applies a permutation that is inverse to q to permutation p We know that after the kth move the board contained Mashas permutation s1s2sn Besides we know that throughout the game process Mashas permutation never occurred on the board before the kth move Note that the game has exactly k moves that is throughout the game the coin was tossed exactly k timesYour task is to determine whether the described situation is possible or else state that Petya was mistaken somewhere See samples and notes to them for a better understanding

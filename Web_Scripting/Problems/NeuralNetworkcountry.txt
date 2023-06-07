@@ -1,0 +1,9 @@
+Neural Network country                    
+
+https://codeforces.com/problemset/problem/852/B
+
+dp
+
+2000
+
+Due to the recent popularity of the Deep learning new countries are starting to look like Neural Networks. That is, the countries are being built deep with many layers, each layer possibly having many cities. They also have one entry, and one exit point.There are exactly L layers, each having N cities. Let us look at the two adjacent layers L1 and L2. Each city from the layer L1 is connected to each city from the layer L2 with the traveling cost cij for , and each pair of adjacent layers has the same cost in between their cities as any other pair (they just stacked the same layers, as usual). Also, the traveling costs to each city from the layer L2 are same for all cities in the L1, that is cij is the same for , and fixed j.Doctor G. needs to speed up his computations for this country so he asks you to find the number of paths he can take from entry to exit point such that his traveling cost is divisible by given number M.

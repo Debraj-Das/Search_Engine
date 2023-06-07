@@ -1,0 +1,9 @@
+0-1-Tree                    
+
+https://codeforces.com/problemset/problem/1156/D
+
+dfs and similar
+
+2200
+
+You are given a tree (an undirected connected acyclic graph) consisting of n vertices and n - 1 edges. A number is written on each edge, each number is either 0 (let's call such edges 0-edges) or 1 (those are 1-edges).Let's call an ordered pair of vertices (x, y) (x \ne y) valid if, while traversing the simple path from x to y, we never go through a 0-edge after going through a 1-edge. Your task is to calculate the number of valid pairs in the tree.

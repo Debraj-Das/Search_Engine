@@ -1,0 +1,9 @@
+Xenia and Hamming                    
+
+httpscodeforcescomproblemsetproblem356B
+
+implementation
+
+1900
+
+Xenia is an amateur programmer Today on the IT lesson she learned about the Hamming distanceThe Hamming distance between two strings ss1s2 sn and tt1t2 tn of equal length n is value  Record siti is the Iverson notation and represents the following if siti it is one otherwise  zeroNow Xenia wants to calculate the Hamming distance between two long strings a and b The first string a is the concatenation of n copies of string x that is  The second string b is the concatenation of m copies of string y Help Xenia calculate the required Hamming distance given nxmy

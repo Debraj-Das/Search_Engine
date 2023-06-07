@@ -1,0 +1,9 @@
+Sagheer the Hausmeister                    
+
+httpscodeforcescomproblemsetproblem812B
+
+bitmasks
+
+1600
+
+Some people leave the lights at their workplaces on when they leave that is a waste of resources As a hausmeister of DHBW Sagheer waits till all students and professors leave the university building then goes and turns all the lights offThe building consists of n floors with stairs at the left and the right sides Each floor has m rooms on the same line with a corridor that connects the left and right stairs passing by all the rooms In other words the building can be represented as a rectangle with n rows and m2 columns where the first and the last columns represent the stairs and the m columns in the middle represent roomsSagheer is standing at the ground floor at the left stairs He wants to turn all the lights off in such a way that he will not go upstairs until all lights in the floor he is standing at are off Of course Sagheer must visit a room to turn the light there off It takes one minute for Sagheer to go to the next floor using stairs or to move from the current roomstairs to a neighboring roomstairs on the same floor It takes no time for him to switch the light off in the room he is currently standing in Help Sagheer find the minimum total time to turn off all the lightsNote that Sagheer does not have to go back to his starting position and he does not have to visit rooms where the light is already switched off

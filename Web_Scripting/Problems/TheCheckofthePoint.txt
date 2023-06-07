@@ -1,0 +1,9 @@
+The Check of the Point                    
+
+httpscodeforcescomproblemsetproblem683A
+
+special problem
+
+1200
+
+On the coordinate plane there is a square with sides parallel to the coordinate axes The length of the square side is equal to a The lower left corner of the square coincides with the point 00 the point of the origin The upper right corner of the square has positive coordinatesYou are given a point with coordinates x y Your task is to determine whether this point is located strictly inside the square on its side or strictly outside the square

@@ -1,0 +1,9 @@
+Colors and Intervals                    
+
+https://codeforces.com/problemset/problem/1552/E
+
+constructive algorithms
+
+2300
+
+The numbers 1, \, 2, \, \dots, \, n \cdot k are colored with n colors. These colors are indexed by 1, \, 2, \, \dots, \, n. For each 1 \le i \le n, there are exactly k numbers colored with color i.Let [a, \, b] denote the interval of integers between a and b inclusive, that is, the set \{a, \, a + 1, \, \dots, \, b\}. You must choose n intervals [a_1, \, b_1], \, [a_2, \, b_2], \, \dots, [a_n, \, b_n] such that:   for each 1 \le i \le n, it holds 1 \le a_i < b_i \le n \cdot k;  for each 1 \le i \le n, the numbers a_i and b_i are colored with color i;  each number 1 \le x \le n \cdot k belongs to at most \left\lceil \frac{n}{k - 1} \right\rceil intervals. One can show that such a family of intervals always exists under the given constraints.

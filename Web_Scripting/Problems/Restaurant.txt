@@ -1,0 +1,9 @@
+Restaurant                    
+
+httpscodeforcescomproblemsetproblem597B
+
+dp
+
+1600
+
+A restaurant received n orders for the rental Each rental order reserve the restaurant for a continuous period of time the ith order is characterized by two time values  the start time li and the finish time ri liriRestaurant management can accept and reject orders What is the maximal number of orders the restaurant can acceptNo two accepted orders can intersect ie they cant share even a moment of time If one order ends in the moment other starts they cant be accepted both

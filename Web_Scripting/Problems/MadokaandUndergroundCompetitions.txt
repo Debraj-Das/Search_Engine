@@ -1,0 +1,9 @@
+Madoka and Underground Competitions                    
+
+https://codeforces.com/problemset/problem/1717/B
+
+constructive algorithms
+
+1100
+
+Madoka decided to participate in an underground sports programming competition. And there was exactly one task in it:A square table of size n \times n, where n is a multiple of k, is called good if only the characters '.' and 'X' are written in it, as well as in any subtable of size 1 \times k or k \times 1, there is at least one character 'X'. In other words, among any k consecutive vertical or horizontal cells, there must be at least one containing the character 'X'.Output any good table that has the minimum possible number of characters 'X', and also the symbol 'X' is written in the cell (r, c). Rows are numbered from 1 to n from top to bottom, columns are numbered from 1 to n from left to right.

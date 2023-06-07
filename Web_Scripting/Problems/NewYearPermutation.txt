@@ -1,0 +1,9 @@
+New Year Permutation                    
+
+httpscodeforcescomproblemsetproblem500B
+
+dfs and similar
+
+1600
+
+User ainta has a permutation p1p2pn As the New Year is coming he wants to make his permutation as pretty as possiblePermutation a1a2an is prettier than permutation b1b2bn if and only if there exists an integer k 1kn where a1b1a2b2ak1bk1 and akbk all holdsAs known permutation p is so sensitive that it could be only modified by swapping two distinct elements But swapping two elements is harder than you think Given an nn binary matrix A user ainta can swap the values of pi and pj 1ijn ij if and only if Aij1Given the permutation p and the matrix A user ainta wants to know the prettiest permutation that he can obtain

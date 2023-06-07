@@ -1,0 +1,9 @@
+The Majestic Brown Tree Snake                    
+
+https://codeforces.com/problemset/problem/1381/D
+
+dfs and similar
+
+3000
+
+There is an undirected tree of n vertices, connected by n-1 bidirectional edges. There is also a snake stuck inside of this tree. Its head is at vertex a and its tail is at vertex b. The snake's body occupies all vertices on the unique simple path between a and b.The snake wants to know if it can reverse itself  — that is, to move its head to where its tail started, and its tail to where its head started. Unfortunately, the snake's movements are restricted to the tree's structure.In an operation, the snake can move its head to an adjacent vertex not currently occupied by the snake. When it does this, the tail moves one vertex closer to the head, so that the length of the snake remains unchanged. Similarly, the snake can also move its tail to an adjacent vertex not currently occupied by the snake. When it does this, the head moves one unit closer to the tail.  Let's denote a snake position by (h,t), where h is the index of the vertex with the snake's head, t is the index of the vertex with the snake's tail. This snake can reverse itself with the movements (4,7)\to (5,1)\to (4,2)\to (1, 3)\to (7,2)\to (8,1)\to (7,4). Determine if it is possible to reverse the snake with some sequence of operations.

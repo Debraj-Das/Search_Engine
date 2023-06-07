@@ -1,0 +1,9 @@
+Max Mex                    
+
+https://codeforces.com/problemset/problem/1083/C
+
+data structures
+
+2900
+
+Once Grisha found a tree (connected graph without cycles) with a root in node 1.But this tree was not just a tree. A permutation p of integers from 0 to n - 1 is written in nodes, a number p_i is written in node i.As Grisha likes to invent some strange and interesting problems for himself, but not always can solve them, you need to help him deal with two types of queries on this tree.Let's define a function MEX(S), where S is a set of non-negative integers, as a smallest non-negative integer that is not included in this set.Let l be a simple path in this tree. So let's define indices of nodes which lie on l as u_1, u_2, \ldots, u_k. Define V(l) as a set {p_{u_1}, p_{u_2}, \ldots , p_{u_k}}. Then queries are:   For two nodes i and j, swap p_i and p_j.  Find the maximum value of MEX(V(l)) in all possible l. 

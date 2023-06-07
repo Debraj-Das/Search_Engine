@@ -1,0 +1,9 @@
+Table Compression                    
+
+httpscodeforcescomproblemsetproblem650C
+
+dfs and similar
+
+2200
+
+Little Petya is now fond of data compression algorithms He has already studied gz bz zip algorithms and many others Inspired by the new knowledge Petya is now developing the new compression algorithm which he wants to name disPetya decided to compress tables He is given a table a consisting of n rows and m columns that is filled with positive integers He wants to build the table a consisting of positive integers such that the relative order of the elements in each row and each column remains the same That is if in some row i of the initial table aijaik then in the resulting table aijaik and if aijaik then aijaik Similarly if in some column j of the initial table aijapj then in compressed table aijapj and if aijapj then aijapj Because large values require more space to store them the maximum value in a should be as small as possiblePetya is good in theory however he needs your help to implement the algorithm

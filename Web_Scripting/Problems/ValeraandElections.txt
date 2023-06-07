@@ -1,0 +1,9 @@
+Valera and Elections                    
+
+httpscodeforcescomproblemsetproblem369C
+
+dfs and similar
+
+1600
+
+The city Valera lives in is going to hold elections to the city ParliamentThe city has n districts and n1 bidirectional roads We know that from any district there is a path along the roads to any other district Lets enumerate all districts in some way by integers from 1 to n inclusive Furthermore for each road the residents decided if it is the problem road or not A problem road is a road that needs to be repairedThere are n candidates running the elections Lets enumerate all candidates in some way by integers from 1 to n inclusive If the candidate number i will be elected in the city Parliament he will perform exactly one promise  to repair all problem roads on the way from the ith district to the district 1 where the city Parliament is locatedHelp Valera and determine the subset of candidates such that if all candidates from the subset will be elected to the city Parliament all problem roads in the city will be repaired If there are several such subsets you should choose the subset consisting of the minimum number of candidates

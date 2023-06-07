@@ -1,0 +1,9 @@
+Unshuffling a Deck                    
+
+https://codeforces.com/problemset/problem/1427/D
+
+constructive algorithms
+
+2000
+
+You are given a deck of n cards numbered from 1 to n (not necessarily in this order in the deck). You have to sort the deck by repeating the following operation.   Choose 2 \le k \le n and split the deck in k nonempty contiguous parts D_1, D_2,\dots, D_k (D_1 contains the first |D_1| cards of the deck, D_2 contains the following |D_2| cards and so on). Then reverse the order of the parts, transforming the deck into D_k, D_{k-1}, \dots, D_2, D_1 (so, the first |D_k| cards of the new deck are D_k, the following |D_{k-1}| cards are D_{k-1} and so on). The internal order of each packet of cards D_i is unchanged by the operation. You have to obtain a sorted deck (i.e., a deck where the first card is 1, the second is 2 and so on) performing at most n operations. It can be proven that it is always possible to sort the deck performing at most n operations.Examples of operation: The following are three examples of valid operations (on three decks with different sizes).   If the deck is [3 6 2 1 4 5 7] (so 3 is the first card and 7 is the last card), we may apply the operation with k=4 and D_1=[3 6], D_2=[2 1 4], D_3=[5], D_4=[7]. Doing so, the deck becomes [7 5 2 1 4 3 6].  If the deck is [3 1 2], we may apply the operation with k=3 and D_1=[3], D_2=[1], D_3=[2]. Doing so, the deck becomes [2 1 3].  If the deck is [5 1 2 4 3 6], we may apply the operation with k=2 and D_1=[5 1], D_2=[2 4 3 6]. Doing so, the deck becomes [2 4 3 6 5 1]. 

@@ -1,0 +1,9 @@
+Columns Swaps                    
+
+https://codeforces.com/problemset/problem/1385/G
+
+2-sat
+
+2300
+
+You are given a table a of size 2 \times n (i.e. two rows and n columns) consisting of integers from 1 to n.In one move, you can choose some column j (1 \le j \le n) and swap values a_{1, j} and a_{2, j} in it. Each column can be chosen no more than once.Your task is to find the minimum number of moves required to obtain permutations of size n in both first and second rows of the table or determine if it is impossible to do that.You have to answer t independent test cases.Recall that the permutation of size n is such an array of size n that contains each integer from 1 to n exactly once (the order of elements doesn't matter).

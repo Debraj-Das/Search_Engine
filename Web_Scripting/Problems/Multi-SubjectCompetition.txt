@@ -1,0 +1,9 @@
+Multi-Subject Competition                    
+
+https://codeforces.com/problemset/problem/1082/C
+
+greedy
+
+1600
+
+A multi-subject competition is coming! The competition has m different subjects participants can choose from. That's why Alex (the coach) should form a competition delegation among his students. He has n candidates. For the i-th person he knows subject s_i the candidate specializes in and r_i — a skill level in his specialization (this level can be negative!). The rules of the competition require each delegation to choose some subset of subjects they will participate in. The only restriction is that the number of students from the team participating in each of the chosen subjects should be the same.Alex decided that each candidate would participate only in the subject he specializes in. Now Alex wonders whom he has to choose to maximize the total sum of skill levels of all delegates, or just skip the competition this year if every valid non-empty delegation has negative sum.(Of course, Alex doesn't have any spare money so each delegate he chooses must participate in the competition).

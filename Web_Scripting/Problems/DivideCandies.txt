@@ -1,0 +1,9 @@
+Divide Candies                    
+
+https://codeforces.com/problemset/problem/1056/B
+
+math
+
+1600
+
+Arkady and his friends love playing checkers on an n \times n field. The rows and the columns of the field are enumerated from 1 to n.The friends have recently won a championship, so Arkady wants to please them with some candies. Remembering an old parable (but not its moral), Arkady wants to give to his friends one set of candies per each cell of the field: the set of candies for cell (i, j) will have exactly (i^2 + j^2) candies of unique type.There are m friends who deserve the present. How many of these n \times n sets of candies can be split equally into m parts without cutting a candy into pieces? Note that each set has to be split independently since the types of candies in different sets are different.

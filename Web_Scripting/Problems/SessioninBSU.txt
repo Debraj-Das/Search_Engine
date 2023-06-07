@@ -1,0 +1,9 @@
+Session in BSU                    
+
+https://codeforces.com/problemset/problem/1027/F
+
+binary search
+
+2400
+
+Polycarp studies in Berland State University. Soon he will have to take his exam. He has to pass exactly n exams.For the each exam i there are known two days: a_i — day of the first opportunity to pass the exam, b_i — day of the second opportunity to pass the exam (a_i < b_i). Polycarp can pass at most one exam during each day. For each exam Polycarp chooses by himself which day he will pass this exam. He has to pass all the n exams.Polycarp wants to pass all the exams as soon as possible. Print the minimum index of day by which Polycarp can pass all the n exams, or print -1 if he cannot pass all the exams at all.

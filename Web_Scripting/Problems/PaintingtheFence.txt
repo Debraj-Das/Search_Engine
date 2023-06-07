@@ -1,0 +1,9 @@
+Painting the Fence                    
+
+https://codeforces.com/problemset/problem/1132/C
+
+brute force
+
+1700
+
+You have a long fence which consists of n sections. Unfortunately, it is not painted, so you decided to hire q painters to paint it. i-th painter will paint all sections x such that l_i \le x \le r_i.Unfortunately, you are on a tight budget, so you may hire only q - 2 painters. Obviously, only painters you hire will do their work.You want to maximize the number of painted sections if you choose q - 2 painters optimally. A section is considered painted if at least one painter paints it.

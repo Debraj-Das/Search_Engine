@@ -1,0 +1,9 @@
+Table with Letters  2                    
+
+httpscodeforcescomproblemsetproblem253D
+
+brute force
+
+2000
+
+Vasya has recently started to learn English Now he needs to remember how to write English letters He isnt sure about some of them so he decided to train a littleHe found a sheet of squared paper and began writing arbitrary English letters there In the end Vasya wrote n lines containing m characters each Thus he got a rectangular nm table each cell of the table contained some English letter Lets number the table rows from top to bottom with integers from 1 to n and columns  from left to right with integers from 1 to mAfter that Vasya looked at the resulting rectangular table and wondered how many subtables are there that matches both following conditions  the subtable contains at most k cells with a letter  all letters located in all four corner cells of the subtable are equal  Formally a subtables definition is as follows It is defined by four integers x1y1x2y2 such that 1x1x2n 1y1y2m Then the subtable contains all such cells xy x is the row number y is the column number for which the following inequality holds x1xx2y1yy2 The corner cells of the table are cells x1y1 x1y2 x2y1 x2y2Vasya is already too tired after hes been writing letters to a piece of paper Thats why he asks you to count the value he is interested in

@@ -1,0 +1,9 @@
+Dirty plates                    
+
+httpscodeforcescomproblemsetproblem737F
+
+constructive algorithms
+
+3300
+
+After one of celebrations there is a stack of dirty plates in Nikitas kitchen Nikita has to wash them and put into a dryer In dryer the plates should be also placed in a stack also and the plates sizes should increase down up The sizes of all plates are distinctNikita has no so much free space specifically he has a place for only one more stack of plates Therefore he can perform only such two operations   Take any number of plates from 1 to a from the top of the dirty stack wash them and put them to the intermediate stack  Take any number of plates from 1 to b from the top of the intermediate stack and put them to the stack in the dryer Note that after performing each of the operations the plates are put in the same order as they were before the operationYou are given the sizes of the plates s1s2sn in the down up order in the dirty stack and integers a and b All the sizes are distinct Write a program that determines whether or not Nikita can put the plates in increasing down up order in the dryer If he is able to do so the program should find some sequence of operations not necessary optimal to achieve it

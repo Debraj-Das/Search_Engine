@@ -1,0 +1,9 @@
+Jzzhu and Chocolate                    
+
+httpscodeforcescomproblemsetproblem449A
+
+greedy
+
+1700
+
+Jzzhu has a big rectangular chocolate bar that consists of nm unit squares He wants to cut this bar exactly k times Each cut must meet the following requirements  each cut should be straight horizontal or vertical  each cut should go along edges of unit squares it is prohibited to divide any unit chocolate square with cut  each cut should go inside the whole chocolate bar and all cuts must be distinct The picture below shows a possible way to cut a 56 chocolate for 5 times  Imagine Jzzhu have made k cuts and the big chocolate is splitted into several pieces Consider the smallest by area piece of the chocolate Jzzhu wants this piece to be as large as possible What is the maximum possible area of smallest piece he can get with exactly k cuts The area of a chocolate piece is the number of unit squares in it

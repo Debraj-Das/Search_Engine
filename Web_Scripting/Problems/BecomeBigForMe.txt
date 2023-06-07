@@ -1,0 +1,9 @@
+Become Big For Me                    
+
+https://codeforces.com/problemset/problem/1687/E
+
+combinatorics
+
+3500
+
+Come, let's build a world where even the weak are not forgotten!—Kijin Seija, Double Dealing CharactersShinmyoumaru has a mallet that can turn objects bigger or smaller. She is testing it out on a sequence a and a number v whose initial value is 1. She wants to make v = \gcd\limits_{i\ne j}\{a_i\cdot a_j\} by no more than 10^5 operations (\gcd\limits_{i\ne j}\{a_i\cdot a_j\} denotes the \gcd of all products of two distinct elements of the sequence a). In each operation, she picks a subsequence b of a, and does one of the followings:   Enlarge: v = v \cdot \mathrm{lcm}(b)  Reduce: v = \frac{v}{\mathrm{lcm}(b)} Note that she does not need to guarantee that v is an integer, that is, v does not need to be a multiple of \mathrm{lcm}(b) when performing Reduce.Moreover, she wants to guarantee that the total length of b chosen over the operations does not exceed 10^6. Fine a possible operation sequence for her. You don't need to minimize anything.

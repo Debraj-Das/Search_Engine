@@ -1,0 +1,9 @@
+More Cowbell                    
+
+httpscodeforcescomproblemsetproblem604B
+
+binary search
+
+1400
+
+Kevin Sun wants to move his precious collection of n cowbells from Naperthrill to Exeter where there is actually grass instead of corn Before moving he must pack his cowbells into k boxes of a fixed size In order to keep his collection safe during transportation he wont place more than two cowbells into a single box Since Kevin wishes to minimize expenses he is curious about the smallest size box he can use to pack his entire collection Kevin is a meticulous cowbell collector and knows that the size of his ith 1in cowbell is an integer si In fact he keeps his cowbells sorted by size so si1si for any i1 Also an expert packer Kevin can fit one or two cowbells into a box of size s if and only if the sum of their sizes does not exceed s Given this information help Kevin determine the smallest s for which it is possible to put all of his cowbells into k boxes of size s

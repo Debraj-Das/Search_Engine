@@ -1,0 +1,9 @@
+Yet Another LCP Problem                    
+
+https://codeforces.com/problemset/problem/1073/G
+
+data structures
+
+2600
+
+Let \text{LCP}(s, t) be the length of the longest common prefix of strings s and t. Also let s[x \dots y] be the substring of s from index x to index y (inclusive). For example, if s =  "abcde", then s[1 \dots 3] = "abc", s[2 \dots 5] = "bcde".You are given a string s of length n and q queries. Each query is a pair of integer sets a_1, a_2, \dots, a_k and b_1, b_2, \dots, b_l. Calculate \sum\limits_{i = 1}^{i = k} \sum\limits_{j = 1}^{j = l}{\text{LCP}(s[a_i \dots n], s[b_j \dots n])} for each query.

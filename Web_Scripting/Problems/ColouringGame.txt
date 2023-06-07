@@ -1,0 +1,9 @@
+Colouring Game                    
+
+https://codeforces.com/problemset/problem/1704/F
+
+constructive algorithms
+
+2600
+
+Alice and Bob are playing a game. There are n cells in a row. Initially each cell is either red or blue. Alice goes first.On each turn, Alice chooses two neighbouring cells which contain at least one red cell, and paints that two cells white. Then, Bob chooses two neighbouring cells which contain at least one blue cell, and paints that two cells white. The player who cannot make a move loses.Find the winner if both Alice and Bob play optimally.Note that a chosen cell can be white, as long as the other cell satisfies the constraints.

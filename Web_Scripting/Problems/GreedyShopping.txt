@@ -1,0 +1,9 @@
+Greedy Shopping                    
+
+https://codeforces.com/problemset/problem/1439/C
+
+binary search
+
+2600
+
+You are given an array a_1, a_2, \ldots, a_n of integers. This array is non-increasing.Let's consider a line with n shops. The shops are numbered with integers from 1 to n from left to right. The cost of a meal in the i-th shop is equal to a_i.You should process q queries of two types:  1 x y: for each shop 1 \leq i \leq x set a_{i} = max(a_{i}, y).  2 x y: let's consider a hungry man with y money. He visits the shops from x-th shop to n-th and if he can buy a meal in the current shop he buys one item of it. Find how many meals he will purchase. The man can buy a meal in the shop i if he has at least a_i money, and after it his money decreases by a_i. 

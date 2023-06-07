@@ -1,0 +1,9 @@
+Bracket Insertion                    
+
+https://codeforces.com/problemset/problem/1781/F
+
+combinatorics
+
+2700
+
+Vika likes playing with bracket sequences. Today she wants to create a new bracket sequence using the following algorithm. Initially, Vika's sequence is an empty string, and then she will repeat the following actions n times:   Choose a place in the current bracket sequence to insert new brackets uniformly at random. If the length of the current sequence is k, then there are k+1 such places: before the first bracket, between the first and the second brackets, \ldots, after the k-th bracket. In particular, there is one such place in an empty bracket sequence.  Choose string "()" with probability p or string ")(" with probability 1 - p and insert it into the chosen place. The length of the bracket sequence will increase by 2. A bracket sequence is called regular if it is possible to obtain a correct arithmetic expression by inserting characters '+' and '1' into it. For example, sequences "(())()", "()", and "(()(()))" are regular, while ")(", "(()", and "(()))(" are not.Vika wants to know the probability that her bracket sequence will be a regular one at the end. Help her and find this probability modulo 998\,244\,353 (see Output section).

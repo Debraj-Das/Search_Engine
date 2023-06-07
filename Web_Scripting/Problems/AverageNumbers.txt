@@ -1,0 +1,9 @@
+Average Numbers                    
+
+httpscodeforcescomproblemsetproblem134A
+
+brute force
+
+1200
+
+You are given a sequence of positive integers a1a2an Find all such indices i that the ith element equals the arithmetic mean of all other elements that is all elements except for this one

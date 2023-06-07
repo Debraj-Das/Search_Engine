@@ -1,0 +1,9 @@
+Photo to Remember                    
+
+httpscodeforcescomproblemsetproblem522B
+
+special problem
+
+1100
+
+One day n friends met at a party they hadnt seen each other for a long time and so they decided to make a group photo together Simply speaking the process of taking photos can be described as follows On the photo each photographed friend occupies a rectangle of pixels the ith of them occupies the rectangle of width wi pixels and height hi pixels On the group photo everybody stands in a line thus the minimum pixel size of the photo including all the photographed friends is WH where W is the total sum of all widths and H is the maximum height of all the photographed friendsAs is usually the case the friends made n photos  the jth 1jn photo had everybody except for the jth friend as he was the photographerPrint the minimum size of each made photo in pixels 

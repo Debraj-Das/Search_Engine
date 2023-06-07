@@ -1,0 +1,9 @@
+ALT                    
+
+httpscodeforcescomproblemsetproblem786E
+
+data structures
+
+3200
+
+ALT is a planet in a galaxy called Encore Humans rule this planet but for some reason theres no dog in their planet so the people there are sad and depressed Rick and Morty are universal philanthropists and they want to make people in ALT happy ALT has n cities numbered from 1 to n and n1 bidirectional roads numbered from 1 to n1 One can go from any city to any other city using these roadsThere are two types of people in ALT  Guardians A guardian lives in a house alongside a road and guards the road  Citizens A citizen lives in a house inside a city and works in an office in another city Every person on ALT is either a guardian or a citizen and theres exactly one guardian alongside each road   Rick and Morty talked to all the people in ALT and heres what they got  There are m citizens living in ALT  Citizen number i lives in city number xi and works in city number yi  Every day each citizen will go through all roads along the shortest path from his home to his work  A citizen will be happy if and only if either he himself has a puppy himself or all of guardians along his path to his work has a puppy he sees the guardians puppy in each road and will be happy  A guardian is always happy You need to tell Rick and Morty the minimum number of puppies they need in order to make all people in ALT happy and also provide an optimal way to distribute these puppies

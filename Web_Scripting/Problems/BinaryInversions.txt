@@ -1,0 +1,9 @@
+Binary Inversions                    
+
+https://codeforces.com/problemset/problem/1760/E
+
+data structures
+
+1100
+
+You are given a binary array^{\dagger} of length n. You are allowed to perform one operation on it at most once. In an operation, you can choose any element and flip it: turn a 0 into a 1 or vice-versa.What is the maximum number of inversions^{\ddagger} the array can have after performing at most one operation?^\dagger A binary array is an array that contains only zeroes and ones.^\ddagger The number of inversions in an array is the number of pairs of indices i,j such that i<j and a_i > a_j.

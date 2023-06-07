@@ -1,0 +1,9 @@
+Make a Square                    
+
+https://codeforces.com/problemset/problem/962/C
+
+brute force
+
+1400
+
+You are given a positive integer n, written without leading zeroes (for example, the number 04 is incorrect). In one operation you can delete any digit of the given integer so that the result remains a positive integer without leading zeros.Determine the minimum number of operations that you need to consistently apply to the given integer n to make from it the square of some positive integer or report that it is impossible.An integer x is the square of some positive integer if and only if x=y^2 for some positive integer y.

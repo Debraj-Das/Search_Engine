@@ -1,0 +1,9 @@
+New Reform                    
+
+https://codeforces.com/problemset/problem/659/E
+
+data structures
+
+1600
+
+Berland has n cities connected by m bidirectional roads. No road connects a city to itself, and each pair of cities is connected by no more than one road. It is not guaranteed that you can get from any city to any other one, using only the existing roads.The President of Berland decided to make changes to the road system and instructed the Ministry of Transport to make this reform. Now, each road should be unidirectional (only lead from one city to another).In order not to cause great resentment among residents, the reform needs to be conducted so that there can be as few separate cities as possible. A city is considered separate, if no road leads into it, while it is allowed to have roads leading from this city.Help the Ministry of Transport to find the minimum possible number of separate cities after the reform.

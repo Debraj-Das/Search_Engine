@@ -1,0 +1,9 @@
+Wardrobe                    
+
+httpscodeforcescomproblemsetproblem924E
+
+
+
+2700
+
+Olya wants to buy a custom wardrobe It should have n boxes with heights a1a2an stacked one on another in some order In other words we can represent each box as a vertical segment of length ai and all these segments should form a single segment from 0 to  without any overlapsSome of the boxes are important in this case bi1 others are not then bi0 Olya defines the convenience of the wardrobe as the number of important boxes such that their bottom edge is located between the heights l and r inclusiveYou are given information about heights of the boxes and their importance Compute the maximum possible convenience of the wardrobe if you can reorder the boxes arbitrarily

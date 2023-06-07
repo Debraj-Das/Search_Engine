@@ -1,0 +1,9 @@
+Mrs Hudsons Pancakes                    
+
+httpscodeforcescomproblemsetproblem156E
+
+brute force
+
+3000
+
+Mrs Hudson hasnt made her famous pancakes for quite a while and finally she decided to make them again She has learned m new recipes recently and she cant wait to try them Those recipes are based on n special spices Mrs Hudson has these spices in the kitchen lying in jars numbered with integers from 0 to n1 each spice lies in an individual jar Each jar also has the price of the corresponding spice inscribed  some integer aiWe know three values for the ith pancake recipe di si ci Here di and ci are integers and si is the pattern of some integer written in the numeral system with radix di The pattern contains digits Latin letters to denote digits larger than nine and question marks Number x in the dibase numeral system matches the pattern si if we can replace question marks in the pattern with digits and letters so that we obtain number x leading zeroes arent taken into consideration when performing the comparison More formally each question mark should be replaced by exactly one digit or exactly one letter If after we replace all question marks we get a number with leading zeroes we can delete these zeroes For example number 40A9875 in the 11base numeral system matches the pattern 4987 and number 4A9875 does notTo make the pancakes by the ith recipe Mrs Hudson should take all jars with numbers whose representation in the dibase numeral system matches the pattern si The control number of the recipe zi is defined as the sum of number ci and the product of prices of all taken jars More formally  where j is all such numbers whose representation in the dibase numeral system matches the pattern siMrs Hudson isnt as interested in the control numbers as she is in their minimum prime divisors Your task is for each recipe i find the minimum prime divisor of number zi If this divisor exceeds 100 then you do not have to find it print 1

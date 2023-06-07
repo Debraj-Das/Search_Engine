@@ -1,0 +1,9 @@
+Shortest Path with Obstacle                    
+
+https://codeforces.com/problemset/problem/1547/A
+
+implementation
+
+800
+
+There are three cells on an infinite 2-dimensional grid, labeled A, B, and F. Find the length of the shortest path from A to B if:   in one move you can go to any of the four adjacent cells sharing a side;  visiting the cell F is forbidden (it is an obstacle). 

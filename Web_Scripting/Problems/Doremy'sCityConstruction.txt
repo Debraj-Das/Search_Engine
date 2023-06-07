@@ -1,0 +1,9 @@
+Doremy's City Construction                    
+
+https://codeforces.com/problemset/problem/1764/C
+
+graphs
+
+1400
+
+Doremy's new city is under construction! The city can be regarded as a simple undirected graph with n vertices. The i-th vertex has altitude a_i. Now Doremy is deciding which pairs of vertices should be connected with edges.Due to economic reasons, there should be no self-loops or multiple edges in the graph.Due to safety reasons, there should not be pairwise distinct vertices u, v, and w such that a_u \leq a_v \leq a_w and the edges (u,v) and (v,w) exist.Under these constraints, Doremy would like to know the maximum possible number of edges in the graph. Can you help her?Note that the constructed graph is allowed to be disconnected.

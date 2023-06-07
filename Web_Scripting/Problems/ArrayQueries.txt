@@ -1,0 +1,9 @@
+Array Queries                    
+
+httpscodeforcescomproblemsetproblem797E
+
+brute force
+
+2000
+
+a is an array of n positive integers all of which are not greater than nYou have to process q queries to this array Each query is represented by two numbers p and k Several operations are performed in each query each operation changes p to papk There operations are applied until p becomes greater than n The answer to the query is the number of performed operations

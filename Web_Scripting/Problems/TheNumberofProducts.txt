@@ -1,0 +1,9 @@
+The Number of Products                    
+
+https://codeforces.com/problemset/problem/1215/B
+
+combinatorics
+
+1400
+
+You are given a sequence a_1, a_2, \dots, a_n consisting of n non-zero integers (i.e. a_i \ne 0). You have to calculate two following values:  the number of pairs of indices (l, r) (l \le r) such that a_l \cdot a_{l + 1} \dots a_{r - 1} \cdot a_r is negative;  the number of pairs of indices (l, r) (l \le r) such that a_l \cdot a_{l + 1} \dots a_{r - 1} \cdot a_r is positive; 

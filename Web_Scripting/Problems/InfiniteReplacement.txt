@@ -1,0 +1,9 @@
+Infinite Replacement                    
+
+https://codeforces.com/problemset/problem/1674/C
+
+combinatorics
+
+1000
+
+You are given a string s, consisting only of Latin letters 'a', and a string t, consisting of lowercase Latin letters.In one move, you can replace any letter 'a' in the string s with a string t. Note that after the replacement string s might contain letters other than 'a'.You can perform an arbitrary number of moves (including zero). How many different strings can you obtain? Print the number, or report that it is infinitely large.Two strings are considered different if they have different length, or they differ at some index.

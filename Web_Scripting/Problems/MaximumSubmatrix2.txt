@@ -1,0 +1,9 @@
+Maximum Submatrix 2                    
+
+httpscodeforcescomproblemsetproblem375B
+
+data structures
+
+1600
+
+You are given a matrix consisting of digits zero and one its size is nm You are allowed to rearrange its rows What is the maximum area of the submatrix that only consists of ones and can be obtained in the given problem by the described operationsLets assume that the rows of matrix a are numbered from 1 to n from top to bottom and the columns are numbered from 1 to m from left to right A matrix cell on the intersection of the ith row and the jth column can be represented as ij Formally a submatrix of matrix a is a group of four integers dulr 1dun1lrm We will assume that the submatrix contains cells ij diuljr The area of the submatrix is the number of cells it contains

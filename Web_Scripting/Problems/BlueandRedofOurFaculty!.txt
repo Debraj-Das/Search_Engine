@@ -1,0 +1,9 @@
+Blue and Red of Our Faculty!                    
+
+https://codeforces.com/problemset/problem/1425/B
+
+divide and conquer
+
+2600
+
+It's our faculty's 34th anniversary! To celebrate this great event, the Faculty of Computer Science, University of Indonesia (Fasilkom), held CPC - Coloring Pavements Competition. The gist of CPC is two players color the predetermined routes of Fasilkom in Blue and Red. There are N Checkpoints and M undirected predetermined routes. Routes i connects checkpoint U_i and V_i, for (1 \le i \le M). It is guaranteed that any pair of checkpoints are connected by using one or more routes.The rules of CPC is as follows:   Two players play in each round. One player plays as blue, the other plays as red. For simplicity, let's call these players Blue and Red.  Blue will color every route in he walks on blue, Red will color the route he walks on red. Both players start at checkpoint number 1. Initially, all routes are gray.  Each phase, from their current checkpoint, Blue and Red select a different gray route and moves to the checkpoint on the other end of the route simultaneously.  The game ends when Blue or Red can no longer move. That is, there is no two distinct gray routes they can choose to continue moving. Chaneka is interested in participating. However, she does not want to waste much energy. So, She is only interested in the number of final configurations of the routes after each round. Turns out, counting this is also exhausting, so Chaneka asks you to figure this out!Two final configurations are considered different if there is a route U in a different color in the two configurations.

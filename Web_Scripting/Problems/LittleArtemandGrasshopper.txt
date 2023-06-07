@@ -1,0 +1,9 @@
+Little Artem and Grasshopper                    
+
+httpscodeforcescomproblemsetproblem641A
+
+implementation
+
+1000
+
+Little Artem found a grasshopper He brought it to his house and constructed a jumping area for himThe area looks like a strip of cells 1n Each cell contains the direction for the next jump and the length of that jump Grasshopper starts in the first cell and follows the instructions written on the cells Grasshopper stops immediately if it jumps out of the strip Now Artem wants to find out if this will ever happen

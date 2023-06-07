@@ -1,0 +1,9 @@
+Dividing Kingdom II                    
+
+httpscodeforcescomproblemsetproblem687D
+
+brute force
+
+2500
+
+Long time ago there was a great kingdom and it was being ruled by The Great Arya and Pari The Great These two had some problems about the numbers they like so they decided to divide the great kingdom between themselvesThe great kingdom consisted of n cities numbered from 1 to n and m bidirectional roads between these cities numbered from 1 to m The ith road had length equal to wi The Great Arya and Pari The Great were discussing about destructing some prefix all road with numbers less than some x and suffix all roads with numbers greater than some x of the roads so there will remain only the roads with numbers ll1r1 and rAfter that they will divide the great kingdom into two pieces with each city belonging to exactly one piece such that the hardness of the division is minimized The hardness of a division is the maximum length of a road such that its both endpoints are in the same piece of the kingdom In case there is no such road the hardness of the division is considered to be equal to 1Historians found the map of the great kingdom and they have q guesses about the l and r chosen by those great rulers Given these data for each guess li and ri print the minimum possible hardness of the division of the kingdom

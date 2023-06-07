@@ -1,0 +1,9 @@
+GCD Counting                    
+
+https://codeforces.com/problemset/problem/990/G
+
+divide and conquer
+
+2400
+
+You are given a tree consisting of n vertices. A number is written on each vertex; the number on vertex i is equal to a_i.Let's denote the function g(x, y) as the greatest common divisor of the numbers written on the vertices belonging to the simple path from vertex x to vertex y (including these two vertices).For every integer from 1 to 2 \cdot 10^5 you have to count the number of pairs (x, y) (1 \le x \le y \le n) such that g(x, y) is equal to this number.

@@ -1,0 +1,9 @@
+Water The Garden                    
+
+httpscodeforcescomproblemsetproblem920A
+
+implementation
+
+1000
+
+It is winter now and Max decided its about time he watered the gardenThe garden can be represented as n consecutive garden beds numbered from 1 to n k beds contain water taps ith tap is located in the bed xi which if turned on start delivering water to neighbouring beds If the tap on the bed xi is turned on then after one second has passed the bed xi will be watered after two seconds have passed the beds from the segment xi1xi1 will be watered if they exist after j seconds have passed j is an integer number the beds from the segment xij1xij1 will be watered if they exist Nothing changes during the seconds so for example we cant say that the segment xi25xi25 will be watered after 25 seconds have passed only the segment xi2xi2 will be watered at that moment  The garden from test 1 White colour denotes a garden bed without a tap red colour  a garden bed with a tap   The garden from test 1 after 2 seconds have passed after turning on the tap White colour denotes an unwatered garden bed blue colour  a watered bed Max wants to turn on all the water taps at the same moment and now he wonders what is the minimum number of seconds that have to pass after he turns on some taps until the whole garden is watered Help him to find the answer

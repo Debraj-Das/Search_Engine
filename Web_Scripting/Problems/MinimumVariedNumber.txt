@@ -1,0 +1,9 @@
+Minimum  Varied Number                    
+
+https://codeforces.com/problemset/problem/1714/C
+
+greedy
+
+800
+
+Find the minimum number with the given sum of digits s such that all digits in it are distinct (i.e. all digits are unique).For example, if s=20, then the answer is 389. This is the minimum number in which all digits are different and the sum of the digits is 20 (3+8+9=20).For the given s print the required number.

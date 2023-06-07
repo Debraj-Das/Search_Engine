@@ -1,0 +1,9 @@
+Curriculum Vitae                    
+
+httpscodeforcescomproblemsetproblem846A
+
+brute force
+
+1500
+
+Hideo Kojima has just quit his job at Konami Now he is going to find a new place to work Despite being such a wellknown person he still needs a CV to apply for a jobDuring all his career Hideo has produced n games Some of them were successful some were not Hideo wants to remove several of them possibly zero from his CV to make a better impression on employers As a result there should be no unsuccessful game which comes right after successful one in his CVMore formally you are given an array s1s2sn of zeros and ones Zero corresponds to an unsuccessful game one  to a successful one Games are given in order they were produced and Hideo cant swap these values He should remove some elements from this array in such a way that no zero comes right after oneBesides that Hideo still wants to mention as much games in his CV as possible Help this genius of a man determine the maximum number of games he can leave in his CV

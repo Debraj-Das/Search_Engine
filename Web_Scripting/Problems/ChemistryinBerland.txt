@@ -1,0 +1,9 @@
+Chemistry in Berland                    
+
+httpscodeforcescomproblemsetproblem846E
+
+dfs and similar
+
+2300
+
+Igor is a postgraduate student of chemistry faculty in Berland State University BerSU He needs to conduct a complicated experiment to write his thesis but laboratory of BerSU doesnt contain all the materials required for this experimentFortunately chemical laws allow material transformations yes chemistry in Berland differs from ours But the rules of transformation are a bit strangeBerland chemists are aware of n materials numbered in the order they were discovered Each material can be transformed into some other material or vice versa Formally for each i 2in there exist two numbers xi and ki that denote a possible transformation ki kilograms of material xi can be transformed into 1 kilogram of material i and 1 kilogram of material i can be transformed into 1 kilogram of material xi Chemical processing equipment in BerSU allows only such transformation that the amount of resulting material is always an integer number of kilogramsFor each i 1in Igor knows that the experiment requires ai kilograms of material i and the laboratory contains bi kilograms of this material Is it possible to conduct an experiment after transforming some materials or none

@@ -1,0 +1,9 @@
+Space Isaac                    
+
+https://codeforces.com/problemset/problem/1045/B
+
+hashing
+
+2400
+
+Everybody seems to think that the Martians are green, but it turns out they are metallic pink and fat. Ajs has two bags of distinct nonnegative integers. The bags are disjoint, and the union of the sets of numbers in the bags is \{0,1,…,M-1\}, for some positive integer M. Ajs draws a number from the first bag and a number from the second bag, and then sums them modulo M.What are the residues modulo M that Ajs cannot obtain with this action?

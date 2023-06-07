@@ -1,0 +1,9 @@
+Maxim and Biology                    
+
+https://codeforces.com/problemset/problem/1151/A
+
+brute force
+
+1000
+
+Today in the scientific lyceum of the Kingdom of Kremland, there was a biology lesson. The topic of the lesson was the genomes. Let's call the genome the string "ACTG".Maxim was very boring to sit in class, so the teacher came up with a task for him: on a given string s consisting of uppercase letters and length of at least 4, you need to find the minimum number of operations that you need to apply, so that the genome appears in it as a substring. For one operation, you can replace any letter in the string s with the next or previous in the alphabet. For example, for the letter "D" the previous one will be "C", and the next — "E". In this problem, we assume that for the letter "A", the previous one will be the letter "Z", and the next one will be "B", and for the letter "Z", the previous one is the letter "Y", and the next one is the letter "A".Help Maxim solve the problem that the teacher gave him.A string a is a substring of a string b if a can be obtained from b by deletion of several (possibly, zero or all) characters from the beginning and several (possibly, zero or all) characters from the end.

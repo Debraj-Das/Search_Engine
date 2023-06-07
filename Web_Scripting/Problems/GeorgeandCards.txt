@@ -1,0 +1,9 @@
+George and Cards                    
+
+httpscodeforcescomproblemsetproblem387E
+
+binary search
+
+2200
+
+George is a cat so he loves playing very muchVitaly put n cards in a row in front of George Each card has one integer written on it All cards had distinct numbers written on them Lets number the cards from the left to the right with integers from 1 to n Then the ith card from the left contains number pi 1pin Vitaly wants the row to have exactly k cards left He also wants the ith card from left to have number bi written on it Vitaly gave a task to George to get the required sequence of cards using the remove operation nk timesIn one remove operation George can choose w 1w w is not greater than the current number of cards in the row contiguous cards contiguous subsegment of cards Lets denote the numbers written on these card as x1x2xw from the left to the right After that George can remove the card xi such that xixj for each j 1jw After the described operation George gets w pieces of sausageGeorge wondered what maximum number of pieces of sausage will he get in total if he reaches his goal and acts optimally well Help George find an answer to his question

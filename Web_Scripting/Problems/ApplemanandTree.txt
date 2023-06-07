@@ -1,0 +1,9 @@
+Appleman and Tree                    
+
+httpscodeforcescomproblemsetproblem461B
+
+dfs and similar
+
+2000
+
+Appleman has a tree with n vertices Some of the vertices at least one are colored black and other vertices are colored whiteConsider a set consisting of k 0kn edges of Applemans tree If Appleman deletes these edges from the tree then it will split into k1 parts Note that each part will be a tree with colored verticesNow Appleman wonders what is the number of sets splitting the tree in such a way that each resulting part will have exactly one black vertex Find this number modulo 1000000007 1097

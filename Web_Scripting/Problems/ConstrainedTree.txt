@@ -1,0 +1,9 @@
+Constrained Tree                    
+
+https://codeforces.com/problemset/problem/513/D2
+
+constructive algorithms
+
+2600
+
+You need to find a binary tree of size n that satisfies a given set of c constraints. Suppose that the nodes of the unknown binary tree are labeled using a pre-order traversal starting with 1. For the i-th constraint you are given two labels, ai and bi and a direction, left or right. In case of left direction, bi is an element of the subtree rooted at ai's left child. Similarly in the case of right direction bi is an element of the subtree rooted at ai's right child.

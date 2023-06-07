@@ -1,0 +1,9 @@
+Largest Beautiful Number                    
+
+https://codeforces.com/problemset/problem/946/E
+
+greedy
+
+2200
+
+Yes, that's another problem with definition of "beautiful" numbers.Let's call a positive integer x beautiful if its decimal representation without leading zeroes contains even number of digits, and there exists a permutation of this representation which is palindromic. For example, 4242 is a beautiful number, since it contains 4 digits, and there exists a palindromic permutation 2442.Given a positive integer s, find the largest beautiful number which is less than s.

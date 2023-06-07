@@ -1,0 +1,9 @@
+Eating Queries                    
+
+https://codeforces.com/problemset/problem/1676/E
+
+binary search
+
+1100
+
+Timur has n candies. The i-th candy has a quantity of sugar equal to a_i. So, by eating the i-th candy, Timur consumes a quantity of sugar equal to a_i.Timur will ask you q queries regarding his candies. For the j-th query you have to answer what is the minimum number of candies he needs to eat in order to reach a quantity of sugar greater than or equal to x_j or print -1 if it's not possible to obtain such a quantity. In other words, you should print the minimum possible k such that after eating k candies, Timur consumes a quantity of sugar of at least x_j or say that no possible k exists.Note that he can't eat the same candy twice and queries are independent of each other (Timur can use the same candy in different queries).

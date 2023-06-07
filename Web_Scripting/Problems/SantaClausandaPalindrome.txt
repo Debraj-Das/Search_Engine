@@ -1,0 +1,9 @@
+Santa Claus and a Palindrome                    
+
+https://codeforces.com/problemset/problem/748/D
+
+constructive algorithms
+
+2100
+
+Santa Claus likes palindromes very much. There was his birthday recently. k of his friends came to him to congratulate him, and each of them presented to him a string si having the same length n. We denote the beauty of the i-th string by ai. It can happen that ai is negative — that means that Santa doesn't find this string beautiful at all.Santa Claus is crazy about palindromes. He is thinking about the following question: what is the maximum possible total beauty of a palindrome which can be obtained by concatenating some (possibly all) of the strings he has? Each present can be used at most once. Note that all strings have the same length n.Recall that a palindrome is a string that doesn't change after one reverses it.Since the empty string is a palindrome too, the answer can't be negative. Even if all ai's are negative, Santa can obtain the empty string.

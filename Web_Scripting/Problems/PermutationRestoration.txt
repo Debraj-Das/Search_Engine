@@ -1,0 +1,9 @@
+Permutation Restoration                    
+
+https://codeforces.com/problemset/problem/1701/D
+
+binary search
+
+1900
+
+Monocarp had a permutation a of n integers 1, 2, ..., n (a permutation is an array where each element from 1 to n occurs exactly once).Then Monocarp calculated an array of integers b of size n, where b_i = \left\lfloor \frac{i}{a_i} \right\rfloor. For example, if the permutation a is [2, 1, 4, 3], then the array b is equal to \left[ \left\lfloor \frac{1}{2} \right\rfloor, \left\lfloor \frac{2}{1} \right\rfloor, \left\lfloor \frac{3}{4} \right\rfloor, \left\lfloor \frac{4}{3} \right\rfloor \right] = [0, 2, 0, 1].Unfortunately, the Monocarp has lost his permutation, so he wants to restore it. Your task is to find a permutation a that corresponds to the given array b. If there are multiple possible permutations, then print any of them. The tests are constructed in such a way that least one suitable permutation exists.

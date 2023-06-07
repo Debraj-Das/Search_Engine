@@ -1,0 +1,9 @@
+Haar Features                    
+
+httpscodeforcescomproblemsetproblem549D
+
+greedy
+
+1900
+
+The first algorithm for detecting a face on the image working in realtime was developed by Paul Viola and Michael Jones in 2001 A part of the algorithm is a procedure that computes Haar features As part of this task we consider a simplified model of this conceptLets consider a rectangular image that is represented with a table of size nm The table elements are integers that specify the brightness of each pixel in the imageA feature also is a rectangular table of size nm Each cell of a feature is painted black or whiteTo calculate the value of the given feature at the given image you must perform the following steps First the table of the feature is put over the table of the image without rotations or reflections thus each pixel is entirely covered with either black or white cell The value of a feature in the image is the value of WB where W is the total brightness of the pixels in the image covered with white feature cells and B is the total brightness of the pixels covered with black feature cellsSome examples of the most popular Haar features are given below   Your task is to determine the number of operations that are required to calculate the feature by using the socalled prefix rectanglesA prefix rectangle is any rectangle on the image the upper left corner of which coincides with the upper left corner of the imageYou have a variable value whose value is initially zero In one operation you can count the sum of pixel values at any prefix rectangle multiply it by any integer and add to variable valueYou are given a feature It is necessary to calculate the minimum number of operations required to calculate the values of this attribute at an arbitrary image For a better understanding of the statement read the explanation of the first sample

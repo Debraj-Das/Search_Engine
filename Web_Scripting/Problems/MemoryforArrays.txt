@@ -1,0 +1,9 @@
+Memory for Arrays                    
+
+https://codeforces.com/problemset/problem/309/C
+
+binary search
+
+1900
+
+You get to work and turn on the computer. You start coding and give little thought to the RAM role in the whole process. In this problem your task is to solve one of the problems you encounter in your computer routine.We'll consider the RAM as a sequence of cells that can contain data. Some cells already contain some data, some are empty. The empty cells form the so-called memory clusters. Thus, a memory cluster is a sequence of some consecutive empty memory cells. You have exactly n memory clusters, the i-th cluster consists of ai cells. You need to find memory for m arrays in your program. The j-th array takes 2bj consecutive memory cells. There possibly isn't enough memory for all m arrays, so your task is to determine what maximum number of arrays can be located in the available memory clusters. Of course, the arrays cannot be divided between the memory clusters. Also, no cell can belong to two arrays.

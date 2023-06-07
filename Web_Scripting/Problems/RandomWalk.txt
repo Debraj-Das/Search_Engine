@@ -1,0 +1,9 @@
+Random Walk                    
+
+https://codeforces.com/problemset/problem/1823/F
+
+dp
+
+2600
+
+You are given a tree consisting of n vertices and n - 1 edges, and each vertex v has a counter c(v) assigned to it.Initially, there is a chip placed at vertex s and all counters, except c(s), are set to 0; c(s) is set to 1.Your goal is to place the chip at vertex t. You can achieve it by a series of moves. Suppose right now the chip is placed at the vertex v. In one move, you do the following:  choose one of neighbors to of vertex v uniformly at random (to is neighbor of v if and only if there is an edge \{v, to\} in the tree);  move the chip to vertex to and increase c(to) by 1; You'll repeat the move above until you reach the vertex t.For each vertex v calculate the expected value of c(v) modulo 998\,244\,353.

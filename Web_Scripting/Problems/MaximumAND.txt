@@ -1,0 +1,9 @@
+Maximum AND                    
+
+https://codeforces.com/problemset/problem/1721/D
+
+bitmasks
+
+1800
+
+You are given two arrays a and b, consisting of n integers each.Let's define a function f(a, b) as follows:   let's define an array c of size n, where c_i = a_i \oplus b_i (\oplus denotes bitwise XOR);  the value of the function is c_1 \mathbin{\&} c_2 \mathbin{\&} \cdots \mathbin{\&} c_n (i.e. bitwise AND of the entire array c). Find the maximum value of the function f(a, b) if you can reorder the array b in an arbitrary way (leaving the initial order is also an option).

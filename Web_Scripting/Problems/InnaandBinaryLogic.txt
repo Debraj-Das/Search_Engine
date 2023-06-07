@@ -1,0 +1,9 @@
+Inna and Binary Logic                    
+
+httpscodeforcescomproblemsetproblem400E
+
+binary search
+
+2100
+
+Inna is fed up with jokes about female logic So she started using binary logic insteadInna has an array of n elements a11a12a1n Girl likes to train in her binary logic so she does an exercise consisting of n stages on the first stage Inna writes out all numbers from array a1 on the ith i2 stage girl writes all elements of array ai which consists of ni1 integers the kth integer of array ai is defined as follows aikai1kANDai1k1 Here AND is bitwise binary logical operationDima decided to check Innas skill He asks Inna to change array perform the exercise and say the sum of all  elements she wrote out during the current exerciseHelp Inna to answer the questions

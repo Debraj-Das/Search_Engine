@@ -1,0 +1,9 @@
+My Beautiful Madness                    
+
+https://codeforces.com/problemset/problem/1464/F
+
+data structures
+
+3500
+
+You are given a tree. We will consider simple paths on it. Let's denote path between vertices a and b as (a, b). Let d-neighborhood of a path be a set of vertices of the tree located at a distance \leq d from at least one vertex of the path (for example, 0-neighborhood of a path is a path itself). Let P be a multiset of the tree paths. Initially, it is empty. You are asked to maintain the following queries:  1 u v — add path (u, v) into P (1 \leq u, v \leq n).  2 u v — delete path (u, v) from P (1 \leq u, v \leq n). Notice that (u, v) equals to (v, u). For example, if P = \{(1, 2), (1, 2)\}, than after query 2 2 1, P = \{(1, 2)\}.  3 d — if intersection of all d-neighborhoods of paths from P is not empty output "Yes", otherwise output "No" (0 \leq d \leq n - 1). 

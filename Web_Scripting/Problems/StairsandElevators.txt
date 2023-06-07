@@ -1,0 +1,9 @@
+Stairs and Elevators                    
+
+https://codeforces.com/problemset/problem/925/A
+
+binary search
+
+1600
+
+In the year of 30XX participants of some world programming championship live in a single large hotel. The hotel has n floors. Each floor has m sections with a single corridor connecting all of them. The sections are enumerated from 1 to m along the corridor, and all sections with equal numbers on different floors are located exactly one above the other. Thus, the hotel can be represented as a rectangle of height n and width m. We can denote sections with pairs of integers (i, j), where i is the floor, and j is the section number on the floor.The guests can walk along the corridor on each floor, use stairs and elevators. Each stairs or elevator occupies all sections (1, x), (2, x), \ldots, (n, x) for some x between 1 and m. All sections not occupied with stairs or elevators contain guest rooms. It takes one time unit to move between neighboring sections on the same floor or to move one floor up or down using stairs. It takes one time unit to move up to v floors in any direction using an elevator. You can assume you don't have to wait for an elevator, and the time needed to enter or exit an elevator is negligible.You are to process q queries. Each query is a question "what is the minimum time needed to go from a room in section (x_1, y_1) to a room in section (x_2, y_2)?"

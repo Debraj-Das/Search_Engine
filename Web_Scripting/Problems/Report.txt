@@ -1,0 +1,9 @@
+Report                    
+
+httpscodeforcescomproblemsetproblem631C
+
+data structures
+
+1700
+
+Each month Blake gets the report containing main economic indicators of the company Blake Technologies There are n commodities produced by the company For each of them there is exactly one integer in the final report that denotes corresponding revenue Before the report gets to Blake it passes through the hands of m managers Each of them may reorder the elements in some order Namely the ith manager either sorts first ri numbers in nondescending or nonascending order and then passes the report to the manager i1 or directly to Blake if this manager has number imEmployees of the Blake Technologies are preparing the report right now You know the initial sequence ai of length n and the description of each manager that is value ri and his favourite order You are asked to speed up the process and determine how the final report will look like

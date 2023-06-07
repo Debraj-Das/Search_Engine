@@ -1,0 +1,9 @@
+Green and Black Tea                    
+
+https://codeforces.com/problemset/problem/746/D
+
+constructive algorithms
+
+1500
+
+Innokentiy likes tea very much and today he wants to drink exactly n cups of tea. He would be happy to drink more but he had exactly n tea bags, a of them are green and b are black.Innokentiy doesn't like to drink the same tea (green or black) more than k times in a row. Your task is to determine the order of brewing tea bags so that Innokentiy will be able to drink n cups of tea, without drinking the same tea more than k times in a row, or to inform that it is impossible. Each tea bag has to be used exactly once.

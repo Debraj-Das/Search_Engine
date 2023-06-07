@@ -1,0 +1,9 @@
+Rising Sand                    
+
+https://codeforces.com/problemset/problem/1698/B
+
+constructive algorithms
+
+800
+
+There are n piles of sand where the i-th pile has a_i blocks of sand. The i-th pile is called too tall if 1 < i < n and a_i > a_{i-1} + a_{i+1}. That is, a pile is too tall if it has more sand than its two neighbours combined. (Note that piles on the ends of the array cannot be too tall.)You are given an integer k. An operation consists of picking k consecutive piles of sand and adding one unit of sand to them all. Formally, pick 1 \leq l,r \leq n such that r-l+1=k. Then for all l \leq i \leq r, update a_i \gets a_i+1.What is the maximum number of piles that can simultaneously be too tall after some (possibly zero) operations?

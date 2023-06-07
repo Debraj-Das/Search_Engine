@@ -1,0 +1,9 @@
+Collective Mindsets medium                    
+
+httpscodeforcescomproblemsetproblem690A2
+
+
+
+2300
+
+Way to go Heidi now knows how many brains there must be for her to get one But throwing herself in the midst of a clutch of hungry zombies is quite a risky endeavor Hence Heidi wonders what is the smallest number of brains that must be in the chest for her to get out at all possibly emptyhanded but aliveThe brain dinner night will evolve just as in the previous subtask the same crowd is present the N1 zombies have the exact same mindset as before and Heidi is to make the first proposal which must be accepted by at least half of the attendees for her to survive

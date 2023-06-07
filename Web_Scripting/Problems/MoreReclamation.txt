@@ -1,0 +1,9 @@
+More Reclamation                    
+
+httpscodeforcescomproblemsetproblem335C
+
+games
+
+2100
+
+In a far away land there are two cities near a river One day the cities decide that they have too little space and would like to reclaim some of the river area into landThe river area can be represented by a grid with r rows and exactly two columns  each cell represents a rectangular area The rows are numbered 1 through r from top to bottom while the columns are numbered 1 and 2Initially all of the cells are occupied by the river The plan is to turn some of those cells into land one by one with the cities alternately choosing a cell to reclaim and continuing until no more cells can be reclaimedHowever the river is also used as a major trade route The cities need to make sure that ships will still be able to sail from one end of the river to the other More formally if a cell rc has been reclaimed it is not allowed to reclaim any of the cells r13c r3c or r13cThe cities are not on friendly terms and each city wants to be the last city to reclaim a cell they dont care about how many cells they reclaim just who reclaims a cell last The cities have already reclaimed n cells Your job is to determine which city will be the last to reclaim a cell assuming both choose cells optimally from current moment

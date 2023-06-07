@@ -1,0 +1,9 @@
+Unstable String Sort                    
+
+https://codeforces.com/problemset/problem/1213/F
+
+data structures
+
+2100
+
+Authors have come up with the string s consisting of n lowercase Latin letters.You are given two permutations of its indices (not necessary equal) p and q (both of length n). Recall that the permutation is the array of length n which contains each integer from 1 to n exactly once.For all i from 1 to n-1 the following properties hold: s[p_i] \le s[p_{i + 1}] and s[q_i] \le s[q_{i + 1}]. It means that if you will write down all characters of s in order of permutation indices, the resulting string will be sorted in the non-decreasing order.Your task is to restore any such string s of length n consisting of at least k distinct lowercase Latin letters which suits the given permutations.If there are multiple answers, you can print any of them.

@@ -1,0 +1,9 @@
+Oh Sweet Beaverette                    
+
+https://codeforces.com/problemset/problem/331/A2
+
+data structures
+
+1500
+
+ — Oh my sweet Beaverette, would you fancy a walk along a wonderful woodland belt with me?   — Of course, my Smart Beaver! Let us enjoy the splendid view together. How about Friday night? At this point the Smart Beaver got rushing. Everything should be perfect by Friday, so he needed to prepare the belt to the upcoming walk. He needed to cut down several trees.Let's consider the woodland belt as a sequence of trees. Each tree i is described by the esthetic appeal ai — some trees are very esthetically pleasing, others are 'so-so', and some trees are positively ugly!The Smart Beaver calculated that he needed the following effects to win the Beaverette's heart:   The first objective is to please the Beaverette: the sum of esthetic appeal of the remaining trees must be maximum possible;  the second objective is to surprise the Beaverette: the esthetic appeal of the first and the last trees in the resulting belt must be the same;  and of course, the walk should be successful: there must be at least two trees in the woodland belt left. Now help the Smart Beaver! Which trees does he need to cut down to win the Beaverette's heart?

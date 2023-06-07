@@ -1,0 +1,9 @@
+Forbidden Value                    
+
+https://codeforces.com/problemset/problem/1455/G
+
+data structures
+
+2900
+
+Polycarp is editing a complicated computer program. First, variable x is declared and assigned to 0. Then there are instructions of two types:   set y v — assign x a value y or spend v burles to remove that instruction (thus, not reassign x);  if y \dots end block — execute instructions inside the if block if the value of x is y and ignore the block otherwise. if blocks can contain set instructions and other if blocks inside them.However, when the value of x gets assigned to s, the computer breaks and immediately catches fire. Polycarp wants to prevent that from happening and spend as few burles as possible.What is the minimum amount of burles he can spend on removing set instructions to never assign x to s?

@@ -1,0 +1,9 @@
+Guess Your Way Out II                    
+
+httpscodeforcescomproblemsetproblem558D
+
+data structures
+
+2300
+
+Amr bought a new video game Guess Your Way Out II The goal of the game is to find an exit from the maze that looks like a perfect binary tree of height h The player is initially standing at the root of the tree and the exit from the tree is located at some leaf nodeLets index all the nodes of the tree such that   The root is number 1  Each internal node i i2h11 will have a left child with index  2i and a right child with index  2i1 The level of a node is defined as 1 for a root or 1  level of parent of the node otherwise The vertices of the level h are called leaves The exit to the maze is located at some leaf node n the player doesnt know where the exit is so he has to guess his way out In the new version of the game the player is allowed to ask questions on the format Does the ancestorexiti node number belong to the range LR Here ancestorvi is the ancestor of a node v that located in the level i The game will answer with Yes or No only The game is designed such that it doesnt always answer correctly and sometimes it cheats to confuse the playerAmr asked a lot of questions and got confused by all these answers so he asked you to help him Given the questions and its answers can you identify whether the game is telling contradictory information or not If the information is not contradictory and the exit node can be determined uniquely output its number If the information is not contradictory but the exit node isnt defined uniquely output that the number of questions is not sufficient Otherwise output that the information is contradictory

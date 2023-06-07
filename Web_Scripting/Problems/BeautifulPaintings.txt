@@ -1,0 +1,9 @@
+Beautiful Paintings                    
+
+httpscodeforcescomproblemsetproblem651B
+
+greedy
+
+1200
+
+There are n pictures delivered for the new exhibition The ith painting has beauty ai We know that a visitor becomes happy every time he passes from a painting to a more beautiful oneWe are allowed to arranged pictures in any order What is the maximum possible number of times the visitor may become happy while passing all pictures from first to last In other words we are allowed to rearrange elements of a in any order What is the maximum possible number of indices i 1in1 such that ai1ai

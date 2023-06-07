@@ -1,0 +1,9 @@
+Partial Teacher                    
+
+https://codeforces.com/problemset/problem/67/A
+
+dp
+
+1800
+
+A teacher decides to give toffees to his students. He asks n students to stand in a queue. Since the teacher is very partial, he follows the following rule to distribute toffees.He looks at the first two students and gives more toffees to the student having higher marks than the other one. If they have the same marks they get the same number of toffees. The same procedure is followed for each pair of adjacent students starting from the first one to the last one.It is given that each student receives at least one toffee. You have to find the number of toffees given to each student by the teacher such that the total number of toffees is minimum.

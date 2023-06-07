@@ -1,0 +1,9 @@
+Minimum Euler Cycle                    
+
+https://codeforces.com/problemset/problem/1334/D
+
+constructive algorithms
+
+1800
+
+You are given a complete directed graph K_n with n vertices: each pair of vertices u \neq v in K_n have both directed edges (u, v) and (v, u); there are no self-loops.You should find such a cycle in K_n that visits every directed edge exactly once (allowing for revisiting vertices).We can write such cycle as a list of n(n - 1) + 1 vertices v_1, v_2, v_3, \dots, v_{n(n - 1) - 1}, v_{n(n - 1)}, v_{n(n - 1) + 1} = v_1 — a visiting order, where each (v_i, v_{i + 1}) occurs exactly once.Find the lexicographically smallest such cycle. It's not hard to prove that the cycle always exists.Since the answer can be too large print its [l, r] segment, in other words, v_l, v_{l + 1}, \dots, v_r.

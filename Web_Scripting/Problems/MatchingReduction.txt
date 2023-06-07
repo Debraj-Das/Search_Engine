@@ -1,0 +1,9 @@
+Matching Reduction                    
+
+https://codeforces.com/problemset/problem/1721/F
+
+brute force
+
+2800
+
+You are given a bipartite graph with n_1 vertices in the first part, n_2 vertices in the second part, and m edges. The maximum matching in this graph is the maximum possible (by size) subset of edges of this graph such that no vertex is incident to more than one chosen edge.You have to process two types of queries to this graph:  1 — remove the minimum possible number of vertices from this graph so that the size of the maximum matching gets reduced exactly by 1, and print the vertices that you have removed. Then, find any maximum matching in this graph and print the sum of indices of edges belonging to this matching;  2 — query of this type will be asked only after a query of type 1. As the answer to this query, you have to print the edges forming the maximum matching you have chosen in the previous query. Note that you should solve the problem in online mode. It means that you can't read the whole input at once. You can read each query only after writing the answer for the last query. Use functions fflush in C++ and BufferedWriter.flush in Java languages after each writing in your program.

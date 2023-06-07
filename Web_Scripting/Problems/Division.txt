@@ -1,0 +1,9 @@
+Division                    
+
+https://codeforces.com/problemset/problem/1444/A
+
+brute force
+
+1500
+
+Oleg's favorite subjects are History and Math, and his favorite branch of mathematics is division.To improve his division skills, Oleg came up with t pairs of integers p_i and q_i and for each pair decided to find the greatest integer x_i, such that:   p_i is divisible by x_i;  x_i is not divisible by q_i.  Oleg is really good at division and managed to find all the answers quickly, how about you?

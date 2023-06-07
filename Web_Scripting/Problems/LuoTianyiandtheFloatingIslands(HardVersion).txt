@@ -1,0 +1,9 @@
+LuoTianyi and the Floating Islands (Hard Version)                    
+
+https://codeforces.com/problemset/problem/1824/B2
+
+combinatorics
+
+2300
+
+This is the hard version of the problem. The only difference is that in this version k\le n. You can make hacks only if both versions of the problem are solved.   Chtholly and the floating islands. LuoTianyi now lives in a world with n floating islands. The floating islands are connected by n-1 undirected air routes, and any two of them can reach each other by passing the routes. That means, the n floating islands form a tree.One day, LuoTianyi wants to meet her friends: Chtholly, Nephren, William, .... Totally, she wants to meet k people. She doesn't know the exact positions of them, but she knows that they are in pairwise distinct islands. She define an island is good if and only if the sum of the distances^{\dagger} from it to the islands with k people is the minimal among all the n islands.Now, LuoTianyi wants to know that, if the k people are randomly set in k distinct of the n islands, then what is the expect number of the good islands? You just need to tell her the expect number modulo 10^9+7.^{\dagger}The distance between two islands is the minimum number of air routes you need to take to get from one island to the other.

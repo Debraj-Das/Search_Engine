@@ -1,0 +1,9 @@
+New Year and Curling                    
+
+httpscodeforcescomproblemsetproblem908C
+
+brute force
+
+1500
+
+Carol is currently curlingShe has n disks each with radius r on the 2D plane Initially she has all these disks above the line y10100She then will slide the disks towards the line y0 one by one in order from 1 to n When she slides the ith disk she will place its center at the point xi10100 She will then push it so the disks y coordinate continuously decreases and x coordinate stays constant The disk stops once it touches the line y0 or it touches any previous disk Note that once a disk stops moving it will not move again even if hit by another disk Compute the ycoordinates of centers of all the disks after all disks have been pushed

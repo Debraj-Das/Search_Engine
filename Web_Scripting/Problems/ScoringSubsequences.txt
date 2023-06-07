@@ -1,0 +1,9 @@
+Scoring Subsequences                    
+
+https://codeforces.com/problemset/problem/1794/C
+
+binary search
+
+1300
+
+The score of a sequence [s_1, s_2, \ldots, s_d] is defined as \displaystyle \frac{s_1\cdot s_2\cdot \ldots \cdot s_d}{d!}, where d!=1\cdot 2\cdot \ldots \cdot d. In particular, the score of an empty sequence is 1.For a sequence [s_1, s_2, \ldots, s_d], let m be the maximum score among all its subsequences. Its cost is defined as the maximum length of a subsequence with a score of m.You are given a non-decreasing sequence [a_1, a_2, \ldots, a_n] of integers of length n. In other words, the condition a_1 \leq a_2 \leq \ldots \leq a_n is satisfied. For each k=1, 2, \ldots , n, find the cost of the sequence [a_1, a_2, \ldots , a_k]. A sequence x is a subsequence of a sequence y if x can be obtained from y by deletion of several (possibly, zero or all) elements.

@@ -1,0 +1,9 @@
+Balls and Boxes                    
+
+httpscodeforcescomproblemsetproblem260C
+
+constructive algorithms
+
+1700
+
+Little Vasya had n boxes with balls in the room The boxes stood in a row and were numbered with numbers from 1 to n from left to rightOnce Vasya chose one of the boxes lets assume that its number is i took all balls out from it it is guaranteed that this box originally had at least one ball and began putting balls one at a time to the boxes with numbers i1 i2 i3 and so on If Vasya puts a ball into the box number n then the next ball goes to box 1 the next one goes to box 2 and so on He did it until he had no balls left in his hands It is possible that Vasya puts multiple balls to the same box and it is also possible that one or more balls will go to the box number i If in Vasya puts the first ball into the box number 1 then the next ball goes to box 2 and so on For example lets suppose that initially Vasya had four boxes and the first box had 3 balls the second one had 2 the third one had 5 and the fourth one had 4 balls Then if i3 then Vasya will take all five balls out of the third box and put them in the boxes with numbers 41234 After all Vasyas actions the balls will lie in the boxes as follows in the first box there are 4 balls 3 in the second one 1 in the third one and 6 in the fourth oneAt this point Vasya has completely forgotten the original arrangement of the balls in the boxes but he knows how they are arranged now and the number x  the number of the box where he put the last of the taken out ballsHe asks you to help to find the initial arrangement of the balls in the boxes

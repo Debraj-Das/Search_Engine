@@ -1,0 +1,9 @@
+Maximum Sum on Even Positions                    
+
+httpscodeforcescomproblemsetproblem1373D
+
+divide and conquer
+
+1600
+
+You are given an array a consisting of n integers Indices of the array start from zero ie the first element is a0 the second one is a1 and so onYou can reverse at most one subarray continuous subsegment of this array Recall that the subarray of a with borders l and r is al r  al al  1 dots arYour task is to reverse such a subarray that the sum of elements on even positions of the resulting array is maximized ie the sum of elements a0 a2 dots a2k for integer k  lfloorfracn12rfloor should be maximum possibleYou have to answer t independent test cases

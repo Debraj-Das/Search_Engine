@@ -1,0 +1,9 @@
+Roads in the Kingdom                    
+
+https://codeforces.com/problemset/problem/835/F
+
+dfs and similar
+
+2500
+
+In the Kingdom K., there are n towns numbered with integers from 1 to n. The towns are connected by n bi-directional roads numbered with integers from 1 to n. The i-th road connects the towns ui and vi and its length is li. There is no more than one road between two towns. Also, there are no roads that connect the towns with itself.Let's call the inconvenience of the roads the maximum of the shortest distances between all pairs of towns.Because of lack of money, it was decided to close down one of the roads so that after its removal it is still possible to reach any town from any other. You have to find the minimum possible inconvenience of the roads after closing down one of the roads.

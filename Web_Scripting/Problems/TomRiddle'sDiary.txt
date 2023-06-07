@@ -1,0 +1,9 @@
+Tom Riddles Diary                    
+
+httpscodeforcescomproblemsetproblem855A
+
+brute force
+
+800
+
+Harry Potter is on a mission to destroy YouKnowWhos Horcruxes The first Horcrux that he encountered in the Chamber of Secrets is Tom Riddles diary The diary was with Ginny and it forced her to open the Chamber of Secrets Harry wants to know the different people who had ever possessed the diary to make sure they are not under its influenceHe has names of n people who possessed the diary in order You need to tell for each person if heshe possessed the diary at some point before or notFormally for a name si in the ith line output YES without quotes if there exists an index j such that sisj and ji otherwise output NO without quotes

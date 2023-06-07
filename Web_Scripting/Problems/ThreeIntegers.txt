@@ -1,0 +1,9 @@
+Three Integers                    
+
+https://codeforces.com/problemset/problem/1311/D
+
+brute force
+
+2000
+
+You are given three integers a \le b \le c.In one move, you can add +1 or -1 to any of these integers (i.e. increase or decrease any number by one). You can perform such operation any (possibly, zero) number of times, you can even perform this operation several times with one number. Note that you cannot make non-positive numbers using such operations.You have to perform the minimum number of such operations in order to obtain three integers A \le B \le C such that B is divisible by A and C is divisible by B.You have to answer t independent test cases. 

@@ -1,0 +1,9 @@
+Two Arrays                    
+
+https://codeforces.com/problemset/problem/1599/E
+
+data structures
+
+3200
+
+You are given two integer arrays of length N, A1 and A2. You are also given Q queries of 4 types: 1 k l r x: set Ak_i:=min(Ak_i, x) for each l \leq i \leq r.2 k l r x: set Ak_i:=max(Ak_i, x) for each l \leq i \leq r.3 k l r x: set Ak_i:=Ak_i+x for each l \leq i \leq r.4 l r: find the (\sum_{i=l}^r F(A1_i+A2_i)) \% (10^9+7) where F(k) is the k-th Fibonacci number (F(0)=0, F(1)=1, F(k)=F(k-1)+F(k-2)), and x \% y denotes the remainder of the division of x by y.You should process these queries and answer each query of the fourth type.

@@ -1,0 +1,9 @@
+Similar Polynomials                    
+
+https://codeforces.com/problemset/problem/1817/C
+
+combinatorics
+
+2400
+
+A polynomial A(x) of degree d is an expression of the form A(x) = a_0 + a_1 x + a_2 x^2 + \dots + a_d x^d, where a_i are integers, and a_d \neq 0. Two polynomials A(x) and B(x) are called similar if there is an integer s such that for any integer x it holds that B(x) \equiv A(x+s) \pmod{10^9+7}. For two similar polynomials A(x) and B(x) of degree d, you're given their values in the points x=0,1,\dots, d modulo 10^9+7.Find a value s such that B(x) \equiv A(x+s) \pmod{10^9+7} for all integers x.

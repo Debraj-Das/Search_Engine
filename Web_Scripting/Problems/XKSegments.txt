@@ -1,0 +1,9 @@
+XK Segments                    
+
+httpscodeforcescomproblemsetproblem895B
+
+binary search
+
+1700
+
+While Vasya finished eating his piece of pizza the lesson has already started For being late for the lesson the teacher suggested Vasya to solve one interesting problem Vasya has an array a and integer x He should find the number of different ordered pairs of indexes ij such that aiaj and there are exactly k integers y such that aiyaj and y is divisible by xIn this problem it is meant that pair ij is equal to ji only if i is equal to j For example pair 12 is not the same as 21

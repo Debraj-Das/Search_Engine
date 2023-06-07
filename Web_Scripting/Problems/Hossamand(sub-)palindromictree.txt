@@ -1,0 +1,9 @@
+Hossam and (sub-)palindromic tree                    
+
+https://codeforces.com/problemset/problem/1771/D
+
+brute force
+
+2100
+
+Hossam has an unweighted tree G with letters in vertices.Hossam defines s(v, \, u) as a string that is obtained by writing down all the letters on the unique simple path from the vertex v to the vertex u in the tree G.A string a is a subsequence of a string s if a can be obtained from s by deletion of several (possibly, zero) letters. For example, "dores", "cf", and "for" are subsequences of "codeforces", while "decor" and "fork" are not.A palindrome is a string that reads the same from left to right and from right to left. For example, "abacaba" is a palindrome, but "abac" is not.Hossam defines a sub-palindrome of a string s as a subsequence of s, that is a palindrome. For example, "k", "abba" and "abhba" are sub-palindromes of the string "abhbka", but "abka" and "cat" are not.Hossam defines a maximal sub-palindrome of a string s as a sub-palindrome of s, which has the maximal length among all sub-palindromes of s. For example, "abhbka" has only one maximal sub-palindrome — "abhba". But it may also be that the string has several maximum sub-palindromes: the string "abcd" has 4 maximum sub-palindromes.Help Hossam find the length of the longest maximal sub-palindrome among all s(v, \, u) in the tree G.Note that the sub-palindrome is a subsequence, not a substring.

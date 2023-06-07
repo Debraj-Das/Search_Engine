@@ -1,0 +1,9 @@
+Mobile Phone Network                    
+
+https://codeforces.com/problemset/problem/1023/F
+
+dfs and similar
+
+2600
+
+You are managing a mobile phone network, and want to offer competitive prices to connect a network.The network has n nodes.Your competitor has already offered some connections between some nodes, with some fixed prices. These connections are bidirectional. There are initially m connections the competitor is offering. The i-th connection your competitor is offering will connect nodes fa_i and fb_i and costs fw_i. You have a list of k connections that you want to offer. It is guaranteed that this set of connection does not form any cycle. The j-th of these connections will connect nodes ga_j and gb_j. These connections are also bidirectional. The cost of these connections have not been decided yet.You can set the prices of these connections to any arbitrary integer value. These prices are set independently for each connection. After setting the prices, the customer will choose such n - 1 connections that all nodes are connected in a single network and the total cost of chosen connections is minimum possible. If there are multiple ways to choose such networks, the customer will choose an arbitrary one that also maximizes the number of your connections in it.You want to set prices in such a way such that all your k connections are chosen by the customer, and the sum of prices of your connections is maximized.Print the maximum profit you can achieve, or -1 if it is unbounded.

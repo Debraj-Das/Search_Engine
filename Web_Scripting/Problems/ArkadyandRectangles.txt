@@ -1,0 +1,9 @@
+Arkady and Rectangles                    
+
+https://codeforces.com/problemset/problem/983/D
+
+data structures
+
+3300
+
+Arkady has got an infinite plane painted in color 0. Then he draws n rectangles filled with paint with sides parallel to the Cartesian coordinate axes, one after another. The color of the i-th rectangle is i (rectangles are enumerated from 1 to n in the order he draws them). It is possible that new rectangles cover some of the previous ones completely or partially.Count the number of different colors on the plane after Arkady draws all the rectangles.

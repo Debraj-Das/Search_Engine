@@ -1,0 +1,9 @@
+Boxes And Balls                    
+
+httpscodeforcescomproblemsetproblem884D
+
+data structures
+
+2300
+
+Ivan has n different boxes The first of them contains some balls of n different colorsIvan wants to play a strange game He wants to distribute the balls into boxes in such a way that for every i 1in ith box will contain all balls with color iIn order to do this Ivan will make some turns Each turn he does the following  Ivan chooses any nonempty box and takes all balls from this box  Then Ivan chooses any k empty boxes the box from the first step becomes empty and Ivan is allowed to choose it separates the balls he took on the previous step into k nonempty groups and puts each group into one of the boxes He should put each group into a separate box He can choose either k2 or k3 The penalty of the turn is the number of balls Ivan takes from the box during the first step of the turn And penalty of the game is the total penalty of turns made by Ivan until he distributes all balls to corresponding boxesHelp Ivan to determine the minimum possible penalty of the game

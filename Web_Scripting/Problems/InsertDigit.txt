@@ -1,0 +1,9 @@
+Insert Digit                    
+
+https://codeforces.com/problemset/problem/1811/A
+
+greedy
+
+800
+
+You have a positive number of length n and one additional digit.You can insert this digit anywhere in the number, including at the beginning or at the end.Your task is to make the result as large as possible.For example, you have the number 76543, and the additional digit is 4. Then the maximum number you can get is 765443, and it can be obtained in two ways — by inserting a digit after the 3th or after the 4th digit of the number.

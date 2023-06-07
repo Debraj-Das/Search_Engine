@@ -1,0 +1,9 @@
+Recover an RBS                    
+
+https://codeforces.com/problemset/problem/1709/C
+
+constructive algorithms
+
+1800
+
+A bracket sequence is a string containing only characters "(" and ")". A regular bracket sequence (or, shortly, an RBS) is a bracket sequence that can be transformed into a correct arithmetic expression by inserting characters "1" and "+" between the original characters of the sequence. For example:  bracket sequences "()()" and "(())" are regular (the resulting expressions are: "(1)+(1)" and "((1+1)+1)");  bracket sequences ")(", "(" and ")" are not. There was an RBS. Some brackets have been replaced with question marks. Is it true that there is a unique way to replace question marks with brackets, so that the resulting sequence is an RBS?

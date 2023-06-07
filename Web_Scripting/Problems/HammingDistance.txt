@@ -1,0 +1,9 @@
+Hamming Distance                    
+
+httpscodeforcescomproblemsetproblem193C
+
+constructive algorithms
+
+2400
+
+Hamming distance between strings a and b of equal length denoted by hab is equal to the number of distinct integers i 1ia such that aibi where ai is the ith symbol of string a bi is the ith symbol of string b For example the Hamming distance between strings aba and bba equals 1 they have different first symbols For strings bbba and aaab the Hamming distance equals 4John Doe had a paper on which four strings of equal length s1 s2 s3 and s4 were written Each string si consisted only of lowercase letters a and b John found the Hamming distances between all pairs of strings he had Then he lost the paper with the strings but he didnt lose the Hamming distances between all pairsHelp John restore the strings find some four strings s1 s2 s3s4 of equal length that consist only of lowercase letters a and b such that the pairwise Hamming distances between them are the same as between Johns strings More formally set si must satisfy the condition  To make the strings easier to put down on a piece of paper you should choose among all suitable sets of strings the one that has strings of minimum length 

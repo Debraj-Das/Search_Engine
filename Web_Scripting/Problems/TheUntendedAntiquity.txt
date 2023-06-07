@@ -1,0 +1,9 @@
+The Untended Antiquity                    
+
+httpscodeforcescomproblemsetproblem869E
+
+data structures
+
+2400
+
+Adieu lamiKoyomi is helping Oshino an acquaintance of his to take care of an open space around the abandoned Eikou Cram School building Oshinos makeshift residenceThe space is represented by a rectangular grid of nm cells arranged into n rows and m columns The cth cell in the rth row is denoted by rcOshino places and removes barriers around rectangular areas of cells Specifically an action denoted by 1 r1 c1 r2 c2 means Oshinos placing barriers around a rectangle with two corners being r1c1 and r2c2 and sides parallel to squares sides Similarly 2 r1 c1 r2 c2 means Oshinos removing barriers around the rectangle Oshino ensures that no barriers staying on the ground share any common points nor do they intersect with boundaries of the nm areaSometimes Koyomi tries to walk from one cell to another carefully without striding over barriers in order to avoid damaging various items on the ground 3 r1 c1 r2 c2 means that Koyomi tries to walk from r1c1 to r2c2 without crossing barriersAnd youre here to tell Koyomi the feasibility of each of his attempts

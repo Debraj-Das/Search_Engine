@@ -1,0 +1,9 @@
+Robbery                    
+
+httpscodeforcescomproblemsetproblem89A
+
+greedy
+
+1800
+
+It is nighttime and Joe the Elusive got into the countrys main banks safe The safe has n cells positioned in a row each of them contains some amount of diamonds Lets make the problem more comfortable to work with and mark the cells with positive numbers from 1 to n from the left to the rightUnfortunately Joe didnt switch the last security system off On the plus side he knows the way it worksEvery minute the security system calculates the total amount of diamonds for each two adjacent cells for the cells between whose numbers difference equals 1 As a result of this check we get an n1 sums If at least one of the sums differs from the corresponding sum received during the previous check then the security system is triggeredJoe can move the diamonds from one cell to another between the security systems checks He manages to move them no more than m times between two checks One of the three following operations is regarded as moving a diamond moving a diamond from any cell to any other one moving a diamond from any cell to Joes pocket moving a diamond from Joes pocket to any cell Initially Joes pocket is empty and it can carry an unlimited amount of diamonds It is considered that before all Joes actions the system performs at least one checkIn the morning the bank employees will come which is why Joe has to leave the bank before that moment Joe has only k minutes left before morning and on each of these k minutes he can perform no more than m operations All that remains in Joes pocket is considered his lootCalculate the largest amount of diamonds Joe can carry with him Dont forget that the security system shouldnt be triggered even after Joe leaves the bank and Joe should leave before morning

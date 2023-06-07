@@ -1,0 +1,9 @@
+Three Problems                    
+
+https://codeforces.com/problemset/problem/1211/A
+
+*special problem
+
+1000
+
+Polycarp is choosing three problems for creating a programming test. Totally he has n problems in his list. The complexity of the i-th problem equals r_i. All problems are numerated from 1 to n.Help Polycarp to choose such three problems a, b and c, so that the complexity of the first problem strictly less than the complexity of second problem and the complexity of the second problem is strictly less than the complexity of the third problem. So, for chosen problems a, b and c it should be true that r_a < r_b < r_c.If Polycarp can choose three problems in different ways, you can print any of them.

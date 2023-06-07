@@ -1,0 +1,9 @@
+Complete Mirror                    
+
+https://codeforces.com/problemset/problem/1182/D
+
+constructive algorithms
+
+2400
+
+You have given tree consist of n vertices. Select a vertex as root vertex that satisfies the condition below.  For all vertices v_{1} and v_{2}, if distance(root, v_{1}) = distance(root, v_{2}) then degree(v_{1}) = degree(v_{2}), where degree means the number of vertices connected to that vertex, and distance means the number of edges between two vertices. Determine and find if there is such root vertex in the tree. If there are multiple answers, find any of them.

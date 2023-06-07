@@ -1,0 +1,9 @@
+Prepend and Append                    
+
+https://codeforces.com/problemset/problem/1791/C
+
+implementation
+
+800
+
+Timur initially had a binary string^{\dagger} s (possibly of length 0). He performed the following operation several (possibly zero) times:   Add \texttt{0} to one end of the string and \texttt{1} to the other end of the string. For example, starting from the string \texttt{1011}, you can obtain either \color{red}{\texttt{0}}\texttt{1011}\color{red}{\texttt{1}} or \color{red}{\texttt{1}}\texttt{1011}\color{red}{\texttt{0}}.  You are given Timur's final string. What is the length of the shortest possible string he could have started with?^{\dagger} A binary string is a string (possibly the empty string) whose characters are either \texttt{0} or \texttt{1}.

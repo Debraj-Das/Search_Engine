@@ -1,0 +1,9 @@
+Petya's Exams                    
+
+https://codeforces.com/problemset/problem/978/G
+
+greedy
+
+1700
+
+Petya studies at university. The current academic year finishes with n special days. Petya needs to pass m exams in those special days. The special days in this problem are numbered from 1 to n.There are three values about each exam:  s_i — the day, when questions for the i-th exam will be published,  d_i — the day of the i-th exam (s_i < d_i),  c_i — number of days Petya needs to prepare for the i-th exam. For the i-th exam Petya should prepare in days between s_i and d_i-1, inclusive. There are three types of activities for Petya in each day: to spend a day doing nothing (taking a rest), to spend a day passing exactly one exam or to spend a day preparing for exactly one exam. So he can't pass/prepare for multiple exams in a day. He can't mix his activities in a day. If he is preparing for the i-th exam in day j, then s_i \le j < d_i.It is allowed to have breaks in a preparation to an exam and to alternate preparations for different exams in consecutive days. So preparation for an exam is not required to be done in consecutive days.Find the schedule for Petya to prepare for all exams and pass them, or report that it is impossible.

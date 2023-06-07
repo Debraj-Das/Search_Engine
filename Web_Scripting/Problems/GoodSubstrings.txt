@@ -1,0 +1,9 @@
+Good Substrings                    
+
+httpscodeforcescomproblemsetproblem316G3
+
+string suffix structures
+
+2400
+
+Smart Beaver recently got interested in a new word game The point is as follows count the number of distinct good substrings of some string s To determine if a string is good or not the game uses rules Overall there are n rules Each rule is described by a group of three plr where p is a string and l and r lr are integers Well say that string t complies with rule plr if the number of occurrences of string t in string p lies between l and r inclusive For example string ab complies with rules ab 1 2 and aab 0 1 but does not comply with rules cd 1 2 and abab 0 1A substring sl r 1lrs of string ss1s2 ss s is a length of s is string slsl1 srConsider a number of occurrences  of string t in string p as a number of pairs of integers lr 1lrp such that pl rtWell say that string t is good if it complies with all n rules Smart Beaver asks you to help him to write a program that can calculate the number of distinct good substrings of string s Two substrings sx y and sz w are cosidered to be distinct iff sx ysz w

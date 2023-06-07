@@ -1,0 +1,9 @@
+Mirror Box                    
+
+httpscodeforcescomproblemsetproblem578F
+
+matrices
+
+3200
+
+You are given a box full of mirrors Box consists of grid of size nm Each cell of the grid contains a mirror put in the shape of  or  45 degree to the horizontal or vertical line But mirrors in some cells have been destroyed You want to put new mirrors into these grids so that the following two conditions are satisfied  If you put a light ray horizontallyvertically into the middle of any unit segment that is side of some border cell the light will go out from the neighboring unit segment to the segment you put the ray in each unit segment of the grid of the mirror box can be penetrated by at least one light ray horizontallyvertically put into the box according to the rules of the previous paragraph   After you tried putting some mirrors you find out that there are many ways of doing so How many possible ways are there The answer might be large so please find the result modulo prime number MOD

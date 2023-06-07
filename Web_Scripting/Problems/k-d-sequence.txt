@@ -1,0 +1,9 @@
+k-d-sequence                    
+
+https://codeforces.com/problemset/problem/407/E
+
+data structures
+
+3100
+
+We'll call a sequence of integers a good k-d sequence if we can add to it at most k numbers in such a way that after the sorting the sequence will be an arithmetic progression with difference d.You got hold of some sequence a, consisting of n integers. Your task is to find its longest contiguous subsegment, such that it is a good k-d sequence.

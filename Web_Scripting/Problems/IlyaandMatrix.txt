@@ -1,0 +1,9 @@
+Ilya and Matrix                    
+
+httpscodeforcescomproblemsetproblem313C
+
+constructive algorithms
+
+1400
+
+Ilya is a very goodnatured lion He likes maths Of all mathematical objects his favourite one is matrices Now hes faced a complicated matrix problem he needs to solveHes got a square 2n2nsized matrix and 4n integers You need to arrange all these numbers in the matrix put each number in a single individual cell so that the beauty of the resulting matrix with numbers is maximumThe beauty of a 2n2nsized matrix is an integer obtained by the following algorithm  Find the maximum element in the matrix Lets denote it as m  If n0 then the beauty of the matrix equals m Otherwise a matrix can be split into 4 nonintersecting 2n12n1sized submatrices then the beauty of the matrix equals the sum of number m and other four beauties of the described submatrices As you can see the algorithm is recursiveHelp Ilya solve the problem and print the resulting maximum beauty of the matrix

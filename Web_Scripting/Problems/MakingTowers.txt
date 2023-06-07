@@ -1,0 +1,9 @@
+Making Towers                    
+
+https://codeforces.com/problemset/problem/1706/B
+
+dp
+
+1100
+
+You have a sequence of n colored blocks. The color of the i-th block is c_i, an integer between 1 and n.You will place the blocks down in sequence on an infinite coordinate grid in the following way.   Initially, you place block 1 at (0, 0).  For 2 \le i \le n, if the (i - 1)-th block is placed at position (x, y), then the i-th block can be placed at one of positions (x + 1, y), (x - 1, y), (x, y + 1) (but not at position (x, y - 1)), as long no previous block was placed at that position. A tower is formed by s blocks such that they are placed at positions (x, y), (x, y + 1), \ldots, (x, y + s - 1) for some position (x, y) and integer s. The size of the tower is s, the number of blocks in it. A tower of color r is a tower such that all blocks in it have the color r.For each color r from 1 to n, solve the following problem independently:   Find the maximum size of a tower of color r that you can form by placing down the blocks according to the rules. 

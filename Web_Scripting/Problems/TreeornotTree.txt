@@ -1,0 +1,9 @@
+Tree or not Tree                    
+
+httpscodeforcescomproblemsetproblem117E
+
+data structures
+
+2900
+
+You are given an undirected connected graph G consisting of n vertexes and n edges G contains no selfloops or multiple edges Let each edge has two states on and off Initially all edges are switched offYou are also given m queries represented as vu  change the state of all edges on the shortest path from vertex v to vertex u in graph G If there are several such paths the lexicographically minimal one is chosen More formally let us consider all shortest paths from vertex v to vertex u as the sequences of vertexes vv1v2u Among such sequences we choose the lexicographically minimal oneAfter each query you should tell how many connected components has the graph whose vertexes coincide with the vertexes of graph G and edges coincide with the switched on edges of graph G

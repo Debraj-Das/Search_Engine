@@ -1,0 +1,9 @@
+Theseus and labyrinth                    
+
+httpscodeforcescomproblemsetproblem676D
+
+graphs
+
+2000
+
+Theseus has just arrived to Crete to fight Minotaur He found a labyrinth that has a form of a rectangular field of size nm and consists of blocks of size 11Each block of the labyrinth has a button that rotates all blocks 90 degrees clockwise Each block rotates around its center and doesnt change its position in the labyrinth Also each block has some number of doors possibly none In one minute Theseus can either push the button in order to rotate all the blocks 90 degrees clockwise or pass to the neighbouring block Theseus can go from block A to some neighbouring block B only if block A has a door that leads to block B and block B has a door that leads to block ATheseus found an entrance to labyrinth and is now located in block xTyT the block in the row xT and column yT Theseus know that the Minotaur is hiding in block xMyM and wants to know the minimum number of minutes required to get thereTheseus is a hero not a programmer so he asks you to help him

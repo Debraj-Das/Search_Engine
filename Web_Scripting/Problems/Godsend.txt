@@ -1,0 +1,9 @@
+Godsend                    
+
+https://codeforces.com/problemset/problem/841/B
+
+games
+
+1100
+
+Leha somehow found an array consisting of n integers. Looking at it, he came up with a task. Two players play the game on the array. Players move one by one. The first player can choose for his move a subsegment of non-zero length with an odd sum of numbers and remove it from the array, after that the remaining parts are glued together into one array and the game continues. The second player can choose a subsegment of non-zero length with an even sum and remove it. Loses the one who can not make a move. Who will win if both play optimally?

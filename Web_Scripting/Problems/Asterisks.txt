@@ -1,0 +1,9 @@
+Asterisks                    
+
+https://codeforces.com/problemset/problem/188/D
+
+*special problem
+
+1100
+
+You are given a number n. Print n lines, i-th line should consist of i characters "*". Lines' indices are 1-based.

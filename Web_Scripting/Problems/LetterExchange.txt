@@ -1,0 +1,9 @@
+Letter Exchange                    
+
+https://codeforces.com/problemset/problem/1784/B
+
+constructive algorithms
+
+1900
+
+A cooperative game is played by m people. In the game, there are 3m sheets of paper: m sheets with letter 'w', m sheets with letter 'i', and m sheets with letter 'n'.Initially, each person is given three sheets (possibly with equal letters).The goal of the game is to allow each of the m people to spell the word "win" using their sheets of paper. In other words, everyone should have one sheet with letter 'w', one sheet with letter 'i', and one sheet with letter 'n'.To achieve the goal, people can make exchanges. Two people participate in each exchange. Both of them choose exactly one sheet of paper from the three sheets they own and exchange it with each other.Find the shortest sequence of exchanges after which everyone has one 'w', one 'i', and one 'n'.

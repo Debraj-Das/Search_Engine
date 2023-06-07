@@ -1,0 +1,9 @@
+Bathroom terminal                    
+
+httpscodeforcescomproblemsetproblem852G
+
+implementation
+
+1700
+
+Smith wakes up at the side of a dirty disused bathroom his ankle chained to pipes Next to him is tapeplayer with a handwritten message Play Me He finds a tape in his own back pocket After putting the tape in the tapeplayer he sees a key hanging from a ceiling chained to some kind of a machine which is connected to the terminal next to him After pressing a Play button a rough voice starts playing from the tapeListen up Smith As you can see you are in pretty tough situation and in order to escape you have to solve a puzzle You are given N strings which represent words Each word is of the maximum length L and consists of characters ae You are also given M strings which represent patterns Pattern is a string of length  L and consists of characters ae as well as the maximum 3 characters  Character  is an unknown character meaning it can be equal to any character ae or even an empty character For each pattern find the number of words that matches with the given pattern After solving it and typing the result in the terminal the key will drop from the ceiling and you may escape Let the game beginHelp Smith escape

@@ -1,0 +1,9 @@
+Buses                    
+
+httpscodeforcescomproblemsetproblem101B
+
+binary search
+
+1700
+
+Little boy Gerald studies at school which is quite far from his house Thats why he has to go there by bus every day The way from home to school is represented by a segment of a straight line the segment contains exactly n1 bus stops All of them are numbered with integers from 0 to n in the order in which they follow from Geralds home The bus stop by Geralds home has number 0 and the bus stop by the school has number nThere are m buses running between the house and the school the ith bus goes from stop si to ti siti visiting all the intermediate stops in the order in which they follow on the segment Besides Geralds no idiot and he wouldnt get off the bus until it is still possible to ride on it closer to the school obviously getting off would be completely pointless In other words Gerald can get on the ith bus on any stop numbered from si to ti1 inclusive but he can get off the ith bus only on the bus stop tiGerald cant walk between the bus stops and he also cant move in the direction from the school to the houseGerald wants to know how many ways he has to get from home to school Tell him this number Two ways are considered different if Gerald crosses some segment between the stops on different buses As the number of ways can be too much find the remainder of a division of this number by 1000000007 1097

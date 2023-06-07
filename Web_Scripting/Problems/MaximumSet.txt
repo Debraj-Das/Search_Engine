@@ -1,0 +1,9 @@
+Maximum Set                    
+
+https://codeforces.com/problemset/problem/1796/C
+
+binary search
+
+1600
+
+A set of positive integers S is called beautiful if, for every two integers x and y from this set, either x divides y or y divides x (or both).You are given two integers l and r. Consider all beautiful sets consisting of integers not less than l and not greater than r. You have to print two numbers:  the maximum possible size of a beautiful set where all elements are from l to r;  the number of beautiful sets consisting of integers from l to r with the maximum possible size. Since the second number can be very large, print it modulo 998244353.

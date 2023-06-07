@@ -1,0 +1,9 @@
+Unequal Array                    
+
+https://codeforces.com/problemset/problem/1672/C
+
+constructive algorithms
+
+1100
+
+You are given an array a of length n. We define the equality of the array as the number of indices 1 \le i \le n - 1 such that a_i = a_{i + 1}. We are allowed to do the following operation:  Select two integers i and x such that 1 \le i \le n - 1 and 1 \le x \le 10^9. Then, set a_i and a_{i + 1} to be equal to x. Find the minimum number of operations needed such that the equality of the array is less than or equal to 1.

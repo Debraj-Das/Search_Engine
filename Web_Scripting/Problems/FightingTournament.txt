@@ -1,0 +1,9 @@
+Fighting Tournament                    
+
+https://codeforces.com/problemset/problem/1719/C
+
+binary search
+
+1400
+
+Burenka is about to watch the most interesting sporting event of the year — a fighting tournament organized by her friend Tonya.n athletes participate in the tournament, numbered from 1 to n. Burenka determined the strength of the i-th athlete as an integer a_i, where 1 \leq a_i \leq n. All the strength values are different, that is, the array a is a permutation of length n. We know that in a fight, if a_i > a_j, then the i-th participant always wins the j-th.The tournament goes like this: initially, all n athletes line up in ascending order of their ids, and then there are infinitely many fighting rounds. In each round there is exactly one fight: the first two people in line come out and fight. The winner goes back to the front of the line, and the loser goes to the back.Burenka decided to ask Tonya q questions. In each question, Burenka asks how many victories the i-th participant gets in the first k rounds of the competition for some given numbers i and k. Tonya is not very good at analytics, so he asks you to help him answer all the questions.

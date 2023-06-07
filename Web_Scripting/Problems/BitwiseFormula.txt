@@ -1,0 +1,9 @@
+Bitwise Formula                    
+
+https://codeforces.com/problemset/problem/778/B
+
+bitmasks
+
+1800
+
+Bob recently read about bitwise operations used in computers: AND, OR and XOR. He have studied their properties and invented a new game.Initially, Bob chooses integer m, bit depth of the game, which means that all numbers in the game will consist of m bits. Then he asks Peter to choose some m-bit number. After that, Bob computes the values of n variables. Each variable is assigned either a constant m-bit number or result of bitwise operation. Operands of the operation may be either variables defined before, or the number, chosen by Peter. After that, Peter's score equals to the sum of all variable values.Bob wants to know, what number Peter needs to choose to get the minimum possible score, and what number he needs to choose to get the maximum possible score. In both cases, if there are several ways to get the same score, find the minimum number, which he can choose.

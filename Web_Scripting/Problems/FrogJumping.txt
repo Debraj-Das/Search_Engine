@@ -1,0 +1,9 @@
+Frog Jumping                    
+
+https://codeforces.com/problemset/problem/1146/D
+
+dfs and similar
+
+2100
+
+A frog is initially at position 0 on the number line. The frog has two positive integers a and b. From a position k, it can either jump to position k+a or k-b.Let f(x) be the number of distinct integers the frog can reach if it never jumps on an integer outside the interval [0, x]. The frog doesn't need to visit all these integers in one trip, that is, an integer is counted if the frog can somehow reach it if it starts from 0.Given an integer m, find \sum_{i=0}^{m} f(i). That is, find the sum of all f(i) for i from 0 to m.

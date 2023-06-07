@@ -1,0 +1,9 @@
+We Need the Zero                    
+
+https://codeforces.com/problemset/problem/1805/A
+
+bitmasks
+
+800
+
+There is an array a consisting of non-negative integers. You can choose an integer x and denote b_i=a_i \oplus x for all 1 \le i \le n, where \oplus denotes the bitwise XOR operation. Is it possible to choose such a number x that the value of the expression b_1 \oplus b_2 \oplus \ldots \oplus b_n equals 0?It can be shown that if a valid number x exists, then there also exists x such that (0 \le x < 2^8).

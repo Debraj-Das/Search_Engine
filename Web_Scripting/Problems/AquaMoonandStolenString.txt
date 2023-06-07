@@ -1,0 +1,9 @@
+AquaMoon and Stolen String                    
+
+https://codeforces.com/problemset/problem/1546/B
+
+interactive
+
+1200
+
+AquaMoon had n strings of length m each. n is an odd number.When AquaMoon was gone, Cirno tried to pair these n strings together. After making \frac{n-1}{2} pairs, she found out that there was exactly one string without the pair!In her rage, she disrupted each pair of strings. For each pair, she selected some positions (at least 1 and at most m) and swapped the letters in the two strings of this pair at the selected positions.For example, if m = 6 and two strings "abcdef" and "xyzklm" are in one pair and Cirno selected positions 2, 3 and 6 she will swap 'b' with 'y', 'c' with 'z' and 'f' with 'm'. The resulting strings will be "ayzdem" and "xbcklf".Cirno then stole away the string without pair and shuffled all remaining strings in arbitrary order.AquaMoon found the remaining n-1 strings in complete disarray. Also, she remembers the initial n strings. She wants to know which string was stolen, but she is not good at programming. Can you help her?

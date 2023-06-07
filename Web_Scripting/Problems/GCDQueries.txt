@@ -1,0 +1,9 @@
+GCD Queries                     
+
+https://codeforces.com/problemset/problem/1762/D
+
+constructive algorithms
+
+2100
+
+This is an interactive problem.There is a secret permutation p of [0,1,2,\ldots,n-1]. Your task is to find 2 indices x and y (1 \leq x, y \leq n, possibly x=y) such that p_x=0 or p_y=0. In order to find it, you are allowed to ask at most 2n queries.In one query, you give two integers i and j (1 \leq i, j \leq n, i \neq j) and receive the value of \gcd(p_i,p_j)^\dagger.Note that the permutation p is fixed before any queries are made and does not depend on the queries.^\dagger \gcd(x, y) denotes the greatest common divisor (GCD) of integers x and y. Note that \gcd(x,0)=\gcd(0,x)=x for all positive integers x.

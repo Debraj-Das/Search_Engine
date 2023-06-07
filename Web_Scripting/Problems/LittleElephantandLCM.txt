@@ -1,0 +1,9 @@
+Little Elephant and LCM                    
+
+httpscodeforcescomproblemsetproblem258C
+
+binary search
+
+2000
+
+The Little Elephant loves the LCM least common multiple operation of a nonempty set of positive integers The result of the LCM operation of k positive integers x1x2xk is the minimum positive integer that is divisible by each of numbers xiLets assume that there is a sequence of integers b1b2bn Lets denote their LCMs as lcmb1b2bn and the maximum of them as maxb1b2bn The Little Elephant considers a sequence b good if lcmb1b2bnmaxb1b2bnThe Little Elephant has a sequence of integers a1a2an Help him find the number of good sequences of integers b1b2bn such that for all i 1in the following condition fulfills 1biai As the answer can be rather large print the remainder from dividing it by 1000000007 1097

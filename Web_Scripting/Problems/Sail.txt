@@ -1,0 +1,9 @@
+Sail                    
+
+httpscodeforcescomproblemsetproblem298B
+
+brute force
+
+1200
+
+The polar bears are going fishing They plan to sail from sxsy to exey However the boat can only sail by wind At each second the wind blows in one of these directions east south west or north Assume the boat is currently at xy  If the wind blows to the east the boat will move to x1y  If the wind blows to the south the boat will move to xy1  If the wind blows to the west the boat will move to x1y  If the wind blows to the north the boat will move to xy1 Alternatively they can hold the boat by the anchor In this case the boat stays at xy Given the wind direction for t seconds what is the earliest time they sail to exey

@@ -1,0 +1,9 @@
+DZY Loves Strings                    
+
+httpscodeforcescomproblemsetproblem444D
+
+binary search
+
+2500
+
+DZY loves strings and he enjoys collecting themIn China many people like to use strings containing their names initials for example xyz jcvb dzy dyhOnce DZY found a lucky string s A lot of pairs of good friends came to DZY when they heard about the news The first member of the ith pair has name ai the second one has name bi Each pair wondered if there is a substring of the lucky string containing both of their names If so they want to find the one with minimum length which can give them good luck and make their friendship last foreverPlease help DZY for each pair find the minimum length of the substring of s that contains both ai and bi or point out that such substring doesnt existA substring of s is a string slsl1 sr for some integers lr 1lrs The length of such the substring is rl1A string p contains some another string q if there is a substring of p equal to q

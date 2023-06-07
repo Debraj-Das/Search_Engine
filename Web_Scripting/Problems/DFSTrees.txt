@@ -1,0 +1,9 @@
+DFS Trees                    
+
+https://codeforces.com/problemset/problem/1707/C
+
+dfs and similar
+
+2400
+
+You are given a connected undirected graph consisting of n vertices and m edges. The weight of the i-th edge is i.Here is a wrong algorithm of finding a minimum spanning tree (MST) of a graph:vis := an array of length ns := a set of edgesfunction dfs(u):    vis[u] := true    iterate through each edge (u, v) in the order from smallest to largest edge weight        if vis[v] = false            add edge (u, v) into the set (s)            dfs(v)function findMST(u):    reset all elements of (vis) to false    reset the edge set (s) to empty    dfs(u)    return the edge set (s)Each of the calls findMST(1), findMST(2), ..., findMST(n) gives you a spanning tree of the graph. Determine which of these trees are minimum spanning trees.

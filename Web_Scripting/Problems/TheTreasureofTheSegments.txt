@@ -1,0 +1,9 @@
+The Treasure of The Segments                    
+
+https://codeforces.com/problemset/problem/1462/F
+
+binary search
+
+1800
+
+Polycarp found n segments on the street. A segment with the index i is described by two integers l_i and r_i — coordinates of the beginning and end of the segment, respectively. Polycarp realized that he didn't need all the segments, so he wanted to delete some of them.Polycarp believes that a set of k segments is good if there is a segment [l_i, r_i] (1 \leq i \leq k) from the set, such that it intersects every segment from the set (the intersection must be a point or segment). For example, a set of 3 segments [[1, 4], [2, 3], [3, 6]] is good, since the segment [2, 3] intersects each segment from the set. Set of 4 segments [[1, 2], [2, 3], [3, 5], [4, 5]] is not good.Polycarp wonders, what is the minimum number of segments he has to delete so that the remaining segments form a good set?

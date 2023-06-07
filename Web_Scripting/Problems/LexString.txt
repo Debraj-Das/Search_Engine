@@ -1,0 +1,9 @@
+Lex String                    
+
+https://codeforces.com/problemset/problem/1689/A
+
+brute force
+
+800
+
+Kuznecov likes art, poetry, and music. And strings consisting of lowercase English letters.Recently, Kuznecov has found two strings, a and b, of lengths n and m respectively. They consist of lowercase English letters and no character is contained in both strings. Let another string c be initially empty. Kuznecov can do the following two types of operations:  Choose any character from the string a, remove it from a, and add it to the end of c.  Choose any character from the string b, remove it from b, and add it to the end of c. But, he can not do more than k operations of the same type in a row. He must perform operations until either a or b becomes empty. What is the lexicographically smallest possible value of c after he finishes?A string x is lexicographically smaller than a string y if and only if one of the following holds: x is a prefix of y, but x \neq y;  in the first position where x and y differ, the string x has a letter that appears earlier in the alphabet than the corresponding letter in y.

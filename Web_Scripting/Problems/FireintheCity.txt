@@ -1,0 +1,9 @@
+Fire in the City                    
+
+httpscodeforcescomproblemsetproblem845E
+
+binary search
+
+2400
+
+The capital of Berland looks like a rectangle of size nm of the square blocks of same sizeFireIt is known that k1 blocks got caught on fire k1nm Those blocks are centers of ignition Moreover positions of k of these centers are known and one of these stays unknown All k1 positions are distinctThe fire goes the following way during the zero minute of fire only these k1 centers of ignition are burning Every next minute the fire goes to all neighbouring blocks to the one which is burning You can consider blocks to burn for so long that this time exceeds the time taken in the problem The neighbouring blocks are those that touch the current block by a side or by a cornerBerland Fire Deparment wants to estimate the minimal time it takes the fire to lighten up the whole city Remember that the positions of k blocks centers of ignition are known and k1th can be positioned in any other blockHelp Berland Fire Department to estimate the minimal time it takes the fire to lighten up the whole city

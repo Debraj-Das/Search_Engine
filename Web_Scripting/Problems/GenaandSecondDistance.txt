@@ -1,0 +1,9 @@
+Gena and Second Distance                    
+
+https://codeforces.com/problemset/problem/442/E
+
+geometry
+
+3100
+
+Gena doesn't like geometry, so he asks you to solve this problem for him.A rectangle with sides parallel to coordinate axes contains n dots. Let's consider some point of the plane. Let's count the distances from this point to the given n points. Let's sort these numbers in the non-decreasing order. We'll call the beauty of the point the second element of this array. If there are two mimimum elements in this array, the beaty will be equal to this minimum.Find the maximum beauty of a point inside the given rectangle.

@@ -1,0 +1,9 @@
+Clique Problem                    
+
+httpscodeforcescomproblemsetproblem527D
+
+data structures
+
+1800
+
+The clique problem is one of the most wellknown NPcomplete problems Under some simplification it can be formulated as follows Consider an undirected graph G It is required to find a subset of vertices C of the maximum size such that any two of them are connected by an edge in graph G Sounds simple doesnt it Nobody yet knows an algorithm that finds a solution to this problem in polynomial time of the size of the graph However as with many other NPcomplete problems the clique problem is easier if you consider a specific type of a graphConsider n distinct points on a line Let the ith point have the coordinate xi and weight wi Lets form graph G whose vertices are these points and edges connect exactly the pairs of points ij such that the distance between them is not less than the sum of their weights or more formally xixjwiwjFind the size of the maximum clique in such graph

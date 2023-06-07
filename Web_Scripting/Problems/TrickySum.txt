@@ -1,0 +1,9 @@
+Tricky Sum                    
+
+httpscodeforcescomproblemsetproblem598A
+
+math
+
+900
+
+In this problem you are to calculate the sum of all integers from 1 to n but you should take all powers of two with minus in the sumFor example for n4 the sum is equal to 12344 because 1 2 and 4 are 20 21 and 22 respectivelyCalculate the answer for t values of n

@@ -1,0 +1,9 @@
+Beautiful Array                    
+
+https://codeforces.com/problemset/problem/1155/D
+
+brute force
+
+1900
+
+You are given an array a consisting of n integers. Beauty of array is the maximum sum of some consecutive subarray of this array (this subarray may be empty). For example, the beauty of the array [10, -5, 10, -4, 1] is 15, and the beauty of the array [-3, -5, -1] is 0.You may choose at most one consecutive subarray of a and multiply all values contained in this subarray by x. You want to maximize the beauty of array after applying at most one such operation.

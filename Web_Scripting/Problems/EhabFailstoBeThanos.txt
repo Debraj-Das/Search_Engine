@@ -1,0 +1,9 @@
+Ehab Fails to Be Thanos                    
+
+https://codeforces.com/problemset/problem/1174/A
+
+constructive algorithms
+
+1000
+
+You're given an array a of length 2n. Is it possible to reorder it in such way so that the sum of the first n elements isn't equal to the sum of the last n elements?

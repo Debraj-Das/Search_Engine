@@ -1,0 +1,9 @@
+Book Reading                    
+
+https://codeforces.com/problemset/problem/1213/C
+
+math
+
+1200
+
+Polycarp is reading a book consisting of n pages numbered from 1 to n. Every time he finishes the page with the number divisible by m, he writes down the last digit of this page number. For example, if n=15 and m=5, pages divisible by m are 5, 10, 15. Their last digits are 5, 0, 5 correspondingly, their sum is 10.Your task is to calculate the sum of all digits Polycarp has written down.You have to answer q independent queries.

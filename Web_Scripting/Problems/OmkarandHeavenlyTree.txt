@@ -1,0 +1,9 @@
+Omkar and Heavenly Tree                    
+
+https://codeforces.com/problemset/problem/1583/B
+
+constructive algorithms
+
+1200
+
+Lord Omkar would like to have a tree with n nodes (3 \le n \le 10^5) and has asked his disciples to construct the tree. However, Lord Omkar has created m (\mathbf{1 \le m < n}) restrictions to ensure that the tree will be as heavenly as possible. A tree with n nodes is an connected undirected graph with n nodes and n-1 edges. Note that for any two nodes, there is exactly one simple path between them, where a simple path is a path between two nodes that does not contain any node more than once.Here is an example of a tree:   A restriction consists of 3 pairwise distinct integers, a, b, and c (1 \le a,b,c \le n). It signifies that node b cannot lie on the simple path between node a and node c. Can you help Lord Omkar and become his most trusted disciple? You will need to find heavenly trees for multiple sets of restrictions. It can be shown that a heavenly tree will always exist for any set of restrictions under the given constraints.

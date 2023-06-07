@@ -1,0 +1,9 @@
+Timofey and Black-White Tree                    
+
+https://codeforces.com/problemset/problem/1790/F
+
+brute force
+
+2100
+
+Timofey came to a famous summer school and found a tree on n vertices. A tree is a connected undirected graph without cycles.Every vertex of this tree, except c_0, is colored white. The vertex c_0 is colored black.Timofey wants to color all the vertices of this tree in black. To do this, he performs n - 1 operations. During the i-th operation, he selects the vertex c_i, which is currently white, and paints it black.Let's call the positivity of tree the minimum distance between all pairs of different black vertices in it. The distance between the vertices v and u is the number of edges on the path from v to u.After each operation, Timofey wants to know the positivity of the current tree.

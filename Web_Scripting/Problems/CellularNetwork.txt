@@ -1,0 +1,9 @@
+Cellular Network                    
+
+httpscodeforcescomproblemsetproblem702C
+
+binary search
+
+1500
+
+You are given n points on the straight line  the positions xcoordinates of the cities and m points on the same line  the positions xcoordinates of the cellular towers All towers work in the same way  they provide cellular network for all cities which are located at the distance which is no more than r from this towerYour task is to find minimal r that each city has been provided by cellular network ie for each city there is at least one cellular tower at the distance which is no more than rIf r0 then a tower provides cellular network only for the point where it is located One tower can provide cellular network for any number of cities but all these cities must be at the distance which is no more than r from this tower

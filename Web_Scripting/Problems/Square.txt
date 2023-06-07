@@ -1,0 +1,9 @@
+Square                    
+
+httpscodeforcescomproblemsetproblem194B
+
+math
+
+1200
+
+There is a square painted on a piece of paper the squares side equals n meters John Doe draws crosses on the squares perimeter John paints the first cross in the lower left corner of the square Then John moves along the squares perimeter in the clockwise direction first upwards then to the right then downwards then to the left and so on Every time he walks n1 meters he draws a cross see picture for clarificationsJohn Doe stops only when the lower left corner of the square has two crosses How many crosses will John draw   The figure shows the order in which John draws crosses for a square with side 4 The lower left square has two crosses Overall John paints 17 crosses  

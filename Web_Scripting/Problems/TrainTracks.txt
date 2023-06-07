@@ -1,0 +1,9 @@
+Train Tracks                    
+
+https://codeforces.com/problemset/problem/1344/E
+
+data structures
+
+3100
+
+That's right. I'm a Purdue student, and I shamelessly wrote a problem about trains.There are n stations and m trains. The stations are connected by n-1 one-directional railroads that form a tree rooted at station 1. All railroads are pointed in the direction from the root station 1 to the leaves. A railroad connects a station u to a station v, and has a distance d, meaning it takes d time to travel from u to v. Each station with at least one outgoing railroad has a switch that determines the child station an incoming train will be directed toward. For example, it might look like this:  Here, stations 1 and 3 have switches directed toward stations 2 and 4, respectively. Initially, no trains are at any station. Train i will enter station 1 at time t_i. Every unit of time, starting at time 1, the following two steps happen:  You can switch at most one station to point to a different child station. A switch change takes effect before step 2.  For every train that is on a station u, it is directed toward the station v indicated by u's switch. So, if the railroad from u to v has distance d, the train will enter station v in d units of time from now. Every train has a destination station s_i. When it enters s_i, it will stop there permanently. If at some point the train is going in the wrong direction, so that it will never be able to reach s_i no matter where the switches point, it will immediately explode.Find the latest possible time of the first explosion if you change switches optimally, or determine that you can direct every train to its destination so that no explosion occurs. Also, find the minimum number of times you need to change a switch to achieve this.

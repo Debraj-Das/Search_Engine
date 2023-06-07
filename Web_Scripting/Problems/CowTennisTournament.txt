@@ -1,0 +1,9 @@
+Cow Tennis Tournament                    
+
+httpscodeforcescomproblemsetproblem283E
+
+combinatorics
+
+2800
+
+Farmer John is hosting a tennis tournament with his n cows Each cow has a skill level si and no two cows having the same skill level Every cow plays every other cow exactly once in the tournament and each cow beats every cow with skill level lower than its ownHowever Farmer John thinks the tournament will be demoralizing for the weakest cows who lose most or all of their matches so he wants to flip some of the results In particular at k different instances he will take two integers aibi aibi and flip all the results between cows with skill level between ai and bi inclusive That is for any pair xy  he will change the result of the match on the final scoreboard so if x won the match the scoreboard will now display that y won the match and vice versa It is possible that Farmer John will change the result of a match multiple times It is not guaranteed that ai and bi are equal to some cows skill levelFarmer John wants to determine how balanced he made the tournament results look In particular he wants to count the number of triples of cows pqr for which the final leaderboard shows that cow p beats cow q cow q beats cow r and cow r beats cow p Help him determine this numberNote that two triples are considered different if they do not contain the same set of cows ie if there is a cow in one triple that is not in the other

@@ -1,0 +1,9 @@
+Two Segments                    
+
+httpscodeforcescomproblemsetproblem193D
+
+data structures
+
+2900
+
+Nick has some permutation consisting of p integers from 1 to n A segment lr lr is a set of elements pi satisfying lirNick calls a pair of segments a0a1 and b0b1 1a0a1b0b1n good if all their a1a0b1b02 elements when sorted in ascending order form an arithmetic progression with a difference of 1 That is when they sorted in ascending order the elements are in the form xx1x2xm1 for some x and mYour task is to find the number of distinct pairs of good segments in the given permutation Two pairs of segments are considered distinct if the sets of elements contained in these pairs of segments are distinct For example any segment lr lr can be represented as a pair of segments as li and i1r lir As all these pairs consist of the same set of elements they are considered identicalSee the notes accompanying the sample tests for clarification

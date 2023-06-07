@@ -1,0 +1,9 @@
+Substring Removal Game                    
+
+httpscodeforcescomproblemsetproblem1398B
+
+games
+
+800
+
+Alice and Bob play a game They have a binary string s a string such that each character in it is either 0 or 1 Alice moves first then Bob then Alice again and so onDuring their move the player can choose any number not less than one of consecutive equal characters in s and delete themFor example if the string is 10110 there are 6 possible moves deleted characters are bold  textbf10110 to 0110  1textbf0110 to 1110  10textbf110 to 1010  101textbf10 to 1010  10textbf110 to 100  1011textbf0 to 1011 After the characters are removed the characters to the left and to the right of the removed block become adjacent Ie the following sequence of moves is valid 10textbf110 to 1textbf00 to 1The game ends when the string becomes empty and the score of each player is the number of 1characters deleted by themEach player wants to maximize their score Calculate the resulting score of Alice

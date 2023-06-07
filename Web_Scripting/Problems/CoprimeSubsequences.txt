@@ -1,0 +1,9 @@
+Coprime Subsequences                    
+
+httpscodeforcescomproblemsetproblem803F
+
+bitmasks
+
+2000
+
+Lets call a nonempty sequence of positive integers a1a2 ak coprime if the greatest common divisor of all elements of this sequence is equal to 1Given an array a consisting of n positive integers find the number of its coprime subsequences Since the answer may be very large print it modulo 1097Note that two subsequences are considered different if chosen indices are different For example in the array 11 there are 3 different subsequences 1 1 and 11

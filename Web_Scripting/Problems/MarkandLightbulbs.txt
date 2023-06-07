@@ -1,0 +1,9 @@
+Mark and Lightbulbs                    
+
+https://codeforces.com/problemset/problem/1705/D
+
+combinatorics
+
+1800
+
+Mark has just purchased a rack of n lightbulbs. The state of the lightbulbs can be described with binary string s = s_1s_2\dots s_n, where s_i=\texttt{1} means that the i-th lightbulb is turned on, while s_i=\texttt{0} means that the i-th lightbulb is turned off.Unfortunately, the lightbulbs are broken, and the only operation he can perform to change the state of the lightbulbs is the following:  Select an index i from 2,3,\dots,n-1 such that s_{i-1}\ne s_{i+1}.  Toggle s_i. Namely, if s_i is \texttt{0}, set s_i to \texttt{1} or vice versa. Mark wants the state of the lightbulbs to be another binary string t. Help Mark determine the minimum number of operations to do so.

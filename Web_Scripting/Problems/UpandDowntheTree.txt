@@ -1,0 +1,9 @@
+Up and Down the Tree                    
+
+https://codeforces.com/problemset/problem/1065/F
+
+dfs and similar
+
+2500
+
+You are given a tree with n vertices; its root is vertex 1. Also there is a token, initially placed in the root. You can move the token to other vertices. Let's assume current vertex of token is v, then you make any of the following two possible moves:   move down to any leaf in subtree of v;  if vertex v is a leaf, then move up to the parent no more than k times. In other words, if h(v) is the depth of vertex v (the depth of the root is 0), then you can move to vertex to such that to is an ancestor of v and h(v) - k \le h(to). Consider that root is not a leaf (even if its degree is 1). Calculate the maximum number of different leaves you can visit during one sequence of moves.

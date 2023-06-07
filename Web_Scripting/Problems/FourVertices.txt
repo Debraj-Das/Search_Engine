@@ -1,0 +1,9 @@
+Four Vertices                    
+
+https://codeforces.com/problemset/problem/1566/G
+
+constructive algorithms
+
+3100
+
+You are given an undirected weighted graph, consisting of n vertices and m edges.Some queries happen with this graph:  Delete an existing edge from the graph.  Add a non-existing edge to the graph. At the beginning and after each query, you should find four different vertices a, b, c, d such that there exists a path between a and b, there exists a path between c and d, and the sum of lengths of two shortest paths from a to b and from c to d is minimal. The answer to the query is the sum of the lengths of these two shortest paths. The length of the path is equal to the sum of weights of edges in this path.

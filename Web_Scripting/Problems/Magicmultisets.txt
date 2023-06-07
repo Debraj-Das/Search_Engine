@@ -1,0 +1,9 @@
+Magic multisets                    
+
+https://codeforces.com/problemset/problem/981/G
+
+data structures
+
+2500
+
+In the School of Magic in Dirtpolis a lot of interesting objects are studied on Computer Science lessons.Consider, for example, the magic multiset. If you try to add an integer to it that is already presented in the multiset, each element in the multiset duplicates. For example, if you try to add the integer 2 to the multiset \{1, 2, 3, 3\}, you will get \{1, 1, 2, 2, 3, 3, 3, 3\}. If you try to add an integer that is not presented in the multiset, it is simply added to it. For example, if you try to add the integer 4 to the multiset \{1, 2, 3, 3\}, you will get \{1, 2, 3, 3, 4\}.Also consider an array of n initially empty magic multisets, enumerated from 1 to n.You are to answer q queries of the form "add an integer x to all multisets with indices l, l + 1, \ldots, r" and "compute the sum of sizes of multisets with indices l, l + 1, \ldots, r". The answers for the second type queries can be large, so print the answers modulo 998244353.

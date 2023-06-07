@@ -1,0 +1,9 @@
+Cute Sequences                    
+
+https://codeforces.com/problemset/problem/1166/D
+
+binary search
+
+2200
+
+Given a positive integer m, we say that a sequence x_1, x_2, \dots, x_n of positive integers is m-cute if for every index i such that 2 \le i \le n it holds that x_i = x_{i - 1} + x_{i - 2} + \dots + x_1 + r_i for some positive integer r_i satisfying 1 \le r_i \le m.You will be given q queries consisting of three positive integers a, b and m. For each query you must determine whether or not there exists an m-cute sequence whose first term is a and whose last term is b. If such a sequence exists, you must additionally find an example of it.

@@ -1,0 +1,9 @@
+Sereja and Subsequences                    
+
+httpscodeforcescomproblemsetproblem314C
+
+data structures
+
+2000
+
+Sereja has a sequence that consists of n positive integers a1a2an First Sereja took a piece of squared paper and wrote all distinct nonempty nondecreasing subsequences of sequence a Then for each sequence written on the squared paper Sereja wrote on a piece of lines paper all sequences that do not exceed itA sequence of positive integers xx1x2xr doesnt exceed a sequence of positive integers yy1y2yr if the following inequation holds x1y1x2y2xryrNow Sereja wonders how many sequences are written on the lines piece of paper Help Sereja find the required quantity modulo 1000000007 1097 

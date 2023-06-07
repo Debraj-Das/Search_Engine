@@ -1,0 +1,9 @@
+Marathon                    
+
+httpscodeforcescomproblemsetproblem404B
+
+implementation
+
+1500
+
+Valera takes part in the Berland Marathon The marathon race starts at the stadium that can be represented on the plane as a square whose lower left corner is located at point with coordinates 00 and the length of the side equals a meters The sides of the square are parallel to coordinate axesAs the length of the marathon race is very long Valera needs to have extra drink during the race The coach gives Valera a bottle of drink each d meters of the path We know that Valera starts at the point with coordinates 00 and runs counterclockwise That is when Valera covers a meters he reaches the point with coordinates a0 We also know that the length of the marathon race equals nd05 meters Help Valeras coach determine where he should be located to help Valera Specifically determine the coordinates of Valeras positions when he covers d2dnd meters

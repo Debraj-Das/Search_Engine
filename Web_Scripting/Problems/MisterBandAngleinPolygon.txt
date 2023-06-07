@@ -1,0 +1,9 @@
+Mister B and Angle in Polygon                    
+
+https://codeforces.com/problemset/problem/820/B
+
+constructive algorithms
+
+1300
+
+On one quiet day all of sudden Mister B decided to draw angle a on his field. Aliens have already visited his field and left many different geometric figures on it. One of the figures is regular convex n-gon (regular convex polygon with n sides).That's why Mister B decided to use this polygon. Now Mister B must find three distinct vertices v1, v2, v3 such that the angle  (where v2 is the vertex of the angle, and v1 and v3 lie on its sides) is as close as possible to a. In other words, the value  should be minimum possible.If there are many optimal solutions, Mister B should be satisfied with any of them.

@@ -1,0 +1,9 @@
+Travel Cards                    
+
+httpscodeforcescomproblemsetproblem847K
+
+greedy
+
+1800
+
+In the evening Polycarp decided to analyze his todays travel expenses on public transportThe bus system in the capital of Berland is arranged in such a way that each bus runs along the route between two stops Each bus has no intermediate stops So each of the buses continuously runs along the route from one stop to the other and back There is at most one bus running between a pair of stopsPolycarp made n trips on buses About each trip the stop where he started the trip and the the stop where he finished are known The trips follow in the chronological order in Polycarps notesIt is known that one trip on any bus costs a burles In case when passenger makes a transshipment the cost of trip decreases to b burles ba A passenger makes a transshipment if the stop on which he boards the bus coincides with the stop where he left the previous bus Obviously the first trip can not be made with transshipmentFor example if Polycarp made three consecutive trips BerBank  University University  BerMall University  BerBank then he payed aba2ab burles From the BerBank he arrived to the University where he made transshipment to the other bus and departed to the BerMall Then he walked to the University and returned to the BerBank by busAlso Polycarp can buy no more than k travel cards Each travel card costs f burles The travel card for a single bus route makes free of charge any trip by this route in both directions Once purchased a travel card can be used any number of times in any directionWhat is the smallest amount of money Polycarp could have spent today if he can buy no more than k travel cards

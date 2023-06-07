@@ -1,0 +1,9 @@
+MEX Tree                    
+
+https://codeforces.com/problemset/problem/1527/D
+
+combinatorics
+
+2400
+
+You are given a tree with n nodes, numerated from 0 to n-1. For each k between 0 and n, inclusive, you have to count the number of unordered pairs (u,v), u \neq v, such that the MEX of all the node labels in the shortest path from u to v (including end points) is k.The MEX of a sequence of integers is the smallest non-negative integer that does not belong to the sequence.

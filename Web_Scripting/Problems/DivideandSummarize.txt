@@ -1,0 +1,9 @@
+Divide and Summarize                    
+
+https://codeforces.com/problemset/problem/1461/D
+
+binary search
+
+1600
+
+Mike received an array a of length n as a birthday present and decided to test how pretty it is.An array would pass the i-th prettiness test if there is a way to get an array with a sum of elements totaling s_i, using some number (possibly zero) of slicing operations.  An array slicing operation is conducted in the following way:   assume mid = \lfloor\frac{max(array) + min(array)}{2}\rfloor, where max and min — are functions that find the maximum and the minimum array elements. In other words, mid is the sum of the maximum and the minimum element of array divided by 2 rounded down.  Then the array is split into two parts \mathit{left} and right. The \mathit{left} array contains all elements which are less than or equal mid, and the right array contains all elements which are greater than mid. Elements in \mathit{left} and right keep their relative order from array.  During the third step we choose which of the \mathit{left} and right arrays we want to keep. The chosen array replaces the current one and the other is permanently discarded. You need to help Mike find out the results of q prettiness tests.Note that you test the prettiness of the array a, so you start each prettiness test with the primordial (initial) array a. Thus, the first slice (if required) is always performed on the array a.

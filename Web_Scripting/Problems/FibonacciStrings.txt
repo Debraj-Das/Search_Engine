@@ -1,0 +1,9 @@
+Fibonacci Strings                    
+
+httpscodeforcescomproblemsetproblem177G2
+
+matrices
+
+2600
+
+Fibonacci strings are defined as follows   f1  a  f2  b  fn  fn1fn2 n2 Thus the first five Fibonacci strings are a b ba bab babbaYou are given a Fibonacci string and m strings si For each string si find the number of times it occurs in the given Fibonacci string as a substring

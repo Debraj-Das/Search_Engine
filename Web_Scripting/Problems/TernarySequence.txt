@@ -1,0 +1,9 @@
+Ternary Sequence                    
+
+https://codeforces.com/problemset/problem/1401/B
+
+constructive algorithms
+
+1100
+
+You are given two sequences a_1, a_2, \dots, a_n and b_1, b_2, \dots, b_n. Each element of both sequences is either 0, 1 or 2. The number of elements 0, 1, 2 in the sequence a is x_1, y_1, z_1 respectively, and the number of elements 0, 1, 2 in the sequence b is x_2, y_2, z_2 respectively.You can rearrange the elements in both sequences a and b however you like. After that, let's define a sequence c as follows:c_i = \begin{cases} a_i b_i & \mbox{if }a_i > b_i \\ 0 & \mbox{if }a_i = b_i \\ -a_i b_i & \mbox{if }a_i < b_i \end{cases}You'd like to make \sum_{i=1}^n c_i (the sum of all elements of the sequence c) as large as possible. What is the maximum possible sum?

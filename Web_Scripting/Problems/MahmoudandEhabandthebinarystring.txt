@@ -1,0 +1,9 @@
+Mahmoud and Ehab and the binary string                    
+
+https://codeforces.com/problemset/problem/862/D
+
+binary search
+
+2000
+
+Mahmoud and Ehab are in the fourth stage now.Dr. Evil has a hidden binary string of length n. He guarantees that there is at least one '0' symbol and at least one '1' symbol in it. Now he wants Mahmoud and Ehab to find a position of any '0' symbol and any '1' symbol. In order to do this, Mahmoud and Ehab can ask Dr. Evil up to 15 questions. They tell Dr. Evil some binary string of length n, and Dr. Evil tells the Hamming distance between these two strings. Hamming distance between 2 binary strings of the same length is the number of positions in which they have different symbols. You can find the definition of Hamming distance in the notes section below.Help Mahmoud and Ehab find these two positions.You will get Wrong Answer verdict if   Your queries doesn't satisfy interaction protocol described below.  You ask strictly more than 15 questions and your program terminated after exceeding queries limit. Please note, that you can do up to 15 ask queries and one answer query.  Your final answer is not correct.  You will get Idleness Limit Exceeded if you don't print anything or if you forget to flush the output, including for the final answer (more info about flushing output below).If you exceed the maximum number of queries, You should terminate with 0, In this case you'll get Wrong Answer, If you don't terminate you may receive any verdict because you'll be reading from a closed stream .

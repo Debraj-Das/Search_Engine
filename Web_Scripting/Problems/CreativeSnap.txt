@@ -1,0 +1,9 @@
+Creative Snap                    
+
+https://codeforces.com/problemset/problem/1111/C
+
+binary search
+
+1700
+
+Thanos wants to destroy the avengers base, but he needs to destroy the avengers along with their base.Let we represent their base with an array, where each position can be occupied by many avengers, but one avenger can occupy only one position. Length of their base is a perfect power of 2. Thanos wants to destroy the base using minimum power. He starts with the whole base and in one step he can do either of following:   if the current length is at least 2, divide the base into 2 equal halves and destroy them separately, or  burn the current base. If it contains no avenger in it, it takes A amount of power, otherwise it takes his B \cdot n_a \cdot l amount of power, where n_a is the number of avengers and l is the length of the current base. Output the minimum power needed by Thanos to destroy the avengers' base.

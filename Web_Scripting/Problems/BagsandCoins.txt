@@ -1,0 +1,9 @@
+Bags and Coins                    
+
+https://codeforces.com/problemset/problem/356/D
+
+bitmasks
+
+2700
+
+When you were a child you must have been told a puzzle of bags and coins. Anyway, here's one of its versions: A horse has three bags. The first bag has one coin, the second bag has one coin and the third bag has three coins. In total, the horse has three coins in the bags. How is that possible? The answer is quite simple. The third bag contains a coin and two other bags. This problem is a generalization of the childhood puzzle. You have n bags. You know that the first bag contains a1 coins, the second bag contains a2 coins, ..., the n-th bag contains an coins. In total, there are s coins. Find the way to arrange the bags and coins so that they match the described scenario or else state that it is impossible to do.

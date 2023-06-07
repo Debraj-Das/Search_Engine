@@ -1,0 +1,9 @@
+Maximum Subsequence                    
+
+httpscodeforcescomproblemsetproblem888E
+
+bitmasks
+
+1800
+
+You are given an array a consisting of n integers and additionally an integer m You have to choose some sequence of indices b1b2bk 1b1b2bkn in such a way that the value of  is maximized Chosen sequence can be emptyPrint the maximum possible value of 

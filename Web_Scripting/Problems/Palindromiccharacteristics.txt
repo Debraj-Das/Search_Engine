@@ -1,0 +1,9 @@
+Palindromic characteristics                    
+
+httpscodeforcescomproblemsetproblem835D
+
+brute force
+
+1900
+
+Palindromic characteristics of string s with length s is a sequence of s integers where kth number is the total number of nonempty substrings of s which are kpalindromesA string is 1palindrome if and only if it reads the same backward as forwardA string is kpalindrome k1 if and only if   Its left half equals to its right half  Its left and right halfs are nonempty k1palindromes The left half of string t is its prefix of length t2 and right half the suffix of the same length t2 denotes the length of string t divided by 2 rounded downNote that each substring is counted as many times as it appears in the string For example in the string aaa the substring a appears 3 times

@@ -1,0 +1,9 @@
+Mister B and Astronomers                    
+
+httpscodeforcescomproblemsetproblem819D
+
+number theory
+
+2900
+
+After studying the beacons Mister B decided to visit aliens planet because he learned that they live in a system of flickering star Moon Moreover Mister B learned that the star shines once in exactly T seconds The problem is that the star is yet to be discovered by scientistsThere are n astronomers numerated from 1 to n trying to detect the star They try to detect the star by sending requests to record the sky for 1 second The astronomers send requests in cycle the ith astronomer sends a request exactly ai second after the i1th ie if the previous request was sent at moment t then the next request is sent at moment tai the 1st astronomer sends requests a1 seconds later than the nth The first astronomer sends his first request at moment 0Mister B doesnt know the first moment the star is going to shine but its obvious that all moments at which the star will shine are determined by the time of its shine moment in the interval 0T Moreover this interval can be split into T parts of 1 second length each of form tt1 where t012T1Mister B wants to know how lucky each astronomer can be in discovering the star firstFor each astronomer compute how many segments of form tt1 t012T1 there are in the interval 0T so that this astronomer is the first to discover the star if the first shine of the star happens in this time interval

@@ -1,0 +1,9 @@
+Best Subsegment                    
+
+https://codeforces.com/problemset/problem/1117/A
+
+implementation
+
+1100
+
+You are given array a_1, a_2, \dots, a_n. Find the subsegment a_l, a_{l+1}, \dots, a_r (1 \le l \le r \le n) with maximum arithmetic mean \frac{1}{r - l + 1}\sum\limits_{i=l}^{r}{a_i} (in floating-point numbers, i.e. without any rounding).If there are many such subsegments find the longest one.

@@ -1,0 +1,9 @@
+Hopscotch                    
+
+httpscodeforcescomproblemsetproblem141B
+
+geometry
+
+1400
+
+So nearly half of the winter is over and Maria is dreaming about summer Shes fed up with skates and sleds she was dreaming about Hopscotch all night long Its a very popular childrens game The game field the court looks as is shown in the figure all blocks are square and are numbered from bottom to top blocks in the same row are numbered from left to right Let us describe the hopscotch with numbers that denote the number of squares in the row staring from the lowest one 112121212 where then the period is repeated 12  The coordinate system is defined as shown in the figure Side of all the squares are equal and have length aMaria is a very smart and clever girl and she is concerned with quite serious issues if she throws a stone into a point with coordinates xy then will she hit some square If the answer is positive you are also required to determine the number of the squareIt is believed that the stone has fallen into the square if it is located strictly inside it In other words a stone that has fallen on the square border is not considered a to hit a square

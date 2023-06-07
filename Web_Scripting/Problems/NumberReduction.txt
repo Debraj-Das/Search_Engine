@@ -1,0 +1,9 @@
+Number Reduction                    
+
+https://codeforces.com/problemset/problem/1765/N
+
+greedy
+
+1500
+
+You are given a positive integer x.You can apply the following operation to the number: remove one occurrence of any digit in such a way that the resulting number does not contain any leading zeroes and is still a positive integer. For example, 10142 can be converted to 1142, 1042, 1012 or 1014 (note that 0142 is not a valid outcome); 10 can be converted to 1 (but not to 0 since it is not positive).Your task is to find the minimum positive integer that you can obtain from x if you can apply the aforementioned operation exactly k times.

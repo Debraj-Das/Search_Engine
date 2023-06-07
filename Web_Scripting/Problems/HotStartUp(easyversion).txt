@@ -1,0 +1,9 @@
+Hot Start Up (easy version)                    
+
+https://codeforces.com/problemset/problem/1799/D1
+
+dp
+
+1900
+
+This is an easy version of the problem. The constraints of t, n, k are the only difference between versions.You have a device with two CPUs. You also have k programs, numbered 1 through k, that you can run on the CPUs. The i-th program (1 \le i \le k) takes cold_i seconds to run on some CPU. However, if the last program we ran on this CPU was also program i, it only takes hot_i seconds (hot_i \le cold_i). Note that this only applies if we run program i multiple times consecutively  — if we run program i, then some different program, then program i again, it will take cold_i seconds the second time.You are given a sequence a_1, a_2, \ldots, a_n of length n, consisting of integers from 1 to k. You need to use your device to run programs a_1, a_2, \ldots, a_n in sequence. For all 2 \le i \le n, you cannot start running program a_i until program a_{i - 1} has completed.Find the minimum amount of time needed to run all programs a_1, a_2, \ldots, a_n in sequence.

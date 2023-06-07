@@ -1,0 +1,9 @@
+Fishingprince Plays With Array                    
+
+https://codeforces.com/problemset/problem/1696/C
+
+constructive algorithms
+
+1400
+
+Fishingprince is playing with an array [a_1,a_2,\dots,a_n]. He also has a magic number m.He can do the following two operations on it:  Select 1\le i\le n such that a_i is divisible by m (that is, there exists an integer t such that m \cdot t = a_i). Replace a_i with m copies of \frac{a_i}{m}. The order of the other elements doesn't change. For example, when m=2 and a=[2,3] and i=1, a changes into [1,1,3].  Select 1\le i\le n-m+1 such that a_i=a_{i+1}=\dots=a_{i+m-1}. Replace these m elements with a single m \cdot a_i. The order of the other elements doesn't change. For example, when m=2 and a=[3,2,2,3] and i=2, a changes into [3,4,3]. Note that the array length might change during the process. The value of n above is defined as the current length of the array (might differ from the n in the input).Fishingprince has another array [b_1,b_2,\dots,b_k]. Please determine if he can turn a into b using any number (possibly zero) of operations.

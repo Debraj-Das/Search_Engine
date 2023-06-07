@@ -1,0 +1,9 @@
+Decode String                    
+
+https://codeforces.com/problemset/problem/1729/B
+
+greedy
+
+800
+
+Polycarp has a string s consisting of lowercase Latin letters.He encodes it using the following algorithm.He goes through the letters of the string s from left to right and for each letter Polycarp considers its number in the alphabet:  if the letter number is single-digit number (less than 10), then just writes it out;  if the letter number is a two-digit number (greater than or equal to 10), then it writes it out and adds the number 0 after. For example, if the string s is code, then Polycarp will encode this string as follows:  'c' — is the 3-rd letter of the alphabet. Consequently, Polycarp adds 3 to the code (the code becomes equal to 3);  'o' — is the 15-th letter of the alphabet. Consequently, Polycarp adds 15 to the code and also 0 (the code becomes 3150);  'd' — is the 4-th letter of the alphabet. Consequently, Polycarp adds 4 to the code (the code becomes 31504);  'e' — is the 5-th letter of the alphabet. Therefore, Polycarp adds 5 to the code (the code becomes 315045). Thus, code of string code is 315045.You are given a string t resulting from encoding the string s. Your task is to decode it (get the original string s by t).

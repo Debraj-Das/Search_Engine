@@ -1,0 +1,9 @@
+Lovely Matrix                    
+
+httpscodeforcescomproblemsetproblem274D
+
+dfs and similar
+
+2200
+
+Lenny had an nm matrix of positive integers He loved the matrix so much because each row of the matrix was sorted in nondecreasing order For the same reason he calls such matrices of integers lovelyOne day when Lenny was at school his little brother was playing with Lennys matrix in his room He erased some of the entries of the matrix and changed the order of some of its columns When Lenny got back home he was very upset Now Lenny wants to recover his matrixHelp him to find an order for the columns of the matrix so that its possible to fill in the erased entries of the matrix to achieve a lovely matrix again Note that you can fill the erased entries of the matrix with any integers

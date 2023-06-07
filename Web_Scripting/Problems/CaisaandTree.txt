@@ -1,0 +1,9 @@
+Caisa and Tree                    
+
+httpscodeforcescomproblemsetproblem463E
+
+brute force
+
+2100
+
+Caisa is now at home and his son has a simple task for himGiven a rooted tree with n vertices numbered from 1 to n vertex 1 is the root Each vertex of the tree has a value You should answer q queries Each query is one of the following  Format of the query is 1 v Lets write out the sequence of vertices along the path from the root to vertex v u1u2uk u11ukv You need to output such a vertex ui that gcdvalueofuivalueofv1 and ik If there are several possible vertices ui pick the one with maximum value of i If there is no such vertex output 1  Format of the query is 2 v w You must change the value of vertex v to w You are given all the queries help Caisa to solve the problem

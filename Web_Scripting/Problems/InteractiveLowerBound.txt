@@ -1,0 +1,9 @@
+Interactive LowerBound                    
+
+httpscodeforcescomproblemsetproblem843B
+
+brute force
+
+2000
+
+This is an interactive problemYou are given a sorted in increasing order singly linked list You should find the minimum integer in the list which is greater than or equal to xMore formally there is a singly liked list built on an array of n elements Element with index i contains two integers valuei is the integer value in this element and nexti that is the index of the next element of the singly linked list or 1 if the current element is the last The list is sorted ie if nexti1 then valuenextivalueiYou are given the number of elements in the list n the index of the first element start and the integer xYou can make up to 2000 queries of the following two types   i 1in ask the values valuei and nexti   ans give the answer for the problem the minimum integer greater than or equal to x or  1 if there are no such integers Your program should terminate after this query Write a program that solves this problem

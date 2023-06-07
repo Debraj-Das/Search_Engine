@@ -1,0 +1,9 @@
+Rotation                    
+
+https://codeforces.com/problemset/problem/100/I
+
+*special problem
+
+1500
+
+Ehsan loves geometry! Especially he likes to rotate points!Given a point in the plane, Ehsan likes to rotate it by k degrees (counter-clockwise), around the origin. What is the result of this rotation?

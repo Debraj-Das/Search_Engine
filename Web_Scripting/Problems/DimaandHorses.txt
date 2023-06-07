@@ -1,0 +1,9 @@
+Dima and Horses                    
+
+https://codeforces.com/problemset/problem/272/E
+
+combinatorics
+
+2200
+
+Dima came to the horse land. There are n horses living in the land. Each horse in the horse land has several enemies (enmity is a symmetric relationship). The horse land isn't very hostile, so the number of enemies of each horse is at most 3.Right now the horse land is going through an election campaign. So the horses trusted Dima to split them into two parts. At that the horses want the following condition to hold: a horse shouldn't have more than one enemy in its party.Help Dima split the horses into parties. Note that one of the parties can turn out to be empty.

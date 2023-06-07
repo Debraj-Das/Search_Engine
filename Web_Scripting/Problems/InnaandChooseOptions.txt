@@ -1,0 +1,9 @@
+Inna and Choose Options                    
+
+httpscodeforcescomproblemsetproblem400A
+
+implementation
+
+1000
+
+There always is something to choose from And now instead of Noughts and Crosses Inna choose a very unusual upgrade of this game The rules of the game are given belowThere is one person playing the game Before the beginning of the game he puts 12 cards in a row on the table Each card contains a character X or O Then the player chooses two positive integers a and b ab12 after that he makes a table of size ab from the cards he put on the table as follows the first b cards form the first row of the table the second b cards form the second row of the table and so on the last b cards form the last number a row of the table The player wins if some column of the table contain characters X on all cards Otherwise the player losesInna has already put 12 cards on the table in a row But unfortunately she doesnt know what numbers a and b to choose Help her win the game print to her all the possible ways of numbers ab that she can choose and win

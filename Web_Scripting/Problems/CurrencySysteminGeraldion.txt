@@ -1,0 +1,9 @@
+Currency System in Geraldion                    
+
+https://codeforces.com/problemset/problem/560/A
+
+implementation
+
+1000
+
+A magic island Geraldion, where Gerald lives, has its own currency system. It uses banknotes of several values. But the problem is, the system is not perfect and sometimes it happens that Geraldionians cannot express a certain sum of money with any set of banknotes. Of course, they can use any number of banknotes of each value. Such sum is called unfortunate. Gerald wondered: what is the minimum unfortunate sum?

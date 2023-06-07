@@ -1,0 +1,9 @@
+Quick Tortoise                    
+
+httpscodeforcescomproblemsetproblem232E
+
+bitmasks
+
+3000
+
+John Doe has a field which is a rectangular table of size nm We assume that the field rows are numbered from 1 to n from top to bottom and the field columns are numbered from 1 to m from left to right Then the cell of the field at the intersection of the xth row and the yth column has coordinates x yWe know that some cells of Johns field are painted white and some are painted black Also John has a tortoise which can move along the white cells of the field The tortoise can get from a white cell with coordinates x y into cell x1 y or x y1 if the corresponding cell is painted white In other words the turtle can move only along the white cells of the field to the right or down The turtle can not go out of the bounds of the fieldIn addition John has q queries each of them is characterized by four numbers x1y1x2y2 x1x2 y1y2 For each query John wants to know whether the tortoise can start from the point with coordinates x1 y1 and reach the point with coordinates x2 y2 moving only along the white squares of the field

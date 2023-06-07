@@ -1,0 +1,9 @@
+Sereja ans Anagrams                    
+
+httpscodeforcescomproblemsetproblem367B
+
+binary search
+
+1900
+
+Sereja has two sequences a and b and number p Sequence a consists of n integers a1a2an Similarly sequence b consists of m integers b1b2bm As usual Sereja studies the sequences he has Today he wants to find the number of positions q qm1pnq1 such that sequence b can be obtained from sequence aqaqpaq2paqm1p by rearranging elementsSereja needs to rush to the gym so he asked to find all the described positions of q

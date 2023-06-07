@@ -1,0 +1,9 @@
+LuoTianyi and XOR-Tree                    
+
+https://codeforces.com/problemset/problem/1824/C
+
+data structures
+
+2500
+
+LuoTianyi gives you a tree with values in its vertices, and the root of the tree is vertex 1.In one operation, you can change the value in one vertex to any non-negative integer.Now you need to find the minimum number of operations you need to perform to make each path from the root to leaf^{\dagger} has a bitwise XOR value of zero.^{\dagger}A leaf in a rooted tree is a vertex that has exactly one neighbor and is not a root.

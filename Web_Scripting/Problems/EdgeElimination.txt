@@ -1,0 +1,9 @@
+Edge Elimination                    
+
+https://codeforces.com/problemset/problem/1667/D
+
+constructive algorithms
+
+2900
+
+You are given a tree (connected, undirected, acyclic graph) with n vertices. Two edges are adjacent if they share exactly one endpoint. In one move you can remove an arbitrary edge, if that edge is adjacent to an even number of remaining edges.Remove all of the edges, or determine that it is impossible. If there are multiple solutions, print any.

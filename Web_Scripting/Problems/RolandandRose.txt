@@ -1,0 +1,9 @@
+Roland and Rose                    
+
+httpscodeforcescomproblemsetproblem460E
+
+brute force
+
+2700
+
+Roland loves growing flowers He has recently grown a beautiful rose at point 00 of the Cartesian coordinate system The rose is so beautiful that Roland is afraid that the evil forces can try and steal it To protect the rose Roland wants to build n watch towers Lets assume that a tower is a point on the plane at the distance of at most r from the rose Besides Roland assumes that the towers should be built at points with integer coordinates and the sum of squares of distances between all pairs of towers must be as large as possible Note that Roland may build several towers at the same point also he may build some of them at point 00Help Roland build the towers at the integer points so that the sum of squares of distances between all towers is maximum possible Note that the distance in this problem is defined as the Euclidian distance between points

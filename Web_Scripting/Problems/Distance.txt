@@ -1,0 +1,9 @@
+Distance                    
+
+https://codeforces.com/problemset/problem/1612/A
+
+brute force
+
+800
+
+Let's denote the Manhattan distance between two points p_1 (with coordinates (x_1, y_1)) and p_2 (with coordinates (x_2, y_2)) as d(p_1, p_2) = |x_1 - x_2| + |y_1 - y_2|. For example, the distance between two points with coordinates (1, 3) and (4, 2) is |1 - 4| + |3 - 2| = 4.You are given two points, A and B. The point A has coordinates (0, 0), the point B has coordinates (x, y).Your goal is to find a point C such that:  both coordinates of C are non-negative integers;  d(A, C) = \dfrac{d(A, B)}{2} (without any rounding);  d(B, C) = \dfrac{d(A, B)}{2} (without any rounding). Find any point C that meets these constraints, or report that no such point exists.

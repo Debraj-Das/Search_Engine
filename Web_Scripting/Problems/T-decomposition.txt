@@ -1,0 +1,9 @@
+Tdecomposition                    
+
+httpscodeforcescomproblemsetproblem237D
+
+dfs and similar
+
+2000
+
+Youve got a undirected tree s consisting of n nodes Your task is to build an optimal Tdecomposition for it Lets define a Tdecomposition as followsLets denote the set of all nodes s as v Lets consider an undirected tree t whose nodes are some nonempty subsets of v well call them xi  The tree t is a Tdecomposition of s if the following conditions holds  the union of all xi equals v  for any edge ab of tree s exists the tree node t containing both a and b  if the nodes of the tree t xi and xj contain the node a of the tree s then all nodes of the tree t lying on the path from xi to xj also contain node a So this condition is equivalent to the following all nodes of the tree t that contain node a of the tree s form a connected subtree of tree t There are obviously many distinct trees t that are Tdecompositions of the tree s For example a Tdecomposition is a tree that consists of a single node equal to set vLets define the cardinality of node xi as the number of nodes in tree s containing in the node Lets choose the node with the maximum cardinality in t Lets assume that its cardinality equals w Then the weight of Tdecomposition t is value w The optimal Tdecomposition is the one with the minimum weightYour task is to find the optimal Tdecomposition of the given tree s that has the minimum number of nodes

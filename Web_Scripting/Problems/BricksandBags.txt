@@ -1,0 +1,9 @@
+Bricks and Bags                    
+
+https://codeforces.com/problemset/problem/1740/C
+
+constructive algorithms
+
+1400
+
+There are n bricks numbered from 1 to n. Brick i has a weight of a_i.Pak Chanek has 3 bags numbered from 1 to 3 that are initially empty. For each brick, Pak Chanek must put it into one of the bags. After this, each bag must contain at least one brick.After Pak Chanek distributes the bricks, Bu Dengklek will take exactly one brick from each bag. Let w_j be the weight of the brick Bu Dengklek takes from bag j. The score is calculated as |w_1 - w_2| + |w_2 - w_3|, where |x| denotes the absolute value of x.It is known that Bu Dengklek will take the bricks in such a way that minimises the score. What is the maximum possible final score if Pak Chanek distributes the bricks optimally?

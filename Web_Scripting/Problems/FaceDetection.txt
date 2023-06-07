@@ -1,0 +1,9 @@
+Face Detection                    
+
+httpscodeforcescomproblemsetproblem549A
+
+implementation
+
+900
+
+The developers of Looksery have to write an efficient algorithm that detects faces on a picture Unfortunately they are currently busy preparing a contest for you so you will have to do it for them In this problem an image is a rectangular table that consists of lowercase Latin letters A face on the image is a 22 square such that from the four letters of this square you can make word face You need to write a program that determines the number of faces on the image The squares that correspond to the faces can overlap

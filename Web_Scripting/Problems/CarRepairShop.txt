@@ -1,0 +1,9 @@
+Car Repair Shop                    
+
+httpscodeforcescomproblemsetproblem730G
+
+implementation
+
+1600
+
+Polycarp starts his own business Tomorrow will be the first working day of his car repair shop For now the car repair shop is very small and only one car can be repaired at a given timePolycarp is good at marketing so he has already collected n requests from clients The requests are numbered from 1 to n in order they cameThe ith request is characterized by two values si  the day when a client wants to start the repair of his car di  duration in days to repair the car The days are enumerated from 1 the first day is tomorrow the second day is the day after tomorrow and so onPolycarp is making schedule by processing requests in the order from the first to the nth request He schedules the ith request as follows  If the car repair shop is idle for di days starting from si sisi1sidi1 then these days are used to repair a car of the ith client  Otherwise Polycarp finds the first day x from 1 and further that there are di subsequent days when no repair is scheduled starting from x In other words he chooses the smallest positive x that all days xx1xdi1 are not scheduled for repair of any car So the car of the ith client will be repaired in the range xxdi1 It is possible that the day x when repair is scheduled to start will be less than si Given n requests you are asked to help Polycarp schedule all of them according to the rules above

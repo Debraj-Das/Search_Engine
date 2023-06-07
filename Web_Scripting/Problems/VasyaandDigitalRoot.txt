@@ -1,0 +1,9 @@
+Vasya and Digital Root                    
+
+httpscodeforcescomproblemsetproblem355A
+
+constructive algorithms
+
+1100
+
+Vasya has recently found out what a digital root of a number is and he decided to share his knowledge with youLets assume that Sn is the sum of digits of number n for example S4098409821 Then the digital root of number n equals to   drnSn if Sn10  drndrSn if Sn10 For example dr4098dr213Vasya is afraid of large numbers so the numbers he works with are at most 101000 For all such numbers he has proved that drnSSSSn n101000Now Vasya wants to quickly find numbers with the given digital root The problem is he hasnt learned how to do that and he asked you to help him You task is given numbers k and d find the number consisting of exactly k digits the leading zeroes are not allowed with digital root equal to d or else state that such number does not exist

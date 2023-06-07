@@ -1,0 +1,9 @@
+Array Shuffling                    
+
+https://codeforces.com/problemset/problem/1672/F1
+
+constructive algorithms
+
+2000
+
+oolimry has an array a of length n which he really likes. Today, you have changed his array to b, a permutation of a, to make him sad.Because oolimry is only a duck, he can only perform the following operation to restore his array:   Choose two integers i,j such that 1 \leq i,j \leq n.  Swap b_i and b_j. The sadness of the array b is the minimum number of operations needed to transform b into a.Given the array a, find any array b which is a permutation of a that has the maximum sadness over all permutations of the array a.

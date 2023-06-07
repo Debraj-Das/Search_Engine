@@ -1,0 +1,9 @@
+Square Tiling                    
+
+httpscodeforcescomproblemsetproblem432E
+
+constructive algorithms
+
+2300
+
+You have an nm rectangle table its cells are not initially painted Your task is to paint all cells of the table The resulting picture should be a tiling of the table with squares More formally  each cell must be painted some color the colors are marked by uppercase Latin letters  we will assume that two cells of the table are connected if they are of the same color and share a side each connected region of the table must form a square Given n and m find lexicographically minimum coloring of the table that meets the described properties

@@ -1,0 +1,9 @@
+Dasha and cyclic table                    
+
+httpscodeforcescomproblemsetproblem754E
+
+bitmasks
+
+2600
+
+Dasha is fond of challenging puzzles Rubiks Cube 333 444 555 and so on This time she has a cyclic table of size nm and each cell of the table contains a lowercase English letter Each cell has coordinates ij 0in 0jm The table is cyclic means that to the right of cell ij there is the cell  and to the down there is the cell Dasha has a pattern as well A pattern is a noncyclic table of size rc Each cell is either a lowercase English letter or a question mark Each cell has coordinates ij 0ir 0jcThe goal of the puzzle is to find all the appearance positions of the pattern in the cyclic tableWe say that the cell ij of cyclic table is an appearance position if for every pair xy such that 0xr and 0yc one of the following conditions holds   There is a question mark in the cell xy of the pattern or  The cell  of the cyclic table equals to the cell xy of the pattern Dasha solved this puzzle in no time as well as all the others she ever tried Can you solve it

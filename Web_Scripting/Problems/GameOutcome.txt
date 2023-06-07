@@ -1,0 +1,9 @@
+Game Outcome                    
+
+httpscodeforcescomproblemsetproblem157A
+
+brute force
+
+800
+
+Sherlock Holmes and Dr Watson played some game on a checkered board nn in size During the game they put numbers on the boards squares by some tricky rules we dont know However the game is now over and each square of the board contains exactly one number To understand who has won they need to count the number of winning squares To determine if the particular square is winning you should do the following Calculate the sum of all numbers on the squares that share this column including the given square and separately calculate the sum of all numbers on the squares that share this row including the given square A square is considered winning if the sum of the column numbers is strictly greater than the sum of the row numbersFor instance lets game was ended like is shown in the picture Then the purple cell is winning because the sum of its column numbers equals 836724 sum of its row numbers equals 953219 and 2419

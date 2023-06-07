@@ -1,0 +1,9 @@
+Rectangle Puzzle II                    
+
+httpscodeforcescomproblemsetproblem303B
+
+implementation
+
+1700
+
+You are given a rectangle grid That grids size is nm Lets denote the coordinate system on the grid So each point on the grid will have coordinates  a pair of integers xy 0xn0ymYour task is to find a maximum subrectangle on the grid x1y1x2y2 so that it contains the given point xy and its lengthwidth ratio is exactly ab In other words the following conditions must hold 0x1xx2n 0y1yy2m The sides of this subrectangle should be parallel to the axes And values x1y1x2y2 should be integers  If there are multiple solutions find the rectangle which is closest to xy Here closest means the Euclid distance between xy and the center of the rectangle is as small as possible If there are still multiple solutions find the lexicographically minimum one Here lexicographically minimum means that we should consider the subrectangle as sequence of integers x1y1x2y2 so we can choose the lexicographically minimum one

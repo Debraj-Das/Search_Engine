@@ -1,0 +1,9 @@
+Weighting a Tree                    
+
+httpscodeforcescomproblemsetproblem901D
+
+constructive algorithms
+
+2700
+
+You are given a connected undirected graph with n vertices and m edges The vertices are enumerated from 1 to n You are given n integers c1c2cn each of them is between n and n inclusive It is also guaranteed that the parity of cv equals the parity of degree of vertex v The degree of a vertex is the number of edges connected to itYou are to write a weight between 2n2 and 2n2 inclusive on each edge in such a way that for each vertex v the sum of weights on edges connected to this vertex is equal to cv or determine that this is impossible

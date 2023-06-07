@@ -1,0 +1,9 @@
+M-tree                    
+
+https://codeforces.com/problemset/problem/1810/F
+
+data structures
+
+2800
+
+A rooted tree is called good if every vertex of the tree either is a leaf (a vertex with no children) or has exactly m children.For a good tree, each leaf u has a positive integer c_{u} written on it, and we define the value of the leaf as c_{u} + \mathrm{dep}_{u}, where \mathrm{dep}_{u} represents the number of edges of the path from vertex u to the root (also known as the depth of u). The value of a good tree is the maximum value of all its leaves.Now, you are given an array of n integers a_{1}, a_{2}, \ldots, a_{n}, which are the integers that should be written on the leaves. You need to construct a good tree with n leaves and write the integers from the array a to all the leaves. Formally, you should assign each leaf u an index b_{u}, where b is a permutation of length n, and represent that the integer written on leaf u is c_u = a_{b_{u}}. Under these constraints, you need to minimize the value of the good tree.You have q queries. Each query gives you x, y and changes a_{x} to y, and after that, you should output the minimum value of a good tree based on the current array a. A permutation of length n is an array consisting of n distinct integers from 1 to n in arbitrary order. For example, [2,3,1,5,4] is a permutation, but [1,2,2] is not a permutation (2 appears twice in the array), and [1,3,4] is also not a permutation (n=3 but there is 4 in the array).

@@ -1,0 +1,9 @@
+Sort with Step                    
+
+https://codeforces.com/problemset/problem/1823/B
+
+brute force
+
+900
+
+Let's define a permutation of length n as an array p of length n, which contains every number from 1 to n exactly once.You are given a permutation p_1, p_2, \dots, p_n and a number k. You need to sort this permutation in the ascending order. In order to do it, you can repeat the following operation any number of times (possibly, zero):   pick two elements of the permutation p_i and p_j such that |i - j| = k, and swap them. Unfortunately, some permutations can't be sorted with some fixed numbers k. For example, it's impossible to sort [2, 4, 3, 1] with k = 2.That's why, before starting the sorting, you can make at most one preliminary exchange:   choose any pair p_i and p_j and swap them. Your task is to:   check whether is it possible to sort the permutation without any preliminary exchanges,  if it's not, check, whether is it possible to sort the permutation using exactly one preliminary exchange. For example, if k = 2 and permutation is [2, 4, 3, 1], then you can make a preliminary exchange of p_1 and p_4, which will produce permutation [1, 4, 3, 2], which is possible to sort with given k.

@@ -1,0 +1,9 @@
+Zookeeper and The Infinite Zoo                    
+
+https://codeforces.com/problemset/problem/1491/D
+
+bitmasks
+
+1800
+
+There is a new attraction in Singapore Zoo: The Infinite Zoo.The Infinite Zoo can be represented by a graph with an infinite number of vertices labeled 1,2,3,\ldots. There is a directed edge from vertex u to vertex u+v if and only if u\&v=v, where \& denotes the bitwise AND operation. There are no other edges in the graph.Zookeeper has q queries. In the i-th query she will ask you if she can travel from vertex u_i to vertex v_i by going through directed edges.

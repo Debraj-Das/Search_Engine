@@ -1,0 +1,9 @@
+New Year and Original Order                    
+
+httpscodeforcescomproblemsetproblem908G
+
+dp
+
+2800
+
+Let Sn denote the number that represents the digits of n in sorted order For example S11S55S503943459S353535333555Given a number X compute  modulo 1097

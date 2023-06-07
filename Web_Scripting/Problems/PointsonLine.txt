@@ -1,0 +1,9 @@
+Points on Line                    
+
+https://codeforces.com/problemset/problem/251/A
+
+binary search
+
+1300
+
+Little Petya likes points a lot. Recently his mom has presented him n points lying on the line OX. Now Petya is wondering in how many ways he can choose three distinct points so that the distance between the two farthest of them doesn't exceed d.Note that the order of the points inside the group of three chosen points doesn't matter.

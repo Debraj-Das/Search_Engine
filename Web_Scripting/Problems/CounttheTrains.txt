@@ -1,0 +1,9 @@
+Count the Trains                    
+
+https://codeforces.com/problemset/problem/1690/G
+
+binary search
+
+2000
+
+There are n of independent carriages on the rails. The carriages are numbered from left to right from 1 to n. The carriages are not connected to each other. The carriages move to the left, so that the carriage with number 1 moves ahead of all of them.The i-th carriage has its own engine, which can accelerate the carriage to a_i km/h, but the carriage cannot go faster than the carriage in front of it. See example for explanation.All carriages start moving to the left at the same time, and they naturally form trains. We will call trains — consecutive moving carriages having the same speed.For example, we have n=5 carriages and array a = [10, 13, 5, 2, 6]. Then the final speeds of the carriages will be [10, 10, 5, 2, 2]. Respectively, 3 of the train will be formed.There are also messages saying that some engine has been corrupted:  message "k d" means that the speed of the k-th carriage has decreased by d (that is, there has been a change in the maximum speed of the carriage a_k = a_k - d).  Messages arrive sequentially, the processing of the next message takes into account the changes from all previous messages.After each message determine the number of formed trains.

@@ -1,0 +1,9 @@
+Complete the Permutations                    
+
+httpscodeforcescomproblemsetproblem715E
+
+combinatorics
+
+3400
+
+ZS the Coder is given two permutations p and q of 12n but some of their elements are replaced with 0 The distance between two permutations p and q is defined as the minimum number of moves required to turn p into q A move consists of swapping exactly 2 elements of pZS the Coder wants to determine the number of ways to replace the zeros with positive integers from the set 12n such that p and q are permutations of 12n and the distance between p and q is exactly kZS the Coder wants to find the answer for all 0kn1 Can you help him

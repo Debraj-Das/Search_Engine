@@ -1,0 +1,9 @@
+Palindrome Degree                    
+
+httpscodeforcescomproblemsetproblem7D
+
+hashing
+
+2200
+
+String s of length n is called kpalindrome if it is a palindrome itself and its prefix and suffix of length  are k1palindromes By definition any string even empty is 0palindromeLets call the palindrome degree of string s such a maximum number k for which s is kpalindrome For example abaaba has degree equals to 3You are given a string Your task is to find the sum of the palindrome degrees of all its prefixes

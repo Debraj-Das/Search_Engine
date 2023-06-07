@@ -1,0 +1,9 @@
+LEGOndary Grandmaster                    
+
+https://codeforces.com/problemset/problem/1615/F
+
+combinatorics
+
+2800
+
+After getting bored by playing with crayons, you decided to switch to Legos! Today, you're working with a long strip, with height 1 and length n, some positions of which are occupied by 1 by 1 Lego pieces.In one second, you can either remove two adjacent Lego pieces from the strip (if both are present), or add two Lego pieces to adjacent positions (if both are absent). You can only add or remove Lego's at two adjacent positions at the same time, as otherwise your chubby fingers run into precision issues.You want to know exactly how much time you'll spend playing with Legos. You value efficiency, so given some starting state and some ending state, you'll always spend the least number of seconds to transform the starting state into the ending state. If it's impossible to transform the starting state into the ending state, you just skip it (so you spend 0 seconds).The issue is that, for some positions, you don't remember whether there were Legos there or not (in either the starting state, the ending state, or both). Over all pairs of (starting state, ending state) that are consistent with your memory, find the total amount of time it will take to transform the starting state to the ending state. Print this value modulo 1\,000\,000\,007 (10^9 + 7). 

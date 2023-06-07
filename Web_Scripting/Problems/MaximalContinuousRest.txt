@@ -1,0 +1,9 @@
+Maximal Continuous Rest                    
+
+https://codeforces.com/problemset/problem/1141/B
+
+implementation
+
+900
+
+Each day in Berland consists of n hours. Polycarp likes time management. That's why he has a fixed schedule for each day — it is a sequence a_1, a_2, \dots, a_n (each a_i is either 0 or 1), where a_i=0 if Polycarp works during the i-th hour of the day and a_i=1 if Polycarp rests during the i-th hour of the day.Days go one after another endlessly and Polycarp uses the same schedule for each day.What is the maximal number of continuous hours during which Polycarp rests? It is guaranteed that there is at least one working hour in a day.

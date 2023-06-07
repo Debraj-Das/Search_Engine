@@ -1,0 +1,9 @@
+Rebrending                    
+
+https://codeforces.com/problemset/problem/1793/F
+
+brute force
+
+2600
+
+Kostya and Zhenya — the creators of the band "Paper" — after the release of the legendary album decided to create a new band "Day movers", for this they need to find two new people.They invited n people to the casting. The casting will last q days. On the ith of the days, Kostya and Zhenya want to find two people on the segment from l_i to r_i who are most suitable for their band. Since "Day movers" are doing a modern art, musical skills are not important to them and they look only at other signs: they want the height difference between two people to be as small as possible.Help them, and for each day, find the minimum difference in the growth of people from the casting on this segment!

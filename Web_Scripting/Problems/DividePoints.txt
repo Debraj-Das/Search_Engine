@@ -1,0 +1,9 @@
+Divide Points                    
+
+https://codeforces.com/problemset/problem/1270/E
+
+constructive algorithms
+
+2300
+
+You are given a set of n\ge 2 pairwise different points with integer coordinates. Your task is to partition these points into two nonempty groups A and B, such that the following condition holds:For every two points P and Q, write the Euclidean distance between them on the blackboard: if they belong to the same group — with a yellow pen, and if they belong to different groups — with a blue pen. Then no yellow number is equal to any blue number.It is guaranteed that such a partition exists for any possible input. If there exist multiple partitions, you are allowed to output any of them.

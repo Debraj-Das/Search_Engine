@@ -1,0 +1,9 @@
+Morning Jogging                    
+
+https://codeforces.com/problemset/problem/1517/B
+
+constructive algorithms
+
+1200
+
+The 2050 volunteers are organizing the "Run! Chase the Rising Sun" activity. Starting on Apr 25 at 7:30 am, runners will complete the 6km trail around the Yunqi town.There are n+1 checkpoints on the trail. They are numbered by 0, 1, ..., n. A runner must start at checkpoint 0 and finish at checkpoint n. No checkpoint is skippable — he must run from checkpoint 0 to checkpoint 1, then from checkpoint 1 to checkpoint 2 and so on. Look at the picture in notes section for clarification.Between any two adjacent checkpoints, there are m different paths to choose. For any 1\le i\le n, to run from checkpoint i-1 to checkpoint i, a runner can choose exactly one from the m possible paths. The length of the j-th path between checkpoint i-1 and i is b_{i,j} for any 1\le j\le m and 1\le i\le n.To test the trail, we have m runners. Each runner must run from the checkpoint 0 to the checkpoint n once, visiting all the checkpoints. Every path between every pair of adjacent checkpoints needs to be ran by exactly one runner. If a runner chooses the path of length l_i between checkpoint i-1 and i (1\le i\le n), his tiredness is \min_{i=1}^n l_i, i. e. the minimum length of the paths he takes.Please arrange the paths of the m runners to minimize the sum of tiredness of them.

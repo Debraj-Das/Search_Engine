@@ -1,0 +1,9 @@
+Spanning Tree with Maximum Degree                    
+
+https://codeforces.com/problemset/problem/1133/F1
+
+graphs
+
+1600
+
+You are given an undirected unweighted connected graph consisting of n vertices and m edges. It is guaranteed that there are no self-loops or multiple edges in the given graph.Your task is to find any spanning tree of this graph such that the maximum degree over all vertices is maximum possible. Recall that the degree of a vertex is the number of edges incident to it.

@@ -1,0 +1,9 @@
+Enlarge GCD                    
+
+https://codeforces.com/problemset/problem/1034/A
+
+number theory
+
+1800
+
+Mr. F has n positive integers, a_1, a_2, \ldots, a_n.He thinks the greatest common divisor of these integers is too small. So he wants to enlarge it by removing some of the integers.But this problem is too simple for him, so he does not want to do it by himself. If you help him, he will give you some scores in reward.Your task is to calculate the minimum number of integers you need to remove so that the greatest common divisor of the remaining integers is bigger than that of all integers.

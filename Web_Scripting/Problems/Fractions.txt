@@ -1,0 +1,9 @@
+Fractions                    
+
+https://codeforces.com/problemset/problem/1089/F
+
+math
+
+1900
+
+You are given a positive integer n.Find a sequence of fractions \frac{a_i}{b_i}, i = 1 \ldots k (where a_i and b_i are positive integers) for some k such that: \begin{cases} \text{b_i divides n, 1 < b_i < n for i = 1 \ldots k} \\ \text{1 \le a_i < b_i for i = 1 \ldots k} \\ \text{\sum\limits_{i=1}^k \frac{a_i}{b_i} = 1 - \frac{1}{n}} \end{cases} 

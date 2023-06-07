@@ -1,0 +1,9 @@
+Getting Zero                    
+
+https://codeforces.com/problemset/problem/1661/B
+
+bitmasks
+
+1300
+
+Suppose you have an integer v. In one operation, you can:   either set v = (v + 1) \bmod 32768  or set v = (2 \cdot v) \bmod 32768. You are given n integers a_1, a_2, \dots, a_n. What is the minimum number of operations you need to make each a_i equal to 0?

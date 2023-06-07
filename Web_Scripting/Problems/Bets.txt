@@ -1,0 +1,9 @@
+Bets                    
+
+httpscodeforcescomproblemsetproblem69B
+
+greedy
+
+1200
+
+In Chelyabinsk lives a much respected businessman Nikita with a strange nickname Boss Once Nikita decided to go with his friend Alex to the Summer Biathlon World Cup Nikita as a very important person received a token which allows to place bets on each section no more than on one competitorTo begin with friends learned the rules in the race there are n sections of equal length and m participants The participants numbered from 1 to m About each participant the following is known li  the number of the starting section  ri  the number of the finishing section liri ti  the time a biathlete needs to complete an section of the path ci  the profit in roubles If the ith sportsman wins on one of the sections the profit will be given to the man who had placed a bet on that sportsman The ith biathlete passes the sections from li to ri inclusive The competitor runs the whole way in rili1ti time units It takes him exactly ti time units to pass each section In case of the athletes victory on k sections the man who has betted on him receives kci roublesIn each section the winner is determined independently as follows if there is at least one biathlete running this in this section then among all of them the winner is the one who has ran this section in minimum time spent minimum time passing this section In case of equality of times the athlete with the smaller index number wins If there are no participants in this section then the winner in this section in not determined We have to say that in the summer biathlon all the participants are moving at a constant speedWe should also add that Nikita can bet on each section and on any contestant running in this sectionHelp the friends find the maximum possible profit

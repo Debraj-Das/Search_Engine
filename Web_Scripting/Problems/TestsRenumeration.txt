@@ -1,0 +1,9 @@
+Tests Renumeration                    
+
+httpscodeforcescomproblemsetproblem858E
+
+greedy
+
+2200
+
+The AllBerland National Olympiad in Informatics has just ended Now Vladimir wants to upload the contest from the Olympiad as a gym to a popular Codehorses websiteUnfortunately the archive with Olympiads data is a mess For example the files with tests are named arbitrary without any logicVladimir wants to rename the files with tests so that their names are distinct integers starting from 1 without any gaps namely 1 2  n where n is the total number of testsSome of the files contain tests from statements examples while others contain regular tests It is possible that there are no examples and it is possible that all tests are examples Vladimir wants to rename the files so that the examples are the first several tests all all the next files contain regular tests onlyThe only operation Vladimir can perform is the move command Vladimir wants to write a script file each of the lines in which is move file1 file2 that means that the file file1 is to be renamed to file2 If there is a file file2 at the moment of this line being run then this file is to be rewritten After the line move file1 file2 the file file1 doesnt exist but there is a file file2 with content equal to the content of file1 before the move commandHelp Vladimir to write the script file with the minimum possible number of lines so that after this script is run  all examples are the first several tests having filenames 1 2  e where e is the total number of examples  all other files contain regular tests with filenames e1 e2  n where n is the total number of all tests 

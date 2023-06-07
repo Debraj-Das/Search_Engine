@@ -1,0 +1,9 @@
+Middle of the Contest                    
+
+https://codeforces.com/problemset/problem/1133/A
+
+implementation
+
+1000
+
+Polycarp is going to participate in the contest. It starts at h_1:m_1 and ends at h_2:m_2. It is guaranteed that the contest lasts an even number of minutes (i.e. m_1 \% 2 = m_2 \% 2, where x \% y is x modulo y). It is also guaranteed that the entire contest is held during a single day. And finally it is guaranteed that the contest lasts at least two minutes.Polycarp wants to know the time of the midpoint of the contest. For example, if the contest lasts from 10:00 to 11:00 then the answer is 10:30, if the contest lasts from 11:10 to 11:12 then the answer is 11:11.

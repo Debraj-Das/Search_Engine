@@ -1,0 +1,9 @@
+Nuts                    
+
+httpscodeforcescomproblemsetproblem402A
+
+greedy
+
+1100
+
+You have a nuts and lots of boxes The boxes have a wonderful feature if you put x x0 divisors the spacial bars that can divide a box to it you get a box divided into x1 sectionsYou are minimalist Therefore on the one hand you are against dividing some box into more than k sections On the other hand you are against putting more than v nuts into some section of the box What is the minimum number of boxes you have to use if you want to put all the nuts in boxes and you have b divisorsPlease note that you need to minimize the number of used boxes not sections You do not have to minimize the number of used divisors

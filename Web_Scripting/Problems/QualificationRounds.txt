@@ -1,0 +1,9 @@
+Qualification Rounds                    
+
+https://codeforces.com/problemset/problem/868/C
+
+bitmasks
+
+1500
+
+Snark and Philip are preparing the problemset for the upcoming pre-qualification round for semi-quarter-finals. They have a bank of n problems, and they want to select any non-empty subset of it as a problemset.k experienced teams are participating in the contest. Some of these teams already know some of the problems. To make the contest interesting for them, each of the teams should know at most half of the selected problems.Determine if Snark and Philip can make an interesting problemset!

@@ -1,0 +1,9 @@
+Robot in Basement                    
+
+httpscodeforcescomproblemsetproblem97D
+
+bitmasks
+
+2700
+
+The Professor has lost his home robot yet again After some thinking Professor understood that he had left the robot in the basementThe basement in Professors house is represented by a rectangle nm split into 11 squares Some squares are walls which are impassable other squares are passable You can get from any passable square to any other passable square moving through edgeadjacent passable squares One passable square is the exit from the basement The robot is placed exactly in one passable square Also the robot may be placed in the exit squareProfessor is scared of going to the dark basement looking for the robot at night However he has a basement plan and the robots remote control Using the remote Professor can send signals to the robot to shift one square left right up or down When the robot receives a signal it moves in the required direction if the robots neighboring square in the given direction is passable Otherwise the robot stays idleProfessor wrote a sequence of k commands on a piece of paper He thinks that the sequence can lead the robot out of the basement wherever its initial position might be Professor programmed another robot to press the required buttons on the remote according to the notes on the piece of paper Professor was just about to run the program and go to bed when he had an epiphanyExecuting each command takes some energy and Professor doesnt want to get huge electricity bill at the end of the month Thats why he wants to find in the sequence he has written out the minimal possible prefix that would guarantee to lead the robot out to the exit after the prefix is fulfilled And thats the problem Professor challenges you with at this late hour

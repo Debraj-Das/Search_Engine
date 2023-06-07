@@ -1,0 +1,9 @@
+University Classes                    
+
+https://codeforces.com/problemset/problem/847/G
+
+implementation
+
+900
+
+There are n student groups at the university. During the study day, each group can take no more than 7 classes. Seven time slots numbered from 1 to 7 are allocated for the classes.The schedule on Monday is known for each group, i. e. time slots when group will have classes are known.Your task is to determine the minimum number of rooms needed to hold classes for all groups on Monday. Note that one room can hold at most one group class in a single time slot.

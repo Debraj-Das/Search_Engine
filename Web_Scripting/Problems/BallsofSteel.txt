@@ -1,0 +1,9 @@
+Balls of Steel                    
+
+https://codeforces.com/problemset/problem/1450/B
+
+brute force
+
+1000
+
+You have n distinct points (x_1, y_1),\ldots,(x_n,y_n) on the plane and a non-negative integer parameter k. Each point is a microscopic steel ball and k is the attract power of a ball when it's charged. The attract power is the same for all balls.In one operation, you can select a ball i to charge it. Once charged, all balls with Manhattan distance at most k from ball i move to the position of ball i. Many balls may have the same coordinate after an operation.More formally, for all balls j such that |x_i - x_j| + |y_i - y_j| \le k, we assign x_j:=x_i and y_j:=y_i.  An example of an operation. After charging the ball in the center, two other balls move to its position. On the right side, the red dot in the center is the common position of those balls. Your task is to find the minimum number of operations to move all balls to the same position, or report that this is impossible.

@@ -1,0 +1,9 @@
+The Child and Binary Tree                    
+
+httpscodeforcescomproblemsetproblem438E
+
+combinatorics
+
+3100
+
+Our child likes computer science very much especially he likes binary treesConsider the sequence of n distinct positive integers c1c2cn The child calls a vertexweighted rooted binary tree good if and only if for every vertex v the weight of v is in the set c1c2cn Also our child thinks that the weight of a vertexweighted tree is the sum of all vertices weightsGiven an integer m can you for all s 1sm calculate the number of good vertexweighted rooted binary trees with weight s Please check the samples for better understanding what trees are considered differentWe only want to know the answer modulo 998244353 7172231 a prime number

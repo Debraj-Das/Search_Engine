@@ -1,0 +1,9 @@
+Xormatic Number of the Graph                    
+
+httpscodeforcescomproblemsetproblem724G
+
+bitmasks
+
+2600
+
+You are given an undirected graph constisting of n vertices and m edges Each edge of the graph has some nonnegative integer written on itLets call a triple uvs interesting if 1uvn and there is a path possibly nonsimple ie it can visit the same vertices and edges multiple times between vertices u and v such that xor of all numbers written on the edges of this path is equal to s When we compute the value s for some path each edge is counted in xor as many times as it appear on this path Its not hard to prove that there are finite number of such triplesCalculate the sum over modulo 1097 of the values of s over all interesting triples

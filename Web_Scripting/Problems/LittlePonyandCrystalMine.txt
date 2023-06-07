@@ -1,0 +1,9 @@
+Little Pony and Crystal Mine                    
+
+httpscodeforcescomproblemsetproblem454A
+
+implementation
+
+800
+
+Twilight Sparkle once got a crystal from the Crystal Mine A crystal of size n n is odd n1 is an nn matrix with a diamond inscribed into itYou are given an odd integer n You need to draw a crystal of size n The diamond cells of the matrix should be represented by character D All other cells of the matrix should be represented by character  Look at the examples to understand what you need to draw

@@ -1,0 +1,9 @@
+Zero-Sum Prefixes                    
+
+https://codeforces.com/problemset/problem/1748/C
+
+brute force
+
+1600
+
+The score of an array v_1,v_2,\ldots,v_n is defined as the number of indices i (1 \le i \le n) such that v_1+v_2+\ldots+v_i = 0.You are given an array a_1,a_2,\ldots,a_n of length n. You can perform the following operation multiple times:  select an index i (1 \le i \le n) such that a_i=0;  then replace a_i by an arbitrary integer.  What is the maximum possible score of a that can be obtained by performing a sequence of such operations?

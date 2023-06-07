@@ -1,0 +1,9 @@
+Hits Different                    
+
+https://codeforces.com/problemset/problem/1829/G
+
+data structures
+
+1600
+
+In a carnival game, there is a huge pyramid of cans with 2023 rows, numbered in a regular pattern as shown. If can 9^2 is hit initially, then all cans colored red in the picture above would fall. You throw a ball at the pyramid, and it hits a single can with number n^2. This causes all cans that are stacked on top of this can to fall (that is, can n^2 falls, then the cans directly above n^2 fall, then the cans directly above those cans, and so on). For example, the picture above shows the cans that would fall if can 9^2 is hit.What is the sum of the numbers on all cans that fall? Recall that n^2 = n \times n.

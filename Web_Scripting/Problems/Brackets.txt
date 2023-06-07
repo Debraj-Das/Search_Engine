@@ -1,0 +1,9 @@
+Brackets                    
+
+httpscodeforcescomproblemsetproblem123C
+
+combinatorics
+
+2300
+
+A two dimensional array is called a bracket array if each grid contains one of the two possible brackets   or  A path through the two dimensional array cells is called monotonous if any two consecutive cells in the path are sideadjacent and each cell of the path is located below or to the right from the previous one A two dimensional array whose size equals nm is called a correct bracket array if any string formed by writing out the brackets on some monotonous way from cell 11 to cell nm forms a correct bracket sequence Lets define the operation of comparing two correct bracket arrays of equal size a and b like that Lets consider a given two dimensional array of priorities c  a two dimensional array of same size containing different integers from 1 to nm Lets find such position ij in the two dimensional array that aijbij If there are several such positions lets choose the one where number cij is minimum If aij then ab otherwise ab If the position ij is not found then the arrays are considered equalYour task is to find a kth two dimensional correct bracket array It is guaranteed that for the given sizes of n and m there will be no less than k two dimensional correct bracket arrays

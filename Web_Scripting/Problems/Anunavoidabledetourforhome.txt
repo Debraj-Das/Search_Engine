@@ -1,0 +1,9 @@
+An unavoidable detour for home                    
+
+httpscodeforcescomproblemsetproblem814E
+
+combinatorics
+
+2600
+
+Those unwilling to return home from a long journey will be affected by the oddity of the snail and lose their way Mayoi the odditys carrier wouldnt like this to happen but theres nothing to do with this before a cure is figured out For now she would only like to know the enormous number of possibilities to be faced with if someone gets lostThere are n towns in the region numbered from 1 to n The town numbered 1 is called the capital The traffic network is formed by bidirectional roads connecting pairs of towns No two roads connect the same pair of towns and no road connects a town with itself The time needed to travel through each of the roads is the same Lost travelers will not be able to find out how the towns are connected but the residents can help them by providing the following facts   Starting from each town other than the capital the shortest path ie the path passing through the minimum number of roads to the capital exists and is unique  Let li be the number of roads on the shortest path from town i to the capital then lili1 holds for all 2in  For town i the number of roads connected to it is denoted by di which equals either 2 or 3 You are to count the number of different ways in which the towns are connected and give the answer modulo 1097 Two ways of connecting towns are considered different if a pair uv 1uvn exists such there is a road between towns u and v in one of them but not in the other

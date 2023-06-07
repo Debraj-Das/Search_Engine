@@ -1,0 +1,9 @@
+One Bomb                    
+
+httpscodeforcescomproblemsetproblem699B
+
+implementation
+
+1400
+
+You are given a description of a depot It is a rectangular checkered field of nm size Each cell in a field can be empty  or it can be occupied by a wall  You have one bomb If you lay the bomb at the cell xy then after triggering it will wipe out all walls in the row x and all walls in the column yYou are to determine if it is possible to wipe out all walls in the depot by placing and triggering exactly one bomb The bomb can be laid both in an empty cell or in a cell occupied by a wall

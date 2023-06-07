@@ -1,0 +1,9 @@
+Colored Tree                    
+
+https://codeforces.com/problemset/problem/1260/F
+
+data structures
+
+2700
+
+You're given a tree with n vertices. The color of the i-th vertex is h_{i}.The value of the tree is defined as \sum\limits_{h_{i} = h_{j}, 1 \le i < j \le n}{dis(i,j)}, where dis(i,j) is the number of edges on the shortest path between i and j. The color of each vertex is lost, you only remember that h_{i} can be any integer from [l_{i}, r_{i}](inclusive). You want to calculate the sum of values of all trees meeting these conditions modulo 10^9 + 7 (the set of edges is fixed, but each color is unknown, so there are \prod\limits_{i = 1}^{n} (r_{i} - l_{i} + 1) different trees).

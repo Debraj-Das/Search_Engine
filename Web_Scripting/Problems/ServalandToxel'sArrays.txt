@@ -1,0 +1,9 @@
+Serval and Toxel's Arrays                    
+
+https://codeforces.com/problemset/problem/1789/C
+
+combinatorics
+
+1500
+
+Toxel likes arrays. Before traveling to the Paldea region, Serval gave him an array a as a gift. This array has n pairwise distinct elements.In order to get more arrays, Toxel performed m operations with the initial array. In the i-th operation, he modified the p_{i}-th element of the (i-1)-th array to v_{i}, resulting in the i-th array (the initial array a is numbered as 0). During modifications, Toxel guaranteed that the elements of each array are still pairwise distinct after each operation.Finally, Toxel got m+1 arrays and denoted them as A_{0}=a, A_{1},\ldots,A_{m}. For each pair (i,j) (0\le i<j\le m), Toxel defines its value as the number of distinct elements of the concatenation of A_{i} and A_{j}. Now Toxel wonders, what is the sum of the values of all pairs? Please help him to calculate the answer.

@@ -1,0 +1,9 @@
+Single Push                    
+
+https://codeforces.com/problemset/problem/1253/A
+
+implementation
+
+1000
+
+You're given two arrays a[1 \dots n] and b[1 \dots n], both of the same length n.In order to perform a push operation, you have to choose three integers l, r, k satisfying 1 \le l \le r \le n and k > 0. Then, you will add k to elements a_l, a_{l+1}, \ldots, a_r.For example, if a = [3, 7, 1, 4, 1, 2] and you choose (l = 3, r = 5, k = 2), the array a will become [3, 7, \underline{3, 6, 3}, 2].You can do this operation at most once. Can you make array a equal to array b?(We consider that a = b if and only if, for every 1 \le i \le n, a_i = b_i)

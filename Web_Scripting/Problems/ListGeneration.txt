@@ -1,0 +1,9 @@
+List Generation                    
+
+https://codeforces.com/problemset/problem/1747/E
+
+combinatorics
+
+2900
+
+For given integers n and m, let's call a pair of arrays a and b of integers good, if they satisfy the following conditions:   a and b have the same length, let their length be k. k \ge 2 and a_1 = 0, a_k = n, b_1 = 0, b_k = m. For each 1 < i \le k the following holds: a_i \geq a_{i - 1}, b_i \geq b_{i - 1}, and a_i + b_i \neq a_{i - 1} + b_{i - 1}.Find the sum of |a| over all good pairs of arrays (a,b). Since the answer can be very large, output it modulo 10^9 + 7.

@@ -1,0 +1,9 @@
+Vika and Segments                    
+
+https://codeforces.com/problemset/problem/610/D
+
+constructive algorithms
+
+2300
+
+Vika has an infinite sheet of squared paper. Initially all squares are white. She introduced a two-dimensional coordinate system on this sheet and drew n black horizontal and vertical segments parallel to the coordinate axes. All segments have width equal to 1 square, that means every segment occupy some set of neighbouring squares situated in one row or one column.Your task is to calculate the number of painted cells. If a cell was painted more than once, it should be calculated exactly once.

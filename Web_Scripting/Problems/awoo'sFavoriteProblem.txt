@@ -1,0 +1,9 @@
+awoo's Favorite Problem                    
+
+https://codeforces.com/problemset/problem/1697/C
+
+binary search
+
+1400
+
+You are given two strings s and t, both of length n. Each character in both string is 'a', 'b' or 'c'.In one move, you can perform one of the following actions:   choose an occurrence of "ab" in s and replace it with "ba";  choose an occurrence of "bc" in s and replace it with "cb". You are allowed to perform an arbitrary amount of moves (possibly, zero). Can you change string s to make it equal to string t?

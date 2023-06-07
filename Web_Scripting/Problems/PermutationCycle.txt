@@ -1,0 +1,9 @@
+Permutation Cycle                    
+
+httpscodeforcescomproblemsetproblem932C
+
+brute force
+
+1600
+
+For a permutation P1 N of integers from 1 to N function f is defined as follows  Let gi be the minimum positive integer j such that fiji We can show such j always existsFor given NAB find a permutation P of integers from 1 to N such that for 1iN gi equals either A or B

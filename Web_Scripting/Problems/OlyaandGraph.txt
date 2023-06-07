@@ -1,0 +1,9 @@
+Olya and Graph                    
+
+httpscodeforcescomproblemsetproblem305D
+
+combinatorics
+
+2200
+
+Olya has got a directed nonweighted graph consisting of n vertexes and m edges We will consider that the graph vertexes are indexed from 1 to n in some manner Then for any graph edge that goes from vertex v to vertex u the following inequation holds vuNow Olya wonders how many ways there are to add an arbitrary possibly zero number of edges to the graph so as the following conditions were met  You can reach vertexes number i1i2n from any vertex number i in  For any graph edge going from vertex v to vertex u the following inequation fulfills vu  There is at most one edge between any two vertexes  The shortest distance between the pair of vertexes ij ij for which jik holds equals ji edges  The shortest distance between the pair of vertexes ij ij for which jik holds equals either ji or jik edges  We will consider two ways distinct if there is the pair of vertexes ij ij such that first resulting graph has an edge from i to j and the second one doesnt have itHelp Olya As the required number of ways can be rather large print it modulo 1000000007 1097

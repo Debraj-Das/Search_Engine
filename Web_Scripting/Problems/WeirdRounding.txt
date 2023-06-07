@@ -1,0 +1,9 @@
+Weird Rounding                    
+
+httpscodeforcescomproblemsetproblem779B
+
+brute force
+
+1100
+
+Polycarp is crazy about round numbers He especially likes the numbers divisible by 10kIn the given number of n Polycarp wants to remove the least number of digits to get a number that is divisible by 10k For example if k3 in the number 30020 it is enough to delete a single digit 2 In this case the result is 3000 that is divisible by 1031000Write a program that prints the minimum number of digits to be deleted from the given integer number n so that the result is divisible by 10k The result should not start with the unnecessary leading zero ie zero can start only the number 0 which is required to be written as exactly one digitIt is guaranteed that the answer exists

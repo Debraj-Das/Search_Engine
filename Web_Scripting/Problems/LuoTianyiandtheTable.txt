@@ -1,0 +1,9 @@
+LuoTianyi and the Table                    
+
+https://codeforces.com/problemset/problem/1825/B
+
+greedy
+
+1000
+
+LuoTianyi gave an array b of n \cdot m integers. She asks you to construct a table a of size n \times m, filled with these n \cdot m numbers, and each element of the array must be used exactly once. Also she asked you to maximize the following value: \sum\limits_{i=1}^{n}\sum\limits_{j=1}^{m}\left(\max\limits_{1 \le x \le i, 1 \le y \le j}a_{x,y}-\min\limits_{1 \le x \le i, 1 \le y \le j}a_{x,y}\right) This means that we consider n \cdot m subtables with the upper left corner in (1,1) and the bottom right corner in (i, j) (1 \le i \le n, 1 \le j \le m), for each such subtable calculate the difference of the maximum and minimum elements in it, then sum up all these differences. You should maximize the resulting sum.Help her find the maximal possible value, you don't need to reconstruct the table itself.

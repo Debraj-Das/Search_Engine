@@ -1,0 +1,9 @@
+Urbanization                    
+
+https://codeforces.com/problemset/problem/735/B
+
+greedy
+
+1100
+
+Local authorities have heard a lot about combinatorial abilities of Ostap Bender so they decided to ask his help in the question of urbanization. There are n people who plan to move to the cities. The wealth of the i of them is equal to ai. Authorities plan to build two cities, first for n1 people and second for n2 people. Of course, each of n candidates can settle in only one of the cities. Thus, first some subset of candidates of size n1 settle in the first city and then some subset of size n2 is chosen among the remaining candidates and the move to the second city. All other candidates receive an official refuse and go back home.To make the statistic of local region look better in the eyes of their bosses, local authorities decided to pick subsets of candidates in such a way that the sum of arithmetic mean of wealth of people in each of the cities is as large as possible. Arithmetic mean of wealth in one city is the sum of wealth ai among all its residents divided by the number of them (n1 or n2 depending on the city). The division should be done in real numbers without any rounding.Please, help authorities find the optimal way to pick residents for two cities.

@@ -1,0 +1,9 @@
+Black Friday                    
+
+https://codeforces.com/problemset/problem/1431/C
+
+*special problem
+
+1600
+
+There is a local shop in your area getting prepared for the great holiday of Black Friday. There are n items with prices p_1, p_2, \dots, p_n on the display. They are ordered by price, so p_1 \le p_2 \le \dots \le p_n.The shop has a prechosen discount value k. The Black Friday discount is applied in the following way: for a single purchase of x items, you get the cheapest \lfloor \frac x k \rfloor items of them for free (\lfloor \frac x k \rfloor is x divided by k rounded down to the nearest integer). You can include each item in your purchase no more than once.For example, if there are items with prices [1, 1, 2, 2, 2, 3, 4, 5, 6] in the shop, and you buy items with prices [1, 2, 2, 4, 5], and k = 2, then you get the cheapest \lfloor \frac 5 2 \rfloor = 2 for free. They are items with prices 1 and 2.So you, being the naive customer, don't care about how much money you spend. However, you want the total price of the items you get for free to be as large as possible.What is the maximum total price of the items you can get for free on a single purchase?

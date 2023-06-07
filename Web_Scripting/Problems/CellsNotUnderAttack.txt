@@ -1,0 +1,9 @@
+Cells Not Under Attack                    
+
+httpscodeforcescomproblemsetproblem701B
+
+data structures
+
+1200
+
+Vasya has the square chessboard of size nn and m rooks Initially the chessboard is empty Vasya will consequently put the rooks on the board one after anotherThe cell of the field is under rooks attack if there is at least one rook located in the same row or in the same column with this cell If there is a rook located in the cell this cell is also under attackYou are given the positions of the board where Vasya will put rooks For each rook you have to determine the number of cells which are not under attack after Vasya puts it on the board

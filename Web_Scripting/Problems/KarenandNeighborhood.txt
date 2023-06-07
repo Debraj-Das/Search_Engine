@@ -1,0 +1,9 @@
+Karen and Neighborhood                    
+
+https://codeforces.com/problemset/problem/815/E
+
+binary search
+
+2900
+
+It's been long after the events of the previous problems, and Karen has now moved on from student life and is looking to relocate to a new neighborhood.  The neighborhood consists of n houses in a straight line, labelled 1 to n from left to right, all an equal distance apart.Everyone in this neighborhood loves peace and quiet. Because of this, whenever a new person moves into the neighborhood, he or she always chooses the house whose minimum distance to any occupied house is maximized. If there are multiple houses with the maximum possible minimum distance, he or she chooses the leftmost one.Note that the first person to arrive always moves into house 1.Karen is the k-th person to enter this neighborhood. If everyone, including herself, follows this rule, which house will she move into?

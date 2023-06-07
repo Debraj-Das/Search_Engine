@@ -1,0 +1,9 @@
+Matching Numbers                    
+
+https://codeforces.com/problemset/problem/1788/C
+
+constructive algorithms
+
+1300
+
+You are given an integer n. Pair the integers 1 to 2n (i.e. each integer should be in exactly one pair) so that each sum of matched pairs is consecutive and distinct. Formally, let (a_i, b_i) be the pairs that you matched. \{a_1, b_1, a_2, b_2, \ldots, a_n, b_n\} should be a permutation of \{1, 2, \ldots, 2n\}. Let the sorted list of \{a_1+b_1, a_2+b_2, \ldots, a_n+b_n\} be s_1 < s_2 < \ldots < s_n. We must have s_{i+1}-s_i = 1 for 1 \le i \le n - 1.

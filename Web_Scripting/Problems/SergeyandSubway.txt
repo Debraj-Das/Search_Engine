@@ -1,0 +1,9 @@
+Sergey and Subway                    
+
+https://codeforces.com/problemset/problem/1060/E
+
+dfs and similar
+
+2000
+
+Sergey Semyonovich is a mayor of a county city N and he used to spend his days and nights in thoughts of further improvements of Nkers' lives. Unfortunately for him, anything and everything has been done already, and there are no more possible improvements he can think of during the day (he now prefers to sleep at night). However, his assistants have found a solution and they now draw an imaginary city on a paper sheet and suggest the mayor can propose its improvements.Right now he has a map of some imaginary city with n subway stations. Some stations are directly connected with tunnels in such a way that the whole map is a tree (assistants were short on time and enthusiasm). It means that there exists exactly one simple path between each pair of station. We call a path simple if it uses each tunnel no more than once.One of Sergey Semyonovich's favorite quality objectives is the sum of all pairwise distances between every pair of stations. The distance between two stations is the minimum possible number of tunnels on a path between them.Sergey Semyonovich decided to add new tunnels to the subway map. In particular, he connected any two stations u and v that were not connected with a direct tunnel but share a common neighbor, i.e. there exists such a station w that the original map has a tunnel between u and w and a tunnel between w and v. You are given a task to compute the sum of pairwise distances between all pairs of stations in the new map.

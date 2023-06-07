@@ -1,0 +1,9 @@
+Valhalla Siege                    
+
+https://codeforces.com/problemset/problem/975/C
+
+binary search
+
+1400
+
+Ivar the Boneless is a great leader. He is trying to capture Kattegat from Lagertha. The war has begun and wave after wave Ivar's warriors are falling in battle.Ivar has n warriors, he places them on a straight line in front of the main gate, in a way that the i-th warrior stands right after (i-1)-th warrior. The first warrior leads the attack.Each attacker can take up to a_i arrows before he falls to the ground, where a_i is the i-th warrior's strength.Lagertha orders her warriors to shoot k_i arrows during the i-th minute, the arrows one by one hit the first still standing warrior. After all Ivar's warriors fall and all the currently flying arrows fly by, Thor smashes his hammer and all Ivar's warriors get their previous strengths back and stand up to fight again. In other words, if all warriors die in minute t, they will all be standing to fight at the end of minute t.The battle will last for q minutes, after each minute you should tell Ivar what is the number of his standing warriors.

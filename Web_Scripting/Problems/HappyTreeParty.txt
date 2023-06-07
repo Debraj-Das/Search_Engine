@@ -1,0 +1,9 @@
+Happy Tree Party                    
+
+httpscodeforcescomproblemsetproblem593D
+
+data structures
+
+2400
+
+Bogdan has a birthday today and mom gave him a tree consisting of n vertecies For every edge of the tree i some number xi was written on it In case you forget a tree is a connected nondirected graph without cycles After the present was granted m guests consecutively come to Bogdans party When the ith guest comes he performs exactly one of the two possible operations   Chooses some number yi and two vertecies ai and bi After that he moves along the edges of the tree from vertex ai to vertex bi using the shortest path of course such a path is unique in the tree Every time he moves along some edge j he replaces his current number yi by  that is by the result of integer division yi div xj  Chooses some edge pi and replaces the value written in it xpi by some positive integer cixpi As Bogdan cares about his guests he decided to ease the process Write a program that performs all the operations requested by guests and outputs the resulting value yi for each i of the first type

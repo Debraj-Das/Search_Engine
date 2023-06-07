@@ -1,0 +1,9 @@
+Reverse and Swap                    
+
+https://codeforces.com/problemset/problem/1401/F
+
+binary search
+
+2400
+
+You are given an array a of length 2^n. You should process q queries on it. Each query has one of the following 4 types:   Replace(x, k) — change a_x to k;  Reverse(k) — reverse each subarray [(i-1) \cdot 2^k+1, i \cdot 2^k] for all i (i \ge 1);  Swap(k) — swap subarrays [(2i-2) \cdot 2^k+1, (2i-1) \cdot 2^k] and [(2i-1) \cdot 2^k+1, 2i \cdot 2^k] for all i (i \ge 1);  Sum(l, r) — print the sum of the elements of subarray [l, r]. Write a program that can quickly process given queries.

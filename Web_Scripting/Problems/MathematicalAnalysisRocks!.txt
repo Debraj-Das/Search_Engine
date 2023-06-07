@@ -1,0 +1,9 @@
+Mathematical Analysis Rocks                    
+
+httpscodeforcescomproblemsetproblem180F
+
+constructive algorithms
+
+1200
+
+Students of group 199 have written their lectures dismally Now an exam on Mathematical Analysis is approaching and something has to be done asap that is quickly Lets number the students of the group from 1 to n Each student i 1in has a best friend pi 1pin In fact each student is a best friend of exactly one student In other words all pi are different It is possible that the group also has some really special individuals for who ipiEach student wrote exactly one notebook of lecture notes We know that the students agreed to act by the following algorithm   on the first day of revising each student studies his own Mathematical Analysis notes  in the morning of each following day each student gives the notebook to his best friend and takes a notebook from the student who calls him the best friend Thus on the second day the student pi 1in studies the ith students notes on the third day the notes go to student ppi and so on Due to some characteristics of the boys friendship see paragraph 1 each day each student has exactly one notebook to studyYou are given two sequences that describe the situation on the third and fourth days of revising  a1a2an where ai means the student who gets the ith students notebook on the third day of revising  b1b2bn where bi means the student who gets the ith students notebook on the fourth day of revising You do not know array p that is you do not know who is the best friend to who Write a program that finds p by the given sequences a and b

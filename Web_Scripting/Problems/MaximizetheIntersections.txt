@@ -1,0 +1,9 @@
+Maximize the Intersections                    
+
+https://codeforces.com/problemset/problem/1552/C
+
+combinatorics
+
+1800
+
+On a circle lie 2n distinct points, with the following property: however you choose 3 chords that connect 3 disjoint pairs of points, no point strictly inside the circle belongs to all 3 chords. The points are numbered 1, \, 2, \, \dots, \, 2n in clockwise order.Initially, k chords connect k pairs of points, in such a way that all the 2k endpoints of these chords are distinct.You want to draw n - k additional chords that connect the remaining 2(n - k) points (each point must be an endpoint of exactly one chord).In the end, let x be the total number of intersections among all n chords. Compute the maximum value that x can attain if you choose the n - k chords optimally.Note that the exact position of the 2n points is not relevant, as long as the property stated in the first paragraph holds.

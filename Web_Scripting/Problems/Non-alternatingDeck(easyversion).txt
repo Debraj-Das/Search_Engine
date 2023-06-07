@@ -1,0 +1,9 @@
+Non-alternating Deck (easy version)                    
+
+https://codeforces.com/problemset/problem/1786/A1
+
+implementation
+
+800
+
+This is an easy version of the problem. In this version, all cards have the same color.Alice has n cards, each card is white, and the cards are stacked in a deck. Alice deals the cards to herself and to Bob, dealing at once several cards from the top of the deck in the following order: one card to herself, two cards to Bob, three cards to Bob, four cards to herself, five cards to herself, six cards to Bob, seven cards to Bob, eight cards to herself, and so on. In other words, on the i-th step, Alice deals i top cards from the deck to one of the players; on the first step, she deals the cards to herself and then alternates the players every two steps. When there aren't enough cards at some step, Alice deals all the remaining cards to the current player, and the process stops.  First Alice's steps in a deck of many cards. How many cards will Alice and Bob have at the end?

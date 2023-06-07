@@ -1,0 +1,9 @@
+Hemose Shopping                    
+
+https://codeforces.com/problemset/problem/1592/B
+
+constructive algorithms
+
+1200
+
+Hemose was shopping with his friends Samez, AhmedZ, AshrafEzz, TheSawan and O_E in Germany. As you know, Hemose and his friends are problem solvers, so they are very clever. Therefore, they will go to all discount markets in Germany.Hemose has an array of n integers. He wants Samez to sort the array in the non-decreasing order. Since it would be a too easy problem for Samez, Hemose allows Samez to use only the following operation:Choose indices i and j such that 1 \le i, j \le n, and \lvert i - j \rvert \geq x. Then, swap elements a_i and a_j.Can you tell Samez if there's a way to sort the array in the non-decreasing order by using the operation written above some finite number of times (possibly 0)?

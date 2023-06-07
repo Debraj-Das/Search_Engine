@@ -1,0 +1,9 @@
+Cutting the Line                    
+
+httpscodeforcescomproblemsetproblem594E
+
+string suffix structures
+
+3100
+
+You are given a nonempty line s and an integer k The following operation is performed with this line exactly once  A line is split into at most k nonempty substrings ie string s is represented as a concatenation of a set of strings st1t2tm 1mk  Some of strings ti are replaced by strings tir that is their record from right to left  The lines are concatenated back in the same order we get string st1t2 tm where ti equals ti or tir Your task is to determine the lexicographically smallest string that could be the result of applying the given operation to the string s

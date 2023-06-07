@@ -1,0 +1,9 @@
+Power Products                    
+
+https://codeforces.com/problemset/problem/1225/D
+
+hashing
+
+1800
+
+You are given n positive integers a_1, \ldots, a_n, and an integer k \geq 2. Count the number of pairs i, j such that 1 \leq i < j \leq n, and there exists an integer x such that a_i \cdot a_j = x^k.

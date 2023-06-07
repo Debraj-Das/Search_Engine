@@ -1,0 +1,9 @@
+Points                    
+
+httpscodeforcescomproblemsetproblem19D
+
+data structures
+
+2800
+
+Pete and Bob invented a new interesting game Bob takes a sheet of paper and locates a Cartesian coordinate system on it as follows point 00 is located in the bottomleft corner Ox axis is directed right Oy axis is directed up Pete gives Bob requests of three types   add x y  on the sheet of paper Bob marks a point with coordinates xy For each request of this type its guaranteed that point xy is not yet marked on Bobs sheet at the time of the request  remove x y  on the sheet of paper Bob erases the previously marked point with coordinates xy For each request of this type its guaranteed that point xy is already marked on Bobs sheet at the time of the request  find x y  on the sheet of paper Bob finds all the marked points lying strictly above and strictly to the right of point xy Among these points Bob chooses the leftmost one if it is not unique he chooses the bottommost one and gives its coordinates to Pete Bob managed to answer the requests when they were 10 100 or 1000 but when their amount grew up to 2105 Bob failed to cope Now he needs a program that will answer all Petes requests Help Bob please

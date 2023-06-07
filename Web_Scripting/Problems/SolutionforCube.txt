@@ -1,0 +1,9 @@
+Solution for Cube                    
+
+https://codeforces.com/problemset/problem/887/C
+
+brute force
+
+1500
+
+During the breaks between competitions, top-model Izabella tries to develop herself and not to be bored. For example, now she tries to solve Rubik's cube 2x2x2.It's too hard to learn to solve Rubik's cube instantly, so she learns to understand if it's possible to solve the cube in some state using 90-degrees rotation of one face of the cube in any direction.To check her answers she wants to use a program which will for some state of cube tell if it's possible to solve it using one rotation, described above.Cube is called solved if for each face of cube all squares on it has the same color.https://en.wikipedia.org/wiki/Rubik's_Cube

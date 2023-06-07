@@ -1,0 +1,9 @@
+Sereja and Array                    
+
+httpscodeforcescomproblemsetproblem315B
+
+implementation
+
+1200
+
+Sereja has got an array consisting of n integers a1a2an Sereja is an active boy so he is now going to complete m operations Each operation will have one of the three forms  Make vith array element equal to xi In other words perform the assignment avixi  Increase each array element by yi In other words perform n assignments aiaiyi 1in  Take a piece of paper and write out the qith array element That is the element aqi Help Sereja complete all his operations

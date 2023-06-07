@@ -1,0 +1,9 @@
+Artem and Array                     
+
+httpscodeforcescomproblemsetproblem442C
+
+data structures
+
+2500
+
+Artem has an array of n positive integers Artem decided to play with it The game consists of n moves Each move goes like this Artem chooses some element of the array and removes it For that he gets minab points where a and b are numbers that were adjacent with the removed number If the number doesnt have an adjacent number to the left or right Artem doesnt get any points After the element is removed the two parts of the array glue together resulting in the new array that Artem continues playing with Borya wondered what maximum total number of points Artem can get as he plays this game

@@ -1,0 +1,9 @@
+BinaryStringForces                    
+
+https://codeforces.com/problemset/problem/1750/H
+
+constructive algorithms
+
+3500
+
+You are given a binary string s of length n. We define a maximal substring as a substring that cannot be extended while keeping all elements equal. For example, in the string 11000111 there are three maximal substrings: 11, 000 and 111.In one operation, you can select two maximal adjacent substrings. Since they are maximal and adjacent, it's easy to see their elements must have different values. Let a be the length of the sequence of ones and b be the length of the sequence of zeros. Then do the following: If a \ge b, then replace b selected zeros with b ones.  If a < b, then replace a selected ones with a zeros.As an example, for 1110000 we make it 0000000, for 0011 we make it 1111. We call a string being good if it can be turned into 1111...1111 using the aforementioned operation any number of times (possibly, zero). Find the number of good substrings among all \frac{n(n+1)}{2} non-empty substrings of s.

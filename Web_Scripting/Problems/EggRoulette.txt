@@ -1,0 +1,9 @@
+Egg Roulette                    
+
+httpscodeforcescomproblemsetproblem865F
+
+bitmasks
+
+3300
+
+The game of Egg Roulette is played between two players Initially 2R raw eggs and 2C cooked eggs are placed randomly into a carton The shells are left on so there is no way to distinguish a raw egg from a cooked egg One at a time a player will select an egg and then smash the egg on hisher forehead If the egg was cooked not much happens but if the egg was raw it will make quite the mess This continues until one player has broken R raw eggs at which point that player is declared the loser and the other player winsThe order in which players take turns can be described as a string of A and B characters where the ith character tells which player should choose the ith egg Traditionally players take turns going one after the other That is they follow the ordering ABABAB This isnt very fair though because the second player will win more often than the first Wed like you to find a better ordering for the players to take their turns Lets define the unfairness of an ordering as the absolute difference between the first players win probability and the second players win probability Were interested in orderings that minimize the unfairness We only consider an ordering valid if it contains the same number of As as BsYou will also be given a string S of length 2RC containing only A B and  characters An ordering is said to match S if it only differs from S in positions where S contains a  Of the valid orderings that minimize unfairness how many match S

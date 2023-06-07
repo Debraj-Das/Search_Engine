@@ -1,0 +1,9 @@
+Careful Maneuvering                    
+
+https://codeforces.com/problemset/problem/993/C
+
+bitmasks
+
+2100
+
+There are two small spaceship, surrounded by two groups of enemy larger spaceships. The space is a two-dimensional plane, and one group of the enemy spaceships is positioned in such a way that they all have integer y-coordinates, and their x-coordinate is equal to -100, while the second group is positioned in such a way that they all have integer y-coordinates, and their x-coordinate is equal to 100.Each spaceship in both groups will simultaneously shoot two laser shots (infinite ray that destroys any spaceship it touches), one towards each of the small spaceships, all at the same time. The small spaceships will be able to avoid all the laser shots, and now want to position themselves at some locations with x=0 (with not necessarily integer y-coordinates), such that the rays shot at them would destroy as many of the enemy spaceships as possible. Find the largest numbers of spaceships that can be destroyed this way, assuming that the enemy spaceships can't avoid laser shots.

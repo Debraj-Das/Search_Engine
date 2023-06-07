@@ -1,0 +1,9 @@
+ConneR and the A.R.C. Markland-N                    
+
+https://codeforces.com/problemset/problem/1293/A
+
+binary search
+
+1100
+
+Sakuzyo - ImprintingA.R.C. Markland-N is a tall building with n floors numbered from 1 to n. Between each two adjacent floors in the building, there is a staircase connecting them.It's lunchtime for our sensei Colin "ConneR" Neumann Jr, and he's planning for a location to enjoy his meal.ConneR's office is at floor s of the building. On each floor (including floor s, of course), there is a restaurant offering meals. However, due to renovations being in progress, k of the restaurants are currently closed, and as a result, ConneR can't enjoy his lunch there.CooneR wants to reach a restaurant as quickly as possible to save time. What is the minimum number of staircases he needs to walk to reach a closest currently open restaurant.Please answer him quickly, and you might earn his praise and even enjoy the lunch with him in the elegant Neumanns' way!

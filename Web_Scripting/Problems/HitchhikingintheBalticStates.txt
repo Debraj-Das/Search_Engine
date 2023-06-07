@@ -1,0 +1,9 @@
+Hitchhiking in the Baltic States                    
+
+httpscodeforcescomproblemsetproblem809D
+
+data structures
+
+2900
+
+Leha and Noora decided to go on a trip in the Baltic States As you know from the previous problem Leha has lost his car on the parking of the restaurant Unfortunately requests to the watchman didnt helped hacker find the car so friends decided to go hitchhikingIn total they intended to visit n towns However it turned out that sights in ith town are open for visitors only on days from li to riWhat to do Leha proposed to choose for each town i a day when they will visit this town ie any integer xi in interval liri After that Noora choses some subsequence of towns id1id2idk which friends are going to visit that at first they are strictly increasing ie idiidi1 is for all integers i from 1 to k1 but also the dates of the friends visits are strictly increasing ie xidixidi1 is true for all integers i from 1 to k1Please help Leha and Noora in choosing such xi for each town i and such subsequence of towns id1id2idk so that friends can visit maximal number of townsYou may assume that Leha and Noora can start the trip any day

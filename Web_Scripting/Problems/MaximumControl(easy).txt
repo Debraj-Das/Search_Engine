@@ -1,0 +1,9 @@
+Maximum Control (easy)                    
+
+https://codeforces.com/problemset/problem/958/B1
+
+implementation
+
+1000
+
+The Resistance is trying to take control over all planets in a particular solar system. This solar system is shaped like a tree. More precisely, some planets are connected by bidirectional hyperspace tunnels in such a way that there is a path between every pair of the planets, but removing any tunnel would disconnect some of them.The Resistance already has measures in place that will, when the time is right, enable them to control every planet that is not remote. A planet is considered to be remote if it is connected to the rest of the planets only via a single hyperspace tunnel.How much work is there left to be done: that is, how many remote planets are there?

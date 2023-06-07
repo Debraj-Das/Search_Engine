@@ -1,0 +1,9 @@
+Maximums and Minimums                    
+
+https://codeforces.com/problemset/problem/1730/E
+
+combinatorics
+
+2700
+
+You are given an array a_1, a_2, \ldots, a_n of positive integers.Find the number of pairs of indices (l, r), where 1 \le l \le r \le n, that pass the check. The check is performed in the following manner:   The minimum and maximum numbers are found among a_l, a_{l+1}, \ldots, a_r.  The check is passed if the maximum number is divisible by the minimum number. 

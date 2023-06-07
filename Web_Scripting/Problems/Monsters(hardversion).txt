@@ -1,0 +1,9 @@
+Monsters (hard version)                    
+
+https://codeforces.com/problemset/problem/1784/C
+
+data structures
+
+2200
+
+This is the hard version of the problem. In this version, you need to find the answer for every prefix of the monster array.In a computer game, you are fighting against n monsters. Monster number i has a_i health points, all a_i are integers. A monster is alive while it has at least 1 health point.You can cast spells of two types:  Deal 1 damage to any single alive monster of your choice.  Deal 1 damage to all alive monsters. If at least one monster dies (ends up with 0 health points) as a result of this action, then repeat it (and keep repeating while at least one monster dies every time). Dealing 1 damage to a monster reduces its health by 1.Spells of type 1 can be cast any number of times, while a spell of type 2 can be cast at most once during the game.For every k = 1, 2, \ldots, n, answer the following question. Suppose that only the first k monsters, with numbers 1, 2, \ldots, k, are present in the game. What is the smallest number of times you need to cast spells of type 1 to kill all k monsters?

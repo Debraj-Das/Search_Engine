@@ -1,0 +1,9 @@
+Splitting in Teams                    
+
+https://codeforces.com/problemset/problem/899/A
+
+constructive algorithms
+
+800
+
+There were n groups of students which came to write a training contest. A group is either one person who can write the contest with anyone else, or two people who want to write the contest in the same team.The coach decided to form teams of exactly three people for this training. Determine the maximum number of teams of three people he can form. It is possible that he can't use all groups to form teams. For groups of two, either both students should write the contest, or both should not. If two students from a group of two will write the contest, they should be in the same team.

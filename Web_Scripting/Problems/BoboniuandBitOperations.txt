@@ -1,0 +1,9 @@
+Boboniu and Bit Operations                    
+
+https://codeforces.com/problemset/problem/1395/C
+
+bitmasks
+
+1600
+
+Boboniu likes bit operations. He wants to play a game with you.Boboniu gives you two sequences of non-negative integers a_1,a_2,\ldots,a_n and b_1,b_2,\ldots,b_m.For each i (1\le i\le n), you're asked to choose a j (1\le j\le m) and let c_i=a_i\& b_j, where \& denotes the bitwise AND operation. Note that you can pick the same j for different i's.Find the minimum possible c_1 | c_2 | \ldots | c_n, where | denotes the bitwise OR operation.

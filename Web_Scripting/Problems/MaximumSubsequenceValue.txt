@@ -1,0 +1,9 @@
+Maximum Subsequence Value                    
+
+https://codeforces.com/problemset/problem/1365/E
+
+brute force
+
+1900
+
+Ridhiman challenged Ashish to find the maximum valued subsequence of an array a of size n consisting of positive integers. The value of a non-empty subsequence of k elements of a is defined as \sum 2^i over all integers i \ge 0 such that at least \max(1, k - 2) elements of the subsequence have the i-th bit set in their binary representation (value x has the i-th bit set in its binary representation if \lfloor \frac{x}{2^i} \rfloor \mod 2 is equal to 1). Recall that b is a subsequence of a, if b can be obtained by deleting some(possibly zero) elements from a.Help Ashish find the maximum value he can get by choosing some subsequence of a.

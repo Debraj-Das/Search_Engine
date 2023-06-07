@@ -1,0 +1,9 @@
+Two Sets                    
+
+httpscodeforcescomproblemsetproblem251D
+
+bitmasks
+
+2700
+
+Little Petya likes numbers a lot Recently his mother has presented him a collection of n nonnegative integers Theres only one thing Petya likes more than numbers playing with little Masha He immediately decided to give a part of his new collection to her To make the game even more interesting Petya decided to give Masha such collection of numbers for which the following conditions fulfill  Lets introduce x1 to denote the xor of all numbers Petya has got left and lets introduce x2 to denote the xor of all numbers he gave to Masha Value x1x2 must be as large as possible  If there are multiple ways to divide the collection so that the previous condition fulfilled then Petya minimizes the value x1 The xor operation is a bitwise excluding OR that is denoted as xor in the Pascal language and  in CCJavaHelp Petya divide the collection as described above If there are multiple suitable ways to divide it find any of them Please note that after Petya gives a part of his numbers to Masha he may have no numbers left The reverse situation is also possible when Petya gives nothing to Masha In both cases we must assume that the xor of an empty set of numbers equals 0

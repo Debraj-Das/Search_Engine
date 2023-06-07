@@ -1,0 +1,9 @@
+Supercentral Point                    
+
+httpscodeforcescomproblemsetproblem165A
+
+implementation
+
+1000
+
+One day Vasya painted a Cartesian coordinate system on a piece of paper and marked some set of points x1y1x2y2xnyn Lets define neighbors for some fixed point from the given set xy   point xy is xys right neighbor if xx and yy  point xy is xys left neighbor if xx and yy  point xy is xys lower neighbor if xx and yy  point xy is xys upper neighbor if xx and yy Well consider point xy from the given set supercentral if it has at least one upper at least one lower at least one left and at least one right neighbor among this sets pointsVasya marked quite many points on the paper Analyzing the picture manually is rather a challenge so Vasya asked you to help him Your task is to find the number of supercentral points in the given set

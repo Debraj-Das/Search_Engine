@@ -1,0 +1,9 @@
+Multijudge Solving                    
+
+httpscodeforcescomproblemsetproblem825C
+
+greedy
+
+1600
+
+Makes solves problems on Decoforces and lots of other different online judges Each problem is denoted by its difficulty  a positive integer number Difficulties are measured the same across all the judges the problem with difficulty d on Decoforces is as hard as the problem with difficulty d on any other judge Makes has chosen n problems to solve on Decoforces with difficulties a1a2an He can solve these problems in arbitrary order Though he can solve problem i with difficulty ai only if he had already solved some problem with difficulty  no matter on what online judge was itBefore starting this chosen list of problems Makes has already solved problems with maximum difficulty kWith given conditions its easy to see that Makes sometimes cant solve all the chosen problems no matter what order he chooses So he wants to solve some problems on other judges to finish solving problems from his list For every positive integer y there exist some problem with difficulty y on at least one judge besides DecoforcesMakes can solve problems on any judge at any time it isnt necessary to do problems from the chosen list one right after anotherMakes doesnt have too much free time so he asked you to calculate the minimum number of problems he should solve on other judges in order to solve all the chosen problems from Decoforces

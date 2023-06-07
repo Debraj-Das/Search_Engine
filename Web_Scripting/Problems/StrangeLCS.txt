@@ -1,0 +1,9 @@
+Strange LCS                    
+
+https://codeforces.com/problemset/problem/1584/F
+
+bitmasks
+
+2600
+
+You are given n strings s_1, s_2, \ldots, s_n, each consisting of lowercase and uppercase English letters. In addition, it's guaranteed that each character occurs in each string at most twice. Find the longest common subsequence of these strings.A string t is a subsequence of a string s if t can be obtained from s by deletion of several (possibly, zero or all) symbols.

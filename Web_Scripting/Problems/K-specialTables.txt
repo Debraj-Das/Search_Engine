@@ -1,0 +1,9 @@
+Kspecial Tables                    
+
+httpscodeforcescomproblemsetproblem625C
+
+constructive algorithms
+
+1300
+
+People do many crazy things to stand out in a crowd Some of them dance some learn by heart rules of Russian language some try to become an outstanding competitive programmers while others collect funny math objectsAlis is among these collectors Right now she wants to get one of kspecial tables In case you forget the table nn is called kspecial if the following three conditions are satisfied  every integer from 1 to n2 appears in the table exactly once  in each row numbers are situated in increasing order  the sum of numbers in the kth column is maximum possible Your goal is to help Alice and find at least one kspecial table of size nn Both rows and columns are numbered from 1 to n with rows numbered from top to bottom and columns numbered from left to right

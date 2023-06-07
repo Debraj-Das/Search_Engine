@@ -1,0 +1,9 @@
+Segment Covering                    
+
+https://codeforces.com/problemset/problem/1774/G
+
+brute force
+
+3200
+
+ChthollyNotaSeniorious gives DataStructures a number axis with m distinct segments on it. Let f(l,r) be the number of ways to choose an even number of segments such that the union of them is exactly [l,r], and g(l,r) be the number of ways to choose an odd number of segments such that the union of them is exactly [l,r].ChthollyNotaSeniorious asked DataStructures q questions. In each query, ChthollyNotaSeniorious will give DataStructures two numbers l, r, and now he wishes that you can help him find the value f(l,r)-g(l,r) modulo 998\,244\,353 so that he wouldn't let her down. 

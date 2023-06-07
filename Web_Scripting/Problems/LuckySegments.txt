@@ -1,0 +1,9 @@
+Lucky Segments                    
+
+httpscodeforcescomproblemsetproblem121D
+
+binary search
+
+2500
+
+Petya loves lucky numbers Everybody knows that lucky numbers are positive integers whose decimal representation contains only the lucky digits 4 and 7 For example numbers 47 744 4 are lucky and 5 17 467 are notPetya has n number segments l1r1 l2r2  lnrn During one move Petya can take any segment let it be segment number i and replace it with segment li1ri1 or li1ri1 In other words during one move Petya can shift any segment to the left or to the right by a unit distance Petya calls a number full if it belongs to each segment That is number x is full if for any i 1in the condition lixri is fulfilledPetya makes no more than k moves After that he counts the quantity of full lucky numbers Find the maximal quantity that he can get

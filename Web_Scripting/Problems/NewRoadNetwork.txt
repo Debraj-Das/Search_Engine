@@ -1,0 +1,9 @@
+New Road Network                    
+
+https://codeforces.com/problemset/problem/1054/G
+
+constructive algorithms
+
+3300
+
+The king of some country N decided to completely rebuild the road network. There are n people living in the country, they are enumerated from 1 to n. It is possible to construct a road between the house of any citizen a to the house of any other citizen b. There should not be more than one road between any pair of citizens. The road network must be connected, i.e. it should be possible to reach every citizen starting from anyone using roads. To save funds, it was decided to build exactly n-1 road, so the road network should be a tree.However, it is not that easy as it sounds, that's why the king addressed you for help. There are m secret communities in the country, each of them unites a non-empty subset of citizens. The king does not want to conflict with any of the communities, so he wants to build the network such that the houses of members of each society form a connected subtree in network. A set of vertices forms a connected subtree if and only if the graph remains connected when we delete all the other vertices and all edges but ones that connect the vertices from the set.Help the king to determine if it is possible to build the desired road network, and if it is, build it.

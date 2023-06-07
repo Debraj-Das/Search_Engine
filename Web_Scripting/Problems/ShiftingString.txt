@@ -1,0 +1,9 @@
+Shifting String                    
+
+https://codeforces.com/problemset/problem/1690/F
+
+graphs
+
+1700
+
+Polycarp found the string s and the permutation p. Their lengths turned out to be the same and equal to n.A permutation of n elements — is an array of length n, in which every integer from 1 to n occurs exactly once. For example, [1, 2, 3] and [4, 3, 5, 1, 2] are permutations, but [1, 2, 4], [4, 3, 2, 1, 2] and [0, 1, 2] are not.In one operation he can multiply s by p, so he replaces s with string new, in which for any i from 1 to n it is true that new_i = s_{p_i}. For example, with s=wmbe and p = [3, 1, 4, 2], after operation the string will turn to s=s_3 s_1 s_4 s_2=bwem.Polycarp wondered after how many operations the string would become equal to its initial value for the first time. Since it may take too long, he asks for your help in this matter.It can be proved that the required number of operations always exists. It can be very large, so use a 64-bit integer type. 

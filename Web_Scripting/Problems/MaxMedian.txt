@@ -1,0 +1,9 @@
+Max Median                    
+
+https://codeforces.com/problemset/problem/1486/D
+
+binary search
+
+2100
+
+You are a given an array a of length n. Find a subarray a[l..r] with length at least k with the largest median.A median in an array of length n is an element which occupies position number \lfloor \frac{n + 1}{2} \rfloor after we sort the elements in non-decreasing order. For example: median([1, 2, 3, 4]) = 2, median([3, 2, 1]) = 2, median([2, 1, 2, 1]) = 1.Subarray a[l..r] is a contiguous part of the array a, i. e. the array a_l,a_{l+1},\ldots,a_r for some 1 \leq l \leq r \leq n, its length is r - l + 1.

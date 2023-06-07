@@ -1,0 +1,9 @@
+Vicious Keyboard                    
+
+https://codeforces.com/problemset/problem/801/A
+
+brute force
+
+1100
+
+Tonio has a keyboard with only two letters, "V" and "K".One day, he has typed out a string s with only these two letters. He really likes it when the string "VK" appears, so he wishes to change at most one letter in the string (or do no changes) to maximize the number of occurrences of that string. Compute the maximum number of times "VK" can appear as a substring (i. e. a letter "K" right after a letter "V") in the resulting string.

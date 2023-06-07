@@ -1,0 +1,9 @@
+Array Recovery                    
+
+https://codeforces.com/problemset/problem/1739/B
+
+constructive algorithms
+
+1100
+
+For an array of non-negative integers a of size n, we construct another array d as follows: d_1 = a_1, d_i = |a_i - a_{i - 1}| for 2 \le i \le n.Your task is to restore the array a from a given array d, or to report that there are multiple possible arrays. 

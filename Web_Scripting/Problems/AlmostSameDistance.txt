@@ -1,0 +1,9 @@
+Almost Same Distance                    
+
+https://codeforces.com/problemset/problem/1266/F
+
+dfs and similar
+
+2900
+
+Let G be a simple graph. Let W be a non-empty subset of vertices. Then W is almost-k-uniform if for each pair of distinct vertices u,v \in W the distance between u and v is either k or k+1.You are given a tree on n vertices. For each i between 1 and n, find the maximum size of an almost-i-uniform set.

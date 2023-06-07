@@ -1,0 +1,9 @@
+Not Wool Sequences                    
+
+httpscodeforcescomproblemsetproblem238A
+
+constructive algorithms
+
+1300
+
+A sequence of nonnegative integers a1a2an of length n is called a wool sequence if and only if there exists two integers l and r 1lrn such that  In other words each wool sequence contains a subsequence of consecutive elements with xor equal to 0The expression  means applying the operation of a bitwise xor to numbers x and y The given operation exists in all modern programming languages for example in languages C and Java it is marked as  in Pascal  as xorIn this problem you are asked to compute the number of sequences made of n integers from 0 to 2m1 that are not a wool sequence You should print this number modulo 1000000009 1099

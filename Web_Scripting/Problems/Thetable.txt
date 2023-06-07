@@ -1,0 +1,9 @@
+The table                    
+
+httpscodeforcescomproblemsetproblem226D
+
+constructive algorithms
+
+2100
+
+Harry Potter has a difficult homework Given a rectangular table consisting of nm cells Each cell of the table contains the integer Harry knows how to use two spells the first spell change the sign of the integers in the selected row the second  in the selected column Harrys task is to make nonnegative the sum of the numbers in each row and each column using these spellsAlone the boy can not cope Help the young magician

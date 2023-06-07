@@ -1,0 +1,9 @@
+Splitting the Uniqueness                    
+
+httpscodeforcescomproblemsetproblem297C
+
+constructive algorithms
+
+2400
+
+Polar bears like unique arrays  that is arrays without repeated elements You have got a unique array s with length n containing nonnegative integers Since you are good friends with Alice and Bob you decide to split the array in two Precisely you need to construct two arrays a and b that are also of length n with the following conditions for all i 1in  aibi are nonnegative integers  siaibi  Ideally a and b should also be unique arrays However life in the Arctic is hard and this is not always possible Fortunately Alice and Bob are still happy if their arrays are almost unique We define an array of length n to be almost unique if and only if it can be turned into a unique array by removing no more than  entriesFor example the array 12132 is almost unique because after removing the first two entries it becomes 132 The array 121312 is not almost unique because we need to remove at least 3 entries to turn it into a unique arraySo your task is to split the given unique array s into two almost unique arrays a and b

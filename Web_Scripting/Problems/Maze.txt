@@ -1,0 +1,9 @@
+Maze                    
+
+https://codeforces.com/problemset/problem/123/E
+
+dfs and similar
+
+2500
+
+A maze is represented by a tree (an undirected graph, where exactly one way exists between each pair of vertices). In the maze the entrance vertex and the exit vertex are chosen with some probability. The exit from the maze is sought by Deep First Search. If there are several possible ways to move, the move is chosen equiprobably. Consider the following pseudo-code:DFS(x)    if x == exit vertex then        finish search    flag[x] <- TRUE    random shuffle the vertices' order in V(x) // here all permutations have equal probability to be chosen    for i <- 1 to length[V] do        if flag[V[i]] = FALSE then            count++;            DFS(y);    count++;V(x) is the list vertices adjacent to x. The flag array is initially filled as FALSE. DFS initially starts with a parameter of an entrance vertex. When the search is finished, variable count will contain the number of moves.Your task is to count the mathematical expectation of the number of moves one has to do to exit the maze.

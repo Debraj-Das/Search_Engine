@@ -1,0 +1,9 @@
+Sea and Islands                    
+
+httpscodeforcescomproblemsetproblem544B
+
+constructive algorithms
+
+1400
+
+A map of some object is a rectangular field consisting of n rows and n columns Each cell is initially occupied by the sea but you can cover some some cells of the map with sand so that exactly k islands appear on the map We will call a set of sand cells to be island if it is possible to get from each of them to each of them by moving only through sand cells and by moving from a cell only to a sideadjacent cell The cells are called to be sideadjacent if they share a vertical or horizontal side It is easy to see that islands do not share cells otherwise they together form a bigger islandFind a way to cover some cells with sand so that exactly k islands appear on the nn map or determine that no such way exists 

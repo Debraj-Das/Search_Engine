@@ -1,0 +1,9 @@
+Orray                    
+
+https://codeforces.com/problemset/problem/1742/G
+
+bitmasks
+
+1500
+
+You are given an array a consisting of n nonnegative integers. Let's define the prefix OR array b as the array b_i = a_1~\mathsf{OR}~a_2~\mathsf{OR}~\dots~\mathsf{OR}~a_i, where \mathsf{OR} represents the bitwise OR operation. In other words, the array b is formed by computing the \mathsf{OR} of every prefix of a.You are asked to rearrange the elements of the array a in such a way that its prefix OR array is lexicographically maximum.An array x is lexicographically greater than an array y if in the first position where x and y differ, x_i > y_i.

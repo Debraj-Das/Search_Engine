@@ -1,0 +1,9 @@
+Factory Repairs                    
+
+https://codeforces.com/problemset/problem/627/B
+
+data structures
+
+1700
+
+A factory produces thimbles in bulk. Typically, it can produce up to a thimbles a day. However, some of the machinery is defective, so it can currently only produce b thimbles each day. The factory intends to choose a k-day period to do maintenance and construction; it cannot produce any thimbles during this time, but will be restored to its full production of a thimbles per day after the k days are complete.Initially, no orders are pending. The factory receives updates of the form di, ai, indicating that ai new orders have been placed for the di-th day. Each order requires a single thimble to be produced on precisely the specified day. The factory may opt to fill as many or as few of the orders in a single batch as it likes.As orders come in, the factory owner would like to know the maximum number of orders he will be able to fill if he starts repairs on a given day pi. Help the owner answer his questions.

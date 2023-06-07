@@ -1,0 +1,9 @@
+Jeff and Permutation                    
+
+httpscodeforcescomproblemsetproblem351E
+
+greedy
+
+2200
+
+Jeffs friends know full well that the boy likes to get sequences and arrays for his birthday Thus Jeff got sequence p1p2pn for his birthdayJeff hates inversions in sequences An inversion in sequence a1a2an is a pair of indexes ij 1ijn such that an inequality aiaj holdsJeff can multiply some numbers of the sequence p by 1 At that he wants the number of inversions in the sequence to be minimum Help Jeff and find the minimum number of inversions he manages to get

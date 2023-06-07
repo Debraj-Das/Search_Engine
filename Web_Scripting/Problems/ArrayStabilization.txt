@@ -1,0 +1,9 @@
+Array Stabilization                    
+
+https://codeforces.com/problemset/problem/1095/B
+
+implementation
+
+900
+
+You are given an array a consisting of n integer numbers.Let instability of the array be the following value: \max\limits_{i = 1}^{n} a_i - \min\limits_{i = 1}^{n} a_i.You have to remove exactly one element from this array to minimize instability of the resulting (n-1)-elements array. Your task is to calculate the minimum possible instability.

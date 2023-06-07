@@ -1,0 +1,9 @@
+Points on the line                    
+
+httpscodeforcescomproblemsetproblem940A
+
+brute force
+
+1200
+
+Weve got no test cases A big olympiad is coming up But the problemsetters number one priority should be adding another problem to the round The diameter of a multiset of points on the line is the largest distance between two points from this set For example the diameter of the multiset 1321 is 2Diameter of multiset consisting of one point is 0You are given n points on the line What is the minimum number of points you have to remove so that the diameter of the multiset of the remaining points will not exceed d

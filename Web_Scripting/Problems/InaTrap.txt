@@ -1,0 +1,9 @@
+In a Trap                    
+
+httpscodeforcescomproblemsetproblem840E
+
+trees
+
+3200
+
+Lech got into a tree consisting of n vertices with a root in vertex number 1 At each vertex i written integer ai He will not get out until he answers q queries of the form u v Answer for the query is maximal value  among all vertices i on path from u to v including u and v where distiv is number of edges on path from i to v Also guaranteed that vertex u is ancestor of vertex v Lehas tastes are very singular he believes that vertex is ancestor of itselfHelp Leha to get outThe expression  means the bitwise exclusive OR to the numbers x and yNote that vertex u is ancestor of vertex v if vertex u lies on the path from root to the vertex v

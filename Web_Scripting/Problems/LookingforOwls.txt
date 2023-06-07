@@ -1,0 +1,9 @@
+Looking for Owls                    
+
+httpscodeforcescomproblemsetproblem350D
+
+binary search
+
+2400
+
+Emperor Palpatine loves owls very much The emperor has some blueprints with the new Death Star the blueprints contain n distinct segments and m distinct circles We will consider the segments indexed from 1 to n in some way and the circles  indexed from 1 to m in some way Palpatine defines an owl as a set of a pair of distinct circles ij ij and one segment k such that   circles i and j are symmetrical relatively to the straight line containing segment k  circles i and j dont have any common points  circles i and j have the same radius  segment k intersects the segment that connects the centers of circles i and j Help Palpatine count the number of distinct owls on the picture 

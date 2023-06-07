@@ -1,0 +1,9 @@
+Koishi's Unconscious Permutation                    
+
+https://codeforces.com/problemset/problem/1687/F
+
+fft
+
+3500
+
+As she closed the Satori's eye that could read minds, Koishi gained the ability to live in unconsciousness. Even she herself does not know what she is up to.— Subterranean AnimismKoishi is unconsciously permuting n numbers: 1, 2, \ldots, n.She thinks the permutation p is beautiful if s=\sum\limits_{i=1}^{n-1} [p_i+1=p_{i+1}]. [x] equals to 1 if x holds, or 0 otherwise.For each k\in[0,n-1], she wants to know the number of beautiful permutations of length n satisfying k=\sum\limits_{i=1}^{n-1}[p_i<p_{i+1}].

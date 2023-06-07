@@ -1,0 +1,9 @@
+Distinctive Roots in a Tree                    
+
+https://codeforces.com/problemset/problem/1467/E
+
+data structures
+
+2500
+
+You are given a tree with n vertices. Each vertex i has a value a_i associated with it.Let us root the tree at some vertex v. The vertex v is called a distinctive root if the following holds: in all paths that start at v and end at some other node, all the values encountered are distinct. Two different paths may have values in common but a single path must have all distinct values.Find the number of distinctive roots in the tree.

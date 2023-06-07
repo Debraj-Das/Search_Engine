@@ -1,0 +1,9 @@
+Foo Fighters                    
+
+https://codeforces.com/problemset/problem/1148/F
+
+bitmasks
+
+2700
+
+You are given n objects. Each object has two integer properties: val_i — its price — and mask_i. It is guaranteed that the sum of all prices is initially non-zero.You want to select a positive integer s. All objects will be modified after that. The i-th object will be modified using the following procedure:   Consider mask_i and s in binary notation,  Compute the bitwise AND of s and mask_i (s \,\&\, mask_i),  If (s \,\&\, mask_i) contains an odd number of ones, replace the val_i with -val_i. Otherwise do nothing with the i-th object. You need to find such an integer s that when the modification above is done the sum of all prices changes sign (if it was negative, it should become positive, and vice-versa; it is not allowed for it to become zero). The absolute value of the sum can be arbitrary.

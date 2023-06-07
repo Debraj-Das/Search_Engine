@@ -1,0 +1,9 @@
+Drivers Dissatisfaction                    
+
+httpscodeforcescomproblemsetproblem733F
+
+data structures
+
+2200
+
+In one kingdom there are n cities and m twoway roads Each road connects a pair of cities and for each road we know the level of drivers dissatisfaction the value wiFor each road we know the value ci how many lamziks we should spend to reduce the level of dissatisfaction with this road by one Thus to reduce the dissatisfaction with the ith road by k we should spend kci lamziks And it is allowed for the dissatisfaction to become zero or even negativeIn accordance with the kings order we need to choose n1 roads and make them the main roads An important condition must hold it should be possible to travel from any city to any other by the main roadsThe road ministry has a budget of S lamziks for the reform The ministry is going to spend this budget for repair of some roads to reduce the dissatisfaction with them and then to choose the n1 main roadsHelp to spend the budget in such a way and then to choose the main roads so that the total dissatisfaction with the main roads will be as small as possible The dissatisfaction with some roads can become negative It is not necessary to spend whole budget SIt is guaranteed that it is possible to travel from any city to any other using existing roads Each road in the kingdom is a twoway road

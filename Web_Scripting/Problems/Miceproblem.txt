@@ -1,0 +1,9 @@
+Mice problem                    
+
+httpscodeforcescomproblemsetproblem793C
+
+geometry
+
+2300
+
+Igor the analyst fell asleep on the work and had a strange dream In the dream his desk was crowded with computer mice so he bought a mousetrap to catch themThe desk can be considered as an infinite plane then the mousetrap is a rectangle which sides are parallel to the axes and which opposite sides are located in points x1y1 and x2y2Igor wants to catch all mice Igor has analysed their behavior and discovered that each mouse is moving along a straight line with constant speed the speed of the ith mouse is equal to vixviy that means that the x coordinate of the mouse increases by vix units per second while the y coordinates increases by viy units The mousetrap is open initially so that the mice are able to move freely on the desk Igor can close the mousetrap at any moment catching all the mice that are strictly inside the mousetrapIgor works a lot so he is busy in the dream as well and he asks you to write a program that by given mousetraps coordinates the initial coordinates of the mice and their speeds determines the earliest time moment in which he is able to catch all the mice Please note that Igor can close the mousetrap only once

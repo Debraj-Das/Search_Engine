@@ -1,0 +1,9 @@
+Yin Yang                    
+
+https://codeforces.com/problemset/problem/1667/F
+
+implementation
+
+3500
+
+You are given a rectangular grid with n rows and m columns. n and m are divisible by 4. Some of the cells are already colored black or white. It is guaranteed that no two colored cells share a corner or an edge.Color the remaining cells in a way that both the black and the white cells becomes orthogonally connected or determine that it is impossible.Consider a graph, where the black cells are the nodes. Two nodes are adjacent if the corresponding cells share an edge. If the described graph is connected, the black cells are orthogonally connected. Same for white cells.

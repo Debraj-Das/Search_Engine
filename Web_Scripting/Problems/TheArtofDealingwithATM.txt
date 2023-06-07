@@ -1,0 +1,9 @@
+The Art of Dealing with ATM                    
+
+httpscodeforcescomproblemsetproblem524C
+
+binary search
+
+1900
+
+ATMs of a wellknown bank of a small country are arranged so that they can not give any amount of money requested by the user Due to the limited size of the bill dispenser the device that is directly giving money from an ATM and some peculiarities of the ATM structure you can get at most k bills from it and the bills may be of at most two distinct denominationsFor example if a country uses bills with denominations 10 50 100 500 1000 and 5000 burles then at k20 such ATM can give sums 100000 burles and 96000 burles but it cannot give sums 99000 and 101000 burlesLets suppose that the country uses bills of n distinct denominations and the ATM that you are using has an unlimited number of bills of each type You know that during the day you will need to withdraw a certain amount of cash q times You know that when the ATM has multiple ways to give money it chooses the one which requires the minimum number of bills or displays an error message if it cannot be done Determine the result of each of the q of requests for cash withdrawal

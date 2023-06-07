@@ -1,0 +1,9 @@
+Heidi and Library (medium)                    
+
+https://codeforces.com/problemset/problem/802/B
+
+data structures
+
+1800
+
+Whereas humans nowadays read fewer and fewer books on paper, book readership among marmots has surged. Heidi has expanded the library and is now serving longer request sequences.

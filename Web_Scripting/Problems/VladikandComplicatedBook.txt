@@ -1,0 +1,9 @@
+Vladik and Complicated Book                    
+
+httpscodeforcescomproblemsetproblem811B
+
+implementation
+
+1200
+
+Vladik had started reading a complicated book about algorithms containing n pages To improve understanding of what is written his friends advised him to read pages in some order given by permutation Pp1p2pn where pi denotes the number of page that should be read ith in turnSometimes Vladiks mom sorted some subsegment of permutation P from position l to position r inclusive because she loves the order For every of such sorting Vladik knows number x what index of page in permutation he should read He is wondered if the page which he will read after sorting has changed In other words has px changed After every sorting Vladik return permutation to initial state so you can assume that each sorting is independent from each other

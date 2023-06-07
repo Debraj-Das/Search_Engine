@@ -1,0 +1,9 @@
+Array Equalizer                    
+
+https://codeforces.com/problemset/problem/1605/E
+
+binary search
+
+2400
+
+Jeevan has two arrays a and b of size n. He is fond of performing weird operations on arrays. This time, he comes up with two types of operations:  Choose any i (1 \le i \le n) and increment a_j by 1 for every j which is a multiple of i and 1 \le j \le n.  Choose any i (1 \le i \le n) and decrement a_j by 1 for every j which is a multiple of i and 1 \le j \le n. He wants to convert array a into an array b using the minimum total number of operations. However, Jeevan seems to have forgotten the value of b_1. So he makes some guesses. He will ask you q questions corresponding to his q guesses, the i-th of which is of the form:   If b_1 = x_i, what is the minimum number of operations required to convert a to b? Help him by answering each question.

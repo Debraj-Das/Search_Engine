@@ -1,0 +1,9 @@
+Marmots (medium)                    
+
+https://codeforces.com/problemset/problem/802/E
+
+math
+
+2200
+
+Good job! Now that Heidi is able to distinguish between Poisson and uniform distributions, she is in a good position to actually estimate the populations.Can you help Heidi estimate each village's population?

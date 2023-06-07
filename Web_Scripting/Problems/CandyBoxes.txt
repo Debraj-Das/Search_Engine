@@ -1,0 +1,9 @@
+Candy Boxes                    
+
+httpscodeforcescomproblemsetproblem488B
+
+brute force
+
+1900
+
+There is an old tradition of keeping 4 boxes of candies in the house in Cyberland The numbers of candies are special if their arithmetic mean their median and their range are all equal By definition for a set x1x2x3x4 x1x2x3x4 arithmetic mean is  median is  and range is x4x1 The arithmetic mean and median are not necessary integer It is wellknown that if those three numbers are same boxes will create a debugging field and codes in the field will have no bugsFor example 1133 is the example of 4 numbers meeting the condition because their mean median and range are all equal to 2Jeff has 4 special boxes of candies However something bad has happened Some of the boxes could have been lost and now there are only n 0n4 boxes remaining The ith remaining box contains ai candiesNow Jeff wants to know is there a possible way to find the number of candies of the 4n missing boxes meeting the condition above the mean median and range are equal

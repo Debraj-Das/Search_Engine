@@ -1,0 +1,9 @@
+To Hack or not to Hack                    
+
+httpscodeforcescomproblemsetproblem662E
+
+brute force
+
+3100
+
+Consider a regular Codeforces round consisting of three problems that uses dynamic scoringYou are given an almost final scoreboard For each participant including yourself the time of the accepted submission for each of the problems is given Also for each solution you already know whether you are able to hack it or not The only changes in the scoreboard that will happen before the end of the round are your challengesWhat is the best place you may take at the endMore formally n people are participating including yourself For any problem if it was solved by exactly k people at the end of the round the maximum score for this problem is defined as   If n2k2n then the maximum possible score is 500  If n4k2n then the maximum possible score is 1000  If n8k2n then the maximum possible score is 1500  If n16k2n then the maximum possible score is 2000  If n32k2n then the maximum possible score is 2500  If 32kn then the maximum possible score is 3000 Let the maximum possible score for some problem be equal to s Then a contestant who didnt manage to get it accepted or his solution was hacked earns 0 points for this problem If he got the the solution accepted t minutes after the beginning of the round and his solution wasnt hacked he earns  points for this problemThe overall score of a participant is equal to the sum of points he earns for each problem plus 100 points for each successful hack only you make hacksThe resulting place you get is equal to one plus the number of participants whos overall score is strictly greater than yours

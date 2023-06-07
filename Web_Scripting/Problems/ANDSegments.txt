@@ -1,0 +1,9 @@
+AND Segments                    
+
+https://codeforces.com/problemset/problem/1327/F
+
+bitmasks
+
+2500
+
+You are given three integers n, k, m and m conditions (l_1, r_1, x_1), (l_2, r_2, x_2), \dots, (l_m, r_m, x_m).Calculate the number of distinct arrays a, consisting of n integers such that:   0 \le a_i < 2^k for each 1 \le i \le n;  bitwise AND of numbers a[l_i] \& a[l_i + 1] \& \dots \& a[r_i] = x_i for each 1 \le i \le m. Two arrays a and b are considered different if there exists such a position i that a_i \neq b_i. The number can be pretty large so print it modulo 998244353.

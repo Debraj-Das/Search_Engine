@@ -1,0 +1,9 @@
+Lara Croft and the New Game                    
+
+httpscodeforcescomproblemsetproblem976B
+
+implementation
+
+1300
+
+You might have heard about the next game in Lara Croft series coming out this year You also might have watched its trailer Though you definitely missed the main idea about its plot so let me lift the veil of secrecyLara is going to explore yet another dangerous dungeon Game designers decided to use good old 2D environment The dungeon can be represented as a rectangle matrix of n rows and m columns Cell xy is the cell in the xth row in the yth column Lara can move between the neighbouring by side cells in all four directionsMoreover she has even chosen the path for herself to avoid all the traps She enters the dungeon in cell 11 that is top left corner of the matrix Then she goes down all the way to cell n1  the bottom left corner Then she starts moving in the snake fashion  all the way to the right one cell up then to the left to the cell in 2nd column one cell up She moves until she runs out of nonvisited cells n and m given are such that she always end up in cell 12Lara has already moved to a neighbouring cell k times Can you determine her current position

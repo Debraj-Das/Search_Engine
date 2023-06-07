@@ -1,0 +1,9 @@
+You're a Professional                    
+
+https://codeforces.com/problemset/problem/656/G
+
+*special problem
+
+1900
+
+A simple recommendation system would recommend a user things liked by a certain number of their friends. In this problem you will implement part of such a system.You are given user's friends' opinions about a list of items. You are also given a threshold T — the minimal number of "likes" necessary for an item to be recommended to the user.Output the number of items in the list liked by at least T of user's friends.

@@ -1,0 +1,9 @@
+Replace the Numbers                    
+
+https://codeforces.com/problemset/problem/1620/E
+
+constructive algorithms
+
+1900
+
+You have an array of integers (initially empty).You have to perform q queries. Each query is of one of two types:   "1 x" — add the element x to the end of the array;  "2 x y" — replace all occurrences of x in the array with y. Find the resulting array after performing all the queries.

@@ -1,0 +1,9 @@
+Odd Queries                    
+
+https://codeforces.com/problemset/problem/1807/D
+
+data structures
+
+900
+
+You have an array a_1, a_2, \dots, a_n. Answer q queries of the following form:   If we change all elements in the range a_l, a_{l+1}, \dots, a_r of the array to k, will the sum of the entire array be odd?  Note that queries are independent and do not affect future queries.

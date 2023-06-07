@@ -1,0 +1,9 @@
+ksubstrings                    
+
+httpscodeforcescomproblemsetproblem961F
+
+binary search
+
+2700
+
+You are given a string s consisting of n lowercase Latin lettersLets denote ksubstring of s as a string subsksksk1sn1k Obviously subs1s and there are exactly  such substringsLets call some string t an odd proper suprefix of a string T iff the following conditions are met Tt  t is an odd number  t is simultaneously a prefix and a suffix of TFor evey ksubstring  of s you have to calculate the maximum length of its odd proper suprefix

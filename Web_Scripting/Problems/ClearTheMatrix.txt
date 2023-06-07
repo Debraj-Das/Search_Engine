@@ -1,0 +1,9 @@
+Clear The Matrix                    
+
+httpscodeforcescomproblemsetproblem903F
+
+bitmasks
+
+2200
+
+You are given a matrix f with 4 rows and n columns Each element of the matrix is either an asterisk  or a dot You may perform the following operation arbitrary number of times choose a square submatrix of f with size kk where 1k4 and replace each element of the chosen submatrix with a dot Choosing a submatrix of size kk costs ak coinsWhat is the minimum number of coins you have to pay to replace all asterisks with dots

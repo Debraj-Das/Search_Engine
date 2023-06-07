@@ -1,0 +1,9 @@
+Pchelyonok and Segments                    
+
+https://codeforces.com/problemset/problem/1582/E
+
+binary search
+
+2000
+
+Pchelyonok decided to give Mila a gift. Pchelenok has already bought an array a of length n, but gifting an array is too common. Instead of that, he decided to gift Mila the segments of that array!Pchelyonok wants his gift to be beautiful, so he decided to choose k non-overlapping segments of the array [l_1,r_1], [l_2,r_2], \ldots [l_k,r_k] such that:  the length of the first segment [l_1,r_1] is k, the length of the second segment [l_2,r_2] is k-1, \ldots, the length of the k-th segment [l_k,r_k] is 1  for each i<j, the i-th segment occurs in the array earlier than the j-th (i.e. r_i<l_j)  the sums in these segments are strictly increasing (i.e. let sum(l \ldots r) = \sum\limits_{i=l}^{r} a_i — the sum of numbers in the segment [l,r] of the array, then sum(l_1 \ldots r_1) < sum(l_2 \ldots r_2) < \ldots < sum(l_k \ldots r_k)). Pchelenok also wants his gift to be as beautiful as possible, so he asks you to find the maximal value of k such that he can give Mila a gift!

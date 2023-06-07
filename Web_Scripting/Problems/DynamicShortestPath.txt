@@ -1,0 +1,9 @@
+Dynamic Shortest Path                    
+
+httpscodeforcescomproblemsetproblem843D
+
+graphs
+
+3400
+
+You are given a weighted directed graph consisting of n vertices and m edges You should answer q queries of two types  1 v find the length of shortest path from vertex 1 to vertex v  2 c l1 l2  lc add 1 to weights of edges with indices l1l2lc 

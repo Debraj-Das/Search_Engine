@@ -1,0 +1,9 @@
+Oil                    
+
+httpscodeforcescomproblemsetproblem72F
+
+special problem
+
+1900
+
+After the nationalization of the oil industry Dr Mosaddegh wants to dig some oil wells to extract all the oil in Persian Gulf But Persian Gulf is huge and has an infinite amount of oil So Dr Mosaddegh works only on a rectangular plane of size nm of the Persian Gulf Each of the cells in this rectangle either contains an infinite amount of oil or nothingTwo cells are considered adjacent if and only if they have a common edge a path is a sequence c1c2cx of cells so that all of them contain oil and for each i ci is adjacent to ci1 and ci1 if they exist Two cells are considered connected to each other if and only if there exists a path between them If we dig a well in a certain cell we can extract oil from all the cells that are connected to it by oil paths It is not allowed to dig wells on empty cellsDr Mosaddegh also knows that in Persian Gulf the empty cells form rows and columns I e if some cell is empty then its column is completely empty or its row is completely empty or bothHelp Dr Mosaddegh find out how many wells he has to dig to access all the oil in that region

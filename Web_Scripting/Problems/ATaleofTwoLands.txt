@@ -1,0 +1,9 @@
+A Tale of Two Lands                    
+
+https://codeforces.com/problemset/problem/1166/C
+
+binary search
+
+1500
+
+The legend of the foundation of Vectorland talks of two integers x and y. Centuries ago, the array king placed two markers at points |x| and |y| on the number line and conquered all the land in between (including the endpoints), which he declared to be Arrayland. Many years later, the vector king placed markers at points |x - y| and |x + y| and conquered all the land in between (including the endpoints), which he declared to be Vectorland. He did so in such a way that the land of Arrayland was completely inside (including the endpoints) the land of Vectorland.Here |z| denotes the absolute value of z.Now, Jose is stuck on a question of his history exam: "What are the values of x and y?" Jose doesn't know the answer, but he believes he has narrowed the possible answers down to n integers a_1, a_2, \dots, a_n. Now, he wants to know the number of unordered pairs formed by two different elements from these n integers such that the legend could be true if x and y were equal to these two values. Note that it is possible that Jose is wrong, and that no pairs could possibly make the legend true.

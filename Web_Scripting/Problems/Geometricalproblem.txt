@@ -1,0 +1,9 @@
+Geometrical problem                    
+
+httpscodeforcescomproblemsetproblem51D
+
+implementation
+
+2200
+
+Polycarp loves geometric progressions  he collects them However as such progressions occur very rarely he also loves the sequences of numbers where it is enough to delete a single element to get a geometric progressionIn this task we shall define geometric progressions as finite sequences of numbers a1a2ak where aicbi1 for some real numbers c and b For example the sequences 2 4 8 0 0 0 0 199 are geometric progressions and 0 1 2 3 is notRecently Polycarp has found a sequence and he cant classify it Help him to do it Determine whether it is a geometric progression If it is not check if it can become a geometric progression if an element is deleted from it

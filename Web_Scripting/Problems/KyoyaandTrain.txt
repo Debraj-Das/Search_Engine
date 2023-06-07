@@ -1,0 +1,9 @@
+Kyoya and Train                    
+
+httpscodeforcescomproblemsetproblem553E
+
+dp
+
+3200
+
+Kyoya Ootori wants to take the train to get to school There are n train stations and m oneway train lines going between various stations Kyoya is currently at train station 1 and the school is at station n To take a train he must pay for a ticket and the train also takes a certain amount of time However the trains are not perfect and take random amounts of time to arrive at their destination If Kyoya arrives at school strictly after t time units he will have to pay a fine of xEach train line is described by a ticket price and a probability distribution on the time the train takes More formally train line i has ticket cost ci and a probability distribution pik which denotes the probability that this train will take k time units for all 1kt Amounts of time that each of the trains used by Kyouya takes are mutually independent random values moreover if Kyoya travels along the same train more than once it is possible for the train to take different amounts of time and those amounts are also independent one from another Kyoya wants to get to school by spending the least amount of money in expectation for the ticket price plus possible fine for being late Of course Kyoya has an optimal plan for how to get to school and every time he arrives at a train station he may recalculate his plan based on how much time he has remaining What is the expected cost that Kyoya will pay to get to school if he moves optimally

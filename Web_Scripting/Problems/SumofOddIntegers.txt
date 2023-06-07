@@ -1,0 +1,9 @@
+Sum of Odd Integers                    
+
+https://codeforces.com/problemset/problem/1327/A
+
+math
+
+1100
+
+You are given two integers n and k. Your task is to find if n can be represented as a sum of k distinct positive odd (not divisible by 2) integers or not.You have to answer t independent test cases.

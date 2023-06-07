@@ -1,0 +1,9 @@
+Excitation of Atoms                    
+
+https://codeforces.com/problemset/problem/1425/E
+
+greedy
+
+2200
+
+Mr. Chanek is currently participating in a science fair that is popular in town. He finds an exciting puzzle in the fair and wants to solve it.There are N atoms numbered from 1 to N. These atoms are especially quirky. Initially, each atom is in normal state. Each atom can be in an excited. Exciting atom i requires D_i energy. When atom i is excited, it will give A_i energy. You can excite any number of atoms (including zero).These atoms also form a peculiar one-way bond. For each i, (1 \le i < N), if atom i is excited, atom E_i will also be excited at no cost. Initially, E_i = i+1. Note that atom N cannot form a bond to any atom.Mr. Chanek must change exactly K bonds. Exactly K times, Mr. Chanek chooses an atom i, (1 \le i < N) and changes E_i to a different value other than i and the current E_i. Note that an atom's bond can remain unchanged or changed more than once. Help Mr. Chanek determine the maximum energy that he can achieve!note: You must first change exactly K bonds before you can start exciting atoms.

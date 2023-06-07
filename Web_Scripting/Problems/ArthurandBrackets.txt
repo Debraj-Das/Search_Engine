@@ -1,0 +1,9 @@
+Arthur and Brackets                    
+
+httpscodeforcescomproblemsetproblem508E
+
+dp
+
+2200
+
+Notice that the memory limit is nonstandardRecently Arthur and Sasha have studied correct bracket sequences Arthur understood this topic perfectly and become so amazed about correct bracket sequences so he even got himself a favorite correct bracket sequence of length 2n Unlike Arthur Sasha understood the topic very badly and broke Arthurs favorite correct bracket sequence just to spite himAll Arthur remembers about his favorite sequence is for each opening parenthesis  the approximate distance to the corresponding closing one  For the ith opening bracket he remembers the segment liri containing the distance to the corresponding closing bracketFormally speaking for the ith opening bracket in order from left to right we know that the difference of its position and the position of the corresponding closing bracket belongs to the segment liriHelp Arthur restore his favorite correct bracket sequence

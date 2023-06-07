@@ -1,0 +1,9 @@
+Berland SU Computer Network                    
+
+httpscodeforcescomproblemsetproblem847L
+
+constructive algorithms
+
+2400
+
+In the computer network of the Berland State University there are n routers numbered from 1 to n Some pairs of routers are connected by patch cords Information can be transmitted over patch cords in both direction The network is arranged in such a way that communication between any two routers directly or through other routers is possible There are no cycles in the network so there is only one path between each pair of routers over patch cordsUnfortunately the exact topology of the network was lost by administrators In order to restore it the following auxiliary information was collectedFor each patch cord p directly connected to the router i list of routers located behind the patch cord p relatively i is known In other words all routers path from which to the router i goes through p are known So for each router i there are ki lists where ki is the number of patch cords connected to iFor example let the network consists of three routers connected in chain 123 Then  the router 1 for the single patch cord connected to the first router there is a single list containing two routers 2 and 3  the router 2 for each of the patch cords connected to the second router there is a list one list contains the router 1 and the other  the router 3  the router 3 for the single patch cord connected to the third router there is a single list containing two routers 1 and 2 Your task is to help administrators to restore the network topology i e to identify all pairs of routers directly connected by a patch cord

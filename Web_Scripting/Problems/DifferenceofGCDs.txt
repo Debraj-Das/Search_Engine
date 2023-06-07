@@ -1,0 +1,9 @@
+Difference of GCDs                    
+
+https://codeforces.com/problemset/problem/1708/B
+
+constructive algorithms
+
+1100
+
+You are given three integers n, l, and r. You need to construct an array a_1,a_2,\dots,a_n (l\le a_i\le r) such that \gcd(i,a_i) are all distinct or report there's no solution.Here \gcd(x, y) denotes the greatest common divisor (GCD) of integers x and y.

@@ -1,0 +1,9 @@
+Clique in the Divisibility Graph                    
+
+httpscodeforcescomproblemsetproblem566F
+
+dp
+
+1500
+
+As you must know the maximum clique problem in an arbitrary graph is NPhard Nevertheless for some graphs of specific kinds it can be solved effectivelyJust in case let us remind you that a clique in a nondirected graph is a subset of the vertices of a graph such that any two vertices of this subset are connected by an edge In particular an empty set of vertexes and a set consisting of a single vertex are cliquesLets define a divisibility graph for a set of positive integers Aa1a2an as follows The vertices of the given graph are numbers from set A and two numbers ai and aj ij are connected by an edge if and only if either ai is divisible by aj or aj is divisible by aiYou are given a set of nonnegative integers A Determine the size of a maximum clique in a divisibility graph for set A

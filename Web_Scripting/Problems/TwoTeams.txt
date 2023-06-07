@@ -1,0 +1,9 @@
+Two Teams                    
+
+httpscodeforcescomproblemsetproblem1154E
+
+data structures
+
+1800
+
+There are n students standing in a row Two coaches are forming two teams  the first coach chooses the first team and the second coach chooses the second teamThe ith student has integer programming skill ai All programming skills are distinct and between 1 and n inclusiveFirstly the first coach will choose the student with maximum programming skill among all students not taken into any team and k closest students to the left of him and k closest students to the right of him if there are less than k students to the left or to the right all of them will be chosen All students that are chosen leave the row and join the first team Secondly the second coach will make the same move but all students chosen by him join the second team Then again the first coach will make such move and so on This repeats until the row becomes empty ie the process ends when each student becomes to some teamYour problem is to determine which students will be taken into the first team and which students will be taken into the second team

@@ -1,0 +1,9 @@
+Bmail Computer Network                    
+
+https://codeforces.com/problemset/problem/1057/A
+
+*special problem
+
+900
+
+Once upon a time there was only one router in the well-known company Bmail. Years went by and over time new routers were purchased. Every time they bought a new router, they connected it to one of the routers bought before it. You are given the values p_i — the index of the router to which the i-th router was connected after being purchased (p_i < i).There are n routers in Boogle in total now. Print the sequence of routers on the path from the first to the n-th router.

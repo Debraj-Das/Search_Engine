@@ -1,0 +1,9 @@
+Cross Xor                    
+
+https://codeforces.com/problemset/problem/1672/G
+
+constructive algorithms
+
+3200
+
+There is a grid with r rows and c columns, where the square on the i-th row and j-th column has an integer a_{i, j} written on it. Initially, all elements are set to 0. We are allowed to do the following operation:  Choose indices 1 \le i \le r and 1 \le j \le c, then replace all values on the same row or column as (i, j) with the value xor 1. In other words, for all a_{x, y} where x=i or y=j or both, replace a_{x, y} with a_{x, y} xor 1. You want to form grid b by doing the above operations a finite number of times. However, some elements of b are missing and are replaced with '?' instead.Let k be the number of '?' characters. Among all the 2^k ways of filling up the grid b by replacing each '?' with '0' or '1', count the number of grids, that can be formed by doing the above operation a finite number of times, starting from the grid filled with 0. As this number can be large, output it modulo 998244353.

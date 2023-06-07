@@ -1,0 +1,9 @@
+XOR Tree                    
+
+https://codeforces.com/problemset/problem/1709/E
+
+bitmasks
+
+2400
+
+You are given a tree consisting of n vertices. A number is written on each vertex; the number on vertex i is equal to a_i.Recall that a simple path is a path that visits each vertex at most once. Let the weight of the path be the bitwise XOR of the values written on vertices it consists of. Let's say that a tree is good if no simple path has weight 0.You can apply the following operation any number of times (possibly, zero): select a vertex of the tree and replace the value written on it with an arbitrary positive integer. What is the minimum number of times you have to apply this operation in order to make the tree good?

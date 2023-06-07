@@ -1,0 +1,9 @@
+Longest Strike                    
+
+https://codeforces.com/problemset/problem/1676/F
+
+data structures
+
+1300
+
+Given an array a of length n and an integer k, you are tasked to find any two numbers l and r (l \leq r) such that:   For each x (l \leq x \leq r), x appears in a at least k times (i.e. k or more array elements are equal to x).  The value r-l is maximized. If no numbers satisfy the conditions, output -1.For example, if a=[11, 11, 12, 13, 13, 14, 14] and k=2, then:   for l=12, r=14 the first condition fails because 12 does not appear at least k=2 times.  for l=13, r=14 the first condition holds, because 13 occurs at least k=2 times in a and 14 occurs at least k=2 times in a.  for l=11, r=11 the first condition holds, because 11 occurs at least k=2 times in a. A pair of l and r for which the first condition holds and r-l is maximal is l = 13, r = 14.

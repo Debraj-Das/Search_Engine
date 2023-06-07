@@ -1,0 +1,9 @@
+2^Sort                    
+
+https://codeforces.com/problemset/problem/1692/G
+
+data structures
+
+1400
+
+Given an array a of length n and an integer k, find the number of indices 1 \leq i \leq n - k such that the subarray [a_i, \dots, a_{i+k}] with length k+1 (not with length k) has the following property:   If you multiply the first element by 2^0, the second element by 2^1, ..., and the (k+1)-st element by 2^k, then this subarray is sorted in strictly increasing order.  More formally, count the number of indices 1 \leq i \leq n - k such that 2^0 \cdot a_i < 2^1 \cdot a_{i+1} < 2^2 \cdot a_{i+2} < \dots < 2^k \cdot a_{i+k}. 

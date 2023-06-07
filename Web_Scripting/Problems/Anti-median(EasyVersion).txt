@@ -1,0 +1,9 @@
+Anti-median (Easy Version)                    
+
+https://codeforces.com/problemset/problem/1761/F1
+
+dp
+
+3100
+
+This is the easy version of the problem. The only difference between the two versions is the constraint on n. You can make hacks only if all versions of the problem are solved.Let's call an array a of odd length 2m+1 (with m \ge 1) bad, if element a_{m+1} is equal to the median of this array. In other words, the array is bad if, after sorting it, the element at m+1-st position remains the same.Let's call a permutation p of integers from 1 to n anti-median, if every its subarray of odd length \ge 3 is not bad.You are already given values of some elements of the permutation. Find the number of ways to set unknown values to obtain an anti-median permutation. As this number can be very large, find it modulo 10^9+7.

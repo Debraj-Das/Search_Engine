@@ -1,0 +1,9 @@
+City Union                    
+
+https://codeforces.com/problemset/problem/1799/E
+
+constructive algorithms
+
+2300
+
+You are given n \times m grid. Some cells are filled and some are empty.A city is a maximal (by inclusion) set of filled cells such that it is possible to get from any cell in the set to any other cell in the set by moving to adjacent (by side) cells, without moving into any cells not in the set. In other words, a city is a connected component of filled cells with edges between adjacent (by side) cells.Initially, there are two cities on the grid. You want to change some empty cells into filled cells so that both of the following are satisfied:   There is one city on the resulting grid.  The shortest path between any two filled cells, achievable only by moving onto filled cells, is equal to the Manhattan distance between them. The Manhattan distance between two cells (a, b) and (c, d) is equal to |a - c| + |b - d|.Find a way to add filled cells that satisfies these conditions and minimizes the total number of filled cells.

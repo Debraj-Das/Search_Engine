@@ -1,0 +1,9 @@
+All are Same                    
+
+https://codeforces.com/problemset/problem/1593/D1
+
+math
+
+1100
+
+This problem is a simplified version of D2, but it has significant differences, so read the whole statement.Polycarp has an array of n (n is even) integers a_1, a_2, \dots, a_n. Polycarp conceived of a positive integer k. After that, Polycarp began performing the following operations on the array: take an index i (1 \le i \le n) and reduce the number a_i by k.After Polycarp performed some (possibly zero) number of such operations, it turned out that all numbers in the array became the same. Find the maximum k at which such a situation is possible, or print -1 if such a number can be arbitrarily large.

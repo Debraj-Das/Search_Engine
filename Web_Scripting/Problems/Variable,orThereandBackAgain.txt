@@ -1,0 +1,9 @@
+Variable or There and Back Again                    
+
+httpscodeforcescomproblemsetproblem164A
+
+dfs and similar
+
+1700
+
+Life is not easy for the perfectly common variable named Vasya Wherever it goes it is either assigned a value or simply ignored or is being usedVasyas life goes in states of a program In each state Vasya can either be used for example to calculate the value of another variable or be assigned a value or ignored Between some states are directed oriented transitionsA path is a sequence of states v1v2vx where for any 1ix exists a transition from vi to vi1Vasyas value in state v is interesting to the world if exists path p1p2pk such that piv for some i 1ik in state p1 Vasya gets assigned a value in state pk Vasya is used and there is no state pi except for p1 where Vasya gets assigned a valueHelp Vasya find the states in which Vasyas value is interesting to the world

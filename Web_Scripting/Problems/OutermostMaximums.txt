@@ -1,0 +1,9 @@
+Outermost Maximums                    
+
+https://codeforces.com/problemset/problem/1693/E
+
+data structures
+
+3400
+
+Yeri has an array of n + 2 non-negative integers : a_0, a_1, ..., a_n, a_{n + 1}.We know that a_0 = a_{n + 1} = 0.She wants to make all the elements of a equal to zero in the minimum number of operations.In one operation she can do one of the following:  Choose the leftmost maximum element and change it to the maximum of the elements on its left. Choose the rightmost maximum element and change it to the maximum of the elements on its right.Help her find the minimum number of operations needed to make all elements of a equal to zero.

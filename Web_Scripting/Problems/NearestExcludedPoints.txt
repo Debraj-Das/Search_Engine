@@ -1,0 +1,9 @@
+Nearest Excluded Points                    
+
+https://codeforces.com/problemset/problem/1651/D
+
+binary search
+
+1900
+
+You are given n distinct points on a plane. The coordinates of the i-th point are (x_i, y_i).For each point i, find the nearest (in terms of Manhattan distance) point with integer coordinates that is not among the given n points. If there are multiple such points — you can choose any of them.The Manhattan distance between two points (x_1, y_1) and (x_2, y_2) is |x_1 - x_2| + |y_1 - y_2|.

@@ -1,0 +1,9 @@
+Pentagonal numbers                    
+
+httpscodeforcescomproblemsetproblem162A
+
+special problem
+
+1100
+
+Pentagonal numbers are figurate numbers which can be calculated using the formula pn3n2n2 always integer You are given n calculate nth pentagonal number

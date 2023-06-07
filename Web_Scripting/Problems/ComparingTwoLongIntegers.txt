@@ -1,0 +1,9 @@
+Comparing Two Long Integers                    
+
+httpscodeforcescomproblemsetproblem616A
+
+implementation
+
+900
+
+You are given two very long integers ab leading zeroes are allowed You should check what number a or b is greater or determine that they are equalThe input size is very large so dont use the reading of symbols one by one Instead of that use the reading of a whole line or tokenAs inputoutput can reach huge size it is recommended to use fast inputoutput methods for example prefer to use scanfprintf instead of cincout in C prefer to use BufferedReaderPrintWriter instead of ScannerSystemout in Java Dont use the function input in Python2 instead of it use the function rawinput

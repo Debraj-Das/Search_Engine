@@ -1,0 +1,9 @@
+Long Beautiful Integer                    
+
+https://codeforces.com/problemset/problem/1268/A
+
+constructive algorithms
+
+1700
+
+You are given an integer x of n digits a_1, a_2, \ldots, a_n, which make up its decimal notation in order from left to right.Also, you are given a positive integer k < n.Let's call integer b_1, b_2, \ldots, b_m beautiful if b_i = b_{i+k} for each i, such that 1 \leq i \leq m - k.You need to find the smallest beautiful integer y, such that y \geq x. 

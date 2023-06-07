@@ -1,0 +1,9 @@
+Divisible Numbers (easy version)                    
+
+https://codeforces.com/problemset/problem/1744/E1
+
+brute force
+
+1500
+
+This is an easy version of the problem. The only difference between an easy and a hard version is the constraints on a, b, c and d.You are given 4 positive integers a, b, c, d with a < c and b < d. Find any pair of numbers x and y that satisfies the following conditions: a < x \leq c, b < y \leq d, x \cdot y is divisible by a \cdot b.Note that required x and y may not exist.

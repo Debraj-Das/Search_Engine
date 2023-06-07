@@ -1,0 +1,9 @@
+Jeff and Removing Periods                    
+
+httpscodeforcescomproblemsetproblem351D
+
+data structures
+
+2700
+
+Cosider a sequence consisting of n integers a1 a2  an Jeff can perform the following operation on sequence a  take three integers v t k 1vtn0kvtkn such that av  avt avt  av2t  avtk1  avtk  remove elements av avt  avtk from the sequence a the remaining elements should be reindexed a1a2ank1  permute in some order the remaining elements of sequence a A beauty of a sequence a is the minimum number of operations that is needed to delete all elements from sequence aJeffs written down a sequence of m integers b1 b2  bm Now he wants to ask q questions Each question can be described with two integers liri The answer to the question is the beauty of sequence bli bli1  bri You are given the sequence b and all questions Help Jeff answer all his questions

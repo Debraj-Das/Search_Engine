@@ -1,0 +1,9 @@
+Artsem and Saunders                    
+
+httpscodeforcescomproblemsetproblem765D
+
+constructive algorithms
+
+1700
+
+Artsem has a friend Saunders from University of Chicago Saunders presented him with the following problemLet n denote the set 1n We will also write fxy when a function f is defined in integer points 1  x and all its values are integers from 1 to yNow then you are given a function fnn Your task is to find a positive integer m and two functions gnm hmn such that ghxx for all  and hgxfx for all  or determine that finding these is impossible

@@ -1,0 +1,9 @@
+Memory and Crow                    
+
+httpscodeforcescomproblemsetproblem712A
+
+implementation
+
+800
+
+There are n integers b1b2bn written in a row For all i from 1 to n values ai are defined by the crows performing the following procedure  The crow sets ai initially 0  The crow then adds bi to ai subtracts bi1 adds the bi2 number and so on until the nth number Thus aibibi1bi2bi3 Memory gives you the values a1a2an and he now wants you to find the initial numbers b1b2bn written in the row Can you do it

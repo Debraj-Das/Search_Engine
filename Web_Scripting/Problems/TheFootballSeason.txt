@@ -1,0 +1,9 @@
+The Football Season                    
+
+https://codeforces.com/problemset/problem/1244/C
+
+brute force
+
+2000
+
+The football season has just ended in Berland. According to the rules of Berland football, each match is played between two teams. The result of each match is either a draw, or a victory of one of the playing teams. If a team wins the match, it gets w points, and the opposing team gets 0 points. If the game results in a draw, both teams get d points.The manager of the Berland capital team wants to summarize the results of the season, but, unfortunately, all information about the results of each match is lost. The manager only knows that the team has played n games and got p points for them.You have to determine three integers x, y and z — the number of wins, draws and loses of the team. If there are multiple answers, print any of them. If there is no suitable triple (x, y, z), report about it.

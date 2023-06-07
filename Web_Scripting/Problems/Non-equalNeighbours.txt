@@ -1,0 +1,9 @@
+Non-equal Neighbours                    
+
+https://codeforces.com/problemset/problem/1585/F
+
+combinatorics
+
+2400
+
+You are given an array of n positive integers a_1, a_2, \ldots, a_n. Your task is to calculate the number of arrays of n positive integers b_1, b_2, \ldots, b_n such that:   1 \le b_i \le a_i for every i (1 \le i \le n), and  b_i \neq b_{i+1} for every i (1 \le i \le n - 1). The number of such arrays can be very large, so print it modulo 998\,244\,353.

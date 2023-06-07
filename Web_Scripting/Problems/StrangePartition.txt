@@ -1,0 +1,9 @@
+Strange Partition                    
+
+https://codeforces.com/problemset/problem/1471/A
+
+greedy
+
+900
+
+You are given an array a of length n, and an integer x. You can perform the following operation as many times as you would like (possibly zero): replace two adjacent elements of the array by their sum. For example, if the initial array was [3, 6, 9], in a single operation one can replace the last two elements by their sum, yielding an array [3, 15], or replace the first two elements to get an array [9, 9]. Note that the size of the array decreases after each operation.The beauty of an array b=[b_1, \ldots, b_k] is defined as \sum_{i=1}^k \left\lceil \frac{b_i}{x} \right\rceil, which means that we divide each element by x, round it up to the nearest integer, and sum up the resulting values. For example, if x = 3, and the array is [4, 11, 6], the beauty of the array is equal to \left\lceil \frac{4}{3} \right\rceil + \left\lceil \frac{11}{3} \right\rceil + \left\lceil \frac{6}{3} \right\rceil = 2 + 4 + 2 = 8.Please determine the minimum and the maximum beauty you can get by performing some operations on the original array.

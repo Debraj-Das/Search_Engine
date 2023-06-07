@@ -1,0 +1,9 @@
+Ehab and a component choosing problem                    
+
+https://codeforces.com/problemset/problem/1088/E
+
+dp
+
+2400
+
+You're given a tree consisting of n nodes. Every node u has a weight a_u. You want to choose an integer k (1 \le k \le n) and then choose k connected components of nodes that don't overlap (i.e every node is in at most 1 component). Let the set of nodes you chose be s. You want to maximize:\frac{\sum\limits_{u \in s} a_u}{k}In other words, you want to maximize the sum of weights of nodes in s divided by the number of connected components you chose. Also, if there are several solutions, you want to maximize k.Note that adjacent nodes can belong to different components. Refer to the third sample.

@@ -1,0 +1,9 @@
+Sanae and Giant Robot                    
+
+https://codeforces.com/problemset/problem/1687/C
+
+binary search
+
+2500
+
+Is it really?! The robot only existing in my imagination?! The Colossal Walking Robot?!!— Kochiya Sanae Sanae made a giant robot — Hisoutensoku, but something is wrong with it. To make matters worse, Sanae can not figure out how to stop it, and she is forced to fix it on-the-fly.The state of a robot can be represented by an array of integers of length n. Initially, the robot is at state a. She wishes to turn it into state b. As a great programmer, Sanae knows the art of copy-and-paste. In one operation, she can choose some segment from given segments, copy the segment from b and paste it into the same place of the robot, replacing the original state there. However, she has to ensure that the sum of a does not change after each copy operation in case the robot go haywire. Formally, Sanae can choose segment [l,r] and assign a_i = b_i (l\le i\le r) if \sum\limits_{i=1}^n a_i does not change after the operation.Determine whether it is possible for Sanae to successfully turn the robot from the initial state a to the desired state b with any (possibly, zero) operations.

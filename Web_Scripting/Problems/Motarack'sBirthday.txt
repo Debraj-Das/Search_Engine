@@ -1,0 +1,9 @@
+Motarack's Birthday                    
+
+https://codeforces.com/problemset/problem/1301/B
+
+binary search
+
+1500
+
+Dark is going to attend Motarack's birthday. Dark decided that the gift he is going to give to Motarack is an array a of n non-negative integers.Dark created that array 1000 years ago, so some elements in that array disappeared. Dark knows that Motarack hates to see an array that has two adjacent elements with a high absolute difference between them. He doesn't have much time so he wants to choose an integer k (0 \leq k \leq 10^{9}) and replaces all missing elements in the array a with k.Let m be the maximum absolute difference between all adjacent elements (i.e. the maximum value of |a_i - a_{i+1}| for all 1 \leq i \leq n - 1) in the array a after Dark replaces all missing elements with k.Dark should choose an integer k so that m is minimized. Can you help him?

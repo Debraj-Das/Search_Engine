@@ -1,0 +1,9 @@
+Balanced brackets                    
+
+https://codeforces.com/problemset/problem/130/H
+
+*special problem
+
+1600
+
+A sequence of brackets is called balanced if one can turn it into a valid math expression by adding characters «+» and «1». For example, sequences «(())()», «()» and «(()(()))» are balanced, while «)(», «(()» and «(()))(» are not.You are given a string which consists of opening and closing round brackets. Check whether it is a balanced bracket sequence.

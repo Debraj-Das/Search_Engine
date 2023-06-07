@@ -1,0 +1,9 @@
+Cyclic Cipher                    
+
+httpscodeforcescomproblemsetproblem901E
+
+fft
+
+3300
+
+  Senor Vorpal Kickasso invented an innovative method to encrypt integer sequences of length n To encrypt a sequence one has to choose a secret sequence  that acts as a keyVorpal is very selective so the key should be such a sequence bi that its cyclic shifts are linearly independent that is there is no nonzero set of coefficients x0x1xn1 such that  for all k at the same timeAfter that for a sequence  you should build the following cipherIn other words you are to compute the quadratic deviation between each cyclic shift of bi and the sequence ai The resulting sequence is the Kickasss cipher The cipher is in development right now and Vorpal wants to decipher a sequence after it has been encrypted You are to solve this problem for him You are given sequences ci and bi You are to find all suitable sequences ai

@@ -1,0 +1,9 @@
+Graphic Settings                    
+
+httpscodeforcescomproblemsetproblem863G
+
+
+
+3200
+
+Recently Ivan bought a new computer Excited he unpacked it and installed his favourite game With his old computer Ivan had to choose the worst possible graphic settings because otherwise the framerate would be really low but now he wants to check maybe his new computer can perform well even with the best possible graphicsThere are m graphics parameters in the game ith parameter can be set to any positive integer from 1 to ai and initially is set to bi biai So there are  different combinations of parameters Ivan can increase or decrease any of these parameters by 1 after that the game will be restarted with new parameters and Ivan will have the opportunity to check chosen combination of parametersIvan wants to try all p possible combinations Also he wants to return to the initial settings after trying all combinations because he thinks that initial settings can be somehow best suited for his hardware But Ivan doesnt really want to make a lot of restartsSo he wants you to tell the following  If there exists a way to make exactly p changes each change either decreases or increases some parameter by 1 to try all possible combinations and return to initial combination then Ivan wants to know this way  Otherwise if there exists a way to make exactly p1 changes to try all possible combinations including the initial one then Ivan wants to know this way Help Ivan by showing him the way to change parameters

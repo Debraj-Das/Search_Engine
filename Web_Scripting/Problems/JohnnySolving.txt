@@ -1,0 +1,9 @@
+Johnny Solving                    
+
+https://codeforces.com/problemset/problem/1103/C
+
+constructive algorithms
+
+2700
+
+Today is tuesday, that means there is a dispute in JOHNNY SOLVING team again: they try to understand who is Johnny and who is Solving. That's why guys asked Umnik to help them. Umnik gave guys a connected graph with n vertices without loops and multiedges, such that a degree of any vertex is at least 3, and also he gave a number 1 \leq k \leq n. Because Johnny is not too smart, he promised to find a simple path with length at least \frac{n}{k} in the graph. In reply, Solving promised to find k simple by vertices cycles with representatives, such that:   Length of each cycle is at least 3.  Length of each cycle is not divisible by 3.  In each cycle must be a representative - vertex, which belongs only to this cycle among all printed cycles. You need to help guys resolve the dispute, for that you need to find a solution for Johnny: a simple path with length at least \frac{n}{k} (n is not necessarily divided by k), or solution for Solving: k cycles that satisfy all the conditions above. If there is no any solution - print -1. 

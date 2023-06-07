@@ -1,0 +1,9 @@
+Kate and imperfection                    
+
+https://codeforces.com/problemset/problem/1333/F
+
+greedy
+
+2200
+
+Kate has a set S of n integers \{1, \dots, n\} . She thinks that imperfection of a subset M \subseteq S is equal to the maximum of gcd(a, b) over all pairs (a, b) such that both a and b are in M and a \neq b. Kate is a very neat girl and for each k \in \{2, \dots, n\} she wants to find a subset that has the smallest imperfection among all subsets in S of size k. There can be more than one subset with the smallest imperfection and the same size, but you don't need to worry about it. Kate wants to find all the subsets herself, but she needs your help to find the smallest possible imperfection for each size k, will name it I_k. Please, help Kate to find I_2, I_3, ..., I_n.

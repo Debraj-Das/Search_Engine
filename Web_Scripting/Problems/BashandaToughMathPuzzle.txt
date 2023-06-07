@@ -1,0 +1,9 @@
+Bash and a Tough Math Puzzle                    
+
+httpscodeforcescomproblemsetproblem914D
+
+data structures
+
+1900
+
+Bash likes playing with arrays He has an array a1a2 an of n integers He likes to guess the greatest common divisor gcd of different segments of the array Of course sometimes the guess is not correct However Bash will be satisfied if his guess is almost correctSuppose he guesses that the gcd of the elements in the range lr of a is x He considers the guess to be almost correct if he can change at most one element in the segment such that the gcd of the segment is x after making the change Note that when he guesses he doesnt actually change the array  he just wonders if the gcd of the segment can be made x Apart from this he also sometimes makes changes to the array itselfSince he cant figure it out himself Bash wants you to tell him which of his guesses are almost correct Formally you have to process q queries of one of the following forms  1lrx  Bash guesses that the gcd of the range lr is x Report if this guess is almost correct  2iy  Bash sets ai to y Note The array is 1indexed

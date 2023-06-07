@@ -1,0 +1,9 @@
+Cards Sorting                    
+
+httpscodeforcescomproblemsetproblem830B
+
+data structures
+
+1600
+
+Vasily has a deck of cards consisting of n cards There is an integer on each of the cards this integer is between 1 and 100000 inclusive It is possible that some cards have the same integers on themVasily decided to sort the cards To do this he repeatedly takes the top card from the deck and if the number on it equals the minimum number written on the cards in the deck then he places the card away Otherwise he puts it under the deck and takes the next card from the top and so on The process ends as soon as there are no cards in the deck You can assume that Vasily always knows the minimum number written on some card in the remaining deck but doesnt know where this card or these cards isYou are to determine the total number of times Vasily takes the top card from the deck

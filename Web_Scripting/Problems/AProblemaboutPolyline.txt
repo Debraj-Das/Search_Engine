@@ -1,0 +1,9 @@
+A Problem about Polyline                    
+
+httpscodeforcescomproblemsetproblem578A
+
+geometry
+
+1700
+
+There is a polyline going through points 00xx2x03xx4x02kx02kxxx We know that the polyline passes through the point ab Find minimum positive value x such that it is true or determine that there is no such x

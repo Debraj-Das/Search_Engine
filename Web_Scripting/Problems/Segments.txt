@@ -1,0 +1,9 @@
+Segments                    
+
+https://codeforces.com/problemset/problem/926/J
+
+data structures
+
+2100
+
+There is a straight line colored in white. n black segments are added on it one by one.After each segment is added, determine the number of connected components of black segments (i. e. the number of black segments in the union of the black segments). In particular, if one segment ends in a point x, and another segment starts in the point x, these two segments belong to the same connected component.

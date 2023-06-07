@@ -1,0 +1,9 @@
+The Ultimate LIS Problem                    
+
+https://codeforces.com/problemset/problem/1685/E
+
+data structures
+
+3500
+
+It turns out that this is exactly the 100-th problem of mine that appears in some programming competition. So it has to be special! And what can be more special than another problem about LIS...You are given a permutation p_1, p_2, \ldots, p_{2n+1} of integers from 1 to 2n+1. You will have to process q updates, where the i-th update consists in swapping p_{u_i}, p_{v_i}.After each update, find any cyclic shift of p with LIS \le n, or determine that there is no such shift. (Refer to the output section for details).Here LIS(a) denotes the length of longest strictly increasing subsequence of a.Hacks are disabled in this problem. Don't ask why.

@@ -1,0 +1,9 @@
+Puzzle                    
+
+https://codeforces.com/problemset/problem/1700/F
+
+constructive algorithms
+
+2600
+
+Pupils Alice and Ibragim are best friends. It's Ibragim's birthday soon, so Alice decided to gift him a new puzzle. The puzzle can be represented as a matrix with 2 rows and n columns, every element of which is either 0 or 1. In one move you can swap two values in neighboring cells.More formally, let's number rows 1 to 2 from top to bottom, and columns 1 to n from left to right. Also, let's denote a cell in row x and column y as (x, y). We consider cells (x_1, y_1) and (x_2, y_2) neighboring if |x_1 - x_2| + |y_1 - y_2| = 1.Alice doesn't like the way in which the cells are currently arranged, so she came up with her own arrangement, with which she wants to gift the puzzle to Ibragim. Since you are her smartest friend, she asked you to help her find the minimal possible number of operations in which she can get the desired arrangement. Find this number, or determine that it's not possible to get the new arrangement.

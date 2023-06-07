@@ -1,0 +1,9 @@
+Sum of Remainders                    
+
+httpscodeforcescomproblemsetproblem616E
+
+implementation
+
+2200
+
+Calculate the value of the sum n mod 1  n mod 2  n mod 3    n mod m As the result can be very large you should print the value modulo 1097 the remainder when divided by 1097The modulo operator a mod b stands for the remainder after dividing a by b For example 10 mod 3  1

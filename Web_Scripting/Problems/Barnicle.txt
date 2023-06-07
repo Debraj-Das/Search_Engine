@@ -1,0 +1,9 @@
+Barnicle                    
+
+httpscodeforcescomproblemsetproblem697B
+
+brute force
+
+1400
+
+Barney is standing in a bar and starring at a pretty girl He wants to shoot her with his heart arrow but he needs to know the distance between him and the girl to make his shot accurate  Barney asked the bar tender Carl about this distance value but Carl was so busy talking to the customers so he wrote the distance value its a real number on a napkin The problem is that he wrote it in scientific notation The scientific notation of some real number x is the notation of form AeB where A is a real number and B is an integer and xA10B is true In our case A is between 0 and 9 and B is nonnegativeBarney doesnt know anything about scientific notation as well as anything scientific at all So he asked you to tell him the distance value in usual decimal representation with minimal number of digits after the decimal point and no decimal point if it is an integer See the output format for better understanding

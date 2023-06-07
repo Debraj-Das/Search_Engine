@@ -1,0 +1,9 @@
+Mere Array                    
+
+https://codeforces.com/problemset/problem/1401/C
+
+constructive algorithms
+
+1300
+
+ You are given an array a_1, a_2, \dots, a_n where all a_i are integers and greater than 0. In one operation, you can choose two different indices i and j (1 \le i, j \le n). If gcd(a_i, a_j) is equal to the minimum element of the whole array a, you can swap a_i and a_j. gcd(x, y) denotes the greatest common divisor (GCD) of integers x and y. Now you'd like to make a non-decreasing using the operation any number of times (possibly zero). Determine if you can do this. An array a is non-decreasing if and only if a_1 \le a_2 \le \ldots \le a_n.

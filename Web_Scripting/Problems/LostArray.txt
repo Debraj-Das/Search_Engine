@@ -1,0 +1,9 @@
+Lost Array                    
+
+https://codeforces.com/problemset/problem/1713/F
+
+bitmasks
+
+2900
+
+My orzlers, we can optimize this problem from O(S^3) to O\left(T^\frac{5}{9}\right)!— Spyofgame, founder of Orzlim religionA long time ago, Spyofgame invented the famous array a (1-indexed) of length n that contains information about the world and life. After that, he decided to convert it into the matrix b (0-indexed) of size (n + 1) \times (n + 1) which contains information about the world, life and beyond.Spyofgame converted a into b with the following rules.  b_{i,0} = 0 if 0 \leq i \leq n;  b_{0,i} = a_{i} if 1 \leq i \leq n;  b_{i,j} = b_{i,j-1} \oplus b_{i-1,j} if 1 \leq i, j \leq n. Here \oplus denotes the bitwise XOR operation.Today, archaeologists have discovered the famous matrix b. However, many elements of the matrix has been lost. They only know the values of b_{i,n} for 1 \leq i \leq n (note that these are some elements of the last column, not the last row).The archaeologists want to know what a possible array of a is. Can you help them reconstruct any array that could be a?

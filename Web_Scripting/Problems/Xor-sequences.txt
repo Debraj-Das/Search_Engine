@@ -1,0 +1,9 @@
+Xorsequences                    
+
+httpscodeforcescomproblemsetproblem691E
+
+matrices
+
+1900
+
+You are given n integers a1a2anA sequence of integers x1x2xk is called a xorsequence if for every 1ik1 the number of ones in the binary representation of the number xi  xi1s is a multiple of 3 and  for all 1ik The symbol  is used for the binary exclusive or operationHow many xorsequences of length k exist Output the answer modulo 1097Note if a11 and k1 then the answer is 2 because you should consider the ones from a as different

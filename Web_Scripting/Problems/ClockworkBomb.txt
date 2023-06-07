@@ -1,0 +1,9 @@
+Clockwork Bomb                    
+
+httpscodeforcescomproblemsetproblem650E
+
+data structures
+
+3200
+
+My name is James diGriz Im the most clever robber and treasure hunter in the whole galaxy There are books written about my adventures and songs about my operations though you were able to catch me up in a pretty awkward momentI was able to hide from cameras outsmart all the guards and pass numerous traps but when I finally reached the treasure box and opened it I have accidentally started the clockwork bomb Luckily I have met such kind of bombs before and I know that the clockwork mechanism can be stopped by connecting contacts with wires on the control panel of the bomb in a certain mannerI see n contacts connected by n1 wires Contacts are numbered with integers from 1 to n Bomb has a security mechanism that ensures the following condition if there exist k2 contacts c1c2ck forming a circuit i e there exist k distinct wires between contacts c1 and c2 c2 and c3  ck and c1 then the bomb immediately explodes and my story ends here In particular if two contacts are connected by more than one wire they form a circuit of length 2 It is also prohibited to connect a contact with itselfOn the other hand if I disconnect more than one wire i e at some moment there will be no more than n2 wires in the scheme then the other security check fails and the bomb also explodes So the only thing I can do is to unplug some wire and plug it into a new place ensuring the fact that no circuits appearI know how I should put the wires in order to stop the clockwork But my time is running out Help me get out of this alive find the sequence of operations each of which consists of unplugging some wire and putting it into another place so that the bomb is defused 

@@ -1,0 +1,9 @@
+Petya and Rectangle                    
+
+httpscodeforcescomproblemsetproblem111E
+
+
+
+2900
+
+Little Petya loves playing with rectangles Mom bought Petya a rectangle divided into cells nm in size containing n rows m columns Petya marked two different cells of the rectangle and now he is solving the following taskLets define a simple path between those two cells as a sequence of distinct cells a1a2ak where a1 and ak are the two marked cells Besides ai and ai1 are sideneighboring cells of the path 1ik Lets denote the path length as number k the sequence length Petyas task is to find the longest simple paths length and to print the path Help him

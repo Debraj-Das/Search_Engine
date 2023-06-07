@@ -1,0 +1,9 @@
+Tanya and Colored Candies                    
+
+httpscodeforcescomproblemsetproblem1057C
+
+special problem
+
+2000
+
+There are n candy boxes in front of Tania The boxes are arranged in a row from left to right numbered from 1 to n The ith box contains ri candies candies have the color ci the color can take one of three values  red green or blue All candies inside a single box have the same color and it is equal to ciInitially Tanya is next to the box number s Tanya can move to the neighbor box that is with a number that differs by one or eat candies in the current box Tanya eats candies instantly but the movement takes one secondIf Tanya eats candies from the box then the box itself remains in place but there is no more candies in it In other words Tanya always eats all the candies from the box and candies in the boxes are not refilledIt is known that Tanya cannot eat candies of the same color one after another that is the colors of candies in two consecutive boxes from which she eats candies are always different In addition Tanyas appetite is constantly growing so in each next box from which she eats candies there should be strictly more candies than in the previous oneNote that for the first box from which Tanya will eat candies there are no restrictions on the color and number of candiesTanya wants to eat at least k candies What is the minimum number of seconds she will need Remember that she eats candies instantly and time is spent only on movements

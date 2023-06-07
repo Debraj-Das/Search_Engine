@@ -1,0 +1,9 @@
+Long sequence                    
+
+httpscodeforcescomproblemsetproblem86E
+
+brute force
+
+2700
+
+A sequence a0a1 is called a recurrent binary sequence if each term ai i01 is equal to 0 or 1 and there exist coefficients  such that anc1an1c2an2ckank mod 2 for all nk Assume that not all of ci are zerosNote that such a sequence can be uniquely recovered from any ktuple asas1ask1 and so it is periodic Moreover if a ktuple contains only zeros then the sequence contains only zeros so this case is not very interesting Otherwise the minimal period of the sequence is not greater than 2k1 as ktuple determines next element and there are 2k1 nonzero ktuples Let us call a sequence long if its minimal period is exactly 2k1 Your task is to find a long sequence for a given k if there is any

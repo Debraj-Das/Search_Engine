@@ -1,0 +1,9 @@
+Odd Divisor                    
+
+https://codeforces.com/problemset/problem/1475/A
+
+math
+
+900
+
+You are given an integer n. Check if n has an odd divisor, greater than one (does there exist such a number x (x > 1) that n is divisible by x and x is odd).For example, if n=6, then there is x=3. If n=4, then such a number does not exist.

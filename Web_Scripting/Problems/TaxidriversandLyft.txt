@@ -1,0 +1,9 @@
+Taxi drivers and Lyft                    
+
+https://codeforces.com/problemset/problem/1075/B
+
+implementation
+
+1200
+
+Palo Alto is an unusual city because it is an endless coordinate line. It is also known for the office of Lyft Level 5.Lyft has become so popular so that it is now used by all m taxi drivers in the city, who every day transport the rest of the city residents — n riders.Each resident (including taxi drivers) of Palo-Alto lives in its unique location (there is no such pair of residents that their coordinates are the same).The Lyft system is very clever: when a rider calls a taxi, his call does not go to all taxi drivers, but only to the one that is the closest to that person. If there are multiple ones with the same distance, then to taxi driver with a smaller coordinate is selected.But one morning the taxi drivers wondered: how many riders are there that would call the given taxi driver if they were the first to order a taxi on that day? In other words, you need to find for each taxi driver i the number a_{i} — the number of riders that would call the i-th taxi driver when all drivers and riders are at their home?The taxi driver can neither transport himself nor other taxi drivers.

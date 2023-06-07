@@ -1,0 +1,9 @@
+Repeating Cipher                    
+
+httpscodeforcescomproblemsetproblem1095A
+
+implementation
+
+800
+
+Polycarp loves ciphers He has invented his own cipher called repeatingRepeating cipher is used for strings To encrypt the string ss1s2 dots sm 1 le m le 10 Polycarp uses the following algorithm  he writes down s1 ones  he writes down s2 twice  he writes down s3 three times    he writes down sm m times For example if sbab the process is b to baa to baabbb So the encrypted sbab is baabbbGiven string t  the result of encryption of some string s Your task is to decrypt it ie find the string s

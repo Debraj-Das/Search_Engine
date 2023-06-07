@@ -1,0 +1,9 @@
+Nezzar and Binary String                    
+
+https://codeforces.com/problemset/problem/1477/B
+
+data structures
+
+1900
+
+Nezzar has a binary string s of length n that he wants to share with his best friend, Nanako. Nanako will spend q days inspecting the binary string. At the same time, Nezzar wants to change the string s into string f during these q days, because it looks better.It is known that Nanako loves consistency so much. On the i-th day, Nanako will inspect a segment of string s from position l_i to position r_i inclusive. If the segment contains both characters '0' and '1', Nanako becomes unhappy and throws away the string.After this inspection, at the i-th night, Nezzar can secretly change strictly less than half of the characters in the segment from l_i to r_i inclusive, otherwise the change will be too obvious.Now Nezzar wonders, if it is possible to avoid Nanako being unhappy and at the same time have the string become equal to the string f at the end of these q days and nights.

@@ -1,0 +1,9 @@
+Up the hill                    
+
+httpscodeforcescomproblemsetproblem491A
+
+constructive algorithms
+
+1000
+
+Hiking club Up the hill just returned from a walk Now they are trying to remember which hills theyve just walked throughIt is known that there were N stops all on different integer heights between 1 and N kilometers inclusive above the sea level On the first day theyve traveled from the first stop to the second stop on the second day theyve traveled from the second to the third and so on and on the last day theyve traveled from the stop N1 to the stop N and successfully finished their expeditionThey are trying to find out which heights were their stops located at They have an entry in a travel journal specifying how many days did they travel up the hill and how many days did they walk down the hillHelp them by suggesting some possible stop heights satisfying numbers from the travel journal

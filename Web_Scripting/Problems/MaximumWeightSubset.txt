@@ -1,0 +1,9 @@
+Maximum Weight Subset                    
+
+https://codeforces.com/problemset/problem/1249/F
+
+dp
+
+2200
+
+You are given a tree, which consists of n vertices. Recall that a tree is a connected undirected graph without cycles.   Example of a tree. Vertices are numbered from 1 to n. All vertices have weights, the weight of the vertex v is a_v.Recall that the distance between two vertices in the tree is the number of edges on a simple path between them.Your task is to find the subset of vertices with the maximum total weight (the weight of the subset is the sum of weights of all vertices in it) such that there is no pair of vertices with the distance k or less between them in this subset.

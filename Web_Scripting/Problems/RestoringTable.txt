@@ -1,0 +1,9 @@
+Restoring Table                    
+
+httpscodeforcescomproblemsetproblem245D
+
+constructive algorithms
+
+1500
+
+Recently Polycarpus has learned the bitwise AND operation which is also called AND of nonnegative integers Now he wants to demonstrate the school IT teacher his superb manipulation with the learned operationFor that Polycarpus came to school a little earlier and wrote on the board a sequence of nonnegative integers a1a2an He also wrote a square matrix b of size nn The element of matrix b that sits in the ith row in the jth column well denote it as bij equals  the bitwise AND of numbers ai and aj that is bijaiaj if ij  1 if ij Having written out matrix b Polycarpus got very happy and wiped a off the blackboard But the thing is the teacher will want this sequence to check whether Polycarpus calculations were correct Polycarus urgently needs to restore the removed sequence of integers or else he wont prove that he can count correctlyHelp Polycarpus given matrix b restore the sequence of numbers a1a2an that he has removed from the board Polycarpus doesnt like large numbers so any number in the restored sequence mustnt exceed 109

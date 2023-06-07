@@ -1,0 +1,9 @@
+Vasya and Array                    
+
+https://codeforces.com/problemset/problem/1093/F
+
+dp
+
+2400
+
+Vasya has got an array consisting of n integers, and two integers k and len in addition. All numbers in the array are either between 1 and k (inclusive), or equal to -1. The array is good if there is no segment of len consecutive equal numbers.Vasya will replace each -1 with some number from 1 to k (inclusive) in such a way that the resulting array is good. Tell him the number of ways to do this replacement. Since the answer may be large, print it modulo 998244353.

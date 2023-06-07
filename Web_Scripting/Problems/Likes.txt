@@ -1,0 +1,9 @@
+Likes                    
+
+https://codeforces.com/problemset/problem/1802/A
+
+greedy
+
+800
+
+Nikita recently held a very controversial round, after which his contribution changed very quickly.The announcement hung on the main page for n seconds. In the ith second |a_i|th person either liked or removed the like (Nikita was lucky in this task and there are no dislikes). If a_i > 0, then the a_ith person put a like. If a_i < 0, then the person -a_i removed the like. Each person put and removed the like no more than once. A person could not remove a like if he had not put it before.Since Nikita's contribution became very bad after the round, he wanted to analyze how his contribution changed while the announcement was on the main page. He turned to the creator of the platform with a request to give him the sequence a_1, a_2, \ldots, a_n. But due to the imperfection of the platform, the sequence a was shuffled.You are given a shuffled sequence of a that describes user activity. You need to tell for each moment from 1 to n what the maximum and minimum number of likes could be on the post at that moment.

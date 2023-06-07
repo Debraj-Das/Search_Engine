@@ -1,0 +1,9 @@
+Dividing the numbers                    
+
+httpscodeforcescomproblemsetproblem899C
+
+constructive algorithms
+
+1300
+
+Petya has n integers 123n He wants to split these integers in two nonempty groups in such a way that the absolute difference of sums of integers in each group is as small as possible Help Petya to split the integers Each of n integers should be exactly in one group

@@ -1,0 +1,9 @@
+Replacing Digits                    
+
+httpscodeforcescomproblemsetproblem169B
+
+greedy
+
+1100
+
+You are given an integer a that consists of n digits You are also given a sequence of digits s of length m The digit in position j 1jm of sequence s means that you can choose an arbitrary position i 1in in a and replace the digit in the chosen position i with sj Each element in the sequence s can participate in no more than one replacing operationYour task is to perform such sequence of replacements that the given number a gets maximum value You are allowed to use not all elements from s

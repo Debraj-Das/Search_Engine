@@ -1,0 +1,9 @@
+Balanced Tunnel                    
+
+https://codeforces.com/problemset/problem/1237/B
+
+data structures
+
+1300
+
+Consider a tunnel on a one-way road. During a particular day, n cars numbered from 1 to n entered and exited the tunnel exactly once. All the cars passed through the tunnel at constant speeds.A traffic enforcement camera is mounted at the tunnel entrance. Another traffic enforcement camera is mounted at the tunnel exit. Perfectly balanced.Thanks to the cameras, the order in which the cars entered and exited the tunnel is known. No two cars entered or exited at the same time.Traffic regulations prohibit overtaking inside the tunnel. If car i overtakes any other car j inside the tunnel, car i must be fined. However, each car can be fined at most once.Formally, let's say that car i definitely overtook car j if car i entered the tunnel later than car j and exited the tunnel earlier than car j. Then, car i must be fined if and only if it definitely overtook at least one other car.Find the number of cars that must be fined. 

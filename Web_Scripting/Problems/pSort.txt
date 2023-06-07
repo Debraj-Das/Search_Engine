@@ -1,0 +1,9 @@
+pSort                    
+
+httpscodeforcescomproblemsetproblem28B
+
+dfs and similar
+
+1600
+
+One day n cells of some array decided to play the following game Initially each cell contains a number which is equal to its ordinal number starting from 1 Also each cell determined its favourite number On its move ith cell can exchange its value with the value of some other jth cell if ijdi where di is a favourite number of ith cell Cells make moves in any order the number of moves is unlimitedThe favourite number of each cell will be given to you You will also be given a permutation of numbers from 1 to n You are to determine whether the game could move to this state

@@ -1,0 +1,9 @@
+Omkar and the Meaning of Life                    
+
+https://codeforces.com/problemset/problem/1583/D
+
+constructive algorithms
+
+1800
+
+It turns out that the meaning of life is a permutation p_1, p_2, \ldots, p_n of the integers 1, 2, \ldots, n (2 \leq n \leq 100). Omkar, having created all life, knows this permutation, and will allow you to figure it out using some queries.A query consists of an array a_1, a_2, \ldots, a_n of integers between 1 and n. a is not required to be a permutation. Omkar will first compute the pairwise sum of a and p, meaning that he will compute an array s where s_j = p_j + a_j for all j = 1, 2, \ldots, n. Then, he will find the smallest index k such that s_k occurs more than once in s, and answer with k. If there is no such index k, then he will answer with 0.You can perform at most 2n queries. Figure out the meaning of life p.

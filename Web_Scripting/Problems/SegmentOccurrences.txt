@@ -1,0 +1,9 @@
+Segment Occurrences                    
+
+https://codeforces.com/problemset/problem/1016/B
+
+brute force
+
+1300
+
+You are given two strings s and t, both consisting only of lowercase Latin letters.The substring s[l..r] is the string which is obtained by taking characters s_l, s_{l + 1}, \dots, s_r without changing the order.Each of the occurrences of string a in a string b is a position i (1 \le i \le |b| - |a| + 1) such that b[i..i + |a| - 1] = a (|a| is the length of string a).You are asked q queries: for the i-th query you are required to calculate the number of occurrences of string t in a substring s[l_i..r_i].

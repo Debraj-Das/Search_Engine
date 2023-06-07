@@ -1,0 +1,9 @@
+Chocolate                    
+
+httpscodeforcescomproblemsetproblem31D
+
+dfs and similar
+
+2000
+
+Bob has a rectangular chocolate bar of the size WH He introduced a cartesian coordinate system so that the point 00 corresponds to the lowerleft corner of the bar and the point WH corresponds to the upperright corner Bob decided to split the bar into pieces by breaking it Each break is a segment parallel to one of the coordinate axes which connects the edges of the bar More formally each break goes along the line xxc or yyc where xc and yc are integers It should divide one part of the bar into two nonempty parts After Bob breaks some part into two parts he breaks the resulting parts separately and independently from each other Also he doesnt move the parts of the bar Bob made n breaks and wrote them down in his notebook in arbitrary order At the end he got n1 parts Now he wants to calculate their areas Bob is lazy so he asks you to do this task

@@ -1,0 +1,9 @@
+Long Way Home                    
+
+https://codeforces.com/problemset/problem/1715/E
+
+data structures
+
+2400
+
+Stanley lives in a country that consists of n cities (he lives in city 1). There are bidirectional roads between some of the cities, and you know how long it takes to ride through each of them. Additionally, there is a flight between each pair of cities, the flight between cities u and v takes (u - v)^2 time.Stanley is quite afraid of flying because of watching "Sully: Miracle on the Hudson" recently, so he can take at most k flights. Stanley wants to know the minimum time of a journey to each of the n cities from the city 1.

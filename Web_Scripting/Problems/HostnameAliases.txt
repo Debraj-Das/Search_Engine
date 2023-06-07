@@ -1,0 +1,9 @@
+Hostname Aliases                    
+
+https://codeforces.com/problemset/problem/644/C
+
+*special problem
+
+2100
+
+There are some websites that are accessible through several different addresses. For example, for a long time Codeforces was accessible with two hostnames codeforces.com and codeforces.ru.You are given a list of page addresses being queried. For simplicity we consider all addresses to have the form http://<hostname>[/<path>], where:  <hostname> — server name (consists of words and maybe some dots separating them),  /<path> — optional part, where <path> consists of words separated by slashes. We consider two <hostname> to correspond to one website if for each query to the first <hostname> there will be exactly the same query to the second one and vice versa — for each query to the second <hostname> there will be the same query to the first one. Take a look at the samples for further clarifications.Your goal is to determine the groups of server names that correspond to one website. Ignore groups consisting of the only server name.Please note, that according to the above definition queries http://<hostname> and http://<hostname>/ are different.

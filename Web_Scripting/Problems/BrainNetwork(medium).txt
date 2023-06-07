@@ -1,0 +1,9 @@
+Brain Network medium                    
+
+httpscodeforcescomproblemsetproblem690C2
+
+dfs and similar
+
+1500
+
+Further research on zombie thought processes yielded interesting results As we know from the previous problem the nervous system of a zombie consists of n brains and m brain connectors joining some pairs of brains together It was observed that the intellectual abilities of a zombie depend mainly on the topology of its nervous system More precisely we define the distance between two brains u and v 1uvn as the minimum number of brain connectors used when transmitting a thought between these two brains The brain latency of a zombie is defined to be the maximum distance between any two of its brains Researchers conjecture that the brain latency is the crucial parameter which determines how smart a given zombie is Help them test this conjecture by writing a program to compute brain latencies of nervous systemsIn this problem you may assume that any nervous system given in the input is valid ie it satisfies conditions 1 and 2 from the easy version

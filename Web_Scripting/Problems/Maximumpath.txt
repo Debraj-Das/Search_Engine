@@ -1,0 +1,9 @@
+Maximum path                    
+
+httpscodeforcescomproblemsetproblem762D
+
+dp
+
+2300
+
+You are given a rectangular table 3n Each cell contains an integer You can move from one cell to another if they share a sideFind such path from the upper left cell to the bottom right cell of the table that doesnt visit any of the cells twice and the sum of numbers written in the cells of this path is maximum possible

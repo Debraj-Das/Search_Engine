@@ -1,0 +1,9 @@
+Prime Matrix                    
+
+httpscodeforcescomproblemsetproblem271B
+
+binary search
+
+1300
+
+Youve got an nm matrix The matrix consists of integers In one move you can apply a single transformation to the matrix choose an arbitrary element of the matrix and increase it by 1 Each element can be increased an arbitrary number of timesYou are really curious about prime numbers Let us remind you that a prime number is a positive integer that has exactly two distinct positive integer divisors itself and number one For example numbers 2 3 5 are prime and numbers 1 4 6 are not A matrix is prime if at least one of the two following conditions fulfills  the matrix has a row with prime numbers only  the matrix has a column with prime numbers only Your task is to count the minimum number of moves needed to get a prime matrix from the one youve got

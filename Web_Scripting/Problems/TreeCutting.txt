@@ -1,0 +1,9 @@
+Tree Cutting                    
+
+https://codeforces.com/problemset/problem/1799/H
+
+bitmasks
+
+3200
+
+You are given a tree with n vertices.A hero k times do the following operation:  Choose some edge.  Remove it.  Take one of the two remaining parts and delete it.  Write the number of vertices in the remaining part. You are given an initial tree and the a sequence of written numbers. Find the number of ways to make operations such that the written numbers are equal to the given numbers. Due to the answer can be big, find it by modulo 998\,244\,353. Two ways are considered different, if on some operation edge or remaining part are selected differently.

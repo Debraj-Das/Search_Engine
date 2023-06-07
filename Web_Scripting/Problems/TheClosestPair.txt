@@ -1,0 +1,9 @@
+The Closest Pair                    
+
+httpscodeforcescomproblemsetproblem311A
+
+constructive algorithms
+
+1300
+
+Currently Tiny is learning Computational Geometry When trying to solve a problem called The Closest Pair Of Points In The Plane he found that a code which gave a wrong time complexity got Accepted instead of Time Limit ExceededThe problem is the follows Given n points in the plane find a pair of points between which the distance is minimized Distance between x1y1 and x2y2 is The pseudo code of the unexpected code is as followsinput nfor i from 1 to n    input the ith points coordinates into pisort array p by increasing of x coordinate first and increasing of y coordinate seconddINF        here INF is a number big enoughtot0for i from 1 to n    for j from i1 to n        tot        if pjxpixd then break    notice that break is only to be                                            out of the loop for j        dminddistancepipjoutput dHere tot can be regarded as the running time of the code Due to the fact that a computer can only run a limited number of operations per second tot should not be more than k in order not to get Time Limit ExceededYou are a great hacker Would you please help Tiny generate a test data and let the code get Time Limit Exceeded

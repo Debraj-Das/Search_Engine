@@ -1,0 +1,9 @@
+Break Up                    
+
+https://codeforces.com/problemset/problem/700/C
+
+dfs and similar
+
+2600
+
+Again, there are hard times in Berland! Many towns have such tensions that even civil war is possible. There are n towns in Reberland, some pairs of which connected by two-way roads. It is not guaranteed that it is possible to reach one town from any other town using these roads. Towns s and t announce the final break of any relationship and intend to rule out the possibility of moving between them by the roads. Now possibly it is needed to close several roads so that moving from s to t using roads becomes impossible. Each town agrees to spend money on closing no more than one road, therefore, the total number of closed roads will be no more than two.Help them find set of no more than two roads such that there will be no way between s and t after closing these roads. For each road the budget required for its closure was estimated. Among all sets find such that the total budget for the closure of a set of roads is minimum.

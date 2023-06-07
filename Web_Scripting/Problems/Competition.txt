@@ -1,0 +1,9 @@
+Competition                    
+
+httpscodeforcescomproblemsetproblem144E
+
+data structures
+
+2200
+
+The secondary diagonal of a square matrix is a diagonal going from the top right to the bottom left corner Lets define an ndegree staircase as a square matrix nn containing no squares above the secondary diagonal the picture below shows a 5degree staircase   The squares of the ndegree staircase contain m sportsmen A sportsman needs one second to move to a sideneighboring square of the staircase Before the beginning of the competition each sportsman must choose one of the shortest ways to the secondary diagonal After the starting whistle the competition begins and all sportsmen start moving along the chosen paths When a sportsman reaches a cell of the secondary diagonal he stops and moves no more The competition ends when all sportsmen reach the secondary diagonal The competition is considered successful if during it no two sportsmen were present in the same square simultaneously Any square belonging to the secondary diagonal also cannot contain more than one sportsman If a sportsman at the given moment of time leaves a square and another sportsman comes to it then they are not considered to occupy the same square simultaneously Note that other extreme cases for example two sportsmen moving towards each other are impossible as the chosen ways are the shortest onesYou are given positions of m sportsmen on the staircase Your task is to choose among them the maximum number of sportsmen for who the competition can be successful that is so that there existed such choice of shortest ways for the sportsmen at which no two sportsmen find themselves in the same square simultaneously All other sportsmen that are not chosen will be removed from the staircase before the competition starts 

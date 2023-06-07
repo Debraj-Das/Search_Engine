@@ -1,0 +1,9 @@
+Task On The Board                    
+
+https://codeforces.com/problemset/problem/1367/D
+
+constructive algorithms
+
+1800
+
+Polycarp wrote on the board a string s containing only lowercase Latin letters ('a'-'z'). This string is known for you and given in the input.After that, he erased some letters from the string s, and he rewrote the remaining letters in any order. As a result, he got some new string t. You have to find it with some additional information.Suppose that the string t has length m and the characters are numbered from left to right from 1 to m. You are given a sequence of m integers: b_1, b_2, \ldots, b_m, where b_i is the sum of the distances |i-j| from the index i to all such indices j that t_j > t_i (consider that 'a'<'b'<...<'z'). In other words, to calculate b_i, Polycarp finds all such indices j that the index j contains a letter that is later in the alphabet than t_i and sums all the values |i-j|.For example, if t = "abzb", then:  since t_1='a', all other indices contain letters which are later in the alphabet, that is: b_1=|1-2|+|1-3|+|1-4|=1+2+3=6;  since t_2='b', only the index j=3 contains the letter, which is later in the alphabet, that is: b_2=|2-3|=1;  since t_3='z', then there are no indexes j such that t_j>t_i, thus b_3=0;  since t_4='b', only the index j=3 contains the letter, which is later in the alphabet, that is: b_4=|4-3|=1. Thus, if t = "abzb", then b=[6,1,0,1].Given the string s and the array b, find any possible string t for which the following two requirements are fulfilled simultaneously:  t is obtained from s by erasing some letters (possibly zero) and then writing the rest in any order;  the array, constructed from the string t according to the rules above, equals to the array b specified in the input data. 

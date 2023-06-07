@@ -1,0 +1,9 @@
+Ratings and Reality Shows                    
+
+httpscodeforcescomproblemsetproblem887D
+
+data structures
+
+2400
+
+There are two main kinds of events in the life of topmodel fashion shows and photo shoots Participating in any of these events affects the rating of appropriate topmodel After each photo shoot models rating increases by a and after each fashion show decreases by b designers do too many experiments nowadays Moreover sometimes topmodels participates in talk shows After participating in talk show model becomes more popular and increasing of her rating after photo shoots become c and decreasing of her rating after fashion show becomes dIzabella wants to participate in a talk show but she wants to do it in such a way that her rating will never become negative Help her to find a suitable moment for participating in the talk show Lets assume that models career begins in moment 0 At that moment Izabellas rating was equal to start If talk show happens in moment t if will affect all events in models life in interval of time ttlen including t and not including tlen where len is duration of influenceIzabella wants to participate in a talk show but she wants to do it in such a way that her rating will not become become negative before talk show or during period of influence of talk show Help her to find a suitable moment for participating in the talk show 

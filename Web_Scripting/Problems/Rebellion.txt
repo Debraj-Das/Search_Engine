@@ -1,0 +1,9 @@
+Rebellion                    
+
+https://codeforces.com/problemset/problem/1746/B
+
+constructive algorithms
+
+800
+
+You have an array a of size n consisting only of zeroes and ones. You can do the following operation:  choose two indices 1 \le i , j \le n, i \ne j,  add a_{i} to a_{j},  remove a_{i} from a. Note that elements of a can become bigger than 1 after performing some operations. Also note that n becomes 1 less after the operation.What is the minimum number of operations needed to make a non-decreasing, i. e. that each element is not less than the previous element?

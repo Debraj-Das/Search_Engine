@@ -1,0 +1,9 @@
+Jzzhu and Squares                    
+
+httpscodeforcescomproblemsetproblem449E
+
+dp
+
+2900
+
+Jzzhu has two integers n and m He calls an integer point xy of a plane special if 0xn and 0ym Jzzhu defines a unit square as a square with corners at points xy x1y x1y1 xy1 where x and y are some integersLets look at all the squares their sides not necessarily parallel to the coordinate axes with corners at the special points For each such square Jzzhu paints a dot in every unit square that is fully inside it After that some unit squares can contain several dots Now Jzzhu wonders how many dots he has painted on the plane Find this number modulo 1000000007 1097

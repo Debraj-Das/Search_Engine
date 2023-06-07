@@ -1,0 +1,9 @@
+Monoblock                    
+
+https://codeforces.com/problemset/problem/1715/C
+
+combinatorics
+
+1700
+
+Stanley has decided to buy a new desktop PC made by the company "Monoblock", and to solve captcha on their website, he needs to solve the following task.The awesomeness of an array is the minimum number of blocks of consecutive identical numbers in which the array could be split. For example, the awesomeness of an array   [1, 1, 1] is 1;  [5, 7] is 2, as it could be split into blocks [5] and [7];  [1, 7, 7, 7, 7, 7, 7, 7, 9, 9, 9, 9, 9, 9, 9, 9, 9] is 3, as it could be split into blocks [1], [7, 7, 7, 7, 7, 7, 7], and [9, 9, 9, 9, 9, 9, 9, 9, 9]. You are given an array a of length n. There are m queries of two integers i, x. A query i, x means that from now on the i-th element of the array a is equal to x.After each query print the sum of awesomeness values among all subsegments of array a. In other words, after each query you need to calculate \sum\limits_{l = 1}^n \sum\limits_{r = l}^n g(l, r), where g(l, r) is the awesomeness of the array b = [a_l, a_{l + 1}, \ldots, a_r].

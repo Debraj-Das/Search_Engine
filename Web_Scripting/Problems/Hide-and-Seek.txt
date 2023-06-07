@@ -1,0 +1,9 @@
+HideandSeek                    
+
+httpscodeforcescomproblemsetproblem32E
+
+geometry
+
+2400
+
+Victor and Peter are playing hideandseek Peter has hidden and Victor is to find him In the room where they are playing there is only one nontransparent wall and one doublesided mirror Victor and Peter are points with coordinates xvyv and xpyp respectively The wall is a segment joining points with coordinates xw1yw1 and xw2yw2 the mirror  a segment joining points xm1ym1 and xm2ym2If an obstacle has a common point with a line of vision its considered that the boys cant see each other with this line of vision If the mirror has a common point with the line of vision its considered that the boys can see each other in the mirror ie reflection takes place The reflection process is governed by laws of physics  the angle of incidence is equal to the angle of reflection The incident ray is in the same halfplane as the reflected ray relative to the mirror Ie to see each other Victor and Peter should be to the same side of the line containing the mirror see example 1 If the line of vision is parallel to the mirror reflection doesnt take place and the mirror isnt regarded as an obstacle see example 4Victor got interested if he can see Peter while standing at the same spot Help him solve this problem

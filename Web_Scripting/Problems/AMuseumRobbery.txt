@@ -1,0 +1,9 @@
+A Museum Robbery                    
+
+httpscodeforcescomproblemsetproblem601E
+
+data structures
+
+2800
+
+Theres a famous museum in the city where Kleofáš lives In the museum n exhibits numbered 1 through n had been displayed for a long time the ith of those exhibits has value vi and mass wi Then the museum was bought by a large financial group and started to vary the exhibits At about the same time Kleofáš gained interest in the museum so to sayYou should process q events of three types type 1  the museum displays an exhibit with value v and mass w the exhibit displayed in the ith event of this type is numbered ni see sample explanation for more details type 2  the museum removes the exhibit with number x and stores it safely in its vault type 3  Kleofáš visits the museum and wonders for no important reason at all of course if there was a robbery and exhibits with total mass at most m were stolen what would their maximum possible total value beFor each event of type 3 let sm be the maximum possible total value of stolen exhibits with total mass mFormally let D be the set of numbers of all exhibits that are currently displayed so initially D  1  n Let PD be the set of all subsets of D and let Then sm is defined as Compute sm for each  Note that the output follows a special format

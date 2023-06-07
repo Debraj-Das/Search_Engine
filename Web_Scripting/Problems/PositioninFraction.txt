@@ -1,0 +1,9 @@
+Position in Fraction                    
+
+https://codeforces.com/problemset/problem/900/B
+
+math
+
+1300
+
+You have a fraction . You need to find the first occurrence of digit c into decimal notation of the fraction after decimal point.

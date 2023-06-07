@@ -1,0 +1,9 @@
+Underground Lab                    
+
+https://codeforces.com/problemset/problem/780/E
+
+constructive algorithms
+
+2100
+
+The evil Bumbershoot corporation produces clones for gruesome experiments in a vast underground lab. On one occasion, the corp cloned a boy Andryusha who was smarter than his comrades. Immediately Andryusha understood that something fishy was going on there. He rallied fellow clones to go on a feud against the evil corp, and they set out to find an exit from the lab. The corp had to reduce to destroy the lab complex.The lab can be pictured as a connected graph with n vertices and m edges. k clones of Andryusha start looking for an exit in some of the vertices. Each clone can traverse any edge once per second. Any number of clones are allowed to be at any vertex simultaneously. Each clone is allowed to stop looking at any time moment, but he must look at his starting vertex at least. The exit can be located at any vertex of the lab, hence each vertex must be visited by at least one clone.Each clone can visit at most  vertices before the lab explodes.Your task is to choose starting vertices and searching routes for the clones. Each route can have at most  vertices.

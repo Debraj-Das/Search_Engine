@@ -1,0 +1,9 @@
+Build From Suffixes                    
+
+https://codeforces.com/problemset/problem/1488/H
+
+*special problem
+
+2800
+
+You are given an integer n and a sequence a of n-1 integers, each element is either 0 or 1.You are asked to build a string of length n such that:   each letter is one of "abcd";  if a_i=1, then the i-th suffix of the string is lexicographically smaller than the (i+1)-th suffix;  if a_i=0, then the i-th suffix of the string is lexicographically greater than the (i+1)-th suffix. You will be asked q queries of form:   i (1 \le i \le n - 1) — flip the value of a_i (if a_i=0, then set a_i to 1, and vice versa). After each query print the number of different strings that satisfy the given constraints modulo 998\,244\,353.

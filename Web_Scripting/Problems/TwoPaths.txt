@@ -1,0 +1,9 @@
+Two Paths                    
+
+httpscodeforcescomproblemsetproblem36E
+
+constructive algorithms
+
+2600
+
+Once archaeologists found m mysterious papers each of which had a pair of integers written on them Ancient people were known to like writing down the indexes of the roads they walked along as a b or b a where ab are the indexes of two different cities joint by the road  It is also known that the mysterious papers are pages of two travel journals those days a new journal was written for every new journeyDuring one journey the traveler could walk along one and the same road several times in one or several directions but in that case he wrote a new entry for each time in his journal Besides the archaeologists think that the direction the traveler took on a road had no effect upon the entry the entry that looks like a b could refer to the road from a to b as well as to the road from b to aThe archaeologists want to put the pages in the right order and reconstruct the two travel paths but unfortunately they are bad at programming Thats where you come in Go help them

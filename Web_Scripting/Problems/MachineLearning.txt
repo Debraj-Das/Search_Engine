@@ -1,0 +1,9 @@
+Machine Learning                    
+
+httpscodeforcescomproblemsetproblem940F
+
+brute force
+
+2600
+
+You come home and fell some unpleasant smell Where is it coming fromYou are given an array a You have to answer the following queries   You are given two integers l and r Let ci be the number of occurrences of i in alr where alr is the subarray of a from lth element to rth inclusive Find the Mex of c0c1c109  You are given two integers p to x Change ap to x The Mex of a multiset of numbers is the smallest nonnegative integer not in the setNote that in this problem all elements of a are positive which means that c0  0 and 0 is never the answer for the query of the second type

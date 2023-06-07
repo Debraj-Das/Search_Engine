@@ -1,0 +1,9 @@
+Converging Array (Easy Version)                    
+
+https://codeforces.com/problemset/problem/1540/C1
+
+dp
+
+2700
+
+This is the easy version of the problem. The only difference is that in this version q = 1. You can make hacks only if both versions of the problem are solved.There is a process that takes place on arrays a and b of length n and length n-1 respectively. The process is an infinite sequence of operations. Each operation is as follows:   First, choose a random integer i (1 \le i \le n-1).  Then, simultaneously set a_i = \min\left(a_i, \frac{a_i+a_{i+1}-b_i}{2}\right) and a_{i+1} = \max\left(a_{i+1}, \frac{a_i+a_{i+1}+b_i}{2}\right) without any rounding (so values may become non-integer).  See notes for an example of an operation.It can be proven that array a converges, i. e. for each i there exists a limit a_i converges to. Let function F(a, b) return the value a_1 converges to after a process on a and b.You are given array b, but not array a. However, you are given a third array c. Array a is good if it contains only integers and satisfies 0 \leq a_i \leq c_i for 1 \leq i \leq n.Your task is to count the number of good arrays a where F(a, b) \geq x for q values of x. Since the number of arrays can be very large, print it modulo 10^9+7.

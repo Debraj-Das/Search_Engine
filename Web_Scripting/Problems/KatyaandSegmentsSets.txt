@@ -1,0 +1,9 @@
+Katya and Segments Sets                    
+
+https://codeforces.com/problemset/problem/1080/F
+
+data structures
+
+2400
+
+It is a very important day for Katya. She has a test in a programming class. As always, she was given an interesting problem that she solved very fast. Can you solve that problem?You are given n ordered segments sets. Each segment can be represented as a pair of two integers [l, r] where l\leq r. Each set can contain an arbitrary number of segments (even 0). It is possible that some segments are equal.You are also given m queries, each of them can be represented as four numbers: a, b, x, y. For each segment, find out whether it is true that each set p (a\leq p\leq b) contains at least one segment [l, r] that lies entirely on the segment [x, y], that is x\leq l\leq r\leq y. Find out the answer to each query.Note that you need to solve this problem online. That is, you will get a new query only after you print the answer for the previous query.

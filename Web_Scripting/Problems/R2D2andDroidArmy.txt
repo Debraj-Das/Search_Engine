@@ -1,0 +1,9 @@
+R2D2 and Droid Army                    
+
+httpscodeforcescomproblemsetproblem514D
+
+binary search
+
+2000
+
+An army of n droids is lined up in one row Each droid is described by m integers a1a2am where ai is the number of details of the ith type in this droids mechanism R2D2 wants to destroy the sequence of consecutive droids of maximum length He has m weapons the ith weapon can affect all the droids in the army by destroying one detail of the ith type if the droid doesnt have details of this type nothing happens to it A droid is considered to be destroyed when all of its details are destroyed R2D2 can make at most k shots How many shots from the weapon of what type should R2D2 make to destroy the sequence of consecutive droids of maximum length

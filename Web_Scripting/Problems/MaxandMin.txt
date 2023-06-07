@@ -1,0 +1,9 @@
+Max and Min                    
+
+httpscodeforcescomproblemsetproblem566G
+
+geometry
+
+2500
+
+Two kittens Max and Min play with a pair of nonnegative integers x and y As you can guess from their names kitten Max loves to maximize and kitten Min loves to minimize As part of this game Min wants to make sure that both numbers x and y became negative at the same time and kitten Max tries to prevent him from doing soEach kitten has a set of pairs of integers available to it Kitten Max has n pairs of nonnegative integers aibi 1in and kitten Min has m pairs of nonnegative integers cjdj 1jm As kitten Max makes a move it can take any available pair aibi and add ai to x and bi to y and kitten Min can take any available pair cjdj and subtract cj from x and dj from y Each kitten can use each pair multiple times during distinct movesMax moves first Kitten Min is winning if at some moment both numbers a b are negative simultaneously Otherwise the winner of the game is kitten Max Determine which kitten wins if both of them play optimally

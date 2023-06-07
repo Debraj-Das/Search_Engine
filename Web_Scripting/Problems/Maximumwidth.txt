@@ -1,0 +1,9 @@
+Maximum width                    
+
+https://codeforces.com/problemset/problem/1492/C
+
+binary search
+
+1500
+
+Your classmate, whom you do not like because he is boring, but whom you respect for his intellect, has two strings: s of length n and t of length m.A sequence p_1, p_2, \ldots, p_m, where 1 \leq p_1 < p_2 < \ldots < p_m \leq n, is called beautiful, if s_{p_i} = t_i for all i from 1 to m. The width of a sequence is defined as \max\limits_{1 \le i < m} \left(p_{i + 1} - p_i\right).Please help your classmate to identify the beautiful sequence with the maximum width. Your classmate promised you that for the given strings s and t there is at least one beautiful sequence.

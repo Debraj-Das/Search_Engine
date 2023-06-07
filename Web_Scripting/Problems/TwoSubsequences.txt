@@ -1,0 +1,9 @@
+Two Subsequences                    
+
+httpscodeforcescomproblemsetproblem83E
+
+bitmasks
+
+2800
+
+On an IT lesson Valera studied data compression The teacher told about a new method which we shall now describe to youLet a1a2an be the given sequence of lines needed to be compressed Here and below we shall assume that all lines are of the same length and consist only of the digits 0 and 1 Lets define the compression function  fempty sequenceempty string  fss  fs1s2 the smallest in length string which has one of the prefixes equal to s1 and one of the suffixes equal to s2 For example f0010110011 f111011111011  fa1a2anffa1a2an1an For example f000000111ff000000111f000111000111 Valera faces a real challenge he should divide the given sequence a1a2an into two subsequences b1b2bk and c1c2cm mkn so that the value of Sfb1b2bkfc1c2cm took the minimum possible value Here p denotes the length of the string pNote that it is not allowed to change the relative order of lines in the subsequences It is allowed to make one of the subsequences empty Each string from the initial sequence should belong to exactly one subsequence Elements of subsequences b and c dont have to be consecutive in the original sequence a i e elements of b and c can alternate in a see samples 2 and 3Help Valera to find the minimum possible value of S

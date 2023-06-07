@@ -1,0 +1,9 @@
+Equalize by Divide                    
+
+https://codeforces.com/problemset/problem/1799/B
+
+brute force
+
+1200
+
+You are given an array a_1, a_2, \ldots, a_n of positive integers.You can make this operation multiple (possibly zero) times:  Choose two indices i, j (1 \leq i, j \leq n, i \neq j).  Assign a_i := \lceil \frac{a_i}{a_j} \rceil. Here \lceil x \rceil denotes x rounded up to the smallest integer \geq x. Is it possible to make all array elements equal by some sequence of operations (possibly empty)? If yes, print any way to do it in at most 30n operations.It can be proven, that under the problem constraints, if some way exists to make all elements equal, there exists a way with at most 30n operations.

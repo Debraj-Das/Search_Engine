@@ -1,0 +1,9 @@
+Toy Sum                    
+
+httpscodeforcescomproblemsetproblem405D
+
+greedy
+
+1700
+
+Little Chris is very keen on his toy blocks His teacher however wants Chris to solve more problems so he decided to play a trick on ChrisThere are exactly s blocks in Chriss set each block has a unique number from 1 to s Chriss teacher picks a subset of blocks X and keeps it to himself He will give them back only if Chris can pick such a nonempty subset Y from the remaining blocks that the equality holds  Are you kidding me asks ChrisFor example consider a case where s8 and Chriss teacher took the blocks with numbers 1 4 and 5 One way for Chris to choose a set is to pick the blocks with numbers 3 and 6 see figure Then the required sums would be equal 11415183867  However now Chris has exactly s106 blocks Given the set X of blocks his teacher chooses help Chris to find the required set Y

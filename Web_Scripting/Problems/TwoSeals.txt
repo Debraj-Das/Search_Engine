@@ -1,0 +1,9 @@
+Two Seals                    
+
+httpscodeforcescomproblemsetproblem837C
+
+brute force
+
+1500
+
+One very important person has a piece of paper in the form of a rectangle abAlso he has n seals Each seal leaves an impression on the paper in the form of a rectangle of the size xiyi Each impression must be parallel to the sides of the piece of paper but seal can be rotated by 90 degreesA very important person wants to choose two different seals and put them two impressions Each of the selected seals puts exactly one impression Impressions should not overlap but they can touch sides and the total area occupied by them should be the largest possible What is the largest area that can be occupied by two seals

@@ -1,0 +1,9 @@
+Flowers                    
+
+httpscodeforcescomproblemsetproblem474D
+
+dp
+
+1700
+
+We saw the little game Marmot made for Moles lunch Now its Marmots dinner time and as we all know Marmot eats flowers At every dinner he eats some red and white flowers Therefore a dinner can be represented as a sequence of several flowers some of them white and some of them redBut for a dinner to be tasty there is a rule Marmot wants to eat white flowers only in groups of size kNow Marmot wonders in how many ways he can eat between a and b flowers As the number of ways could be very large print it modulo 1000000007 1097

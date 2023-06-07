@@ -1,0 +1,9 @@
+Inna and Huge Candy Matrix                    
+
+httpscodeforcescomproblemsetproblem400C
+
+implementation
+
+1500
+
+Inna and Dima decided to surprise Sereja They brought a really huge candy matrix its big even for Sereja Lets number the rows of the giant matrix from 1 to n from top to bottom and the columns  from 1 to m from left to right Well represent the cell on the intersection of the ith row and jth column as ij Just as is expected some cells of the giant candy matrix contain candies Overall the matrix has p candies the kth candy is at cell xkykThe time moved closer to dinner and Inna was already going to eat p of her favourite sweets from the matrix when suddenly Sereja for the reason he didnt share with anyone rotated the matrix x times clockwise by 90 degrees Then he performed the horizontal rotate of the matrix y times And then he rotated the matrix z times counterclockwise by 90 degrees The figure below shows how the rotates of the matrix looks like  Inna got really upset but Duma suddenly understood two things the candies didnt get damaged and he remembered which cells contained Innas favourite sweets before Serejas strange actions Help guys to find the new coordinates in the candy matrix after the transformation Sereja made

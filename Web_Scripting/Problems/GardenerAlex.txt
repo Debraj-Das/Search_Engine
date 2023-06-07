@@ -1,0 +1,9 @@
+Gardener Alex                    
+
+https://codeforces.com/problemset/problem/1220/F
+
+binary search
+
+2700
+
+Gardener Alex loves to grow trees. We remind that tree is a connected acyclic graph on n vertices. Today he decided to grow a rooted binary tree. A binary tree is a tree where any vertex has no more than two sons. Luckily, Alex has a permutation of numbers from 1 to n which he was presented at his last birthday, so he decided to grow a tree according to this permutation. To do so he does the following process: he finds a minimum element and makes it a root of the tree. After that permutation is divided into two parts: everything that is to the left of the minimum element, and everything that is to the right. The minimum element on the left part becomes the left son of the root, and the minimum element on the right part becomes the right son of the root. After that, this process is repeated recursively on both parts.Now Alex wants to grow a forest of trees: one tree for each cyclic shift of the permutation. He is interested in what cyclic shift gives the tree of minimum depth. Unfortunately, growing a forest is a hard and long process, but Alex wants the answer right now. Will you help him?We remind that cyclic shift of permutation a_1, a_2, \ldots, a_k, \ldots, a_n for k elements to the left is the permutation a_{k + 1}, a_{k + 2}, \ldots, a_n, a_1, a_2, \ldots, a_k.

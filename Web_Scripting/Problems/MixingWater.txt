@@ -1,0 +1,9 @@
+Mixing Water                    
+
+https://codeforces.com/problemset/problem/1359/C
+
+binary search
+
+1700
+
+There are two infinite sources of water:  hot water of temperature h;  cold water of temperature c (c < h). You perform the following procedure of alternating moves:  take one cup of the hot water and pour it into an infinitely deep barrel;  take one cup of the cold water and pour it into an infinitely deep barrel;  take one cup of the hot water \dots  and so on \dots Note that you always start with the cup of hot water.The barrel is initially empty. You have to pour at least one cup into the barrel. The water temperature in the barrel is an average of the temperatures of the poured cups.You want to achieve a temperature as close as possible to t. So if the temperature in the barrel is t_b, then the absolute difference of t_b and t (|t_b - t|) should be as small as possible.How many cups should you pour into the barrel, so that the temperature in it is as close as possible to t? If there are multiple answers with the minimum absolute difference, then print the smallest of them.

@@ -1,0 +1,9 @@
+Paths                    
+
+httpscodeforcescomproblemsetproblem870F
+
+data structures
+
+2700
+
+You are given a positive integer n Lets build a graph on vertices 12n in such a way that there is an edge between vertices u and v if and only if  Let duv be the shortest distance between u and v or 0 if there is no path between them Compute the sum of values duv over all 1uvnThe gcd greatest common divisor of two positive integers is the maximum positive integer that divides both of the integers

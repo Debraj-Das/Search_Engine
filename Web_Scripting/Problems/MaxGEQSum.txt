@@ -1,0 +1,9 @@
+Max GEQ Sum                    
+
+https://codeforces.com/problemset/problem/1691/D
+
+binary search
+
+1800
+
+You are given an array a of n integers. You are asked to find out if the inequality \max(a_i, a_{i + 1}, \ldots, a_{j - 1}, a_{j}) \geq a_i + a_{i + 1} + \dots + a_{j - 1} + a_{j} holds for all pairs of indices (i, j), where 1 \leq i \leq j \leq n.

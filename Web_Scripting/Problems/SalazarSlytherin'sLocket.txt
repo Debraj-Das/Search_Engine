@@ -1,0 +1,9 @@
+Salazar Slytherins Locket                    
+
+httpscodeforcescomproblemsetproblem855E
+
+bitmasks
+
+2200
+
+Harry came to know from Dumbledore that Salazar Slytherins locket is a horcrux This locket was present earlier at 12 Grimmauld Place the home of Sirius Blacks mother It was stolen from there and is now present in the Ministry of Magic in the office of Dolorous Umbridge Harrys former Defense Against the Dark Arts teacher Harry Ron and Hermione are infiltrating the Ministry Upon reaching Umbridges office they observed a code lock with a puzzle asking them to calculate count of magic numbers between two integers l and r both inclusive Harry remembered from his detention time with Umbridge that she defined a magic number as a number which when converted to a given base b all the digits from 0 to b1 appear even number of times in its representation without any leading zerosYou have to answer q queries to unlock the office Each query has three integers bi li and ri the base and the range for which you have to find the count of magic numbers

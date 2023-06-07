@@ -1,0 +1,9 @@
+Sequence Master                    
+
+https://codeforces.com/problemset/problem/1806/C
+
+brute force
+
+1600
+
+For some positive integer m, YunQian considers an array q of 2m (possibly negative) integers good, if and only if for every possible subsequence of q that has length m, the product of the m elements in the subsequence is equal to the sum of the m elements that are not in the subsequence. Formally, let U=\{1,2,\ldots,2m\}. For all sets S \subseteq U such that |S|=m, \prod\limits_{i \in S} q_i = \sum\limits_{i \in U \setminus S} q_i.Define the distance between two arrays a and b both of length k to be \sum\limits_{i=1}^k|a_i-b_i|.You are given a positive integer n and an array p of 2n integers.Find the minimum distance between p and q over all good arrays q of length 2n. It can be shown for all positive integers n, at least one good array exists. Note that you are not required to construct the array q that achieves this minimum distance.

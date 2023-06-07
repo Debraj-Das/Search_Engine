@@ -1,0 +1,9 @@
+Quasi Binary                    
+
+https://codeforces.com/problemset/problem/538/B
+
+constructive algorithms
+
+1400
+
+A number is called quasibinary if its decimal representation contains only digits 0 or 1. For example, numbers 0, 1, 101, 110011 — are quasibinary and numbers 2, 12, 900 are not.You are given a positive integer n. Represent it as a sum of minimum number of quasibinary numbers.

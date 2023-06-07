@@ -1,0 +1,9 @@
+Enduring Exodus                    
+
+httpscodeforcescomproblemsetproblem645C
+
+binary search
+
+1600
+
+In an attempt to escape the Mischievous Mess Makers antics Farmer John has abandoned his farm and is traveling to the other side of Bovinia During the journey he and his k cows have decided to stay at the luxurious Grand Moodapest Hotel The hotel consists of n rooms located in a row some of which are occupiedFarmer John wants to book a set of k1 currently unoccupied rooms for him and his cows He wants his cows to stay as safe as possible so he wishes to minimize the maximum distance from his room to the room of his cow The distance between rooms i and j is defined as ji Help Farmer John protect his cows by calculating this minimum possible distance

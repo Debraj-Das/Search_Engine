@@ -1,0 +1,9 @@
+Fake News (easy)                    
+
+https://codeforces.com/problemset/problem/802/G
+
+implementation
+
+800
+
+As it's the first of April, Heidi is suspecting that the news she reads today are fake, and she does not want to look silly in front of all the contestants. She knows that a newspiece is fake if it contains heidi as a subsequence. Help Heidi assess whether the given piece is true, but please be discreet about it...

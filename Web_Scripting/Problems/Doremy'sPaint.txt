@@ -1,0 +1,9 @@
+Doremy's Paint                    
+
+https://codeforces.com/problemset/problem/1764/A
+
+greedy
+
+800
+
+Doremy has n buckets of paint which is represented by an array a of length n. Bucket i contains paint with color a_i. Let c(l,r) be the number of distinct elements in the subarray [a_l,a_{l+1},\ldots,a_r]. Choose 2 integers l and r such that l \leq r and r-l-c(l,r) is maximized.

@@ -1,0 +1,9 @@
+Python Indentation                    
+
+https://codeforces.com/problemset/problem/909/C
+
+dp
+
+1800
+
+In Python, code blocks don't have explicit begin/end or curly braces to mark beginning and end of the block. Instead, code blocks are defined by indentation.We will consider an extremely simplified subset of Python with only two types of statements.Simple statements are written in a single line, one per line. An example of a simple statement is assignment.For statements are compound statements: they contain one or several other statements. For statement consists of a header written in a separate line which starts with "for" prefix, and loop body. Loop body is a block of statements indented one level further than the header of the loop. Loop body can contain both types of statements. Loop body can't be empty.You are given a sequence of statements without indentation. Find the number of ways in which the statements can be indented to form a valid Python program.

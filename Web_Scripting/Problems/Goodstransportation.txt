@@ -1,0 +1,9 @@
+Goods transportation                    
+
+httpscodeforcescomproblemsetproblem724E
+
+dp
+
+2900
+
+There are n cities located along the oneway road Cities are numbered from 1 to n in the direction of the roadThe ith city had produced pi units of goods No more than si units of goods can be sold in the ith cityFor each pair of cities i and j such that 1ijn you can no more than once transport no more than c units of goods from the city i to the city j Note that goods can only be transported from a city with a lesser index to the city with a larger index You can transport goods between cities in any orderDetermine the maximum number of produced goods that can be sold in total in all the cities after a sequence of transportations

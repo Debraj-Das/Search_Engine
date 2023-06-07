@@ -1,0 +1,9 @@
+New School                    
+
+https://codeforces.com/problemset/problem/1621/E
+
+binary search
+
+2300
+
+You have decided to open a new school. You have already found n teachers and m groups of students. The i-th group of students consists of k_i \geq 2 students. You know age of each teacher and each student. The ages of teachers are a_1, a_2, \ldots, a_n and the ages of students of the i-th group are b_{i, 1}, b_{i, 2}, \ldots, b_{i, k_i}.To start lessons you should assign the teacher to each group of students. Such assignment should satisfy the following requirements:  To each group exactly one teacher assigned.  To each teacher at most 1 group of students assigned.  The average of students' ages in each group doesn't exceed the age of the teacher assigned to this group. The average of set x_1, x_2, \ldots, x_k of k integers is \frac{x_1 + x_2 + \ldots + x_k}{k}.Recently you have heard that one of the students will refuse to study in your school. After this, the size of one group will decrease by 1 while all other groups will remain unchanged.You don't know who will refuse to study. For each student determine if you can start lessons in case of his refusal.Note, that it is not guaranteed that it is possible to start lessons before any refusal.

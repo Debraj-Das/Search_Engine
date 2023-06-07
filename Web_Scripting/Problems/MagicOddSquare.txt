@@ -1,0 +1,9 @@
+Magic Odd Square                    
+
+httpscodeforcescomproblemsetproblem710C
+
+constructive algorithms
+
+1500
+
+Find an nn matrix with different numbers from 1 to n2 so the sum in each row column and both main diagonals are odd

@@ -1,0 +1,9 @@
+Triminoes                    
+
+httpscodeforcescomproblemsetproblem44J
+
+constructive algorithms
+
+2000
+
+There are many interesting tasks on domino tilings For example an interesting fact is known Let us take a standard chessboard 88 and cut exactly two squares out of it It turns out that the resulting board can always be tiled using dominoes 12 if the two cut out squares are of the same color otherwise it is impossible Petya grew bored with dominoes thats why he took a chessboard not necessarily 88 cut some squares out of it and tries to tile it using triminoes Triminoes are reactangles 13 or 31 because triminoes can be rotated freely also the two extreme squares of a trimino are necessarily white and the square in the middle is black The triminoes are allowed to put on the chessboard so that their squares matched the colors of the uncut squares of the chessboard and also the colors must match the black squares must be matched with the black ones only and the white ones  with the white squares The triminoes must not protrude above the chessboard or overlap each other All the uncut squares of the board must be covered with triminoes Help Petya find out if it is possible to tile his board using triminos in the described way and print one of the variants of tiling

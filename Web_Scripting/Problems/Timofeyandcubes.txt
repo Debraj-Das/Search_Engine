@@ -1,0 +1,9 @@
+Timofey and cubes                    
+
+httpscodeforcescomproblemsetproblem764B
+
+constructive algorithms
+
+900
+
+Young Timofey has a birthday today He got kit of n cubes as a birthday present from his parents Every cube has a number ai which is written on it Timofey put all the cubes in a row and went to unpack other presentsIn this time Timofeys elder brother Dima reordered the cubes using the following rule Suppose the cubes are numbered from 1 to n in their order Dima performs several steps on step i he reverses the segment of cubes from ith to ni1th He does this while ini1After performing the operations Dima went away being very proud of himself When Timofey returned to his cubes he understood that their order was changed Help Timofey as fast as you can and save the holiday restore the initial order of the cubes using information of their current location

@@ -1,0 +1,9 @@
+Periodical Numbers                    
+
+httpscodeforcescomproblemsetproblem215E
+
+combinatorics
+
+2100
+
+A nonempty string s is called binary if it consists only of characters 0 and 1 Lets number the characters of binary string s from 1 to the strings length and lets denote the ith character in string s as siBinary string s with length n is periodical if there is an integer 1kn such that   k is a divisor of number n  for all 1ink the following condition fulfills sisik For example binary strings 101010 and 11 are periodical and 10 and 10010 are notA positive integer x is periodical if its binary representation without leading zeroes is a periodic stringYour task is to calculate how many periodic numbers are in the interval from l to r both ends are included

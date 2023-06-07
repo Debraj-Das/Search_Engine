@@ -1,0 +1,9 @@
+Another Filling the Grid                    
+
+https://codeforces.com/problemset/problem/1228/E
+
+combinatorics
+
+2300
+
+You have n \times n square grid and an integer k. Put an integer in each cell while satisfying the conditions below.  All numbers in the grid should be between 1 and k inclusive.  Minimum number of the i-th row is 1 (1 \le i \le n).  Minimum number of the j-th column is 1 (1 \le j \le n). Find the number of ways to put integers in the grid. Since the answer can be very large, find the answer modulo (10^{9} + 7).  These are the examples of valid and invalid grid when n=k=2. 

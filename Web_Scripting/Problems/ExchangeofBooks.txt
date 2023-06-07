@@ -1,0 +1,9 @@
+Exchange of Books                    
+
+https://codeforces.com/problemset/problem/683/H
+
+*special problem
+
+1900
+
+n pupils, who love to read books, study at school. It is known that each student has exactly one best friend, and each pupil is the best friend of exactly one other pupil. Each of the pupils has exactly one interesting book.The pupils decided to share books with each other. Every day, all pupils give their own books to their best friends. Thus, every day each of the pupils has exactly one book.Your task is to use the list of the best friends and determine the exchange of books among pupils after k days. For simplicity, all students are numbered from 1 to n in all tests.

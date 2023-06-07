@@ -1,0 +1,9 @@
+Hongcow Draws a Circle                    
+
+httpscodeforcescomproblemsetproblem744D
+
+geometry
+
+3200
+
+Hongcow really likes the color red Hongcow doesnt like the color blueHongcow is standing in an infinite field where there are n red points and m blue pointsHongcow wants to draw a circle in the field such that this circle contains at least one red point and no blue points Points that line exactly on the boundary of the circle can be counted as either inside or outsideCompute the radius of the largest circle that satisfies this condition If this circle can have arbitrarily large size print 1 Otherwise your answer will be accepted if it has relative or absolute error at most 104

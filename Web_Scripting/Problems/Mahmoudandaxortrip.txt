@@ -1,0 +1,9 @@
+Mahmoud and a xor trip                    
+
+httpscodeforcescomproblemsetproblem766E
+
+bitmasks
+
+2100
+
+Mahmoud and Ehab live in a country with n cities numbered from 1 to n and connected by n1 undirected roads Its guaranteed that you can reach any city from any other using these roads Each city has a number ai attached to itWe define the distance from city x to city y as the xor of numbers attached to the cities on the path from x to y including both x and y In other words if values attached to the cities on the path from x to y form an array p of length l then the distance between them is  where  is bitwise xor operationMahmoud and Ehab want to choose two cities and make a journey from one to another The index of the start city is always less than or equal to the index of the finish city they may start and finish in the same city and in this case the distance equals the number attached to that city They cant determine the two cities so they try every city as a start and every city with greater index as a finish They want to know the total distance between all pairs of cities

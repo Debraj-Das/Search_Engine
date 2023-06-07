@@ -1,0 +1,9 @@
+Prime Number                    
+
+httpscodeforcescomproblemsetproblem359C
+
+math
+
+1900
+
+Simon has a prime number x and an array of nonnegative integers a1a2anSimon loves fractions very much Today he wrote out number  on a piece of paper After Simon led all fractions to a common denominator and summed them up he got a fraction  where number t equals xa1a2an Now Simon wants to reduce the resulting fraction Help him find the greatest common divisor of numbers s and t As GCD can be rather large print it as a remainder after dividing it by number 1000000007 1097

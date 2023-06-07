@@ -1,0 +1,9 @@
+Deadly Laser                    
+
+https://codeforces.com/problemset/problem/1721/B
+
+implementation
+
+1000
+
+The robot is placed in the top left corner of a grid, consisting of n rows and m columns, in a cell (1, 1).In one step, it can move into a cell, adjacent by a side to the current one:   (x, y) \rightarrow (x, y + 1);  (x, y) \rightarrow (x + 1, y);  (x, y) \rightarrow (x, y - 1);  (x, y) \rightarrow (x - 1, y). The robot can't move outside the grid.The cell (s_x, s_y) contains a deadly laser. If the robot comes into some cell that has distance less than or equal to d to the laser, it gets evaporated. The distance between two cells (x_1, y_1) and (x_2, y_2) is |x_1 - x_2| + |y_1 - y_2|.Print the smallest number of steps that the robot can take to reach the cell (n, m) without getting evaporated or moving outside the grid. If it's not possible to reach the cell (n, m), print -1.The laser is neither in the starting cell, nor in the ending cell. The starting cell always has distance greater than d to the laser.

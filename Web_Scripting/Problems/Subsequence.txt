@@ -1,0 +1,9 @@
+Subsequence                    
+
+https://codeforces.com/problemset/problem/1580/D
+
+brute force
+
+2900
+
+Alice has an integer sequence a of length n and all elements are different. She will choose a subsequence of a of length m, and defines the value of a subsequence a_{b_1},a_{b_2},\ldots,a_{b_m} as \sum_{i = 1}^m (m \cdot a_{b_i}) - \sum_{i = 1}^m \sum_{j = 1}^m f(\min(b_i, b_j), \max(b_i, b_j)), where f(i, j) denotes \min(a_i, a_{i + 1}, \ldots, a_j).Alice wants you to help her to maximize the value of the subsequence she choose.A sequence s is a subsequence of a sequence t if s can be obtained from t by deletion of several (possibly, zero or all) elements.

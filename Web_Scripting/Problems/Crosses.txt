@@ -1,0 +1,9 @@
+Crosses                    
+
+httpscodeforcescomproblemsetproblem215C
+
+brute force
+
+2100
+
+There is a board with a grid consisting of n rows and m columns the rows are numbered from 1 from top to bottom and the columns are numbered from 1 from left to right In this grid we will denote the cell that lies on row number i and column number j as ijA group of six numbers abcdx0y0 where 0abcd is a cross and there is a set of cells that are assigned to it Cell xy belongs to this set if at least one of two conditions are fulfilled  x0xa and y0yb  x0xc and y0yd    The picture shows the cross 011023 on the grid 34  Your task is to find the number of different groups of six numbers abcdx0y0 that determine the crosses of an area equal to s which are placed entirely on the grid The cross is placed entirely on the grid if any of its cells is in the range of the grid that is for each cell xy of the cross 1xn1ym holds The area of the cross is the number of cells it hasNote that two crosses are considered distinct if the ordered groups of six numbers that denote them are distinct even if these crosses coincide as sets of points

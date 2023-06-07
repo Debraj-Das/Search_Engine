@@ -1,0 +1,9 @@
+Candy Box easy version                    
+
+httpscodeforcescomproblemsetproblem1183D
+
+greedy
+
+1400
+
+This problem is actually a subproblem of problem G from the same contestThere are n candies in a candy box The type of the ith candy is ai 1 le ai le nYou have to prepare a gift using some of these candies with the following restriction the numbers of candies of each type presented in a gift should be all distinct ie for example a gift having two candies of type 1 and two candies of type 2 is bad It is possible that multiple types of candies are completely absent from the gift It is also possible that not all candies of some types will be taken to a giftYour task is to find out the maximum possible size of the single gift you can prepare using the candies you haveYou have to answer q independent queriesIf you are Python programmer consider using PyPy instead of Python when you submit your code

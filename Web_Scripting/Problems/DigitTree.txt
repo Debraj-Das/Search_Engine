@@ -1,0 +1,9 @@
+Digit Tree                    
+
+httpscodeforcescomproblemsetproblem715C
+
+dfs and similar
+
+2700
+
+ZS the Coder has a large tree It can be represented as an undirected connected graph of n vertices numbered from 0 to n1 and n1 edges between them There is a single nonzero digit written on each edgeOne day ZS the Coder was bored and decided to investigate some properties of the tree He chose a positive integer M which is coprime to 10 ie ZS consider an ordered pair of distinct vertices uv interesting when if he would follow the shortest path from vertex u to vertex v and write down all the digits he encounters on his path in the same order he will get a decimal representaion of an integer divisible by MFormally ZS consider an ordered pair of distinct vertices uv interesting if the following states true  Let a1ua2akv be the sequence of vertices on the shortest path from u to v in the order of encountering them  Let di 1ik be the digit written on the edge between vertices ai and ai1  The integer  is divisible by M Help ZS the Coder find the number of interesting pairs

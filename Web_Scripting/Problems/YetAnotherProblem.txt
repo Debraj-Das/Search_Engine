@@ -1,0 +1,9 @@
+Yet Another Problem                    
+
+https://codeforces.com/problemset/problem/1747/D
+
+binary search
+
+1900
+
+You are given an array a of n integers a_1, a_2, a_3, \ldots, a_n.You have to answer q independent queries, each consisting of two integers l and r.   Consider the subarray a[l:r] = [a_l, a_{l+1}, \ldots, a_r]. You can apply the following operation to the subarray any number of times (possibly zero)-   Choose two integers L, R such that l \le L \le R \le r and R - L + 1 is odd.  Replace each element in the subarray from L to R with the XOR of the elements in the subarray [L, R].   The answer to the query is the minimum number of operations required to make all elements of the subarray a[l:r] equal to 0 or -1 if it is impossible to make all of them equal to 0. You can find more details about XOR operation here.

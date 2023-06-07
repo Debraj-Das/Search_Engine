@@ -1,0 +1,9 @@
+Geometry Horse                    
+
+httpscodeforcescomproblemsetproblem175C
+
+greedy
+
+1600
+
+Vasya plays the Geometry HorseThe game goal is to destroy geometric figures of the game world A certain number of points is given for destroying each figure depending on the figure type and the current factor value There are n types of geometric figures The number of figures of type ki and figure cost ci is known for each figure type A player gets cif  points for destroying one figure of type i where f is the current factor The factor value can be an integer number from 1 to t1 inclusive At the beginning of the game the factor value is equal to 1 The factor is set to i1 after destruction of pi 1it figures so the pi1th figure to be destroyed is considered with factor equal to i1Your task is to determine the maximum number of points Vasya can get after he destroys all figures Take into account that Vasya is so tough that he can destroy figures in any order chosen by him

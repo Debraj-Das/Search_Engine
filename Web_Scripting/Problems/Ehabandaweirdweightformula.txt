@@ -1,0 +1,9 @@
+Ehab and a weird weight formula                    
+
+https://codeforces.com/problemset/problem/1088/F
+
+data structures
+
+2800
+
+You're given a tree consisting of n nodes. Every node u has a weight a_u. It is guaranteed that there is only one node with minimum weight in the tree. For every node u (except for the node with the minimum weight), it must have a neighbor v such that a_v<a_u. You should construct a tree to minimize the weight w calculated as follows:  For every node u, deg_u \cdot a_u is added to w (deg_u is the number of edges containing node u).  For every edge \{ u,v \}, \lceil log_2(dist(u,v)) \rceil \cdot min(a_u,a_v) is added to w, where dist(u,v) is the number of edges in the path from u to v in the given tree. 

@@ -1,0 +1,9 @@
+Mind Control                    
+
+https://codeforces.com/problemset/problem/1290/A
+
+brute force
+
+1600
+
+You and your n - 1 friends have found an array of integers a_1, a_2, \dots, a_n. You have decided to share it in the following way: All n of you stand in a line in a particular order. Each minute, the person at the front of the line chooses either the first or the last element of the array, removes it, and keeps it for himself. He then gets out of line, and the next person in line continues the process.You are standing in the m-th position in the line. Before the process starts, you may choose up to k different people in the line, and persuade them to always take either the first or the last element in the array on their turn (for each person his own choice, not necessarily equal for all people), no matter what the elements themselves are. Once the process starts, you cannot persuade any more people, and you cannot change the choices for the people you already persuaded.Suppose that you're doing your choices optimally. What is the greatest integer x such that, no matter what are the choices of the friends you didn't choose to control, the element you will take from the array will be greater than or equal to x?Please note that the friends you don't control may do their choice arbitrarily, and they will not necessarily take the biggest element available.

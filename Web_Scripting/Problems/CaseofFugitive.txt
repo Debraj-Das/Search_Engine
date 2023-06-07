@@ -1,0 +1,9 @@
+Case of Fugitive                    
+
+httpscodeforcescomproblemsetproblem555B
+
+data structures
+
+2000
+
+Andrewid the Android is a galaxyfamous detective He is now chasing a criminal hiding on the planet Oxa5 the planet almost fully covered with waterThe only dry land there is an archipelago of n narrow islands located in a row For more comfort lets represent them as nonintersecting segments on a straight line island i has coordinates liri besides rili1 for 1in1To reach the goal Andrewid needs to place a bridge between each pair of adjacent islands A bridge of length a can be placed between the ith and the i1th islads if there are such coordinates of x and y that lixri li1yri1 and yxa The detective was supplied with m bridges each bridge can be used at most once Help him determine whether the bridges he got are enough to connect each pair of adjacent islands

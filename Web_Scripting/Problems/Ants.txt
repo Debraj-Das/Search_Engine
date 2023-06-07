@@ -1,0 +1,9 @@
+Ants                    
+
+https://codeforces.com/problemset/problem/1007/D
+
+2-sat
+
+3200
+
+There is a tree with n vertices. There are also m ants living on it. Each ant has its own color. The i-th ant has two favorite pairs of vertices: (a_i, b_i) and (c_i, d_i). You need to tell if it is possible to paint the edges of the tree in m colors so that every ant will be able to walk between vertices from one of its favorite pairs using only edges of his color; if it is possible, you need to print which pair every ant should use.

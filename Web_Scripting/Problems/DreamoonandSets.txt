@@ -1,0 +1,9 @@
+Dreamoon and Sets                    
+
+https://codeforces.com/problemset/problem/476/D
+
+constructive algorithms
+
+1900
+
+Dreamoon likes to play with sets, integers and .  is defined as the largest positive integer that divides both a and b.Let S be a set of exactly four distinct integers greater than 0. Define S to be of rank k if and only if for all pairs of distinct elements si, sj from S, .Given k and n, Dreamoon wants to make up n sets of rank k using integers from 1 to m such that no integer is used in two different sets (of course you can leave some integers without use). Calculate the minimum m that makes it possible and print one possible solution.

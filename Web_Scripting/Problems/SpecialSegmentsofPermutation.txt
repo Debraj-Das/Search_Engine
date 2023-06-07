@@ -1,0 +1,9 @@
+Special Segments of Permutation                    
+
+https://codeforces.com/problemset/problem/1156/E
+
+data structures
+
+2200
+
+You are given a permutation p of n integers 1, 2, ..., n (a permutation is an array where each element from 1 to n occurs exactly once).Let's call some subsegment p[l, r] of this permutation special if p_l + p_r = \max \limits_{i = l}^{r} p_i. Please calculate the number of special subsegments.

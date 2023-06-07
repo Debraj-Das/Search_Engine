@@ -1,0 +1,9 @@
+Moderate Modular Mode                    
+
+https://codeforces.com/problemset/problem/1603/B
+
+constructive algorithms
+
+1600
+
+YouKn0wWho has two even integers x and y. Help him to find an integer n such that 1 \le n \le 2 \cdot 10^{18} and n \bmod x = y \bmod n. Here, a \bmod b denotes the remainder of a after division by b. If there are multiple such integers, output any. It can be shown that such an integer always exists under the given constraints.

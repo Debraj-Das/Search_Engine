@@ -1,0 +1,9 @@
+Sum of Digits                    
+
+https://codeforces.com/problemset/problem/1373/E
+
+brute force
+
+2200
+
+Let f(x) be the sum of digits of a decimal number x.Find the smallest non-negative integer x such that f(x) + f(x + 1) + \dots + f(x + k) = n.

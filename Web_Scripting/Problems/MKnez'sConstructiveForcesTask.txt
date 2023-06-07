@@ -1,0 +1,9 @@
+MKnez's ConstructiveForces Task                    
+
+https://codeforces.com/problemset/problem/1779/B
+
+constructive algorithms
+
+900
+
+MKnez wants to construct an array s_1,s_2, \ldots , s_n satisfying the following conditions:  Each element is an integer number different from 0;  For each pair of adjacent elements their sum is equal to the sum of the whole array. More formally, s_i \neq 0 must hold for each 1 \leq i \leq n. Moreover, it must hold that s_1 + s_2 + \cdots + s_n = s_i + s_{i+1} for each 1 \leq i < n.Help MKnez to construct an array with these properties or determine that it does not exist.

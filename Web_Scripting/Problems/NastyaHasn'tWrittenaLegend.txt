@@ -1,0 +1,9 @@
+Nastya Hasn't Written a Legend                    
+
+https://codeforces.com/problemset/problem/1136/E
+
+binary search
+
+2200
+
+In this task, Nastya asked us to write a formal statement.An array a of length n and an array k of length n-1 are given. Two types of queries should be processed:   increase a_i by x. Then if a_{i+1} < a_i + k_i, a_{i+1} becomes exactly a_i + k_i; again, if a_{i+2} < a_{i+1} + k_{i+1}, a_{i+2} becomes exactly a_{i+1} + k_{i+1}, and so far for a_{i+3}, ..., a_n;  print the sum of the contiguous subarray from the l-th element to the r-th element of the array a. It's guaranteed that initially a_i + k_i \leq a_{i+1} for all 1 \leq i \leq n-1.

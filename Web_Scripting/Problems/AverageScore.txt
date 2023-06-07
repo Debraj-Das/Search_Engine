@@ -1,0 +1,9 @@
+Average Score                    
+
+httpscodeforcescomproblemsetproblem81C
+
+greedy
+
+1700
+
+After the educational reform Polycarp studies only two subjects at school Safety Studies and PE Physical Education During the long months of the fourth term he received n marks in them When teachers wrote a mark in the journal they didnt write in what subject the mark was for they just wrote the markNow its time to show the journal to his strict parents Polycarp knows that recently at the Parent Meeting the parents were told that he received a Safety Studies marks and b PE marks abn Now Polycarp wants to write a subjects name in front of each mark so that   there are exactly a Safety Studies marks  there are exactly b PE marks  the total average score in both subjects is maximum An average subject grade is the sum of all marks in it divided by the number of them Of course the division is performed in real numbers without rounding up or down Polycarp aims to maximize the x1x2 where x1 is the average score in the first subject Safety Studies and x2 is the average score in the second one Physical Education

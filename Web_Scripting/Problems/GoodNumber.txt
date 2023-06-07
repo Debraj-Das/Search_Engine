@@ -1,0 +1,9 @@
+Good Number                    
+
+httpscodeforcescomproblemsetproblem365A
+
+implementation
+
+1100
+
+Lets call a number kgood if it contains all digits not exceeding k 0k Youve got a number k and an array a containing n numbers Find out how many kgood numbers are in a count each number every time it occurs in array a

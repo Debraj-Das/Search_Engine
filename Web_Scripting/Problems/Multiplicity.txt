@@ -1,0 +1,9 @@
+Multiplicity                    
+
+httpscodeforcescomproblemsetproblem1061C
+
+data structures
+
+1700
+
+You are given an integer array a1 a2 ldots anThe array b is called to be a subsequence of a if it is possible to remove some elements from a to get bArray b1 b2 ldots bk is called to be good if it is not empty and for every i 1 le i le k bi is divisible by iFind the number of good subsequences in a modulo 109  7 Two subsequences are considered different if index sets of numbers included in them are different That is the values of the elements do not matter in the comparison of subsequences In particular the array a has exactly 2n  1 different subsequences excluding an empty subsequence

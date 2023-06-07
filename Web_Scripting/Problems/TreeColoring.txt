@@ -1,0 +1,9 @@
+Tree Coloring                    
+
+httpscodeforcescomproblemsetproblem1613F
+
+combinatorics
+
+2600
+
+You are given a rooted tree consisting of n vertices numbered from 1 to n The root of the tree is the vertex 1You have to color all vertices of the tree into n colors also numbered from 1 to n so that there is exactly one vertex for each color Let ci be the color of vertex i and pi be the parent of vertex i in the rooted tree The coloring is considered beautiful if there is no vertex k k  1 such that ck  cpk  1 ie no vertex such that its color is less than the color of its parent by exactly 1Calculate the number of beautiful colorings and print it modulo 998244353

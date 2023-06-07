@@ -1,0 +1,9 @@
+A Good Contest                    
+
+https://codeforces.com/problemset/problem/681/A
+
+implementation
+
+800
+
+Codeforces user' handle color depends on his rating — it is red if his rating is greater or equal to 2400; it is orange if his rating is less than 2400 but greater or equal to 2200, etc. Each time participant takes part in a rated contest, his rating is changed depending on his performance.Anton wants the color of his handle to become red. He considers his performance in the rated contest to be good if he outscored some participant, whose handle was colored red before the contest and his rating has increased after it.Anton has written a program that analyses contest results and determines whether he performed good or not. Are you able to do the same?

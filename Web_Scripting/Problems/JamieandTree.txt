@@ -1,0 +1,9 @@
+Jamie and Tree                    
+
+https://codeforces.com/problemset/problem/916/E
+
+data structures
+
+2400
+
+To your surprise, Jamie is the final boss! Ehehehe.Jamie has given you a tree with n vertices, numbered from 1 to n. Initially, the root of the tree is the vertex with number 1. Also, each vertex has a value on it.Jamie also gives you three types of queries on the tree:1 v — Change the tree's root to vertex with number v.2 u v x — For each vertex in the subtree of smallest size that contains u and v, add x to its value.3 v — Find sum of values of vertices in the subtree of vertex with number v.A subtree of vertex v is a set of vertices such that v lies on shortest path from this vertex to root of the tree. Pay attention that subtree of a vertex can change after changing the tree's root.Show your strength in programming to Jamie by performing the queries accurately!

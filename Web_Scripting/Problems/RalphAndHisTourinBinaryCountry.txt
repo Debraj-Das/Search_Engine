@@ -1,0 +1,9 @@
+Ralph And His Tour in Binary Country                    
+
+httpscodeforcescomproblemsetproblem894D
+
+brute force
+
+2200
+
+Ralph is in the Binary Country The Binary Country consists of n cities and n1 bidirectional roads connecting the cities The roads are numbered from 1 to n1 the ith road connects the city labeled  here  x denotes the x rounded down to the nearest integer and the city labeled i1 and the length of the ith road is LiNow Ralph gives you m queries In each query he tells you some city Ai and an integer Hi He wants to make some tours starting from this city He can choose any city in the Binary Country including Ai as the terminal city for a tour He gains happiness HiL during a tour where L is the distance between the city Ai and the terminal cityRalph is interested in tours from Ai in which he can gain positive happiness For each query compute the sum of happiness gains for all such toursRalph will never take the same tour twice or more in one query he will never pass the same city twice or more in one tour

@@ -1,0 +1,9 @@
+Guard Duty (hard)                    
+
+https://codeforces.com/problemset/problem/958/E3
+
+geometry
+
+2700
+
+Now that Heidi knows that she can assign Rebel spaceships to bases (recall the easy subtask), she is asking you: how exactly to do this? Now, given positions of N spaceships and N bases on a plane, your task is to connect spaceships and bases with line segments so that:   The segments do not intersect.  Such a connection forms a perfect matching. 

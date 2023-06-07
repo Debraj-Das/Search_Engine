@@ -1,0 +1,9 @@
+A Certain Magical Party                    
+
+https://codeforces.com/problemset/problem/1726/G
+
+combinatorics
+
+3300
+
+There are n people at a party. The i-th person has an amount of happiness a_i.Every person has a certain kind of personality which can be represented as a binary integer b. If b = 0, it means the happiness of the person will increase if he tells the story to someone strictly less happy than them. If b = 1, it means the happiness of the person will increase if he tells the story to someone strictly more happy than them.Let us define a speaking order as an ordering of the people from left to right. Now the following process occurs. We go from left to right. The current person tells the story to all people other than himself. Note that all happiness values stay constant while this happens. After the person is done, he counts the number of people who currently have strictly less/more happiness than him as per his kind of personality, and his happiness increases by that value. Note that only the current person's happiness value increases.As the organizer of the party, you don't want anyone to leave sad. Therefore, you want to count the number of speaking orders such that at the end of the process all n people have equal happiness.Two speaking orders are considered different if there exists at least one person who does not have the same position in the two speaking orders.

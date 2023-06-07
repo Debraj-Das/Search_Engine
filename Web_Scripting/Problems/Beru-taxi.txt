@@ -1,0 +1,9 @@
+Berutaxi                    
+
+httpscodeforcescomproblemsetproblem706A
+
+brute force
+
+900
+
+Vasiliy lives at point ab of the coordinate plane He is hurrying up to work so he wants to get out of his house as soon as possible New app suggested n available Berutaxi nearby The ith taxi is located at point xiyi and moves with a speed vi Consider that each of n drivers will move directly to Vasiliy and with a maximum possible speed Compute the minimum time when Vasiliy will get in any of Berutaxi cars

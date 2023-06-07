@@ -1,0 +1,9 @@
+Technogoblet of Fire                    
+
+https://codeforces.com/problemset/problem/1121/A
+
+implementation
+
+1100
+
+Everybody knows that the m-coder Tournament will happen soon. m schools participate in the tournament, and only one student from each school participates.There are a total of n students in those schools. Before the tournament, all students put their names and the names of their schools into the Technogoblet of Fire. After that, Technogoblet selects the strongest student from each school to participate. Arkady is a hacker who wants to have k Chosen Ones selected by the Technogoblet. Unfortunately, not all of them are the strongest in their schools, but Arkady can make up some new school names and replace some names from Technogoblet with those. You can't use each made-up name more than once. In that case, Technogoblet would select the strongest student in those made-up schools too.You know the power of each student and schools they study in. Calculate the minimal number of schools Arkady has to make up so that k Chosen Ones would be selected by the Technogoblet.

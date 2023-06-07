@@ -1,0 +1,9 @@
+Prime Swaps                    
+
+httpscodeforcescomproblemsetproblem432C
+
+greedy
+
+1800
+
+You have an array a1a2an containing distinct integers from 1 to n Your task is to sort this array in increasing order with the following operation you may need to apply it multiple times  choose two indexes i and j 1ijn ji1 is a prime number  swap the elements on positions i and j in other words you are allowed to apply the following sequence of assignments tmpaiaiajajtmp tmp is a temporary variable You do not need to minimize the number of used operations However you need to make sure that there are at most 5n operations

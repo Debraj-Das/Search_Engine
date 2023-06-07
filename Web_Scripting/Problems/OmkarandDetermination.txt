@@ -1,0 +1,9 @@
+Omkar and Determination                    
+
+https://codeforces.com/problemset/problem/1583/C
+
+data structures
+
+1700
+
+The problem statement looms below, filling you with determination.Consider a grid in which some cells are empty and some cells are filled. Call a cell in this grid exitable if, starting at that cell, you can exit the grid by moving up and left through only empty cells. This includes the cell itself, so all filled in cells are not exitable. Note that you can exit the grid from any leftmost empty cell (cell in the first column) by going left, and from any topmost empty cell (cell in the first row) by going up.Let's call a grid determinable if, given only which cells are exitable, we can exactly determine which cells are filled in and which aren't.You are given a grid a of dimensions n \times m , i. e. a grid with n rows and m columns. You need to answer q queries (1 \leq q \leq 2 \cdot 10^5). Each query gives two integers x_1, x_2 (1 \leq x_1 \leq x_2 \leq m) and asks whether the subgrid of a consisting of the columns x_1, x_1 + 1, \ldots, x_2 - 1, x_2 is determinable.

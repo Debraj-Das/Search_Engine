@@ -1,0 +1,9 @@
+Diagonal Walking                    
+
+https://codeforces.com/problemset/problem/954/A
+
+implementation
+
+800
+
+Mikhail walks on a 2D plane. He can go either up or right. You are given a sequence of Mikhail's moves. He thinks that this sequence is too long and he wants to make it as short as possible.In the given sequence moving up is described by character U and moving right is described by character R. Mikhail can replace any pair of consecutive moves RU or UR with a diagonal move (described as character D). After that, he can go on and do some other replacements, until there is no pair of consecutive moves RU or UR left.Your problem is to print the minimum possible length of the sequence of moves after the replacements.

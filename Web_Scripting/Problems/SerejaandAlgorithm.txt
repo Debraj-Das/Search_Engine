@@ -1,0 +1,9 @@
+Sereja and Algorithm                     
+
+httpscodeforcescomproblemsetproblem367A
+
+data structures
+
+1500
+
+Sereja loves all sorts of algorithms He has recently come up with a new algorithm which receives a string as an input Lets represent the input string of the algorithm as qq1q2 qk The algorithm consists of two steps  Find any continuous subsequence substring of three characters of string q which doesnt equal to either string zyx xzy yxz If q doesnt contain any such subsequence terminate the algorithm otherwise go to step 2  Rearrange the letters of the found subsequence randomly and go to step 1 Sereja thinks that the algorithm works correctly on string q if there is a nonzero probability that the algorithm will be terminated But if the algorithm anyway will work for infinitely long on a string then we consider the algorithm to work incorrectly on this stringSereja wants to test his algorithm For that he has string ss1s2 sn consisting of n characters The boy conducts a series of m tests As the ith test he sends substring slisli1 sri 1lirin to the algorithm input Unfortunately the implementation of his algorithm works too long so Sereja asked you to help For each test liri determine if the algorithm works correctly on this test or not

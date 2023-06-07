@@ -1,0 +1,9 @@
+Tree nesting                    
+
+httpscodeforcescomproblemsetproblem762F
+
+combinatorics
+
+2800
+
+You are given two trees connected undirected acyclic graphs S and TCount the number of subtrees connected subgraphs of S that are isomorphic to tree T Since this number can get quite large output it modulo 1097Two subtrees of tree S are considered different if there exists a vertex in S that belongs to exactly one of themTree G is called isomorphic to tree H if there exists a bijection f from the set of vertices of G to the set of vertices of H that has the following property if there is an edge between vertices A and B in tree G then there must be an edge between vertices fA and fB in tree H And vice versa if there is an edge between vertices A and B in tree H there must be an edge between f1A and f1B in tree G

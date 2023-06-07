@@ -1,0 +1,9 @@
+Strange Set                    
+
+https://codeforces.com/problemset/problem/1473/F
+
+flows
+
+2700
+
+Note that the memory limit is unusual.You are given an integer n and two sequences a_1, a_2, \dots, a_n and b_1, b_2, \dots, b_n.Let's call a set of integers S such that S \subseteq \{1, 2, 3, \dots, n\} strange, if, for every element i of S, the following condition is met: for every j \in [1, i - 1], if a_j divides a_i, then j is also included in S. An empty set is always strange.The cost of the set S is \sum\limits_{i \in S} b_i. You have to calculate the maximum possible cost of a strange set.

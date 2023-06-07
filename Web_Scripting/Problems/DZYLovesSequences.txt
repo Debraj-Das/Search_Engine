@@ -1,0 +1,9 @@
+DZY Loves Sequences                    
+
+httpscodeforcescomproblemsetproblem446A
+
+dp
+
+1600
+
+DZY has a sequence a consisting of n integersWell call a sequence aiai1aj 1ijn a subsegment of the sequence a The value ji1 denotes the length of the subsegmentYour task is to find the longest subsegment of a such that it is possible to change at most one number change one number to any integer you want from the subsegment to make the subsegment strictly increasingYou only need to output the length of the subsegment you find

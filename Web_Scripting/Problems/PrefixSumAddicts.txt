@@ -1,0 +1,9 @@
+Prefix Sum Addicts                    
+
+https://codeforces.com/problemset/problem/1738/B
+
+constructive algorithms
+
+1200
+
+Suppose a_1, a_2, \dots, a_n is a sorted integer sequence of length n such that a_1 \leq a_2 \leq \dots \leq a_n. For every 1 \leq i \leq n, the prefix sum s_i of the first i terms a_1, a_2, \dots, a_i is defined by  s_i = \sum_{k=1}^i a_k = a_1 + a_2 + \dots + a_i. Now you are given the last k terms of the prefix sums, which are s_{n-k+1}, \dots, s_{n-1}, s_{n}. Your task is to determine whether this is possible. Formally, given k integers s_{n-k+1}, \dots, s_{n-1}, s_{n}, the task is to check whether there is a sequence a_1, a_2, \dots, a_n such that   a_1 \leq a_2 \leq \dots \leq a_n, and  s_i = a_1 + a_2 + \dots + a_i for all n-k+1 \leq i \leq n. 

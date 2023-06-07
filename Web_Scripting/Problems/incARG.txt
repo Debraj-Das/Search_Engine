@@ -1,0 +1,9 @@
+inc ARG                    
+
+httpscodeforcescomproblemsetproblem465A
+
+implementation
+
+900
+
+Sergey is testing a nextgeneration processor Instead of bytes the processor works with memory cells consisting of n bits These bits are numbered from 1 to n An integer is stored in the cell in the following way the least significant bit is stored in the first bit of the cell the next significant bit is stored in the second bit and so on the most significant bit is stored in the nth bitNow Sergey wants to test the following instruction add 1 to the value of the cell As a result of the instruction the integer that is written in the cell must be increased by one if some of the most significant bits of the resulting number do not fit into the cell they must be discardedSergey wrote certain values of the bits in the cell and is going to add one to its value How many bits of the cell will change after the operation

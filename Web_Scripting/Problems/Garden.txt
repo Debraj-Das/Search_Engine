@@ -1,0 +1,9 @@
+Garden                    
+
+httpscodeforcescomproblemsetproblem152E
+
+bitmasks
+
+2500
+
+Vasya has a very beautiful country garden that can be represented as an nm rectangular field divided into nm squares One beautiful day Vasya remembered that he needs to pave roads between k important squares that contain buildings To pave a road he can cover some squares of his garden with concreteFor each garden square we know number aij that represents the number of flowers that grow in the square with coordinates ij When a square is covered with concrete all flowers that grow in the square dieVasya wants to cover some squares with concrete so that the following conditions were fulfilled   all k important squares should necessarily be covered with concrete  from each important square there should be a way to any other important square The way should go be paved with concretecovered squares considering that neighboring squares are squares that have a common side  the total number of dead plants should be minimum As Vasya has a rather large garden he asks you to help him

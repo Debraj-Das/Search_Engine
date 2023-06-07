@@ -1,0 +1,9 @@
+Nastya Is Buying Lunch                    
+
+https://codeforces.com/problemset/problem/1136/D
+
+greedy
+
+1800
+
+At the big break Nastya came to the school dining room. There are n pupils in the school, numbered from 1 to n. Unfortunately, Nastya came pretty late, so that all pupils had already stood in the queue, i.e. Nastya took the last place in the queue. Of course, it's a little bit sad for Nastya, but she is not going to despond because some pupils in the queue can agree to change places with some other pupils.Formally, there are some pairs u, v such that if the pupil with number u stands directly in front of the pupil with number v, Nastya can ask them and they will change places. Nastya asks you to find the maximal number of places in queue she can move forward. 

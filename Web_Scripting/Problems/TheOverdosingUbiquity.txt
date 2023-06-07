@@ -1,0 +1,9 @@
+The Overdosing Ubiquity                    
+
+httpscodeforcescomproblemsetproblem869D
+
+brute force
+
+2800
+
+The fundamental prerequisite for justice is not to be correct but to be strong Thats why justice is always the victorThe Cinderswarm Bee Koyomi knows itThe bees according to their nature live in a tree To be more specific a complete binary tree with n nodes numbered from 1 to n The node numbered 1 is the root and the parent of the ith 2in node is  Note that however all edges in the tree are undirectedKoyomi adds m extra undirected edges to the tree creating more complication to trick the bees And youre here to count the number of simple paths in the resulting graph modulo 1097 A simple path is an alternating sequence of adjacent nodes and undirected edges which begins and ends with nodes and does not contain any node more than once Do note that a single node is also considered a valid simple path under this definition Please refer to the examples and notes below for instances

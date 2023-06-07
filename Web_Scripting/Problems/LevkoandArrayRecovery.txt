@@ -1,0 +1,9 @@
+Levko and Array Recovery                    
+
+httpscodeforcescomproblemsetproblem360A
+
+greedy
+
+1700
+
+Levko loves array a1a2 an consisting of integers very much That is why Levko is playing with array a performing all sorts of operations with it Each operation Levko performs is of one of two types  Increase all elements from li to ri by di In other words perform assignments ajajdi for all j that meet the inequation lijri  Find the maximum of elements from li to ri That is calculate the value  Sadly Levko has recently lost his array Fortunately Levko has records of all operations he has performed on array a Help Levko given the operation records find at least one suitable array The results of all operations for the given array must coincide with the record results Levko clearly remembers that all numbers in his array didnt exceed 109 in their absolute value so he asks you to find such an array

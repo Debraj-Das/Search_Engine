@@ -1,0 +1,9 @@
+ZeroXOR Array                    
+
+httpscodeforcescomproblemsetproblem1431J
+
+special problem
+
+3400
+
+You are given an array of integers a of size n This array is nondecreasing ie a1 le a2 le dots le anYou have to find arrays of integers b of size 2n  1 such that  b2i1  ai 1 le i le n  array b is nondecreasing  b1 oplus b2 oplus dots oplus b2n1  0 oplus denotes bitwise XOR operation httpsenwikipediaorgwikiExclusiveor In Kotlin it is xor function Calculate the number of arrays that meet all the above conditions modulo 998244353

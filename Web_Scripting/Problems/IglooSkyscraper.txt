@@ -1,0 +1,9 @@
+Igloo Skyscraper                    
+
+httpscodeforcescomproblemsetproblem91E
+
+data structures
+
+2500
+
+Today the North Pole hosts an Olympiad in a sport called toy igloo skyscrapers buildingThere are n walruses taking part in the contest Each walrus is given a unique number from 1 to n After start each walrus begins to build his own igloo skyscraper Initially at the moment of time equal to 0 the height of the skyscraper ith walrus is equal to ai Each minute the ith walrus finishes building bi floorsThe journalists that are reporting from the spot where the Olympiad is taking place make q queries to the organizers Each query is characterized by a group of three numbers li ri ti The organizers respond to each query with a number x such that1 Number x lies on the interval from li to ri inclusive lixri2 The skyscraper of the walrus number x possesses the maximum height among the skyscrapers of all walruses from the interval liri at the moment of time tiFor each journalists query print the number of the walrus x that meets the abovegiven criteria If there are several possible answers print any of them

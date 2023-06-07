@@ -1,0 +1,9 @@
+Cowboy Beblop at his computer                    
+
+httpscodeforcescomproblemsetproblem717I
+
+geometry
+
+2800
+
+Cowboy Beblop is a funny little boy who likes sitting at his computer He somehow obtained two elastic hoops in the shape of 2D polygons which are not necessarily convex Since theres no gravity on his spaceship the hoops are standing still in the air Since the hoops are very elastic Cowboy Beblop can stretch rotate translate or shorten their edges as much as he wantsFor both hoops you are given the number of their vertices as well as the position of each vertex defined by the X  Y and Z coordinates The vertices are given in the order theyre connected the 1stvertex is connected to the 2nd which is connected to the 3rd etc and the last vertex is connected to the first one Two hoops are connected if its impossible to pull them to infinity in different directions by manipulating their edges without having their edges or vertices intersect at any point  just like when two links of a chain are connected The polygons edges do not intersect or overlap To make things easier we say that two polygons are wellconnected if the edges of one polygon cross the area of the other polygon in two different directions from the upper and lower sides of the plane defined by that polygon a different number of timesCowboy Beblop is fascinated with the hoops he has obtained and he would like to know whether they are wellconnected or not Since hes busy playing with his dog Zwei hed like you to figure it out for him He promised you some sweets if you help him 

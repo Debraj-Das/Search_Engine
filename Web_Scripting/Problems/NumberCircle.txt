@@ -1,0 +1,9 @@
+Number Circle                    
+
+https://codeforces.com/problemset/problem/1189/B
+
+greedy
+
+1100
+
+You are given n numbers a_1, a_2, \ldots, a_n. Is it possible to arrange them in a circle in such a way that every number is strictly less than the sum of its neighbors?For example, for the array [1, 4, 5, 6, 7, 8], the arrangement on the left is valid, while arrangement on the right is not, as 5\ge 4 + 1 and 8> 1 + 6.  

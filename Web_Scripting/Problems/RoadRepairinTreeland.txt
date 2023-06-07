@@ -1,0 +1,9 @@
+Road Repair in Treeland                    
+
+https://codeforces.com/problemset/problem/1211/H
+
+*special problem
+
+3100
+
+There are n cities and n-1 two-way roads in Treeland. Each road connects a pair of different cities. From any city you can drive to any other, moving only along the roads. Cities are numbered from 1 to n. Yes, of course, you recognized an undirected tree in this description.The government plans to repair all the roads. Each road will be repaired by some private company. In total, the country has 10^6 private companies that are numbered from 1 to 10^6. It is possible that some companies will not repair roads at all, and some will repair many roads.To simplify the control over the work of private companies, the following restriction was introduced: for each city, we calculate the number of different companies that repair roads that have this city at one end. This number for each city should not exceed 2. In other words, for each city, there should be no more than two different companies that repair roads related to this city.The National Anti-Corruption Committee of Treeland raises concerns that all (or almost all) of the work will go to one private company. For this reason, the committee requires that roads be distributed among companies in such a way as to minimize the value of r. For each company, we calculate the number of roads assigned to it, the maximum among all companies is called the number r.Help the government find such a way to distribute all roads among companies in the required way.

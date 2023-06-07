@@ -1,0 +1,9 @@
+Discrete Acceleration                    
+
+https://codeforces.com/problemset/problem/1408/C
+
+binary search
+
+1500
+
+There is a road with length l meters. The start of the road has coordinate 0, the end of the road has coordinate l.There are two cars, the first standing at the start of the road and the second standing at the end of the road. They will start driving simultaneously. The first car will drive from the start to the end and the second car will drive from the end to the start.Initially, they will drive with a speed of 1 meter per second. There are n flags at different coordinates a_1, a_2, \ldots, a_n. Each time when any of two cars drives through a flag, the speed of that car increases by 1 meter per second.Find how long will it take for cars to meet (to reach the same coordinate). 

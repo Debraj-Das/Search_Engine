@@ -1,0 +1,9 @@
+Data Center                    
+
+https://codeforces.com/problemset/problem/1250/F
+
+brute force
+
+800
+
+You are developing a project to build a new data center. The data center will be a rectangle with an area of exactly n square meters. Each side of the data center must be an integer.Your goal is to minimize the impact of the external environment on the data center. For this reason, you want to minimize the length of the perimeter of the data center (that is, the sum of the lengths of its four sides).What is the minimum perimeter of a rectangular data center with an area of exactly n square meters, if the lengths of all its sides must be integers?

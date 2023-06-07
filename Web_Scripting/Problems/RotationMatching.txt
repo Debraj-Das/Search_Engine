@@ -1,0 +1,9 @@
+Rotation Matching                    
+
+https://codeforces.com/problemset/problem/1365/C
+
+constructive algorithms
+
+1400
+
+After the mysterious disappearance of Ashish, his two favourite disciples Ishika and Hriday, were each left with one half of a secret message. These messages can each be represented by a permutation of size n. Let's call them a and b.Note that a permutation of n elements is a sequence of numbers a_1, a_2, \ldots, a_n, in which every number from 1 to n appears exactly once. The message can be decoded by an arrangement of sequence a and b, such that the number of matching pairs of elements between them is maximum. A pair of elements a_i and b_j is said to match if:   i = j, that is, they are at the same index.  a_i = b_j His two disciples are allowed to perform the following operation any number of times:   choose a number k and cyclically shift one of the permutations to the left or right k times. A single cyclic shift to the left on any permutation c is an operation that sets c_1:=c_2, c_2:=c_3, \ldots, c_n:=c_1 simultaneously. Likewise, a single cyclic shift to the right on any permutation c is an operation that sets c_1:=c_n, c_2:=c_1, \ldots, c_n:=c_{n-1} simultaneously.Help Ishika and Hriday find the maximum number of pairs of elements that match after performing the operation any (possibly zero) number of times.

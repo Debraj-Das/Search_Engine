@@ -1,0 +1,9 @@
+Shaass and Lights                    
+
+httpscodeforcescomproblemsetproblem294C
+
+combinatorics
+
+1900
+
+There are n lights aligned in a row These lights are numbered 1 to n from left to right Initially some of the lights are switched on Shaass wants to switch all the lights on At each step he can switch a light on this light should be switched off at that moment if theres at least one adjacent light which is already switched on He knows the initial state of lights and hes wondering how many different ways there exist to switch all the lights on Please find the required number of ways modulo 10000000071097

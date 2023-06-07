@@ -1,0 +1,9 @@
+Vessels                    
+
+httpscodeforcescomproblemsetproblem371D
+
+data structures
+
+1800
+
+There is a system of n vessels arranged one above the other as shown in the figure below Assume that the vessels are numbered from 1 to n in the order from the highest to the lowest the volume of the ith vessel is ai liters  Initially all the vessels are empty In some vessels water is poured All the water that overflows from the ith vessel goes to the i1th one The liquid that overflows from the nth vessel spills on the floorYour task is to simulate pouring water into the vessels To do this you will need to handle two types of queries  Add xi liters of water to the pith vessel  Print the number of liters of water in the kith vessel When you reply to the second request you can assume that all the water poured up to this point has already overflown between the vessels

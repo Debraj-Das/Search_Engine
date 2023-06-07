@@ -1,0 +1,9 @@
+Putting Boxes Together                    
+
+https://codeforces.com/problemset/problem/1030/F
+
+data structures
+
+2500
+
+There is an infinite line consisting of cells. There are n boxes in some cells of this line. The i-th box stands in the cell a_i and has weight w_i. All a_i are distinct, moreover, a_{i - 1} < a_i holds for all valid i.You would like to put together some boxes. Putting together boxes with indices in the segment [l, r] means that you will move some of them in such a way that their positions will form some segment [x, x + (r - l)].In one step you can move any box to a neighboring cell if it isn't occupied by another box (i.e. you can choose i and change a_i by 1, all positions should remain distinct). You spend w_i units of energy moving the box i by one cell. You can move any box any number of times, in arbitrary order.Sometimes weights of some boxes change, so you have queries of two types:   id nw — weight w_{id} of the box id becomes nw.  l r — you should compute the minimum total energy needed to put together boxes with indices in [l, r]. Since the answer can be rather big, print the remainder it gives when divided by 1000\,000\,007 = 10^9 + 7. Note that the boxes are not moved during the query, you only should compute the answer. Note that you should minimize the answer, not its remainder modulo 10^9 + 7. So if you have two possible answers 2 \cdot 10^9 + 13 and 2 \cdot 10^9 + 14, you should choose the first one and print 10^9 + 6, even though the remainder of the second answer is 0.

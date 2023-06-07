@@ -1,0 +1,9 @@
+Treasure Hunting                    
+
+https://codeforces.com/problemset/problem/1201/D
+
+binary search
+
+2100
+
+You are on the island which can be represented as a n \times m table. The rows are numbered from 1 to n and the columns are numbered from 1 to m. There are k treasures on the island, the i-th of them is located at the position (r_i, c_i).Initially you stand at the lower left corner of the island, at the position (1, 1). If at any moment you are at the cell with a treasure, you can pick it up without any extra time. In one move you can move up (from (r, c) to (r+1, c)), left (from (r, c) to (r, c-1)), or right (from position (r, c) to (r, c+1)). Because of the traps, you can't move down.However, moving up is also risky. You can move up only if you are in a safe column. There are q safe columns: b_1, b_2, \ldots, b_q. You want to collect all the treasures as fast as possible. Count the minimum number of moves required to collect all the treasures.

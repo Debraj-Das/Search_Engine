@@ -1,0 +1,9 @@
+Swap Game                    
+
+https://codeforces.com/problemset/problem/1747/C
+
+games
+
+1200
+
+Alice and Bob are playing a game on an array a of n positive integers. Alice and Bob make alternating moves with Alice going first.In his/her turn, the player makes the following move: If a_1 = 0, the player loses the game, otherwise: Player chooses some i with 2\le i \le n. Then player decreases the value of a_1 by 1 and swaps a_1 with a_i. Determine the winner of the game if both players play optimally.

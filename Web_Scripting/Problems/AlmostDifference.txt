@@ -1,0 +1,9 @@
+Almost Difference                    
+
+httpscodeforcescomproblemsetproblem903D
+
+data structures
+
+2200
+
+Lets denote a function You are given an array a consisting of n integers You have to calculate the sum of daiaj over all pairs ij such that 1ijn

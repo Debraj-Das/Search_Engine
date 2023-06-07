@@ -1,0 +1,9 @@
+Chocolates                    
+
+https://codeforces.com/problemset/problem/1139/B
+
+greedy
+
+1000
+
+You went to the store, selling n types of chocolates. There are a_i chocolates of type i in stock.You have unlimited amount of cash (so you are not restricted by any prices) and want to buy as many chocolates as possible. However if you buy x_i chocolates of type i (clearly, 0 \le x_i \le a_i), then for all 1 \le j < i at least one of the following must hold:  x_j = 0 (you bought zero chocolates of type j) x_j < x_i (you bought less chocolates of type j than of type i) For example, the array x = [0, 0, 1, 2, 10] satisfies the requirement above (assuming that all a_i \ge x_i), while arrays x = [0, 1, 0], x = [5, 5] and x = [3, 2] don't.Calculate the maximum number of chocolates you can buy.

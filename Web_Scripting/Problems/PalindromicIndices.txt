@@ -1,0 +1,9 @@
+Palindromic Indices                    
+
+https://codeforces.com/problemset/problem/1682/A
+
+greedy
+
+800
+
+You are given a palindromic string s of length n.You have to count the number of indices i (1 \le i \le n) such that the string after removing s_i from s still remains a palindrome. For example, consider s = "aba"  If we remove s_1 from s, the string becomes "ba" which is not a palindrome.  If we remove s_2 from s, the string becomes "aa" which is a palindrome.  If we remove s_3 from s, the string becomes "ab" which is not a palindrome. A palindrome is a string that reads the same backward as forward. For example, "abba", "a", "fef" are palindromes whereas "codeforces", "acd", "xy" are not.

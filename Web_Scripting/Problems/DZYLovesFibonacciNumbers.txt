@@ -1,0 +1,9 @@
+DZY Loves Fibonacci Numbers                    
+
+httpscodeforcescomproblemsetproblem446C
+
+data structures
+
+2400
+
+In mathematical terms the sequence Fn of Fibonacci numbers is defined by the recurrence relation F11F21FnFn1Fn2n2DZY loves Fibonacci numbers very much Today DZY gives you an array consisting of n integers a1a2an Moreover there are m queries each query has one of the two types  Format of the query 1 l r In reply to the query you need to add Fil1 to each element ai where lir  Format of the query 2 l r In reply to the query you should output the value of  modulo 10000000091099 Help DZY reply to all the queries

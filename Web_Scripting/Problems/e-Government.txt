@@ -1,0 +1,9 @@
+eGovernment                    
+
+httpscodeforcescomproblemsetproblem163E
+
+data structures
+
+2800
+
+The best programmers of Embezzland compete to develop a part of the project called eGovernment  the system of automated statistic collecting and press analysisWe know that any of the k citizens can become a member of the Embezzland government The citizens surnames are a1a2ak All surnames are different Initially all k citizens from this list are members of the government The system should support the following options  Include citizen ai to the government  Exclude citizen ai from the government  Given a newspaper article text calculate how politicized it is To do this for every active government member the system counts the number of times his surname occurs in the text as a substring All occurrences are taken into consideration including the intersecting ones The degree of politicization of a text is defined as the sum of these values for all active government members Implement this system

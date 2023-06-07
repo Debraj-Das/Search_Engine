@@ -1,0 +1,9 @@
+Madoka and The Best University                    
+
+https://codeforces.com/problemset/problem/1717/E
+
+math
+
+2200
+
+Madoka wants to enter to "Novosibirsk State University", but in the entrance exam she came across a very difficult task:Given an integer n, it is required to calculate \sum{\operatorname{lcm}(c, \gcd(a, b))}, for all triples of positive integers (a, b, c), where a + b + c = n.In this problem \gcd(x, y) denotes the greatest common divisor of x and y, and \operatorname{lcm}(x, y) denotes the least common multiple of x and y.Solve this problem for Madoka and help her to enter to the best university!

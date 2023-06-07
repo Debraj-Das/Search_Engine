@@ -1,0 +1,9 @@
+Trails and Glades                    
+
+httpscodeforcescomproblemsetproblem209C
+
+constructive algorithms
+
+2400
+
+Vasya went for a walk in the park The park has n glades numbered from 1 to n There are m trails between the glades The trails are numbered from 1 to m where the ith trail connects glades xi and yi The numbers of the connected glades may be the same xiyi which means that a trail connects a glade to itself Also two glades may have several nonintersecting trails between themVasya is on glade 1 he wants to walk on all trails of the park exactly once so that he can eventually return to glade 1 Unfortunately Vasya does not know whether this walk is possible or not Help Vasya determine whether the walk is possible or not If such walk is impossible find the minimum number of trails the authorities need to add to the park in order to make the described walk possibleVasya can shift from one trail to another one only on glades He can move on the trails in both directions If Vasya started going on the trail that connects glades a and b from glade a then he must finish this trail on glade b

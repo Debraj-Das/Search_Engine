@@ -1,0 +1,9 @@
+Little Elephant and Cards                    
+
+https://codeforces.com/problemset/problem/204/B
+
+binary search
+
+1500
+
+The Little Elephant loves to play with color cards.He has n cards, each has exactly two colors (the color of the front side and the color of the back side). Initially, all the cards lay on the table with the front side up. In one move the Little Elephant can turn any card to the other side. The Little Elephant thinks that a set of cards on the table is funny if at least half of the cards have the same color (for each card the color of the upper side is considered).Help the Little Elephant to find the minimum number of moves needed to make the set of n cards funny.

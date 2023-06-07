@@ -1,0 +1,9 @@
+Petya and His Friends                    
+
+httpscodeforcescomproblemsetproblem66D
+
+constructive algorithms
+
+1700
+
+Little Petya has a birthday soon Due this wonderful event Petyas friends decided to give him sweets The total number of Petyas friends equals to nLet us remind you the definition of the greatest common divisor GCDa1akd where d represents such a maximal positive number that each ai 1ik is evenly divisible by d At that we assume that all ais are greater than zeroKnowing that Petya is keen on programming his friends has agreed beforehand that the 1st friend gives a1 sweets the 2nd one gives a2 sweets  the nth one gives an sweets At the same time for any i and j 1ijn they want the GCDaiaj not to be equal to 1 However they also want the following condition to be satisfied GCDa1a2an1 One more all the ai should be distinctHelp the friends to choose the suitable numbers a1an

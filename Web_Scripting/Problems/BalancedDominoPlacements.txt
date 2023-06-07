@@ -1,0 +1,9 @@
+Balanced Domino Placements                    
+
+https://codeforces.com/problemset/problem/1237/F
+
+combinatorics
+
+2600
+
+Consider a square grid with h rows and w columns with some dominoes on it. Each domino covers exactly two cells of the grid that share a common side. Every cell is covered by at most one domino.Let's call a placement of dominoes on the grid perfectly balanced if no row and no column contains a pair of cells covered by two different dominoes. In other words, every row and column may contain no covered cells, one covered cell, or two covered cells that belong to the same domino.You are given a perfectly balanced placement of dominoes on a grid. Find the number of ways to place zero or more extra dominoes on this grid to keep the placement perfectly balanced. Output this number modulo 998\,244\,353.

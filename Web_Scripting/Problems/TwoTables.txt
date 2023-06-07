@@ -1,0 +1,9 @@
+Two Tables                    
+
+httpscodeforcescomproblemsetproblem228B
+
+brute force
+
+1400
+
+Youve got two rectangular tables with sizes nama and nbmb cells The tables consist of zeroes and ones We will consider the rows and columns of both tables indexed starting from 1 Then we will define the element of the first table located at the intersection of the ith row and the jth column as aij we will define the element of the second table located at the intersection of the ith row and the jth column as bij We will call the pair of integers xy a shift of the second table relative to the first one Well call the overlap factor of the shift xy valuewhere the variables ij take only such values in which the expression aijbixjy makes sense More formally inequalities 1ina1jma1ixnb1jymb must hold If there are no values of variables ij that satisfy the given inequalities the value of the sum is considered equal to 0 Your task is to find the shift with the maximum overlap factor among all possible shifts

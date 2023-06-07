@@ -1,0 +1,9 @@
+Cow and Vacation                    
+
+https://codeforces.com/problemset/problem/1307/F
+
+dfs and similar
+
+3300
+
+Bessie is planning a vacation! In Cow-lifornia, there are n cities, with n-1 bidirectional roads connecting them. It is guaranteed that one can reach any city from any other city. Bessie is considering v possible vacation plans, with the i-th one consisting of a start city a_i and destination city b_i.It is known that only r of the cities have rest stops. Bessie gets tired easily, and cannot travel across more than k consecutive roads without resting. In fact, she is so desperate to rest that she may travel through the same city multiple times in order to do so.For each of the vacation plans, does there exist a way for Bessie to travel from the starting city to the destination city?

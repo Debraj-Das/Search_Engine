@@ -1,0 +1,9 @@
+Xor of 3                    
+
+https://codeforces.com/problemset/problem/1572/B
+
+brute force
+
+2500
+
+You are given a sequence a of length n consisting of 0s and 1s.You can perform the following operation on this sequence:   Pick an index i from 1 to n-2 (inclusive).  Change all of a_{i}, a_{i+1}, a_{i+2} to a_{i} \oplus a_{i+1} \oplus a_{i+2} simultaneously, where \oplus denotes the bitwise XOR operation  Find a sequence of at most n operations that changes all elements of a to 0s or report that it's impossible.We can prove that if there exists a sequence of operations of any length that changes all elements of a to 0s, then there is also such a sequence of length not greater than n.

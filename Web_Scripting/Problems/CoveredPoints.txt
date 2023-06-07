@@ -1,0 +1,9 @@
+Covered Points                    
+
+https://codeforces.com/problemset/problem/1036/E
+
+fft
+
+2400
+
+You are given n segments on a Cartesian plane. Each segment's endpoints have integer coordinates. Segments can intersect with each other. No two segments lie on the same line.Count the number of distinct points with integer coordinates, which are covered by at least one segment.

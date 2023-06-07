@@ -1,0 +1,9 @@
+Required Remainder                    
+
+https://codeforces.com/problemset/problem/1374/A
+
+math
+
+800
+
+You are given three integers x, y and n. Your task is to find the maximum integer k such that 0 \le k \le n that k \bmod x = y, where \bmod is modulo operation. Many programming languages use percent operator % to implement it.In other words, with given x, y and n you need to find the maximum possible integer from 0 to n that has the remainder y modulo x.You have to answer t independent test cases. It is guaranteed that such k exists for each test case.

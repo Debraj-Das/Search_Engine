@@ -1,0 +1,9 @@
+Santa Claus and Keyboard Check                    
+
+https://codeforces.com/problemset/problem/748/B
+
+implementation
+
+1500
+
+Santa Claus decided to disassemble his keyboard to clean it. After he returned all the keys back, he suddenly realized that some pairs of keys took each other's place! That is, Santa suspects that each key is either on its place, or on the place of another key, which is located exactly where the first key should be. In order to make sure that he's right and restore the correct order of keys, Santa typed his favorite patter looking only to his keyboard.You are given the Santa's favorite patter and the string he actually typed. Determine which pairs of keys could be mixed. Each key must occur in pairs at most once.

@@ -1,0 +1,9 @@
+Minimal kcovering                    
+
+httpscodeforcescomproblemsetproblem976F
+
+flows
+
+2500
+
+You are given a bipartite graph GUVE U is the set of vertices of the first part V is the set of vertices of the second part and E is the set of edges There might be multiple edgesLets call some subset of its edges  kcovering iff the graph  has each of its vertices incident to at least k edges Minimal kcovering is such a kcovering that the size of the subset  is minimal possibleYour task is to find minimal kcovering for each  where minDegree is the minimal degree of any vertex in graph G

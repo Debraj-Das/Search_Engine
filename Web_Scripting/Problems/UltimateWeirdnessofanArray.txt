@@ -1,0 +1,9 @@
+Ultimate Weirdness of an Array                    
+
+httpscodeforcescomproblemsetproblem671C
+
+data structures
+
+2800
+
+Yasin has an array a containing n integers Yasin is a 5 year old so he loves ultimate weird thingsYasin denotes weirdness of an array as maximum gcdaiaj value among all 1ijn For n1 weirdness is equal to 0 gcdxy is the greatest common divisor of integers x and yHe also defines the ultimate weirdness of an array Ultimate weirdness is  where fij is weirdness of the new array a obtained by removing all elements between i and j inclusive so new array is a1 ai1aj1 anSince 5 year old boys cant code Yasin asks for your help to find the value of ultimate weirdness of the given array a

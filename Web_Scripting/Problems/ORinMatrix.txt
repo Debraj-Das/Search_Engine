@@ -1,0 +1,9 @@
+OR in Matrix                    
+
+httpscodeforcescomproblemsetproblem486B
+
+greedy
+
+1300
+
+Lets define logical OR as an operation on two logical values i e values that belong to the set 01 that is equal to 1 if either or both of the logical values is set to 1 otherwise it is 0 We can define logical OR of three or more logical values in the same manner where  is equal to 1 if some ai1 otherwise it is equal to 0Nam has a matrix A consisting of m rows and n columns The rows are numbered from 1 to m columns are numbered from 1 to n Element at row i 1im and column j 1jn is denoted as Aij All elements of A are either 0 or 1 From matrix A Nam creates another matrix B of the same size using formulaBij is OR of all elements in row i and column j of matrix ANam gives you matrix B and challenges you to guess matrix A Although Nam is smart he could probably make a mistake while calculating matrix B since size of A can be large

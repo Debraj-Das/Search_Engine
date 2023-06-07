@@ -1,0 +1,9 @@
+Economy Game                    
+
+httpscodeforcescomproblemsetproblem681B
+
+brute force
+
+1300
+
+Kolya is developing an economy simulator game His most favourite part of the development process is ingame testing Once he was entertained by the testing so much that he found out his gamecoin score become equal to 0Kolya remembers that at the beginning of the game his gamecoin score was equal to n and that he have bought only some houses for 1234567 gamecoins each cars for 123456 gamecoins each and computers for 1234 gamecoins eachKolya is now interested whether he could have spent all of his initial n gamecoins buying only houses cars and computers or there is a bug in the game Formally is there a triple of nonnegative integers a b and c such that a1234567b123456c1234nPlease help Kolya answer this question

@@ -1,0 +1,9 @@
+Train Splitting                    
+
+https://codeforces.com/problemset/problem/1776/F
+
+constructive algorithms
+
+1700
+
+There are n big cities in Italy, and there are m train routes between pairs of cities. Each route connects two different cities bidirectionally. Moreover, using the trains one can reach every city starting from any other city.Right now, all the routes are operated by the government-owned Italian Carriage Passenger Company, but the government wants to privatize the routes. The government does not want to give too much power to a single company, but it also does not want to make people buy a lot of different subscriptions. Also, it would like to give a fair chance to all companies. In order to formalize all these wishes, the following model was proposed.There will be k \ge 2 private companies indexed by 1, \, 2, \, \dots, \, k. Each train route will be operated by exactly one of the k companies. Then:  For any company, there should exist two cities such that it is impossible to reach one from the other using only routes operated by that company.  On the other hand, for any two companies, it should be possible to reach every city from any other city using only routes operated by these two companies. Find a plan satisfying all these criteria. It can be shown that a viable plan always exists. Please note that you can choose the number k and you do not have to minimize or maximize it.

@@ -1,0 +1,9 @@
+Privatization of Roads in Berland                    
+
+https://codeforces.com/problemset/problem/1070/I
+
+flows
+
+2400
+
+There are n cities and m two-way roads in Berland, each road connecting two distinct cities.Recently the Berland government has made a tough decision to transfer ownership of the roads to private companies. In total, there are 100500 private companies in Berland, numbered by integers from 1 to 100500. After the privatization, every road should belong to exactly one company.The anti-monopoly committee demands that after the privatization each company can own at most two roads. The urbanists of Berland also stated their opinion: each city should be adjacent to the roads owned by at most k companies.Help the government to distribute the roads between the companies so that both conditions are satisfied. That is, each company gets at most two roads, and each city has roads of at most k distinct companies adjacent to it.

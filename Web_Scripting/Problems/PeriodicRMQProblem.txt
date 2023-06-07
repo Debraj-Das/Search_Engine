@@ -1,0 +1,9 @@
+Periodic RMQ Problem                    
+
+httpscodeforcescomproblemsetproblem803G
+
+data structures
+
+2300
+
+You are given an array a consisting of positive integers and q queries to this array There are two types of queries   1 l r x  for each index i such that lir set aix  2 l r  find the minimum among such ai that lir We decided that this problem is too easy So the array a is given in a compressed form there is an array b consisting of n elements and a number k in the input and before all queries a is equal to the concatenation of k arrays b so the size of a is nk

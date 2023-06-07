@@ -1,0 +1,9 @@
+Inverse Inversions                    
+
+https://codeforces.com/problemset/problem/1540/D
+
+binary search
+
+3200
+
+You were playing with permutation p of length n, but you lost it in Blair, Alabama!Luckily, you remember some information about the permutation. More specifically, you remember an array b of length n, where b_i is the number of indices j such that j < i and p_j > p_i.You have the array b, and you want to find the permutation p. However, your memory isn't perfect, and you constantly change the values of b as you learn more. For the next q seconds, one of the following things happen:  1 i x — you realize that b_i is equal to x;  2 i — you need to find the value of p_i. If there's more than one answer, print any. It can be proven that there's always at least one possible answer under the constraints of the problem. Answer the queries, so you can remember the array!

@@ -1,0 +1,9 @@
+Bear and UpDown                    
+
+httpscodeforcescomproblemsetproblem653C
+
+brute force
+
+1900
+
+The life goes up and down just like nice sequences Sequence t1t2tn is called nice if the following two conditions are satisfied   titi1 for each odd in  titi1 for each even in For example sequences 28 151 and 25110099120 are nice while 11 123 and 2532 are notBear Limak has a sequence of positive integers t1t2tn This sequence is not nice now and Limak wants to fix it by a single swap He is going to choose two indices ij and swap elements ti and tj in order to get a nice sequence Count the number of ways to do so Two ways are considered different if indices of elements chosen for a swap are different

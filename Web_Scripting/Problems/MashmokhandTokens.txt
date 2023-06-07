@@ -1,0 +1,9 @@
+Mashmokh and Tokens                    
+
+httpscodeforcescomproblemsetproblem415B
+
+binary search
+
+1500
+
+Bimokh is Mashmokhs boss For the following n days he decided to pay to his workers in a new way At the beginning of each day he will give each worker a certain amount of tokens Then at the end of each day each worker can give some of his tokens back to get a certain amount of money The worker can save the rest of tokens but he cant use it in any other day to get more money If a worker gives back w tokens then hell get  dollars Mashmokh likes the tokens however he likes money more Thats why he wants to save as many tokens as possible so that the amount of money he gets is maximal possible each day He has n numbers x1x2xn Number xi is the number of tokens given to each worker on the ith day Help him calculate for each of n days the number of tokens he can save

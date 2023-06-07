@@ -1,0 +1,9 @@
+Bananas in a Microwave                    
+
+https://codeforces.com/problemset/problem/1498/D
+
+dfs and similar
+
+2200
+
+You have a malfunctioning microwave in which you want to put some bananas. You have n time-steps before the microwave stops working completely. At each time-step, it displays a new operation.Let k be the number of bananas in the microwave currently. Initially, k = 0. In the i-th operation, you are given three parameters t_i, x_i, y_i in the input. Based on the value of t_i, you must do one of the following:Type 1: (t_i=1, x_i, y_i) — pick an a_i, such that 0 \le a_i \le y_i, and perform the following update a_i times: k:=\lceil (k + x_i) \rceil.Type 2: (t_i=2, x_i, y_i) — pick an a_i, such that 0 \le a_i \le y_i, and perform the following update a_i times: k:=\lceil (k \cdot x_i) \rceil.Note that x_i can be a fractional value. See input format for more details. Also, \lceil x \rceil is the smallest integer \ge x.At the i-th time-step, you must apply the i-th operation exactly once.For each j such that 1 \le j \le m, output the earliest time-step at which you can create exactly j bananas. If you cannot create exactly j bananas, output -1.

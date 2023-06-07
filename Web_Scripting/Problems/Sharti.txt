@@ -1,0 +1,9 @@
+Sharti                    
+
+httpscodeforcescomproblemsetproblem494E
+
+data structures
+
+3200
+
+During the last 24 hours Hamed and Malek spent all their time playing Sharti Now they are too exhausted to finish the last round So they asked you for help to determine the winner of this round Sharti is played on a nn board with some of cells colored white and others colored black The rows of the board are numbered from top to bottom using number 1 to n Also the columns of the board are numbered from left to right using numbers 1 to n The cell located at the intersection of ith row and jth column is denoted by ijThe players alternatively take turns In each turn the player must choose a square with sidelength at most k with its lowerright cell painted white Then the colors of all the cells in this square are inversed white cells become black and viceversa The player who cannot perform a move in his turn loses You know Hamed and Malek are very clever and they would have played their best moves at each turn Knowing this and the fact that Hamed takes the first turn given the initial board as described in the input you must determine which one of them will be the winner

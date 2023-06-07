@@ -1,0 +1,9 @@
+Pavel and barbecue                    
+
+httpscodeforcescomproblemsetproblem756A
+
+constructive algorithms
+
+1700
+
+Pavel cooks barbecue There are n skewers they lay on a brazier in a row each on one of n positions Pavel wants each skewer to be cooked some time in every of n positions in two directions in the one it was directed originally and in the reversed directionPavel has a plan a permutation p and a sequence b1b2bn consisting of zeros and ones Each second Pavel move skewer on position i to position pi and if bi equals 1 then he reverses it So he hope that every skewer will visit every position in both directionsUnfortunately not every pair of permutation p and sequence b suits Pavel What is the minimum total number of elements in the given permutation p and the given sequence b he needs to change so that every skewer will visit each of 2n placements Note that after changing the permutation should remain a permutation as wellThere is no problem for Pavel if some skewer visits some of the placements several times before he ends to cook In other words a permutation p and a sequence b suit him if there is an integer k k2n so that after k seconds each skewer visits each of the 2n placementsIt can be shown that some suitable pair of permutation p and sequence b exists for any n

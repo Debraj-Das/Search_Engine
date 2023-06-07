@@ -1,0 +1,9 @@
+Shocking Arrangement                    
+
+https://codeforces.com/problemset/problem/1798/D
+
+constructive algorithms
+
+1600
+
+You are given an array a_1, a_2, \ldots, a_n consisting of integers such that a_1 + a_2 + \ldots + a_n = 0.You have to rearrange the elements of the array a so that the following condition is satisfied:\max\limits_{1 \le l \le r \le n} \lvert a_l + a_{l+1} + \ldots + a_r \rvert < \max(a_1, a_2, \ldots, a_n) - \min(a_1, a_2, \ldots, a_n), where |x| denotes the absolute value of x.More formally, determine if there exists a permutation p_1, p_2, \ldots, p_n that for the array a_{p_1}, a_{p_2}, \ldots, a_{p_n}, the condition above is satisfied, and find the corresponding array.Recall that the array p_1, p_2, \ldots, p_n is called a permutation if for each integer x from 1 to n there is exactly one i from 1 to n such that p_i = x.

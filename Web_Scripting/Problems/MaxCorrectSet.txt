@@ -1,0 +1,9 @@
+Max Correct Set                    
+
+https://codeforces.com/problemset/problem/1463/F
+
+bitmasks
+
+3100
+
+Let's call the set of positive integers S correct if the following two conditions are met:   S \subseteq \{1, 2, \dots, n\};  if a \in S and b \in S, then |a-b| \neq x and |a-b| \neq y. For the given values n, x, and y, you have to find the maximum size of the correct set.

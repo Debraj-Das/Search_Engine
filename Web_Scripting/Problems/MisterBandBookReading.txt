@@ -1,0 +1,9 @@
+Mister B and Book Reading                    
+
+httpscodeforcescomproblemsetproblem820A
+
+implementation
+
+900
+
+Mister B once received a gift it was a book about aliens which he started read immediately This book had c pagesAt first day Mister B read v0 pages but after that he started to speed up Every day starting from the second he read a pages more than on the previous day at first day he read v0 pages at second v0a pages at third v02a pages and so on But Mister B is just a human so he physically wasnt able to read more than v1 pages per dayAlso to refresh his memory every day starting from the second Mister B had to reread last l pages he read on the previous day Mister B finished the book when he read the last page for the first timeHelp Mister B to calculate how many days he needed to finish the book

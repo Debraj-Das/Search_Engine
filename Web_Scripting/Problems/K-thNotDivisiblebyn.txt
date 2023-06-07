@@ -1,0 +1,9 @@
+K-th Not Divisible by n                    
+
+https://codeforces.com/problemset/problem/1352/C
+
+binary search
+
+1200
+
+You are given two positive integers n and k. Print the k-th positive integer that is not divisible by n.For example, if n=3, and k=7, then all numbers that are not divisible by 3 are: 1, 2, 4, 5, 7, 8, 10, 11, 13 \dots. The 7-th number among them is 10.

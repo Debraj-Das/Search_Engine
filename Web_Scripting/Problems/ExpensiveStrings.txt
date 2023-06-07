@@ -1,0 +1,9 @@
+Expensive Strings                    
+
+httpscodeforcescomproblemsetproblem616F
+
+string suffix structures
+
+2700
+
+You are given n strings ti Each string has cost ciLets define the function of string  where psi is the number of occurrences of s in ti s is the length of the string s Find the maximal value of function fs over all stringsNote that the string s is not necessarily some string from t

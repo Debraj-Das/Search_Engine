@@ -1,0 +1,9 @@
+Little Elephant and Numbers                    
+
+https://codeforces.com/problemset/problem/221/B
+
+implementation
+
+1300
+
+The Little Elephant loves numbers. He has a positive integer x. The Little Elephant wants to find the number of positive integers d, such that d is the divisor of x, and x and d have at least one common (the same) digit in their decimal representations. Help the Little Elephant to find the described number.

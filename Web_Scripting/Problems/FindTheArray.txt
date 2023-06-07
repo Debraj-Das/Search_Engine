@@ -1,0 +1,9 @@
+Find The Array                    
+
+https://codeforces.com/problemset/problem/1463/B
+
+bitmasks
+
+1400
+
+You are given an array [a_1, a_2, \dots, a_n] such that 1 \le a_i \le 10^9. Let S be the sum of all elements of the array a.Let's call an array b of n integers beautiful if:  1 \le b_i \le 10^9 for each i from 1 to n;  for every pair of adjacent integers from the array (b_i, b_{i + 1}), either b_i divides b_{i + 1}, or b_{i + 1} divides b_i (or both);  2 \sum \limits_{i = 1}^{n} |a_i - b_i| \le S. Your task is to find any beautiful array. It can be shown that at least one beautiful array always exists.

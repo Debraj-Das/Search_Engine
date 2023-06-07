@@ -1,0 +1,9 @@
+Follow Traffic Rules                    
+
+httpscodeforcescomproblemsetproblem5D
+
+implementation
+
+2100
+
+Everybody knows that the capital of Berland is connected to Bercouver the Olympic capital by a direct road To improve the roads traffic capacity there was placed just one traffic sign limiting the maximum speed Traffic signs in Berland are a bit peculiar because they limit the speed only at that point on the road where they are placed Right after passing the sign it is allowed to drive at any speedIt is known that the car of an average Berland citizen has the acceleration deceleration speed of a kmh2 and has maximum speed of v kmh The road has the length of l km and the speed sign limiting the speed to w kmh is placed d km 1dl away from the capital of Berland The car has a zero speed at the beginning of the journey Find the minimum time that an average Berland citizen will need to get from the capital to Bercouver if he drives at the optimal speedThe car can enter Bercouver at any speed

@@ -1,0 +1,9 @@
+Bus Routes                    
+
+https://codeforces.com/problemset/problem/1827/E
+
+binary search
+
+3400
+
+There is a country consisting of n cities and n - 1 bidirectional roads connecting them such that we can travel between any two cities using these roads. In other words, these cities and roads form a tree.There are m bus routes connecting the cities together. A bus route between city x and city y allows you to travel between any two cities in the simple path between x and y with this route.Determine if for every pair of cities u and v, you can travel from u to v using at most two bus routes.

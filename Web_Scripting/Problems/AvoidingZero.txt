@@ -1,0 +1,9 @@
+Avoiding Zero                    
+
+https://codeforces.com/problemset/problem/1427/A
+
+math
+
+900
+
+You are given an array of n integers a_1,a_2,\dots,a_n.You have to create an array of n integers b_1,b_2,\dots,b_n such that:   The array b is a rearrangement of the array a, that is, it contains the same values and each value appears the same number of times in the two arrays. In other words, the multisets \{a_1,a_2,\dots,a_n\} and \{b_1,b_2,\dots,b_n\} are equal.For example, if a=[1,-1,0,1], then b=[-1,1,1,0] and b=[0,1,-1,1] are rearrangements of a, but b=[1,-1,-1,0] and b=[1,0,2,-3] are not rearrangements of a.  For all k=1,2,\dots,n the sum of the first k elements of b is nonzero. Formally, for all k=1,2,\dots,n, it must hold b_1+b_2+\cdots+b_k\not=0\,. If an array b_1,b_2,\dots, b_n with the required properties does not exist, you have to print NO.

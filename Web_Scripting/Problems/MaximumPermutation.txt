@@ -1,0 +1,9 @@
+Maximum Permutation                    
+
+https://codeforces.com/problemset/problem/1774/H
+
+constructive algorithms
+
+3500
+
+Ecrade bought a deck of cards numbered from 1 to n. Let the value of a permutation a of length n be \min\limits_{i = 1}^{n - k + 1}\ \sum\limits_{j = i}^{i + k - 1}a_j.Ecrade wants to find the most valuable one among all permutations of the cards. However, it seems a little difficult, so please help him! 

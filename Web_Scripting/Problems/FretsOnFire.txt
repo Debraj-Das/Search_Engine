@@ -1,0 +1,9 @@
+Frets On Fire                    
+
+https://codeforces.com/problemset/problem/1119/D
+
+binary search
+
+1800
+
+Miyako came to the flea kingdom with a ukulele. She became good friends with local flea residents and played beautiful music for them every day.In return, the fleas made a bigger ukulele for her: it has n strings, and each string has (10^{18} + 1) frets numerated from 0 to 10^{18}. The fleas use the array s_1, s_2, \ldots, s_n to describe the ukulele's tuning, that is, the pitch of the j-th fret on the i-th string is the integer s_i + j.Miyako is about to leave the kingdom, but the fleas hope that Miyako will answer some last questions for them.Each question is in the form of: "How many different pitches are there, if we consider frets between l and r (inclusive) on all strings?"Miyako is about to visit the cricket kingdom and has no time to answer all the questions. Please help her with this task!Formally, you are given a matrix with n rows and (10^{18}+1) columns, where the cell in the i-th row and j-th column (0 \le j \le 10^{18}) contains the integer s_i + j. You are to answer q queries, in the k-th query you have to answer the number of distinct integers in the matrix from the l_k-th to the r_k-th columns, inclusive.

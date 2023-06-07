@@ -1,0 +1,9 @@
+GukiZ and Binary Operations                    
+
+https://codeforces.com/problemset/problem/551/D
+
+combinatorics
+
+2100
+
+We all know that GukiZ often plays with arrays. Now he is thinking about this problem: how many arrays a, of length n, with non-negative elements strictly less then 2l meet the following condition: ? Here operation  means bitwise AND (in Pascal it is equivalent to and, in C/C++/Java/Python it is equivalent to &), operation  means bitwise OR (in Pascal it is equivalent to , in C/C++/Java/Python it is equivalent to |). Because the answer can be quite large, calculate it modulo m. This time GukiZ hasn't come up with solution, and needs you to help him!

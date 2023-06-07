@@ -1,0 +1,9 @@
+Tavas and Malekas                    
+
+httpscodeforcescomproblemsetproblem535D
+
+greedy
+
+1900
+
+Tavas is a strange creature Usually zzz comes out of peoples mouth while sleeping but string s of length n comes out from Tavas mouth instead  Today Tavas fell asleep in Malekas place While he was sleeping Malekas did a little process on s Malekas has a favorite string p He determined all positions x1x2xk where p matches s More formally for each xi 1ik he condition sxisxi1 sxip1p is fullfilledThen Malekas wrote down one of subsequences of x1x2 xk possibly he didnt write anything on a piece of paper Here a sequence b is a subsequence of sequence a if and only if we can turn a into b by removing some of its elements maybe no one of them or allAfter Tavas woke up Malekas told him everything He couldnt remember string s but he knew that both p and s only contains lowercase English letters and also he had the subsequence he had written on that piece of paperTavas wonders what is the number of possible values of s He asked SaDDas but he wasnt smart enough to solve this So Tavas asked you to calculate this number for himAnswer can be very large so Tavas wants you to print the answer modulo 1097

@@ -1,0 +1,9 @@
+New Year and Rating                    
+
+https://codeforces.com/problemset/problem/750/C
+
+binary search
+
+1600
+
+Every Codeforces user has rating, described with one integer, possibly negative or zero. Users are divided into two divisions. The first division is for users with rating 1900 or higher. Those with rating 1899 or lower belong to the second division. In every contest, according to one's performance, his or her rating changes by some value, possibly negative or zero.Limak competed in n contests in the year 2016. He remembers that in the i-th contest he competed in the division di (i.e. he belonged to this division just before the start of this contest) and his rating changed by ci just after the contest. Note that negative ci denotes the loss of rating.What is the maximum possible rating Limak can have right now, after all n contests? If his rating may be arbitrarily big, print "Infinity". If there is no scenario matching the given information, print "Impossible".

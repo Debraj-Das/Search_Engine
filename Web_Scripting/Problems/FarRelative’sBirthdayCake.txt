@@ -1,0 +1,9 @@
+Far Relatives Birthday Cake                    
+
+httpscodeforcescomproblemsetproblem629A
+
+brute force
+
+800
+
+Doors family is going celebrate Famil Doorss birthday party They love Famil Door so they are planning to make his birthday cake weirdThe cake is a nn square consisting of equal squares with side length 1 Each square is either empty or consists of a single chocolate They bought the cake and randomly started to put the chocolates on the cake The value of Famil Doors happiness will be equal to the number of pairs of cells with chocolates that are in the same row or in the same column of the cake Famil Doorss family is wondering what is the amount of happiness of Famil going to bePlease note that any pair can be counted no more than once as two different cells cant share both the same row and the same column

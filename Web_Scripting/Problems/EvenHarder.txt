@@ -1,0 +1,9 @@
+Even Harder                    
+
+https://codeforces.com/problemset/problem/1453/F
+
+dp
+
+2700
+
+Gildong is now developing a puzzle game. The puzzle consists of n platforms numbered from 1 to n. The player plays the game as a character that can stand on each platform and the goal of the game is to move the character from the 1-st platform to the n-th platform.The i-th platform is labeled with an integer a_i (0 \le a_i \le n-i). When the character is standing on the i-th platform, the player can move the character to any of the j-th platforms where i+1 \le j \le i+a_i. If the character is on the i-th platform where a_i=0 and i \ne n, the player loses the game.Since Gildong thinks the current game is not hard enough, he wants to make it even harder. He wants to change some (possibly zero) labels to 0 so that there remains exactly one way to win. He wants to modify the game as little as possible, so he's asking you to find the minimum number of platforms that should have their labels changed. Two ways are different if and only if there exists a platform the character gets to in one way but not in the other way.

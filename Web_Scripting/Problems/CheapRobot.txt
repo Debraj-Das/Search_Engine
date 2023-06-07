@@ -1,0 +1,9 @@
+Cheap Robot                    
+
+https://codeforces.com/problemset/problem/1253/F
+
+binary search
+
+2500
+
+You're given a simple, undirected, connected, weighted graph with n nodes and m edges.Nodes are numbered from 1 to n. There are exactly k centrals (recharge points), which are nodes 1, 2, \ldots, k.We consider a robot moving into this graph, with a battery of capacity c, not fixed by the constructor yet. At any time, the battery contains an integer amount x of energy between 0 and c inclusive.Traversing an edge of weight w_i is possible only if x \ge w_i, and costs w_i energy points (x := x - w_i).Moreover, when the robot reaches a central, its battery is entirely recharged (x := c).You're given q independent missions, the i-th mission requires to move the robot from central a_i to central b_i.For each mission, you should tell the minimum capacity required to acheive it.

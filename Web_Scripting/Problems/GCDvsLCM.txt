@@ -1,0 +1,9 @@
+GCD vs LCM                    
+
+https://codeforces.com/problemset/problem/1665/A
+
+constructive algorithms
+
+800
+
+You are given a positive integer n. You have to find 4 positive integers a, b, c, d such that  a + b + c + d = n, and \gcd(a, b) = \operatorname{lcm}(c, d).If there are several possible answers you can output any of them. It is possible to show that the answer always exists.In this problem \gcd(a, b) denotes the greatest common divisor of a and b, and \operatorname{lcm}(c, d) denotes the least common multiple of c and d.

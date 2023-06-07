@@ -1,0 +1,9 @@
+Red-Blue Shuffle                    
+
+https://codeforces.com/problemset/problem/1459/A
+
+math
+
+800
+
+There are n cards numbered 1, \ldots, n. The card i has a red digit r_i and a blue digit b_i written on it.We arrange all n cards in random order from left to right, with all permutations of 1, \ldots, n having the same probability. We then read all red digits on the cards from left to right, and obtain an integer R. In the same way, we read all blue digits and obtain an integer B. When reading a number, leading zeros can be ignored. If all digits in a number are zeros, then the number is equal to 0. Below is an illustration of a possible rearrangement of three cards, and how R and B can be found.  Two players, Red and Blue, are involved in a bet. Red bets that after the shuffle R > B, and Blue bets that R < B. If in the end R = B, the bet results in a draw, and neither player wins.Determine, which of the two players is more likely (has higher probability) to win the bet, or that their chances are equal. Refer to the Note section for a formal discussion of comparing probabilities.

@@ -1,0 +1,9 @@
+Squares and Cubes                    
+
+https://codeforces.com/problemset/problem/1619/B
+
+implementation
+
+800
+
+Polycarp likes squares and cubes of positive integers. Here is the beginning of the sequence of numbers he likes: 1, 4, 8, 9, ....For a given number n, count the number of integers from 1 to n that Polycarp likes. In other words, find the number of such x that x is a square of a positive integer number or a cube of a positive integer number (or both a square and a cube simultaneously).

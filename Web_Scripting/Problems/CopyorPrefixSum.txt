@@ -1,0 +1,9 @@
+Copy or Prefix Sum                    
+
+https://codeforces.com/problemset/problem/1485/F
+
+combinatorics
+
+2400
+
+You are given an array of integers b_1, b_2, \ldots, b_n.An array a_1, a_2, \ldots, a_n of integers is hybrid if for each i (1 \leq i \leq n) at least one of these conditions is true:   b_i = a_i, or  b_i = \sum_{j=1}^{i} a_j. Find the number of hybrid arrays a_1, a_2, \ldots, a_n. As the result can be very large, you should print the answer modulo 10^9 + 7.

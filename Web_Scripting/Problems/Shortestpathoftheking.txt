@@ -1,0 +1,9 @@
+Shortest path of the king                    
+
+https://codeforces.com/problemset/problem/3/A
+
+greedy
+
+1000
+
+The king is left alone on the chessboard. In spite of this loneliness, he doesn't lose heart, because he has business of national importance. For example, he has to pay an official visit to square t. As the king is not in habit of wasting his time, he wants to get from his current position s to square t in the least number of moves. Help him to do this.  In one move the king can get to the square that has a common side or a common vertex with the square the king is currently in (generally there are 8 different squares he can move to).

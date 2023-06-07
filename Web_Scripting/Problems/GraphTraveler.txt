@@ -1,0 +1,9 @@
+Graph Traveler                    
+
+https://codeforces.com/problemset/problem/1200/F
+
+brute force
+
+2300
+
+Gildong is experimenting with an interesting machine Graph Traveler. In Graph Traveler, there is a directed graph consisting of n vertices numbered from 1 to n. The i-th vertex has m_i outgoing edges that are labeled as e_i[0], e_i[1], \ldots, e_i[m_i-1], each representing the destination vertex of the edge. The graph can have multiple edges and self-loops. The i-th vertex also has an integer k_i written on itself.A travel on this graph works as follows.   Gildong chooses a vertex to start from, and an integer to start with. Set the variable c to this integer.  After arriving at the vertex i, or when Gildong begins the travel at some vertex i, add k_i to c.  The next vertex is e_i[x] where x is an integer 0 \le x \le m_i-1 satisfying x \equiv c \pmod {m_i}. Go to the next vertex and go back to step 2. It's obvious that a travel never ends, since the 2nd and the 3rd step will be repeated endlessly.For example, assume that Gildong starts at vertex 1 with c = 5, and m_1 = 2, e_1[0] = 1, e_1[1] = 2, k_1 = -3. Right after he starts at vertex 1, c becomes 2. Since the only integer x (0 \le x \le 1) where x \equiv c \pmod {m_i} is 0, Gildong goes to vertex e_1[0] = 1. After arriving at vertex 1 again, c becomes -1. The only integer x satisfying the conditions is 1, so he goes to vertex e_1[1] = 2, and so on.Since Gildong is quite inquisitive, he's going to ask you q queries. He wants to know how many distinct vertices will be visited infinitely many times, if he starts the travel from a certain vertex with a certain value of c. Note that you should not count the vertices that will be visited only finite times.

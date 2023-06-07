@@ -1,0 +1,9 @@
+Basic Diplomacy                    
+
+https://codeforces.com/problemset/problem/1482/C
+
+brute force
+
+1600
+
+Aleksey has n friends. He is also on a vacation right now, so he has m days to play this new viral cooperative game! But since it's cooperative, Aleksey will need one teammate in each of these m days.On each of these days some friends will be available for playing, and all others will not. On each day Aleksey must choose one of his available friends to offer him playing the game (and they, of course, always agree). However, if any of them happens to be chosen strictly more than \left\lceil\dfrac{m}{2}\right\rceil times, then all other friends are offended. Of course, Aleksey doesn't want to offend anyone.Help him to choose teammates so that nobody is chosen strictly more than \left\lceil\dfrac{m}{2}\right\rceil times.

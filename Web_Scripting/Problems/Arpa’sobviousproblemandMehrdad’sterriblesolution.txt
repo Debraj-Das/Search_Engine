@@ -1,0 +1,9 @@
+Arpas obvious problem and Mehrdads terrible solution                    
+
+httpscodeforcescomproblemsetproblem742B
+
+brute force
+
+1500
+
+There are some beautiful girls in Arpas land as mentioned beforeOnce Arpa came up with an obvious problemGiven an array and a number x count the number of pairs of indices ij 1ijn such that  where  is bitwise xor operation see notes for explanation  Immediately Mehrdad discovered a terrible solution that nobody trusted Now Arpa needs your help to implement the solution to that problem

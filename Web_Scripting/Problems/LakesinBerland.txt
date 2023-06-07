@@ -1,0 +1,9 @@
+Lakes in Berland                    
+
+httpscodeforcescomproblemsetproblem723D
+
+dfs and similar
+
+1600
+
+The map of Berland is a rectangle of the size nm which consists of cells of size 11 Each cell is either land or water The map is surrounded by the ocean Lakes are the maximal regions of water cells connected by sides which are not connected with the ocean Formally lake is a set of water cells such that its possible to get from any cell of the set to any other without leaving the set and moving only to cells adjacent by the side none of them is located on the border of the rectangle and its impossible to add one more water cell to the set such that it will be connected with any other cellYou task is to fill up with the earth the minimum number of water cells so that there will be exactly k lakes in Berland Note that the initial number of lakes on the map is not less than k 

@@ -1,0 +1,9 @@
+Prefix and Suffix Array                    
+
+https://codeforces.com/problemset/problem/1794/A
+
+strings
+
+800
+
+Marcos loves strings a lot, so he has a favorite string s consisting of lowercase English letters. For this string, he wrote down all its non-empty prefixes and suffixes (except for s) on a piece of paper in arbitrary order. You see all these strings and wonder if Marcos' favorite string is a palindrome or not. So, your task is to decide whether s is a palindrome by just looking at the piece of paper.A string a is a prefix of a string b if a can be obtained from b by deletion of several (possibly, zero or all) characters from the end.A string a is a suffix of a string b if a can be obtained from b by deletion of several (possibly, zero or all) characters from the beginning.A palindrome is a string that reads the same backward as forward, for example, strings "gg", "ioi", "abba", "icpci" are palindromes, but strings "codeforces", "abcd", "alt" are not.

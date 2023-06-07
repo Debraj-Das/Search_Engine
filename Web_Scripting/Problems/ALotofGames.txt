@@ -1,0 +1,9 @@
+A Lot of Games                    
+
+httpscodeforcescomproblemsetproblem455B
+
+dfs and similar
+
+1900
+
+Andrew Fedor and Alex are inventive guys Now they invent the game with strings for two playersGiven a group of n nonempty strings During the game two players build the word together initially the word is empty The players move in turns On his step player must add a single letter in the end of the word the resulting word must be prefix of at least one string from the group A player loses if he cannot moveAndrew and Alex decided to play this game k times The player who is the loser of the ith game makes the first move in the i1th game Guys decided that the winner of all games is the player who wins the last kth game Andrew and Alex already started the game Fedor wants to know who wins the game if both players will play optimally Help him

@@ -1,0 +1,9 @@
+Clearing Up                    
+
+https://codeforces.com/problemset/problem/141/E
+
+constructive algorithms
+
+2300
+
+After Santa Claus and his assistant Elf delivered all the presents and made all the wishes come true, they returned to the North Pole and found out that it is all covered with snow. Both of them were quite tired and they decided only to remove the snow from the roads connecting huts. The North Pole has n huts connected with m roads. One can go along the roads in both directions. The Elf offered to split: Santa Claus will clear up the wide roads and the Elf will tread out the narrow roads. For each road they decided who will clear it: Santa Claus or the Elf. To minimize the efforts they decided to clear the road so as to fulfill both those conditions:   between any two huts should exist exactly one simple path along the cleared roads;  Santa Claus and the Elf should clear the same number of roads. At this point Santa Claus and his assistant Elf wondered which roads should they clear up?

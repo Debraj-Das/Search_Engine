@@ -1,0 +1,9 @@
+Black and White Tree                    
+
+httpscodeforcescomproblemsetproblem1626E
+
+dfs and similar
+
+2400
+
+You are given a tree consisting of n vertices Some of the vertices at least two are black all the other vertices are whiteYou place a chip on one of the vertices of the tree and then perform the following operations  let the current vertex where the chip is located is x You choose a black vertex y and then move the chip along the first edge on the simple path from x to y You are not allowed to choose the same black vertex y in two operations in a row ie for every two consecutive operations the chosen black vertex should be differentYou end your operations when the chip moves to the black vertex if it is initially placed in a black vertex you dont perform the operations at all or when the number of performed operations exceeds 100500For every vertex i you have to determine if there exists a possibly empty sequence of operations that moves the chip to some black vertex if the chip is initially placed on the vertex i

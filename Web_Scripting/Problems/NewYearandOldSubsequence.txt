@@ -1,0 +1,9 @@
+New Year and Old Subsequence                    
+
+httpscodeforcescomproblemsetproblem750E
+
+data structures
+
+2600
+
+A string t is called nice if a string 2017 occurs in t as a subsequence but a string 2016 doesnt occur in t as a subsequence For example strings 203434107 and 9220617 are nice while strings 20016 1234 and 20167 arent niceThe ugliness of a string is the minimum possible number of characters to remove in order to obtain a nice string If its impossible to make a string nice by removing characters its ugliness is 1Limak has a string s of length n with characters indexed 1 through n He asks you q queries In the ith query you should compute and print the ugliness of a substring continuous subsequence of s starting at the index ai and ending at the index bi inclusive

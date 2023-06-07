@@ -1,0 +1,9 @@
+Serval and Music Game                    
+
+https://codeforces.com/problemset/problem/1789/E
+
+brute force
+
+2500
+
+Serval loves playing music games. He meets a problem when playing music games, and he leaves it for you to solve.You are given n positive integers s_1 < s_2 < \ldots < s_n. f(x) is defined as the number of i (1\leq i\leq n) that exist non-negative integers p_i, q_i such that: s_i=p_i\left\lfloor{s_n\over x}\right\rfloor + q_i\left\lceil{s_n\over x}\right\rceilFind out \sum_{x=1}^{s_n} x\cdot f(x) modulo 998\,244\,353.As a reminder, \lfloor x\rfloor denotes the maximal integer that is no greater than x, and \lceil x\rceil denotes the minimal integer that is no less than x.

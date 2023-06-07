@@ -1,0 +1,9 @@
+Tree Queries (Easy Version)                    
+
+https://codeforces.com/problemset/problem/1695/D1
+
+brute force
+
+2200
+
+The only difference between this problem and D2 is the bound on the size of the tree.You are given an unrooted tree with n vertices. There is some hidden vertex x in that tree that you are trying to find.To do this, you may ask k queries v_1, v_2, \ldots, v_k where the v_i are vertices in the tree. After you are finished asking all of the queries, you are given k numbers d_1, d_2, \ldots, d_k, where d_i is the number of edges on the shortest path between v_i and x. Note that you know which distance corresponds to which query.What is the minimum k such that there exists some queries v_1, v_2, \ldots, v_k that let you always uniquely identify x (no matter what x is).Note that you don't actually need to output these queries.

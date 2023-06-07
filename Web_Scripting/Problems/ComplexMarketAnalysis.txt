@@ -1,0 +1,9 @@
+Complex Market Analysis                    
+
+https://codeforces.com/problemset/problem/1609/C
+
+binary search
+
+1400
+
+  While performing complex market analysis William encountered the following problem:For a given array a of size n and a natural number e, calculate the number of pairs of natural numbers (i, k) which satisfy the following conditions:   1 \le i, k  i + e \cdot k \le n.  Product a_i \cdot a_{i + e} \cdot a_{i + 2 \cdot e} \cdot \ldots \cdot a_{i + k \cdot e}  is a prime number. A prime number (or a prime) is a natural number greater than 1 that is not a product of two smaller natural numbers.

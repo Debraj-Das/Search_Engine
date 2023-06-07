@@ -1,0 +1,9 @@
+Mushroom Scientists                    
+
+httpscodeforcescomproblemsetproblem185B
+
+math
+
+1800
+
+As you very well know the whole Universe traditionally uses threedimensional Cartesian system of coordinates In this system each point corresponds to three real coordinates xyz In this coordinate system the distance between the center of the Universe and the point is calculated by the following formula  Mushroom scientists that work for the Great Mushroom King think that the Universe isnt exactly right and the distance from the center of the Universe to a point equals xaybzcTo test the metric of mushroom scientists the usual scientists offered them a task find such xyz 0xyzxyzS that the distance between the center of the Universe and the point xyz is maximum possible in the metric of mushroom scientists The mushroom scientists arent good at maths so they commissioned you to do the taskNote that in this problem it is considered that 001

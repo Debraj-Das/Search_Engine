@@ -1,0 +1,9 @@
+Friendly Spiders                    
+
+https://codeforces.com/problemset/problem/1775/D
+
+dfs and similar
+
+1800
+
+Mars is home to an unusual species of spiders — Binary spiders.Right now, Martian scientists are observing a colony of n spiders, the i-th of which has a_i legs.Some of the spiders are friends with each other. Namely, the i-th and j-th spiders are friends if \gcd(a_i, a_j) \ne 1, i. e., there is some integer k \ge 2 such that a_i and a_j are simultaneously divided by k without a remainder. Here \gcd(x, y) denotes the greatest common divisor (GCD) of integers x and y.Scientists have discovered that spiders can send messages. If two spiders are friends, then they can transmit a message directly in one second. Otherwise, the spider must pass the message to his friend, who in turn must pass the message to his friend, and so on until the message reaches the recipient.Let's look at an example.Suppose a spider with eight legs wants to send a message to a spider with 15 legs. He can't do it directly, because \gcd(8, 15) = 1. But he can send a message through the spider with six legs because \gcd(8, 6) = 2 and \gcd(6, 15) = 3. Thus, the message will arrive in two seconds.Right now, scientists are observing how the s-th spider wants to send a message to the t-th spider. The researchers have a hypothesis that spiders always transmit messages optimally. For this reason, scientists would need a program that could calculate the minimum time to send a message and also deduce one of the optimal routes.  

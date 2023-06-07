@@ -1,0 +1,9 @@
+IQ Test                    
+
+httpscodeforcescomproblemsetproblem328A
+
+implementation
+
+1800
+
+Petya is preparing for IQ test and he has noticed that there many problems like you are given a sequence find the next number Now Petya can solve only problems with arithmetic or geometric progressionsArithmetic progression is a sequence a1 a1d a12d  a1n1d where a1 and d are any numbersGeometric progression is a sequence b1 b2b1q  bnbn1q where b10 q0 q1 Help Petya and write a program to determine if the given sequence is arithmetic or geometric Also it should found the next number If the sequence is neither arithmetic nor geometric print 42 he thinks it is impossible to find better answer You should also print 42 if the next element of progression is not integer So answer is always integer

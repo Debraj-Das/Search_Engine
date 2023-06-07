@@ -1,0 +1,9 @@
+Heidi Learns Hashing (Medium)                    
+
+https://codeforces.com/problemset/problem/1184/A2
+
+brute force
+
+2100
+
+After learning about polynomial hashing, Heidi decided to learn about shift-xor hashing. In particular, she came across this interesting problem.Given a bitstring y \in \{0,1\}^n find out the number of different k (0 \leq k < n) such that there exists x \in \{0,1\}^n for which y = x \oplus \mbox{shift}^k(x).In the above, \oplus is the xor operation and \mbox{shift}^k is the operation of shifting a bitstring cyclically to the right k times. For example, 001 \oplus 111 = 110 and \mbox{shift}^3(00010010111000) = 00000010010111.

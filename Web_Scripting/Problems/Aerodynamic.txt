@@ -1,0 +1,9 @@
+Aerodynamic                    
+
+https://codeforces.com/problemset/problem/1299/B
+
+geometry
+
+1800
+
+Guy-Manuel and Thomas are going to build a polygon spaceship. You're given a strictly convex (i. e. no three points are collinear) polygon P which is defined by coordinates of its vertices. Define P(x,y) as a polygon obtained by translating P by vector \overrightarrow {(x,y)}. The picture below depicts an example of the translation:Define T as a set of points which is the union of all P(x,y) such that the origin (0,0) lies in P(x,y) (both strictly inside and on the boundary). There is also an equivalent definition: a point (x,y) lies in T only if there are two points A,B in P such that \overrightarrow {AB} = \overrightarrow {(x,y)}. One can prove T is a polygon too. For example, if P is a regular triangle then T is a regular hexagon. At the picture below P is drawn in black and some P(x,y) which contain the origin are drawn in colored: The spaceship has the best aerodynamic performance if P and T are similar. Your task is to check whether the polygons P and T are similar.

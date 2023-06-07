@@ -1,0 +1,9 @@
+Hossam and Combinatorics                    
+
+https://codeforces.com/problemset/problem/1771/A
+
+combinatorics
+
+900
+
+Hossam woke up bored, so he decided to create an interesting array with his friend Hazem.Now, they have an array a of n positive integers, Hossam will choose a number a_i and Hazem will choose a number a_j.Count the number of interesting pairs (a_i, a_j) that meet all the following conditions: 1 \le i, j \le n; i \neq j; The absolute difference |a_i - a_j| must be equal to the maximum absolute difference over all the pairs in the array. More formally, |a_i - a_j| = \max_{1 \le p, q \le n} |a_p - a_q|.

@@ -1,0 +1,9 @@
+Divisors and Table                    
+
+https://codeforces.com/problemset/problem/1792/E
+
+brute force
+
+2400
+
+You are given an n \times n multiplication table and a positive integer m = m_1 \cdot m_2. A n \times n multiplication table is a table with n rows and n columns numbered from 1 to n, where a_{i, j} = i \cdot j.For each divisor d of m, check: does d occur in the table at least once, and if it does, what is the minimum row that contains d.

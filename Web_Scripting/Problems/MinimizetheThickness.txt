@@ -1,0 +1,9 @@
+Minimize the Thickness                    
+
+https://codeforces.com/problemset/problem/1741/C
+
+brute force
+
+1100
+
+You are given a sequence a=[a_1,a_2,\dots,a_n] consisting of n positive integers.Let's call a group of consecutive elements a segment. Each segment is characterized by two indices: the index of its left end and the index of its right end. Denote by a[l,r] a segment of the sequence a with the left end in l and the right end in r, i.e. a[l,r]=[a_l, a_{l+1}, \dots, a_r].For example, if a=[31,4,15,92,6,5], then a[2,5]=[4,15,92,6], a[5,5]=[6], a[1,6]=[31,4,15,92,6,5] are segments.We split the given sequence a into segments so that:   each element is in exactly one segment;  the sums of elements for all segments are equal. For example, if a = [55,45,30,30,40,100], then such a sequence can be split into three segments: a[1,2]=[55,45], a[3,5]=[30, 30, 40], a[6,6]=[100]. Each element belongs to exactly segment, the sum of the elements of each segment is 100.Let's define thickness of split as the length of the longest segment. For example, the thickness of the split from the example above is 3.Find the minimum thickness among all possible splits of the given sequence of a into segments in the required way.

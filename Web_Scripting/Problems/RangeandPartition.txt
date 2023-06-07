@@ -1,0 +1,9 @@
+Range and Partition                    
+
+https://codeforces.com/problemset/problem/1630/B
+
+binary search
+
+1800
+
+Given an array a of n integers, find a range of values [x, y] (x \le y), and split a into exactly k (1 \le k \le n) subarrays in such a way that:  Each subarray is formed by several continuous elements of a, that is, it is equal to a_l, a_{l+1}, \ldots, a_r for some l and r (1 \leq l \leq r \leq n).  Each element from a belongs to exactly one subarray.  In each subarray the number of elements inside the range [x, y] (inclusive) is strictly greater than the number of elements outside the range. An element with index i is inside the range [x, y] if and only if x \le a_i \le y.  Print any solution that minimizes y - x.

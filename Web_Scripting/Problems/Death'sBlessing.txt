@@ -1,0 +1,9 @@
+Death's Blessing                    
+
+https://codeforces.com/problemset/problem/1749/B
+
+greedy
+
+900
+
+You are playing a computer game. To pass the current level, you have to kill a big horde of monsters. In this horde, there are n monsters standing in the row, numbered from 1 to n. The i-th monster has a_i health and a special "Death's Blessing" spell of strength b_i attached to it.You are going to kill all of them one by one. It takes exactly h seconds to kill a monster with health h.When the i-th monster dies, it casts its spell that increases the health of its neighbors by b_i (the neighbors of the j-th monster in the row are the monsters on places j - 1 and j + 1. The first and the last monsters have only one neighbor each).After each monster is killed, the row shrinks, so its former neighbors become adjacent to each other (so if one of them dies, the other one is affected by its spell). For example, imagine a situation with 4 monsters with health a = [2, 6, 7, 3] and spells b = [3, 6, 0, 5]. One of the ways to get rid of the monsters is shown below:  2673\xrightarrow{6\ s}8133\xrightarrow{13\ s}83\xrightarrow{8\ s}6\xrightarrow{6\ s}\{\}3605305355 The first row represents the health of each monster, the second one — the power of the spells. As a result, we can kill all monsters in 6 + 13 + 8 + 6 = 33 seconds. Note that it's only an example and may not be the fastest way to get rid of the monsters.What is the minimum time required to kill all monsters in the row?

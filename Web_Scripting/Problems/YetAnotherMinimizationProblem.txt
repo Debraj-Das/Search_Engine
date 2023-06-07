@@ -1,0 +1,9 @@
+Yet Another Minimization Problem                    
+
+https://codeforces.com/problemset/problem/868/F
+
+divide and conquer
+
+2500
+
+You are given an array of n integers a1... an. The cost of a subsegment is the number of unordered pairs of distinct indices within the subsegment that contain equal elements. Split the given array into k non-intersecting non-empty subsegments so that the sum of their costs is minimum possible. Each element should be present in exactly one subsegment.

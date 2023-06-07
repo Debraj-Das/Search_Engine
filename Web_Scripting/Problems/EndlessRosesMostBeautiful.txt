@@ -1,0 +1,9 @@
+Endless Roses Most Beautiful                    
+
+https://codeforces.com/problemset/problem/926/H
+
+
+
+2200
+
+Arkady decided to buy roses for his girlfriend.A flower shop has white, orange and red roses, and the total amount of them is n. Arkady thinks that red roses are not good together with white roses, so he won't buy a bouquet containing both red and white roses. Also, Arkady won't buy a bouquet where all roses have the same color. Arkady wants to buy exactly k roses. For each rose in the shop he knows its beauty and color: the beauty of the i-th rose is bi, and its color is ci ('W' for a white rose, 'O' for an orange rose and 'R' for a red rose). Compute the maximum possible total beauty of a bouquet of k roses satisfying the constraints above or determine that it is not possible to make such a bouquet.

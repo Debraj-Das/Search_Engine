@@ -1,0 +1,9 @@
+Ice cream coloring                    
+
+httpscodeforcescomproblemsetproblem804C
+
+constructive algorithms
+
+2200
+
+Isart and Modsart were trying to solve an interesting problem when suddenly Kasra arrived Breathless he asked Can you solve a problem Im stuck at all dayWe have a tree T with n vertices and m types of ice cream numerated from 1 to m Each vertex i has a set of si types of ice cream Vertices which have the ith 1im type of ice cream form a connected subgraph We build a new graph G with m vertices We put an edge between the vth and the uth 1uvm uv vertices in G if and only if there exists a vertex in T that has both the vth and the uth types of ice cream in its set The problem is to paint the vertices of G with minimum possible number of colors in a way that no adjacent vertices have the same colorPlease note that we consider that empty set of vertices form a connected subgraph in this problemAs usual Modsart dont like to abandon the previous problem so Isart wants you to solve the new problem

@@ -1,0 +1,9 @@
+Phoenix and Diamonds                    
+
+https://codeforces.com/problemset/problem/1515/I
+
+binary search
+
+3400
+
+Phoenix wonders what it is like to rob diamonds from a jewelry store!There are n types of diamonds. The i-th type has weight w_i and value v_i. The store initially has a_i diamonds of the i-th type.Each day, for q days, one of the following will happen:   A new shipment of k_i diamonds of type d_i arrive.  The store sells k_i diamonds of type d_i.  Phoenix wonders what will happen if he robs the store using a bag that can fit diamonds with total weight not exceeding c_i. If he greedily takes diamonds of the largest value that fit, how much value would be taken? If there are multiple diamonds with the largest value, he will take the one with minimum weight. If, of the diamonds with the largest value, there are multiple with the same minimum weight, he will take any of them. Of course, since Phoenix is a law-abiding citizen, this is all a thought experiment and he never actually robs any diamonds from the store. This means that queries of type 3 do not affect the diamonds in the store.

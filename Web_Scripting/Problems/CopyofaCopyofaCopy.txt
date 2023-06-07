@@ -1,0 +1,9 @@
+Copy of a Copy of a Copy                    
+
+httpscodeforcescomproblemsetproblem1772F
+
+constructive algorithms
+
+2000
+
+It all started with a blackandwhite picture that can be represented as an n times m matrix such that all its elements are either 0 or 1 The rows are numbered from 1 to n the columns are numbered from 1 to mSeveral operations were performed on the picture possibly zero each of one of the two kinds   choose a cell such that its not on the border neither row 1 or n nor column 1 or m and its surrounded by four cells of the opposite color four zeros if its a one and vice versa and paint it the opposite color itself  make a copy of the current picture Note that the order of operations could be arbitrary they were not necessarily alternatingYou are presented with the outcome all k copies that were made Additionally you are given the initial picture However all k1 pictures are shuffledRestore the sequence of the operations If there are multiple answers print any of them The tests are constructed from the real sequence of operations ie at least one answer always exists

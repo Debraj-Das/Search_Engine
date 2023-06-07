@@ -1,0 +1,9 @@
+Bear and Tree Jumps                    
+
+httpscodeforcescomproblemsetproblem771C
+
+dfs and similar
+
+2100
+
+A tree is an undirected connected graph without cycles The distance between two vertices is the number of edges in a simple path between themLimak is a little polar bear He lives in a tree that consists of n vertices numbered 1 through nLimak recently learned how to jump He can jump from a vertex to any vertex within distance at most kFor a pair of vertices st we define fst as the minimum number of jumps Limak needs to get from s to t Your task is to find the sum of fst over all pairs of vertices st such that st

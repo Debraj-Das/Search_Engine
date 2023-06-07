@@ -1,0 +1,9 @@
+Maximal Intersection                    
+
+https://codeforces.com/problemset/problem/1029/C
+
+greedy
+
+1600
+
+You are given n segments on a number line; each endpoint of every segment has integer coordinates. Some segments can degenerate to points. Segments can intersect with each other, be nested in each other or even coincide.The intersection of a sequence of segments is such a maximal set of points (not necesserily having integer coordinates) that each point lies within every segment from the sequence. If the resulting set isn't empty, then it always forms some continuous segment. The length of the intersection is the length of the resulting segment or 0 in case the intersection is an empty set.For example, the intersection of segments [1;5] and [3;10] is [3;5] (length 2), the intersection of segments [1;5] and [5;7] is [5;5] (length 0) and the intersection of segments [1;5] and [6;6] is an empty set (length 0).Your task is to remove exactly one segment from the given sequence in such a way that the intersection of the remaining (n - 1) segments has the maximal possible length.

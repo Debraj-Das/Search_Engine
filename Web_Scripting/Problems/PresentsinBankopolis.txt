@@ -1,0 +1,9 @@
+Presents in Bankopolis                    
+
+httpscodeforcescomproblemsetproblem793D
+
+dp
+
+2100
+
+Bankopolis is an incredible city in which all the n crossroads are located on a straight line and numbered from 1 to n along it On each crossroad there is a bank officeThe crossroads are connected with m oriented bicycle lanes the ith lane goes from crossroad ui to crossroad vi the difficulty of each of the lanes is knownOleg the bank client wants to gift happiness and joy to the bank employees He wants to visit exactly k offices in each of them he wants to gift presents to the employeesThe problem is that Oleg dont want to see the reaction on his gifts so he cant use a bicycle lane which passes near the office in which he has already presented his gifts formally the ith lane passes near the office on the xth crossroad if and only if minuivixmaxuivi Of course in each of the offices Oleg can present gifts exactly once Oleg is going to use exactly k1 bicycle lane to move between offices Oleg can start his path from any office and finish it in any officeOleg wants to choose such a path among possible ones that the total difficulty of the lanes he will use is minimum possible Find this minimum possible total difficulty

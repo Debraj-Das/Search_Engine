@@ -1,0 +1,9 @@
+Kids' Riddle                    
+
+https://codeforces.com/problemset/problem/784/B
+
+*special problem
+
+2000
+
+Programmers' kids solve this riddle in 5-10 minutes. How fast can you do it?

@@ -1,0 +1,9 @@
+Mike and Geometry Problem                    
+
+httpscodeforcescomproblemsetproblem689E
+
+combinatorics
+
+2000
+
+Mike wants to prepare for IMO but he doesnt know geometry so his teacher gave him an interesting geometry problem Lets define flrrl1 to be the number of integer points in the segment lr with lr say that  You are given two integers n and k and n closed intervals liri on OX axis and you have to find  In other words you should find the sum of the number of integer points in the intersection of any k of the segments As the answer may be very large output it modulo 1000000007 1097Mike cant solve this problem so he needs your help You will help him wont you 

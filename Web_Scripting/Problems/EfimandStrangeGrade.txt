@@ -1,0 +1,9 @@
+Efim and Strange Grade                    
+
+httpscodeforcescomproblemsetproblem718A
+
+dp
+
+1700
+
+Efim just received his grade for the last test He studies in a special school and his grade can be equal to any positive decimal fraction First he got disappointed as he expected a way more pleasant result Then he developed a tricky plan Each second he can ask his teacher to round the grade at any place after the decimal point also he can ask to round to the nearest integer There are t seconds left till the end of the break so Efim has to act fast Help him find what is the maximum grade he can get in no more than t seconds Note that he can choose to not use all t seconds Moreover he can even choose to not round the grade at allIn this problem classic rounding rules are used while rounding number to the nth digit one has to take a look at the digit n1 If it is less than 5 than the nth digit remain unchanged while all subsequent digits are replaced with 0 Otherwise if the n1 digit is greater or equal to 5 the digit at the position n is increased by 1 this might also change some other digits if this one was equal to 9 and all subsequent digits are replaced with 0 At the end all trailing zeroes are thrown awayFor example if the number 114 is rounded to the first decimal place the result is 11 while if we round 15 to the nearest integer the result is 2 Rounding number 1299996121 in the fifth decimal place will result in number 13

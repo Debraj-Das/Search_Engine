@@ -1,0 +1,9 @@
+To Make 1                    
+
+https://codeforces.com/problemset/problem/1225/G
+
+bitmasks
+
+3100
+
+There are n positive integers written on the blackboard. Also, a positive number k \geq 2 is chosen, and none of the numbers on the blackboard are divisible by k. In one operation, you can choose any two integers x and y, erase them and write one extra number f(x + y), where f(x) is equal to x if x is not divisible by k, otherwise f(x) = f(x / k).In the end, there will be a single number of the blackboard. Is it possible to make the final number equal to 1? If so, restore any sequence of operations to do so.

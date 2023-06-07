@@ -1,0 +1,9 @@
+Renovation                    
+
+httpscodeforcescomproblemsetproblem883J
+
+constructive algorithms
+
+2400
+
+The mayor of the Berland city S sees the beauty differently than other citydwellers In particular he does not understand at all how antique houses can be nicelooking So the mayor wants to demolish all ancient buildings in the cityThe city S is going to host the football championship very soon In order to make the city beautiful every month the Berland government provides mayor a money tranche The money has to be spent on ancient buildings renovationThere are n months before the championship and the ith month tranche equals to ai burles The city S has m antique buildings and the renovation cost of the jth building is bj burlesThe mayor has his own plans for spending the money As he doesnt like antique buildings he wants to demolish as much of them as possible For the jth building he calculated its demolishing cost pjThe mayor decided to act according to the following planEach month he chooses several possibly zero of m buildings to demolish in such a way that renovation cost of each of them separately is not greater than the money tranche ai of this month bjai it will allow to deceive citydwellers that exactly this building will be renovatedThen the mayor has to demolish all selected buildings during the current month as otherwise the dwellers will realize the deception and the plan will fail Definitely the total demolishing cost can not exceed amount of money the mayor currently has The mayor is not obliged to spend all the money on demolishing If some money is left the mayor puts it to the bank account and can use it in any subsequent month Moreover at any month he may choose not to demolish any buildings at all in this case all the tranche will remain untouched and will be saved in the bankYour task is to calculate the maximal number of buildings the mayor can demolish

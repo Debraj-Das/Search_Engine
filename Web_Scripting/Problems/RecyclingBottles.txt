@@ -1,0 +1,9 @@
+Recycling Bottles                    
+
+httpscodeforcescomproblemsetproblem671A
+
+dp
+
+1800
+
+It was recycling day in Kekoland To celebrate it Adil and Bera went to Central Perk where they can take bottles from the ground and put them into a recycling binWe can think Central Perk as coordinate plane There are n bottles on the ground the ith bottle is located at position xiyi Both Adil and Bera can carry only one bottle at once each For both Adil and Bera the process looks as follows   Choose to stop or to continue to collect bottles  If the choice was to continue then choose some bottle and walk towards it  Pick this bottle and walk to the recycling bin  Go to step 1 Adil and Bera may move independently They are allowed to pick bottles simultaneously all bottles may be picked by any of the two its allowed that one of them stays still while the other one continues to pick bottlesThey want to organize the process such that the total distance they walk the sum of distance walked by Adil and distance walked by Bera is minimum possible Of course at the end all bottles should lie in the recycling bin

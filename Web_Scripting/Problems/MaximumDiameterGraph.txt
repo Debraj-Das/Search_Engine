@@ -1,0 +1,9 @@
+Maximum Diameter Graph                    
+
+https://codeforces.com/problemset/problem/1082/D
+
+constructive algorithms
+
+1800
+
+Graph constructive problems are back! This time the graph you are asked to build should match the following properties.The graph is connected if and only if there exists a path between every pair of vertices.The diameter (aka "longest shortest path") of a connected undirected graph is the maximum number of edges in the shortest path between any pair of its vertices.The degree of a vertex is the number of edges incident to it.Given a sequence of n integers a_1, a_2, \dots, a_n construct a connected undirected graph of n vertices such that:  the graph contains no self-loops and no multiple edges;  the degree d_i of the i-th vertex doesn't exceed a_i (i.e. d_i \le a_i);  the diameter of the graph is maximum possible. Output the resulting graph or report that no solution exists.

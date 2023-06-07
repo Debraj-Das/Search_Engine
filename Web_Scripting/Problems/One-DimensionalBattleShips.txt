@@ -1,0 +1,9 @@
+OneDimensional Battle Ships                    
+
+httpscodeforcescomproblemsetproblem567D
+
+binary search
+
+1700
+
+Alice and Bob love playing onedimensional battle ships They play on the field in the form of a line consisting of n square cells that is on a 1n tableAt the beginning of the game Alice puts k ships on the field without telling their positions to Bob Each ship looks as a 1a rectangle that is it occupies a sequence of a consecutive squares of the field The ships cannot intersect and even touch each otherAfter that Bob makes a sequence of shots He names cells of the field and Alice either says that the cell is empty miss or that the cell belongs to some ship hitBut heres the problem Alice like to cheat May be that is why she responds to each Bobs move with a miss Help Bob catch Alice cheating  find Bobs first move such that after it you can be sure that Alice cheated

@@ -1,0 +1,9 @@
+Truncatable primes                    
+
+https://codeforces.com/problemset/problem/162/I
+
+*special problem
+
+2000
+
+A truncatable prime is a prime number which contains no zeros in decimal notation and all its suffixes are primes. 1 is considered to be not a prime.You are given a positive integer n. Figure out whether it is a truncatable prime.

@@ -1,0 +1,9 @@
+Make k Equal                    
+
+https://codeforces.com/problemset/problem/1328/F
+
+greedy
+
+2200
+
+You are given the array a consisting of n elements and the integer k \le n.You want to obtain at least k equal elements in the array a. In one move, you can make one of the following two operations:  Take one of the minimum elements of the array and increase its value by one (more formally, if the minimum value of a is mn then you choose such index i that a_i = mn and set a_i := a_i + 1);  take one of the maximum elements of the array and decrease its value by one (more formally, if the maximum value of a is mx then you choose such index i that a_i = mx and set a_i := a_i - 1). Your task is to calculate the minimum number of moves required to obtain at least k equal elements in the array.

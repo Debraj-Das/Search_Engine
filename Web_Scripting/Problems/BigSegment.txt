@@ -1,0 +1,9 @@
+Big Segment                    
+
+httpscodeforcescomproblemsetproblem242B
+
+implementation
+
+1100
+
+A coordinate line has n segments the ith segment starts at the position li and ends at the position ri We will denote such a segment as liriYou have suggested that one of the defined segments covers all others In other words there is such segment in the given set which contains all other ones Now you want to test your assumption Find in the given set the segment which covers all other segments and print its number If such a segment doesnt exist print 1Formally we will assume that segment ab covers segment cd if they meet this condition acdb 

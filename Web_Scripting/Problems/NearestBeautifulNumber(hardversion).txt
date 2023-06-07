@@ -1,0 +1,9 @@
+Nearest Beautiful Number (hard version)                    
+
+https://codeforces.com/problemset/problem/1560/F2
+
+bitmasks
+
+2100
+
+It is a complicated version of problem F1. The difference between them is the constraints (F1: k \le 2, F2: k \le 10).You are given an integer n. Find the minimum integer x such that x \ge n and the number x is k-beautiful.A number is called k-beautiful if its decimal representation having no leading zeroes contains no more than k different digits. E.g. if k = 2, the numbers 3434443, 55550, 777 and 21 are k-beautiful whereas the numbers 120, 445435 and 998244353 are not.

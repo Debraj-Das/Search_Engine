@@ -1,0 +1,9 @@
+Polycarpus Dice                    
+
+httpscodeforcescomproblemsetproblem534C
+
+math
+
+1600
+
+Polycarp has n dice d1d2dn The ith dice shows numbers from 1 to di Polycarp rolled all the dice and the sum of numbers they showed is A Agrippina didnt see which dice showed what number she knows only the sum A and the values d1d2dn However she finds it enough to make a series of statements of the following type dice i couldnt show number r For example if Polycarp had two sixfaced dice and the total sum is A11 then Agrippina can state that each of the two dice couldnt show a value less than five otherwise the remaining dice must have a value of at least seven which is impossibleFor each dice find the number of values for which it can be guaranteed that the dice couldnt show these values if the sum of the shown values is A

@@ -1,0 +1,9 @@
+Alice and the Cake                    
+
+https://codeforces.com/problemset/problem/1654/C
+
+data structures
+
+1400
+
+Alice has a cake, and she is going to cut it. She will perform the following operation n-1 times: choose a piece of the cake (initially, the cake is all one piece) with weight w\ge 2 and cut it into two smaller pieces of weight \lfloor\frac{w}{2}\rfloor and \lceil\frac{w}{2}\rceil (\lfloor x \rfloor and \lceil x \rceil denote floor and ceiling functions, respectively).After cutting the cake in n pieces, she will line up these n pieces on a table in an arbitrary order. Let a_i be the weight of the i-th piece in the line.You are given the array a. Determine whether there exists an initial weight and sequence of operations which results in a.

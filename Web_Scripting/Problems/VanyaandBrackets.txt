@@ -1,0 +1,9 @@
+Vanya and Brackets                    
+
+httpscodeforcescomproblemsetproblem552E
+
+brute force
+
+2100
+
+Vanya is doing his maths homework He has an expression of form  where x1x2xn are digits from 1 to 9 and sign  represents either a plus  or the multiplication sign  Vanya needs to add one pair of brackets in this expression so that to maximize the value of the resulting expression

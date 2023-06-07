@@ -1,0 +1,9 @@
+Fedya and Maths                    
+
+httpscodeforcescomproblemsetproblem456B
+
+math
+
+1200
+
+Fedya studies in a gymnasium Fedyas maths hometask is to calculate the following expression1n2n3n4nmod5for given value of n Fedya managed to complete the task Can you Note that given number n can be extremely large eg it can exceed any integer type of your programming language

@@ -1,0 +1,9 @@
+Ralph And His Magic Field                    
+
+httpscodeforcescomproblemsetproblem894B
+
+combinatorics
+
+1800
+
+Ralph has a magic field which is divided into nm blocks That is to say there are n rows and m columns on the field Ralph can put an integer in each block However the magic field doesnt always work properly It works only if the product of integers in each row and each column equals to k where k is either 1 or 1Now Ralph wants you to figure out the number of ways to put numbers in each block in such a way that the magic field works properly Two ways are considered different if and only if there exists at least one block where the numbers in the first way and in the second way are different You are asked to output the answer modulo 10000000071097Note that there is no range of the numbers to put in the blocks but we can prove that the answer is not infinity

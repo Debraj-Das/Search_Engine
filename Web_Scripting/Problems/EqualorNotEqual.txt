@@ -1,0 +1,9 @@
+Equal or Not Equal                    
+
+https://codeforces.com/problemset/problem/1620/A
+
+constructive algorithms
+
+800
+
+You had n positive integers a_1, a_2, \dots, a_n arranged in a circle. For each pair of neighboring numbers (a_1 and a_2, a_2 and a_3, ..., a_{n - 1} and a_n, and a_n and a_1), you wrote down: are the numbers in the pair equal or not.Unfortunately, you've lost a piece of paper with the array a. Moreover, you are afraid that even information about equality of neighboring elements may be inconsistent. So, you are wondering: is there any array a which is consistent with information you have about equality or non-equality of corresponding pairs?

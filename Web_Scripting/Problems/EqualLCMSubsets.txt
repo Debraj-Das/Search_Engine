@@ -1,0 +1,9 @@
+Equal LCM Subsets                    
+
+https://codeforces.com/problemset/problem/1656/H
+
+data structures
+
+3200
+
+You are given two sets of positive integers A and B. You have to find two non-empty subsets S_A \subseteq A, S_B \subseteq B so that the least common multiple (LCM) of the elements of S_A is equal to the least common multiple (LCM) of the elements of S_B.

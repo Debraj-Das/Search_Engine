@@ -1,0 +1,9 @@
+Choose Place                    
+
+https://codeforces.com/problemset/problem/926/D
+
+
+
+1600
+
+A classroom in a school has six rows with 3 desks in each row. Two people can use the same desk: one sitting on the left and one sitting on the right. Some places are already occupied, and some places are vacant. Petya has just entered the class and wants to occupy the most convenient place. The conveniences of the places are shown on the picture:  Here, the desks in the top row are the closest to the blackboard, while the desks in the bottom row are the furthest from the blackboard.You are given a plan of the class, where '*' denotes an occupied place, '.' denotes a vacant place, and the aisles are denoted by '-'. Find any of the most convenient vacant places for Petya.

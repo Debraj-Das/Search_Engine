@@ -1,0 +1,9 @@
+Bear and Finding Criminals                    
+
+httpscodeforcescomproblemsetproblem680B
+
+constructive algorithms
+
+1000
+
+There are n cities in Bearland numbered 1 through n Cities are arranged in one long row The distance between cities i and j is equal to ijLimak is a police officer He lives in a city a His job is to catch criminals Its hard because he doesnt know in which cities criminals are Though he knows that there is at most one criminal in each cityLimak is going to use a BCD Bear Criminal Detector The BCD will tell Limak how many criminals there are for every distance from a city a After that Limak can catch a criminal in each city for which he is sure that there must be a criminalYou know in which cities criminals are Count the number of criminals Limak will catch after he uses the BCD

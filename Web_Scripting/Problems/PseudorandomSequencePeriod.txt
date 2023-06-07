@@ -1,0 +1,9 @@
+Pseudorandom Sequence Period                    
+
+httpscodeforcescomproblemsetproblem172B
+
+special problem
+
+1200
+
+Polycarpus has recently got interested in sequences of pseudorandom numbers He learned that many programming languages generate such sequences in a similar way  for i1 Here a b m are constants fixed for the given realization of the pseudorandom numbers generator r0 is the socalled randseed this value can be set from the program using functions like RandSeedr or srandn and  denotes the operation of taking the remainder of divisionFor example if a2b6m12r011 the generated sequence will be 4210210210210210Polycarpus realized that any such sequence will sooner or later form a cycle but the cycle may occur not in the beginning so there exist a preperiod and a period The example above shows a preperiod equal to 1 and a period equal to 2Your task is to find the period of a sequence defined by the given values of abm and r0 Formally you have to find such minimum positive integer t for which exists such positive integer k that for any ik ririt

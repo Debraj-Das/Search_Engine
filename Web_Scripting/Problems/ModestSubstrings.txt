@@ -1,0 +1,9 @@
+Modest Substrings                    
+
+https://codeforces.com/problemset/problem/1110/H
+
+dp
+
+3500
+
+You are given two integers l and r.Let's call an integer x modest, if l \le x \le r.Find a string of length n, consisting of digits, which has the largest possible number of substrings, which make a modest integer. Substring having leading zeros are not counted. If there are many answers, find lexicographically smallest one.If some number occurs multiple times as a substring, then in the counting of the number of modest substrings it is counted multiple times as well.

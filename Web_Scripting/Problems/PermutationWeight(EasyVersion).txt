@@ -1,0 +1,9 @@
+Permutation Weight (Easy Version)                    
+
+https://codeforces.com/problemset/problem/1685/D1
+
+constructive algorithms
+
+2800
+
+This is an easy version of the problem. The difference between the easy and hard versions is that in this version, you can output any permutation with the smallest weight.You are given a permutation p_1, p_2, \ldots, p_n of integers from 1 to n.Let's define the weight of the permutation q_1, q_2, \ldots, q_n of integers from 1 to n as |q_1 - p_{q_{2}}| + |q_2 - p_{q_{3}}| + \ldots + |q_{n-1} - p_{q_{n}}| + |q_n - p_{q_{1}}|You want your permutation to be as lightweight as possible. Find any permutation q with the smallest possible weight.

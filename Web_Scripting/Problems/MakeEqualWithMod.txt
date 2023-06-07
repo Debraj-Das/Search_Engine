@@ -1,0 +1,9 @@
+Make Equal With Mod                    
+
+https://codeforces.com/problemset/problem/1656/C
+
+constructive algorithms
+
+1200
+
+You are given an array of n non-negative integers a_1, a_2, \ldots, a_n. You can make the following operation: choose an integer x \geq 2 and replace each number of the array by the remainder when dividing that number by x, that is, for all 1 \leq i \leq n set a_i to a_i \bmod x.Determine if it is possible to make all the elements of the array equal by applying the operation zero or more times.

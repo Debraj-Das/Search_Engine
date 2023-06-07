@@ -1,0 +1,9 @@
+Split Into Two Sets                    
+
+https://codeforces.com/problemset/problem/1702/E
+
+dfs and similar
+
+1600
+
+Polycarp was recently given a set of n (number n — even) dominoes. Each domino contains two integers from 1 to n.Can he divide all the dominoes into two sets so that all the numbers on the dominoes of each set are different? Each domino must go into exactly one of the two sets.For example, if he has 4 dominoes: \{1, 4\}, \{1, 3\}, \{3, 2\} and \{4, 2\}, then Polycarp will be able to divide them into two sets in the required way. The first set can include the first and third dominoes (\{1, 4\} and \{3, 2\}), and the second set — the second and fourth ones (\{1, 3\} and \{4, 2\}).

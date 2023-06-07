@@ -1,0 +1,9 @@
+Circles of Waiting                    
+
+httpscodeforcescomproblemsetproblem963E
+
+math
+
+3100
+
+A chip was placed on a field with coordinate system onto point 00Every second the chip moves randomly If the chip is currently at a point xy after a second it moves to the point x1y with probability p1 to the point xy1 with probability p2 to the point x1y with probability p3 and to the point xy1 with probability p4 Its guaranteed that p1p2p3p41 The moves are independentFind out the expected time after which chip will move away from origin at a distance greater than R ie  will be satisfied

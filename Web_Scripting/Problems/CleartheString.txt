@@ -1,0 +1,9 @@
+Clear the String                    
+
+https://codeforces.com/problemset/problem/1132/F
+
+dp
+
+2000
+
+You are given a string s of length n consisting of lowercase Latin letters. You may apply some operations to this string: in one operation you can delete some contiguous substring of this string, if all letters in the substring you delete are equal. For example, after deleting substring bbbb from string abbbbaccdd we get the string aaccdd.Calculate the minimum number of operations to delete the whole string s.

@@ -1,0 +1,9 @@
+Mirror in the String                    
+
+https://codeforces.com/problemset/problem/1616/B
+
+greedy
+
+1100
+
+You have a string s_1 s_2 \ldots s_n and you stand on the left of the string looking right. You want to choose an index k (1 \le k \le n) and place a mirror after the k-th letter, so that what you see is s_1 s_2 \ldots s_k s_k s_{k - 1} \ldots s_1. What is the lexicographically smallest string you can see?A string a is lexicographically smaller than a string b if and only if one of the following holds:   a is a prefix of b, but a \ne b;  in the first position where a and b differ, the string a has a letter that appears earlier in the alphabet than the corresponding letter in b. 

@@ -1,0 +1,9 @@
+Space Formula                    
+
+https://codeforces.com/problemset/problem/1046/C
+
+greedy
+
+1400
+
+Formula 1 officials decided to introduce new competition. Cars are replaced by space ships and number of points awarded can differ per race.Given the current ranking in the competition and points distribution for the next race, your task is to calculate the best possible ranking for a given astronaut after the next race. It's guaranteed that given astronaut will have unique number of points before the race.

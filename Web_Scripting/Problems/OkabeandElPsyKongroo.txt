@@ -1,0 +1,9 @@
+Okabe and El Psy Kongroo                    
+
+httpscodeforcescomproblemsetproblem821E
+
+dp
+
+2100
+
+Okabe likes to take walks but knows that spies from the Organization could be anywhere thats why he wants to know how many different walks he can take in his city safely Okabes city can be represented as all points xy such that x and y are nonnegative Okabe starts at the origin point 00 and needs to reach the point k0 If Okabe is currently at the point xy in one step he can go to x1y1 x1y or x1y1Additionally there are n horizontal line segments the ith of which goes from xai to xbi inclusive and is at yci It is guaranteed that a10 ankbn and aibi1 for 2in The ith line segment forces Okabe to walk with yvalue in the range 0yci when his x value satisfies aixbi or else he might be spied on This also means he is required to be under two line segments when one segment ends and another beginsOkabe now wants to know how many walks there are from the origin to the point k0 satisfying these conditions modulo 1097

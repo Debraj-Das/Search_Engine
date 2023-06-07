@@ -1,0 +1,9 @@
+Simple Skewness                    
+
+https://codeforces.com/problemset/problem/626/E
+
+binary search
+
+2400
+
+Define the simple skewness of a collection of numbers to be the collection's mean minus its median. You are given a list of n (not necessarily distinct) integers. Find the non-empty subset (with repetition) with the maximum simple skewness.The mean of a collection is the average of its elements. The median of a collection is its middle element when all of its elements are sorted, or the average of its two middle elements if it has even size.

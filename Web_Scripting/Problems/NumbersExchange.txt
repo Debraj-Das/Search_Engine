@@ -1,0 +1,9 @@
+Numbers Exchange                    
+
+https://codeforces.com/problemset/problem/746/E
+
+greedy
+
+1900
+
+Eugeny has n cards, each of them has exactly one integer written on it. Eugeny wants to exchange some cards with Nikolay so that the number of even integers on his cards would equal the number of odd integers, and that all these numbers would be distinct. Nikolay has m cards, distinct numbers from 1 to m are written on them, one per card. It means that Nikolay has exactly one card with number 1, exactly one card with number 2 and so on. A single exchange is a process in which Eugeny gives one card to Nikolay and takes another one from those Nikolay has. Your task is to find the minimum number of card exchanges and determine which cards Eugeny should exchange.

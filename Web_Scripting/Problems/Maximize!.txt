@@ -1,0 +1,9 @@
+Maximize!                    
+
+https://codeforces.com/problemset/problem/939/E
+
+binary search
+
+1800
+
+You are given a multiset S consisting of positive integers (initially empty). There are two kind of queries:   Add a positive integer to S, the newly added integer is not less than any number in it.  Find a subset s of the set S such that the value  is maximum possible. Here max(s) means maximum value of elements in s,  — the average value of numbers in s. Output this maximum possible value of . 

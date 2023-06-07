@@ -1,0 +1,9 @@
+Alyona and towers                    
+
+httpscodeforcescomproblemsetproblem739C
+
+data structures
+
+2500
+
+Alyona has built n towers by putting small cubes some on the top of others Each cube has size 111 A tower is a nonzero amount of cubes standing on the top of each other The towers are next to each other forming a rowSometimes Alyona chooses some segment towers and put on the top of each tower several cubes Formally Alyouna chooses some segment of towers from li to ri and adds di cubes on the top of themLet the sequence a1a2an be the heights of the towers from left to right Lets call as a segment of towers alal1ar a hill if the following condition holds there is integer k lkr such that alal1al2akak1ak2arAfter each addition of di cubes on the top of the towers from li to ri Alyona wants to know the maximum width among all hills The width of a hill is the number of towers in it

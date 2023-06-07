@@ -1,0 +1,9 @@
+Friends or Not                    
+
+httpscodeforcescomproblemsetproblem159A
+
+special problem
+
+1400
+
+Polycarpus has a hobby  he develops an unusual social network His work is almost completed and there is only one more module to implement  the module which determines friends Oh yes in this social network one wont have to add friends manually Pairs of friends are deduced in the following way Lets assume that user A sent user B a message at time t1 and user B sent user A a message at time t2 If 0t2t1d then user Bs message was an answer to user As one Users A and B are considered to be friends if A answered at least one Bs message or B answered at least one As messageYou are given the log of messages in chronological order and a number d Find all pairs of users who will be considered to be friends

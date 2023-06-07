@@ -1,0 +1,9 @@
+Traps                    
+
+https://codeforces.com/problemset/problem/1684/D
+
+constructive algorithms
+
+1700
+
+There are n traps numbered from 1 to n. You will go through them one by one in order. The i-th trap deals a_i base damage to you.Instead of going through a trap, you can jump it over. You can jump over no more than k traps. If you jump over a trap, it does not deal any damage to you. But there is an additional rule: if you jump over a trap, all next traps damages increase by 1 (this is a bonus damage).Note that if you jump over a trap, you don't get any damage (neither base damage nor bonus damage). Also, the bonus damage stacks so, for example, if you go through a trap i with base damage a_i, and you have already jumped over 3 traps, you get (a_i + 3) damage.You have to find the minimal damage that it is possible to get if you are allowed to jump over no more than k traps.

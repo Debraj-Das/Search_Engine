@@ -1,0 +1,9 @@
+Two distinct points                    
+
+https://codeforces.com/problemset/problem/1108/A
+
+implementation
+
+800
+
+You are given two segments [l_1; r_1] and [l_2; r_2] on the x-axis. It is guaranteed that l_1 < r_1 and l_2 < r_2. Segments may intersect, overlap or even coincide with each other.  The example of two segments on the x-axis. Your problem is to find two integers a and b such that l_1 \le a \le r_1, l_2 \le b \le r_2 and a \ne b. In other words, you have to choose two distinct integer points in such a way that the first point belongs to the segment [l_1; r_1] and the second one belongs to the segment [l_2; r_2].It is guaranteed that the answer exists. If there are multiple answers, you can print any of them.You have to answer q independent queries.

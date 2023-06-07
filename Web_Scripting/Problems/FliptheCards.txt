@@ -1,0 +1,9 @@
+Flip the Cards                    
+
+https://codeforces.com/problemset/problem/1503/D
+
+2-sat
+
+2600
+
+There is a deck of n cards. The i-th card has a number a_i on the front and a number b_i on the back. Every integer between 1 and 2n appears exactly once on the cards.A deck is called sorted if the front values are in increasing order and the back values are in decreasing order. That is, if a_i< a_{i+1} and b_i> b_{i+1} for all 1\le i<n.To flip a card i means swapping the values of a_i and b_i. You must flip some subset of cards (possibly, none), then put all the cards in any order you like. What is the minimum number of cards you must flip in order to sort the deck?

@@ -1,0 +1,9 @@
+Bipartite Checking                    
+
+https://codeforces.com/problemset/problem/813/F
+
+data structures
+
+2500
+
+You are given an undirected graph consisting of n vertices. Initially there are no edges in the graph. Also you are given q queries, each query either adds one undirected edge to the graph or removes it. After each query you have to check if the resulting graph is bipartite (that is, you can paint all vertices of the graph into two colors so that there is no edge connecting two vertices of the same color).

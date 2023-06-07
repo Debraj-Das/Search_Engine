@@ -1,0 +1,9 @@
+Levko and Sets                    
+
+httpscodeforcescomproblemsetproblem360D
+
+number theory
+
+2600
+
+Levko loves all sorts of sets very muchLevko has two arrays of integers a1a2 an and b1b2 bm and a prime number p Today he generates n sets Lets describe the generation process for the ith set  First it has a single number 1  Lets take any element c from this set For all j 1jm if number caibjmodp doesnt occur in the set then add it to the set  Repeat step 2 as long as we can add at least one element to our set Levko wonders how many numbers belong to at least one set That is he wants to know what size is the union of n generated sets

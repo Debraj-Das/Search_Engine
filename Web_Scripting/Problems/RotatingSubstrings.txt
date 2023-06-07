@@ -1,0 +1,9 @@
+Rotating Substrings                    
+
+https://codeforces.com/problemset/problem/1363/F
+
+dp
+
+2600
+
+You are given two strings s and t, each of length n and consisting of lowercase Latin alphabets. You want to make s equal to t. You can perform the following operation on s any number of times to achieve it —   Choose any substring of s and rotate it clockwise once, that is, if the selected substring is s[l,l+1...r], then it becomes s[r,l,l + 1 ... r - 1]. All the remaining characters of s stay in their position. For example, on rotating the substring [2,4] , string "abcde" becomes "adbce". A string a is a substring of a string b if a can be obtained from b by deletion of several (possibly, zero or all) characters from the beginning and several (possibly, zero or all) characters from the end.Find the minimum number of operations required to convert s to t, or determine that it's impossible.

@@ -1,0 +1,9 @@
+Distinguish Bell states                    
+
+https://codeforces.com/problemset/problem/1001/E
+
+*special problem
+
+1600
+
+You are given two qubits which are guaranteed to be in one of the Bell states:    Your task is to perform necessary operations and measurements to figure out which state it was and to return the index of that state (0 for , 1 for  etc.). The state of the qubits after the operations does not matter.

@@ -1,0 +1,9 @@
+Directional Increase                    
+
+https://codeforces.com/problemset/problem/1693/A
+
+greedy
+
+1300
+
+We have an array of length n. Initially, each element is equal to 0 and there is a pointer located on the first element.We can do the following two kinds of operations any number of times (possibly zero) in any order: If the pointer is not on the last element, increase the element the pointer is currently on by 1. Then move it to the next element. If the pointer is not on the first element, decrease the element the pointer is currently on by 1. Then move it to the previous element.But there is one additional rule. After we are done, the pointer has to be on the first element.You are given an array a. Determine whether it's possible to obtain a after some operations or not.

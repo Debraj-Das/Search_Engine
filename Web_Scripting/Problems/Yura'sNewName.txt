@@ -1,0 +1,9 @@
+Yura's New Name                    
+
+https://codeforces.com/problemset/problem/1820/A
+
+implementation
+
+800
+
+After holding one team contest, boy Yura got very tired and wanted to change his life and move to Japan. In honor of such a change, Yura changed his name to something nice.Fascinated by this idea he already thought up a name s consisting only of characters "_" and "^". But there's a problem — Yura likes smiley faces "^_^" and "^^". Therefore any character of the name must be a part of at least one such smiley. Note that only the consecutive characters of the name can be a smiley face.More formally, consider all occurrences of the strings "^_^" and "^^" in the string s. Then all such occurrences must cover the whole string s, possibly with intersections. For example, in the string "^^__^_^^__^" the characters at positions 3,4,9,10 and 11 are not contained inside any smileys, and the other characters at positions 1,2,5,6,7 and 8 are contained inside smileys.In one operation Jura can insert one of the characters "_" and "^" into his name s (you can insert it at any position in the string). He asks you to tell him the minimum number of operations you need to do to make the name fit Yura's criteria.

@@ -1,0 +1,9 @@
+What a Reversal                    
+
+https://codeforces.com/problemset/problem/1530/G
+
+constructive algorithms
+
+3300
+
+You have two strings a and b of equal length n consisting of characters 0 and 1, and an integer k.You need to make strings a and b equal.In one step, you can choose any substring of a containing exactly k characters 1 (and arbitrary number of characters 0) and reverse it. Formally, if a = a_1 a_2 \ldots a_n, you can choose any integers l and r (1 \le l \le r \le n) such that there are exactly k ones among characters a_l, a_{l+1}, \ldots, a_r, and set a to a_1 a_2 \ldots a_{l-1} a_r a_{r-1} \ldots a_l a_{r+1} a_{r+2} \ldots a_n.Find a way to make a equal to b using at most 4n reversals of the above kind, or determine that such a way doesn't exist. The number of reversals doesn't have to be minimized.

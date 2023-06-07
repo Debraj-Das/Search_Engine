@@ -1,0 +1,9 @@
+Flow Control                    
+
+https://codeforces.com/problemset/problem/1804/G
+
+data structures
+
+3500
+
+Raj has a single physical network line that connects his office to the Internet. This line bandwidth is b bytes per millisecond.There are n users who would like to use this network line to transmit some data. The i-th of them will use the line from millisecond s_i to millisecond f_i inclusive. His initial data rate will be set to d_i. That means he will use data rate equal to d_i for millisecond s_i, and then it will change according to the procedure described below.The flow control will happen as follows. Suppose there are m users trying to transmit some data via the given network line during millisecond x. Denote as t_i the data rate that the i-th of these m users has at the beginning of this millisecond. All t_i are non-negative integer values.   If m = 0, i. e. there are no users trying to transmit data during this millisecond, nothing happens.  If the sum of all t_i is less than or equal to b, each active user successfully completes his transmission (the i-th active user transmits t_i bytes). After that, the data rate of each active user grows by 1, i. e. each t_i is increased by 1.  If the sum of all t_i is greater than b, the congestion occurs and no data transmissions succeed this millisecond at all. If that happens, each t_i decreases twice, i. e. each t_i is replaced with \lfloor \frac{t_i}{2} \rfloor. Raj knows all the values n, b, s_i, f_i, and d_i, he wants to calculate the total number of bytes transmitted by all the users in the aggregate.

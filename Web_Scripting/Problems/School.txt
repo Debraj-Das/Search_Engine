@@ -1,0 +1,9 @@
+School                    
+
+httpscodeforcescomproblemsetproblem45B
+
+dp
+
+2200
+
+There are n students studying in the 6th grade in group B of a berland secondary school Every one of them has exactly one friend whom he calls when he has some news Let us denote the friend of the person number i by gi Note that the friendships are not mutual ie ggi is not necessarily equal to iOn day i the person numbered as ai learns the news with the rating of bi bi1 He phones the friend immediately and tells it While he is doing it the news becomes old and its rating falls a little and becomes equal to bi1 The friend does the same thing  he also calls his friend and also tells the news The friend of the friend gets the news already rated as bi2 It all continues until the rating of the news reaches zero as nobody wants to tell the news with zero rating More formally everybody acts like this if a person x learns the news with a nonzero rating y he calls his friend gi and his friend learns the news with the rating of y1 and if it is possible continues the processLet us note that during a day one and the same person may call his friend and tell him one and the same news with different ratings Thus the news with the rating of bi will lead to as much as bi callsYour task is to count the values of resi  how many students learned their first news on day iThe values of bi are known initially whereas ai is determined from the following formula  where mod stands for the operation of taking the excess from the cleavage res0 is considered equal to zero and vi  some given integers

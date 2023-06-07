@@ -1,0 +1,9 @@
+Drazil and Factorial                    
+
+https://codeforces.com/problemset/problem/515/C
+
+greedy
+
+1400
+
+Drazil is playing a math game with Varda.Let's define  for positive integer x as a product of factorials of its digits. For example, .First, they choose a decimal number a consisting of n digits that contains at least one digit larger than 1. This number may possibly start with leading zeroes. Then they should find maximum positive number x satisfying following two conditions:1. x doesn't contain neither digit 0 nor digit 1.2.  = .Help friends find such number.

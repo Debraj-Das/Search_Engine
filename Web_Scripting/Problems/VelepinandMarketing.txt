@@ -1,0 +1,9 @@
+Velepin and Marketing                    
+
+https://codeforces.com/problemset/problem/1793/E
+
+binary search
+
+2600
+
+The famous writer Velepin is very productive. Recently, he signed a contract with a well-known publication and now he needs to write k_i books for i-th year. This is not a problem for him at all, he can write as much as he wants about samurai, space, emptiness, insects and werewolves.He has n regular readers, each of whom in the i-th year will read one of the k_i books published by Velepin. Readers are very fond of discussing books, so the j-th of them will be satisfied within a year if at least a_j persons read the same book as him (including himself).Velepin has obvious problems with marketing, so he turned to you! A well-known book reading service can control what each of Velepin's regular readers will read, but he does not want books to be wasted, so someone should read each book. And so they turned to you with a request to tell you what the maximum number of regular readers can be made satisfied during each of the years, if you can choose each person the book he will read.

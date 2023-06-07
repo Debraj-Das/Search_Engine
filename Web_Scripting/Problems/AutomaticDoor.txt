@@ -1,0 +1,9 @@
+Automatic Door                    
+
+httpscodeforcescomproblemsetproblem883A
+
+implementation
+
+2200
+
+There is an automatic door at the entrance of a factory The door works in the following way  when one or several people come to the door and it is closed the door immediately opens automatically and all people immediately come inside  when one or several people come to the door and it is open all people immediately come inside  opened door immediately closes in d seconds after its opening  if the door is closing and one or several people are coming to the door at the same moment then all of them will have enough time to enter and only after that the door will close For example if d3 and four people are coming at four different moments of time t14 t27 t39 and t413 then the door will open three times at moments 4 9 and 13 It will close at moments 7 and 12It is known that n employees will enter at moments a2a3ana the value a is positive integer Also m clients will enter at moments t1t2tmWrite program to find the number of times the automatic door will open Assume that the door is initially closed

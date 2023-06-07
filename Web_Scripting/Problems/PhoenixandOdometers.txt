@@ -1,0 +1,9 @@
+Phoenix and Odometers                    
+
+https://codeforces.com/problemset/problem/1515/G
+
+dfs and similar
+
+2700
+
+In Fire City, there are n intersections and m one-way roads. The i-th road goes from intersection a_i to b_i and has length l_i miles. There are q cars that may only drive along those roads. The i-th car starts at intersection v_i and has an odometer that begins at s_i, increments for each mile driven, and resets to 0 whenever it reaches t_i. Phoenix has been tasked to drive cars along some roads (possibly none) and return them to their initial intersection with the odometer showing 0.For each car, please find if this is possible. A car may visit the same road or intersection an arbitrary number of times. The odometers don't stop counting the distance after resetting, so odometers may also be reset an arbitrary number of times.

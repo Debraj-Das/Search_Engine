@@ -1,0 +1,9 @@
+Multicolored Cars                    
+
+httpscodeforcescomproblemsetproblem818D
+
+data structures
+
+1700
+
+Alice and Bob got very bored during a long car trip so they decided to play a game From the window they can see cars of different colors running past them Cars are going one after anotherThe game rules are like this Firstly Alice chooses some color A then Bob chooses some color B AB After each car they update the number of cars of their chosen color that have run past them Lets define this numbers after ith car cntAi and cntBi  If cntAicntBi for every i then the winner is Alice  If cntBicntAi for every i then the winner is Bob  Otherwise its a draw Bob knows all the colors of cars that they will encounter and order of their appearance Alice have already chosen her color A and Bob now wants to choose such color B that he will win the game draw is not a win Help him find this colorIf there are multiple solutions print any of them If there is no such color then print 1

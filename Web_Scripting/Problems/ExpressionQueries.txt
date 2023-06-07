@@ -1,0 +1,9 @@
+Expression Queries                    
+
+httpscodeforcescomproblemsetproblem730L
+
+data structures
+
+3200
+
+A simplified arithmetic expression SAE is an arithmetic expression defined by the following grammar  SAE  Number  SAESAE  SAESAE  SAE  Number  Digit  DigitNumber  Digit  0  1  2  3  4  5  6  7  8  9 In other words its a correct arithmetic expression that is allowed to contain brackets numbers possibly with leading zeros multiplications and additions For example expressions 001 0 and 10 are simplified arithmetic expressions but expressions 21 1 and 12 are notGiven a string s1s2ss that represents a SAE si denotes the ith character of the string which can be either a digit 09 a plus sign  a multiplication sign  an opening round bracket  or a closing round bracket A part slsl1sr of this string is called a subexpression if and only if it is a SAEYou task is to answer m queries each of which is a pair of integers li ri 1liris For each query determine whether the corresponding part of the given string is a subexpression and in case its a subexpression calculate its value modulo 10000000071097 The values should be calculated using standard operator priorities

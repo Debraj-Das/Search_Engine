@@ -1,0 +1,9 @@
+Serega and Fun                    
+
+httpscodeforcescomproblemsetproblem455D
+
+data structures
+
+2700
+
+Serega loves fun However everyone has fun in the unique manner Serega has fun by solving query problems One day Fedor came up with such a problemYou are given an array a consisting of n positive integers and queries to it The queries can be of two types  Make a unit cyclic shift to the right on the segment from l to r both borders inclusive That is rearrange elements of the array in the following manneralal1ar1araralal1ar1 Count how many numbers equal to k are on the segment from l to r both borders inclusive Fedor hurried to see Serega enjoy the problem and Serega solved it really quickly Lets see can you solve it

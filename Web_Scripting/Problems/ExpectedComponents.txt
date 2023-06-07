@@ -1,0 +1,9 @@
+Expected Components                    
+
+https://codeforces.com/problemset/problem/1630/E
+
+combinatorics
+
+2900
+
+Given a cyclic array a of size n, where a_i is the value of a in the i-th position, there may be repeated values. Let us define that a permutation of a is equal to another permutation of a if and only if their values are the same for each position i or we can transform them to each other by performing some cyclic rotation. Let us define for a cyclic array b its number of components as the number of connected components in a graph, where the vertices are the positions of b and we add an edge between each pair of adjacent positions of b with equal values (note that in a cyclic array the first and last position are also adjacents).Find the expected value of components of a permutation of a if we select it equiprobably over the set of all the different permutations of a.

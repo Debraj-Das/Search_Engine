@@ -1,0 +1,9 @@
+Bashs Big Day                    
+
+httpscodeforcescomproblemsetproblem757B
+
+greedy
+
+1400
+
+Bash has set out on a journey to become the greatest Pokemon master To get his first Pokemon he went to Professor Zulus Lab Since Bash is Professor Zulus favourite student Zulu allows him to take as many Pokemon from his lab as he pleasesBut Zulu warns him that a group of k1 Pokemon with strengths s1s2s3sk tend to fight among each other if gcds1s2s3sk1 see notes for gcd definitionBash being smart does not want his Pokemon to fight among each other However he also wants to maximize the number of Pokemon he takes from the lab Can you help Bash find out the maximum number of Pokemon he can take Note A Pokemon cannot fight with itself

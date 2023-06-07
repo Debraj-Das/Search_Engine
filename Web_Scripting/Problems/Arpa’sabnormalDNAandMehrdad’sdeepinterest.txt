@@ -1,0 +1,9 @@
+Arpas abnormal DNA and Mehrdads deep interest                    
+
+httpscodeforcescomproblemsetproblem741E
+
+data structures
+
+3400
+
+All of us know that girls in Arpas land are ok youve got the idea DAnyone knows that Arpa isnt a normal man he is  well sorry I cant explain it more Mehrdad is interested about the reason so he asked Sipa one of the best biology scientists in Arpas land for help Sipa has a DNA editor  Sipa put Arpa under the DNA editor DNA editor showed Arpas DNA as a string S consisting of n lowercase English letters Also Sipa has another DNA T consisting of lowercase English letters that belongs to a normal manNow there are n1 options to change Arpas DNA numbered from 0 to n ith of them is to put T between ith and i1th characters of S 0in If i0 T will be put before S and if in it will be put after SMehrdad wants to choose the most interesting option for Arpas DNA among these n1 options DNA A is more interesting than B if A is lexicographically smaller than B Mehrdad asked Sipa q questions Given integers lrkxy what is the most interesting option if we only consider such options i that lir and  If there are several most interesting options Mehrdad wants to know one with the smallest number iSince Sipa is a biology scientist but not a programmer you should help him

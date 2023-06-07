@@ -1,0 +1,9 @@
+Node Pairs                    
+
+https://codeforces.com/problemset/problem/1763/E
+
+dp
+
+2200
+
+Let's call an ordered pair of nodes (u, v) in a directed graph unidirectional if u \neq v, there exists a path from u to v, and there are no paths from v to u.A directed graph is called p-reachable if it contains exactly p ordered pairs of nodes (u, v) such that u < v and u and v are reachable from each other. Find the minimum number of nodes required to create a p-reachable directed graph.Also, among all such p-reachable directed graphs with the minimum number of nodes, let G denote a graph which maximizes the number of unidirectional pairs of nodes. Find this number.

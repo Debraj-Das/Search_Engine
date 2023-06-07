@@ -1,0 +1,9 @@
+Furukawa Nagisas Tree                    
+
+httpscodeforcescomproblemsetproblem434E
+
+binary search
+
+3000
+
+One day Okazaki Tomoya has bought a tree for Furukawa Nagisas birthday The tree is so strange that every node of the tree has a value The value of the ith node is vi Now Furukawa Nagisa and Okazaki Tomoya want to play a game on the treeLet se be the path from node s to node e we can write down the sequence of the values of nodes on path se and denote this sequence as Sse We define the value of the sequence GSse as follows Suppose that the sequence is z0z1zl1 where l is the length of the sequence We define GSsez0k0z1k1zl1kl1 If the path se satisfies  then the path se belongs to Furukawa Nagisa otherwise it belongs to Okazaki TomoyaCalculating who has more paths is too easy so they want to play something more difficult Furukawa Nagisa thinks that if paths p1p2 and p2p3 belong to her then path p1p3 belongs to her as well Also she thinks that if paths p1p2 and p2p3 belong to Okazaki Tomoya then path p1p3 belongs to Okazaki Tomoya as well But in fact this conclusion isnt always right So now Furukawa Nagisa wants to know how many triplets p1p2p3 are correct for the conclusion and this is your task

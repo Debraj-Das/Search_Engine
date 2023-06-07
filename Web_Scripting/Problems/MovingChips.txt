@@ -1,0 +1,9 @@
+Moving Chips                    
+
+httpscodeforcescomproblemsetproblem1680E
+
+bitmasks
+
+2000
+
+You are given a board of size 2 times n 2 rows n columns Some cells of the board contain chips The chip is represented as  and an empty space is represented as  It is guaranteed that there is at least one chip on the boardIn one move you can choose any chip and move it to any adjacent by side cell of the board if this cell is inside the board It means that if the chip is in the first row you can move it left right or down but it shouldnt leave the board Same if the chip is in the second row you can move it left right or upIf the chip moves to the cell with another chip the chip in the destination cell disappears ie our chip captures itYour task is to calculate the minimum number of moves required to leave exactly one chip on the boardYou have to answer t independent test cases

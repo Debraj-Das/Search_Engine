@@ -1,0 +1,9 @@
+Technical Support                    
+
+https://codeforces.com/problemset/problem/1754/A
+
+greedy
+
+800
+
+You work in the quality control department of technical support for a large company. Your job is to make sure all client issues have been resolved.Today you need to check a copy of a dialog between a client and a technical support manager. According to the rules of work, each message of the client must be followed by one or several messages, which are the answer of a support manager. However, sometimes clients ask questions so quickly that some of the manager's answers to old questions appear after the client has asked some new questions.Due to the privacy policy, the full text of messages is not available to you, only the order of messages is visible, as well as the type of each message: a customer question or a response from the technical support manager. It is guaranteed that the dialog begins with the question of the client.You have to determine, if this dialog may correspond to the rules of work described above, or the rules are certainly breached.

@@ -1,0 +1,9 @@
+Red and Blue                    
+
+https://codeforces.com/problemset/problem/1469/B
+
+dp
+
+1000
+
+Monocarp had a sequence a consisting of n + m integers a_1, a_2, \dots, a_{n + m}. He painted the elements into two colors, red and blue; n elements were painted red, all other m elements were painted blue.After painting the elements, he has written two sequences r_1, r_2, \dots, r_n and b_1, b_2, \dots, b_m. The sequence r consisted of all red elements of a in the order they appeared in a; similarly, the sequence b consisted of all blue elements of a in the order they appeared in a as well.Unfortunately, the original sequence was lost, and Monocarp only has the sequences r and b. He wants to restore the original sequence. In case there are multiple ways to restore it, he wants to choose a way to restore that maximizes the value of f(a) = \max(0, a_1, (a_1 + a_2), (a_1 + a_2 + a_3), \dots, (a_1 + a_2 + a_3 + \dots + a_{n + m}))Help Monocarp to calculate the maximum possible value of f(a).

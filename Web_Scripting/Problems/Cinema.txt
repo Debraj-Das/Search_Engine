@@ -1,0 +1,9 @@
+Cinema                    
+
+httpscodeforcescomproblemsetproblem200A
+
+brute force
+
+2400
+
+The capital of Berland has the only movie theater in the country Besides it consists of only one room The room is divided into n rows each row consists of m seatsThere are k people lined up to the box office each person wants to buy exactly one ticket for his own entertainment Before the box office started selling tickets each person found the seat that seemed best for him and remembered it as a pair of coordinates xiyi where xi is the row number and yi is the seat number in this rowIt is possible that some people have chosen the same place then when some people see their favorite seat taken in the plan of empty seats in the theater they choose and buy a ticket to another place Each of them has the following logic lets assume that he originally wanted to buy a ticket to seat x1y1 then when he comes to the box office he chooses such empty seat x2y2 which satisfies the following conditions   the value of x1x2y1y2 is minimum  if the choice is not unique then among the seats that satisfy the first condition this person selects the one for which the value of x2 is minimum  if the choice is still not unique among the seats that satisfy the first and second conditions this person selects the one for which the value of y2 is minimum Your task is to find the coordinates of a seat for each person

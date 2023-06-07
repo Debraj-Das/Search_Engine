@@ -1,0 +1,9 @@
+Making a String                    
+
+https://codeforces.com/problemset/problem/624/B
+
+greedy
+
+1100
+
+You are given an alphabet consisting of n letters, your task is to make a string of the maximum possible length so that the following conditions are satisfied:   the i-th letter occurs in the string no more than ai times;  the number of occurrences of each letter in the string must be distinct for all the letters that occurred in the string at least once. 

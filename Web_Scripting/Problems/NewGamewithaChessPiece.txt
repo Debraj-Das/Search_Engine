@@ -1,0 +1,9 @@
+New Game with a Chess Piece                    
+
+https://codeforces.com/problemset/problem/36/D
+
+games
+
+2300
+
+Petya and Vasya are inventing a new game that requires a rectangular board and one chess piece. At the beginning of the game the piece stands in the upper-left corner of the board. Two players move the piece in turns. Each turn the chess piece can be moved either one square to the right or one square down or jump k squares diagonally down and to the right. The player who can’t move the piece loses.   The guys haven’t yet thought what to call the game or the best size of the board for it. Your task is to write a program that can determine the outcome of the game depending on the board size.

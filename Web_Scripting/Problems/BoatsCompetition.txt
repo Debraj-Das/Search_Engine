@@ -1,0 +1,9 @@
+Boats Competition                    
+
+https://codeforces.com/problemset/problem/1399/C
+
+brute force
+
+1200
+
+There are n people who want to participate in a boat competition. The weight of the i-th participant is w_i. Only teams consisting of two people can participate in this competition. As an organizer, you think that it's fair to allow only teams with the same total weight.So, if there are k teams (a_1, b_1), (a_2, b_2), \dots, (a_k, b_k), where a_i is the weight of the first participant of the i-th team and b_i is the weight of the second participant of the i-th team, then the condition a_1 + b_1 = a_2 + b_2 = \dots = a_k + b_k = s, where s is the total weight of each team, should be satisfied.Your task is to choose such s that the number of teams people can create is the maximum possible. Note that each participant can be in no more than one team.You have to answer t independent test cases.

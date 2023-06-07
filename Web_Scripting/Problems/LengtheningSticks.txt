@@ -1,0 +1,9 @@
+Lengthening Sticks                    
+
+httpscodeforcescomproblemsetproblem571A
+
+combinatorics
+
+2100
+
+You are given three sticks with positive integer lengths of ab and c centimeters You can increase length of some of them by some positive integer number of centimeters different sticks can be increased by a different length but in total by at most l centimeters In particular it is allowed not to increase the length of any stickDetermine the number of ways to increase the lengths of some sticks so that you can form from them a nondegenerate that is having a positive area triangle Two ways are considered different if the length of some stick is increased by different number of centimeters in them

@@ -1,0 +1,9 @@
+Not Dividing                    
+
+https://codeforces.com/problemset/problem/1794/B
+
+constructive algorithms
+
+900
+
+You are given an array of n positive integers a_1, a_2, \ldots, a_n. In one operation, you can choose any number of the array and add 1 to it. Make at most 2n operations so that the array satisfies the following property: a_{i+1} is not divisible by a_i, for each i = 1, 2, \ldots, n-1. You do not need to minimize the number of operations.

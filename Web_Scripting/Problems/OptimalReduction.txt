@@ -1,0 +1,9 @@
+Optimal Reduction                    
+
+https://codeforces.com/problemset/problem/1713/B
+
+constructive algorithms
+
+1000
+
+Consider an array a of n positive integers.You may perform the following operation:   select two indices l and r (1 \leq l \leq r \leq n), then  decrease all elements a_l, a_{l + 1}, \dots, a_r by 1. Let's call f(a) the minimum number of operations needed to change array a into an array of n zeros.Determine if for all permutations^\dagger b of a, f(a) \leq f(b) is true. ^\dagger An array b is a permutation of an array a if b consists of the elements of a in arbitrary order. For example, [4,2,3,4] is a permutation of [3,2,4,4] while [1,2,2] is not a permutation of [1,2,3].

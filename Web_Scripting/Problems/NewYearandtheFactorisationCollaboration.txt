@@ -1,0 +1,9 @@
+New Year and the Factorisation Collaboration                    
+
+https://codeforces.com/problemset/problem/1091/G
+
+interactive
+
+3200
+
+Integer factorisation is hard. The RSA Factoring Challenge offered 100\,000 for factoring RSA-1024, a 1024-bit long product of two prime numbers. To this date, nobody was able to claim the prize. We want you to factorise a 1024-bit number.Since your programming language of choice might not offer facilities for handling large integers, we will provide you with a very simple calculator. To use this calculator, you can print queries on the standard output and retrieve the results from the standard input. The operations are as follows:   + x y where x and y are integers between 0 and n-1. Returns (x+y) \bmod n.  - x y where x and y are integers between 0 and n-1. Returns (x-y) \bmod n.  * x y where x and y are integers between 0 and n-1. Returns (x \cdot y) \bmod n.  / x y where x and y are integers between 0 and n-1 and y is coprime with n. Returns (x \cdot y^{-1}) \bmod n where y^{-1} is multiplicative inverse of y modulo n. If y is not coprime with n, then -1 is returned instead.  sqrt x where x is integer between 0 and n-1 coprime with n. Returns y such that y^2 \bmod n = x. If there are multiple such integers, only one of them is returned. If there are none, -1 is returned instead.  ^ x y where x and y are integers between 0 and n-1. Returns {x^y \bmod n}. Find the factorisation of n that is a product of between 2 and 10 distinct prime numbers, all of form 4x + 3 for some integer x.Because of technical issues, we restrict number of requests to 100.

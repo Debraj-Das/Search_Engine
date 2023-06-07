@@ -1,0 +1,9 @@
+Andryusha and Colored Balloons                    
+
+httpscodeforcescomproblemsetproblem780C
+
+dfs and similar
+
+1600
+
+Andryusha goes through a park each day The squares and paths between them look boring to Andryusha so he decided to decorate themThe park consists of n squares connected with n1 bidirectional paths in such a way that any square is reachable from any other using these paths Andryusha decided to hang a colored balloon at each of the squares The baloons colors are described by positive integers starting from 1 In order to make the park varicolored Andryusha wants to choose the colors in a special way More precisely he wants to use such colors that if a b and c are distinct squares that a and b have a direct path between them and b and c have a direct path between them then balloon colors on these three squares are distinctAndryusha wants to use as little different colors as possible Help him to choose the colors

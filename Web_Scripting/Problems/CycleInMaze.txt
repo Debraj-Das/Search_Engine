@@ -1,0 +1,9 @@
+Cycle In Maze                    
+
+httpscodeforcescomproblemsetproblem769C
+
+special problem
+
+1700
+
+The Robot is in a rectangular maze of size nm Each cell of the maze is either empty or occupied by an obstacle The Robot can move between neighboring cells on the side left the symbol L right the symbol R up the symbol U or down the symbol D The Robot can move to the cell only if it is empty Initially the Robot is in the empty cellYour task is to find lexicographically minimal Robots cycle with length exactly k which begins and ends in the cell where the Robot was initially It is allowed to the Robot to visit any cell many times including startingConsider that Robots way is given as a line which consists of symbols L R U and D For example if firstly the Robot goes down then left then right and up it means that his way is written as DLRUIn this task you dont need to minimize the length of the way Find the minimum lexicographical in alphabet order as in the dictionary line which satisfies requirements above

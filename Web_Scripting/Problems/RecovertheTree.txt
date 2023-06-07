@@ -1,0 +1,9 @@
+Recover the Tree                    
+
+https://codeforces.com/problemset/problem/1710/D
+
+constructive algorithms
+
+3400
+
+Rhodoks has a tree with n vertices, but he doesn't remember its structure. The vertices are indexed from 1 to n.A segment [l,r] (1 \leq l \leq r \leq n) is good if the vertices with indices l, l + 1, ..., r form a connected component in Rhodoks' tree. Otherwise, it is bad.For example, if the tree is the one in the picture, then only the segment [3,4] is bad while all the other segments are good.  For each of the \frac{n(n+1)}{2} segments, Rhodoks remembers whether it is good or bad. Can you help him recover the tree? If there are multiple solutions, print any.It is guaranteed that the there is at least one tree satisfying Rhodoks' description. 

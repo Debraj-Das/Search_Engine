@@ -1,0 +1,9 @@
+Intellectual Inquiry                    
+
+httpscodeforcescomproblemsetproblem645E
+
+dp
+
+2200
+
+After getting kicked out of her reporting job for not knowing the alphabet Bessie has decided to attend school at the Fillet and Eggs Eater Academy She has been making good progress with her studies and now knows the first k English lettersEach morning Bessie travels to school along a sidewalk consisting of mn tiles In order to help Bessie review Mr Moozing has labeled each of the first m sidewalk tiles with one of the first k lowercase English letters spelling out a string t Mr Moozing impressed by Bessies extensive knowledge of farm animals plans to let her finish labeling the last n tiles of the sidewalk by herselfConsider the resulting string s smn consisting of letters labeled on tiles in order from home to school For any sequence of indices p1p2pq we can define subsequence of the string s as string sp1sp2 spq Two subsequences are considered to be distinct if they differ as strings Bessie wants to label the remaining part of the sidewalk such that the number of distinct subsequences of tiles is maximum possible However since Bessie hasnt even finished learning the alphabet she needs your helpNote that empty subsequence also counts

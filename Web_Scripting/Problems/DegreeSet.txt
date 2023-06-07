@@ -1,0 +1,9 @@
+Degree Set                    
+
+httpscodeforcescomproblemsetproblem976D
+
+constructive algorithms
+
+2500
+
+You are given a sequence of n positive integers d1d2dn d1d2dn Your task is to construct an undirected graph such that  there are exactly dn1 vertices  there are no selfloops  there are no multiple edges  there are no more than 106 edges  its degree set is equal to d Vertices should be numbered 1 through dn1Degree sequence is an array a with length equal to the number of vertices in a graph such that ai is the number of vertices adjacent to ith vertexDegree set is a sorted in increasing order sequence of all distinct values from the degree sequenceIt is guaranteed that there exists such a graph that all the conditions hold and it contains no more than 106 edgesPrint the resulting graph

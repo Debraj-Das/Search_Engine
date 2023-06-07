@@ -1,0 +1,9 @@
+Array Destruction                    
+
+https://codeforces.com/problemset/problem/1474/C
+
+brute force
+
+1700
+
+You found a useless array a of 2n positive integers. You have realized that you actually don't need this array, so you decided to throw out all elements of a.It could have been an easy task, but it turned out that you should follow some rules:   In the beginning, you select any positive integer x. Then you do the following operation n times:   select two elements of array with sum equals x;  remove them from a and replace x with maximum of that two numbers.  For example, if initially a = [3, 5, 1, 2], you can select x = 6. Then you can select the second and the third elements of a with sum 5 + 1 = 6 and throw them out. After this operation, x equals 5 and there are two elements in array: 3 and 2. You can throw them out on the next operation.Note, that you choose x before the start and can't change it as you want between the operations.Determine how should you behave to throw out all elements of a.

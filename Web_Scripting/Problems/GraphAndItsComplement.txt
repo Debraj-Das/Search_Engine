@@ -1,0 +1,9 @@
+Graph And Its Complement                    
+
+https://codeforces.com/problemset/problem/990/D
+
+constructive algorithms
+
+1700
+
+Given three numbers n, a, b. You need to find an adjacency matrix of such an undirected graph that the number of components in it is equal to a, and the number of components in its complement is b. The matrix must be symmetric, and all digits on the main diagonal must be zeroes.In an undirected graph loops (edges from a vertex to itself) are not allowed. It can be at most one edge between a pair of vertices.The adjacency matrix of an undirected graph is a square matrix of size n consisting only of "0" and "1", where n is the number of vertices of the graph and the i-th row and the i-th column correspond to the i-th vertex of the graph. The cell (i,j) of the adjacency matrix contains 1 if and only if the i-th and j-th vertices in the graph are connected by an edge.A connected component is a set of vertices X such that for every two vertices from this set there exists at least one path in the graph connecting this pair of vertices, but adding any other vertex to X violates this rule.The complement or inverse of a graph G is a graph H on the same vertices such that two distinct vertices of H are adjacent if and only if they are not adjacent in G.

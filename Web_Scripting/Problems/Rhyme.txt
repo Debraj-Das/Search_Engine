@@ -1,0 +1,9 @@
+Rhyme                    
+
+https://codeforces.com/problemset/problem/1571/C
+
+*special problem
+
+1800
+
+Let's say that two strings s and t rhyme if both strings have length at least k, and their last k characters are equal. For example, if k = 3, the strings abcd and cebcd rhyme, the strings ab and ab don't rhyme, the strings aaaa and aaaaa rhyme, the strings abcd and abce don't rhyme.You have n pairs of strings (s_i, t_i), and for each pair of strings you know, should they rhyme or should not.Find all possible non-negative integer values for k such that pairs that have to rhyme, rhyme and pairs that must not rhyme, don't rhyme.

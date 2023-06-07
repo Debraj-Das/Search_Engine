@@ -1,0 +1,9 @@
+Magical Boxes                    
+
+httpscodeforcescomproblemsetproblem269A
+
+greedy
+
+1600
+
+Emuskald is a wellknown illusionist One of his trademark tricks involves a set of magical boxes The essence of the trick is in packing the boxes inside other boxesFrom the top view each magical box looks like a square with side length equal to 2k k is an integer k0 units A magical box v can be put inside a magical box u if side length of v is strictly less than the side length of u In particular Emuskald can put 4 boxes of side length 2k1 into one box of side length 2k or as in the following figure  Emuskald is about to go on tour performing around the world and needs to pack his magical boxes for the trip He has decided that the best way to pack them would be inside another magical box but magical boxes are quite expensive to make Help him find the smallest magical box that can fit all his boxes

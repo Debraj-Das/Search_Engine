@@ -1,0 +1,9 @@
+Connected Component on a Chessboard                    
+
+https://codeforces.com/problemset/problem/1196/E
+
+constructive algorithms
+
+1800
+
+You are given two integers b and w. You have a chessboard of size 10^9 \times 10^9 with the top left cell at (1; 1), the cell (1; 1) is painted white.Your task is to find a connected component on this chessboard that contains exactly b black cells and exactly w white cells. Two cells are called connected if they share a side (i.e. for the cell (x, y) there are at most four connected cells: (x - 1, y), (x + 1, y), (x, y - 1), (x, y + 1)). A set of cells is called a connected component if for every pair of cells C_1 and C_2 from this set, there exists a sequence of cells c_1, c_2, ..., c_k such that c_1 = C_1, c_k = C_2, all c_i from 1 to k are belong to this set of cells and for every i \in [1, k - 1], cells c_i and c_{i + 1} are connected.Obviously, it can be impossible to find such component. In this case print "NO". Otherwise, print "YES" and any suitable connected component.You have to answer q independent queries.

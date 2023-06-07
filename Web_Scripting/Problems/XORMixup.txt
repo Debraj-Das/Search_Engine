@@ -1,0 +1,9 @@
+XOR Mixup                    
+
+https://codeforces.com/problemset/problem/1698/A
+
+bitmasks
+
+800
+
+There is an array a with n-1 integers. Let x be the bitwise XOR of all elements of the array. The number x is added to the end of the array a (now it has length n), and then the elements are shuffled.You are given the newly formed array a. What is x? If there are multiple possible values of x, you can output any of them.

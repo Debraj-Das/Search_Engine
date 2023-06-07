@@ -1,0 +1,9 @@
+Hyperspace Highways                    
+
+https://codeforces.com/problemset/problem/1045/C
+
+dfs and similar
+
+2300
+
+In an unspecified solar system, there are N planets. A space government company has recently hired space contractors to build M bidirectional Hyperspace™ highways, each connecting two different planets. The primary objective, which was to make sure that every planet can be reached from any other planet taking only Hyperspace™ highways, has been completely fulfilled. Unfortunately, lots of space contractors had friends and cousins in the Space Board of Directors of the company, so the company decided to do much more than just connecting all planets. In order to make spending enormous amounts of space money for Hyperspace™ highways look neccessary, they decided to enforce a strict rule on the Hyperspace™ highway network: whenever there is a way to travel through some planets and return to the starting point without travelling through any planet twice, every pair of planets on the itinerary should be directly connected by a Hyperspace™ highway. In other words, the set of planets in every simple cycle induces a complete subgraph.You are designing a Hyperspace™ navigational app, and the key technical problem you are facing is finding the minimal number of Hyperspace™ highways one needs to use to travel from planet A to planet B. As this problem is too easy for Bubble Cup, here is a harder task: your program needs to do it for Q pairs of planets.

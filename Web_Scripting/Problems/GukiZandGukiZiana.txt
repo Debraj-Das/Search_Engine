@@ -1,0 +1,9 @@
+GukiZ and GukiZiana                    
+
+httpscodeforcescomproblemsetproblem551E
+
+binary search
+
+2500
+
+Professor GukiZ was playing with arrays again and accidentally discovered new function which he called GukiZiana For given array a indexed with integers from 1 to n and number y GukiZianaay represents maximum value of ji such that ajaiy If there is no y as an element in a then GukiZianaay is equal to 1 GukiZ also prepared a problem for you This time you have two types of queries   First type has form 1 l r x and asks you to increase values of all ai such that lir by the nonnegative integer x  Second type has form 2 y and asks you to find value of GukiZianaay For each query of type 2 print the answer and make GukiZ happy

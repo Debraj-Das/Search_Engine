@@ -1,0 +1,9 @@
+The Very Beautiful Blanket                    
+
+https://codeforces.com/problemset/problem/1801/A
+
+bitmasks
+
+1600
+
+Kirill wants to weave the very beautiful blanket consisting of n \times m of the same size square patches of some colors. He matched some non-negative integer to each color. Thus, in our problem, the blanket can be considered a B matrix of size n \times m consisting of non-negative integers.Kirill considers that the blanket is very beautiful, if for each submatrix A of size 4 \times 4 of the matrix B is true: A_{11} \oplus A_{12} \oplus A_{21} \oplus A_{22} = A_{33} \oplus A_{34} \oplus A_{43} \oplus A_{44}, A_{13} \oplus A_{14} \oplus A_{23} \oplus A_{24} = A_{31} \oplus A_{32} \oplus A_{41} \oplus A_{42},where \oplus means bitwise exclusive ORKirill asks you to help her weave a very beautiful blanket, and as colorful as possible!He gives you two integers n and m. Your task is to generate a matrix B of size n \times m, which corresponds to a very beautiful blanket and in which the number of different numbers maximized.

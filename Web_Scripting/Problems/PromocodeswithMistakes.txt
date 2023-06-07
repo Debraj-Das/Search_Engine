@@ -1,0 +1,9 @@
+Promocodes with Mistakes                    
+
+httpscodeforcescomproblemsetproblem637C
+
+special problem
+
+1400
+
+During a New Year special offer the Sudislavl Bars offered n promo codes Each promo code consists of exactly six digits and gives right to one free cocktail at the bar Mosquito Shelter Of course all the promocodes differAs the Mosquito Shelter opens only at 9 and partying in Sudislavl usually begins at as early as 6 many problems may arise as to how to type a promotional code without errors It is necessary to calculate such maximum k that the promotional code could be uniquely identified if it was typed with no more than k errors At that k0 means that the promotional codes must be entered exactlyA mistake in this problem should be considered as entering the wrong numbers For example value 123465 contains two errors relative to promocode 123456 Regardless of the number of errors the entered value consists of exactly six digits

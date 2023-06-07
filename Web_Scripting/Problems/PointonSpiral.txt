@@ -1,0 +1,9 @@
+Point on Spiral                    
+
+httpscodeforcescomproblemsetproblem279A
+
+brute force
+
+1400
+
+Valera the horse lives on a plane The Cartesian coordinate system is defined on this plane Also an infinite spiral is painted on the plane The spiral consists of segments 0010 1011 1111 1111 1121 2122 and so on Thus this infinite spiral passes through each integer point of the planeValera the horse lives on the plane at coordinates 00 He wants to walk along the spiral to point xy Valera the horse has four legs so he finds turning very difficult Count how many times he will have to turn if he goes along a spiral from point 00 to point xy

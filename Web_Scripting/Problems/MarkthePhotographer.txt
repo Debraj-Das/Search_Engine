@@ -1,0 +1,9 @@
+Mark the Photographer                    
+
+https://codeforces.com/problemset/problem/1705/A
+
+greedy
+
+800
+
+Mark is asked to take a group photo of 2n people. The i-th person has height h_i units.To do so, he ordered these people into two rows, the front row and the back row, each consisting of n people. However, to ensure that everyone is seen properly, the j-th person of the back row must be at least x units taller than the j-th person of the front row for each j between 1 and n, inclusive.Help Mark determine if this is possible.

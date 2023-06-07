@@ -1,0 +1,9 @@
+Two Arrays and Sum of Functions                    
+
+https://codeforces.com/problemset/problem/1165/E
+
+greedy
+
+1600
+
+You are given two arrays a and b, both of length n.Let's define a function f(l, r) = \sum\limits_{l \le i \le r} a_i \cdot b_i.Your task is to reorder the elements (choose an arbitrary order of elements) of the array b to minimize the value of \sum\limits_{1 \le l \le r \le n} f(l, r). Since the answer can be very large, you have to print it modulo 998244353. Note that you should minimize the answer but not its remainder.

@@ -1,0 +1,9 @@
+Lanterns                    
+
+https://codeforces.com/problemset/problem/1476/F
+
+binary search
+
+3000
+
+There are n lanterns in a row. The lantern i is placed in position i and has power equal to p_i.Each lantern can be directed to illuminate either some lanterns to the left or some lanterns to the right. If the i-th lantern is turned to the left, it illuminates all such lanterns j that j \in [i - p_i, i - 1]. Similarly, if it is turned to the right, it illuminates all such lanterns j that j \in [i + 1, i + p_i].Your goal is to choose a direction for each lantern so each lantern is illuminated by at least one other lantern, or report that it is impossible.

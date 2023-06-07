@@ -1,0 +1,9 @@
+Restructuring Company                    
+
+httpscodeforcescomproblemsetproblem566D
+
+data structures
+
+1900
+
+Even the most successful company can go through a crisis period when you have to make a hard decision  to restructure discard and merge departments fire employees and do other unpleasant stuff Lets consider the following model of a companyThere are n people working for the Large Software Company Each person belongs to some department Initially each person works on his own project in his own department thus each company initially consists of n departments one person in eachHowever harsh times have come to the company and the management had to hire a crisis manager who would rebuild the working process in order to boost efficiency Lets use teamperson to represent a team where person person works A crisis manager can make decisions of two types  Merge departments teamx and teamy into one large department containing all the employees of teamx and teamy where x and y 1xyn  are numbers of two of some company employees If teamx matches teamy then nothing happens  Merge departments teamxteamx1teamy where x and y 1xyn  the numbers of some two employees of the company At that the crisis manager can sometimes wonder whether employees x and y 1xyn work at the same departmentHelp the crisis manager and answer all of his queries

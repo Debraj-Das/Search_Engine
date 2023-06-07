@@ -1,0 +1,9 @@
+Game of Credit Cards                    
+
+httpscodeforcescomproblemsetproblem777B
+
+data structures
+
+1300
+
+After the fourth season Sherlock and Moriary have realized the whole foolishness of the battle between them and decided to continue their competitions in peaceful game of Credit CardsRules of this game are simple each player bring his favourite ndigit credit card Then both players name the digits written on their cards one by one If two digits are not equal then the player whose digit is smaller gets a flick knock in the forehead usually made with a forefinger from the other player For example if n3 Sherlocks card is 123 and Moriartys card has number 321 first Sherlock names 1 and Moriarty names 3 so Sherlock gets a flick Then they both digit 2 so no one gets a flick Finally Sherlock names 3 while Moriarty names 1 and gets a flickOf course Sherlock will play honestly naming digits one by one in the order they are given while Moriary as a true villain plans to cheat He is going to name his digits in some other order however he is not going to change the overall number of occurences of each digit For example in case above Moriarty could name 1 2 3 and get no flicks at all or he can name 2 3 and 1 to give Sherlock two flicksYour goal is to find out the minimum possible number of flicks Moriarty will get no one likes flicks and the maximum possible number of flicks Sherlock can get from Moriarty Note that these two goals are different and the optimal result may be obtained by using different strategies

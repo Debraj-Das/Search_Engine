@@ -1,0 +1,9 @@
+Nastya Is Transposing Matrices                    
+
+https://codeforces.com/problemset/problem/1136/C
+
+constructive algorithms
+
+1500
+
+Nastya came to her informatics lesson, and her teacher who is, by the way, a little bit famous here gave her the following task.Two matrices A and B are given, each of them has size n \times m. Nastya can perform the following operation to matrix A unlimited number of times:   take any square square submatrix of A and transpose it (i.e. the element of the submatrix which was in the i-th row and j-th column of the submatrix will be in the j-th row and i-th column after transposing, and the transposed submatrix itself will keep its place in the matrix A). Nastya's task is to check whether it is possible to transform the matrix A to the matrix B.  Example of the operation As it may require a lot of operations, you are asked to answer this question for Nastya.A square submatrix of matrix M is a matrix which consist of all elements which comes from one of the rows with indeces x, x+1, \dots, x+k-1 of matrix M and comes from one of the columns with indeces y, y+1, \dots, y+k-1 of matrix M. k is the size of square submatrix. In other words, square submatrix is the set of elements of source matrix which form a solid square (i.e. without holes).

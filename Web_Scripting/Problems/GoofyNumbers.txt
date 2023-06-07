@@ -1,0 +1,9 @@
+Goofy Numbers                    
+
+httpscodeforcescomproblemsetproblem72I
+
+special problem
+
+1500
+
+The nonnegative integer a is a divisor of the nonnegative integer b if and only if there exists a positive integer c such that acb Some numbers are really interesting Commander Surena defines some interesting properties for nonnegative integers  An integer is happy if it is divisible by at least one of its digits and not by all of them  An integer is happier if it is divisible by all of its digits  An integer is upset if its divisible by none of its digits Surena asks you to find out if a given number is happy happier or upset

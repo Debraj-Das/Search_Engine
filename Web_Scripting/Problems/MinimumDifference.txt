@@ -1,0 +1,9 @@
+Minimum Difference                    
+
+https://codeforces.com/problemset/problem/1476/G
+
+data structures
+
+3100
+
+You are given an integer array a of size n.You have to perform m queries. Each query has one of two types:   "1 l r k" — calculate the minimum value dif such that there are exist k distinct integers x_1, x_2, \dots, x_k such that cnt_i > 0 (for every i \in [1, k]) and |cnt_i - cnt_j| \le dif (for every i \in [1, k], j \in [1, k]), where cnt_i is the number of occurrences of x_i in the subarray a[l..r]. If it is impossible to choose k integers, report it;  "2 p x" — assign a_{p} := x. 

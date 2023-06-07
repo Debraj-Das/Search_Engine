@@ -1,0 +1,9 @@
+Cards with Numbers                    
+
+https://codeforces.com/problemset/problem/254/A
+
+constructive algorithms
+
+1200
+
+Petya has got 2n cards, each card contains some integer. The numbers on the cards can be the same. Let's index all cards by consecutive integers from 1 to 2n. We'll denote the number that is written on a card with number i, as ai. In order to play one entertaining game with his friends, Petya needs to split the cards into pairs so that each pair had equal numbers on the cards. Help Petya do that.

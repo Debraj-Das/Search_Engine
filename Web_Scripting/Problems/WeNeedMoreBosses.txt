@@ -1,0 +1,9 @@
+We Need More Bosses                    
+
+https://codeforces.com/problemset/problem/1000/E
+
+dfs and similar
+
+2100
+
+Your friend is developing a computer game. He has already decided how the game world should look like — it should consist of n locations connected by m two-way passages. The passages are designed in such a way that it should be possible to get from any location to any other location.Of course, some passages should be guarded by the monsters (if you just can go everywhere without any difficulties, then it's not fun, right?). Some crucial passages will be guarded by really fearsome monsters, requiring the hero to prepare for battle and designing his own tactics of defeating them (commonly these kinds of monsters are called bosses). And your friend wants you to help him place these bosses.The game will start in location s and end in location t, but these locations are not chosen yet. After choosing these locations, your friend will place a boss in each passage such that it is impossible to get from s to t without using this passage. Your friend wants to place as much bosses as possible (because more challenges means more fun, right?), so he asks you to help him determine the maximum possible number of bosses, considering that any location can be chosen as s or as t.

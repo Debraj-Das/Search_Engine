@@ -1,0 +1,9 @@
+Mark and Professor Koro                    
+
+https://codeforces.com/problemset/problem/1705/E
+
+binary search
+
+2300
+
+After watching a certain anime before going to sleep, Mark dreams of standing in an old classroom with a blackboard that has a sequence of n positive integers a_1, a_2,\dots,a_n on it.Then, professor Koro comes in. He can perform the following operation:  select an integer x that appears at least 2 times on the board,  erase those 2 appearances, and  write x+1 on the board. Professor Koro then asks Mark the question, "what is the maximum possible number that could appear on the board after some operations?"Mark quickly solves this question, but he is still slower than professor Koro. Thus, professor Koro decides to give Mark additional challenges. He will update the initial sequence of integers q times. Each time, he will choose positive integers k and l, then change a_k to l. After each update, he will ask Mark the same question again.Help Mark answer these questions faster than Professor Koro!Note that the updates are persistent. Changes made to the sequence a will apply when processing future updates.

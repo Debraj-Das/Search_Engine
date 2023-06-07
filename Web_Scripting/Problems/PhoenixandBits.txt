@@ -1,0 +1,9 @@
+Phoenix and Bits                    
+
+https://codeforces.com/problemset/problem/1515/H
+
+bitmasks
+
+3500
+
+Phoenix loves playing with bits — specifically, by using the bitwise operations AND, OR, and XOR. He has n integers a_1, a_2, \dots, a_n, and will perform q of the following queries:  replace all numbers a_i where l \le a_i \le r with a_i AND x;  replace all numbers a_i where l \le a_i \le r with a_i OR x;  replace all numbers a_i where l \le a_i \le r with a_i XOR x;  output how many distinct integers a_i where l \le a_i \le r. For each query, Phoenix is given l, r, and x. Note that he is considering the values of the numbers, not their indices.

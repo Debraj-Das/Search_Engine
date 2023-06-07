@@ -1,0 +1,9 @@
+Omkar and Infinity Clock                    
+
+https://codeforces.com/problemset/problem/1392/B
+
+implementation
+
+800
+
+Being stuck at home, Ray became extremely bored. To pass time, he asks Lord Omkar to use his time bending power: Infinity Clock! However, Lord Omkar will only listen to mortals who can solve the following problem:You are given an array a of n integers. You are also given an integer k. Lord Omkar wants you to do k operations with this array.Define one operation as the following:   Set d to be the maximum value of your array.  For every i from 1 to n, replace a_{i} with d-a_{i}. The goal is to predict the contents in the array after k operations. Please help Ray determine what the final sequence will look like!

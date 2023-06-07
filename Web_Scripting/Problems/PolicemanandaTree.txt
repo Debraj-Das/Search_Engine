@@ -1,0 +1,9 @@
+Policeman and a Tree                    
+
+httpscodeforcescomproblemsetproblem868E
+
+dp
+
+2700
+
+You are given a tree a connected nonoriented graph without cycles with vertices numbered from 1 to n and the length of the ith edge is wi In the vertex s there is a policeman in the vertices x1x2xm xjs m criminals are locatedThe policeman can walk along the edges with speed 1 the criminals can move with arbitrary large speed If a criminal at some moment is at the same point as the policeman he instantly gets caught by the policeman Determine the time needed for the policeman to catch all criminals assuming everybody behaves optimally ie the criminals maximize that time the policeman minimizes that time Everybody knows positions of everybody else at any moment of time

@@ -1,0 +1,9 @@
+Balancer                    
+
+https://codeforces.com/problemset/problem/440/B
+
+greedy
+
+1600
+
+Petya has k matches, placed in n matchboxes lying in a line from left to right. We know that k is divisible by n. Petya wants all boxes to have the same number of matches inside. For that, he can move a match from its box to the adjacent one in one move. How many such moves does he need to achieve the desired configuration?

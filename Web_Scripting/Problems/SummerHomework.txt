@@ -1,0 +1,9 @@
+Summer Homework                    
+
+httpscodeforcescomproblemsetproblem316E2
+
+data structures
+
+2300
+
+By the age of three Smart Beaver mastered all arithmetic operations and got this summer homework from the amazed teacherYou are given a sequence of integers a1a2an Your task is to perform on it m consecutive operations of the following type  For given numbers xi and vi assign value vi to element axi  For given numbers li and ri youve got to calculate sum  where f0f11 and at i2 fifi1fi2  For a group of three numbers li ri di you should increase value ax by di for all x lixri Smart Beaver planned a tour around great Canadian lakes so he asked you to help him solve the given problem

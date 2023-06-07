@@ -1,0 +1,9 @@
+Blown Garland                    
+
+https://codeforces.com/problemset/problem/758/B
+
+brute force
+
+1100
+
+Nothing is eternal in the world, Kostya understood it on the 7-th of January when he saw partially dead four-color garland.Now he has a goal to replace dead light bulbs, however he doesn't know how many light bulbs for each color are required. It is guaranteed that for each of four colors at least one light is working.It is known that the garland contains light bulbs of four colors: red, blue, yellow and green. The garland is made as follows: if you take any four consecutive light bulbs then there will not be light bulbs with the same color among them. For example, the garland can look like "RYBGRYBGRY", "YBGRYBGRYBG", "BGRYB", but can not look like "BGRYG", "YBGRYBYGR" or "BGYBGY". Letters denote colors: 'R' — red, 'B' — blue, 'Y' — yellow, 'G' — green.Using the information that for each color at least one light bulb still works count the number of dead light bulbs of each four colors.

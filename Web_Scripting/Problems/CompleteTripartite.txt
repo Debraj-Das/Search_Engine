@@ -1,0 +1,9 @@
+Complete Tripartite                    
+
+https://codeforces.com/problemset/problem/1228/D
+
+brute force
+
+1900
+
+You have a simple undirected graph consisting of n vertices and m edges. The graph doesn't contain self-loops, there is at most one edge between a pair of vertices. The given graph can be disconnected.Let's make a definition.Let v_1 and v_2 be two some nonempty subsets of vertices that do not intersect. Let f(v_{1}, v_{2}) be true if and only if all the conditions are satisfied:  There are no edges with both endpoints in vertex set v_1.  There are no edges with both endpoints in vertex set v_2.  For every two vertices x and y such that x is in v_1 and y is in v_2, there is an edge between x and y. Create three vertex sets (v_{1}, v_{2}, v_{3}) which satisfy the conditions below;  All vertex sets should not be empty.  Each vertex should be assigned to only one vertex set.  f(v_{1}, v_{2}), f(v_{2}, v_{3}), f(v_{3}, v_{1}) are all true. Is it possible to create such three vertex sets? If it's possible, print matching vertex set for each vertex.

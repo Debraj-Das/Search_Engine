@@ -1,0 +1,9 @@
+Nauuo and ODT                    
+
+https://codeforces.com/problemset/problem/1172/E
+
+data structures
+
+3300
+
+Nauuo is a girl who loves traveling.One day she went to a tree, Old Driver Tree, literally, a tree with an old driver on it.The tree is a connected graph consisting of n nodes and n-1 edges. Each node has a color, and Nauuo will visit the ODT through a simple path on the tree in the old driver's car.Nauuo wants to visit see more different colors in her journey, but she doesn't know which simple path she will be traveling on. So, she wants to calculate the sum of the numbers of different colors on all different paths. Can you help her?What's more, the ODT is being redecorated, so there will be m modifications, each modification will change a single node's color. Nauuo wants to know the answer after each modification too.Note that in this problem, we consider the simple path from u to v and the simple path from v to u as two different simple paths if and only if u\ne v.

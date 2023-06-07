@@ -1,0 +1,9 @@
+Sereja and Swaps                    
+
+httpscodeforcescomproblemsetproblem425A
+
+brute force
+
+1500
+
+As usual Sereja has array a its elements are integers a1a2an Lets introduce notationA swap operation is the following sequence of actions  choose two indexes ij ij  perform assignments tmpaiaiajajtmp What maximum value of function ma can Sereja get if he is allowed to perform at most k swap operations

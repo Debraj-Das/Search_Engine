@@ -1,0 +1,9 @@
+Another String Minimization Problem                    
+
+https://codeforces.com/problemset/problem/1706/A
+
+2-sat
+
+800
+
+You have a sequence a_1, a_2, \ldots, a_n of length n, consisting of integers between 1 and m. You also have a string s, consisting of m characters B.You are going to perform the following n operations.   At the i-th (1 \le i \le n) operation, you replace either the a_i-th or the (m + 1 - a_i)-th character of s with A. You can replace the character at any position multiple times through the operations. Find the lexicographically smallest string you can get after these operations.A string x is lexicographically smaller than a string y of the same length if and only if in the first position where x and y differ, the string x has a letter that appears earlier in the alphabet than the corresponding letter in y.

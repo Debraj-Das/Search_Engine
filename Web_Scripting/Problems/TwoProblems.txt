@@ -1,0 +1,9 @@
+Two Problems                    
+
+httpscodeforcescomproblemsetproblem203A
+
+brute force
+
+1200
+
+A boy Valera registered on site Codeforces as Valera and wrote his first Codeforces Round 300 He boasted to a friend Arkady about winning as much as x points for his first contest But Arkady did not believe his friends words and decided to check whether Valera could have shown such a resultHe knows that the contest number 300 was unusual because there were only two problems The contest lasted for t minutes the minutes are numbered starting from zero The first problem had the initial cost of a points and every minute its cost reduced by da points The second problem had the initial cost of b points and every minute this cost reduced by db points Thus as soon as the zero minute of the contest is over the first problem will cost ada points and the second problem will cost bdb points It is guaranteed that at any moment of the contest each problem has a nonnegative costArkady asks you to find out whether Valera could have got exactly x points for this contest You should assume that Valera could have solved any number of the offered problems You should also assume that for each problem Valera made no more than one attempt besides he could have submitted both problems at the same minute of the contest starting with minute 0 and ending with minute number t1 Please note that Valera cant submit a solution exactly t minutes after the start of the contest or later

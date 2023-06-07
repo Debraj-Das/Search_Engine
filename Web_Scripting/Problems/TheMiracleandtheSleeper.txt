@@ -1,0 +1,9 @@
+The Miracle and the Sleeper                    
+
+https://codeforces.com/problemset/problem/1562/A
+
+greedy
+
+800
+
+You are given two integers l and r, l\le r. Find the largest possible value of a \bmod b over all pairs (a, b) of integers for which r\ge a \ge b \ge l.As a reminder, a \bmod b is a remainder we get when dividing a by b. For example, 26 \bmod 8 = 2.

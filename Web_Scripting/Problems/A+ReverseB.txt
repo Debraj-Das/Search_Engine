@@ -1,0 +1,9 @@
+A + Reverse B                    
+
+https://codeforces.com/problemset/problem/188/B
+
+*special problem
+
+1300
+
+You are given numbers a and b. Calculate the sum of a and reverse of b. A reverse of a number is a number which contains the same digits in reverse order. For example, reverse of 230 is 32, and reverse of 0 is 0.

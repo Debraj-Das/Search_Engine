@@ -1,0 +1,9 @@
+Little Pony and Sort by Shift                    
+
+httpscodeforcescomproblemsetproblem454B
+
+implementation
+
+1200
+
+One day Twilight Sparkle is interested in how to sort a sequence of integers a1a2an in nondecreasing order Being a young unicorn the only operation she can perform is a unit shift That is she can move the last element of the sequence to its beginninga1a2anana1a2an1 Help Twilight Sparkle to calculate what is the minimum number of operations that she needs to sort the sequence

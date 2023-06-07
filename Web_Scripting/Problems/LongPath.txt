@@ -1,0 +1,9 @@
+Long Path                    
+
+httpscodeforcescomproblemsetproblem407B
+
+dp
+
+1600
+
+One day little Vasya found himself in a maze consisting of n1 rooms numbered from 1 to n1 Initially Vasya is at the first room and to get out of the maze he needs to get to the n1th oneThe maze is organized as follows Each room of the maze has two oneway portals Lets consider room number i 1in someone can use the first portal to move from it to room number i1 also someone can use the second portal to move from it to room number pi where 1piiIn order not to get lost Vasya decided to act as follows   Each time Vasya enters some room he paints a cross on its ceiling Initially Vasya paints a cross at the ceiling of room 1  Lets assume that Vasya is in room i and has already painted a cross on its ceiling Then if the ceiling now contains an odd number of crosses Vasya uses the second portal it leads to room pi otherwise Vasya uses the first portal Help Vasya determine the number of times he needs to use portals to get to room n1 in the end

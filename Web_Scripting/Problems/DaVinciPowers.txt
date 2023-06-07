@@ -1,0 +1,9 @@
+Da Vinci Powers                    
+
+httpscodeforcescomproblemsetproblem656A
+
+special problem
+
+1900
+
+InputThe input contains a single integer a 0a35OutputOutput a single integerExamplesInput3Output8Input10Output1024

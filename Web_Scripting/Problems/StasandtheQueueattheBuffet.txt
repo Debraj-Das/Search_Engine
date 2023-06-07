@@ -1,0 +1,9 @@
+Stas and the Queue at the Buffet                    
+
+https://codeforces.com/problemset/problem/1151/D
+
+greedy
+
+1600
+
+During a break in the buffet of the scientific lyceum of the Kingdom of Kremland, there was formed a queue of n high school students numbered from 1 to n. Initially, each student i is on position i. Each student i is characterized by two numbers — a_i and b_i. Dissatisfaction of the person i equals the product of a_i by the number of people standing to the left of his position, add the product b_i by the number of people standing to the right of his position. Formally, the dissatisfaction of the student i, which is on the position j, equals a_i \cdot (j-1) + b_i \cdot (n-j).The director entrusted Stas with the task: rearrange the people in the queue so that minimize the total dissatisfaction.Although Stas is able to solve such problems, this was not given to him. He turned for help to you.

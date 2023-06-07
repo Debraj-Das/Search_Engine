@@ -1,0 +1,9 @@
+Cupboards Jumps                    
+
+https://codeforces.com/problemset/problem/1500/F
+
+dp
+
+3500
+
+In the house where Krosh used to live, he had n cupboards standing in a line, the i-th cupboard had the height of h_i. Krosh moved recently, but he wasn't able to move the cupboards with him. Now he wants to buy n new cupboards so that they look as similar to old ones as possible.Krosh does not remember the exact heights of the cupboards, but for every three consecutive cupboards he remembers the height difference between the tallest and the shortest of them. In other words, if the cupboards' heights were h_1, h_2, \ldots, h_n, then Krosh remembers the values w_i = \max(h_{i}, h_{i + 1}, h_{i + 2}) - \min(h_{i}, h_{i + 1}, h_{i + 2}) for all 1 \leq i \leq n - 2.Krosh wants to buy such n cupboards that all the values w_i remain the same. Help him determine the required cupboards' heights, or determine that he remembers something incorrectly and there is no suitable sequence of heights.

@@ -1,0 +1,9 @@
+Mr Bender and Square                    
+
+httpscodeforcescomproblemsetproblem255D
+
+binary search
+
+1800
+
+Mr Bender has a digital table of size nn each cell can be switched on or off He wants the field to have at least c switched on squares When this condition is fulfilled Mr Bender will be happyWell consider the table rows numbered from top to bottom from 1 to n and the columns  numbered from left to right from 1 to n Initially there is exactly one switched on cell with coordinates xy x is the row number y is the column number and all other cells are switched off Then each second we switch on the cells that are off but have the sideadjacent cells that are onFor a cell with coordinates xy the sideadjacent cells are cells with coordinates x1y x1y xy1 xy1In how many seconds will Mr Bender get happy

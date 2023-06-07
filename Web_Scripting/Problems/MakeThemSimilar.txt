@@ -1,0 +1,9 @@
+Make Them Similar                    
+
+https://codeforces.com/problemset/problem/1257/F
+
+bitmasks
+
+2400
+
+Let's call two numbers similar if their binary representations contain the same number of digits equal to 1. For example:  2 and 4 are similar (binary representations are 10 and 100);  1337 and 4213 are similar (binary representations are 10100111001 and 1000001110101);  3 and 2 are not similar (binary representations are 11 and 10);  42 and 13 are similar (binary representations are 101010 and 1101). You are given an array of n integers a_1, a_2, ..., a_n. You may choose a non-negative integer x, and then get another array of n integers b_1, b_2, ..., b_n, where b_i = a_i \oplus x (\oplus denotes bitwise XOR).Is it possible to obtain an array b where all numbers are similar to each other?

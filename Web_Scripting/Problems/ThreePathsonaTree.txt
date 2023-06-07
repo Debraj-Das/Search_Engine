@@ -1,0 +1,9 @@
+Three Paths on a Tree                    
+
+https://codeforces.com/problemset/problem/1294/F
+
+dfs and similar
+
+2000
+
+You are given an unweighted tree with n vertices. Recall that a tree is a connected undirected graph without cycles.Your task is to choose three distinct vertices a, b, c on this tree such that the number of edges which belong to at least one of the simple paths between a and b, b and c, or a and c is the maximum possible. See the notes section for a better understanding.The simple path is the path that visits each vertex at most once.

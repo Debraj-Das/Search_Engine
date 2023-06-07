@@ -1,0 +1,9 @@
+Proper Nutrition                    
+
+httpscodeforcescomproblemsetproblem898B
+
+brute force
+
+1100
+
+Vasya has n burles One bottle of BerCola costs a burles and one Bars bar costs b burles He can buy any nonnegative integer number of bottles of BerCola and any nonnegative integer number of Bars barsFind out if its possible to buy some amount of bottles of BerCola and Bars bars and spend exactly n burlesIn other words you should find two nonnegative integers x and y such that Vasya can buy x bottles of BerCola and y Bars bars and xaybn or tell that its impossible

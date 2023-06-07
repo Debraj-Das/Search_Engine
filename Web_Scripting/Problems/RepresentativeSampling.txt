@@ -1,0 +1,9 @@
+Representative Sampling                    
+
+httpscodeforcescomproblemsetproblem178F3
+
+
+
+2500
+
+The Smart Beaver from ABBYY has a long history of cooperating with the Institute of Cytology and Genetics Recently the Institute staff challenged the Beaver with a new problem The problem is as followsThere is a collection of n proteins not necessarily distinct Each protein is a string consisting of lowercase Latin letters The problem that the scientists offered to the Beaver is to select a subcollection of size k from the initial collection of proteins so that the representativity of the selected subset of proteins is maximum possibleThe Smart Beaver from ABBYY did some research and came to the conclusion that the representativity of a collection of proteins can be evaluated by a single number which is simply calculated Lets suppose we have a collection a1ak consisting of k strings describing proteins The representativity of this collection is the following value where fxy is the length of the longest common prefix of strings x and y for example fabc abd2 and fab bcd0Thus the representativity of collection of proteins abc abd abe equals 6 and the representativity of collection aaa ba ba equals 2Having discovered that the Smart Beaver from ABBYY asked the Cup contestants to write a program that selects from the given collection of proteins a subcollection of size k which has the largest possible value of representativity Help him to solve this problem

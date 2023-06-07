@@ -1,0 +1,9 @@
+Edge Queries                    
+
+https://codeforces.com/problemset/problem/1763/F
+
+data structures
+
+3000
+
+You are given an undirected, connected graph of n nodes and m edges. All nodes u of the graph satisfy the following:  Let S_u be the set of vertices in the longest simple cycle starting and ending at u.  Let C_u be the union of the sets of vertices in any simple cycle starting and ending at u.  S_u = C_u. You need to answer q queries.For each query, you will be given node a and node b. Out of all the edges that belong to any simple path from a to b, count the number of edges such that if you remove that edge, a and b are reachable from each other.

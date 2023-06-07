@@ -1,0 +1,9 @@
+FiveInaRow                    
+
+httpscodeforcescomproblemsetproblem825B
+
+brute force
+
+1600
+
+Alice and Bob play 5inarow game They have a playing field of size 1010 In turns they put either crosses or noughts one at a time Alice puts crosses and Bob puts noughtsIn current match they have made some turns and now its Alices turn She wonders if she can put cross in such empty cell that she wins immediatelyAlice wins if some crosses in the field form line of length not smaller than 5 This line can be horizontal vertical and diagonal

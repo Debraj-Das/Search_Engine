@@ -1,0 +1,9 @@
+MEX vs MED                    
+
+https://codeforces.com/problemset/problem/1744/F
+
+math
+
+2000
+
+You are given a permutation p_1, p_2, \ldots, p_n of length n of numbers 0, \ldots, n - 1. Count the number of subsegments 1 \leq l \leq r \leq n of this permutation such that mex(p_l, p_{l+1}, \ldots, p_r) > med(p_l, p_{l+1}, \ldots, p_r).mex of S is the smallest non-negative integer that does not occur in S. For example: mex({0, 1, 2, 3}) = 4 mex({0, 4, 1, 3}) = 2 mex({5, 4, 0, 1, 2}) = 3med of the set S is the median of the set, i.e. the element that, after sorting the elements in non-decreasing order, will be at position number \left \lfloor{ \frac{|S| + 1}{2} } \right \rfloor (array elements are numbered starting from 1 and here \left \lfloor{v} \right \rfloor denotes rounding v down.). For example: med({0, 1, 2, 3}) = 1 med({0, 4, 1, 3}) = 1 med({5, 4, 0, 1, 2}) = 2A sequence of n numbers is called a permutation if it contains all the numbers from 0 to n - 1 exactly once.

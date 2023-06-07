@@ -1,0 +1,9 @@
+Hossam and Friends                    
+
+https://codeforces.com/problemset/problem/1771/B
+
+binary search
+
+1400
+
+Hossam makes a big party, and he will invite his friends to the party.He has n friends numbered from 1 to n. They will be arranged in a queue as follows: 1, 2, 3, \ldots, n.Hossam has a list of m pairs of his friends that don't know each other. Any pair not present in this list are friends.A subsegment of the queue starting from the friend a and ending at the friend b is [a, a + 1, a + 2, \ldots, b]. A subsegment of the queue is called good when all pairs of that segment are friends.Hossam wants to know how many pairs (a, b) there are (1 \le a \le b \le n), such that the subsegment starting from the friend a and ending at the friend b is good.

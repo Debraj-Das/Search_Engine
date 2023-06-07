@@ -1,0 +1,9 @@
+Yet Another Meme Problem                    
+
+https://codeforces.com/problemset/problem/1288/B
+
+math
+
+1100
+
+You are given two integers A and B, calculate the number of pairs (a, b) such that 1 \le a \le A, 1 \le b \le B, and the equation a \cdot b + a + b = conc(a, b) is true; conc(a, b) is the concatenation of a and b (for example, conc(12, 23) = 1223, conc(100, 11) = 10011). a and b should not contain leading zeroes.

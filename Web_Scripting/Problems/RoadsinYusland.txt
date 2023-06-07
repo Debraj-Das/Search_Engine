@@ -1,0 +1,9 @@
+Roads in Yusland                    
+
+httpscodeforcescomproblemsetproblem671D
+
+data structures
+
+2900
+
+Mayor of Yusland just won the lottery and decided to spent money on something good for town For example repair all the roads in the townYusland consists of n intersections connected by n1 bidirectional roads One can travel from any intersection to any other intersection using only these roadsThere is only one road repairing company in town named RC company Companys center is located at the intersection 1 RC company doesnt repair roads you tell them Instead they have workers at some intersections who can repair only some specific paths The ith worker can be paid ci coins and then he repairs all roads on a path from ui to some vi that lies on the path from ui to intersection 1 Mayor asks you to choose the cheapest way to hire some subset of workers in order to repair all the roads in Yusland Its allowed that some roads will be repaired more than onceIf its impossible to repair all roads print 1

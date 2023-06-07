@@ -1,0 +1,9 @@
+Inna and Pink Pony                    
+
+httpscodeforcescomproblemsetproblem374A
+
+greedy
+
+2000
+
+Dima and Inna are doing so great At the moment Inna is sitting on the magic lawn playing with a pink pony Dima wanted to play too He brought an nm chessboard a very tasty candy and two numbers a and bDima put the chessboard in front of Inna and placed the candy in position ij on the board The boy said he would give the candy if it reaches one of the corner cells of the board Hes got one more condition There can only be actions of the following types  move the candy from position xy on the board to position xayb  move the candy from position xy on the board to position xayb  move the candy from position xy on the board to position xayb  move the candy from position xy on the board to position xayb Naturally Dima doesnt allow to move the candy beyond the chessboard bordersInna and the pony started shifting the candy around the board They wonder what is the minimum number of allowed actions that they need to perform to move the candy from the initial position ij to one of the chessboard corners Help them cope with the task 

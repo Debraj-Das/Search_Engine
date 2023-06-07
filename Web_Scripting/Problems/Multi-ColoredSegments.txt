@@ -1,0 +1,9 @@
+Multi-Colored Segments                    
+
+https://codeforces.com/problemset/problem/1741/F
+
+binary search
+
+2000
+
+Dmitry has n segments of different colors on the coordinate axis Ox. Each segment is characterized by three integers l_i, r_i and c_i (1 \le l_i \le r_i \le 10^9, 1 \le c_i \le n), where l_i and r_i are are the coordinates of the ends of the i-th segment, and c_i is its color.Dmitry likes to find the minimum distances between segments. However, he considers pairs of segments of the same color uninteresting. Therefore, he wants to know for each segment the distance from this segment to the nearest differently colored segment.The distance between two segments is the minimum of the distances between a point of the first segment and a point of the second segment. In particular, if the segments intersect, then the distance between them is equal to 0.For example, Dmitry has 5 segments:    The first segment intersects with the second (and these are segments of different colors), so the answers for them are equal to 0.  For the 3-rd segment, the nearest segment of a different color is the 2-nd segment, the distance to which is equal to 2.  For the 4-th segment, the nearest segment of a different color is the 5-th segment, the distance to which is equal to 1.  The 5-th segment lies inside the 2-nd segment (and these are segments of different colors), so the answers for them are equal to 0. 

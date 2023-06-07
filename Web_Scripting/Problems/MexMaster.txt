@@ -1,0 +1,9 @@
+Mex Master                    
+
+https://codeforces.com/problemset/problem/1806/B
+
+constructive algorithms
+
+900
+
+You are given an array a of length n. The score of a is the MEX^{\dagger} of [a_1+a_2,a_2+a_3,\ldots,a_{n-1}+a_n]. Find the minimum score of a if you are allowed to rearrange elements of a in any order. Note that you are not required to construct the array a that achieves the minimum score.^{\dagger} The MEX (minimum excluded) of an array is the smallest non-negative integer that does not belong to the array. For instance:  The MEX of [2,2,1] is 0, because 0 does not belong to the array.  The MEX of [3,1,0,1] is 2, because 0 and 1 belong to the array, but 2 does not.  The MEX of [0,3,1,2] is 4 because 0, 1, 2, and 3 belong to the array, but 4 does not. 

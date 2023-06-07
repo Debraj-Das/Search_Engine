@@ -1,0 +1,9 @@
+New Year and Boolean Bridges                    
+
+httpscodeforcescomproblemsetproblem908H
+
+
+
+3100
+
+Your friend has a hidden directed graph with n nodesLet fuv be true if there is a directed path from node u to node v and false otherwise For each pair of distinct nodes uv you know at least one of the three statements is true        Here AND OR and XOR mean AND OR and exclusive OR operations respectivelyYou are given an n by n matrix saying which one of the three statements holds for each pair of vertices The entry in the uth row and vth column has a single character   If the first statement holds this is represented by the character A  If the second holds this is represented by the character O  If the third holds this is represented by the character X  The diagonal of this matrix will only contain the character  Note that it is possible that a pair of nodes may satisfy multiple statements in which case the character given will represent one of the true statements for that pair This matrix is also guaranteed to be symmetricYou would like to know if there is a directed graph that is consistent with this matrix If it is impossible print the integer 1 Otherwise print the minimum number of edges that could be consistent with this information

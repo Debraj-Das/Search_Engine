@@ -1,0 +1,9 @@
+Two Policemen                    
+
+https://codeforces.com/problemset/problem/1488/C
+
+*special problem
+
+1900
+
+There is a street that can be represented as an array of length n.There are two policemen patrolling a street: the first one is standing at the point x of the street and the second one is standing at the point y of the street.During one minute, both policemen can decide what to do (independently): move left (if the current position is greater than 1), move right (if the current position is less than n), or do nothing.The street is considered clear if each point of the street is visited by at least one policeman.Your task is to find the minimum number of minutes the policemen need to visit each point of the street (again, each point should be visited by at least one of them).You have to answer t independent test cases.

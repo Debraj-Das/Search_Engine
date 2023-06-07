@@ -1,0 +1,9 @@
+Almost Permutation                    
+
+httpscodeforcescomproblemsetproblem863F
+
+flows
+
+2200
+
+Recently Ivan noticed an array a while debugging his code Now Ivan cant remember this array but the bug he was trying to fix didnt go away so Ivan thinks that the data from this array might help him to reproduce the bugIvan clearly remembers that there were n elements in the array and each element was not less than 1 and not greater than n Also he remembers q facts about the array There are two types of facts that Ivan remembers  1 li ri vi  for each x such that lixri axvi  2 li ri vi  for each x such that lixri axvi Also Ivan thinks that this array was a permutation but he is not so sure about it He wants to restore some array that corresponds to the q facts that he remembers and is very similar to permutation Formally Ivan has denoted the cost of array as follows where cnti is the number of occurences of i in the arrayHelp Ivan to determine minimum possible cost of the array that corresponds to the facts

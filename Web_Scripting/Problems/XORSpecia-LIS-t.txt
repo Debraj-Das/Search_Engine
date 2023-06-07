@@ -1,0 +1,9 @@
+XOR Specia-LIS-t                    
+
+https://codeforces.com/problemset/problem/1604/B
+
+
+
+1100
+
+YouKn0wWho has an integer sequence a_1, a_2, \ldots a_n. Now he will split the sequence a into one or more consecutive subarrays so that each element of a belongs to exactly one subarray. Let k be the number of resulting subarrays, and h_1, h_2, \ldots, h_k be the lengths of the longest increasing subsequences of corresponding subarrays.For example, if we split [2, 5, 3, 1, 4, 3, 2, 2, 5, 1] into [2, 5, 3, 1, 4], [3, 2, 2, 5], [1], then h = [3, 2, 1].YouKn0wWho wonders if it is possible to split the sequence a in such a way that the bitwise XOR of h_1, h_2, \ldots, h_k is equal to 0. You have to tell whether it is possible.The longest increasing subsequence (LIS) of a sequence b_1, b_2, \ldots, b_m is the longest sequence of valid indices i_1, i_2, \ldots, i_k such that i_1 \lt i_2 \lt \ldots \lt i_k and b_{i_1} \lt b_{i_2} \lt \ldots \lt b_{i_k}. For example, the LIS of [2, 5, 3, 3, 5] is [2, 3, 5], which has length 3.An array c is a subarray of an array b if c can be obtained from b by deletion of several (possibly, zero or all) elements from the beginning and several (possibly, zero or all) elements from the end.

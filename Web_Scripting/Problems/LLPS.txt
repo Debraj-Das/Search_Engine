@@ -1,0 +1,9 @@
+LLPS                    
+
+httpscodeforcescomproblemsetproblem202A
+
+binary search
+
+800
+
+This problems actual name Lexicographically Largest Palindromic Subsequence is too long to fit into the page headlineYou are given string s consisting of lowercase English letters only Find its lexicographically largest palindromic subsequenceWell call a nonempty string sp1p2 pk  sp1sp2 spk 1  p1p2pk  s a subsequence of string s  s1s2 ss where s is the length of string s For example strings abcb b and abacaba are subsequences of string abacabaString x  x1x2 xx is lexicographically larger than string y  y1y2 yy if either x  y and x1y1 x2y2 xyyy or there exists such number r rx ry that x1y1 x2y2  xryr and xr1yr1 Characters in the strings are compared according to their ASCII codes For example string ranger is lexicographically larger than string racecar and string poster is lexicographically larger than string postString s  s1s2 ss is a palindrome if it matches string revs  ssss1 s1 In other words a string is a palindrome if it reads the same way from left to right and from right to left For example palindromic strings are racecar refer and z

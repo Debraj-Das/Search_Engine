@@ -1,0 +1,9 @@
+Maxim and Matrix                    
+
+httpscodeforcescomproblemsetproblem261C
+
+constructive algorithms
+
+2000
+
+Maxim loves to fill in a matrix in a special manner Here is a pseudocode of filling in a matrix of size m1m1Maxim asks you to count how many numbers m 1mn are there such that the sum of values in the cells in the row number m1 of the resulting matrix equals tExpression x xor y means applying the operation of bitwise excluding OR to numbers x and y The given operation exists in all modern programming languages For example in languages C and Java it is represented by character  in Pascal  by xor

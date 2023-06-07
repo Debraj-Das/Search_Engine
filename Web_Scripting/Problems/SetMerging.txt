@@ -1,0 +1,9 @@
+Set Merging                    
+
+https://codeforces.com/problemset/problem/1375/H
+
+constructive algorithms
+
+3300
+
+You are given a permutation a_1, a_2, \dots, a_n of numbers from 1 to n. Also, you have n sets S_1,S_2,\dots, S_n, where S_i=\{a_i\}. Lastly, you have a variable cnt, representing the current number of sets. Initially, cnt = n.We define two kinds of functions on sets:f(S)=\min\limits_{u\in S} u;g(S)=\max\limits_{u\in S} u.You can obtain a new set by merging two sets A and B, if they satisfy g(A)<f(B) (Notice that the old sets do not disappear).Formally, you can perform the following sequence of operations:cnt\gets cnt+1;S_{cnt}=S_u\cup S_v, you are free to choose u and v for which 1\le u, v < cnt and which satisfy g(S_u)<f(S_v).You are required to obtain some specific sets.There are q requirements, each of which contains two integers l_i,r_i, which means that there must exist a set S_{k_i} (k_i is the ID of the set, you should determine it) which equals \{a_u\mid l_i\leq u\leq r_i\}, which is, the set consisting of all a_i with indices between l_i and r_i.In the end you must ensure that cnt\leq 2.2\times 10^6. Note that you don't have to minimize cnt. It is guaranteed that a solution under given constraints exists.

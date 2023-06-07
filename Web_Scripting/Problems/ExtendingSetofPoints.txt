@@ -1,0 +1,9 @@
+Extending Set of Points                    
+
+https://codeforces.com/problemset/problem/1140/F
+
+data structures
+
+2600
+
+For a given set of two-dimensional points S, let's denote its extension E(S) as the result of the following algorithm:Create another set of two-dimensional points R, which is initially equal to S. Then, while there exist four numbers x_1, y_1, x_2 and y_2 such that (x_1, y_1) \in R, (x_1, y_2) \in R, (x_2, y_1) \in R and (x_2, y_2) \notin R, add (x_2, y_2) to R. When it is impossible to find such four integers, let R be the result of the algorithm.Now for the problem itself. You are given a set of two-dimensional points S, which is initially empty. You have to process two types of queries: add some point to S, or remove some point from it. After each query you have to compute the size of E(S).

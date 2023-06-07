@@ -1,0 +1,9 @@
+Two strings                    
+
+https://codeforces.com/problemset/problem/762/C
+
+binary search
+
+2100
+
+You are given two strings a and b. You have to remove the minimum possible number of consecutive (standing one after another) characters from string b in such a way that it becomes a subsequence of string a. It can happen that you will not need to remove any characters at all, or maybe you will have to remove all of the characters from b and make it empty.Subsequence of string s is any such string that can be obtained by erasing zero or more characters (not necessarily consecutive) from string s.

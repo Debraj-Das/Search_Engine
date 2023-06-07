@@ -1,0 +1,9 @@
+Sports Betting                    
+
+https://codeforces.com/problemset/problem/1556/F
+
+bitmasks
+
+2500
+
+  William is not only interested in trading but also in betting on sports matches. n teams participate in each match. Each team is characterized by strength a_i. Each two teams i < j play with each other exactly once. Team i wins with probability \frac{a_i}{a_i + a_j} and team j wins with probability \frac{a_j}{a_i + a_j}.The team is called a winner if it directly or indirectly defeated all other teams. Team a defeated (directly or indirectly) team b if there is a sequence of teams c_1, c_2, ... c_k such that c_1 = a, c_k = b and team c_i defeated team c_{i + 1} for all i from 1 to k - 1. Note that it is possible that team a defeated team b and in the same time team b defeated team a.William wants you to find the expected value of the number of winners.

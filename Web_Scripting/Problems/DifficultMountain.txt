@@ -1,0 +1,9 @@
+Difficult Mountain                    
+
+https://codeforces.com/problemset/problem/1601/D
+
+data structures
+
+2700
+
+A group of n alpinists has just reached the foot of the mountain. The initial difficulty of climbing this mountain can be described as an integer d.Each alpinist can be described by two integers s and a, where s is his skill of climbing mountains and a is his neatness.An alpinist of skill level s is able to climb a mountain of difficulty p only if p \leq s. As an alpinist climbs a mountain, they affect the path and thus may change mountain difficulty. Specifically, if an alpinist of neatness a climbs a mountain of difficulty p the difficulty of this mountain becomes \max(p, a). Alpinists will climb the mountain one by one. And before the start, they wonder, what is the maximum number of alpinists who will be able to climb the mountain if they choose the right order. As you are the only person in the group who does programming, you are to answer the question.Note that after the order is chosen, each alpinist who can climb the mountain, must climb the mountain at that time. 

@@ -1,0 +1,9 @@
+Number of Ways                    
+
+httpscodeforcescomproblemsetproblem466C
+
+binary search
+
+1700
+
+Youve got array a1a2an consisting of n integers Count the number of ways to split all the elements of the array into three contiguous parts so that the sum of elements in each part is the same More formally you need to find the number of such pairs of indices ij 2ijn1 that 

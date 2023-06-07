@@ -1,0 +1,9 @@
+Phoenix and Gold                    
+
+https://codeforces.com/problemset/problem/1515/A
+
+constructive algorithms
+
+800
+
+Phoenix has collected n pieces of gold, and he wants to weigh them together so he can feel rich. The i-th piece of gold has weight w_i. All weights are distinct. He will put his n pieces of gold on a weight scale, one piece at a time. The scale has an unusual defect: if the total weight on it is exactly x, it will explode. Can he put all n gold pieces onto the scale in some order, without the scale exploding during the process? If so, help him find some possible order. Formally, rearrange the array w so that for each i (1 \le i \le n), \sum\limits_{j = 1}^{i}w_j \ne x.

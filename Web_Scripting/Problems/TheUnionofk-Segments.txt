@@ -1,0 +1,9 @@
+The Union of k-Segments                    
+
+https://codeforces.com/problemset/problem/612/D
+
+greedy
+
+1800
+
+You are given n segments on the coordinate axis Ox and the number k. The point is satisfied if it belongs to at least k segments. Find the smallest (by the number of segments) set of segments on the coordinate axis Ox which contains all satisfied points and no others.

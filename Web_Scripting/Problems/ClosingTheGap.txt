@@ -1,0 +1,9 @@
+Closing The Gap                    
+
+https://codeforces.com/problemset/problem/1615/A
+
+greedy
+
+800
+
+There are n block towers in a row, where tower i has a height of a_i. You're part of a building crew, and you want to make the buildings look as nice as possible. In a single day, you can perform the following operation:  Choose two indices i and j (1 \leq i, j \leq n; i \neq j), and move a block from tower i to tower j. This essentially decreases a_i by 1 and increases a_j by 1. You think the ugliness of the buildings is the height difference between the tallest and shortest buildings. Formally, the ugliness is defined as \max(a)-\min(a). What's the minimum possible ugliness you can achieve, after any number of days?

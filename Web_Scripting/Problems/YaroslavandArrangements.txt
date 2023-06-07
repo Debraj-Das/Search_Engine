@@ -1,0 +1,9 @@
+Yaroslav and Arrangements                    
+
+httpscodeforcescomproblemsetproblem301E
+
+dp
+
+2800
+
+Yaroslav calls an array of r integers a1a2ar good if it meets the following conditions a1a21a2a31ar1ar1ara11 at that  An array of integers b1b2br is called great if it meets the following conditions  The elements in it do not decrease bibi1  If the inequalities 1rn and 1bim hold  If we can rearrange its elements and get at least one and at most k distinct good arrays Yaroslav has three integers nmk He needs to count the number of distinct great arrays Help Yaroslav As the answer may be rather large print the remainder after dividing it by 1000000007 1097Two arrays are considered distinct if there is a position in which they have distinct numbers

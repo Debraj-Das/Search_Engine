@@ -1,0 +1,9 @@
+Hidden Permutations                    
+
+https://codeforces.com/problemset/problem/1621/C
+
+dfs and similar
+
+1700
+
+This is an interactive problem.The jury has a permutation p of length n and wants you to guess it. For this, the jury created another permutation q of length n. Initially, q is an identity permutation (q_i = i for all i).You can ask queries to get q_i for any i you want. After each query, the jury will change q in the following way:   At first, the jury will create a new permutation q' of length n such that q'_i = q_{p_i} for all i.  Then the jury will replace permutation q with pemutation q'. You can make no more than 2n queries in order to quess p.

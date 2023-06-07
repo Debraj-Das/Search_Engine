@@ -1,0 +1,9 @@
+Takeoff Ramps                    
+
+httpscodeforcescomproblemsetproblem141D
+
+graphs
+
+2300
+
+Vasya participates in a ski race along the X axis The start is at point 0 and the finish is at L that is at a distance L meters from the start in the positive direction of the axis Vasya has been training so hard that he can run one meter in exactly one secondBesides there are n takeoff ramps on the track each ramp is characterized by four numbers   xi represents the ramps coordinate  di represents from how many meters Vasya will land if he goes down this ramp  ti represents the flight time in seconds  pi is the number indicating for how many meters Vasya should gather speed to get ready and fly off the ramp As Vasya gathers speed he should ski on the snow that is he should not be flying but his speed still equals one meter per second Vasya is allowed to move in any direction on the X axis but he is prohibited to cross the start line that is go to the negative semiaxis Vasya himself chooses which takeoff ramps he will use and in what order that is he is not obliged to take off from all the ramps he encounters Specifically Vasya can skip the ramp It is guaranteed that xidiL that is Vasya cannot cross the finish line in flightVasya can jump from the ramp only in the positive direction of X axis More formally when using the ith ramp Vasya starts gathering speed at point xipi jumps at point xi and lands at point xidi He cannot use the ramp in opposite directionYour task is to find the minimum time that Vasya will spend to cover the distance

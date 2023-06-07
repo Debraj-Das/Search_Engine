@@ -1,0 +1,9 @@
+Armistice Area Apportionment                    
+
+httpscodeforcescomproblemsetproblem645G
+
+binary search
+
+3200
+
+After a drawnout mooclear arms race Farmer John and the Mischievous Mess Makers have finally agreed to establish peace They plan to divide the territory of Bovinia with a line passing through at least two of the n outposts scattered throughout the land These outposts remnants of the conflict are located at the points x1y1x2y2xnynIn order to find the optimal dividing line Farmer John and Elsie have plotted a map of Bovinia on the coordinate plane Farmer Johns farm and the Mischievous Mess Makers base are located at the points Pa0 and Qa0 respectively Because they seek a lasting peace Farmer John and Elsie would like to minimize the maximum difference between the distances from any point on the line to P and QFormally define the difference of a line  relative to two points P and Q as the smallest real number d so that for all points X on line  PXQXd It is guaranteed that d exists and is unique They wish to find the line  passing through two distinct outposts xiyi and xjyj such that the difference of  relative to P and Q is minimized

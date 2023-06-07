@@ -1,0 +1,9 @@
+Security System                    
+
+httpscodeforcescomproblemsetproblem79E
+
+math
+
+2900
+
+Fox Ciel safely returned to her castle but there was something wrong with the security system of the castle sensors attached in the castle were covering herCiel is at point 11 of the castle now and wants to move to point nn which is the position of her room By one step Ciel can move from point xy to either x1y rightward or xy1 upwardIn her castle c2 sensors are set at points aibj for every integer i and j such that 0ic0jcEach sensor has a count value and decreases its count value every time Ciel moves Initially the count value of each sensor is t Every time Ciel moves to point xy the count value of a sensor at point uv decreases by uxvy When the count value of some sensor becomes strictly less than 0 the sensor will catch Ciel as a suspicious individualDetermine whether Ciel can move from 11 to nn without being caught by a sensor and if it is possible output her steps Assume that Ciel can move to every point even if there is a censor on the point

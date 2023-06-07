@@ -1,0 +1,9 @@
+Yet Another Number Game                    
+
+httpscodeforcescomproblemsetproblem282D
+
+dp
+
+2100
+
+Since most contestants do not read this part I have to repeat that Bitlandians are quite weird They have their own jobs their own working method their own lives their own sausages and their own gamesSince you are so curious about Bitland Ill give you the chance of peeking at one of these gamesBitLGM and BitAryo are playing yet another of their crazylooking geniusneeded Bitlandish games Theyve got a sequence of n nonnegative integers a1a2an The players make moves in turns BitLGM moves first Each player can and must do one of the two following actions in his turn  Take one of the integers well denote it as ai Choose integer x 1xai And then decrease ai by x that is apply assignment aiaix  Choose integer x  And then decrease all ai by x that is apply assignment aiaix for all i The player who cannot make a move losesYoure given the initial sequence a1a2an Determine who wins if both players plays optimally well and if BitLGM and BitAryo start playing the described game in this sequence

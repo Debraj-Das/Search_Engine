@@ -1,0 +1,9 @@
+Inversion SwapSort                    
+
+https://codeforces.com/problemset/problem/1375/E
+
+constructive algorithms
+
+2500
+
+Madeline has an array a of n integers. A pair (u, v) of integers forms an inversion in a if:  1 \le u < v \le n.  a_u > a_v. Madeline recently found a magical paper, which allows her to write two indices u and v and swap the values a_u and a_v. Being bored, she decided to write a list of pairs (u_i, v_i) with the following conditions:  all the pairs in the list are distinct and form an inversion in a.  all the pairs that form an inversion in a are in the list.  Starting from the given array, if you swap the values at indices u_1 and v_1, then the values at indices u_2 and v_2 and so on, then after all pairs are processed, the array a will be sorted in non-decreasing order. Construct such a list or determine that no such list exists. If there are multiple possible answers, you may find any of them.

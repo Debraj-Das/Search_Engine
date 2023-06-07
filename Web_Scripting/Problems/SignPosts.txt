@@ -1,0 +1,9 @@
+Sign Posts                    
+
+httpscodeforcescomproblemsetproblem568D
+
+brute force
+
+2800
+
+One Khanate had a lot of roads and very little wood Riding along the roads was inconvenient because the roads did not have road signs indicating the direction to important citiesThe Han decided that its time to fix the issue and ordered to put signs on every road The Minister of Transport has to do that but he has only k signs Help the minister to solve his problem otherwise the poor guy can lose not only his position but also his headMore formally every road in the Khanate is a line on the Oxy plane given by an equation of the form AxByC0 A and B are not equal to 0 at the same time You are required to determine whether you can put signs in at most k points so that each road had at least one sign installed

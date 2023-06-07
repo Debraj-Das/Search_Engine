@@ -1,0 +1,9 @@
+Almost Ternary Matrix                    
+
+https://codeforces.com/problemset/problem/1699/B
+
+bitmasks
+
+900
+
+You are given two even integers n and m. Your task is to find any binary matrix a with n rows and m columns where every cell (i,j) has exactly two neighbours with a different value than a_{i,j}.Two cells in the matrix are considered neighbours if and only if they share a side. More formally, the neighbours of cell (x,y) are: (x-1,y), (x,y+1), (x+1,y) and (x,y-1).It can be proven that under the given constraints, an answer always exists.

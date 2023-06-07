@@ -1,0 +1,9 @@
+Family Photos                    
+
+httpscodeforcescomproblemsetproblem725F
+
+games
+
+2900
+
+Alice and Bonnie are sisters but they dont like each other very much So when some old family photos were found in the attic they started to argue about who should receive which photos In the end they decided that they would take turns picking photos Alice goes firstThere are n stacks of photos Each stack contains exactly two photos In each turn a player may take only a photo from the top of one of the stacksEach photo is described by two nonnegative integers a and b indicating that it is worth a units of happiness to Alice and b units of happiness to Bonnie Values of a and b might differ for different photosIts allowed to pass instead of taking a photo The game ends when all photos are taken or both players pass consecutivelyThe players dont act to maximize their own happiness Instead each player acts to maximize the amount by which her happiness exceeds her sisters Assuming both players play optimal find the difference between Alices and Bonnies happiness That is if theres a perfectlyplayed game such that Alice has x happiness and Bonnie has y happiness at the end you should print xy

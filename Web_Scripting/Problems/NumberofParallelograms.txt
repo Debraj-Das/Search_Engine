@@ -1,0 +1,9 @@
+Number of Parallelograms                    
+
+https://codeforces.com/problemset/problem/660/D
+
+geometry
+
+1900
+
+You are given n points on a plane. All the points are distinct and no three of them lie on the same line. Find the number of parallelograms with the vertices at the given points.

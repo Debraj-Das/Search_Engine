@@ -1,0 +1,9 @@
+Colored Rectangles                    
+
+https://codeforces.com/problemset/problem/1398/D
+
+dp
+
+1800
+
+You are given three multisets of pairs of colored sticks:   R pairs of red sticks, the first pair has length r_1, the second pair has length r_2, \dots, the R-th pair has length r_R;  G pairs of green sticks, the first pair has length g_1, the second pair has length g_2, \dots, the G-th pair has length g_G;  B pairs of blue sticks, the first pair has length b_1, the second pair has length b_2, \dots, the B-th pair has length b_B; You are constructing rectangles from these pairs of sticks with the following process:   take a pair of sticks of one color;  take a pair of sticks of another color different from the first one;  add the area of the resulting rectangle to the total area. Thus, you get such rectangles that their opposite sides are the same color and their adjacent sides are not the same color.Each pair of sticks can be used at most once, some pairs can be left unused. You are not allowed to split a pair into independent sticks.What is the maximum area you can achieve?

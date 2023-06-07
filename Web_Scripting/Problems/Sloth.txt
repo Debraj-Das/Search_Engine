@@ -1,0 +1,9 @@
+Sloth                    
+
+https://codeforces.com/problemset/problem/891/D
+
+dfs and similar
+
+3100
+
+Sloth is bad, mkay? So we decided to prepare a problem to punish lazy guys.You are given a tree, you should count the number of ways to remove an edge from it and then add an edge to it such that the final graph is a tree and has a perfect matching. Two ways of this operation are considered different if their removed edges or their added edges aren't the same. The removed edge and the added edge can be equal.A perfect matching is a subset of edges such that each vertex is an endpoint of exactly one of these edges.

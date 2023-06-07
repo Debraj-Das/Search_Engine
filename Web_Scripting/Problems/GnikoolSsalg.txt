@@ -1,0 +1,9 @@
+Gnikool Ssalg                    
+
+https://codeforces.com/problemset/problem/130/B
+
+*special problem
+
+1400
+
+You are given a string. Reverse its characters.

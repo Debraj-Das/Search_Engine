@@ -1,0 +1,9 @@
+Bear and Contribution                    
+
+https://codeforces.com/problemset/problem/639/D
+
+data structures
+
+2400
+
+Codeforces is a wonderful platform and one its feature shows how much someone contributes to the community. Every registered user has contribution — an integer number, not necessarily positive. There are n registered users and the i-th of them has contribution ti.Limak is a little polar bear and he's new into competitive programming. He doesn't even have an account in Codeforces but he is able to upvote existing blogs and comments. We assume that every registered user has infinitely many blogs and comments.  Limak can spend b minutes to read one blog and upvote it. Author's contribution will be increased by 5.  Limak can spend c minutes to read one comment and upvote it. Author's contribution will be increased by 1. Note that it's possible that Limak reads blogs faster than comments.Limak likes ties. He thinks it would be awesome to see a tie between at least k registered users. To make it happen he is going to spend some time on reading and upvoting. After that, there should exist an integer value x that at least k registered users have contribution exactly x.How much time does Limak need to achieve his goal?

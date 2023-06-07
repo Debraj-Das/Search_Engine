@@ -1,0 +1,9 @@
+Magic Triples (Hard Version)                    
+
+https://codeforces.com/problemset/problem/1822/G2
+
+brute force
+
+2200
+
+This is the hard version of the problem. The only difference is that in this version, a_i \le 10^9.For a given sequence of n integers a, a triple (i, j, k) is called magic if:   1 \le i, j, k \le n.  i, j, k are pairwise distinct.  there exists a positive integer b such that a_i \cdot b = a_j and a_j \cdot b = a_k. Kolya received a sequence of integers a as a gift and now wants to count the number of magic triples for it. Help him with this task!Note that there are no constraints on the order of integers i, j and k.

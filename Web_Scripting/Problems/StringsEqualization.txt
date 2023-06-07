@@ -1,0 +1,9 @@
+Strings Equalization                    
+
+https://codeforces.com/problemset/problem/1223/B
+
+strings
+
+1000
+
+You are given two strings of equal length s and t consisting of lowercase Latin letters. You may perform any number (possibly, zero) operations on these strings.During each operation you choose two adjacent characters in any string and assign the value of the first character to the value of the second or vice versa.For example, if s is "acbc" you can get the following strings in one operation:   "aabc" (if you perform s_2 = s_1);  "ccbc" (if you perform s_1 = s_2);  "accc" (if you perform s_3 = s_2 or s_3 = s_4);  "abbc" (if you perform s_2 = s_3);  "acbb" (if you perform s_4 = s_3); Note that you can also apply this operation to the string t.Please determine whether it is possible to transform s into t, applying the operation above any number of times.Note that you have to answer q independent queries.

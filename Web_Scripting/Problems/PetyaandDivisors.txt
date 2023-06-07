@@ -1,0 +1,9 @@
+Petya and Divisors                    
+
+httpscodeforcescomproblemsetproblem111B
+
+binary search
+
+1900
+
+Little Petya loves looking for numbers divisors One day Petya came across the following problemYou are given n queries in the form xi yi For each query Petya should count how many divisors of number xi divide none of the numbers xiyixiyi1xi1 Help him

@@ -1,0 +1,9 @@
+GCD Festival                    
+
+https://codeforces.com/problemset/problem/1575/G
+
+math
+
+2200
+
+Mr. Chanek has an array a of n integers. The prettiness value of a is denoted as:\sum_{i=1}^{n} {\sum_{j=1}^{n} {\gcd(a_i, a_j) \cdot \gcd(i, j)}}where \gcd(x, y) denotes the greatest common divisor (GCD) of integers x and y.In other words, the prettiness value of an array a is the total sum of \gcd(a_i, a_j) \cdot \gcd(i, j) for all pairs (i, j).Help Mr. Chanek find the prettiness value of a, and output the result modulo 10^9 + 7!

@@ -1,0 +1,9 @@
+New Year and Old Property                    
+
+httpscodeforcescomproblemsetproblem611B
+
+bitmasks
+
+1300
+
+The year 2015 is almost overLimak is a little polar bear He has recently learnt about the binary system He noticed that the passing year has exactly one zero in its representation in the binary system 201510111110111112 Note that he doesnt care about the number of zeros in the decimal representationLimak chose some interval of years He is going to count all years from this interval that have exactly one zero in the binary representation Can you do it fasterAssume that all positive integers are always written without leading zeros

@@ -1,0 +1,9 @@
+Jamie and Interesting Graph                    
+
+httpscodeforcescomproblemsetproblem916C
+
+constructive algorithms
+
+1600
+
+Jamie has recently found undirected weighted graphs with the following properties very interesting  The graph is connected and contains exactly n vertices and m edges  All edge weights are integers and are in range 1109 inclusive  The length of shortest path from 1 to n is a prime number  The sum of edges weights in the minimum spanning tree MST of the graph is a prime number  The graph contains no loops or multiedges If you are not familiar with some terms from the statement you can find definitions of them in notes section Help Jamie construct any graph with given number of vertices and edges that is interesting

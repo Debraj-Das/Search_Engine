@@ -1,0 +1,9 @@
+Valera and Fools                    
+
+httpscodeforcescomproblemsetproblem369D
+
+dfs and similar
+
+2200
+
+One fine morning n fools lined up in a row After that they numbered each other with numbers from 1 to n inclusive Each fool got a unique number The fools decided not to change their numbers before the end of the funEvery fool has exactly k bullets and a pistol In addition the fool number i has probability of pi in percent that he kills the fool he shoots atThe fools decided to have several rounds of the fun Each round of the fun looks like this each currently living fool shoots at another living fool with the smallest number a fool is not stupid enough to shoot at himself All shots of the round are perfomed at one time simultaneously If there is exactly one living fool he does not shootLets define a situation as the set of numbers of all the living fools at the some time We say that a situation is possible if for some integer number j 0jk there is a nonzero probability that after j rounds of the fun this situation will occurValera knows numbers p1p2pn and k Help Valera determine the number of distinct possible situations

@@ -1,0 +1,9 @@
+Domino piling                    
+
+httpscodeforcescomproblemsetproblem50A
+
+greedy
+
+800
+
+You are given a rectangular board of MN squares Also you are given an unlimited number of standard domino pieces of 21 squares You are allowed to rotate the pieces You are asked to place as many dominoes as possible on the board so as to meet the following conditions1 Each domino completely covers two squares2 No two dominoes overlap3 Each domino lies entirely inside the board It is allowed to touch the edges of the boardFind the maximum number of dominoes which can be placed under these restrictions

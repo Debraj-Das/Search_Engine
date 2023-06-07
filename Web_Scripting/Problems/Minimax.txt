@@ -1,0 +1,9 @@
+Minimax                    
+
+https://codeforces.com/problemset/problem/1530/E
+
+constructive algorithms
+
+2100
+
+Prefix function of string t = t_1 t_2 \ldots t_n and position i in it is defined as the length k of the longest proper (not equal to the whole substring) prefix of substring t_1 t_2 \ldots t_i which is also a suffix of the same substring.For example, for string t =  abacaba the values of the prefix function in positions 1, 2, \ldots, 7 are equal to [0, 0, 1, 0, 1, 2, 3].Let f(t) be equal to the maximum value of the prefix function of string t over all its positions. For example, f(abacaba) = 3.You are given a string s. Reorder its characters arbitrarily to get a string t (the number of occurrences of any character in strings s and t must be equal). The value of f(t) must be minimized. Out of all options to minimize f(t), choose the one where string t is the lexicographically smallest.

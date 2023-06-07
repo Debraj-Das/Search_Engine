@@ -1,0 +1,9 @@
+Graph Cutting                    
+
+https://codeforces.com/problemset/problem/405/E
+
+dfs and similar
+
+2300
+
+Little Chris is participating in a graph cutting contest. He's a pro. The time has come to test his skills to the fullest.Chris is given a simple undirected connected graph with n vertices (numbered from 1 to n) and m edges. The problem is to cut it into edge-distinct paths of length 2. Formally, Chris has to partition all edges of the graph into pairs in such a way that the edges in a single pair are adjacent and each edge must be contained in exactly one pair.For example, the figure shows a way Chris can cut a graph. The first sample test contains the description of this graph.  You are given a chance to compete with Chris. Find a way to cut the given graph or determine that it is impossible!

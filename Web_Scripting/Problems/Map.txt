@@ -1,0 +1,9 @@
+Map                    
+
+httpscodeforcescomproblemsetproblem15D
+
+data structures
+
+2500
+
+There is an area map that is a rectangular matrix nm each cell of the matrix contains the average height of a corresponding area part Peter works for a company that has to build several cities within this area each of the cities will occupy a rectangle ab cells on the map To start construction works in a particular place Peter needs to remove excess ground from the construction site where a new city will be built To do so he chooses a cell of the minimum height within this site and removes excess ground from other cells of the site down to this minimum level Lets consider that to lower the ground level from h2 to h1 h1h2 they need to remove h2h1 ground unitsLets call a sites position optimal if the amount of the ground removed from this site is minimal compared to other possible positions Peter constructs cities according to the following algorithm from all the optimum sites positions he chooses the uppermost one If this position is not unique he chooses the leftmost one Then he builds a city on this site Peter repeats this process untill he can build at least one more city For sure he cannot carry out construction works on the occupied cells Would you please help Peter place cities according to the algorithm 

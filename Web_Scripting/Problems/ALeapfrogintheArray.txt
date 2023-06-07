@@ -1,0 +1,9 @@
+A Leapfrog in the Array                    
+
+httpscodeforcescomproblemsetproblem949B
+
+constructive algorithms
+
+1700
+
+Dima is a beginner programmer During his working process he regularly has to repeat the following operation again and again to remove every second element from the array One day he has been bored with easy solutions of this problem and he has come up with the following extravagant algorithmLets consider that initially array contains n numbers from 1 to n and the number i is located in the cell with the index 2i1 Indices are numbered starting from one and other cells of the array are empty Each step Dima selects a nonempty array cell with the maximum index and moves the number written in it to the nearest empty cell to the left of the selected one The process continues until all n numbers will appear in the first n cells of the array For example if n4 the array is changing as follows  You have to write a program that allows you to determine what number will be in the cell with index x 1xn after Dimas algorithm finishes

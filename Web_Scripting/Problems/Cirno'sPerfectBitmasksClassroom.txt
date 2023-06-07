@@ -1,0 +1,9 @@
+Cirno's Perfect Bitmasks Classroom                    
+
+https://codeforces.com/problemset/problem/1688/A
+
+bitmasks
+
+800
+
+Even if it's a really easy question, she won't be able to answer it— Perfect Memento in Strict SenseCirno's perfect bitmasks classroom has just started!Cirno gave her students a positive integer x. As an assignment, her students need to find the minimum positive integer y, which satisfies the following two conditions:x\ \texttt{and}\ y > 0 x\ \texttt{xor}\ y > 0Where \texttt{and} is the bitwise AND operation, and \texttt{xor} is the bitwise XOR operation.Among the students was Mystia, who was truly baffled by all these new operators. Please help her!

@@ -1,0 +1,9 @@
+Beppa and SwerChat                    
+
+https://codeforces.com/problemset/problem/1776/H
+
+two pointers
+
+1300
+
+Beppa and her circle of geek friends keep up to date on a group chat in the instant messaging app SwerChat^{\text{TM}}.The group has n members, excluding Beppa. Each of those members has a unique ID between 1 and n. When a user opens a group chat, SwerChat^{\text{TM}} displays the list of other members of that group, sorted by decreasing times of last seen online (so the member who opened the chat most recently is the first of the list). However, the times of last seen are not displayed.Today, Beppa has been busy all day: she has only opened the group chat twice, once at 9:00 and once at 22:00. Both times, she wrote down the list of members in the order they appeared at that time. Now she wonders: what is the minimum number of other members that must have been online at least once between 9:00 and 22:00?Beppa is sure that no two members are ever online at the same time and no members are online when Beppa opens the group chat at 9:00 and 22:00.

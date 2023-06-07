@@ -1,0 +1,9 @@
+Lucky Arrays                    
+
+httpscodeforcescomproblemsetproblem256E
+
+data structures
+
+2400
+
+Little Maxim loves interesting problems He decided to share one such problem with you Initially there is an array a consisting of n zeroes The elements of the array are indexed starting from 1 Then follow queries to change array a Each query is characterized by two integers viti In the answer to the query we should make the vith array element equal ti aviti1vinMaxim thinks that some pairs of integers xy are good and some are not Maxim thinks that array a consisting of n integers is lucky if for all integer i 1in1 the pair of integers aiai1  is good Note that the order of numbers in the pairs is important that is specifically 1221After each query to change array a Maxim wants to know how many ways there are to replace all zeroes in array a with integers from one to three so as to make the resulting array without zeroes lucky Of course distinct zeroes can be replaced by distinct integersMaxim told you the sequence of queries and all pairs of integers he considers lucky Help Maxim solve this problem for him

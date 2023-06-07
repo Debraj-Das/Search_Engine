@@ -1,0 +1,9 @@
+AND Graph                    
+
+https://codeforces.com/problemset/problem/986/C
+
+bitmasks
+
+2500
+
+You are given a set of size m with integer elements between 0 and 2^{n}-1 inclusive. Let's build an undirected graph on these integers in the following way: connect two integers x and y with an edge if and only if x \& y = 0. Here \& is the bitwise AND operation. Count the number of connected components in that graph.

@@ -1,0 +1,9 @@
+Search for Pretty Integers                    
+
+https://codeforces.com/problemset/problem/870/A
+
+brute force
+
+900
+
+You are given two lists of non-zero digits.Let's call an integer pretty if its (base 10) representation has at least one digit from the first list and at least one digit from the second list. What is the smallest positive pretty integer?

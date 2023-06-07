@@ -1,0 +1,9 @@
+AB-Strings                    
+
+https://codeforces.com/problemset/problem/1012/D
+
+constructive algorithms
+
+2800
+
+There are two strings s and t, consisting only of letters a and b. You can make the following operation several times: choose a prefix of s, a prefix of t and swap them. Prefixes can be empty, also a prefix can coincide with a whole string. Your task is to find a sequence of operations after which one of the strings consists only of a letters and the other consists only of b letters. The number of operations should be minimized.

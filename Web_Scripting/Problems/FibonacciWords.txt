@@ -1,0 +1,24 @@
+Fibonacci Words                    
+
+https://codeforces.com/problemset/problem/1505/C
+
+*special problem
+
+1400
+
+InputThe input consists of a single string of uppercase letters A-Z. The length of the string is between 1 and 10 characters, inclusive.OutputOutput "YES" or "NO".ExamplesInputHELP
+OutputYES
+InputAID
+OutputNO
+InputMARY
+OutputNO
+InputANNA
+OutputYES
+InputMUG
+OutputYES
+InputCUP
+OutputNO
+InputSUM
+OutputYES
+InputPRODUCT
+OutputNO

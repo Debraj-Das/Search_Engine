@@ -1,0 +1,9 @@
+Berzerk                    
+
+httpscodeforcescomproblemsetproblem786A
+
+dfs and similar
+
+2000
+
+Rick and Morty are playing their own version of Berzerk which has nothing in common with the famous Berzerk game This game needs a huge space so they play it with a computerIn this game there are n objects numbered from 1 to n arranged in a circle in clockwise order Object number 1 is a black hole and the others are planets Theres a monster in one of the planet Rick and Morty dont know on which one yet only that hes not initially in the black hole but Unity will inform them before the game starts But for now they want to be prepared for every possible scenario  Each one of them has a set of numbers between 1 and n1 inclusive Ricks set is s1 with k1 elements and Mortys is s2 with k2 elements One of them goes first and the player changes alternatively In each players turn he should choose an arbitrary number like x from his set and the monster will move to his xth next object from its current position clockwise If after his move the monster gets to the black hole he winsYour task is that for each of monsters initial positions and who plays first determine if the starter wins loses or the game will stuck in an infinite loop In case when player can lose or make game infinity it more profitable to choose infinity game

@@ -1,0 +1,9 @@
+Restoring Permutation                    
+
+https://codeforces.com/problemset/problem/1315/C
+
+greedy
+
+1200
+
+You are given a sequence b_1, b_2, \ldots, b_n. Find the lexicographically minimal permutation a_1, a_2, \ldots, a_{2n} such that b_i = \min(a_{2i-1}, a_{2i}), or determine that it is impossible.

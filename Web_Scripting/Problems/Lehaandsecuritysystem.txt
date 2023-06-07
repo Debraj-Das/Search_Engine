@@ -1,0 +1,9 @@
+Leha and security system                    
+
+httpscodeforcescomproblemsetproblem794F
+
+data structures
+
+2800
+
+Bankopolis the city you already know finally got a new bank opened Unfortunately its security system is not yet working fine Meanwhile hacker Leha arrived in Bankopolis and decided to test the systemBank has n cells for clients money A sequence from n numbers a1a2an describes the amount of money each client has Leha wants to make requests to the database of the bank finding out the total amount of money on some subsegments of the sequence and changing values of the sequence on some subsegments Using a bug in the system Leha can requests two types of queries to the database  1 l r x y denoting that Leha changes each digit x to digit y in each element of sequence ai for which lir is holds For example if we change in number 11984381 digit 8 to 4 we get 11944341 Its worth noting that Leha in order to stay in the shadow never changes digits in the database to 0 ie y0  2 l r denoting that Leha asks to calculate and print the sum of such elements of sequence ai for which lir holds As Leha is a whitehat hacker he dont want to test this vulnerability on a real database You are to write a similar database for Leha to test

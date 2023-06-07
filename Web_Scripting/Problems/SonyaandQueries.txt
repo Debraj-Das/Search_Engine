@@ -1,0 +1,9 @@
+Sonya and Queries                    
+
+httpscodeforcescomproblemsetproblem713A
+
+data structures
+
+1400
+
+Today Sonya learned about long integers and invited all her friends to share the fun Sonya has an initially empty multiset with integers Friends give her t queries each of one of the following type   ai add nonnegative integer ai to the multiset Note that she has a multiset thus there may be many occurrences of the same integer   ai delete a single occurrence of nonnegative integer ai from the multiset Its guaranteed that there is at least one ai in the multiset   s count the number of integers in the multiset with repetitions that match some pattern s consisting of 0 and 1 In the pattern 0 stands for the even digits while 1 stands for the odd Integer x matches the pattern s if the parity of the ith from the right digit in decimal notation matches the ith from the right digit of the pattern If the pattern is shorter than this integer its supplemented with 0s from the left Similarly if the integer is shorter than the pattern its decimal notation is supplemented with the 0s from the left For example if the pattern is s010 than integers 92 2212 50 and 414 match the pattern while integers 3 110 25 and 1030 do not

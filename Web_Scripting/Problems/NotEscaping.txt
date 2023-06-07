@@ -1,0 +1,9 @@
+Not Escaping                    
+
+https://codeforces.com/problemset/problem/1627/E
+
+data structures
+
+2200
+
+Major Ram is being chased by his arch enemy Raghav. Ram must reach the top of the building to escape via helicopter. The building, however, is on fire. Ram must choose the optimal path to reach the top of the building to lose the minimum amount of health.The building consists of n floors, each with m rooms each. Let (i, j) represent the j-th room on the i-th floor. Additionally, there are k ladders installed. The i-th ladder allows Ram to travel from (a_i, b_i) to (c_i, d_i), but not in the other direction. Ram also gains h_i health points if he uses the ladder i. It is guaranteed a_i < c_i for all ladders.If Ram is on the i-th floor, he can move either left or right. Travelling across floors, however, is treacherous. If Ram travels from (i, j) to (i, k), he loses |j-k| \cdot x_i health points.Ram enters the building at (1, 1) while his helicopter is waiting at (n, m). What is the minimum amount of health Ram loses if he takes the most optimal path? Note this answer may be negative (in which case he gains health). Output "NO ESCAPE" if no matter what path Ram takes, he cannot escape the clutches of Raghav.  

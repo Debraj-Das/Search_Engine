@@ -1,0 +1,9 @@
+Codeforces Scoreboard                    
+
+https://codeforces.com/problemset/problem/1787/H
+
+binary search
+
+3300
+
+You are participating in a Codeforces Round with n problems. You spend exactly one minute to solve each problem, the time it takes to submit a problem can be ignored. You can only solve at most one problem at any time. The contest starts at time 0, so you can make your first submission at any time t \ge 1 minutes. Whenever you submit a problem, it is always accepted.The scoring of the i-th problem can be represented by three integers k_i, b_i, and a_i. If you solve it at time t minutes, you get \max(b_i - k_i \cdot t,a_i) points.Your task is to choose an order to solve all these n problems to get the maximum possible score. You can assume the contest is long enough to solve all problems.

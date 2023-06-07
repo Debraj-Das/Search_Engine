@@ -1,0 +1,9 @@
+Light switches                    
+
+https://codeforces.com/problemset/problem/1423/L
+
+meet-in-the-middle
+
+2600
+
+Nikola owns a large warehouse which is illuminated by N light bulbs, numbered 1 to N. At the exit of the warehouse, there are S light switches, numbered 1 to S. Each switch swaps the on/off state for some light bulbs, so if a light bulb is off, flipping the switch turns it on, and if the light bulb is on, flipping the switch turns it off.At the end of the day, Nikola wants to turn all the lights off. To achieve this, he will flip some of the light switches at the exit of the warehouse, but since Nikola is lazy, he wants to flip the _minimum_ number of switches required to turn all the lights off. Since Nikola was not able to calculate the minimum number of switches, he asked you to help him. During a period of D days, Nikola noted which light bulbs were off and which were on at the end of each day. He wants you to tell him the minimum number of switches he needed to flip to turn all the lights off for each of the D days or tell him that it's impossible.

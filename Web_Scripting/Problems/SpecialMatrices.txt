@@ -1,0 +1,9 @@
+Special Matrices                    
+
+httpscodeforcescomproblemsetproblem489F
+
+combinatorics
+
+2100
+
+An nn square matrix is special if  it is binary that is each cell contains either a 0 or a 1  the number of ones in each row and column equals 2 You are given n and the first m rows of the matrix Print the number of special nn matrices such that the first m rows coincide with the given onesAs the required value can be rather large print the remainder after dividing the value by the given number mod

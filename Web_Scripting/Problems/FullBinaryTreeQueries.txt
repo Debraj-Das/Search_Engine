@@ -1,0 +1,9 @@
+Full Binary Tree Queries                    
+
+httpscodeforcescomproblemsetproblem960D
+
+brute force
+
+2100
+
+You have a full binary tree having infinite levelsEach node has an initial value If a node has value x then its left child has value 2x and its right child has value 2x1 The value of the root is 1 You need to answer Q queries There are 3 types of queries  Cyclically shift the values of all nodes on the same level as node with value X by K units The valuesnodes of any other level are not affected Cyclically shift the nodes on the same level as node with value X by K units The subtrees of these nodes will move along with them Print the value of every node encountered on the simple path from the node with value X to the rootPositive K implies right cyclic shift and negative K implies left cyclic shift It is guaranteed that atleast one type 3 query is present

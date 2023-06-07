@@ -1,0 +1,9 @@
+Levko and Permutation                    
+
+httpscodeforcescomproblemsetproblem361B
+
+constructive algorithms
+
+1200
+
+Levko loves permutations very much A permutation of length n is a sequence of distinct positive integers each is at most nLets assume that value gcdab shows the greatest common divisor of numbers a and b Levko assumes that element pi of permutation p1p2 pn is good if gcdipi1 Levko considers a permutation beautiful if it has exactly k good elements Unfortunately he doesnt know any beautiful permutation Your task is to help him to find at least one of them

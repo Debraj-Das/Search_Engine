@@ -1,0 +1,9 @@
+Cow and Snacks                    
+
+https://codeforces.com/problemset/problem/1209/D
+
+dfs and similar
+
+1700
+
+The legendary Farmer John is throwing a huge party, and animals from all over the world are hanging out at his house. His guests are hungry, so he instructs his cow Bessie to bring out the snacks! Moo!There are n snacks flavors, numbered with integers 1, 2, \ldots, n. Bessie has n snacks, one snack of each flavor. Every guest has exactly two favorite flavors. The procedure for eating snacks will go as follows:  First, Bessie will line up the guests in some way.  Then in this order, guests will approach the snacks one by one.  Each guest in their turn will eat all remaining snacks of their favorite flavor. In case no favorite flavors are present when a guest goes up, they become very sad.  Help Bessie to minimize the number of sad guests by lining the guests in an optimal way.

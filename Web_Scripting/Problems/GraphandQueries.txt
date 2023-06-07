@@ -1,0 +1,9 @@
+Graph and Queries                    
+
+https://codeforces.com/problemset/problem/1416/D
+
+data structures
+
+2600
+
+You are given an undirected graph consisting of n vertices and m edges. Initially there is a single integer written on every vertex: the vertex i has p_i written on it. All p_i are distinct integers from 1 to n.You have to process q queries of two types:  1 v — among all vertices reachable from the vertex v using the edges of the graph (including the vertex v itself), find a vertex u with the largest number p_u written on it, print p_u and replace p_u with 0;  2 i — delete the i-th edge from the graph.  Note that, in a query of the first type, it is possible that all vertices reachable from v have 0 written on them. In this case, u is not explicitly defined, but since the selection of u does not affect anything, you can choose any vertex reachable from v and print its value (which is 0). 

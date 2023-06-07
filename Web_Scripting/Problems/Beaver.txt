@@ -1,0 +1,9 @@
+Beaver                    
+
+httpscodeforcescomproblemsetproblem79C
+
+data structures
+
+1800
+
+After Fox Ciel got off a bus she found that the bus she was on was a wrong bus and she lost her way in a strange town However she fortunately met her friend Beaver Taro and asked which way to go to her castle Taros response to her was a string s and she tried to remember the string s correctlyHowever Ciel feels n strings b1b2 bn are really boring and unfortunately she dislikes to remember a string that contains a boring substring To make the thing worse what she can remember is only the contiguous substring of sDetermine the longest contiguous substring of s that does not contain any boring string so that she can remember the longest part of Taros response

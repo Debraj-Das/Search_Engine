@@ -1,0 +1,9 @@
+INI-file                    
+
+https://codeforces.com/problemset/problem/72/B
+
+*special problem
+
+2200
+
+The INI file format is a de facto standard for configuration files. INI files are simple text files with a basic structure. They are commonly associated with Microsoft Windows, but are also used on other platforms.Each line in INI-file stands for key-value mapping or defines new section. A key-value line has a format "key=value",where key — is the name of some property, and value — it's value. It is possible that it will be spaces from the both sides of key and/or value, the spaces should be ignored.A section line has a format "[section]". It means that all key-value lines after it define properties of the specified section. Of cause, the following section line changes the current section. A section line may have spaces around any of brackets.Also you should ignore comment lines — the first non-space character of comment line is ";".You task is to write the program which will format given INI-file in a special way:   first, print key-value lines which do not belong to any section;  print all the sections in the lexicographical (alphabetical) order of their names;  inside each of two previous items, order key-value lines lexicographically by "key";  if there are more than one key-value lines with the same key inside a single section (or outside any sections), leave only one line (which appears later in the input data);  remove all redundant spaces and lines. 

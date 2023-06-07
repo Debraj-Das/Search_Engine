@@ -1,0 +1,9 @@
+Verifying Kingdom                    
+
+httpscodeforcescomproblemsetproblem772E
+
+binary search
+
+3200
+
+This is an interactive problemThe judge has a hidden rooted full binary tree with n leaves A full binary tree is one where every node has either 0 or 2 children The nodes with 0 children are called the leaves of the tree Since this is a full binary tree there are exactly 2n1 nodes in the tree The leaves of the judges tree has labels from 1 to n You would like to reconstruct a tree that is isomorphic to the judges tree To do this you can ask some questionsA question consists of printing the label of three distinct leaves a1a2a3 Let the depth of a node be the shortest distance from the node to the root of the tree Let LCAab denote the node with maximum depth that is a common ancestor of the nodes a and bConsider XLCAa1a2YLCAa2a3ZLCAa3a1 The judge will tell you which one of XYZ has the maximum depth Note this pair is uniquely determined since the tree is a binary tree there cant be any ties More specifically if X or Y Z respectively maximizes the depth the judge will respond with the string X or Y Z respectively You may only ask at most 10n questions

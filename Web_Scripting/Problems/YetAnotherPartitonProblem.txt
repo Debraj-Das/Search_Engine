@@ -1,0 +1,9 @@
+Yet Another Partiton Problem                    
+
+https://codeforces.com/problemset/problem/1175/G
+
+data structures
+
+3000
+
+You are given array a_1, a_2, \dots, a_n. You need to split it into k subsegments (so every element is included in exactly one subsegment).The weight of a subsegment a_l, a_{l+1}, \dots, a_r is equal to (r - l + 1) \cdot \max\limits_{l \le i \le r}(a_i). The weight of a partition is a total weight of all its segments.Find the partition of minimal weight.

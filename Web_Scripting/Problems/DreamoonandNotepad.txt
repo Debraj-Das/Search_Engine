@@ -1,0 +1,9 @@
+Dreamoon and Notepad                    
+
+httpscodeforcescomproblemsetproblem477E
+
+data structures
+
+3100
+
+Dreamoon has just created a document of hard problems using notepadexe The document consists of n lines of text ai denotes the length of the ith line He now wants to know what is the fastest way to move the cursor around because the document is really longLet rc be a current cursor position where r is row number and c is position of cursor in the row We have 1rn and 0carWe can use following six operations in notepadexe to move our cursor assuming the current cursor position is at rc  up key the new cursor position nrncmaxr11minanrc  down key the new cursor position nrncminr1nminanrc  left key the new cursor position nrncrmax0c1  right key the new cursor position nrncrminanrc1  HOME key the new cursor position nrncr0  END key the new cursor position nrncrar Youre given the document description n and sequence ai and q queries from Dreamoon Each query asks what minimal number of key presses is needed to move the cursor from r1c1 to r2c2

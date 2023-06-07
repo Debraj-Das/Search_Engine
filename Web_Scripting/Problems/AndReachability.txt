@@ -1,0 +1,9 @@
+And Reachability                    
+
+https://codeforces.com/problemset/problem/1168/C
+
+bitmasks
+
+2200
+
+Toad Pimple has an array of integers a_1, a_2, \ldots, a_n.We say that y is reachable from x if x<y and there exists an integer array p such that x = p_1 < p_2 < \ldots < p_k=y, and a_{p_i}\, \&\, a_{p_{i+1}} > 0 for all integers i such that 1 \leq i < k.Here \& denotes the bitwise AND operation.You are given q pairs of indices, check reachability for each of them.

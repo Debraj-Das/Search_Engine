@@ -1,0 +1,9 @@
+The Films                    
+
+https://codeforces.com/problemset/problem/1017/H
+
+brute force
+
+3300
+
+In "The Man in the High Castle" world, there are m different film endings. Abendsen owns a storage and a shelf. At first, he has n ordered films on the shelf. In the i-th month he will do: Empty the storage. Put k_i \cdot m films into the storage, k_i films for each ending. He will think about a question: if he puts all the films from the shelf into the storage, then randomly picks n films (from all the films in the storage) and rearranges them on the shelf, what is the probability that sequence of endings in [l_i, r_i] on the shelf will not be changed? Notice, he just thinks about this question, so the shelf will not actually be changed.Answer all Abendsen's questions.Let the probability be fraction P_i. Let's say that the total number of ways to take n films from the storage for i-th month is A_i, so P_i \cdot A_i is always an integer. Print for each month P_i \cdot A_i \pmod {998244353}.998244353 is a prime number and it is equal to 119 \cdot 2^{23} + 1.It is guaranteed that there will be only no more than 100 different k values.

@@ -1,0 +1,9 @@
+I love AAAB                    
+
+https://codeforces.com/problemset/problem/1672/B
+
+constructive algorithms
+
+800
+
+Let's call a string good if its length is at least 2 and all of its characters are \texttt{A} except for the last character which is \texttt{B}. The good strings are \texttt{AB},\texttt{AAB},\texttt{AAAB},\ldots. Note that \texttt{B} is not a good string.You are given an initially empty string s_1.You can perform the following operation any number of times:   Choose any position of s_1 and insert some good string in that position. Given a string s_2, can we turn s_1 into s_2 after some number of operations?

@@ -1,0 +1,9 @@
+Plus from Picture                    
+
+https://codeforces.com/problemset/problem/1182/B
+
+dfs and similar
+
+1300
+
+You have a given picture with size w \times h. Determine if the given picture has a single "+" shape or not. A "+" shape is described below:  A "+" shape has one center nonempty cell.  There should be some (at least one) consecutive non-empty cells in each direction (left, right, up, down) from the center. In other words, there should be a ray in each direction.  All other cells are empty. Find out if the given picture has single "+" shape.

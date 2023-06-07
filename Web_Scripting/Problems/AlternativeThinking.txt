@@ -1,0 +1,9 @@
+Alternative Thinking                    
+
+httpscodeforcescomproblemsetproblem603A
+
+dp
+
+1600
+
+Kevin has just recevied his disappointing results on the USA Identification of Cows Olympiad USAICO in the form of a binary string of length n Each character of Kevins string represents Kevins score on one of the n questions of the olympiad1 for a correctly identified cow and 0 otherwiseHowever all is not lost Kevin is a big proponent of alternative thinking and believes that his score instead of being the sum of his points should be the length of the longest alternating subsequence of his string Here we define an alternating subsequence of a string as a notnecessarily contiguous subsequence where no two consecutive elements are equal For example 0101 101 and 1010 are alternating sequences while 100 and 01011 are notKevin being the sneaky little puffball that he is is willing to hack into the USAICO databases to improve his score In order to be subtle he decides that he will flip exactly one substringthat is take a contiguous nonempty substring of his score and change all 0s in that substring to 1s and vice versa After such an operation Kevin wants to know the length of the longest possible alternating subsequence that his string could have

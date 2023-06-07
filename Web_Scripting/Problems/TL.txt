@@ -1,0 +1,9 @@
+TL                    
+
+httpscodeforcescomproblemsetproblem350A
+
+brute force
+
+1200
+
+Valera wanted to prepare a Codesecrof round Hes already got one problem and he wants to set a time limit TL on itValera has written n correct solutions For each correct solution he knows its running time in seconds Valera has also wrote m wrong solutions and for each wrong solution he knows its running time in secondsLets suppose that Valera will set v seconds TL in the problem Then we can say that a solution passes the system testing if its running time is at most v seconds We can also say that a solution passes the system testing with some extra time if for its running time a seconds an inequality 2av holdsAs a result Valera decided to set v seconds TL that the following conditions are met  v is a positive integer  all correct solutions pass the system testing  at least one correct solution passes the system testing with some extra time  all wrong solutions do not pass the system testing  value v is minimum among all TLs for which points 1 2 3 4 hold Help Valera and find the most suitable TL or else state that such TL doesnt exist

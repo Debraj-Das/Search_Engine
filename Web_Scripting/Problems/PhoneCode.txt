@@ -1,0 +1,9 @@
+Phone Code                    
+
+httpscodeforcescomproblemsetproblem172A
+
+special problem
+
+800
+
+Polycarpus has n friends in Tarasov city Polycarpus knows phone numbers of all his friends they are strings s1s2sn All these strings consist only of digits and have the same length Once Polycarpus needed to figure out Tarasov city phone code He assumed that the phone code of the city is the longest common prefix of all phone numbers of his friends In other words it is the longest string c which is a prefix the beginning of each si for all i 1in Help Polycarpus determine the length of the city phone code 

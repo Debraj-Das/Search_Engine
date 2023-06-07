@@ -1,0 +1,9 @@
+Minlexes                    
+
+https://codeforces.com/problemset/problem/1422/E
+
+dp
+
+2700
+
+Some time ago Lesha found an entertaining string s consisting of lowercase English letters. Lesha immediately developed an unique algorithm for this string and shared it with you. The algorithm is as follows.Lesha chooses an arbitrary (possibly zero) number of pairs on positions (i, i + 1) in such a way that the following conditions are satisfied:   for each pair (i, i + 1) the inequality 0 \le i < |s| - 1 holds;  for each pair (i, i + 1) the equality s_i = s_{i + 1} holds;  there is no index that is contained in more than one pair.  After that Lesha removes all characters on indexes contained in these pairs and the algorithm is over. Lesha is interested in the lexicographically smallest strings he can obtain by applying the algorithm to the suffixes of the given string.

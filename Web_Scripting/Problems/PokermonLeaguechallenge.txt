@@ -1,0 +1,9 @@
+Pokermon League challenge                    
+
+httpscodeforcescomproblemsetproblem717H
+
+math
+
+2400
+
+Welcome to the world of Pokermon yellow little mouselike creatures who absolutely love playing poker Yeah right In the ensuing Pokermon League there are n registered Pokermon trainers and t existing trainer teams each of which belongs to one of two conferences Since there is a lot of jealousy between trainers there are e pairs of trainers who hate each other Their hate is mutual there are no identical pairs among these and no trainer hates himself the world of Pokermon is a joyful place Each trainer has a wishlist of length li of teams hed like to joinYour task is to divide players into teams and the teams into two conferences so that   each trainer belongs to exactly one team   no team is in both conferences   total hate between conferences is at least e2   every trainer is in a team from his wishlist Total hate between conferences is calculated as the number of pairs of trainers from teams from different conferences who hate each other 

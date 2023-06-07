@@ -1,0 +1,9 @@
+Upgrading Cities                    
+
+https://codeforces.com/problemset/problem/1062/F
+
+dfs and similar
+
+2900
+
+There are n cities in the kingdom X, numbered from 1 through n. People travel between cities by some one-way roads. As a passenger, JATC finds it weird that from any city u, he can't start a trip in it and then return back to it using the roads of the kingdom. That is, the kingdom can be viewed as an acyclic graph.Being annoyed by the traveling system, JATC decides to meet the king and ask him to do something. In response, the king says that he will upgrade some cities to make it easier to travel. Because of the budget, the king will only upgrade those cities that are important or semi-important. A city u is called important if for every city v \neq u, there is either a path from u to v or a path from v to u. A city u is called semi-important if it is not important and we can destroy exactly one city v \neq u so that u becomes important.The king will start to act as soon as he finds out all those cities. Please help him to speed up the process.

@@ -1,0 +1,9 @@
+Recursive Queries                    
+
+https://codeforces.com/problemset/problem/1117/G
+
+data structures
+
+2500
+
+You are given a permutation p_1, p_2, \dots, p_n. You should answer q queries. Each query is a pair (l_i, r_i), and you should calculate f(l_i, r_i).Let's denote m_{l, r} as the position of the maximum in subsegment p_l, p_{l+1}, \dots, p_r.Then f(l, r) = (r - l + 1) + f(l, m_{l,r} - 1) + f(m_{l,r} + 1, r) if l \le r or 0 otherwise.

@@ -1,0 +1,9 @@
+Not Equal on a Segment                    
+
+httpscodeforcescomproblemsetproblem622C
+
+data structures
+
+1700
+
+You are given array a with n integers and m queries The ith query is given with three integers lirixiFor the ith query find any position pi lipiri so that apixi

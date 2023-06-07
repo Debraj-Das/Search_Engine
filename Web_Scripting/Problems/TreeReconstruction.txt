@@ -1,0 +1,9 @@
+Tree Reconstruction                    
+
+https://codeforces.com/problemset/problem/1041/E
+
+constructive algorithms
+
+1900
+
+Monocarp has drawn a tree (an undirected connected acyclic graph) and then has given each vertex an index. All indices are distinct numbers from 1 to n. For every edge e of this tree, Monocarp has written two numbers: the maximum indices of the vertices of the two components formed if the edge e (and only this edge) is erased from the tree.Monocarp has given you a list of n - 1 pairs of numbers. He wants you to provide an example of a tree that will produce the said list if this tree exists. If such tree does not exist, say so.

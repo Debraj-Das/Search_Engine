@@ -1,0 +1,9 @@
+Restore the Tree                    
+
+https://codeforces.com/problemset/problem/871/E
+
+graphs
+
+2900
+
+Petya had a tree consisting of n vertices numbered with integers from 1 to n. Accidentally he lost his tree. Petya remembers information about k vertices: distances from each of them to each of the n tree vertices.Your task is to restore any tree that satisfies the information that Petya remembers or report that such tree doesn't exist.

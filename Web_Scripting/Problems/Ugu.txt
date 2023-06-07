@@ -1,0 +1,9 @@
+Ugu                    
+
+https://codeforces.com/problemset/problem/1732/B
+
+brute force
+
+900
+
+A binary string is a string consisting only of the characters 0 and 1. You are given a binary string s_1 s_2 \ldots s_n. It is necessary to make this string non-decreasing in the least number of operations. In other words, each character should be not less than the previous. In one operation, you can do the following: Select an arbitrary index 1 \leq i \leq n in the string; For all j \geq i, change the value in the j-th position to the opposite, that is, if s_j = 1, then make s_j = 0, and vice versa.What is the minimum number of operations needed to make the string non-decreasing?

@@ -1,0 +1,9 @@
+Tests for problem D                    
+
+https://codeforces.com/problemset/problem/1278/E
+
+constructive algorithms
+
+2200
+
+We had a really tough time generating tests for problem D. In order to prepare strong tests, we had to solve the following problem.Given an undirected labeled tree consisting of n vertices, find a set of segments such that:  both endpoints of each segment are integers from 1 to 2n, and each integer from 1 to 2n should appear as an endpoint of exactly one segment;  all segments are non-degenerate;  for each pair (i, j) such that i \ne j, i \in [1, n] and j \in [1, n], the vertices i and j are connected with an edge if and only if the segments i and j intersect, but neither segment i is fully contained in segment j, nor segment j is fully contained in segment i. Can you solve this problem too?

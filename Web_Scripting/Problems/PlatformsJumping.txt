@@ -1,0 +1,9 @@
+Platforms Jumping                    
+
+https://codeforces.com/problemset/problem/1256/C
+
+greedy
+
+1700
+
+There is a river of width n. The left bank of the river is cell 0 and the right bank is cell n + 1 (more formally, the river can be represented as a sequence of n + 2 cells numbered from 0 to n + 1). There are also m wooden platforms on a river, the i-th platform has length c_i (so the i-th platform takes c_i consecutive cells of the river). It is guaranteed that the sum of lengths of platforms does not exceed n.You are standing at 0 and want to reach n+1 somehow. If you are standing at the position x, you can jump to any position in the range [x + 1; x + d]. However you don't really like the water so you can jump only to such cells that belong to some wooden platform. For example, if d=1, you can jump only to the next position (if it belongs to the wooden platform). You can assume that cells 0 and n+1 belong to wooden platforms.You want to know if it is possible to reach n+1 from 0 if you can move any platform to the left or to the right arbitrary number of times (possibly, zero) as long as they do not intersect each other (but two platforms can touch each other). It also means that you cannot change the relative order of platforms.Note that you should move platforms until you start jumping (in other words, you first move the platforms and then start jumping).For example, if n=7, m=3, d=2 and c = [1, 2, 1], then one of the ways to reach 8 from 0 is follow:  The first example: n=7. 

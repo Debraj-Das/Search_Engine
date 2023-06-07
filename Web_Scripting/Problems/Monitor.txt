@@ -1,0 +1,9 @@
+Monitor                    
+
+httpscodeforcescomproblemsetproblem846D
+
+binary search
+
+1900
+
+Recently Luba bought a monitor Monitor is a rectangular matrix of size nm But then she started to notice that some pixels cease to work properly Luba thinks that the monitor will become broken the first moment when it contains a square kk consisting entirely of broken pixels She knows that q pixels are already broken and for each of them she knows the moment when it stopped working Help Luba to determine when the monitor became broken or tell that its still not broken even after all q pixels stopped working

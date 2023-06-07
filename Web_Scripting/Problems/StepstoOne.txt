@@ -1,0 +1,9 @@
+Steps to One                    
+
+https://codeforces.com/problemset/problem/1139/D
+
+dp
+
+2300
+
+Vivek initially has an empty array a and some integer constant m.He performs the following algorithm:  Select a random integer x uniformly in range from 1 to m and append it to the end of a.  Compute the greatest common divisor of integers in a.  In case it equals to 1, break  Otherwise, return to step 1. Find the expected length of a. It can be shown that it can be represented as \frac{P}{Q} where P and Q are coprime integers and Q\neq 0 \pmod{10^9+7}. Print the value of P \cdot Q^{-1} \pmod{10^9+7}.

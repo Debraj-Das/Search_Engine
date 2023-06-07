@@ -1,0 +1,9 @@
+Anatoly and Cockroaches                    
+
+https://codeforces.com/problemset/problem/719/B
+
+greedy
+
+1400
+
+Anatoly lives in the university dorm as many other students do. As you know, cockroaches are also living there together with students. Cockroaches might be of two colors: black and red. There are n cockroaches living in Anatoly's room.Anatoly just made all his cockroaches to form a single line. As he is a perfectionist, he would like the colors of cockroaches in the line to alternate. He has a can of black paint and a can of red paint. In one turn he can either swap any two cockroaches, or take any single cockroach and change it's color.Help Anatoly find out the minimum number of turns he needs to make the colors of cockroaches in the line alternate.

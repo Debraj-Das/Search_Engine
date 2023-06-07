@@ -1,0 +1,9 @@
+Power Defence                    
+
+httpscodeforcescomproblemsetproblem175E
+
+brute force
+
+2600
+
+Vasya plays the Power Defence He must pass the last level of the game In order to do this he must kill the Main Villain who moves in a straight line at speed 1 meter per second from the point 0 to the point 0 of the game world In the points x1 and x1 where x is an integer number Vasya can build towers of three types firetower electrictower or freezingtower However it is not allowed to build two towers at the same point Towers of each type have a certain action radius and the value of damage per second except freezingtower If at some point the Main Villain is in the range of action of k freezing towers then his speed is decreased by k1 timesThe allowed number of towers of each type is known It is necessary to determine the maximum possible damage we can inflict on the Main VillainAll distances in the problem are given in meters The size of the Main Villain and the towers are so small that they can be considered as points on the plane The Main Villain is in the action radius of a tower if the distance between him and tower is less than or equal to the action radius of the tower

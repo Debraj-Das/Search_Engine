@@ -1,0 +1,9 @@
+Number Discovery                    
+
+https://codeforces.com/problemset/problem/1242/D
+
+math
+
+3400
+
+Ujan needs some rest from cleaning, so he started playing with infinite sequences. He has two integers n and k. He creates an infinite sequence s by repeating the following steps.  Find k smallest distinct positive integers that are not in s. Let's call them u_{1}, u_{2}, \ldots, u_{k} from the smallest to the largest.  Append u_{1}, u_{2}, \ldots, u_{k} and \sum_{i=1}^{k} u_{i} to s in this order.  Go back to the first step. Ujan will stop procrastinating when he writes the number n in the sequence s. Help him find the index of n in s. In other words, find the integer x such that s_{x} = n. It's possible to prove that all positive integers are included in s only once.

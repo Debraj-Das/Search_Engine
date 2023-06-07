@@ -1,0 +1,9 @@
+Division into Teams                    
+
+httpscodeforcescomproblemsetproblem149C
+
+greedy
+
+1500
+
+Petya loves football very much especially when his parents arent home Each morning he comes to the yard gathers his friends and they play all day From time to time they have a break to have some food or do some chores for example water the flowersThe key in football is to divide into teams fairly before the game begins There are n boys playing football in the yard including Petya each boys football playing skill is expressed with a nonnegative characteristic ai the larger it is the better the boy plays Lets denote the number of players in the first team as x the number of players in the second team as y the individual numbers of boys who play for the first team as pi and the individual numbers of boys who play for the second team as qi Division n boys into two teams is considered fair if three conditions are fulfilled  Each boy plays for exactly one team xyn  The sizes of teams differ in no more than one xy1  The total football playing skills for two teams differ in no more than by the value of skill the best player in the yard has More formally Your task is to help guys divide into two teams fairly It is guaranteed that a fair division into two teams always exists

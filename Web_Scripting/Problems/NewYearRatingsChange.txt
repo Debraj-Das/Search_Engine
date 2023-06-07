@@ -1,0 +1,9 @@
+New Year Ratings Change                    
+
+https://codeforces.com/problemset/problem/379/C
+
+greedy
+
+1400
+
+One very well-known internet resource site (let's call it X) has come up with a New Year adventure. Specifically, they decided to give ratings to all visitors.There are n users on the site, for each user we know the rating value he wants to get as a New Year Present. We know that user i wants to get at least ai rating units as a present.The X site is administered by very creative and thrifty people. On the one hand, they want to give distinct ratings and on the other hand, the total sum of the ratings in the present must be as small as possible.Help site X cope with the challenging task of rating distribution. Find the optimal distribution.

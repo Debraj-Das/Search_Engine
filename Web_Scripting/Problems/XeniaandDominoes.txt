@@ -1,0 +1,9 @@
+Xenia and Dominoes                    
+
+httpscodeforcescomproblemsetproblem342D
+
+bitmasks
+
+2100
+
+Xenia likes puzzles very much She is especially fond of the puzzles that consist of domino pieces Look at the picture that shows one of such puzzles  A puzzle is a 3n table with forbidden cells black squares containing dominoes colored rectangles on the picture A puzzle is called correct if it meets the following conditions  each domino occupies exactly two nonforbidden cells of the table  no two dominoes occupy the same table cell  exactly one nonforbidden cell of the table is unoccupied by any domino it is marked by a circle in the picture To solve the puzzle you need multiple steps to transport an empty cell from the starting position to some specified position A move is transporting a domino to the empty cell provided that the puzzle stays correct The horizontal dominoes can be moved only horizontally and vertical dominoes can be moved only vertically You cant rotate dominoes The picture shows a probable moveXenia has a 3n table with forbidden cells and a cell marked with a circle Also Xenia has very many identical dominoes Now Xenia is wondering how many distinct correct puzzles she can make if she puts dominoes on the existing table Also Xenia wants the circlemarked cell to be empty in the resulting puzzle The puzzle must contain at least one moveHelp Xenia count the described number of puzzles As the described number can be rather large print the remainder after dividing it by 1000000007 1097

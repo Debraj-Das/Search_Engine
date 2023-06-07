@@ -1,0 +1,9 @@
+Runaway to a Shadow                    
+
+httpscodeforcescomproblemsetproblem681E
+
+geometry
+
+2500
+
+Dima is living in a dormitory as well as some cockroachesAt the moment 0 Dima saw a cockroach running on a table and decided to kill it Dima needs exactly T seconds for aiming and after that he will precisely strike the cockroach and finish itTo survive the cockroach has to run into a shadow cast by round plates standing on the table in T seconds Shadow casted by any of the plates has the shape of a circle Shadow circles may intersect nest or overlap arbitrarilyThe cockroach uses the following strategy first he equiprobably picks a direction to run towards and then runs towards it with the constant speed v If at some moment tT it reaches any shadow circle it immediately stops in the shadow and thus will stay alive Otherwise the cockroach is killed by the Dimas precise strike Consider that the Dimas precise strike is instantDetermine the probability of that the cockroach will stay alive

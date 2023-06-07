@@ -1,0 +1,9 @@
+Subsequences Galore                    
+
+httpscodeforcescomproblemsetproblem1620G
+
+bitmasks
+
+2400
+
+For a sequence of strings t1 t2 dots tm lets define the function ft1 t2 dots tm as the number of different strings including the empty string that are subsequences of at least one string ti f  0 ie the number of such strings for an empty sequence is 0You are given a sequence of strings s1 s2 dots sn Every string in this sequence consists of lowercase Latin letters and is sorted ie each string begins with several maybe zero characters a then several maybe zero characters b  ends with several maybe zero characters zFor each of 2n subsequences of s1 s2 dots sn calculate the value of the function f modulo 998244353

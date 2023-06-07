@@ -1,0 +1,9 @@
+Nuclear Fusion                    
+
+https://codeforces.com/problemset/problem/71/E
+
+bitmasks
+
+2200
+
+There is the following puzzle popular among nuclear physicists.A reactor contains a set of n atoms of some chemical elements. We shall understand the phrase "atomic number" as the number of this atom's element in the periodic table of the chemical elements.You are allowed to take any two different atoms and fuse a new one from them. That results in a new atom, whose number is equal to the sum of the numbers of original atoms. The fusion operation can be performed several times.The aim is getting a new pregiven set of k atoms.The puzzle's difficulty is that it is only allowed to fuse two atoms into one, it is not allowed to split an atom into several atoms. You are suggested to try to solve the puzzle.

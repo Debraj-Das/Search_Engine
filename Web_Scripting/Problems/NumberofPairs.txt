@@ -1,0 +1,9 @@
+Number of Pairs                    
+
+https://codeforces.com/problemset/problem/1538/C
+
+binary search
+
+1300
+
+You are given an array a of n integers. Find the number of pairs (i, j) (1 \le i < j \le n) where the sum of a_i + a_j is greater than or equal to l and less than or equal to r (that is, l \le a_i + a_j \le r).For example, if n = 3, a = [5, 1, 2], l = 4 and r = 7, then two pairs are suitable:   i=1 and j=2 (4 \le 5 + 1 \le 7);  i=1 and j=3 (4 \le 5 + 2 \le 7). 

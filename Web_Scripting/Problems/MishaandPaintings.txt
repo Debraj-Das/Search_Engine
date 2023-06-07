@@ -1,0 +1,9 @@
+Misha and Paintings                    
+
+https://codeforces.com/problemset/problem/1720/E
+
+constructive algorithms
+
+2700
+
+Misha has a square n \times n matrix, where the number in row i and column j is equal to a_{i, j}. Misha wants to modify the matrix to contain exactly k distinct integers. To achieve this goal, Misha can perform the following operation zero or more times:  choose any square submatrix of the matrix (you choose (x_1,y_1), (x_2,y_2), such that x_1 \leq x_2, y_1 \leq y_2, x_2 - x_1 = y_2 - y_1, then submatrix is a set of cells with coordinates (x, y), such that x_1 \leq x \leq x_2, y_1 \leq y \leq y_2),  choose an integer k, where 1 \leq k \leq n^2,  replace all integers in the submatrix with k. Please find the minimum number of operations that Misha needs to achieve his goal.

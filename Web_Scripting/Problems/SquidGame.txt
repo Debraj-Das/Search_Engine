@@ -1,0 +1,9 @@
+Squid Game                    
+
+https://codeforces.com/problemset/problem/1610/H
+
+data structures
+
+3100
+
+After watching the new over-rated series Squid Game, Mashtali and Soroush decided to hold their own Squid Games! Soroush agreed to be the host and will provide money for the winner's prize, and Mashtali became the Front Man!m players registered to play in the games to win the great prize, but when Mashtali found out how huge the winner's prize is going to be, he decided to kill eliminate all the players so he could take the money for himself!Here is how evil Mashtali is going to eliminate players:There is an unrooted tree with n vertices. Every player has 2 special vertices x_i and y_i.In one operation, Mashtali can choose any vertex v of the tree. Then, for each remaining player i he finds a vertex w on the simple path from x_i to y_i, which is the closest to v. If w\ne x_i and w\ne y_i, player i will be eliminated.Now Mashtali wondered: "What is the minimum number of operations I should perform so that I can remove every player from the game and take the money for myself?"Since he was only thinking about the money, he couldn't solve the problem by himself and asked for your help!

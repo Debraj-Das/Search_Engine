@@ -1,0 +1,9 @@
+Era                    
+
+https://codeforces.com/problemset/problem/1604/A
+
+greedy
+
+800
+
+Shohag has an integer sequence a_1, a_2, \ldots, a_n. He can perform the following operation any number of times (possibly, zero):  Select any positive integer k (it can be different in different operations).  Choose any position in the sequence (possibly the beginning or end of the sequence, or in between any two elements) and insert k into the sequence at this position.  This way, the sequence a changes, and the next operation is performed on this changed sequence. For example, if a=[3,3,4] and he selects k = 2, then after the operation he can obtain one of the sequences [\underline{2},3,3,4], [3,\underline{2},3,4], [3,3,\underline{2},4], or [3,3,4,\underline{2}].Shohag wants this sequence to satisfy the following condition: for each 1 \le i \le |a|, a_i \le i. Here, |a| denotes the size of a.Help him to find the minimum number of operations that he has to perform to achieve this goal. We can show that under the constraints of the problem it's always possible to achieve this goal in a finite number of operations.

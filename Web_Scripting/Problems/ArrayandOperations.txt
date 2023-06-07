@@ -1,0 +1,9 @@
+Array and Operations                    
+
+httpscodeforcescomproblemsetproblem498C
+
+flows
+
+2100
+
+You have written on a piece of paper an array of n positive integers a1a2an and m good pairs of integers i1j1i2j2imjm Each good pair ikjk meets the following conditions ikjk is an odd number and 1ikjknIn one operation you can perform a sequence of actions   take one of the good pairs ikjk and some integer v v1 which divides both numbers aik and ajk  divide both numbers by v i e perform the assignments  and  Determine the maximum number of operations you can sequentially perform on the given array Note that one pair may be used several times in the described operations

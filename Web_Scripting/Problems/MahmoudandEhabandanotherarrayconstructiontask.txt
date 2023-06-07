@@ -1,0 +1,9 @@
+Mahmoud and Ehab and another array construction task                    
+
+httpscodeforcescomproblemsetproblem959D
+
+constructive algorithms
+
+1900
+
+Mahmoud has an array a consisting of n integers He asked Ehab to find another array b of the same length such that  b is lexicographically greater than or equal to a  bi2  b is pairwise coprime for every 1ijn bi and bj are coprime ie GCDbibj1 where GCDwz is the greatest common divisor of w and z Ehab wants to choose a special array so he wants the lexicographically minimal array between all the variants Can you find itAn array x is lexicographically greater than an array y if there exists an index i such than xiyi and xjyj for all 1ji An array x is equal to an array y if xiyi for all 1in

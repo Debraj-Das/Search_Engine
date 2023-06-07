@@ -1,0 +1,9 @@
+Doremy's Perfect Math Class                    
+
+https://codeforces.com/problemset/problem/1764/B
+
+math
+
+900
+
+"Everybody! Doremy's Perfect Math Class is about to start! Come and do your best if you want to have as much IQ as me!" In today's math class, Doremy is teaching everyone subtraction. Now she gives you a quiz to prove that you are paying attention in class.You are given a set S containing positive integers. You may perform the following operation some (possibly zero) number of times:  choose two integers x and y from the set S such that x > y and x - y is not in the set S.  add x-y into the set S. You need to tell Doremy the maximum possible number of integers in S if the operations are performed optimally. It can be proven that this number is finite.

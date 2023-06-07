@@ -1,0 +1,9 @@
+Set Construction                    
+
+https://codeforces.com/problemset/problem/1761/C
+
+constructive algorithms
+
+1400
+
+You are given a binary matrix b (all elements of the matrix are 0 or 1) of n rows and n columns.You need to construct a n sets A_1, A_2, \ldots, A_n, for which the following conditions are satisfied:  Each set is nonempty and consists of distinct integers between 1 and n inclusive.  All sets are distinct.  For all pairs (i,j) satisfying 1\leq i, j\leq n, b_{i,j}=1 if and only if A_i\subsetneq A_j. In other words, b_{i, j} is 1 if A_i is a proper subset of A_j and 0 otherwise. Set X is a proper subset of set Y, if X is a nonempty subset of Y, and X \neq Y.It's guaranteed that for all test cases in this problem, such n sets exist. Note that it doesn't mean that such n sets exist for all possible inputs.If there are multiple solutions, you can output any of them.

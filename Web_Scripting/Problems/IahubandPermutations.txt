@@ -1,0 +1,9 @@
+Iahub and Permutations                    
+
+httpscodeforcescomproblemsetproblem340E
+
+combinatorics
+
+2000
+
+Iahub is so happy about inventing bubble sort graphs that hes staying all day long at the office and writing permutations Iahubina is angry that she is no more important for Iahub When Iahub goes away Iahubina comes to his office and sabotage his research workThe girl finds an important permutation for the research The permutation contains n distinct integers a1 a2  an 1ain She replaces some of permutation elements with 1 value as a revenge When Iahub finds out his important permutation is broken he tries to recover it The only thing he remembers about the permutation is it didnt have any fixed point A fixed point for a permutation is an element ak which has value equal to k akk Your job is to proof to Iahub that trying to recover it is not a good idea Output the number of permutations which could be originally Iahubs important permutation modulo 1000000007 1097

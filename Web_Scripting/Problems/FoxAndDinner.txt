@@ -1,0 +1,9 @@
+Fox And Dinner                    
+
+httpscodeforcescomproblemsetproblem510E
+
+flows
+
+2300
+
+Fox Ciel is participating in a party in Prime Kingdom There are n foxes there include Fox Ciel The ith fox is ai years oldThey will have dinner around some round tables You want to distribute foxes such that  Each fox is sitting at some table  Each table has at least 3 foxes sitting around it  The sum of ages of any two adjacent foxes around each table should be a prime number If k foxes f1 f2  fk are sitting around table in clockwise order then for 1ik1 fi and fi1 are adjacent and f1 and fk are also adjacentIf it is possible to distribute the foxes in the desired manner find out a way to do that

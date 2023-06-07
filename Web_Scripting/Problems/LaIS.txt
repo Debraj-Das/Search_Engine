@@ -1,0 +1,9 @@
+LaIS                    
+
+https://codeforces.com/problemset/problem/1468/A
+
+data structures
+
+2200
+
+Let's call a sequence b_1, b_2, b_3 \dots, b_{k - 1}, b_k almost increasing if \min(b_1, b_2) \le \min(b_2, b_3) \le \dots \le \min(b_{k - 1}, b_k). In particular, any sequence with no more than two elements is almost increasing.You are given a sequence of integers a_1, a_2, \dots, a_n. Calculate the length of its longest almost increasing subsequence.You'll be given t test cases. Solve each test case independently.Reminder: a subsequence is a sequence that can be derived from another sequence by deleting some elements without changing the order of the remaining elements.

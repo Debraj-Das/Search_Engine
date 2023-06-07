@@ -1,0 +1,9 @@
+Ezzat and Two Subsequences                    
+
+https://codeforces.com/problemset/problem/1557/A
+
+brute force
+
+800
+
+Ezzat has an array of n integers (maybe negative). He wants to split it into two non-empty subsequences a and b, such that every element from the array belongs to exactly one subsequence, and the value of f(a) + f(b) is the maximum possible value, where f(x) is the average of the subsequence x. A sequence x is a subsequence of a sequence y if x can be obtained from y by deletion of several (possibly, zero or all) elements.The average of a subsequence is the sum of the numbers of this subsequence divided by the size of the subsequence.For example, the average of [1,5,6] is (1+5+6)/3 = 12/3 = 4, so f([1,5,6]) = 4.

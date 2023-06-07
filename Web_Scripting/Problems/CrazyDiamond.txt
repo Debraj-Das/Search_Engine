@@ -1,0 +1,9 @@
+Crazy Diamond                    
+
+https://codeforces.com/problemset/problem/1148/C
+
+constructive algorithms
+
+1700
+
+You are given a permutation p of integers from 1 to n, where n is an even number. Your goal is to sort the permutation. To do so, you can perform zero or more operations of the following type:   take two indices i and j such that 2 \cdot |i - j| \geq n and swap p_i and p_j. There is no need to minimize the number of operations, however you should use no more than 5 \cdot n operations. One can show that it is always possible to do that.

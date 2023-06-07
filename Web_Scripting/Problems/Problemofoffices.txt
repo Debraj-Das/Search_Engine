@@ -1,0 +1,9 @@
+Problem of offices                    
+
+httpscodeforcescomproblemsetproblem793E
+
+constructive algorithms
+
+2900
+
+Earlier when there was no Internet each bank had a lot of offices all around Bankopolis and it caused a lot of problems Namely each day the bank had to collect cash from all the officesOnce Oleg the bank client heard a dialogue of two cash collectors Each day they traveled through all the departments and offices of the bank following the same route every day The collectors started from the central department and moved between some departments or between some department and some office using special roads Finally they returned to the central department The total number of departments and offices was n the total number of roads was n1 In other words the special roads system was a rooted tree in which the root was the central department the leaves were offices the internal vertices were departments The collectors always followed the same route in which the number of roads was minimum possible that is 2n2One of the collectors said that the number of offices they visited between their visits to offices a and then b in the given order is equal to the number of offices they visited between their visits to offices b and then a in this order The other collector said that the number of offices they visited between their visits to offices c and then d in this order is equal to the number of offices they visited between their visits to offices d and then c in this order The interesting part in this talk was that the shortest path using special roads only between any pair of offices among a b c and d passed through the central departmentGiven the special roads map and the indexes of offices a b c and d determine if the situation described by the collectors was possible or not

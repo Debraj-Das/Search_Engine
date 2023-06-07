@@ -1,0 +1,9 @@
+Slime Escape                    
+
+https://codeforces.com/problemset/problem/1734/D
+
+data structures
+
+1800
+
+You are playing a game called Slime Escape. The game takes place on a number line. Initially, there are n slimes. For all positive integers i where 1 \le i \le n, the i-th slime is located at position i and has health a_i. You are controlling the slime at position k. There are two escapes located at positions 0 and n+1. Your goal is to reach any one of the two escapes by performing any number of game moves.In one game move, you move your slime to the left or right by one position. However, if there is another slime in the new position, you must absorb it. When absorbing a slime, the health of your slime would be increased by the health of the absorbed slime, then the absorbed slime would be removed from the game.Note that some slimes might have negative health, so your health would decrease when absorbing such slimes. You lose the game immediately if your slime has negative health at any moment during the game.Can you reach one of two escapes by performing any number of game moves, without ever losing the game?

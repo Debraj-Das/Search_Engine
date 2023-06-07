@@ -1,0 +1,9 @@
+Pride                    
+
+httpscodeforcescomproblemsetproblem891A
+
+brute force
+
+1500
+
+You have an array a with length n you can perform operations Each operation is like this choose two adjacent elements from a say x and y and replace one of them with gcdxy where gcd denotes the greatest common divisorWhat is the minimum number of operations you need to make all of the elements equal to 1

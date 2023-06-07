@@ -1,0 +1,9 @@
+Distance Tree (easy version)                    
+
+https://codeforces.com/problemset/problem/1632/E1
+
+binary search
+
+2400
+
+This version of the problem differs from the next one only in the constraint on n.A tree is a connected undirected graph without cycles. A weighted tree has a weight assigned to each edge. The distance between two vertices is the minimum sum of weights on the path connecting them.You are given a weighted tree with n vertices, each edge has a weight of 1. Denote d(v) as the distance between vertex 1 and vertex v.Let f(x) be the minimum possible value of \max\limits_{1 \leq v \leq n} \ {d(v)} if you can temporarily add an edge with weight x between any two vertices a and b (1 \le a, b \le n). Note that after this operation, the graph is no longer a tree.For each integer x from 1 to n, find f(x).

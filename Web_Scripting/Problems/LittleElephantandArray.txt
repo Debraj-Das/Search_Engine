@@ -1,0 +1,9 @@
+Little Elephant and Array                    
+
+httpscodeforcescomproblemsetproblem220B
+
+constructive algorithms
+
+1800
+
+The Little Elephant loves playing with arrays He has array a consisting of n positive integers indexed from 1 to n Lets denote the number with index i as ai Additionally the Little Elephant has m queries to the array each query is characterised by a pair of integers lj and rj 1ljrjn For each query ljrj the Little Elephant has to count how many numbers x exist such that number x occurs exactly x times among numbers aljalj1arjHelp the Little Elephant to count the answers to all queries

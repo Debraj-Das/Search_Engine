@@ -1,0 +1,9 @@
+Random Forest Rank                    
+
+https://codeforces.com/problemset/problem/1067/E
+
+dp
+
+2800
+
+Let's define rank of undirected graph as rank of its adjacency matrix in \mathbb{R}^{n \times n}.Given a tree. Each edge of this tree will be deleted with probability 1/2, all these deletions are independent. Let E be the expected rank of resulting forest. Find E \cdot 2^{n-1} modulo 998244353 (it is easy to show that E \cdot 2^{n-1} is an integer).

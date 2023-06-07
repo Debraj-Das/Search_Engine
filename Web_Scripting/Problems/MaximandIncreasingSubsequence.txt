@@ -1,0 +1,9 @@
+Maxim and Increasing Subsequence                    
+
+httpscodeforcescomproblemsetproblem261D
+
+dp
+
+2600
+
+Maxim loves sequences especially those that strictly increase He is wondering what is the length of the longest increasing subsequence of the given sequence aSequence a is given as follows   the length of the sequence equals nt   1int where operation  means taking the remainder after dividing number x by number y Sequence s1s2sr of length r is a subsequence of sequence a1a2an if there is such increasing sequence of indexes i1i2ir 1i1i2 irn that aijsj In other words the subsequence can be obtained from the sequence by crossing out some elementsSequence s1s2sr is increasing if the following inequality holds s1s2srMaxim have k variants of the sequence a Help Maxim to determine for each sequence the length of the longest increasing subsequence

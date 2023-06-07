@@ -1,0 +1,9 @@
+Game                    
+
+https://codeforces.com/problemset/problem/995/D
+
+math
+
+2500
+
+Allen and Bessie are playing a simple number game. They both know a function f: \{0, 1\}^n \to \mathbb{R}, i. e. the function takes n binary arguments and returns a real value. At the start of the game, the variables x_1, x_2, \dots, x_n are all set to -1. Each round, with equal probability, one of Allen or Bessie gets to make a move. A move consists of picking an i such that x_i = -1 and either setting x_i \to 0 or x_i \to 1.After n rounds all variables are set, and the game value resolves to f(x_1, x_2, \dots, x_n). Allen wants to maximize the game value, and Bessie wants to minimize it.Your goal is to help Allen and Bessie find the expected game value! They will play r+1 times though, so between each game, exactly one value of f changes. In other words, between rounds i and i+1 for 1 \le i \le r, f(z_1, \dots, z_n) \to g_i for some (z_1, \dots, z_n) \in \{0, 1\}^n. You are to find the expected game value in the beginning and after each change.

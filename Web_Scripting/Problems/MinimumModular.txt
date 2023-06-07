@@ -1,0 +1,9 @@
+Minimum Modular                    
+
+httpscodeforcescomproblemsetproblem303C
+
+brute force
+
+2400
+
+You have been given n distinct integers a1a2an You can remove at most k of them Find the minimum modular m m0 so that for every pair of the remaining integers aiaj the following unequality holds 

@@ -1,0 +1,9 @@
+Sorted Adjacent Differences                    
+
+https://codeforces.com/problemset/problem/1339/B
+
+constructive algorithms
+
+1200
+
+You have array of n numbers a_{1}, a_{2}, \ldots, a_{n}. Rearrange these numbers to satisfy |a_{1} - a_{2}| \le |a_{2} - a_{3}| \le \ldots \le |a_{n-1} - a_{n}|, where |x| denotes absolute value of x. It's always possible to find such rearrangement.Note that all numbers in a are not necessarily different. In other words, some numbers of a may be same.You have to answer independent t test cases.

@@ -1,0 +1,9 @@
+The Classic Problem                    
+
+https://codeforces.com/problemset/problem/464/E
+
+data structures
+
+3000
+
+You are given a weighted undirected graph on n vertices and m edges. Find the shortest path from vertex s to vertex t or else state that such path doesn't exist.

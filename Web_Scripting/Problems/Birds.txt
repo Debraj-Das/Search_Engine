@@ -1,0 +1,9 @@
+Birds                    
+
+https://codeforces.com/problemset/problem/922/E
+
+dp
+
+2200
+
+Apart from plush toys, Imp is a huge fan of little yellow birds!  To summon birds, Imp needs strong magic. There are n trees in a row on an alley in a park, there is a nest on each of the trees. In the i-th nest there are ci birds; to summon one bird from this nest Imp needs to stay under this tree and it costs him costi points of mana. However, for each bird summoned, Imp increases his mana capacity by B points. Imp summons birds one by one, he can summon any number from 0 to ci birds from the i-th nest. Initially Imp stands under the first tree and has W points of mana, and his mana capacity equals W as well. He can only go forward, and each time he moves from a tree to the next one, he restores X points of mana (but it can't exceed his current mana capacity). Moving only forward, what is the maximum number of birds Imp can summon?

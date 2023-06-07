@@ -1,0 +1,9 @@
+Slime Combining                    
+
+httpscodeforcescomproblemsetproblem618A
+
+implementation
+
+800
+
+Your friend recently gave you some slimes for your birthday You have n slimes all initially with value 1You are going to play a game with these slimes Initially you put a single slime by itself in a row Then you will add the other n1 slimes one by one When you add a slime you place it at the right of all already placed slimes Then while the last two slimes in the row have the same value v you combine them together to create a slime with value v1You would like to see what the final state of the row is after youve added all n slimes Please print the values of the slimes in the row from left to right

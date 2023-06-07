@@ -1,0 +1,9 @@
+Cubes                    
+
+httpscodeforcescomproblemsetproblem243D
+
+data structures
+
+2700
+
+One day Petya got a set of wooden cubes as a present from his mom Petya immediately built a whole city from these cubesThe base of the city is an nn square divided into unit squares The squares sides are parallel to the coordinate axes the squares opposite corners have coordinates 00 and nn On each of the unit squares Petya built a tower of wooden cubes The side of a wooden cube also has a unit lengthAfter that Petya went an infinitely large distance away from his masterpiece and looked at it in the direction of vector vvxvy0 Petya wonders how many distinct cubes are visible from this position Help him find this numberEach cube includes the border We think that a cube is visible if there is a ray emanating from some point p belonging to the cube in the direction of vector v that doesnt contain any points belonging to other cubes

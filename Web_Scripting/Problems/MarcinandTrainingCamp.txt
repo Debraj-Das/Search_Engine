@@ -1,0 +1,9 @@
+Marcin and Training Camp                    
+
+https://codeforces.com/problemset/problem/1210/B
+
+brute force
+
+1700
+
+Marcin is a coach in his university. There are n students who want to attend a training camp. Marcin is a smart coach, so he wants to send only the students that can work calmly with each other.Let's focus on the students. They are indexed with integers from 1 to n. Each of them can be described with two integers a_i and b_i; b_i is equal to the skill level of the i-th student (the higher, the better). Also, there are 60 known algorithms, which are numbered with integers from 0 to 59. If the i-th student knows the j-th algorithm, then the j-th bit (2^j) is set in the binary representation of a_i. Otherwise, this bit is not set.Student x thinks that he is better than student y if and only if x knows some algorithm which y doesn't know. Note that two students can think that they are better than each other. A group of students can work together calmly if no student in this group thinks that he is better than everyone else in this group.Marcin wants to send a group of at least two students which will work together calmly and will have the maximum possible sum of the skill levels. What is this sum?

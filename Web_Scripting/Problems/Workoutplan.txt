@@ -1,0 +1,9 @@
+Workout plan                    
+
+https://codeforces.com/problemset/problem/1218/F
+
+data structures
+
+1500
+
+Alan decided to get in shape for the summer, so he created a precise workout plan to follow. His plan is to go to a different gym every day during the next N days and lift X[i] grams on day i. In order to improve his workout performance at the gym, he can buy exactly one pre-workout drink at the gym he is currently in and it will improve his performance by A grams permanently and immediately. In different gyms these pre-workout drinks can cost different amounts C[i] because of the taste and the gym's location but its permanent workout gains are the same. Before the first day of starting his workout plan, Alan knows he can lift a maximum of K grams. Help Alan spend a minimum total amount of money in order to reach his workout plan. If there is no way for him to complete his workout plan successfully output -1.

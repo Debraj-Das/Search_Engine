@@ -1,0 +1,9 @@
+Professor GukiZs Robot                    
+
+httpscodeforcescomproblemsetproblem620A
+
+implementation
+
+800
+
+Professor GukiZ makes a new robot The robot are in the point with coordinates x1y1 and should go to the point x2y2 In a single step the robot can change any of its coordinates maybe both of them by one decrease or increase So the robot can move in one of the 8 directions Find the minimal number of steps the robot should make to get the finish position

@@ -1,0 +1,9 @@
+Create a Maze                    
+
+httpscodeforcescomproblemsetproblem715D
+
+constructive algorithms
+
+3100
+
+ZS the Coder loves mazes Your job is to create one so that he can play with it A maze consists of nm rooms and the rooms are arranged in n rows numbered from the top to the bottom starting from 1 and m columns numbered from the left to the right starting from 1 The room in the ith row and jth column is denoted by ij A player starts in the room 11 and wants to reach the room nmEach room has four doors except for ones at the maze border one on each of its walls and two adjacent by the wall rooms shares the same door Some of the doors are locked which means it is impossible to pass through the door For example if the door connecting ij and ij1 is locked then we cant go from ij to ij1 Also one can only travel between the rooms downwards from the room ij to the room i1j or rightwards from the room ij to the room ij1 provided the corresponding door is not locked  This image represents a maze with some doors locked The colored arrows denotes all the possible paths while a red cross denotes a locked door ZS the Coder considers a maze to have difficulty x if there is exactly x ways of travelling from the room 11 to the room nm Two ways are considered different if they differ by the sequence of rooms visited while travellingYour task is to create a maze such that its difficulty is exactly equal to T In addition ZS the Coder doesnt like large mazes so the size of the maze and the number of locked doors are limited Sounds simple enough right

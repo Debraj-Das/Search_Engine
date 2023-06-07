@@ -1,0 +1,9 @@
+The Thorny Path                    
+
+https://codeforces.com/problemset/problem/1411/F
+
+greedy
+
+3000
+
+According to a legend the Hanoi Temple holds a permutation of integers from 1 to n. There are n stones of distinct colors lying in one line in front of the temple. Monks can perform the following operation on stones: choose a position i (1 \le i \le n) and cyclically shift stones at positions i, p[i], p[p[i]], .... That is, a stone from position i will move to position p[i], a stone from position p[i] will move to position p[p[i]], and so on, a stone from position j, such that p[j] = i, will move to position i.Each day the monks must obtain a new arrangement of stones using an arbitrary number of these operations. When all possible arrangements will have been obtained, the world will end. You are wondering, what if some elements of the permutation could be swapped just before the beginning? How many days would the world last?You want to get a permutation that will allow the world to last as long as possible, using the minimum number of exchanges of two elements of the permutation.Two arrangements of stones are considered different if there exists a position i such that the colors of the stones on that position are different in these arrangements.

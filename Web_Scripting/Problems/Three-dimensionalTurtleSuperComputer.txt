@@ -1,0 +1,9 @@
+Threedimensional Turtle Super Computer                     
+
+httpscodeforcescomproblemsetproblem638D
+
+brute force
+
+1800
+
+A super computer has been built in the Turtle Academy of Sciences The computer consists of nmk CPUs The architecture was the paralellepiped of size nmk split into 111 cells each cell contains exactly one CPU Thus each CPU can be simultaneously identified as a group of three numbers from the layer number from 1 to n the line number from 1 to m and the column number from 1 to kIn the process of the Super Computers work the CPUs can send each other messages by the famous turtle scheme CPU xyz can send messages to CPUs x1yz xy1z and xyz1 of course if they exist there is no feedback that is CPUs x1yz xy1z and xyz1 cannot send messages to CPU xyzOver time some CPUs broke down and stopped working Such CPUs cannot send messages receive messages or serve as intermediates in transmitting messages We will say that CPU abc controls CPU def  if there is a chain of CPUs xiyizi such that x1ay1bz1c xpdypezpf here and below p is the length of the chain and the CPU in the chain with number i ip can send messages to CPU i1Turtles are quite concerned about the denialproofness of the system of communication between the remaining CPUs For that they want to know the number of critical CPUs A CPU xyz is critical if turning it off will disrupt some control that is if there are two distinctive from xyz CPUs abc and def such that abc controls def before xyz is turned off and stopped controlling it after the turning off

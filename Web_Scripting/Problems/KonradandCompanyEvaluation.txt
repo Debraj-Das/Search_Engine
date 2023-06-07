@@ -1,0 +1,9 @@
+Konrad and Company Evaluation                    
+
+https://codeforces.com/problemset/problem/1210/D
+
+graphs
+
+2400
+
+Konrad is a Human Relations consultant working for VoltModder, a large electrical equipment producer. Today, he has been tasked with evaluating the level of happiness in the company.There are n people working for VoltModder, numbered from 1 to n. Each employee earns a different amount of money in the company — initially, the i-th person earns i rubles per day.On each of q following days, the salaries will be revised. At the end of the i-th day, employee v_i will start earning n+i rubles per day and will become the best-paid person in the company. The employee will keep his new salary until it gets revised again.Some pairs of people don't like each other. This creates a great psychological danger in the company. Formally, if two people a and b dislike each other and a earns more money than b, employee a will brag about this to b. A dangerous triple is a triple of three employees a, b and c, such that a brags to b, who in turn brags to c. If a dislikes b, then b dislikes a.At the beginning of each day, Konrad needs to evaluate the number of dangerous triples in the company. Can you help him do it?

@@ -1,0 +1,9 @@
+Vasya and Triangle                    
+
+https://codeforces.com/problemset/problem/1030/D
+
+geometry
+
+1800
+
+Vasya has got three integers n, m and k. He'd like to find three integer points (x_1, y_1), (x_2, y_2), (x_3, y_3), such that 0 \le x_1, x_2, x_3 \le n, 0 \le y_1, y_2, y_3 \le m and the area of the triangle formed by these points is equal to \frac{nm}{k}.Help Vasya! Find such points (if it's possible). If there are multiple solutions, print any of them.

@@ -1,0 +1,9 @@
+Three Days Grace                    
+
+https://codeforces.com/problemset/problem/1699/E
+
+data structures
+
+2600
+
+Ibti was thinking about a good title for this problem that would fit the round theme (numerus ternarium). He immediately thought about the third derivative, but that was pretty lame so he decided to include the best band in the world — Three Days Grace.You are given a multiset A with initial size n, whose elements are integers between 1 and m. In one operation, do the following:   select a value x from the multiset A, then  select two integers p and q such that p, q > 1 and p \cdot q = x. Insert p and q to A, delete x from A. Note that the size of the multiset A increases by 1 after each operation. We define the balance of the multiset A as \max(a_i) - \min(a_i). Find the minimum possible balance after performing any number (possible zero) of operations.

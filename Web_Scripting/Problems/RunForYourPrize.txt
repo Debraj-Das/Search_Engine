@@ -1,0 +1,9 @@
+Run For Your Prize                    
+
+httpscodeforcescomproblemsetproblem938B
+
+brute force
+
+1100
+
+You and your friend are participating in a TV show Run For Your PrizeAt the start of the show n prizes are located on a straight line ith prize is located at position ai Positions of all prizes are distinct You start at position 1 your friend  at position 106 and there is no prize in any of these two positions You have to work as a team and collect all prizes in minimum possible time in any orderYou know that it takes exactly 1 second to move from position x to position x1 or x1 both for you and your friend You also have trained enough to instantly pick up any prize if its position is equal to your current position and the same is true for your friend Carrying prizes does not affect your speed or your friends speed at allNow you may discuss your strategy with your friend and decide who will pick up each prize Remember that every prize must be picked up either by you or by your friendWhat is the minimum number of seconds it will take to pick up all the prizes

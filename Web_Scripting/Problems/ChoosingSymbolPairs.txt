@@ -1,0 +1,9 @@
+Choosing Symbol Pairs                    
+
+httpscodeforcescomproblemsetproblem50B
+
+strings
+
+1500
+
+There is a given string S consisting of N symbols Your task is to find the number of ordered pairs of integers i and j such that1 1ijN2 SiSj that is the ith symbol of string S is equal to the jth

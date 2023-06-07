@@ -1,0 +1,9 @@
+Inverse of Rows and Columns                    
+
+https://codeforces.com/problemset/problem/1157/G
+
+brute force
+
+2200
+
+You are given a binary matrix a of size n \times m. A binary matrix is a matrix where each element is either 0 or 1.You may perform some (possibly zero) operations with this matrix. During each operation you can inverse the row of this matrix or a column of this matrix. Formally, inverting a row is changing all values in this row to the opposite (0 to 1, 1 to 0). Inverting a column is changing all values in this column to the opposite.Your task is to sort the initial matrix by some sequence of such operations. The matrix is considered sorted if the array [a_{1, 1}, a_{1, 2}, \dots, a_{1, m}, a_{2, 1}, a_{2, 2}, \dots, a_{2, m}, \dots, a_{n, m - 1}, a_{n, m}] is sorted in non-descending order.

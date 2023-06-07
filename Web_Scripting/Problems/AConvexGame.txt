@@ -1,0 +1,9 @@
+A Convex Game                    
+
+https://codeforces.com/problemset/problem/1434/E
+
+dsu
+
+3500
+
+Shikamaru and Asuma like to play different games, and sometimes they play the following: given an increasing list of numbers, they take turns to move. Each move consists of picking a number from the list.Assume the picked numbers are v_{i_1}, v_{i_2}, \ldots, v_{i_k}. The following conditions must hold:  i_{j} < i_{j+1} for all 1 \leq j \leq k-1;  v_{i_{j+1}} - v_{i_j} < v_{i_{j+2}} - v_{i_{j+1}} for all 1 \leq j \leq k-2. However, it's easy to play only one instance of game, so today Shikamaru and Asuma decided to play n simultaneous games. They agreed on taking turns as for just one game, Shikamaru goes first. At each turn, the player performs a valid move in any single game. The player who cannot move loses. Find out who wins, provided that both play optimally.

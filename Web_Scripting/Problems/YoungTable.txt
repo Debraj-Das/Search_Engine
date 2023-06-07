@@ -1,0 +1,9 @@
+Young Table                    
+
+httpscodeforcescomproblemsetproblem237B
+
+implementation
+
+1500
+
+Youve got table a consisting of n rows numbered from 1 to n The ith line of table a contains ci cells at that for all i 1in holds cici1 Lets denote s as the total number of cells of table a that is  We know that each cell of the table contains a single integer from 1 to s at that all written integers are distinct Lets assume that the cells of the ith row of table a are numbered from 1 to ci then lets denote the number written in the jth cell of the ith row as aij Your task is to perform several swap operations to rearrange the numbers in the table so as to fulfill the following conditions  for all ij 1in1jci holds aijai1j  for all ij 1in1jci holds aijaij1 In one swap operation you are allowed to choose two different cells of the table and swap the recorded there numbers that is the number that was recorded in the first of the selected cells before the swap is written in the second cell after it Similarly the number that was recorded in the second of the selected cells is written in the first cell after the swapRearrange the numbers in the required manner Note that you are allowed to perform any number of operations but not more than s You do not have to minimize the number of operations

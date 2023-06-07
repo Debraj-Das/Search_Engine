@@ -1,0 +1,9 @@
+Productive Meeting                    
+
+https://codeforces.com/problemset/problem/1579/D
+
+constructive algorithms
+
+1400
+
+An important meeting is to be held and there are exactly n people invited. At any moment, any two people can step back and talk in private. The same two people can talk several (as many as they want) times per meeting.Each person has limited sociability. The sociability of the i-th person is a non-negative integer a_i. This means that after exactly a_i talks this person leaves the meeting (and does not talk to anyone else anymore). If a_i = 0, the i-th person leaves the meeting immediately after it starts.A meeting is considered most productive if the maximum possible number of talks took place during it.You are given an array of sociability a, determine which people should talk to each other so that the total number of talks is as large as possible.

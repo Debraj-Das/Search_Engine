@@ -1,0 +1,9 @@
+Divisiblity of Differences                    
+
+https://codeforces.com/problemset/problem/876/B
+
+implementation
+
+1300
+
+You are given a multiset of n integers. You should select exactly k of them in a such way that the difference between any two of them is divisible by m, or tell that it is impossible.Numbers can be repeated in the original multiset and in the multiset of selected numbers, but number of occurrences of any number in multiset of selected numbers should not exceed the number of its occurrences in the original multiset. 

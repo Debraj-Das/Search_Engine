@@ -1,0 +1,9 @@
+Jumbled Trees                    
+
+https://codeforces.com/problemset/problem/1773/J
+
+constructive algorithms
+
+2900
+
+You are given an undirected connected graph with n vertices and m edges. Each edge has an associated counter, initially equal to 0. In one operation, you can choose an arbitrary spanning tree and add any value v to all edges of this spanning tree. Determine if it's possible to make every counter equal to its target value x_i modulo prime p, and provide a sequence of operations that achieves it.

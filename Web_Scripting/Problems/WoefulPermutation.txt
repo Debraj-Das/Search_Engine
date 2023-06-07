@@ -1,0 +1,9 @@
+Woeful Permutation                    
+
+https://codeforces.com/problemset/problem/1712/B
+
+constructive algorithms
+
+800
+
+I wonder, does the falling rain Forever yearn for it's disdain?Effluvium of the MindYou are given a positive integer n.Find any permutation p of length n such that the sum \operatorname{lcm}(1,p_1) + \operatorname{lcm}(2, p_2) + \ldots + \operatorname{lcm}(n, p_n) is as large as possible. Here \operatorname{lcm}(x, y) denotes the least common multiple (LCM) of integers x and y.A permutation is an array consisting of n distinct integers from 1 to n in arbitrary order. For example, [2,3,1,5,4] is a permutation, but [1,2,2] is not a permutation (2 appears twice in the array) and [1,3,4] is also not a permutation (n=3 but there is 4 in the array).

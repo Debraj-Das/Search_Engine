@@ -1,0 +1,9 @@
+Remove Extra One                    
+
+httpscodeforcescomproblemsetproblem900C
+
+brute force
+
+1700
+
+You are given a permutation p of length n Remove one element from permutation to make the number of records the maximum possibleWe remind that in a sequence of numbers a1a2ak the element ai is a record if for every integer j 1ji the following holds ajai 

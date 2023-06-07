@@ -1,0 +1,9 @@
+Beat The Odds                    
+
+https://codeforces.com/problemset/problem/1691/A
+
+brute force
+
+800
+
+Given a sequence a_1, a_2, \ldots, a_n, find the minimum number of elements to remove from the sequence such that after the removal, the sum of every 2 consecutive elements is even.

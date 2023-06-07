@@ -1,0 +1,9 @@
+Star sky                    
+
+httpscodeforcescomproblemsetproblem835C
+
+dp
+
+1600
+
+The Cartesian coordinate system is set in the sky There you can see n stars the ith has coordinates xi yi a maximum brightness c equal for all stars and an initial brightness si 0sicOver time the stars twinkle At moment 0 the ith star has brightness si Let at moment t some star has brightness x Then at moment t1 this star will have brightness x1 if x1c and 0 otherwiseYou want to look at the sky q times In the ith time you will look at the moment ti and you will see a rectangle with sides parallel to the coordinate axes the lower left corner has coordinates x1i y1i and the upper right x2i y2i For each view you want to know the total brightness of the stars lying in the viewed rectangleA star lies in a rectangle if it lies on its border or lies strictly inside it

@@ -1,0 +1,9 @@
+Hongcow Builds A Nation                    
+
+https://codeforces.com/problemset/problem/744/A
+
+dfs and similar
+
+1500
+
+Hongcow is ruler of the world. As ruler of the world, he wants to make it easier for people to travel by road within their own countries.The world can be modeled as an undirected graph with n nodes and m edges. k of the nodes are home to the governments of the k countries that make up the world.There is at most one edge connecting any two nodes and no edge connects a node to itself. Furthermore, for any two nodes corresponding to governments, there is no path between those two nodes. Any graph that satisfies all of these conditions is stable.Hongcow wants to add as many edges as possible to the graph while keeping it stable. Determine the maximum number of edges Hongcow can add.

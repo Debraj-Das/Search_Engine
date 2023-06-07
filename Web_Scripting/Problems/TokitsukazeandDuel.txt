@@ -1,0 +1,9 @@
+Tokitsukaze and Duel                    
+
+https://codeforces.com/problemset/problem/1190/C
+
+brute force
+
+2300
+
+"Duel!"Betting on the lovely princess Claris, the duel between Tokitsukaze and Quailty has started.There are n cards in a row. Each card has two sides, one of which has color. At first, some of these cards are with color sides facing up and others are with color sides facing down. Then they take turns flipping cards, in which Tokitsukaze moves first. In each move, one should choose exactly k consecutive cards and flip them to the same side, which means to make their color sides all face up or all face down. If all the color sides of these n cards face the same direction after one's move, the one who takes this move will win.Princess Claris wants to know who will win the game if Tokitsukaze and Quailty are so clever that they won't make mistakes.

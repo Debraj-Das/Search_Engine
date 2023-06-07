@@ -1,0 +1,9 @@
+Bear and Isomorphic Points                    
+
+httpscodeforcescomproblemsetproblem771F
+
+geometry
+
+3300
+
+Bearland is a big square on the plane It contains all points with coordinates not exceeding 106 by the absolute valueThere are n houses in Bearland The ith of them is located at the point xiyi The n points are distinct but some subsets of them may be collinearBear Limak lives in the first house He wants to destroy his house and build a new one somewhere in BearlandBears dont like big changes For every three points houses pi pj and pk the sign of their cross product pjpipkpi should be the same before and after the relocation If it was negativepositivezero it should still be negativepositivezero respectively This condition should be satisfied for all triples of indices ijk possibly equal to each other or different than 1 Additionally Limak isnt allowed to build the house at the point where some other house already exists but it can be the point where his old house wasIn the formula above we define the difference and the cross product of points axay and bxby as axaybxbyaxbxayby axaybxbyaxbyaybxConsider a set of possible new placements of Limaks house Your task is to find the area of that set of pointsFormally lets say that Limak chooses the new placement randomly each coordinate is chosen independently uniformly at random from the interval 106106 Let p denote the probability of getting the allowed placement of new house Let S denote the area of Bearland S41012 Your task is to find pS

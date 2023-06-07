@@ -1,0 +1,9 @@
+Pens And Days Of Week                    
+
+httpscodeforcescomproblemsetproblem774F
+
+special problem
+
+2700
+
+Stepan has n pens Every day he uses them and on the ith day he uses the pen number i On the n1th day again he uses the pen number 1 on the n2th  he uses the pen number 2 and so onOn every working day from Monday to Saturday inclusive Stepan spends exactly 1 milliliter of ink of the pen he uses that day On Sunday Stepan has a day of rest he does not stend the ink of the pen he uses that day Stepan knows the current volume of ink in each of his pens Now its the Monday morning and Stepan is going to use the pen number 1 today Your task is to determine which pen will run out of ink before all the rest that is there will be no ink left in it if Stepan will use the pens according to the conditions described above

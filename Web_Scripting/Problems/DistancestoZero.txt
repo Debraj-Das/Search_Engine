@@ -1,0 +1,9 @@
+Distances to Zero                    
+
+httpscodeforcescomproblemsetproblem803B
+
+constructive algorithms
+
+1200
+
+You are given the array of integer numbers a0a1an1 For each element find the distance to the nearest zero to the element which equals to zero There is at least one zero element in the given array

@@ -1,0 +1,9 @@
+Buy a Shovel                    
+
+httpscodeforcescomproblemsetproblem732A
+
+brute force
+
+800
+
+Polycarp urgently needs a shovel He comes to the shop and chooses an appropriate one The shovel that Policarp chooses is sold for k burles Assume that there is an unlimited number of such shovels in the shopIn his pocket Polycarp has an unlimited number of 10burle coins and exactly one coin of r burles 1r9What is the minimum number of shovels Polycarp has to buy so that he can pay for the purchase without any change It is obvious that he can pay for 10 shovels without any change by paying the requied amount of 10burle coins and not using the coin of r burles But perhaps he can buy fewer shovels and pay without any change Note that Polycarp should buy at least one shovel

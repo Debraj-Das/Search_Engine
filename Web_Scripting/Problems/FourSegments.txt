@@ -1,0 +1,9 @@
+Four Segments                    
+
+httpscodeforcescomproblemsetproblem846C
+
+brute force
+
+1800
+
+You are given an array of n integer numbers Let sumlr be the sum of all numbers on positions from l to r noninclusive lth element is counted rth element is not counted For indices l and r holds 0lrn Indices in array are numbered from 0 For example if a5394 then sum015 sum022 sum1416 and sumii0 for each i from 0 to 4Choose the indices of three delimiters delim0 delim1 delim2 0delim0delim1delim2n and divide the array in such a way that the value of ressum0delim0  sumdelim0delim1  sumdelim1delim2  sumdelim2n is maximal Note that some of the expressions sumlr can correspond to empty segments if lr for some segment

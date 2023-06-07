@@ -1,0 +1,9 @@
+XOR and Distance                    
+
+https://codeforces.com/problemset/problem/1553/H
+
+bitmasks
+
+2900
+
+You are given an array a consisting of n distinct elements and an integer k. Each element in the array is a non-negative integer not exceeding 2^k-1.Let's define the XOR distance for a number x as the value of f(x) = \min\limits_{i = 1}^{n} \min\limits_{j = i + 1}^{n} |(a_i \oplus x) - (a_j \oplus x)|,where \oplus denotes the bitwise XOR operation.For every integer x from 0 to 2^k-1, you have to calculate f(x).

@@ -1,0 +1,9 @@
+Ant Man                    
+
+httpscodeforcescomproblemsetproblem704B
+
+dp
+
+2500
+
+Scott Lang is at war with Darren Cross There are n chairs in a hall where they are numbered with 12n from left to right The ith chair is located at coordinate xi Scott is on chair number s and Cross is on chair number e Scott can jump to all other chairs not only neighboring chairs He wants to start at his position chair number s visit each chair exactly once and end up on chair number e with Cross As we all know Scott can shrink or grow big grow big only to his normal size so at any moment of time he can be either small or large normal The thing is he can only shrink or grow big while being on a chair not in the air while jumping to another chair Jumping takes time but shrinking and growing big takes no time Jumping from chair number i to chair number j takes xixj seconds Also jumping off a chair and landing on a chair takes extra amount of time If Scott wants to jump to a chair on his left he can only be small and if he wants to jump to a chair on his right he should be largeJumping off the ith chair takes  ci extra seconds if hes small  di extra seconds otherwise hes large Also landing on ith chair takes  bi extra seconds if hes small  ai extra seconds otherwise hes large In simpler words jumping from ith chair to jth chair takes exactly  xixjcibj seconds if ji  xixjdiaj seconds otherwise ji Given values of x a b c d find the minimum time Scott can get to Cross assuming he wants to visit each chair exactly once

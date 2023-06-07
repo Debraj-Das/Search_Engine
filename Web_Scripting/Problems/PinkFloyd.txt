@@ -1,0 +1,9 @@
+Pink Floyd                    
+
+https://codeforces.com/problemset/problem/1142/E
+
+graphs
+
+3200
+
+This is an interactive task.Scientists are about to invent a new optimization for the Floyd-Warshall algorithm, which will allow it to work in linear time. There is only one part of the optimization still unfinished.It is well known that the Floyd-Warshall algorithm takes a graph with n nodes and exactly one edge between each pair of nodes. The scientists have this graph, what is more, they have directed each edge in one of the two possible directions.To optimize the algorithm, exactly m edges are colored in pink color and all the rest are colored in green. You know the direction of all m pink edges, but the direction of green edges is unknown to you. In one query you can ask the scientists about the direction of exactly one green edge, however, you can perform at most 2 \cdot n such queries.Your task is to find the node from which every other node can be reached by a path consisting of edges of same color. Be aware that the scientists may have lied that they had fixed the direction of all edges beforehand, so their answers may depend on your queries.

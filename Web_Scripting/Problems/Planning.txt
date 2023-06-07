@@ -1,0 +1,9 @@
+Planning                    
+
+httpscodeforcescomproblemsetproblem853A
+
+greedy
+
+1500
+
+Helen works in Metropolis airport She is responsible for creating a departure schedule There are n flights that must depart today the ith of them is planned to depart at the ith minute of the dayMetropolis airport is the main transport hub of Metropolia so it is difficult to keep the schedule intact This is exactly the case today because of technical issues no flights were able to depart during the first k minutes of the day so now the new departure schedule must be createdAll n scheduled flights must now depart at different minutes between k1th and knth inclusive However its not mandatory for the flights to depart in the same order they were initially scheduled to do so their order in the new schedule can be different There is only one restriction no flight is allowed to depart earlier than it was supposed to depart in the initial scheduleHelen knows that each minute of delay of the ith flight costs airport ci burles Help her find the order for flights to depart in the new schedule that minimizes the total cost for the airport

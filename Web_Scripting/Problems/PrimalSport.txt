@@ -1,0 +1,9 @@
+Primal Sport                    
+
+httpscodeforcescomproblemsetproblem923A
+
+math
+
+1700
+
+Alice and Bob begin their day with a quick game They first choose a starting number X03 and try to reach one million by the process described below Alice goes first and then they take alternating turns In the ith turn the player whose turn it is selects a prime number smaller than the current number and announces the smallest multiple of this prime number that is not smaller than the current numberFormally he or she selects a prime pXi1 and then finds the minimum XiXi1 such that p divides Xi Note that if the selected prime p already divides Xi1 then the number does not changeEve has witnessed the state of the game after two turns Given X2 help her determine what is the smallest possible starting number X0 Note that the players dont necessarily play optimally You should consider all possible game evolutions

@@ -1,0 +1,9 @@
+Making Anti-Palindromes                    
+
+https://codeforces.com/problemset/problem/1822/E
+
+greedy
+
+1600
+
+You are given a string s, consisting of lowercase English letters. In one operation, you are allowed to swap any two characters of the string s.A string s of length n is called an anti-palindrome, if s[i] \ne s[n - i + 1] for every i (1 \le i \le n). For example, the strings "codeforces", "string" are anti-palindromes, but the strings "abacaba", "abc", "test" are not.Determine the minimum number of operations required to make the string s an anti-palindrome, or output -1, if this is not possible.

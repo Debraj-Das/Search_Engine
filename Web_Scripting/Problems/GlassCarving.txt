@@ -1,0 +1,9 @@
+Glass Carving                    
+
+httpscodeforcescomproblemsetproblem527C
+
+binary search
+
+1500
+
+Leonid wants to become a glass carver the person who creates beautiful artworks by cutting the glass He already has a rectangular w mm  h mm sheet of glass a diamond glass cutter and lots of enthusiasm What he lacks is understanding of what to carve and howIn order not to waste time he decided to practice the technique of carving To do this he makes vertical and horizontal cuts through the entire sheet This process results in making smaller rectangular fragments of glass Leonid does not move the newly made glass fragments In particular a cut divides each fragment of glass that it goes through into smaller fragmentsAfter each cut Leonid tries to determine what area the largest of the currently available glass fragments has Since there appear more and more fragments this question takes him more and more time and distracts him from the fascinating processLeonid offers to divide the labor  he will cut glass and you will calculate the area of the maximum fragment after each cut Do you agree

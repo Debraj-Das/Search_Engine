@@ -1,0 +1,9 @@
+Masha and Cactus                    
+
+https://codeforces.com/problemset/problem/856/D
+
+dp
+
+2400
+
+Masha is fond of cacti. When she was a little girl, she decided to plant a tree. Now Masha wants to make a nice cactus out of her tree.Recall that tree is a connected undirected graph that has no cycles. Cactus is a connected undirected graph such that each vertex belongs to at most one cycle.Masha has some additional edges that she can add to a tree. For each edge she knows which vertices it would connect and the beauty of this edge. Masha can add some of these edges to the graph if the resulting graph is a cactus. Beauty of the resulting cactus is sum of beauties of all added edges. Help Masha find out what maximum beauty of the resulting cactus she can achieve.

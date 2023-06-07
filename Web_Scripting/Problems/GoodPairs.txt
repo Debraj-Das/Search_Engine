@@ -1,0 +1,9 @@
+Good Pairs                     
+
+https://codeforces.com/problemset/problem/1762/F
+
+binary search
+
+2600
+
+You are given an array a consisting of n integers and an integer k.A pair (l,r) is good if there exists a sequence of indices i_1, i_2, \dots, i_m such that   i_1=l and i_m=r;  i_j < i_{j+1} for all 1 \leq j < m; and  |a_{i_j}-a_{i_{j+1}}| \leq k for all 1 \leq j < m. Find the number of pairs (l,r) (1 \leq l \leq r \leq n) that are good.

@@ -1,0 +1,9 @@
+Fuzzy Search                    
+
+httpscodeforcescomproblemsetproblem528D
+
+bitmasks
+
+2500
+
+Leonid works for a small and promising startup that works on decoding the human genome His duties include solving complex problems of finding certain patterns in long strings consisting of letters A T G and CLets consider the following scenario There is a fragment of a human DNA chain recorded as a string S To analyze the fragment you need to find all occurrences of string T in a string S However the matter is complicated by the fact that the original chain fragment could contain minor mutations which however complicate the task of finding a fragment Leonid proposed the following approach to solve this problemLets write down integer k0  the error threshold We will say that string T occurs in string S on position i 1iST1 if after putting string T along with this position each character of string T corresponds to the some character of the same value in string S at the distance of at most k More formally for any j 1jT there must exist such p 1pS that ij1pk and SpTjFor example corresponding to the given definition string ACAT occurs in string AGCAATTCAT in positions 2 3 and 6  Note that at k0 the given definition transforms to a simple definition of the occurrence of a string in a stringHelp Leonid by calculating in how many positions the given string T occurs in the given string S with the given error threshold

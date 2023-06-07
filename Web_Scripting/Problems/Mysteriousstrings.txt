@@ -1,0 +1,9 @@
+Mysterious strings                    
+
+httpscodeforcescomproblemsetproblem290A
+
+special problem
+
+1400
+
+InputThe input contains a single integer a 1a40OutputOutput a single stringExamplesInput2OutputAdamsInput8OutputVan BurenInput29OutputHarding

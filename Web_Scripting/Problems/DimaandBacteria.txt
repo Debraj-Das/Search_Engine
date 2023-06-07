@@ -1,0 +1,9 @@
+Dima and Bacteria                    
+
+httpscodeforcescomproblemsetproblem400D
+
+dsu
+
+2000
+
+Dima took up the biology of bacteria as a result of his experiments he invented k types of bacteria Overall there are n bacteria at his laboratory right now and the number of bacteria of type i equals ci For convenience we will assume that all the bacteria are numbered from 1 to n The bacteria of type ci are numbered from  to With the help of special equipment Dima can move energy from some bacteria into some other one Of course the use of such equipment is not free Dima knows m ways to move energy from some bacteria to another one The way with number i can be described with integers ui vi and xi mean that this way allows moving energy from bacteria with number ui to bacteria with number vi or vice versa for xi dollarsDimas Chef Inna calls the typedistribution correct if there is a way may be nondirect to move energy from any bacteria of the particular type to any other bacteria of the same type between any two bacteria of the same type for zero costAs for correct typedistribution the cost of moving the energy depends only on the types of bacteria help Inna to determine is the typedistribution correct If it is print the matrix d with size kk Cell dij of this matrix must be equal to the minimal possible cost of energymoving from bacteria with type i to bacteria with type j

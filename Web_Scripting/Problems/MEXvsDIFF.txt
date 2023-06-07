@@ -1,0 +1,9 @@
+MEX vs DIFF                    
+
+https://codeforces.com/problemset/problem/1684/E
+
+binary search
+
+2100
+
+You are given an array a of n non-negative integers. In one operation you can change any number in the array to any other non-negative integer.Let's define the cost of the array as \operatorname{DIFF}(a) - \operatorname{MEX}(a), where \operatorname{MEX} of a set of non-negative integers is the smallest non-negative integer not present in the set, and \operatorname{DIFF} is the number of different numbers in the array.For example, \operatorname{MEX}(\{1, 2, 3\}) = 0, \operatorname{MEX}(\{0, 1, 2, 4, 5\}) = 3.You should find the minimal cost of the array a if you are allowed to make at most k operations.

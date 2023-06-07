@@ -1,0 +1,9 @@
+3SUM Closure                    
+
+https://codeforces.com/problemset/problem/1698/C
+
+brute force
+
+1300
+
+You are given an array a of length n. The array is called 3SUM-closed if for all distinct indices i, j, k, the sum a_i + a_j + a_k is an element of the array. More formally, a is 3SUM-closed if for all integers 1 \leq i < j < k \leq n, there exists some integer 1 \leq l \leq n such that a_i + a_j + a_k = a_l.Determine if a is 3SUM-closed.

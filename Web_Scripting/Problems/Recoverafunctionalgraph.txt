@@ -1,0 +1,9 @@
+Recover a functional graph                    
+
+https://codeforces.com/problemset/problem/739/D
+
+graph matchings
+
+3400
+
+Functional graph is a directed graph in which all vertices have outdegree equal to 1. Loops are allowed.Some vertices of a functional graph lay on a cycle. From the others we can come to a cycle by making a finite number of steps along the edges (we consider only finite functional graphs in this problem).Let's compute two values for each vertex. precyclei is the amount of edges we should pass to get to a vertex which is a part of some cycle (zero, if i itself lies on a cycle), cyclei is the length of the cycle we get to.You are given the information about these values for some functional graph. For each vertex you know the values precyclei and cyclei, however, instead of some values there can be the question mark. It means that these values are unknown.Build any functional graph that suits the description or determine that there is no such graph.

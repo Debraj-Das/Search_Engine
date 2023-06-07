@@ -1,0 +1,9 @@
+Ice Cave                    
+
+httpscodeforcescomproblemsetproblem540C
+
+dfs and similar
+
+2000
+
+You play a computer game Your character stands on some level of a multilevel ice cave In order to move on forward you need to descend one level lower and the only way to do this is to fall through the iceThe level of the cave where you are is a rectangular square grid of n rows and m columns Each cell consists either from intact or from cracked ice From each cell you can move to cells that are sideadjacent with yours due to some limitations of the game engine you cannot make jumps on the same place ie jump from a cell to itself If you move to the cell with cracked ice then your character falls down through it and if you move to the cell with intact ice then the ice on this cell becomes crackedLets number the rows with integers from 1 to n from top to bottom and the columns with integers from 1 to m from left to right Lets denote a cell on the intersection of the rth row and the cth column as rc You are staying in the cell r1c1 and this cell is cracked because youve just fallen here from a higher level You need to fall down through the cell r2c2 since the exit to the next level is there Can you do this

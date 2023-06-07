@@ -1,0 +1,9 @@
+Gregor and the Two Painters                    
+
+https://codeforces.com/problemset/problem/1548/E
+
+data structures
+
+3400
+
+Two painters, Amin and Benj, are repainting Gregor's living room ceiling! The ceiling can be modeled as an n \times m grid.For each i between 1 and n, inclusive, painter Amin applies a_i layers of paint to the entire i-th row. For each j between 1 and m, inclusive, painter Benj applies b_j layers of paint to the entire j-th column. Therefore, the cell (i,j) ends up with a_i+b_j layers of paint.Gregor considers the cell (i,j) to be badly painted if a_i+b_j \le x. Define a badly painted region to be a maximal connected component of badly painted cells, i. e. a connected component of badly painted cells such that all adjacent to the component cells are not badly painted. Two cells are considered adjacent if they share a side.Gregor is appalled by the state of the finished ceiling, and wants to know the number of badly painted regions.

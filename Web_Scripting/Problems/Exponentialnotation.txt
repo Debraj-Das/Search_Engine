@@ -1,0 +1,9 @@
+Exponential notation                    
+
+httpscodeforcescomproblemsetproblem691C
+
+implementation
+
+1800
+
+You are given a positive decimal number xYour task is to convert it to the simple exponential notationLet xa10b where 1a10 then in general case the simple exponential notation looks like aEb If b equals to zero the part Eb should be skipped If a is an integer it should be written without decimal point Also there should not be extra zeroes in a and b

@@ -1,0 +1,9 @@
+Tubular Bells                    
+
+https://codeforces.com/problemset/problem/1562/F
+
+interactive
+
+2900
+
+Do you know what tubular bells are? They are a musical instrument made up of cylindrical metal tubes. In an orchestra, tubular bells are used to mimic the ringing of bells.Mike has tubular bells, too! They consist of n tubes, and each of the tubes has a length that can be expressed by a integer from l to r inclusive. It is clear that the lengths of all the tubes are different (it makes no sense to make the same tubes). It is also known that r-l+1 = n.Formally, we can say that Mike's tubular bells are described by a permutation a of length n that contains all numbers from l to r inclusive, with a_i denoting the length of the i-th tube.You are offered an interesting task: to guess what Mike's instrument looks like. Simply, you must guess the permutation.Mike won't tell you l or r. He will only tell you n, and will allow you to ask no more than n + 5000 queries.In each query, you name two positive integers x, y such that 1 \le x, y \le n, x \neq y. In response to this query, the program written by Mike will give you \mathrm{lcm}(a_x, a_y), where \mathrm{lcm}(c,d) denotes the least common multiple of c and d.Solve Mike's problem!

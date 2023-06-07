@@ -1,0 +1,9 @@
+Hongcow Masters the Cyclic Shift                    
+
+httpscodeforcescomproblemsetproblem744E
+
+strings
+
+3200
+
+Hongcows teacher heard that Hongcow had learned about the cyclic shift and decided to set the following problem for himYou are given a list of n strings s1s2sn contained in the list AA list X of strings is called stable if the following condition holdsFirst a message is defined as a concatenation of some elements of the list X You can use an arbitrary element as many times as you want and you may concatenate these elements in any arbitrary order Let SX denote the set of of all messages you can construct from the list Of course this set has infinite size if your list is nonemptyCall a single message good if the following conditions hold   Suppose the message is the concatenation of k strings w1w2wk where each wi is an element of X  Consider the w1w2wk cyclic shifts of the string Let m be the number of these cyclic shifts of the string that are elements of SX  A message is good if and only if m is exactly equal to k The list X is called stable if and only if every element of SX is goodLet fL be 1 if L is a stable list and 0 otherwiseFind the sum of fL where L is a nonempty contiguous sublist of A there are  contiguous sublists in total

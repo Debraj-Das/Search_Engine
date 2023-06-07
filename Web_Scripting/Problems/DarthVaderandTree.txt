@@ -1,0 +1,9 @@
+Darth Vader and Tree                    
+
+httpscodeforcescomproblemsetproblem514E
+
+dp
+
+2200
+
+When Darth Vader gets bored he sits down on the sofa closes his eyes and thinks of an infinite rooted tree where each node has exactly n sons at that for each node the distance between it an its ith left child equals to di The Sith Lord loves counting the number of nodes in the tree that are at a distance at most x from the root The distance is the sum of the lengths of edges on the path between nodesBut he has got used to this activity and even grew bored of it Why does he do that then  you may ask Its just that he feels superior knowing that only he can solve this problem Do you want to challenge Darth Vader himself Count the required number of nodes As the answer can be rather large find it modulo 1097

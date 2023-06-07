@@ -1,0 +1,9 @@
+Mahmoud and Ehab and the message                    
+
+https://codeforces.com/problemset/problem/959/B
+
+dsu
+
+1200
+
+Mahmoud wants to send a message to his friend Ehab. Their language consists of n words numbered from 1 to n. Some words have the same meaning so there are k groups of words such that all the words in some group have the same meaning.Mahmoud knows that the i-th word can be sent with cost ai. For each word in his message, Mahmoud can either replace it with another word of the same meaning or leave it as it is. Can you help Mahmoud determine the minimum cost of sending the message?The cost of sending the message is the sum of the costs of sending every word in it.

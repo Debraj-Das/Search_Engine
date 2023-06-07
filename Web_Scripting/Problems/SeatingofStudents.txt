@@ -1,0 +1,9 @@
+Seating of Students                    
+
+httpscodeforcescomproblemsetproblem906B
+
+brute force
+
+2200
+
+Students went into a class to write a test and sat in some way The teacher thought Probably they sat in this order to copy works of each other I need to rearrange them in such a way that students that were neighbors are not neighbors in a new seatingThe class can be represented as a matrix with n rows and m columns with a student in each cell Two students are neighbors if cells in which they sit have a common sideLets enumerate students from 1 to nm in order of rows So a student who initially sits in the cell in row i and column j has a number i1mj You have to find a matrix with n rows and m columns in which all numbers from 1 to nm appear exactly once and adjacent numbers in the original matrix are not adjacent in it or determine that there is no such matrix

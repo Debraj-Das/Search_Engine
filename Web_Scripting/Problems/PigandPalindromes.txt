@@ -1,0 +1,9 @@
+Pig and Palindromes                    
+
+httpscodeforcescomproblemsetproblem570E
+
+combinatorics
+
+2300
+
+Peppa the Pig was walking and walked into the forest What a strange coincidence The forest has the shape of a rectangle consisting of n rows and m columns We enumerate the rows of the rectangle from top to bottom with numbers from 1 to n and the columns  from left to right with numbers from 1 to m Lets denote the cell at the intersection of the rth row and the cth column as rcInitially the pig stands in cell 11 and in the end she wants to be in cell nm Since the pig is in a hurry to get home she can go from cell rc only to either cell r1c or rc1 She cannot leave the forestThe forest where the pig is is very unusual Some cells of the forest similar to each other and some look very different Peppa enjoys taking pictures and at every step she takes a picture of the cell where she is now The path through the forest is considered to be beautiful if photographs taken on her way can be viewed in both forward and in reverse order showing the same sequence of photos More formally the line formed by the cells in order of visiting should be a palindrome you can read a formal definition of a palindrome in the previous problemCount the number of beautiful paths from cell 11 to cell nm Since this number can be very large determine the remainder after dividing it by 1097

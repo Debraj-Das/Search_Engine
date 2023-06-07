@@ -1,0 +1,9 @@
+Perfect Number                    
+
+https://codeforces.com/problemset/problem/919/B
+
+binary search
+
+1100
+
+We consider a positive integer perfect, if and only if the sum of its digits is exactly 10. Given a positive integer k, your task is to find the k-th smallest perfect positive integer.

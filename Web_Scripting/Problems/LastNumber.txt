@@ -1,0 +1,9 @@
+Last Number                    
+
+https://codeforces.com/problemset/problem/1810/H
+
+combinatorics
+
+2900
+
+You are given a multiset S. Initially, S = \{1,2,3, \ldots, n\}.You will perform the following operation n-1 times.  Choose the largest number S_{\text{max}} in S and the smallest number S_{\text{min}} in S. Remove the two numbers from S, and add S_{\text{max}} - S_{\text{min}} into S. It's easy to show that there will be exactly one number left after n-1 operations. Output that number.

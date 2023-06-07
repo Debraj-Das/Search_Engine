@@ -1,0 +1,9 @@
+Nephren gives a riddle                    
+
+httpscodeforcescomproblemsetproblem896A
+
+binary search
+
+1700
+
+What are you doing at the end of the world Are you busy Will you save usNephren is playing a game with little leprechaunsShe gives them an infinite array of strings f0 f0 is What are you doing at the end of the world Are you busy Will you save usShe wants to let more people know about it so she defines fi What are you doing while sending fi1 Are you busy Will you send fi1 for all i1For example f1 isWhat are you doing while sending What are you doing at the end of the world Are you busy Will you save us Are you busy Will you send What are you doing at the end of the world Are you busy Will you save us Note that the quotes in the very beginning and in the very end are for clarity and are not a part of f1It can be seen that the characters in fi are letters question marks possibly quotation marks and spacesNephren will ask the little leprechauns q times Each time she will let them find the kth character of fn The characters are indexed starting from 1 If fn consists of less than k characters output  without quotesCan you answer her queries

@@ -1,0 +1,9 @@
+Equal Product                    
+
+https://codeforces.com/problemset/problem/1418/F
+
+data structures
+
+3000
+
+You are given four integers n, m, l and r.Let's name a tuple (x_1, y_1, x_2, y_2) as good if:   1 \le x_1 < x_2 \le n;  1 \le y_2 < y_1 \le m;  x_1 \cdot y_1 = x_2 \cdot y_2;  l \le x_1 \cdot y_1 \le r. Find any good tuple for each x_1 from 1 to n inclusive.

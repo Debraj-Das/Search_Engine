@@ -1,0 +1,9 @@
+Flag 2                    
+
+httpscodeforcescomproblemsetproblem18E
+
+dp
+
+2000
+
+According to a new ISO standard a flag of every country should have strangely enough a chequered field nm each square should be wholly painted one of 26 colours The following restrictions are set   In each row at most two different colours can be used  No two adjacent squares can be painted the same colour Pay attention please that in one column more than two different colours can be usedBerlands government took a decision to introduce changes into their countrys flag in accordance with the new standard at the same time they want these changes to be minimal By the given description of Berlands flag you should find out the minimum amount of squares that need to be painted different colour to make the flag meet the new ISO standard You are as well to build one of the possible variants of the new Berlands flag

@@ -1,0 +1,9 @@
+Lemmings                    
+
+httpscodeforcescomproblemsetproblem163B
+
+binary search
+
+2000
+
+As you know lemmings like jumping For the next spectacular group jump n lemmings gathered near a high rock with k comfortable ledges on it The first ledge is situated at the height of h meters the second one is at the height of 2h meters and so on the ith ledge is at the height of ih meters The lemmings are going to jump at sunset and theres not much time leftEach lemming is characterized by its climbing speed of vi meters per minute and its weight mi This means that the ith lemming can climb to the jth ledge in  minutesTo make the jump beautiful heavier lemmings should jump from higher ledges if a lemming of weight mi jumps from ledge i and a lemming of weight mj jumps from ledge j for ij then the inequation mimj should be fulfilledSince there are n lemmings and only k ledges kn the k lemmings that will take part in the jump need to be chosen The chosen lemmings should be distributed on the ledges from 1 to k one lemming per ledge The lemmings are to be arranged in the order of nondecreasing weight with the increasing height of the ledge In addition each lemming should have enough time to get to his ledge that is the time of his climb should not exceed t minutes The lemmings climb to their ledges all at the same time and they do not interfere with each otherFind the way to arrange the lemmings jump so that time t is minimized

@@ -1,0 +1,9 @@
+Bear and Tower of Cubes                    
+
+httpscodeforcescomproblemsetproblem679B
+
+binary search
+
+2200
+
+Limak is a little polar bear He plays by building towers from blocks Every block is a cube with positive integer length of side Limak has infinitely many blocks of each side lengthA block with side a has volume a3 A tower consisting of blocks with sides a1a2ak has the total volume a13a23ak3Limak is going to build a tower First he asks you to tell him a positive integer X the required total volume of the tower Then Limak adds new blocks greedily one by one Each time he adds the biggest block such that the total volume doesnt exceed XLimak asks you to choose X not greater than m Also he wants to maximize the number of blocks in the tower at the end however he still behaves greedily Secondarily he wants to maximize XCan you help Limak Find the maximum number of blocks his tower can have and the maximum Xm that results this number of blocks

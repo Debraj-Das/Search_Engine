@@ -1,0 +1,9 @@
+Wilbur and Points                    
+
+httpscodeforcescomproblemsetproblem596C
+
+combinatorics
+
+1700
+
+Wilbur is playing with a set of n points on the coordinate plane All points have nonnegative integer coordinates Moreover if some point x y belongs to the set then all points x y such that 0xx and 0yy also belong to this setNow Wilbur wants to number the points in the set he has that is assign them distinct integer numbers from 1 to n In order to make the numbering aesthetically pleasing Wilbur imposes the condition that if some point x y gets number i then all xy from the set such that xx and yy must be assigned a number not less than i For example for a set of four points 0 0 0 1 1 0 and 1 1 there are two aesthetically pleasing numberings One is 1 2 3 4 and another one is 1 3 2 4Wilburs friend comes along and challenges Wilbur For any point he defines its special value as sxyyx Now he gives Wilbur some w1 w2 wn and asks him to find an aesthetically pleasing numbering of the points in the set such that the point that gets number i has its special value equal to wi that is sxiyiyixiwiNow Wilbur asks you to help him with this challenge

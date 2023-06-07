@@ -1,0 +1,9 @@
+Train Maintenance                    
+
+https://codeforces.com/problemset/problem/1580/C
+
+brute force
+
+2200
+
+Kawasiro Nitori is excellent in engineering. Thus she has been appointed to help maintain trains.There are n models of trains, and Nitori's department will only have at most one train of each model at any moment. In the beginning, there are no trains, at each of the following m days, one train will be added, or one train will be removed. When a train of model i is added at day t, it works for x_i days (day t inclusive), then it is in maintenance for y_i days, then in work for x_i days again, and so on until it is removed.In order to make management easier, Nitori wants you to help her calculate how many trains are in maintenance in each day.On a day a train is removed, it is not counted as in maintenance.

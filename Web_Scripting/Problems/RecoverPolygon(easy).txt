@@ -1,0 +1,9 @@
+Recover Polygon (easy)                    
+
+https://codeforces.com/problemset/problem/690/B1
+
+
+
+1700
+
+The zombies are gathering in their secret lair! Heidi will strike hard to destroy them once and for all. But there is a little problem... Before she can strike, she needs to know where the lair is. And the intel she has is not very good.Heidi knows that the lair can be represented as a rectangle on a lattice, with sides parallel to the axes. Each vertex of the polygon occupies an integer point on the lattice. For each cell of the lattice, Heidi can check the level of Zombie Contamination. This level is an integer between 0 and 4, equal to the number of corners of the cell that are inside or on the border of the rectangle.As a test, Heidi wants to check that her Zombie Contamination level checker works. Given the output of the checker, Heidi wants to know whether it could have been produced by a single non-zero area rectangular-shaped lair (with axis-parallel sides). 

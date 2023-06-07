@@ -1,0 +1,9 @@
+Forbidden Indices                    
+
+httpscodeforcescomproblemsetproblem873F
+
+dsu
+
+2400
+
+You are given a string s consisting of n lowercase Latin letters Some indices in this string are marked as forbiddenYou want to find a string a such that the value of afa is maximum possible where fa is the number of occurences of a in s such that these occurences end in nonforbidden indices So for example if s is aaaa a is aa and index 3 is forbidden then fa2 because there are three occurences of a in s starting in indices 1 2 and 3 but one of them starting in index 2 ends in a forbidden indexCalculate the maximum possible value of afa you can get

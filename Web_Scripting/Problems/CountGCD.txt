@@ -1,0 +1,9 @@
+Count GCD                    
+
+https://codeforces.com/problemset/problem/1750/D
+
+combinatorics
+
+1800
+
+You are given two integers n and m and an array a of n integers. For each 1 \le i \le n it holds that 1 \le a_i \le m.Your task is to count the number of different arrays b of length n such that:   1 \le b_i \le m for each 1 \le i \le n, and  \gcd(b_1,b_2,b_3,...,b_i) = a_i for each 1 \le i \le n. Here \gcd(a_1,a_2,\dots,a_i) denotes the greatest common divisor (GCD) of integers a_1,a_2,\ldots,a_i.Since this number can be too large, print it modulo 998\,244\,353.

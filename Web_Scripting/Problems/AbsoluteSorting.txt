@@ -1,0 +1,9 @@
+Absolute Sorting                    
+
+https://codeforces.com/problemset/problem/1772/D
+
+constructive algorithms
+
+1400
+
+You are given an array a consisting of n integers. The array is sorted if a_1 \le a_2 \le \dots \le a_n.You want to make the array a sorted by applying the following operation exactly once:  choose an integer x, then for every i \in [1, n], replace a_i by |a_i - x|. Find any value of x that will make the array sorted, or report that there is no such value.

@@ -1,0 +1,9 @@
+Divisible Array                    
+
+https://codeforces.com/problemset/problem/1828/A
+
+constructive algorithms
+
+800
+
+You are given a positive integer n. Please find an array a_1, a_2, \ldots, a_n that is perfect.A perfect array a_1, a_2, \ldots, a_n satisfies the following criteria:   1 \le a_i \le 1000 for all 1 \le i \le n.  a_i is divisible by i for all 1 \le i \le n.  a_1 + a_2 + \ldots + a_n is divisible by n. 

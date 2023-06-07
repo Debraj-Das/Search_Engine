@@ -1,0 +1,9 @@
+Unusual Matrix                    
+
+https://codeforces.com/problemset/problem/1475/F
+
+2-sat
+
+1900
+
+You are given two binary square matrices a and b of size n \times n. A matrix is called binary if each of its elements is equal to 0 or 1. You can do the following operations on the matrix a arbitrary number of times (0 or more):   vertical xor. You choose the number j (1 \le j \le n) and for all i (1 \le i \le n) do the following: a_{i, j} := a_{i, j} \oplus 1 (\oplus — is the operation xor (exclusive or)).  horizontal xor. You choose the number i (1 \le i \le n) and for all j (1 \le j \le n) do the following: a_{i, j} := a_{i, j} \oplus 1. Note that the elements of the a matrix change after each operation.For example, if n=3 and the matrix a is:  \begin{pmatrix} 1 & 1 & 0 \\ 0 & 0 & 1 \\ 1 & 1 & 0 \end{pmatrix}  Then the following sequence of operations shows an example of transformations:   vertical xor, j=1.  a= \begin{pmatrix} 0 & 1 & 0 \\ 1 & 0 & 1 \\ 0 & 1 & 0 \end{pmatrix}   horizontal xor, i=2.  a= \begin{pmatrix} 0 & 1 & 0 \\ 0 & 1 & 0 \\ 0 & 1 & 0 \end{pmatrix}   vertical xor, j=2.  a= \begin{pmatrix} 0 & 0 & 0 \\ 0 & 0 & 0 \\ 0 & 0 & 0 \end{pmatrix}  Check if there is a sequence of operations such that the matrix a becomes equal to the matrix b.

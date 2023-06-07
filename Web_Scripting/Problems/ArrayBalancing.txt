@@ -1,0 +1,9 @@
+Array Balancing                    
+
+https://codeforces.com/problemset/problem/1661/A
+
+greedy
+
+800
+
+You are given two arrays of length n: a_1, a_2, \dots, a_n and b_1, b_2, \dots, b_n.You can perform the following operation any number of times:   Choose integer index i (1 \le i \le n);  Swap a_i and b_i. What is the minimum possible sum |a_1 - a_2| + |a_2 - a_3| + \dots + |a_{n-1} - a_n| + |b_1 - b_2| + |b_2 - b_3| + \dots + |b_{n-1} - b_n| (in other words, \sum\limits_{i=1}^{n - 1}{\left(|a_i - a_{i+1}| + |b_i - b_{i+1}|\right)}) you can achieve after performing several (possibly, zero) operations?

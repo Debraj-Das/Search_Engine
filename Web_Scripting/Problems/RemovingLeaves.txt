@@ -1,0 +1,9 @@
+Removing Leaves                    
+
+https://codeforces.com/problemset/problem/1385/F
+
+data structures
+
+2300
+
+You are given a tree (connected graph without cycles) consisting of n vertices. The tree is unrooted — it is just a connected undirected graph without cycles.In one move, you can choose exactly k leaves (leaf is such a vertex that is connected to only one another vertex) connected to the same vertex and remove them with edges incident to them. I.e. you choose such leaves u_1, u_2, \dots, u_k that there are edges (u_1, v), (u_2, v), \dots, (u_k, v) and remove these leaves and these edges.Your task is to find the maximum number of moves you can perform if you remove leaves optimally.You have to answer t independent test cases.

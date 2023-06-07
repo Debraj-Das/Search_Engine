@@ -1,0 +1,9 @@
+Serval and Bonus Problem                    
+
+https://codeforces.com/problemset/problem/1153/F
+
+combinatorics
+
+2600
+
+Getting closer and closer to a mathematician, Serval becomes a university student on math major in Japari University. On the Calculus class, his teacher taught him how to calculate the expected length of a random subsegment of a given segment. Then he left a bonus problem as homework, with the award of a garage kit from IOI. The bonus is to extend this problem to the general case as follows.You are given a segment with length l. We randomly choose n segments by choosing two points (maybe with non-integer coordinates) from the given segment equiprobably and the interval between the two points forms a segment. You are given the number of random segments n, and another integer k. The 2n endpoints of the chosen segments split the segment into (2n+1) intervals. Your task is to calculate the expected total length of those intervals that are covered by at least k segments of the n random segments.You should find the answer modulo 998244353.

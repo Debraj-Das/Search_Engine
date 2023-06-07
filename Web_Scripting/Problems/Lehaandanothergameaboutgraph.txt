@@ -1,0 +1,9 @@
+Leha and another game about graph                    
+
+httpscodeforcescomproblemsetproblem840B
+
+constructive algorithms
+
+2100
+
+Leha plays a computer game where is on each level is given a connected graph with n vertices and m edges Graph can contain multiple edges but can not contain self loops Each vertex has an integer di which can be equal to 0 1 or 1 To pass the level he needs to find a good subset of edges of the graph or say that it doesnt exist Subset is called good if by by leaving only edges from this subset in the original graph we obtain the following for every vertex i di1 or its degree modulo 2 is equal to di Leha wants to pass the game as soon as possible and ask you to help him In case of multiple correct answers print any of them

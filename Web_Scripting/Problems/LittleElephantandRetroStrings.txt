@@ -1,0 +1,9 @@
+Little Elephant and Retro Strings                    
+
+httpscodeforcescomproblemsetproblem204D
+
+dp
+
+2400
+
+The Little Elephant has found a ragged old blackandwhite string s on the atticThe characters of string s are numbered from the left to the right from 1 to s where s is the length of the string Lets denote the ith character of string s as si As the string is blackandwhite each character of the string is either letter B or letter W Unfortunately the string is very old and some characters are damaged The damaged positions are denoted as XThe Little Elephant in determined to restore the string and hang it on the wall For that he needs to replace each character X by a B or a W The string must look good on the wall so it must be beautiful The Little Elephant considers a string beautiful if it has two nonintersecting substrings of a given length k such that the left one fully consists of characters B and the right one fully consists of characters W More formally there are four integers abcd 1abcdsba1dc1k such that si  B aib and sj  W cjd Help the Little Elephant find the number of different beautiful strings he can obtain from string s Two strings are considered different if there is such position where the character in the first string differs from the corresponding character in the second string If this string doesnt contain characters X and it is already beautiful  the answer is 1As the answer can be rather large print it modulo 1000000007 1097

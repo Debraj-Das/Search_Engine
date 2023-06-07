@@ -1,0 +1,9 @@
+Amr and Music                    
+
+https://codeforces.com/problemset/problem/507/A
+
+greedy
+
+1000
+
+Amr is a young coder who likes music a lot. He always wanted to learn how to play music but he was busy coding so he got an idea.Amr has n instruments, it takes ai days to learn i-th instrument. Being busy, Amr dedicated k days to learn how to play the maximum possible number of instruments.Amr asked for your help to distribute his free days between instruments so that he can achieve his goal.

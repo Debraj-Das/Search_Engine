@@ -1,0 +1,9 @@
+Digital Root                    
+
+httpscodeforcescomproblemsetproblem10C
+
+number theory
+
+2000
+
+Not long ago Billy came across such a problem where there were given three natural numbers A B and C from the range 1N and it was asked to check whether the equation ABC is correct Recently Billy studied the concept of a digital root of a number We should remind you that a digital root dx of the number x is the sum sx of all the digits of this number if sx9 otherwise it is dsx For example a digital root of the number 6543 is calculated as follows d6543d6543d189 Billy has counted that the digital root of a product of numbers is equal to the digital root of the product of the factors digital roots ie dxyddxdy And the following solution to the problem came to his mind to calculate the digital roots and check if this condition is met However Billy has doubts that this condition is sufficient Thats why he asks you to find out the amount of test examples for the given problem such that the algorithm proposed by Billy makes mistakes

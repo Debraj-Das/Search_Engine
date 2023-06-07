@@ -1,0 +1,9 @@
+Continuous City                    
+
+https://codeforces.com/problemset/problem/1479/C
+
+bitmasks
+
+2500
+
+Some time ago Homer lived in a beautiful city. There were n blocks numbered from 1 to n and m directed roads between them. Each road had a positive length, and each road went from the block with the smaller index to the block with the larger index. For every two (different) blocks, there was at most one road between them. Homer discovered that for some two numbers L and R the city was (L, R)-continuous. The city is said to be (L, R)-continuous, if   all paths from block 1 to block n are of length between L and R (inclusive); and  for every L \leq d \leq R, there is exactly one path from block 1 to block n whose length is d. A path from block u to block v is a sequence u = x_0 \to x_1 \to x_2 \to \dots \to x_k = v, where there is a road from block x_{i-1} to block x_{i} for every 1 \leq i \leq k. The length of a path is the sum of lengths over all roads in the path. Two paths x_0 \to x_1 \to \dots \to x_k and y_0 \to y_1 \to \dots \to y_l are different, if k \neq l or x_i \neq y_i for some 0 \leq i \leq \min\{k, l\}. After moving to another city, Homer only remembers the two special numbers L and R but forgets the numbers n and m of blocks and roads, respectively, and how blocks are connected by roads. However, he believes the number of blocks should be no larger than 32 (because the city was small).As the best friend of Homer, please tell him whether it is possible to find a (L, R)-continuous city or not. 

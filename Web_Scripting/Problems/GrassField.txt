@@ -1,0 +1,9 @@
+Grass Field                    
+
+httpscodeforcescomproblemsetproblem1701A
+
+implementation
+
+800
+
+There is a field of size 2 times 2 Each cell of this field can either contain grass or be empty The value ai j is 1 if the cell i j contains grass or 0 otherwiseIn one move you can choose one row and one column and cut all the grass in this row and this column In other words you choose the row x and the column y then you cut the grass in all cells ax i and all cells ai y for all i from 1 to 2 After you cut the grass from a cell it becomes empty ie its value is replaced by 0Your task is to find the minimum number of moves required to cut the grass in all nonempty cells of the field ie make all ai j zerosYou have to answer t independent test cases

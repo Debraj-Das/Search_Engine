@@ -1,0 +1,9 @@
+Drazil and Park                    
+
+httpscodeforcescomproblemsetproblem515E
+
+data structures
+
+2300
+
+Drazil is a monkey He lives in a circular park There are n trees around the park The distance between the ith tree and i1st trees is di the distance between the nth tree and the first tree is dn The height of the ith tree is hiDrazil starts each day with the morning run The morning run consists of the following steps  Drazil chooses two different trees  He starts with climbing up the first tree  Then he climbs down the first tree runs around the park in one of two possible directions to the second tree and climbs on it  Then he finally climbs down the second tree But there are always children playing around some consecutive trees Drazil cant stand children so he cant choose the trees close to children He even cant stay close to those treesIf the two trees Drazil chooses are xth and yth we can estimate the energy the morning run takes to him as 2hxhydistxy Since there are children on exactly one of two arcs connecting x and y the distance distxy between trees x and y is uniquely definedNow you know that on the ith day children play between aith tree and bith tree More formally if aibi children play around the trees with indices from range aibi otherwise they play around the trees with indices from Please help Drazil to determine which two trees he should choose in order to consume the most energy since he wants to become fit and coollooking monkey and report the resulting amount of energy for each day

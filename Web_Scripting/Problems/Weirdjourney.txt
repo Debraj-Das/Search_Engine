@@ -1,0 +1,9 @@
+Weird journey                    
+
+httpscodeforcescomproblemsetproblem788B
+
+combinatorics
+
+2100
+
+Little boy Igor wants to become a traveller At first he decided to visit all the cities of his motherland UzhlyandiaIt is widely known that Uzhlyandia has n cities connected with m bidirectional roads Also there are no two roads in the country that connect the same pair of cities but roads starting and ending in the same city can exist Igor wants to plan his journey beforehand Boy thinks a path is good if the path goes over m2 roads twice and over the other 2 exactly once The good path can start and finish in any city of UzhlyandiaNow he wants to know how many different good paths are in Uzhlyandia Two paths are considered different if the sets of roads the paths goes over exactly once differ Help Igor calculate the number of good paths

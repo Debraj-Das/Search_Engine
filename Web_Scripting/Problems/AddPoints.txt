@@ -1,0 +1,9 @@
+Add Points                    
+
+https://codeforces.com/problemset/problem/926/B
+
+
+
+1800
+
+There are n points on a straight line, and the i-th point among them is located at xi. All these coordinates are distinct.Determine the number m — the smallest number of points you should add on the line to make the distances between all neighboring points equal. 

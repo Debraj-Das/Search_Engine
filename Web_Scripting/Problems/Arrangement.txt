@@ -1,0 +1,9 @@
+Arrangement                    
+
+httpscodeforcescomproblemsetproblem107C
+
+bitmasks
+
+2400
+
+In the year 2500 the annual graduation ceremony in the German University in Cairo GUC has run smoothly for almost 500 years so farThe most important part of the ceremony is related to the arrangement of the professors in the ceremonial hallTraditionally GUC has n professors Each professor has his seniority level All seniorities are different Lets enumerate the professors from 1 to n with 1 being the most senior professor and n being the most junior professorThe ceremonial hall has n seats one seat for each professor Some places in this hall are meant for more senior professors than the others More specifically m pairs of seats are in seniorjunior relation and the tradition requires that for all m pairs of seats aibi the professor seated in senior position ai should be more senior than the professor seated in junior position biGUC is very strict about its traditions which have been carefully observed starting from year 2001 The tradition requires that   The seating of the professors changes every year  Year 2001 ceremony was using lexicographically first arrangement of professors in the ceremonial hall  Each consecutive year lexicographically next arrangement of the professors is used The arrangement of the professors is the list of n integers where the first integer is the seniority of the professor seated in position number one the second integer is the seniority of the professor seated in position number two etcGiven n the number of professors y the current year and m pairs of restrictions output the arrangement of the professors for this year

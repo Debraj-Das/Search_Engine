@@ -1,0 +1,9 @@
+Infinite Prefixes                    
+
+https://codeforces.com/problemset/problem/1295/B
+
+math
+
+1700
+
+You are given string s of length n consisting of 0-s and 1-s. You build an infinite string t as a concatenation of an infinite number of strings s, or t = ssss \dots For example, if s = 10010, then t = 100101001010010...Calculate the number of prefixes of t with balance equal to x. The balance of some string q is equal to cnt_{0, q} - cnt_{1, q}, where cnt_{0, q} is the number of occurrences of 0 in q, and cnt_{1, q} is the number of occurrences of 1 in q. The number of such prefixes can be infinite; if it is so, you must say that.A prefix is a string consisting of several first letters of a given string, without any reorders. An empty prefix is also a valid prefix. For example, the string "abcd" has 5 prefixes: empty string, "a", "ab", "abc" and "abcd".

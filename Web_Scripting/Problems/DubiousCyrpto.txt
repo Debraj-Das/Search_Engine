@@ -1,0 +1,9 @@
+Dubious Cyrpto                    
+
+https://codeforces.com/problemset/problem/1379/B
+
+binary search
+
+1500
+
+Pasha loves to send strictly positive integers to his friends. Pasha cares about security, therefore when he wants to send an integer n, he encrypts it in the following way: he picks three integers a, b and c such that l \leq a,b,c \leq r, and then he computes the encrypted value m = n \cdot a + b - c.Unfortunately, an adversary intercepted the values l, r and m. Is it possible to recover the original values of a, b and c from this information? More formally, you are asked to find any values of a, b and c such that  a, b and c are integers,  l \leq a, b, c \leq r,  there exists a strictly positive integer n, such that n \cdot a + b - c = m. 

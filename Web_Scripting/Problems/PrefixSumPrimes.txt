@@ -1,0 +1,9 @@
+Prefix Sum Primes                    
+
+https://codeforces.com/problemset/problem/1149/A
+
+constructive algorithms
+
+1200
+
+We're giving away nice huge bags containing number tiles! A bag we want to present to you contains n tiles. Each of them has a single number written on it — either 1 or 2.However, there is one condition you must fulfill in order to receive the prize. You will need to put all the tiles from the bag in a sequence, in any order you wish. We will then compute the sums of all prefixes in the sequence, and then count how many of these sums are prime numbers. If you want to keep the prize, you will need to maximize the number of primes you get.Can you win the prize? Hurry up, the bags are waiting!

@@ -1,0 +1,9 @@
+PLEASE                    
+
+httpscodeforcescomproblemsetproblem696C
+
+combinatorics
+
+2000
+
+As we all know Barneys job is PLEASE and he has not much to do at work Thats why he started playing cups and key In this game there are three identical cups arranged in a line from left to right Initially key to Barneys heart is under the middle cup  Then at one turn Barney swaps the cup in the middle with any of other two cups randomly he choses each with equal probability so the chosen cup becomes the middle one Game lasts n turns and Barney independently choses a cup to swap with the middle one within each turn and the key always remains in the cup it was at the startAfter nth turn Barney asks a girl to guess which cup contains the key The girl points to the middle one but Barney was distracted while making turns and doesnt know if the key is under the middle cup Thats why he asked you to tell him the probability that girl guessed rightNumber n of game turns can be extremely large thats why Barney did not give it to you Instead he gave you an array a1a2ak such that   in other words n is multiplication of all elements of the given arrayBecause of precision difficulties Barney asked you to tell him the answer as an irreducible fraction In other words you need to find it as a fraction pq such that  where  is the greatest common divisor Since p and q can be extremely large you only need to find the remainders of dividing each of them by 1097Please note that we want  of p and q to be 1 not  of their remainders after dividing by 1097

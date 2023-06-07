@@ -1,0 +1,9 @@
+Sagheer and Apple Tree                    
+
+httpscodeforcescomproblemsetproblem812E
+
+games
+
+2300
+
+Sagheer is playing a game with his best friend Soliman He brought a tree with n nodes numbered from 1 to n and rooted at node 1 The ith node has ai apples This tree has a special property the lengths of all paths from the root to any leaf have the same parity ie all paths have even length or all paths have odd lengthSagheer and Soliman will take turns to play Soliman will make the first move The player who cant make a move losesIn each move the current player will pick a single node take a nonempty subset of apples from it and do one of the following two things  eat the apples if the node is a leaf  move the apples to one of the children if the node is nonleaf Before Soliman comes to start playing Sagheer will make exactly one change to the tree He will pick two different nodes u and v and swap the apples of u with the apples of vCan you help Sagheer count the number of ways to make the swap ie to choose u and v after which he will win the game if both players play optimally uv and vu are considered to be the same pair

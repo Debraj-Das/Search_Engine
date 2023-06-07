@@ -1,0 +1,9 @@
+Parallel Programming                    
+
+httpscodeforcescomproblemsetproblem291D
+
+special problem
+
+1600
+
+Polycarpus has a computer with n processors Also his computer has n memory cells Well consider the processors numbered by integers from 1 to n and that the memory cells are consecutively numbered by integers from 1 to nPolycarpus needs to come up with a parallel program model For each memory cell number i this program must record the value ni to this cell In other words for each cell youve got to find the distance to cell nLets denote the value that is written in the ith cell as ai Initially ai1 1in and an0 We will consider that only processor i can write values in the memory cell number i All processors can read an information from some cell several processors can read an information from some cell simultaneouslyThe parallel program is executed in several steps During each step we execute the parallel version of the increment operation Executing the parallel version of the increment operation goes as follows  Each processor independently of the other ones chooses some memory cell Lets say that processor i has chosen a cell with number ci 1cin  All processors simultaneously execute operation aiaiaci Help Polycarpus come up with the parallel program model that is executed in exactly k steps Calculate the operations that need to be executed Note that after k steps for all is value ai must be equal ni

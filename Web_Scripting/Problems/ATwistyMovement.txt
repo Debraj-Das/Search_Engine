@@ -1,0 +1,9 @@
+A Twisty Movement                    
+
+httpscodeforcescomproblemsetproblem933A
+
+dp
+
+1800
+
+A dragon symbolizes wisdom power and wealth On Lunar New Years Day people model a dragon with bamboo strips and clothes raise them with rods and hold the rods high and low to resemble a flying dragonA performer holding the rod low is represented by a 1 while one holding it high is represented by a 2 Thus the line of performers can be represented by a sequence a1a2anLittle Tommy is among them He would like to choose an interval lr 1lrn then reverse alal1ar so that the length of the longest nondecreasing subsequence of the new sequence is maximumA nondecreasing subsequence is a sequence of indices p1p2pk such that p1p2pk and ap1ap2apk The length of the subsequence is k

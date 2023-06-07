@@ -1,0 +1,9 @@
+Nice Matrix                    
+
+https://codeforces.com/problemset/problem/1422/B
+
+greedy
+
+1300
+
+A matrix of size n \times m is called nice, if all rows and columns of the matrix are palindromes. A sequence of integers (a_1, a_2, \dots , a_k) is a palindrome, if for any integer i (1 \le i \le k) the equality a_i = a_{k - i + 1} holds.Sasha owns a matrix a of size n \times m. In one operation he can increase or decrease any number in the matrix by one. Sasha wants to make the matrix nice. He is interested what is the minimum number of operations he needs.Help him!

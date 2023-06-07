@@ -1,0 +1,9 @@
+Jumbo Extra Cheese 2                    
+
+https://codeforces.com/problemset/problem/1740/B
+
+geometry
+
+800
+
+Pak Chanek has n two-dimensional slices of cheese. The i-th slice of cheese can be represented as a rectangle of dimensions a_i \times b_i. We want to arrange them on the two-dimensional plane such that:  Each edge of each cheese is parallel to either the x-axis or the y-axis.  The bottom edge of each cheese is a segment of the x-axis.  No two slices of cheese overlap, but their sides can touch.  They form one connected shape. Note that we can arrange them in any order (the leftmost slice of cheese is not necessarily the first slice of cheese). Also note that we can rotate each slice of cheese in any way as long as all conditions still hold.Find the minimum possible perimeter of the constructed shape.

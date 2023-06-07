@@ -1,0 +1,9 @@
+Flower Shop                    
+
+https://codeforces.com/problemset/problem/1488/J
+
+*special problem
+
+3100
+
+Your friend is running a flower shop. In order to be prepared for the next holidays (when, as usual, sales skyrocket) she asked you to write her a special program that will help to analyze the stocks she has.There are n different types of flowers she can order and each flower of the type i costs w_i. The last holidays were a great success, she sold all flowers she had, so right now all her stocks are empty.From this point, she starts routine operations of ordering and selling flowers, while trying to analyze what she has at hand. All of this can be represented as m queries of three types:   "1 i c" — she bought c flowers of type i;  "2 i c" — she disposed of c flowers of type i;  "3 l r k" — how many variants of bouquets she can make using only flowers of types l, l + 1, \dots, r with the total cost no more than k. For simplicity, you can think that a bouquet is a multiset of flowers, and two bouquets are different if they are different as multisets. The cost of a bouquet is the sum of all flowers it has. Help your friend and write the program that can process all these queries.

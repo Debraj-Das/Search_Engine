@@ -1,0 +1,9 @@
+Two Permutations                    
+
+httpscodeforcescomproblemsetproblem213E
+
+data structures
+
+2700
+
+Rubik is very keen on number permutations A permutation a with length n is a sequence consisting of n different numbers from 1 to n Element number i 1in of this permutation will be denoted as aiFurik decided to make a present to Rubik and came up with a new problem on permutations Furik tells Rubik two number permutations permutation a with length n and permutation b with length m Rubik must give an answer to the problem how many distinct integers d exist such that sequence c c1a1dc2a2dcnand of length n is a subsequence of bSequence a is a subsequence of sequence b if there are such indices i1i2in 1i1i2inm that a1bi1 a2bi2  anbin where n is the length of sequence a and m is the length of sequence b You are given permutations a and b help Rubik solve the given problem

@@ -1,0 +1,9 @@
+Mod Mod Mod                    
+
+httpscodeforcescomproblemsetproblem889E
+
+binary search
+
+3000
+
+You are given a sequence of integers a1a2an Let  and  for 1in Here  denotes the modulus operation Find the maximum value of fx1 over all nonnegative integers x 

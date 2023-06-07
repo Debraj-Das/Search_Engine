@@ -1,0 +1,9 @@
+Set Theory                    
+
+https://codeforces.com/problemset/problem/856/A
+
+brute force
+
+1600
+
+Masha and Grisha like studying sets of positive integers.One day Grisha has written a set A containing n different integers ai on a blackboard. Now he asks Masha to create a set B containing n different integers bj such that all n2 integers that can be obtained by summing up ai and bj for all possible pairs of i and j are different.Both Masha and Grisha don't like big numbers, so all numbers in A are from 1 to 106, and all numbers in B must also be in the same range.Help Masha to create the set B that satisfies Grisha's requirement.

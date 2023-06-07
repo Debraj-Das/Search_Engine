@@ -1,0 +1,9 @@
+Fib-tree                    
+
+https://codeforces.com/problemset/problem/1491/E
+
+brute force
+
+2400
+
+Let F_k denote the k-th term of Fibonacci sequence, defined as below: F_0 = F_1 = 1 for any integer n \geq 0, F_{n+2} = F_{n+1} + F_nYou are given a tree with n vertices. Recall that a tree is a connected undirected graph without cycles.We call a tree a Fib-tree, if its number of vertices equals F_k for some k, and at least one of the following conditions holds: The tree consists of only 1 vertex; You can divide it into two Fib-trees by removing some edge of the tree. Determine whether the given tree is a Fib-tree or not.

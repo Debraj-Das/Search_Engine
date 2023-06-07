@@ -1,0 +1,9 @@
+NIT Destroys the Universe                    
+
+https://codeforces.com/problemset/problem/1696/B
+
+greedy
+
+900
+
+For a collection of integers S, define \operatorname{mex}(S) as the smallest non-negative integer that does not appear in S.NIT, the cleaver, decides to destroy the universe. He is not so powerful as Thanos, so he can only destroy the universe by snapping his fingers several times.The universe can be represented as a 1-indexed array a of length n. When NIT snaps his fingers, he does the following operation on the array:  He selects positive integers l and r such that 1\le l\le r\le n. Let w=\operatorname{mex}(\{a_l,a_{l+1},\dots,a_r\}). Then, for all l\le i\le r, set a_i to w. We say the universe is destroyed if and only if for all 1\le i\le n, a_i=0 holds.Find the minimum number of times NIT needs to snap his fingers to destroy the universe. That is, find the minimum number of operations NIT needs to perform to make all elements in the array equal to 0.

@@ -1,0 +1,9 @@
+String                    
+
+httpscodeforcescomproblemsetproblem123D
+
+string suffix structures
+
+2300
+
+You are given a string s Each pair of numbers l and r that fulfill the condition 1lrs correspond to a substring of the string s starting in the position l and ending in the position r inclusiveLets define the function of two strings Fxy like this Well find a list of such pairs of numbers for which the corresponding substrings of string x are equal to string y Lets sort this list of pairs according to the pairs first numbers increasing The value of function Fxy equals the number of nonempty continuous sequences in the listFor example Fbabbabbababbabbabb6 The list of pairs is as follows1447912Its continuous sequences are   14  47  912  1447  47912  1447912 Your task is to calculate for the given string s the sum Fsx for all x that x belongs to the set of all substrings of a string s

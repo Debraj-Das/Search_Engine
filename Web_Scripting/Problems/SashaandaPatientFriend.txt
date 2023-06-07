@@ -1,0 +1,9 @@
+Sasha and a Patient Friend                    
+
+https://codeforces.com/problemset/problem/1109/C
+
+binary search
+
+2800
+
+Fedya and Sasha are friends, that's why Sasha knows everything about Fedya.Fedya keeps his patience in an infinitely large bowl. But, unlike the bowl, Fedya's patience isn't infinite, that is why let v be the number of liters of Fedya's patience, and, as soon as v becomes equal to 0, the bowl will burst immediately. There is one tap in the bowl which pumps s liters of patience per second. Notice that s can be negative, in that case, the tap pumps out the patience. Sasha can do different things, so he is able to change the tap's speed. All actions that Sasha does can be represented as q queries. There are three types of queries:  "1 t s"  — add a new event, means that starting from the t-th second the tap's speed will be equal to s.  "2 t"  — delete the event which happens at the t-th second. It is guaranteed that such event exists.  "3 l r v" — Sasha wonders: if you take all the events for which l \le t \le r and simulate changes of Fedya's patience from the very beginning of the l-th second till the very beginning of the r-th second inclusive (the initial volume of patience, at the beginning of the l-th second, equals to v liters) then when will be the moment when the bowl will burst. If that does not happen, then the answer will be -1. Since Sasha does not want to check what will happen when Fedya's patience ends, and he has already come up with the queries, he is asking you to help him and find the answer for each query of the 3-rd type.It is guaranteed that at any moment of time, there won't be two events which happen at the same second.

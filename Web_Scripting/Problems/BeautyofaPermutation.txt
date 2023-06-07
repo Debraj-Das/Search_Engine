@@ -1,0 +1,9 @@
+Beauty of a Permutation                    
+
+https://codeforces.com/problemset/problem/1205/F
+
+constructive algorithms
+
+3400
+
+Define the beauty of a permutation of numbers from 1 to n (p_1, p_2, \dots, p_n) as number of pairs (L, R) such that 1 \le L \le R \le n and numbers p_L, p_{L+1}, \dots, p_R are consecutive R-L+1 numbers in some order. For example, the beauty of the permutation (1, 2, 5, 3, 4) equals 9, and segments, corresponding to pairs, are [1], [2], [5], [4], [3], [1, 2], [3, 4], [5, 3, 4], [1, 2, 5, 3, 4].Answer q independent queries. In each query, you will be given integers n and k. Determine if there exists a permutation of numbers from 1 to n with beauty equal to k, and if there exists, output one of them.

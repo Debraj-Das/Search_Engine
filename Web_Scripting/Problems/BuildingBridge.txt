@@ -1,0 +1,9 @@
+Building Bridge                    
+
+httpscodeforcescomproblemsetproblem250D
+
+geometry
+
+1900
+
+Two villages are separated by a river that flows from the north to the south The villagers want to build a bridge across the river to make it easier to move across the villagesThe river banks can be assumed to be vertical straight lines xa and xb 0abThe west village lies in a steppe at point O00 There are n pathways leading from the village to the river they end at points Aiayi The villagers there are plain and simple so their pathways are straight segments as wellThe east village has reserved and cunning people Their village is in the forest on the east bank of the river but its exact position is not clear There are m twisted paths leading from this village to the river and ending at points Bibyi The lengths of all these paths are known the length of the path that leads from the eastern village to point Bi equals liThe villagers want to choose exactly one point on the left bank of river Ai exactly one point on the right bank Bj and connect them by a straightline bridge so as to make the total distance between the villages the sum of OAiAiBjlj where XY is the Euclidean distance between points X and Y were minimum The Euclidean distance between points x1y1 and x2y2 equals Help them and find the required pair of points

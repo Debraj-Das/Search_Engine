@@ -1,0 +1,9 @@
+Heidi and Library (hard)                    
+
+https://codeforces.com/problemset/problem/802/C
+
+flows
+
+2600
+
+The good times at Heidi's library are over. Marmots finally got their internet connections and stopped coming to the library altogether. Not only that, but the bookstore has begun charging extortionate prices for some books. Namely, whereas in the previous versions each book could be bought for 1 CHF, now the price of book i is ci CHF.

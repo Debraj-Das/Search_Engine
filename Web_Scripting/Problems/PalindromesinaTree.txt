@@ -1,0 +1,9 @@
+Palindromes in a Tree                    
+
+https://codeforces.com/problemset/problem/914/E
+
+bitmasks
+
+2400
+
+You are given a tree (a connected acyclic undirected graph) of n vertices. Vertices are numbered from 1 to n and each vertex is assigned a character from a to t.A path in the tree is said to be palindromic if at least one permutation of the labels in the path is a palindrome.For each vertex, output the number of palindromic paths passing through it. Note: The path from vertex u to vertex v is considered to be the same as the path from vertex v to vertex u, and this path will be counted only once for each of the vertices it passes through.

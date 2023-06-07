@@ -1,0 +1,9 @@
+Congruence Equation                    
+
+https://codeforces.com/problemset/problem/919/E
+
+chinese remainder theorem
+
+2100
+
+Given an integer x. Your task is to find out how many positive integers n (1 \leq n \leq x) satisfy n \cdot a^n \equiv b \quad (\textrm{mod}\;p), where a, b, p are all known constants.

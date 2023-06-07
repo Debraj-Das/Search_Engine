@@ -1,0 +1,9 @@
+Beautiful fountains rows                    
+
+httpscodeforcescomproblemsetproblem799F
+
+data structures
+
+3500
+
+Butler Ostin wants to show Arkady that rows of odd number of fountains are beautiful while rows of even number of fountains are notThe butler wants to show Arkady n gardens Each garden is a row of m cells the ith garden has one fountain in each of the cells between li and ri inclusive and there are no more fountains in that garden The issue is that some of the gardens contain even number of fountains it is wrong to show them to ArkadyOstin wants to choose two integers ab and show only part of each of the gardens that starts at cell a and ends at cell b Of course only such segments suit Ostin that each garden has either zero or odd number of fountains on this segment Also it is necessary that at least one garden has at least one fountain on the segment from a to bHelp Ostin to find the total length of all such segments ie sum up the value ba1 for each suitable pair ab

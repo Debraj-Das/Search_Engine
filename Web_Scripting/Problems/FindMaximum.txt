@@ -1,0 +1,9 @@
+Find Maximum                    
+
+httpscodeforcescomproblemsetproblem353C
+
+implementation
+
+1600
+
+Valera has array a consisting of n integers a0a1an1 and function fx taking an integer from 0 to 2n1 as its single argument Value fx is calculated by formula  where value biti equals one if the binary representation of number x contains a 1 on the ith position and zero otherwiseFor example if n4 and x11 11202123 then fxa0a1a3Help Valera find the maximum of function fx among all x for which an inequality holds 0xm

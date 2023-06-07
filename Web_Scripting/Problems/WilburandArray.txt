@@ -1,0 +1,9 @@
+Wilbur and Array                    
+
+httpscodeforcescomproblemsetproblem596B
+
+greedy
+
+1100
+
+Wilbur the pig is tinkering with arrays again He has the array a1a2an initially consisting of n zeros At one step he can choose any index i and either add 1 to all elements aiai1 an or subtract 1 from all elements aiai1an His goal is to end up with the array b1b2bn Of course Wilbur wants to achieve this goal in the minimum number of steps and asks you to compute this value

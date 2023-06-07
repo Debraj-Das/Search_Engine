@@ -1,0 +1,9 @@
+A Serial Killer                    
+
+https://codeforces.com/problemset/problem/776/A
+
+brute force
+
+900
+
+Our beloved detective, Sherlock is currently trying to catch a serial killer who kills a person each day. Using his powers of deduction, he came to know that the killer has a strategy for selecting his next victim.The killer starts with two potential victims on his first day, selects one of these two, kills selected victim and replaces him with a new person. He repeats this procedure each day. This way, each day he has two potential victims to choose from. Sherlock knows the initial two potential victims. Also, he knows the murder that happened on a particular day and the new person who replaced this victim.You need to help him get all the pairs of potential victims at each day so that Sherlock can observe some pattern.

@@ -1,0 +1,9 @@
+Array Cloning Technique                    
+
+https://codeforces.com/problemset/problem/1665/B
+
+constructive algorithms
+
+900
+
+You are given an array a of n integers. Initially there is only one copy of the given array.You can do operations of two types:  Choose any array and clone it. After that there is one more copy of the chosen array.  Swap two elements from any two copies (maybe in the same copy) on any positions. You need to find the minimal number of operations needed to obtain a copy where all elements are equal.

@@ -1,0 +1,9 @@
+Mio and Lucky Array                    
+
+https://codeforces.com/problemset/problem/1704/G
+
+constructive algorithms
+
+3500
+
+Mio has an array a consisting of n integers, and an array b consisting of m integers. Mio can do the following operation to a:  Choose an integer i (1 \leq i \leq n) that has not been chosen before, then add 1 to a_i, subtract 2 from a_{i+1}, add 3 to a_{i+2} an so on. Formally, the operation is to add (-1)^{j-i} \cdot (j-i+1)  to a_j for i \leq j \leq n.Mio wants to transform a so that it will contain b as a subarray. Could you answer her question, and provide a sequence of operations to do so, if it is possible?An array b is a subarray of an array a if b can be obtained from a by deletion of several (possibly, zero or all) elements from the beginning and several (possibly, zero or all) elements from the end.

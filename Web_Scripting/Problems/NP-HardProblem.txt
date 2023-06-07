@@ -1,0 +1,9 @@
+NP-Hard Problem                    
+
+https://codeforces.com/problemset/problem/687/A
+
+dfs and similar
+
+1500
+
+Recently, Pari and Arya did some research about NP-Hard problems and they found the minimum vertex cover problem very interesting.Suppose the graph G is given. Subset A of its vertices is called a vertex cover of this graph, if for each edge uv there is at least one endpoint of it in this set, i.e.  or  (or both).Pari and Arya have won a great undirected graph as an award in a team contest. Now they have to split it in two parts, but both of them want their parts of the graph to be a vertex cover.They have agreed to give you their graph and you need to find two disjoint subsets of its vertices A and B, such that both A and B are vertex cover or claim it's impossible. Each vertex should be given to no more than one of the friends (or you can even keep it for yourself).

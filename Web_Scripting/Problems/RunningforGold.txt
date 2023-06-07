@@ -1,0 +1,9 @@
+Running for Gold                    
+
+https://codeforces.com/problemset/problem/1552/B
+
+combinatorics
+
+1500
+
+The Olympic Games have just started and Federico is eager to watch the marathon race.There will be n athletes, numbered from 1 to n, competing in the marathon, and all of them have taken part in 5 important marathons, numbered from 1 to 5, in the past. For each 1\le i\le n and 1\le j\le 5, Federico remembers that athlete i ranked r_{i,j}-th in marathon j (e.g., r_{2,4}=3 means that athlete 2 was third in marathon 4).Federico considers athlete x superior to athlete y if athlete x ranked better than athlete y in at least 3 past marathons, i.e., r_{x,j}<r_{y,j} for at least 3 distinct values of j.Federico believes that an athlete is likely to get the gold medal at the Olympics if he is superior to all other athletes.Find any athlete who is likely to get the gold medal (that is, an athlete who is superior to all other athletes), or determine that there is no such athlete.

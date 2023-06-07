@@ -1,0 +1,9 @@
+GameGame                    
+
+https://codeforces.com/problemset/problem/1383/B
+
+bitmasks
+
+1900
+
+Koa the Koala and her best friend want to play a game.The game starts with an array a of length n consisting of non-negative integers. Koa and her best friend move in turns and each have initially a score equal to 0. Koa starts.Let's describe a move in the game:  During his move, a player chooses any element of the array and removes it from this array, xor-ing it with the current score of the player. More formally: if the current score of the player is x and the chosen element is y, his new score will be x \oplus y. Here \oplus denotes bitwise XOR operation. Note that after a move element y is removed from a.  The game ends when the array is empty. At the end of the game the winner is the player with the maximum score. If both players have the same score then it's a draw.If both players play optimally find out whether Koa will win, lose or draw the game.

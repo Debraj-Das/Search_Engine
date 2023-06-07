@@ -1,0 +1,9 @@
+Making It Bipartite                    
+
+https://codeforces.com/problemset/problem/1630/F
+
+flows
+
+3400
+
+You are given an undirected graph of n vertices indexed from 1 to n, where vertex i has a value a_i assigned to it and all values a_i are different. There is an edge between two vertices u and v if either a_u divides a_v or a_v divides a_u.Find the minimum number of vertices to remove such that the remaining graph is bipartite, when you remove a vertex you remove all the edges incident to it.

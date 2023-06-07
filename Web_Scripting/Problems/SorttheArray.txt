@@ -1,0 +1,9 @@
+Sort the Array                    
+
+https://codeforces.com/problemset/problem/451/B
+
+implementation
+
+1300
+
+Being a programmer, you like arrays a lot. For your birthday, your friends have given you an array a consisting of n distinct integers.Unfortunately, the size of a is too small. You want a bigger array! Your friends agree to give you a bigger array, but only if you are able to answer the following question correctly: is it possible to sort the array a (in increasing order) by reversing exactly one segment of a? See definitions of segment and reversing in the notes.

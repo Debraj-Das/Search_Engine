@@ -1,0 +1,9 @@
+The Next Good String                    
+
+httpscodeforcescomproblemsetproblem196D
+
+data structures
+
+2800
+
+In problems on strings one often has to find a string with some particular properties The problem authors were reluctant to waste time on thinking of a name for some string so they called it good A string is good if it doesnt have palindrome substrings longer than or equal to d You are given string s consisting only of lowercase English letters Find a good string t with length s consisting of lowercase English letters which is lexicographically larger than s Of all such strings string t must be lexicographically minimumWe will call a nonempty string sabsasa1 sb 1abs a substring of string ss1s2 ssA nonempty string ss1s2 sn is called a palindrome if for all i from 1 to n the following fulfills sisni1 In other words palindrome read the same in both directionsString xx1x2 xx is lexicographically larger than string yy1y2 yy if either xy and x1y1x2y2 xyyy or there exists such number r rxry that x1y1x2y2 xryr and xr1yr1 Characters in such strings are compared like their ASCII codes

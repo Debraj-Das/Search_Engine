@@ -1,0 +1,9 @@
+Vladik and chat                    
+
+https://codeforces.com/problemset/problem/754/C
+
+brute force
+
+2200
+
+Recently Vladik discovered a new entertainment — coding bots for social networks. He would like to use machine learning in his bots so now he want to prepare some learning data for them.At first, he need to download t chats. Vladik coded a script which should have downloaded the chats, however, something went wrong. In particular, some of the messages have no information of their sender. It is known that if a person sends several messages in a row, they all are merged into a single message. It means that there could not be two or more messages in a row with the same sender. Moreover, a sender never mention himself in his messages.Vladik wants to recover senders of all the messages so that each two neighboring messages will have different senders and no sender will mention himself in his messages.He has no idea of how to do this, and asks you for help. Help Vladik to recover senders in each of the chats!

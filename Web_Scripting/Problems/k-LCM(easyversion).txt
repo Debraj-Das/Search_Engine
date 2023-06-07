@@ -1,0 +1,9 @@
+k-LCM (easy version)                    
+
+https://codeforces.com/problemset/problem/1497/C1
+
+constructive algorithms
+
+1200
+
+It is the easy version of the problem. The only difference is that in this version k = 3.You are given a positive integer n. Find k positive integers a_1, a_2, \ldots, a_k, such that:  a_1 + a_2 + \ldots + a_k = n  LCM(a_1, a_2, \ldots, a_k) \le \frac{n}{2} Here LCM is the least common multiple of numbers a_1, a_2, \ldots, a_k.We can show that for given constraints the answer always exists.

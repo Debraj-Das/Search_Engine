@@ -1,0 +1,9 @@
+Valera and Antique Items                    
+
+https://codeforces.com/problemset/problem/441/A
+
+implementation
+
+1000
+
+Valera is a collector. Once he wanted to expand his collection with exactly one antique item.Valera knows n sellers of antiques, the i-th of them auctioned ki items. Currently the auction price of the j-th object of the i-th seller is sij. Valera gets on well with each of the n sellers. He is perfectly sure that if he outbids the current price of one of the items in the auction (in other words, offers the seller the money that is strictly greater than the current price of the item at the auction), the seller of the object will immediately sign a contract with him.Unfortunately, Valera has only v units of money. Help him to determine which of the n sellers he can make a deal with.

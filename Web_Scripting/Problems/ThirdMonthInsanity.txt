@@ -1,0 +1,9 @@
+Third Month Insanity                    
+
+httpscodeforcescomproblemsetproblem859D
+
+dp
+
+2100
+
+The annual college sportsball tournament is approaching which for trademark reasons well refer to as Third Month Insanity There are a total of 2N teams participating in the tournament numbered from 1 to 2N The tournament lasts N rounds with each round eliminating half the teams The first round consists of 2N1 games numbered starting from 1 In game i team 2i1 will play against team 2i The loser is eliminated and the winner advances to the next round there are no ties Each subsequent round has half as many games as the previous round and in game i the winner of the previous rounds game 2i1 will play against the winner of the previous rounds game 2iEvery year the office has a pool to see who can create the best bracket A bracket is a set of winner predictions for every game For games in the first round you may predict either team to win but for games in later rounds the winner you predict must also be predicted as a winner in the previous round Note that the bracket is fully constructed before any games are actually played Correct predictions in the first round are worth 1 point and correct predictions in each subsequent round are worth twice as many points as the previous so correct predictions in the final game are worth 2N1 pointsFor every pair of teams in the league you have estimated the probability of each team winning if they play against each other Now you want to construct a bracket with the maximum possible expected score

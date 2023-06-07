@@ -1,0 +1,9 @@
+Most Dangerous Shark                    
+
+https://codeforces.com/problemset/problem/1131/G
+
+data structures
+
+2700
+
+Semyon participates in the most prestigious competition of the world ocean for the title of the most dangerous shark. During this competition sharks compete in different subjects: speed swimming, masking, map navigation and many others. Now Semyon is taking part in «destruction» contest.During it, m dominoes are placed in front of the shark. All dominoes are on the same line, but the height of the dominoes may vary. The distance between adjacent dominoes is 1. Moreover, each Domino has its own cost value, expressed as an integer. The goal is to drop all the dominoes. To do this, the shark can push any domino to the left or to the right, and it will begin falling in this direction. If during the fall the domino touches other dominoes, they will also start falling in the same direction in which the original domino is falling, thus beginning a chain reaction, as a result of which many dominoes can fall. A falling domino touches another one, if and only if the distance between them was strictly less than the height of the falling domino, the dominoes do not necessarily have to be adjacent.Of course, any shark can easily drop all the dominoes in this way, so the goal is not to drop all the dominoes, but do it with a minimum cost. The cost of the destruction is the sum of the costs of dominoes that the shark needs to push to make all the dominoes fall.Simon has already won in the previous subjects, but is not smart enough to win in this one. Help Semyon and determine the minimum total cost of the dominoes he will have to push to make all the dominoes fall.

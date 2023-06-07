@@ -1,0 +1,9 @@
+Lets Watch Football                    
+
+httpscodeforcescomproblemsetproblem195A
+
+binary search
+
+1000
+
+Valeric and Valerko missed the last Euro football game so they decided to watch the games key moments on the Net They want to start watching as soon as possible but the connection speed is too low If they turn on the video right now it will hang up as the size of data to watch per second will be more than the size of downloaded data per secondThe guys want to watch the whole video without any pauses so they have to wait some integer number of seconds for a part of the video to download After this number of seconds passes they can start watching Waiting for the whole video to download isnt necessary as the video can download after the guys started to watchLets suppose that videos length is c seconds and Valeric and Valerko wait t seconds before the watching Then for any moment of time t0 tt0ct the following condition must fulfill the size of data received in t0 seconds is not less than the size of data needed to watch t0t seconds of the videoOf course the guys want to wait as little as possible so your task is to find the minimum integer number of seconds to wait before turning the video on The guys must watch the video without pauses

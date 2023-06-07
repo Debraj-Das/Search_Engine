@@ -1,0 +1,9 @@
+Coins Exhibition                    
+
+httpscodeforcescomproblemsetproblem930E
+
+data structures
+
+2900
+
+Arkady and Kirill visited an exhibition of rare coins The coins were located in a row and enumerated from left to right from 1 to k each coin either was laid with its obverse front side up or with its reverse back side upArkady and Kirill made some photos of the coins each photo contained a segment of neighboring coins Akrady is interested in obverses so on each photo made by him there is at least one coin with obverse side up On the contrary Kirill is interested in reverses so on each photo made by him there is at least one coin with its reverse side upThe photos are lost now but Arkady and Kirill still remember the bounds of the segments of coins each photo contained Given this information compute the remainder of division by 1097 of the number of ways to choose the upper side of each coin in such a way that on each Arkadys photo there is at least one coin with obverse side up and on each Kirills photo there is at least one coin with reverse side up

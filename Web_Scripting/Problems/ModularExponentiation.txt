@@ -1,0 +1,9 @@
+Modular Exponentiation                    
+
+httpscodeforcescomproblemsetproblem913A
+
+implementation
+
+900
+
+The following problem is wellknown given integers n and m calculate  where 2n222 n factors and  denotes the remainder of division of x by yYou are asked to solve the reverse problem Given integers n and m calculate  

@@ -1,0 +1,9 @@
+Permutations                    
+
+https://codeforces.com/problemset/problem/736/D
+
+math
+
+2800
+
+Ostap Bender is worried that people started to forget that he is the Great Combinator. Now he wants to show them his skills in combinatorics. Now he studies the permutations of length n. He has a list of m valid pairs, pair ai and bi means that he is allowed to place integers bi at position ai.He knows that the number of permutations that use only valid pairs is odd. Now, for each pair he wants to find out, will the number of valid permutations be odd if he removes this pair (and only it) from the list.

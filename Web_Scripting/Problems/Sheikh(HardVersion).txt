@@ -1,0 +1,9 @@
+Sheikh (Hard Version)                    
+
+https://codeforces.com/problemset/problem/1732/C2
+
+binary search
+
+2100
+
+This is the hard version of the problem. The only difference is that in this version q = n.You are given an array of integers a_1, a_2, \ldots, a_n.The cost of a subsegment of the array [l, r], 1 \leq l \leq r \leq n, is the value f(l, r) = \operatorname{sum}(l, r) - \operatorname{xor}(l, r), where \operatorname{sum}(l, r) = a_l + a_{l+1} + \ldots + a_r, and \operatorname{xor}(l, r) = a_l \oplus a_{l+1} \oplus \ldots \oplus a_r (\oplus stands for bitwise XOR).You will have q queries. Each query is given by a pair of numbers L_i, R_i, where 1 \leq L_i \leq R_i \leq n. You need to find the subsegment [l, r], L_i \leq l \leq r \leq R_i, with maximum value f(l, r). If there are several answers, then among them you need to find a subsegment with the minimum length, that is, the minimum value of r - l + 1.

@@ -1,0 +1,9 @@
+Alice and Bob                    
+
+httpscodeforcescomproblemsetproblem346A
+
+games
+
+1600
+
+It is so boring in the summer holiday isnt it So Alice and Bob have invented a new game to play The rules are as follows First they get a set of n distinct integers And then they take turns to make the following moves During each move either Alice or Bob the player whose turn is the current can choose two distinct integers x and y from the set such that the set doesnt contain their absolute difference xy Then this player adds integer xy to the set so the size of the set increases by oneIf the current player has no valid move he or she loses the game The question is who will finally win the game if both players play optimally Remember that Alice always moves first

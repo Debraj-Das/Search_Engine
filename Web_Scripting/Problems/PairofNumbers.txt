@@ -1,0 +1,9 @@
+Pair of Numbers                    
+
+httpscodeforcescomproblemsetproblem359D
+
+binary search
+
+2000
+
+Simon has an array a1a2an consisting of n positive integers Today Simon asked you to find a pair of integers lr 1lrn such that the following conditions hold  there is integer j ljr such that all integers alal1ar are divisible by aj  value rl takes the maximum value among all pairs for which condition 1 is true Help Simon find the required pair of numbers lr If there are multiple required pairs find all of them

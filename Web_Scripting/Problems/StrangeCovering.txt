@@ -1,0 +1,9 @@
+Strange Covering                    
+
+https://codeforces.com/problemset/problem/1470/F
+
+divide and conquer
+
+3500
+
+You are given n points on a plane. Please find the minimum sum of areas of two axis-aligned rectangles, such that each point is contained in at least one of these rectangles.Note that the chosen rectangles can be degenerate. Rectangle contains all the points that lie inside it or on its boundary.

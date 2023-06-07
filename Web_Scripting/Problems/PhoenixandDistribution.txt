@@ -1,0 +1,9 @@
+Phoenix and Distribution                    
+
+https://codeforces.com/problemset/problem/1348/C
+
+constructive algorithms
+
+1600
+
+Phoenix has a string s consisting of lowercase Latin letters. He wants to distribute all the letters of his string into k non-empty strings a_1, a_2, \dots, a_k such that every letter of s goes to exactly one of the strings a_i. The strings a_i do not need to be substrings of s. Phoenix can distribute letters of s and rearrange the letters within each string a_i however he wants.For example, if s =  baba and k=2, Phoenix may distribute the letters of his string in many ways, such as:   ba and ba  a and abb  ab and ab  aa and bb But these ways are invalid:   baa and ba  b and ba  baba and empty string (a_i should be non-empty) Phoenix wants to distribute the letters of his string s into k strings a_1, a_2, \dots, a_k to minimize the lexicographically maximum string among them, i. e. minimize max(a_1, a_2, \dots, a_k). Help him find the optimal distribution and print the minimal possible value of max(a_1, a_2, \dots, a_k).String x is lexicographically less than string y if either x is a prefix of y and x \ne y, or there exists an index i (1 \le i \le min(|x|, |y|)) such that x_i < y_i and for every j (1 \le j < i) x_j = y_j. Here |x| denotes the length of the string x.

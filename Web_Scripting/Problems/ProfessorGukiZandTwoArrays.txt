@@ -1,0 +1,9 @@
+Professor GukiZ and Two Arrays                    
+
+httpscodeforcescomproblemsetproblem620D
+
+binary search
+
+2200
+
+Professor GukiZ has two arrays of integers a and b Professor wants to make the sum of the elements in the array a sa as close as possible to the sum of the elements in the array b sb So he wants to minimize the value vsasbIn one operation professor can swap some element from the array a and some element from the array b For example if the array a is 51324 and the array b is 332 professor can swap the element 5 from the array a and the element 2 from the array b and get the new array a 21324 and the new array b 335Professor doesnt want to make more than two swaps Find the minimal value v and some sequence of no more than two swaps that will lead to the such value v Professor makes swaps one by one each new swap he makes with the new arrays a and b

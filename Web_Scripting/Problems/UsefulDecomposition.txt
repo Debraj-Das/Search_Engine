@@ -1,0 +1,9 @@
+Useful Decomposition                    
+
+https://codeforces.com/problemset/problem/981/C
+
+implementation
+
+1400
+
+Ramesses knows a lot about problems involving trees (undirected connected graphs without cycles)!He created a new useful tree decomposition, but he does not know how to construct it, so he asked you for help!The decomposition is the splitting the edges of the tree in some simple paths in such a way that each two paths have at least one common vertex. Each edge of the tree should be in exactly one path.Help Remesses, find such a decomposition of the tree or derermine that there is no such decomposition.

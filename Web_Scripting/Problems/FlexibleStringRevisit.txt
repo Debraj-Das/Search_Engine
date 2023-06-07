@@ -1,0 +1,9 @@
+Flexible String Revisit                    
+
+https://codeforces.com/problemset/problem/1778/D
+
+combinatorics
+
+2100
+
+You are given two binary strings a and b of length n. In each move, the string a is modified in the following way.  An index i (1 \leq i \leq n) is chosen uniformly at random. The character a_i will be flipped. That is, if a_i is 0, it becomes 1, and if a_i is 1, it becomes 0. What is the expected number of moves required to make both strings equal for the first time?A binary string is a string, in which the character is either \tt{0} or \tt{1}.

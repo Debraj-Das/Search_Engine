@@ -1,0 +1,9 @@
+Phoenix and Puzzle                    
+
+https://codeforces.com/problemset/problem/1515/B
+
+brute force
+
+1000
+
+Phoenix is playing with a new puzzle, which consists of n identical puzzle pieces. Each puzzle piece is a right isosceles triangle as shown below.  A puzzle piece The goal of the puzzle is to create a square using the n pieces. He is allowed to rotate and move the pieces around, but none of them can overlap and all n pieces must be used (of course, the square shouldn't contain any holes as well). Can he do it?

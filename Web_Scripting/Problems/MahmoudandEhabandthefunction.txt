@@ -1,0 +1,9 @@
+Mahmoud and Ehab and the function                    
+
+httpscodeforcescomproblemsetproblem862E
+
+binary search
+
+2100
+
+Dr Evil is interested in math and functions so he gave Mahmoud and Ehab array a of length n and array b of length m He introduced a function fj which is defined for integers j which satisfy 0jmn Suppose ciaibij Then fjc1c2c3c4 cn More formally  Dr Evil wants Mahmoud and Ehab to calculate the minimum value of this function over all valid j They found it a bit easy so Dr Evil made their task harder He will give them q update queries During each update they should add an integer xi to all elements in a in range liri ie they should add xi to aliali1 ari and then they should calculate the minimum value of fj for all valid jPlease help Mahmoud and Ehab

@@ -1,0 +1,9 @@
+T-shirts Distribution                    
+
+https://codeforces.com/problemset/problem/727/D
+
+constructive algorithms
+
+1800
+
+The organizers of a programming contest have decided to present t-shirts to participants. There are six different t-shirts sizes in this problem: S, M, L, XL, XXL, XXXL (sizes are listed in increasing order). The t-shirts are already prepared. For each size from S to XXXL you are given the number of t-shirts of this size.During the registration, the organizers asked each of the n participants about the t-shirt size he wants. If a participant hesitated between two sizes, he could specify two neighboring sizes — this means that any of these two sizes suits him.Write a program that will determine whether it is possible to present a t-shirt to each participant of the competition, or not. Of course, each participant should get a t-shirt of proper size:   the size he wanted, if he specified one size;  any of the two neibouring sizes, if he specified two sizes. If it is possible, the program should find any valid distribution of the t-shirts.

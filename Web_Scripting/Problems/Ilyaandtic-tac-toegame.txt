@@ -1,0 +1,9 @@
+Ilya and tictactoe game                    
+
+httpscodeforcescomproblemsetproblem754B
+
+brute force
+
+1100
+
+Ilya is an experienced player in tictactoe on the 44 field He always starts and plays with Xs He played a lot of games today with his friend Arseny The friends became tired and didnt finish the last game It was Ilyas turn in the game when they left it Determine whether Ilya could have won the game by making single turn or not The rules of tictactoe on the 44 field are as follows Before the first turn all the field cells are empty The two players take turns placing their signs into empty cells the first player places Xs the second player places Os The player who places Xs goes first the another one goes second The winner is the player who first gets three of his signs in a row next to each other horizontal vertical or diagonal

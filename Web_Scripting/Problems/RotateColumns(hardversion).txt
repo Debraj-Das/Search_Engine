@@ -1,0 +1,9 @@
+Rotate Columns (hard version)                    
+
+https://codeforces.com/problemset/problem/1209/E2
+
+bitmasks
+
+2500
+
+This is a harder version of the problem. The difference is only in constraints.You are given a rectangular n \times m matrix a. In one move you can choose any column and cyclically shift elements in this column. You can perform this operation as many times as you want (possibly zero). You can perform this operation to a column multiple times.After you are done with cyclical shifts, you compute for every row the maximal value in it. Suppose that for i-th row it is equal r_i. What is the maximal possible value of r_1+r_2+\ldots+r_n?

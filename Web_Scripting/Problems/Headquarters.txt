@@ -1,0 +1,9 @@
+Headquarters                    
+
+httpscodeforcescomproblemsetproblem183A
+
+constructive algorithms
+
+1700
+
+Sensation sensation in the twodimensional kingdom The police have caught a highly dangerous outlaw member of the notorious Pihters gang The law department states that the outlaw was driving from the gangs headquarters in his car when he crashed into an ice cream stall The stall the car and the headquarters each occupies exactly one point on the twodimensional kingdomThe outlaws car was equipped with a GPS transmitter The transmitter showed that the car made exactly n movements on its way from the headquarters to the stall A movement can move the car from point xy to one of these four points to point x1y which we will mark by letter L to point x1y  R to point xy1  D to point xy1  UThe GPS transmitter is very inaccurate and it doesnt preserve the exact sequence of the cars movements Instead it keeps records of the cars possible movements Each record is a string of one of these types UL UR DL DR or ULDR Each such string means that the car made a single movement corresponding to one of the characters of the string For example string UL means that the car moved either U or LYouve received the journal with the outlaws possible movements from the headquarters to the stall The journal records are given in a chronological order Given that the icecream stall is located at point 00 your task is to print the number of different points that can contain the gang headquarters that is the number of different possible locations of the cars origin

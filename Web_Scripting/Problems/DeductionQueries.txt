@@ -1,0 +1,9 @@
+Deduction Queries                    
+
+https://codeforces.com/problemset/problem/1044/D
+
+data structures
+
+2400
+
+There is an array a of 2^{30} integers, indexed from 0 to 2^{30}-1. Initially, you know that 0 \leq a_i < 2^{30} (0 \leq i < 2^{30}), but you do not know any of the values. Your task is to process queries of two types: 1 l r x: You are informed that the bitwise xor of the subarray [l, r] (ends inclusive) is equal to x. That is, a_l \oplus a_{l+1} \oplus \ldots \oplus a_{r-1} \oplus a_r = x, where \oplus is the bitwise xor operator. In some cases, the received update contradicts past updates. In this case, you should ignore the contradicting update (the current update). 2 l r: You are asked to output the bitwise xor of the subarray [l, r] (ends inclusive). If it is still impossible to know this value, considering all past updates, then output -1.Note that the queries are encoded. That is, you need to write an online solution.

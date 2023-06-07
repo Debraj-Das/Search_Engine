@@ -1,0 +1,9 @@
+Hongcow Buys a Deck of Cards                    
+
+httpscodeforcescomproblemsetproblem744C
+
+bitmasks
+
+2400
+
+One day Hongcow goes to the store and sees a brand new deck of n special cards Each individual card is either red or blue He decides he wants to buy them immediately To do this he needs to play a game with the owner of the storeThis game takes some number of turns to complete On a turn Hongcow may do one of two things   Collect tokens Hongcow collects 1 red token and 1 blue token by choosing this option thus 2 tokens in total per one operation  Buy a card Hongcow chooses some card and spends tokens to purchase it as specified below The ith card requires ri red resources and bi blue resources Suppose Hongcow currently has A red cards and B blue cards Then the ith card will require Hongcow to spend maxriA0 red tokens and maxbiB0 blue tokens Note only tokens disappear but the cards stay with Hongcow forever Each card can be bought only onceGiven a description of the cards and their costs determine the minimum number of turns Hongcow needs to purchase all cards

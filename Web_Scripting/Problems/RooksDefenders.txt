@@ -1,0 +1,9 @@
+Rooks Defenders                    
+
+https://codeforces.com/problemset/problem/1679/C
+
+data structures
+
+1400
+
+You have a square chessboard of size n \times n. Rows are numbered from top to bottom with numbers from 1 to n, and columns — from left to right with numbers from 1 to n. So, each cell is denoted with pair of integers (x, y) (1 \le x, y \le n), where x is a row number and y is a column number.You have to perform q queries of three types:  Put a new rook in cell (x, y).  Remove a rook from cell (x, y). It's guaranteed that the rook was put in this cell before.  Check if each cell of subrectangle (x_1, y_1) - (x_2, y_2) of the board is attacked by at least one rook. Subrectangle is a set of cells (x, y) such that for each cell two conditions are satisfied: x_1 \le x \le x_2 and y_1 \le y \le y_2.Recall that cell (a, b) is attacked by a rook placed in cell (c, d) if either a = c or b = d. In particular, the cell containing a rook is attacked by this rook.

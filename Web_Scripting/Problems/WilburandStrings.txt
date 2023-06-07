@@ -1,0 +1,9 @@
+Wilbur and Strings                    
+
+httpscodeforcescomproblemsetproblem596E
+
+dfs and similar
+
+2500
+
+Wilbur the pig now wants to play with strings He has found an n by m table consisting only of the digits from 0 to 9 where the rows are numbered 1 to n and the columns are numbered 1 to m Wilbur starts at some square and makes certain moves If he is at square x y and the digit d 0d9 is written at position x y then he must move to the square xad ybd if that square lies within the table and he stays in the square x y otherwise Before Wilbur makes a move he can choose whether or not to write the digit written in this square on the white board All digits written on the whiteboard form some string Every time a new digit is written it goes to the end of the current stringWilbur has q strings that he is worried about For each string si Wilbur wants to know whether there exists a starting position x y so that by making finitely many moves Wilbur can end up with the string si written on the white board

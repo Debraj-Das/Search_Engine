@@ -1,0 +1,9 @@
+Number of Groups                    
+
+https://codeforces.com/problemset/problem/1691/E
+
+data structures
+
+2300
+
+You are given n colored segments on the number line. Each segment is either colored red or blue. The i-th segment can be represented by a tuple (c_i, l_i, r_i). The segment contains all the points in the range [l_i, r_i], inclusive, and its color denoted by c_i:   if c_i = 0, it is a red segment;  if c_i = 1, it is a blue segment. We say that two segments of different colors are connected, if they share at least one common point. Two segments belong to the same group, if they are either connected directly, or through a sequence of directly connected segments. Find the number of groups of segments.   

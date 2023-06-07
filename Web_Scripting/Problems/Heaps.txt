@@ -1,0 +1,9 @@
+Heaps                    
+
+httpscodeforcescomproblemsetproblem955F
+
+dp
+
+2600
+
+Youre given a tree with n vertices rooted at 1We say that theres a kary heap of depth m located at u if the following holds  For m1 u itself is a kary heap of depth 1  For m1 vertex u is a kary heap of depth m if at least k of its children are kary heaps of depth at least m1 Denote dpku as maximum depth of kary heap in the subtree of u including u Your goal is to compute 

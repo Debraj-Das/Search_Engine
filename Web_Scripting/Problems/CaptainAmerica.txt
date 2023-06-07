@@ -1,0 +1,9 @@
+Captain America                    
+
+httpscodeforcescomproblemsetproblem704D
+
+flows
+
+3100
+
+Steve Rogers is fascinated with new vibranium shields SHIELD gave him Theyre all uncolored There are n shields in total the ith shield is located at point xiyi of the coordinate plane Its possible that two or more shields share the same locationSteve wants to paint all these shields He paints each shield in either red or blue Painting a shield in red costs r dollars while painting it in blue costs b dollarsAdditionally there are m constraints Steve wants to be satisfied The ith constraint is provided by three integers ti li and di  If ti1 then the absolute difference between the number of red and blue shields on line xli should not exceed di  If ti2 then the absolute difference between the number of red and blue shields on line yli should not exceed di Steve gave you the task of finding the painting that satisfies all the condition and the total cost is minimum

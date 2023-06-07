@@ -1,0 +1,9 @@
+Restricted RPS                    
+
+https://codeforces.com/problemset/problem/1245/B
+
+constructive algorithms
+
+1200
+
+Let n be a positive integer. Let a, b, c be nonnegative integers such that a + b + c = n.Alice and Bob are gonna play rock-paper-scissors n times. Alice knows the sequences of hands that Bob will play. However, Alice has to play rock a times, paper b times, and scissors c times.Alice wins if she beats Bob in at least \lceil \frac{n}{2} \rceil (\frac{n}{2} rounded up to the nearest integer) hands, otherwise Alice loses.Note that in rock-paper-scissors:  rock beats scissors;  paper beats rock;  scissors beat paper. The task is, given the sequence of hands that Bob will play, and the numbers a, b, c, determine whether or not Alice can win. And if so, find any possible sequence of hands that Alice can use to win.If there are multiple answers, print any of them.

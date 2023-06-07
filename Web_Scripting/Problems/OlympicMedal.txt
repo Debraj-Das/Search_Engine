@@ -1,0 +1,9 @@
+Olympic Medal                    
+
+httpscodeforcescomproblemsetproblem215B
+
+greedy
+
+1300
+
+The World Programming Olympics Medal is a metal disk consisting of two parts the first part is a ring with outer radius of r1 cm inner radius of r2 cm 0r2r1 made of metal with density p1 gcm3 The second part is an inner disk with radius r2 cm it is made of metal with density p2 gcm3 The disk is nested inside the ringThe Olympic jury decided that r1 will take one of possible values of x1x2xn It is up to jury to decide which particular value r1 will take Similarly the Olympic jury decided that p1 will take one of possible value of y1y2ym and p2 will take a value from list z1z2zkAccording to most ancient traditions the ratio between the outer ring mass mout and the inner disk mass min must equal  where AB are constants taken from ancient books Now to start making medals the jury needs to take values for r1 p1 p2 and calculate the suitable value of r2The jury wants to choose the value that would maximize radius r2 Help the jury find the sought value of r2 Value r2 doesnt have to be an integerMedal has a uniform thickness throughout the area the thickness of the inner disk is the same as the thickness of the outer ring

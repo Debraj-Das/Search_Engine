@@ -1,0 +1,9 @@
+The Enchanted Forest                    
+
+https://codeforces.com/problemset/problem/1687/A
+
+brute force
+
+1600
+
+The enchanted forest got its name from the magical mushrooms growing here. They may cause illusions and generally should not be approached.—Perfect Memento in Strict SenseMarisa comes to pick mushrooms in the Enchanted Forest. The Enchanted forest can be represented by n points on the X-axis numbered 1 through n. Before Marisa started, her friend, Patchouli, used magic to detect the initial number of mushroom on each point, represented by a_1,a_2,\ldots,a_n.Marisa can start out at any point in the forest on minute 0. Each minute, the followings happen in order:  She moves from point x to y (|x-y|\le 1, possibly y=x).  She collects all mushrooms on point y.  A new mushroom appears on each point in the forest. Note that she cannot collect mushrooms on minute 0.Now, Marisa wants to know the maximum number of mushrooms she can pick after k minutes.

@@ -1,0 +1,9 @@
+Ostap and Tree                    
+
+httpscodeforcescomproblemsetproblem735E
+
+dp
+
+2500
+
+Ostap already settled down in Rio de Janiero suburb and started to grow a tree in his garden Recall that a tree is a connected undirected acyclic graph Ostaps tree now has n vertices He wants to paint some vertices of the tree black such that from any vertex u there is at least one black vertex v at distance no more than k Distance between two vertices of the tree is the minimum possible number of edges of the path between themAs this number of ways to paint the tree can be large Ostap wants you to compute it modulo 1097 Two ways to paint the tree are considered different if there exists a vertex that is painted black in one way and is not painted in the other one

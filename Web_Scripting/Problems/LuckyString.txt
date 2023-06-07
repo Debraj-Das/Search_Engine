@@ -1,0 +1,9 @@
+Lucky String                    
+
+httpscodeforcescomproblemsetproblem110B
+
+constructive algorithms
+
+1100
+
+Petya loves lucky numbers We all know that lucky numbers are the positive integers whose decimal representations contain only the lucky digits 4 and 7 For example numbers 47 744 4 are lucky and 5 17 467 are notPetya recently learned to determine whether a string of lowercase Latin letters is lucky For each individual letter all its positions in the string are written out in the increasing order This results in 26 lists of numbers some of them can be empty A string is considered lucky if and only if in each list the absolute difference of any two adjacent numbers is a lucky number For example lets consider string zbcdzefdzc The lists of positions of equal letters are b 2 c 310 d 48 e 6 f 7 z 159 Lists of positions of letters a g h  y are emptyThis string is lucky as all differences are lucky numbers For letters z 514 954 for letters c 1037 for letters d 844 Note that if some letter occurs only once in a string it doesnt influence the strings luckiness after building the lists of positions of equal letters The string where all the letters are distinct is considered luckyFind the lexicographically minimal lucky string whose length equals n

@@ -1,0 +1,9 @@
+Ugly Pairs                    
+
+https://codeforces.com/problemset/problem/1156/B
+
+dfs and similar
+
+1800
+
+You are given a string, consisting of lowercase Latin letters.A pair of neighbouring letters in a string is considered ugly if these letters are also neighbouring in a alphabet. For example, string "abaca" contains ugly pairs at positions (1, 2) — "ab" and (2, 3) — "ba". Letters 'a' and 'z' aren't considered neighbouring in a alphabet.Can you rearrange the letters of a given string so that there are no ugly pairs? You can choose any order of the letters of the given string but you can't add any new letters or remove the existing ones. You can also leave the order the same.If there are multiple answers, print any of them.You also have to answer T separate queries.

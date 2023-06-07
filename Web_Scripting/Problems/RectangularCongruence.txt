@@ -1,0 +1,9 @@
+Rectangular Congruence                    
+
+https://codeforces.com/problemset/problem/1734/E
+
+constructive algorithms
+
+2100
+
+You are given a prime number n, and an array of n integers b_1,b_2,\ldots, b_n, where 0 \leq b_i < n for each 1 \le i \leq n.You have to find a matrix a of size n \times n such that all of the following requirements hold:  0 \le a_{i,j} < n for all 1 \le i, j \le n.  a_{r_1, c_1} + a_{r_2, c_2} \not\equiv a_{r_1, c_2} + a_{r_2, c_1} \pmod n for all positive integers r_1, r_2, c_1, and c_2 such that 1 \le r_1 < r_2 \le n and 1 \le c_1 < c_2 \le n. a_{i,i} = b_i for all 1 \le i \leq n. Here x \not \equiv y \pmod m denotes that x and y give different remainders when divided by m.If there are multiple solutions, output any. It can be shown that such a matrix always exists under the given constraints.

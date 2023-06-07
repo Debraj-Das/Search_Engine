@@ -1,0 +1,9 @@
+Paint the Middle                    
+
+https://codeforces.com/problemset/problem/1630/C
+
+dp
+
+2200
+
+You are given n elements numbered from 1 to n, the element i has value a_i and color c_i, initially, c_i = 0 for all i.The following operation can be applied:  Select three elements i, j and k (1 \leq i < j < k \leq n), such that c_i, c_j and c_k are all equal to 0 and a_i = a_k, then set c_j = 1. Find the maximum value of \sum\limits_{i=1}^n{c_i} that can be obtained after applying the given operation any number of times.

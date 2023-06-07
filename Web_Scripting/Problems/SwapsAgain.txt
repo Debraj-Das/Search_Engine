@@ -1,0 +1,9 @@
+Swaps Again                    
+
+https://codeforces.com/problemset/problem/1365/F
+
+constructive algorithms
+
+2100
+
+Ayush, Ashish and Vivek are busy preparing a new problem for the next Codeforces round and need help checking if their test cases are valid.Each test case consists of an integer n and two arrays a and b, of size n. If after some (possibly zero) operations described below, array a can be transformed into array b, the input is said to be valid. Otherwise, it is invalid.An operation on array a is:   select an integer k (1 \le k \le \lfloor\frac{n}{2}\rfloor)  swap the prefix of length k with the suffix of length k For example, if array a initially is \{1, 2, 3, 4, 5, 6\}, after performing an operation with k = 2, it is transformed into \{5, 6, 3, 4, 1, 2\}.Given the set of test cases, help them determine if each one is valid or invalid.

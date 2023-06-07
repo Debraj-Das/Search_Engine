@@ -1,0 +1,9 @@
+HDD is Outdated Technology                    
+
+httpscodeforcescomproblemsetproblem612B
+
+implementation
+
+1200
+
+HDD hard drives group data by sectors All files are split to fragments and each of them are written in some sector of hard drive Note the fragments can be written in sectors in arbitrary orderOne of the problems of HDD hard drives is the following the magnetic head should move from one sector to another to read some fileFind the time need to read file split to n fragments The ith sector contains the fith fragment of the file 1fin Note different sectors contains the different fragments At the start the magnetic head is in the position that contains the first fragment The file are reading in the following manner at first the first fragment is read then the magnetic head moves to the sector that contains the second fragment then the second fragment is read and so on until the nth fragment is read The fragments are read in the order from the first to the nthIt takes ab time units to move the magnetic head from the sector a to the sector b Reading a fragment takes no time

@@ -1,0 +1,9 @@
+Line                    
+
+httpscodeforcescomproblemsetproblem7C
+
+math
+
+1800
+
+A line on the plane is described by an equation AxByC0 You are to find any point on this line whose coordinates are integer numbers from 51018 to 51018 inclusive or to find out that such points do not exist

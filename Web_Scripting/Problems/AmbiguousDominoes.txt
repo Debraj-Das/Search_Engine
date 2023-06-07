@@ -1,0 +1,9 @@
+Ambiguous Dominoes                    
+
+https://codeforces.com/problemset/problem/1695/E
+
+constructive algorithms
+
+2700
+
+Polycarp and Monocarp are both solving the same puzzle with dominoes. They are given the same set of n dominoes, the i-th of which contains two numbers x_i and y_i. They are also both given the same m by k grid of values a_{ij} such that m\cdot k = 2n.The puzzle asks them to place the n dominoes on the grid in such a way that none of them overlap, and the values on each domino match the a_{ij} values that domino covers. Dominoes can be rotated arbitrarily before being placed on the grid, so the domino (x_i, y_i) is equivalent to the domino (y_i, x_i).They have both solved the puzzle, and compared their answers, but noticed that not only did their solutions not match, but none of the n dominoes were in the same location in both solutions! Formally, if two squares were covered by the same domino in Polycarp's solution, they were covered by different dominoes in Monocarp's solution. The diagram below shows one potential a grid, along with the two players' solutions.  Polycarp and Monocarp remember the set of dominoes they started with, but they have lost the grid a. Help them reconstruct one possible grid a, along with both of their solutions, or determine that no such grid exists.

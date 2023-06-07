@@ -1,0 +1,9 @@
+Helping the Nature                    
+
+https://codeforces.com/problemset/problem/1700/C
+
+constructive algorithms
+
+1700
+
+Little Leon lives in the forest. He has recently noticed that some trees near his favourite path are withering, while the other ones are overhydrated so he decided to learn how to control the level of the soil moisture to save the trees.There are n trees growing near the path, the current levels of moisture of each tree are denoted by the array a_1, a_2, \dots, a_n. Leon has learned three abilities which will help him to dry and water the soil.  Choose a position i and decrease the level of moisture of the trees 1, 2, \dots, i by 1.  Choose a position i and decrease the level of moisture of the trees i, i + 1, \dots, n by 1.  Increase the level of moisture of all trees by 1. Leon wants to know the minimum number of actions he needs to perform to make the moisture of each tree equal to 0.

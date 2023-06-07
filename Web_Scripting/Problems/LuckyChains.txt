@@ -1,0 +1,9 @@
+Lucky Chains                    
+
+https://codeforces.com/problemset/problem/1766/D
+
+math
+
+1600
+
+Let's name a pair of positive integers (x, y) lucky if the greatest common divisor of them is equal to 1 (\gcd(x, y) = 1).Let's define a chain induced by (x, y) as a sequence of pairs (x, y), (x + 1, y + 1), (x + 2, y + 2), \dots, (x + k, y + k) for some integer k \ge 0. The length of the chain is the number of pairs it consists of, or (k + 1).Let's name such chain lucky if all pairs in the chain are lucky.You are given n pairs (x_i, y_i). Calculate for each pair the length of the longest lucky chain induced by this pair. Note that if (x_i, y_i) is not lucky itself, the chain will have the length 0. 

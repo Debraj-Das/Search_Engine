@@ -1,0 +1,9 @@
+Decent Division                    
+
+https://codeforces.com/problemset/problem/1758/F
+
+constructive algorithms
+
+3000
+
+A binary string is a string where every character is \texttt{0} or \texttt{1}. Call a binary string decent if it has an equal number of \texttt{0}s and \texttt{1}s.Initially, you have an infinite binary string t whose characters are all \texttt{0}s. You are given a sequence a of n updates, where a_i indicates that the character at index a_i will be flipped (\texttt{0} \leftrightarrow \texttt{1}). You need to keep and modify after each update a set S of disjoint ranges such that:   for each range [l,r], the substring t_l \dots t_r is a decent binary string, and  for all indices i such that t_i = \texttt{1}, there exists [l,r] in S such that l \leq i \leq r. You only need to output the ranges that are added to or removed from S after each update. You can only add or remove ranges from S at most \mathbf{10^6} times.More formally, let S_i be the set of ranges after the i-th update, where S_0 = \varnothing (the empty set). Define X_i to be the set of ranges removed after update i, and Y_i to be the set of ranges added after update i. Then for 1 \leq i \leq n, S_i = (S_{i - 1} \setminus X_i) \cup Y_i. The following should hold for all 1 \leq i \leq n:   \forall a,b \in S_i, (a \neq b) \rightarrow (a \cap b = \varnothing);  X_i \subseteq S_{i - 1};  (S_{i-1} \setminus X_i) \cap Y_i = \varnothing;  \displaystyle\sum_{i = 1}^n {(|X_i| + |Y_i|)} \leq 10^6. 

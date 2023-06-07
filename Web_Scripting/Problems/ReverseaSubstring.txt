@@ -1,0 +1,9 @@
+Reverse a Substring                    
+
+httpscodeforcescomproblemsetproblem1155A
+
+implementation
+
+1000
+
+You are given a string s consisting of n lowercase Latin lettersLets define a substring as a contiguous subsegment of a string For example acab is a substring of abacaba it starts in position 3 and ends in position 6 but aa or d arent substrings of this string So the substring of the string s from position l to position r is sl r  sl sl  1 dots srYou have to choose exactly one of the substrings of the given string and reverse it ie make sl r  sr sr  1 dots sl to obtain a string that is less lexicographically Note that it is not necessary to obtain the minimum possible stringIf it is impossible to reverse some substring of the given string to obtain a string that is less print NO Otherwise print YES and any suitable substringString x is lexicographically less than string y if either x is a prefix of y and x ne y or there exists such i 1 le i le minx y that xi  yi and for any j 1 le j  i xj  yj Here a denotes the length of the string a The lexicographic comparison of strings is implemented by operator  in modern programming languages

@@ -1,0 +1,9 @@
+King Kog's Reception                    
+
+https://codeforces.com/problemset/problem/1089/K
+
+data structures
+
+2400
+
+King Kog got annoyed of the usual laxity of his knights — they can break into his hall without prior notice! Thus, the King decided to build a reception with a queue where each knight chooses in advance the time when he will come and how long the visit will take. The knights are served in the order of the recorded time, but each knight has to wait until the visits of all the knights before him are finished.Princess Keabeanie wants to see her father. However, she does not want to interrupt the knights so she joins the queue. Unfortunately, the knights change their minds very often — they can join the queue or cancel their visits. Please help the princess to understand how long she will have to wait until she sees her father if she enters the queue at the specified moments of time given the records at the reception.

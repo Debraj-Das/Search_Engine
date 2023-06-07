@@ -1,0 +1,9 @@
+Smaller                    
+
+https://codeforces.com/problemset/problem/1742/F
+
+constructive algorithms
+
+1500
+
+Alperen has two strings, s and t which are both initially equal to "a". He will perform q operations of two types on the given strings:  1 \;\; k \;\; x — Append the string x exactly k times at the end of string s. In other words, s := s + \underbrace{x + \dots + x}_{k \text{ times}}.  2 \;\; k \;\; x — Append the string x exactly k times at the end of string t. In other words, t := t + \underbrace{x + \dots + x}_{k \text{ times}}. After each operation, determine if it is possible to rearrange the characters of s and t such that s is lexicographically smaller^{\dagger} than t.Note that the strings change after performing each operation and don't go back to their initial states.^{\dagger} Simply speaking, the lexicographical order is the order in which words are listed in a dictionary. A formal definition is as follows: string p is lexicographically smaller than string q if there exists a position i such that p_i < q_i, and for all j < i, p_j = q_j. If no such i exists, then p is lexicographically smaller than q if the length of p is less than the length of q. For example, \texttt{abdc} < \texttt{abe} and \texttt{abc} < \texttt{abcd}, where we write p < q if p is lexicographically smaller than q.

@@ -1,0 +1,9 @@
+Freelancers Dreams                    
+
+httpscodeforcescomproblemsetproblem605C
+
+geometry
+
+2400
+
+Mikhail the Freelancer dreams of two things to become a cool programmer and to buy a flat in Moscow To become a cool programmer he needs at least p experience points and a desired flat in Moscow costs q dollars Mikhail is determined to follow his dreams and registered at a freelance siteHe has suggestions to work on n distinct projects Mikhail has already evaluated that the participation in the ith project will increase his experience by ai per day and bring bi dollars per day As freelance work implies flexible working hours Mikhail is free to stop working on one project at any time and start working on another project Doing so he receives the respective share of experience and money Mikhail is only trying to become a cool programmer so he is able to work only on one project at any moment of timeFind the real value equal to the minimum number of days Mikhail needs to make his dream come trueFor example suppose Mikhail is suggested to work on three projects and a16 b12 a21 b23 a32 b36 Also p20 and q20 In order to achieve his aims Mikhail has to work for 25 days on both first and third projects Indeed a125a20a3256251022520 and b125b20b3252253062520

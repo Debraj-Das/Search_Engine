@@ -1,0 +1,9 @@
+Igor In the Museum                    
+
+httpscodeforcescomproblemsetproblem598D
+
+dfs and similar
+
+1700
+
+Igor is in the museum and he wants to see as many pictures as possibleMuseum can be represented as a rectangular field of nm cells Each cell is either empty or impassable Empty cells are marked with  impassable cells are marked with  Every two adjacent cells of different types one empty and one impassable are divided by a wall containing one pictureAt the beginning Igor is in some empty cell At every moment he can move to any empty cell that share a side with the current oneFor several starting positions you should calculate the maximum number of pictures that Igor can see Igor is able to see the picture only if he is in the cell adjacent to the wall with this picture Igor have a lot of time so he will examine every picture he can see

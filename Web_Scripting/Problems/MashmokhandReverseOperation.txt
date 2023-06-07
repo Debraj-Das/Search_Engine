@@ -1,0 +1,9 @@
+Mashmokh and Reverse Operation                    
+
+httpscodeforcescomproblemsetproblem414C
+
+combinatorics
+
+2100
+
+Mashmokhs boss Bimokh didnt like Mashmokh So he fired him Mashmokh decided to go to university and participate in ACM instead of finding a new job He wants to become a member of Bamokhs team In order to join he was given some programming tasks and one week to solve them Mashmokh is not a very experienced programmer Actually he is not a programmer at all So he wasnt able to solve them Thats why he asked you to help him with these tasks One of these tasks is the followingYou have an array a of length 2n and m queries on it The ith query is described by an integer qi In order to perform the ith query you must  split the array into 2nqi parts where each part is a subarray consisting of 2qi numbers the jth subarray 1j2nqi should contain the elements aj12qi1aj12qi2aj12qi2qi  reverse each of the subarrays  join them into a single array in the same order this array becomes new array a  output the number of inversions in the new a Given initial array a and all the queries Answer all the queries Please note that the changes from some query is saved for further queries

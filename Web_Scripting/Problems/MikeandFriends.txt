@@ -1,0 +1,9 @@
+Mike and Friends                    
+
+httpscodeforcescomproblemsetproblem547E
+
+data structures
+
+2800
+
+WhatTheFatherland is a strange country All phone numbers there are strings consisting of lowercase English letters What is double strange that a phone number can be associated with several bearsIn that country there is a rock band called CF consisting of n bears including Mike numbered from 1 to n   Phone number of ith member of CF is si May 17th is a holiday named Phone Calls day In the last Phone Calls day everyone called all the numbers that are substrings of hisher number one may call some number several times In particular everyone called himself that was really strange countryDenote as callij the number of times that ith member of CF called the jth member of CF The geek Mike has q questions that he wants to ask you In each question he gives you numbers lr and k and you should tell him the number 

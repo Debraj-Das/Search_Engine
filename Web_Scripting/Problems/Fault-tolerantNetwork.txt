@@ -1,0 +1,9 @@
+Fault-tolerant Network                    
+
+https://codeforces.com/problemset/problem/1651/C
+
+brute force
+
+1500
+
+There is a classroom with two rows of computers. There are n computers in each row and each computer has its own grade. Computers in the first row has grades a_1, a_2, \dots, a_n and in the second row — b_1, b_2, \dots, b_n.Initially, all pairs of neighboring computers in each row are connected by wire (pairs (i, i + 1) for all 1 \le i < n), so two rows form two independent computer networks.Your task is to combine them in one common network by connecting one or more pairs of computers from different rows. Connecting the i-th computer from the first row and the j-th computer from the second row costs |a_i - b_j|.You can connect one computer to several other computers, but you need to provide at least a basic fault tolerance: you need to connect computers in such a way that the network stays connected, despite one of its computer failing. In other words, if one computer is broken (no matter which one), the network won't split in two or more parts.That is the minimum total cost to make a fault-tolerant network?

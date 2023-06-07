@@ -1,0 +1,9 @@
+Seasons                    
+
+https://codeforces.com/problemset/problem/661/B
+
+*special problem
+
+1900
+
+You are given a name of a month. Output the season of the year to which it belongs (based on Northern hemisphere).

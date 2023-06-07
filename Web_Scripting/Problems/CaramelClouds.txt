@@ -1,0 +1,9 @@
+Caramel Clouds                    
+
+https://codeforces.com/problemset/problem/833/E
+
+data structures
+
+3400
+
+  It is well-known that the best decoration for a flower bed in Sweetland are vanilla muffins. Seedlings of this plant need sun to grow up. Slastyona has m seedlings, and the j-th seedling needs at least kj minutes of sunlight to grow up.Most of the time it's sunny in Sweetland, but sometimes some caramel clouds come, the i-th of which will appear at time moment (minute) li and disappear at time moment ri. Of course, the clouds make shadows, and the seedlings can't grow when there is at least one cloud veiling the sun.Slastyona wants to grow up her muffins as fast as possible. She has exactly C candies, which is the main currency in Sweetland. One can dispel any cloud by paying ci candies. However, in order to comply with Sweetland's Department of Meteorology regulations, one can't dispel more than two clouds.Slastyona hasn't decided yet which of the m seedlings will be planted at the princess' garden, so she needs your help. For each seedling determine the earliest moment it can grow up if Slastyona won't break the law and won't spend more candies than she has. Note that each of the seedlings is considered independently.The seedlings start to grow at time moment 0.

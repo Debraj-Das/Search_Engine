@@ -1,0 +1,9 @@
+Phoenix and Earthquake                    
+
+https://codeforces.com/problemset/problem/1515/F
+
+constructive algorithms
+
+2600
+
+Phoenix's homeland, the Fire Nation had n cities that were connected by m roads, but the roads were all destroyed by an earthquake. The Fire Nation wishes to repair n-1 of these roads so that all the cities are connected again. The i-th city has a_i tons of asphalt. x tons of asphalt are used up when repairing a road, and to repair a road between i and j, cities i and j must have at least x tons of asphalt between them. In other words, if city i had a_i tons of asphalt and city j had a_j tons, there would remain a_i+a_j-x tons after repairing the road between them. Asphalt can be moved between cities if the road between them is already repaired.Please determine if it is possible to connect all the cities, and if so, output any sequence of roads to repair.

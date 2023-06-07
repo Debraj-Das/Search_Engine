@@ -1,0 +1,9 @@
+Optimal Number Permutation                    
+
+httpscodeforcescomproblemsetproblem622D
+
+constructive algorithms
+
+1900
+
+You have array a that contains all integers from 1 to n twice You can arbitrary permute any numbers in aLet number i be in positions xiyi xiyi in the permuted array a Lets define the value diyixi  the distance between the positions of the number i Permute the numbers in array a to minimize the value of the sum 

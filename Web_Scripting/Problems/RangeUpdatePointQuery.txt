@@ -1,0 +1,9 @@
+Range Update Point Query                    
+
+https://codeforces.com/problemset/problem/1791/F
+
+binary search
+
+1500
+
+Given an array a_1, a_2, \dots, a_n, you need to handle a total of q updates and queries of two types:  1 l r — for each index i with l \leq i \leq r, update the value of a_i to the sum of the digits of a_i.  2 x — output a_x. 

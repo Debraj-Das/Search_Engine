@@ -1,0 +1,9 @@
+Diverse Substrings                    
+
+https://codeforces.com/problemset/problem/386/C
+
+dp
+
+2000
+
+String diversity is the number of symbols that occur in the string at least once. Diversity of s will be denoted by d(s). For example , d("aaa")=1, d("abacaba")=3.Given a string s, consisting of lowercase Latin letters. Consider all its substrings. Obviously, any substring diversity is a number from 1 to d(s). Find statistics about substrings diversity: for each k from 1 to d(s), find how many substrings of s has a diversity of exactly k.

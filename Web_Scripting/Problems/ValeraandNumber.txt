@@ -1,0 +1,9 @@
+Valera and Number                    
+
+https://codeforces.com/problemset/problem/441/E
+
+bitmasks
+
+2400
+
+Valera is a coder. Recently he wrote a funny program. The pseudo code for this program is given below://input: integers x, k, pa = x;for(step = 1; step <= k; step = step + 1){    rnd = [random integer from 1 to 100];    if(rnd <= p)        a = a * 2;    else        a = a + 1;}s = 0;while(remainder after dividing a by 2 equals 0){    a = a / 2;    s = s + 1;}Now Valera wonders: given the values x, k and p, what is the expected value of the resulting number s?

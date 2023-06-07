@@ -1,0 +1,9 @@
+Replacing Elements                    
+
+https://codeforces.com/problemset/problem/1473/A
+
+greedy
+
+800
+
+You have an array a_1, a_2, \dots, a_n. All a_i are positive integers.In one step you can choose three distinct indices i, j, and k (i \neq j; i \neq k; j \neq k) and assign the sum of a_j and a_k to a_i, i. e. make a_i = a_j + a_k.Can you make all a_i lower or equal to d using the operation above any number of times (possibly, zero)?

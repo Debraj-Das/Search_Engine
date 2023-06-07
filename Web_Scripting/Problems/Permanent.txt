@@ -1,0 +1,9 @@
+Permanent                    
+
+httpscodeforcescomproblemsetproblem468E
+
+dp
+
+3100
+
+Little X has solved the Pcomplete problem in polynomial time recently So he gives this task to you There is a special nn matrix A you should calculate its permanent modulo 10000000071097 The special property of matrix A is almost all its elements equal to 1 Only k elements have specified valueYou can find the definition of permanent at the link httpsenwikipediaorgwikiPermanent

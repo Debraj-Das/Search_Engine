@@ -1,0 +1,9 @@
+Minimax Problem                    
+
+https://codeforces.com/problemset/problem/1288/D
+
+binary search
+
+2000
+
+You are given n arrays a_1, a_2, ..., a_n; each array consists of exactly m integers. We denote the y-th element of the x-th array as a_{x, y}.You have to choose two arrays a_i and a_j (1 \le i, j \le n, it is possible that i = j). After that, you will obtain a new array b consisting of m integers, such that for every k \in [1, m] b_k = \max(a_{i, k}, a_{j, k}).Your goal is to choose i and j so that the value of \min \limits_{k = 1}^{m} b_k is maximum possible.

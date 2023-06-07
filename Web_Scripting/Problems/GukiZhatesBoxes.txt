@@ -1,0 +1,9 @@
+GukiZ hates Boxes                    
+
+httpscodeforcescomproblemsetproblem551C
+
+binary search
+
+2200
+
+Professor GukiZ is concerned about making his way to school because massive piles of boxes are blocking his way In total there are n piles of boxes arranged in a line from left to right ith pile 1in containing ai boxes Luckily m students are willing to help GukiZ by removing all the boxes from his way Students are working simultaneously At time 0 all students are located left of the first pile It takes one second for every student to move from this position to the first pile and after that every student must start performing sequence of two possible operations each taking one second to complete Possible operations are If in move from pile i to pile i1 If pile located at the position of student is not empty remove one box from itGukiZs students arent smart at all so they need you to tell them how to remove boxes before professor comes he is very impatient man and doesnt want to wait They ask you to calculate minumum time t in seconds for which they can remove all the boxes from GukiZs way Note that students can be positioned in any manner after t seconds but all the boxes must be removed

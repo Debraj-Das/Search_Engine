@@ -1,0 +1,9 @@
+Wizards and Bets                    
+
+httpscodeforcescomproblemsetproblem167E
+
+dfs and similar
+
+2900
+
+In some country live wizards They like to make weird betsTwo wizards draw an acyclic directed graph with n vertices and m edges the graphs vertices are numbered from 1 to n A source is a vertex with no incoming edges and a sink is the vertex with no outgoing edges Note that a vertex could be the sink and the source simultaneously In the wizards graph the number of the sinks and the sources is the sameWizards numbered the sources in the order of increasing numbers of the vertices from 1 to k The sinks are numbered from 1 to k in the similar wayTo make a bet they as are real wizards cast a spell which selects a set of k paths from all sources to the sinks in such a way that no two paths intersect at the vertices In this case each sink has exactly one path going to it from exactly one source Lets suppose that the ith sink has a path going to it from the ais source Then lets call pair ij an inversion if ij and aiaj If the number of inversions among all possible pairs ij such that 1ijk is even then the first wizard wins the second one gives him one magic coin Otherwise the second wizard wins he gets one magic coin from the first oneOur wizards are captured with feverish excitement so they kept choosing new paths again and again for so long that eventually they have chosen every possible set of paths for exactly once The two sets of nonintersecting pathes are considered to be different if and only if there is an edge which lies at some path in one set and doesnt lie at any path of another set To check their notes they asked you to count the total winnings of the first player for all possible sets of paths modulo a prime number p

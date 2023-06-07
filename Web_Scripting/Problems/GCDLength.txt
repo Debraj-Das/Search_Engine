@@ -1,0 +1,9 @@
+GCD Length                    
+
+https://codeforces.com/problemset/problem/1511/B
+
+constructive algorithms
+
+1100
+
+You are given three integers a, b and c.Find two positive integers x and y (x > 0, y > 0) such that:   the decimal representation of x without leading zeroes consists of a digits;  the decimal representation of y without leading zeroes consists of b digits;  the decimal representation of gcd(x, y) without leading zeroes consists of c digits. gcd(x, y) denotes the greatest common divisor (GCD) of integers x and y.Output x and y. If there are multiple answers, output any of them.

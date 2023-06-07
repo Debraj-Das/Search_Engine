@@ -1,0 +1,9 @@
+Dima and Lisa                    
+
+httpscodeforcescomproblemsetproblem584D
+
+brute force
+
+1800
+
+Dima loves representing an odd number as the sum of multiple primes and Lisa loves it when there are at most three primes Help them to represent the given number as the sum of at most than three primesMore formally you are given an odd numer n Find a set of numbers pi 1ik such that 1k3 pi is a prime The numbers pi do not necessarily have to be distinct It is guaranteed that at least one possible solution exists

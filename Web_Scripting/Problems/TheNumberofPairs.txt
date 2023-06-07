@@ -1,0 +1,9 @@
+The Number of Pairs                    
+
+https://codeforces.com/problemset/problem/1499/D
+
+dp
+
+2100
+
+You are given three positive (greater than zero) integers c, d and x. You have to find the number of pairs of positive integers (a, b) such that equality c \cdot lcm(a, b) - d \cdot gcd(a, b) = x holds. Where lcm(a, b) is the least common multiple of a and b and gcd(a, b) is the greatest common divisor of a and b.

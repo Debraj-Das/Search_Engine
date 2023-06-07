@@ -1,0 +1,9 @@
+Zoning Restrictions                    
+
+https://codeforces.com/problemset/problem/1146/G
+
+dp
+
+2700
+
+You are planning to build housing on a street. There are n spots available on the street on which you can build a house. The spots are labeled from 1 to n from left to right. In each spot, you can build a house with an integer height between 0 and h.In each spot, if a house has height a, you can gain a^2 dollars from it.The city has m zoning restrictions though. The i-th restriction says that if the tallest house from spots l_i to r_i is strictly more than x_i, you must pay a fine of c_i.You would like to build houses to maximize your profit (sum of dollars gained minus fines). Determine the maximum profit possible.

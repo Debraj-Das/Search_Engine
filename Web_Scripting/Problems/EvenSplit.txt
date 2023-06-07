@@ -1,0 +1,9 @@
+Even Split                    
+
+https://codeforces.com/problemset/problem/1666/E
+
+binary search
+
+2500
+
+A revolution has recently happened in Segmentland. The new government is committed to equality, and they hired you to help with land redistribution in the country.Segmentland is a segment of length l kilometers, with the capital in one of its ends. There are n citizens in Segmentland, the home of i-th citizen is located at the point a_i kilometers from the capital. No two homes are located at the same point. Each citizen should receive a segment of positive length with ends at integer distances from the capital that contains her home. The union of these segments should be the whole of Segmentland, and they should not have common points besides their ends. To ensure equality, the difference between the lengths of the longest and the shortest segments should be as small as possible.

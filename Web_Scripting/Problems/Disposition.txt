@@ -1,0 +1,9 @@
+Disposition                    
+
+httpscodeforcescomproblemsetproblem49C
+
+constructive algorithms
+
+1700
+
+Vasya bought the collected works of a wellknown Berland poet Petya in n volumes The volumes are numbered from 1 to n He thinks that it does not do to arrange the book simply according to their order Vasya wants to minimize the number of the dispositions divisors  the positive integers i such that for at least one j 1jn is true both j mod i0 and at the same time pj mod i0 where pj is the number of the tome that stands on the jth place and mod is the operation of taking the division remainder Naturally one volume can occupy exactly one place and in one place can stand exactly one volumeHelp Vasya  find the volume disposition with the minimum number of divisors

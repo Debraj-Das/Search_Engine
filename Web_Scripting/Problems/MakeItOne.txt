@@ -1,0 +1,9 @@
+Make It One                    
+
+https://codeforces.com/problemset/problem/1043/F
+
+bitmasks
+
+2500
+
+Janusz is a businessman. He owns a company "Januszex", which produces games for teenagers. Last hit of Januszex was a cool one-person game "Make it one". The player is given a sequence of n integers a_i.It is allowed to select any subset of them, and the score is equal to the greatest common divisor of selected elements. The goal is to take as little elements as it is possible, getting the score 1. Now Janusz wonders, for given sequence, how much elements should the player choose?

@@ -1,0 +1,9 @@
+Sherlock and his girlfriend                    
+
+httpscodeforcescomproblemsetproblem776B
+
+constructive algorithms
+
+1200
+
+Sherlock has a new girlfriend so unlike him Valentines day is coming and he wants to gift her some jewelryHe bought n pieces of jewelry The ith piece has price equal to i1 that is the prices of the jewelry are 234 n1Watson gave Sherlock a challenge to color these jewelry pieces such that two pieces dont have the same color if the price of one piece is a prime divisor of the price of the other piece Also Watson asked him to minimize the number of different colors usedHelp Sherlock complete this trivial task

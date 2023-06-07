@@ -1,0 +1,9 @@
+Three Sevens                    
+
+https://codeforces.com/problemset/problem/1798/B
+
+brute force
+
+1000
+
+Lottery "Three Sevens" was held for m days. On day i, n_i people with the numbers a_{i, 1}, \ldots, a_{i, n_i} participated in the lottery.It is known that in each of the m days, only one winner was selected from the lottery participants. The lottery winner on day i was not allowed to participate in the lottery in the days from i+1 to m.Unfortunately, the information about the lottery winners has been lost. You need to find any possible list of lottery winners on days from 1 to m or determine that no solution exists.

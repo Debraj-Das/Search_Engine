@@ -1,0 +1,9 @@
+Two Regular Polygons                    
+
+https://codeforces.com/problemset/problem/1312/A
+
+geometry
+
+800
+
+You are given two integers n and m (m < n). Consider a convex regular polygon of n vertices. Recall that a regular polygon is a polygon that is equiangular (all angles are equal in measure) and equilateral (all sides have the same length).  Examples of convex regular polygons Your task is to say if it is possible to build another convex regular polygon with m vertices such that its center coincides with the center of the initial polygon and each of its vertices is some vertex of the initial polygon.You have to answer t independent test cases.

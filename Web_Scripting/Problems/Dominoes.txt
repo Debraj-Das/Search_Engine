@@ -1,0 +1,9 @@
+Dominoes                    
+
+https://codeforces.com/problemset/problem/1773/D
+
+combinatorics
+
+2600
+
+Dora likes to play with dominoes. She takes n \times m table, marks some cells as occupied, and then tries to fill all unoccupied cells with 2 \times 1 dominoes.  Her little brother Dani loves to play pranks on his older sister. So when she is away, he marks two more unoccupied cells as occupied. He wants to do it in such a way that it will be impossible to fill all unoccupied cells with dominoes.Help Dani to count the number of ways he can select these two cells. Since Dani can only count to one million, if this number of ways is x, output \min(x, 10^6).

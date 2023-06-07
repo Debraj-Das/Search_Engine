@@ -1,0 +1,9 @@
+Split it!                    
+
+https://codeforces.com/problemset/problem/1496/A
+
+brute force
+
+900
+
+Kawashiro Nitori is a girl who loves competitive programming.One day she found a string and an integer. As an advanced problem setter, she quickly thought of a problem.Given a string s and a parameter k, you need to check if there exist k+1 non-empty strings a_1,a_2...,a_{k+1}, such that s=a_1+a_2+\ldots +a_k+a_{k+1}+R(a_k)+R(a_{k-1})+\ldots+R(a_{1}). Here + represents concatenation. We define R(x) as a reversed string x. For example R(abcd) = dcba. Note that in the formula above the part R(a_{k+1}) is intentionally skipped.

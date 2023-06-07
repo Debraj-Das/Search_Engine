@@ -1,0 +1,9 @@
+Credit Card                    
+
+httpscodeforcescomproblemsetproblem893D
+
+data structures
+
+1900
+
+Recenlty Luba got a credit card and started to use it Lets consider n consecutive days Luba uses the cardShe starts with 0 money on her accountIn the evening of ith day a transaction ai occurs If ai0 then ai bourles are deposited to Lubas account If ai0 then ai bourles are withdrawn And if ai0 then the amount of money on Lubas account is checkedIn the morning of any of n days Luba can go to the bank and deposit any positive integer amount of burles to her account But there is a limitation the amount of money on the account can never exceed dIt can happen that the amount of money goes greater than d by some transaction in the evening In this case answer will be 1Luba must not exceed this limit and also she wants that every day her account is checked the days when ai0 the amount of money on her account is nonnegative It takes a lot of time to go to the bank so Luba wants to know the minimum number of days she needs to deposit some money to her account if it is possible to meet all the requirements Help her

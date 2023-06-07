@@ -1,0 +1,9 @@
+Amr and Chemistry                    
+
+https://codeforces.com/problemset/problem/558/C
+
+brute force
+
+1900
+
+Amr loves Chemistry, and specially doing experiments. He is preparing for a new interesting experiment.Amr has n different types of chemicals. Each chemical i has an initial volume of ai liters. For this experiment, Amr has to mix all the chemicals together, but all the chemicals volumes must be equal first. So his task is to make all the chemicals volumes equal.To do this, Amr can do two different kind of operations.   Choose some chemical i and double its current volume so the new volume will be 2ai  Choose some chemical i and divide its volume by two (integer division) so the new volume will be  Suppose that each chemical is contained in a vessel of infinite volume. Now Amr wonders what is the minimum number of operations required to make all the chemicals volumes equal?

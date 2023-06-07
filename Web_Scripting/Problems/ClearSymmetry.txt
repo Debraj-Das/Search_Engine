@@ -1,0 +1,9 @@
+Clear Symmetry                    
+
+httpscodeforcescomproblemsetproblem201A
+
+constructive algorithms
+
+1700
+
+Consider some square matrix A with side n consisting of zeros and ones There are n rows numbered from 1 to n from top to bottom and n columns numbered from 1 to n from left to right in this matrix Well denote the element of the matrix which is located at the intersection of the irow and the jth column as AijLets call matrix A clear if no two cells containing ones have a common sideLets call matrix A symmetrical if it matches the matrices formed from it by a horizontal andor a vertical reflection Formally for each pair ij 1ijn both of the following conditions must be met AijAni1j and AijAinj1Lets define the sharpness of matrix A as the number of ones in itGiven integer x your task is to find the smallest positive integer n such that there exists a clear symmetrical matrix A with side n and sharpness x

@@ -1,0 +1,9 @@
+String Transformation                    
+
+httpscodeforcescomproblemsetproblem119D
+
+hashing
+
+2500
+
+Let s be a string whose length equals n Its characters are numbered from 0 to n1 i and j are integers 0ijn Lets define function f as followsfsijsi1 j1rsj n1rs0 iHere sp q is a substring of string s that starts in position p and ends in position q inclusive  is the string concatenation operator rx is a string resulting from writing the characters of the x string in the reverse order If ji1 then the substring si1 j1 is considered emptyYou are given two strings a and b Find such values of i and j that faijb Number i should be maximally possible If for this i there exists several valid values of j choose the minimal j

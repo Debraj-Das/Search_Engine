@@ -1,0 +1,9 @@
+Brain Network (hard)                    
+
+https://codeforces.com/problemset/problem/690/C3
+
+trees
+
+2200
+
+Breaking news from zombie neurology! It turns out that – contrary to previous beliefs – every zombie is born with a single brain, and only later it evolves into a complicated brain structure. In fact, whenever a zombie consumes a brain, a new brain appears in its nervous system and gets immediately connected to one of the already existing brains using a single brain connector. Researchers are now interested in monitoring the brain latency of a zombie. Your task is to write a program which, given a history of evolution of a zombie's nervous system, computes its brain latency at every stage.

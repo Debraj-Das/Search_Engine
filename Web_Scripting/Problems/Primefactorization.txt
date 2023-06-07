@@ -1,0 +1,9 @@
+Prime factorization                    
+
+httpscodeforcescomproblemsetproblem162C
+
+special problem
+
+1800
+
+You are given a positive integer n Output its prime factorizationIf n  a1b1 a2b2  akbk bi0 where ak are prime numbers the output of your program should look as follows a1a1a2a2akak where the factors are ordered in nondecreasing order and each factor ai is printed bi times

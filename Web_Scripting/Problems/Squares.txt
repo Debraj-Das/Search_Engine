@@ -1,0 +1,9 @@
+Squares                    
+
+https://codeforces.com/problemset/problem/1495/F
+
+constructive algorithms
+
+3300
+
+There are n squares drawn from left to right on the floor. The i-th square has three integers p_i,a_i,b_i, written on it. The sequence p_1,p_2,\dots,p_n forms a permutation.Each round you will start from the leftmost square 1 and jump to the right. If you are now on the i-th square, you can do one of the following two operations:  Jump to the i+1-th square and pay the cost a_i. If i=n, then you can end the round and pay the cost a_i.  Jump to the j-th square and pay the cost b_i, where j is the leftmost square that satisfies j > i, p_j > p_i. If there is no such j then you can end the round and pay the cost b_i. There are q rounds in the game. To make the game more difficult, you need to maintain a square set S (initially it is empty). You must pass through these squares during the round (other squares can also be passed through). The square set S for the i-th round is obtained by adding or removing a square from the square set for the (i-1)-th round. For each round find the minimum cost you should pay to end it.

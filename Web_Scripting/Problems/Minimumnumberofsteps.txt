@@ -1,0 +1,9 @@
+Minimum number of steps                    
+
+httpscodeforcescomproblemsetproblem804B
+
+combinatorics
+
+1400
+
+We have a string of letters a and b We want to perform some operations on it On each step we choose one of substrings ab in the string and replace it with the string bba If we have no ab as a substring our job is done Print the minimum number of steps we should perform to make our job done modulo 1097The string ab appears as a substring if there is a letter b right after the letter a somewhere in the string

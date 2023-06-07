@@ -1,0 +1,9 @@
+Colourblindness                    
+
+https://codeforces.com/problemset/problem/1722/B
+
+implementation
+
+800
+
+Vasya has a grid with 2 rows and n columns. He colours each cell red, green, or blue.Vasya is colourblind and can't distinguish green from blue. Determine if Vasya will consider the two rows of the grid to be coloured the same.

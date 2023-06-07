@@ -1,0 +1,9 @@
+Even But Not Even                    
+
+https://codeforces.com/problemset/problem/1291/A
+
+greedy
+
+900
+
+Let's define a number ebne (even but not even) if and only if its sum of digits is divisible by 2 but the number itself is not divisible by 2. For example, 13, 1227, 185217 are ebne numbers, while 12, 2, 177013, 265918 are not. If you're still unsure what ebne numbers are, you can look at the sample notes for more clarification.You are given a non-negative integer s, consisting of n digits. You can delete some digits (they are not necessary consecutive/successive) to make the given number ebne. You cannot change the order of the digits, that is, after deleting the digits the remaining digits collapse. The resulting number shouldn't contain leading zeros. You can delete any number of digits between 0 (do not delete any digits at all) and n-1.For example, if you are given s=222373204424185217171912 then one of possible ways to make it ebne is: 222373204424185217171912 \rightarrow 2237344218521717191. The sum of digits of 2237344218521717191 is equal to 70 and is divisible by 2, but number itself is not divisible by 2: it means that the resulting number is ebne.Find any resulting number that is ebne. If it's impossible to create an ebne number from the given number report about it.

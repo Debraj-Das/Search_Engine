@@ -1,0 +1,9 @@
+Count Voting                    
+
+https://codeforces.com/problemset/problem/1799/G
+
+combinatorics
+
+2600
+
+There are n people that will participate in voting. Each person has exactly one vote.i-th person has a team t_i (1 \leq t_i \leq n) where t_i = t_j means i, j are in the same team. By the rules each person should vote for the person from the different team. Note that it automatically means that each person can't vote for himself.Each person knows the number of votes c_i he wants to get. How many possible votings exists, such that each person will get the desired number of votes? Due to this number can be big, find it by modulo 998\,244\,353.

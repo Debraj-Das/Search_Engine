@@ -1,0 +1,9 @@
+Multiset of Strings                    
+
+httpscodeforcescomproblemsetproblem1709F
+
+bitmasks
+
+2500
+
+You are given three integers n k and fConsider all binary strings ie all strings consisting of characters 0 andor 1 of length from 1 to n For every such string s you need to choose an integer cs from 0 to kA multiset of binary strings of length exactly n is considered beautiful if for every binary string s with length from 1 to n the number of strings in the multiset such that s is their prefix is not exceeding csFor example let n  2 c0  3 c00  1 c01  2 c1  1 c10  2 and c11  3 The multiset of strings 11 01 00 01 is beautiful since  for the string 0 there are 3 strings in the multiset such that 0 is their prefix and 3 le c0  for the string 00 there is one string in the multiset such that 00 is its prefix and 1 le c00  for the string 01 there are 2 strings in the multiset such that 01 is their prefix and 2 le c01  for the string 1 there is one string in the multiset such that 1 is its prefix and 1 le c1  for the string 10 there are 0 strings in the multiset such that 10 is their prefix and 0 le c10  for the string 11 there is one string in the multiset such that 11 is its prefix and 1 le c11 Now for the problem itself You have to calculate the number of ways to choose the integer cs for every binary string s of length from 1 to n in such a way that the maximum possible size of a beautiful multiset is exactly f

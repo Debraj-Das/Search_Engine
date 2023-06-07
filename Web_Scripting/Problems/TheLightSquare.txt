@@ -1,0 +1,9 @@
+The Light Square                    
+
+https://codeforces.com/problemset/problem/1218/I
+
+2-sat
+
+2100
+
+For her birthday Alice received an interesting gift from her friends – The Light Square. The Light Square game is played on an N \times N lightbulbs square board with a magical lightbulb bar of size N \times 1 that has magical properties. At the start of the game some lights on the square board and magical bar are turned on. The goal of the game is to transform the starting light square board pattern into some other pattern using the magical bar without rotating the square board. The magical bar works as follows: It can be placed on any row or column The orientation of the magical lightbulb must be left to right or top to bottom for it to keep its magical properties The entire bar needs to be fully placed on a board The lights of the magical bar never change If the light on the magical bar is the same as the light of the square it is placed on it will switch the light on the square board off, otherwise it will switch the light on The magical bar can be used an infinite number of times Alice has a hard time transforming her square board into the pattern Bob gave her. Can you help her transform the board or let her know it is impossible? If there are multiple solutions print any. 

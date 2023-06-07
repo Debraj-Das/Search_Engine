@@ -1,0 +1,9 @@
+Swap Letters                    
+
+https://codeforces.com/problemset/problem/1215/C
+
+constructive algorithms
+
+1500
+
+Monocarp has got two strings s and t having equal length. Both strings consist of lowercase Latin letters "a" and "b". Monocarp wants to make these two strings s and t equal to each other. He can do the following operation any number of times: choose an index pos_1 in the string s, choose an index pos_2 in the string t, and swap s_{pos_1} with t_{pos_2}.You have to determine the minimum number of operations Monocarp has to perform to make s and t equal, and print any optimal sequence of operations — or say that it is impossible to make these strings equal.

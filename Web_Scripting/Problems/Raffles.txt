@@ -1,0 +1,9 @@
+Raffles                    
+
+https://codeforces.com/problemset/problem/626/G
+
+data structures
+
+3100
+
+Johnny is at a carnival which has n raffles. Raffle i has a prize with value pi. Each participant can put tickets in whichever raffles they choose (they may have more than one ticket in a single raffle). At the end of the carnival, one ticket is selected at random from each raffle, and the owner of the ticket wins the associated prize. A single person can win multiple prizes from different raffles. However, county rules prevent any one participant from owning more than half the tickets in a single raffle, i.e. putting more tickets in the raffle than all the other participants combined. To help combat this (and possibly win some prizes), the organizers started by placing a single ticket in each raffle, which they will never remove.Johnny bought t tickets and is wondering where to place them. Currently, there are a total of li tickets in the i-th raffle. He watches as other participants place tickets and modify their decisions and, at every moment in time, wants to know how much he can possibly earn. Find the maximum possible expected value of Johnny's winnings at each moment if he distributes his tickets optimally. Johnny may redistribute all of his tickets arbitrarily between each update, but he may not place more than t tickets total or have more tickets in a single raffle than all other participants combined.

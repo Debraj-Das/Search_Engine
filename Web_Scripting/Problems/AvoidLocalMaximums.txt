@@ -1,0 +1,9 @@
+Avoid Local Maximums                    
+
+https://codeforces.com/problemset/problem/1635/B
+
+greedy
+
+800
+
+You are given an array a of size n. Each element in this array is an integer between 1 and 10^9.You can perform several operations to this array. During an operation, you can replace an element in the array with any integer between 1 and 10^9. Output the minimum number of operations needed such that the resulting array doesn't contain any local maximums, and the resulting array after the operations.An element a_i is a local maximum if it is strictly larger than both of its neighbors (that is, a_i > a_{i - 1} and a_i > a_{i + 1}). Since a_1 and a_n have only one neighbor each, they will never be a local maximum.

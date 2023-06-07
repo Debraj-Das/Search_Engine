@@ -1,0 +1,9 @@
+Sherlock and the Encrypted Data                    
+
+httpscodeforcescomproblemsetproblem776G
+
+bitmasks
+
+2900
+
+Sherlock found a piece of encrypted data which he thinks will be useful to catch Moriarty The encrypted data consists of two integer l and r He noticed that these integers were in hexadecimal formHe takes each of the integers from l to r and performs the following operations He lists the distinct digits present in the given number For example for 101416 he lists the digits as 104  Then he sums respective powers of two for each digit listed in the step above Like in the above example sum2120241910  He changes the initial number by applying bitwise xor of the initial number and the sum Example  Note that xor is done in binary notation One more example for integer 1e the sum is sum21214 Letters a b c d e f denote hexadecimal digits 10 11 12 13 14 15 respertivelySherlock wants to count the numbers in the range from l to r both inclusive which decrease on application of the above four steps He wants you to answer his q queries for different l and r

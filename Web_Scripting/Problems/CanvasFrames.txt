@@ -1,0 +1,9 @@
+Canvas Frames                    
+
+httpscodeforcescomproblemsetproblem127B
+
+implementation
+
+1000
+
+Nicholas a painter is going to paint several new canvases Nicholas is sure that the canvases will turn out so great that each one will need framing and being hung on the wall Frames are what Nicholas decided to begin with Nicholas has n sticks whose lengths equal a1a2 an Nicholas does not want to break the sticks or glue them together To make a hwsized frame he needs two sticks whose lengths equal h and two sticks whose lengths equal w Specifically to make a square frame when hw he needs four sticks of the same lengthNow Nicholas wants to make from the sticks that he has as many frames as possible to be able to paint as many canvases as possible to fill the frames Help him in this uneasy task Note that it is not necessary to use all the sticks Nicholas has

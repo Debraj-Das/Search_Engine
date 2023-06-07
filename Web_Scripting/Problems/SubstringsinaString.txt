@@ -1,0 +1,9 @@
+Substrings in a String                    
+
+httpscodeforcescomproblemsetproblem914F
+
+bitmasks
+
+3000
+
+Given a string s process q queries each having one of the following forms  1ic  Change the ith character in the string to c  2lry  Consider the substring of s starting at position l and ending at position r Output the number of times y occurs as a substring in it 

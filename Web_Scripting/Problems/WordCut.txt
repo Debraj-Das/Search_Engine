@@ -1,0 +1,9 @@
+Word Cut                    
+
+httpscodeforcescomproblemsetproblem176B
+
+dp
+
+1700
+
+Lets consider one interesting word game In this game you should transform one word into another through special operations Lets say we have word w lets split this word into two nonempty parts x and y so that wxy A split operation is transforming word wxy into word uyx For example a split operation can transform word wordcut into word cutwordYou are given two words start and end Count in how many ways we can transform word start into word end if we apply exactly k split operations consecutively to word start Two ways are considered different if the sequences of applied operations differ Two operation sequences are different if exists such number i 1ik that in the ith operation of the first sequence the word splits into parts x and y in the ith operation of the second sequence the word splits into parts a and b and additionally xa holds

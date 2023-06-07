@@ -1,0 +1,9 @@
+Inversion Counting                    
+
+httpscodeforcescomproblemsetproblem911D
+
+brute force
+
+1800
+
+A permutation of size n is an array of size n such that each integer from 1 to n occurs exactly once in this array An inversion in a permutation p is a pair of indices ij such that ij and aiaj For example a permutation 4132 contains 4 inversions 21 31 41 43You are given a permutation a of size n and m queries to it Each query is represented by two indices l and r denoting that you have to reverse the segment lr of the permutation For example if a1234 and a query l2 r4 is applied then the resulting permutation is 1432After each query you have to determine whether the number of inversions is odd or even

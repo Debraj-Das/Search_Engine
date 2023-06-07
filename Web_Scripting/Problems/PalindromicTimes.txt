@@ -1,0 +1,9 @@
+Palindromic Times                    
+
+https://codeforces.com/problemset/problem/108/A
+
+implementation
+
+1000
+
+Tattah is asleep if and only if Tattah is attending a lecture. This is a well-known formula among Tattah's colleagues.On a Wednesday afternoon, Tattah was attending Professor HH's lecture. At 12:21, right before falling asleep, he was staring at the digital watch around Saher's wrist. He noticed that the digits on the clock were the same when read from both directions i.e. a palindrome.In his sleep, he started dreaming about such rare moments of the day when the time displayed on a digital clock is a palindrome. As soon as he woke up, he felt destined to write a program that finds the next such moment.However, he still hasn't mastered the skill of programming while sleeping, so your task is to help him.

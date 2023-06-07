@@ -1,0 +1,9 @@
+Vasiliy's Multiset                    
+
+https://codeforces.com/problemset/problem/706/D
+
+binary search
+
+1800
+
+Author has gone out of the stories about Vasiliy, so here is just a formal task description.You are given q queries and a multiset A, initially containing only integer 0. There are three types of queries:  "+ x" — add integer x to multiset A. "- x" — erase one occurrence of integer x from multiset A. It's guaranteed that at least one x is present in the multiset A before this query. "? x" — you are given integer x and need to compute the value , i.e. the maximum value of bitwise exclusive OR (also know as XOR) of integer x and some integer y from the multiset A.Multiset is a set, where equal elements are allowed.

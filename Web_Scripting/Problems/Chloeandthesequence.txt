@@ -1,0 +1,9 @@
+Chloe and the sequence                     
+
+httpscodeforcescomproblemsetproblem743B
+
+binary search
+
+1200
+
+Chloe the same as Vladik is a competitive programmer She didnt have any problems to get to the olympiad like Vladik but she was confused by the task proposed on the olympiadLets consider the following algorithm of generating a sequence of integers Initially we have a sequence consisting of a single element equal to 1 Then we perform n1 steps On each step we take the sequence weve got on the previous step append it to the end of itself and insert in the middle the minimum positive integer we havent used before For example we get the sequence 121 after the first step the sequence 1213121 after the second stepThe task is to find the value of the element with index k the elements are numbered from 1 in the obtained sequence ie after n1 stepsPlease help Chloe to solve the problem

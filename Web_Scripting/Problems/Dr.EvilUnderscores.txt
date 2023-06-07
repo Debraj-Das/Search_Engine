@@ -1,0 +1,9 @@
+Dr. Evil Underscores                    
+
+https://codeforces.com/problemset/problem/1285/D
+
+bitmasks
+
+1900
+
+Today, as a friendship gift, Bakry gave Badawy n integers a_1, a_2, \dots, a_n and challenged him to choose an integer X such that the value \underset{1 \leq i \leq n}{\max} (a_i \oplus X) is minimum possible, where \oplus denotes the bitwise XOR operation.As always, Badawy is too lazy, so you decided to help him and find the minimum possible value of \underset{1 \leq i \leq n}{\max} (a_i \oplus X).

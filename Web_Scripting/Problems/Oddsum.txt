@@ -1,0 +1,9 @@
+Odd sum                    
+
+httpscodeforcescomproblemsetproblem797B
+
+dp
+
+1400
+
+You are given sequence a1a2an of integer numbers of length n Your task is to find such subsequence that its sum is odd and maximum among all such subsequences Its guaranteed that given sequence contains subsequence with odd sumSubsequence is a sequence that can be derived from another sequence by deleting some elements without changing the order of the remaining elementsYou should write a program which finds sum of the best subsequence

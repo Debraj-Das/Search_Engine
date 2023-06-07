@@ -1,0 +1,9 @@
+Encrypting Messages                    
+
+httpscodeforcescomproblemsetproblem177D2
+
+data structures
+
+1500
+
+The Smart Beaver from ABBYY invented a new message encryption method and now wants to check its performance Checking it manually is long and tiresome so he decided to ask the ABBYY Cup contestants for helpA message is a sequence of n integers a1a2an Encryption uses a key which is a sequence of m integers b1b2bm mn All numbers from the message and from the key belong to the interval from 0 to c1 inclusive and all the calculations are performed modulo cEncryption is performed in nm1 steps On the first step we add to each number a1a2am a corresponding number b1b2bm On the second step we add to each number a2a3am1 changed on the previous step a corresponding number b1b2bm And so on on step number i we add to each number aiai1aim1 a corresponding number b1b2bm The result of the encryption is the sequence a1a2an after nm1 stepsHelp the Beaver to write a program that will encrypt messages in the described manner

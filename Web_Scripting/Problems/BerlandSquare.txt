@@ -1,0 +1,9 @@
+Berland Square                    
+
+httpscodeforcescomproblemsetproblem40C
+
+implementation
+
+2300
+
+Last year the worlds largest square was built in Berland It is known that the square can be represented as an infinite plane with an introduced Cartesian system of coordinates On that square two sets of concentric circles were painted Lets call the set of concentric circles with radii 12K and the center in the point z0 a Kzset Thus on the square were painted a Nxset and a Myset You have to find out how many parts those sets divided the square into

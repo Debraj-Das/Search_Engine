@@ -1,0 +1,9 @@
+Add and Divide                    
+
+https://codeforces.com/problemset/problem/1485/A
+
+brute force
+
+1000
+
+You have two positive integers a and b.You can perform two kinds of operations:  a = \lfloor \frac{a}{b} \rfloor (replace a with the integer part of the division between a and b)  b=b+1 (increase b by 1) Find the minimum number of operations required to make a=0.

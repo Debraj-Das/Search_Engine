@@ -1,0 +1,9 @@
+Remove Duplicates                    
+
+https://codeforces.com/problemset/problem/978/A
+
+implementation
+
+800
+
+Petya has an array a consisting of n integers. He wants to remove duplicate (equal) elements.Petya wants to leave only the rightmost entry (occurrence) for each element of the array. The relative order of the remaining unique elements should not be changed.

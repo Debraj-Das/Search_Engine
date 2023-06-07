@@ -1,0 +1,9 @@
+Functions again                    
+
+httpscodeforcescomproblemsetproblem788A
+
+dp
+
+1600
+
+Something happened in Uzhlyandia again There are riots on the streets Famous Uzhlyandian superheroes Shean the Sheep and Stas the Giraffe were called in order to save the situation Upon the arriving they found that citizens are worried about maximum values of the Main Uzhlyandian Function f which is defined as followsIn the above formula 1lrn must hold where n is the size of the Main Uzhlyandian Array a and x means absolute value of x But the heroes skipped their math lessons in school so they asked you for help Help them calculate the maximum value of f among all possible values of l and r for the given array a

@@ -1,0 +1,9 @@
+Om Nom and Necklace                    
+
+httpscodeforcescomproblemsetproblem526D
+
+hashing
+
+2200
+
+One day Om Nom found a thread with n beads of different colors He decided to cut the first several beads from this thread to make a bead necklace and present it to his girlfriend Om Nelly  Om Nom knows that his girlfriend loves beautiful patterns Thats why he wants the beads on the necklace to form a regular pattern A sequence of beads S is regular if it can be represented as SABABAABA where A and B are some bead sequences  is the concatenation of sequences there are exactly 2k1 summands in this sum among which there are k1 A summands and k B summands that follow in alternating order Om Nelly knows that her friend is an eager mathematician so she doesnt mind if A or B is an empty sequenceHelp Om Nom determine in which ways he can cut off the first several beads from the found thread at least one probably all so that they form a regular pattern When Om Nom cuts off the beads he doesnt change their order

@@ -1,0 +1,9 @@
+Guest From the Past                    
+
+httpscodeforcescomproblemsetproblem625A
+
+implementation
+
+1700
+
+Kolya Gerasimov loves kefir very much He lives in year 1984 and knows all the details of buying this delicious drink One day as you probably know he found himself in year 2084 and buying kefir there is much more complicatedKolya is hungry so he went to the nearest milk shop In 2084 you may buy kefir in a plastic liter bottle that costs a rubles or in glass liter bottle that costs b rubles Also you may return empty glass bottle and get c cb rubles back but you cannot return plastic bottlesKolya has n rubles and he is really hungry so he wants to drink as much kefir as possible There were no plastic bottles in his 1984 so Kolya doesnt know how to act optimally and asks for your help

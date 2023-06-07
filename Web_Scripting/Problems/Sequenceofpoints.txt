@@ -1,0 +1,9 @@
+Sequence of points                    
+
+httpscodeforcescomproblemsetproblem24C
+
+geometry
+
+1800
+
+You are given the following points with integer coordinates on the plane M0A0A1An1 where n is odd number Now we define the following infinite sequence of points Mi Mi is symmetric to Mi1 according  for every natural number i Here point B is symmetric to A according M if M is the center of the line segment AB Given index j find the point Mj

@@ -1,0 +1,9 @@
+Gaining Rating                    
+
+https://codeforces.com/problemset/problem/1772/G
+
+binary search
+
+2200
+
+Monocarp is playing chess on one popular website. He has n opponents he can play with. The i-th opponent has rating equal to a_i. Monocarp's initial rating is x. Monocarp wants to raise his rating to the value y (y > x).When Monocarp is playing against one of the opponents, he will win if his current rating is bigger or equal to the opponent's rating. If Monocarp wins, his rating is increased by 1, otherwise it is decreased by 1. The rating of his opponent does not change.Monocarp wants to gain rating y playing as few games as possible. But he can't just grind it, playing against weak opponents. The website has a rule that you should play against all opponents as evenly as possible. Speaking formally, if Monocarp wants to play against an opponent i, there should be no other opponent j such that Monocarp has played more games against i than against j.Calculate the minimum possible number of games Monocarp needs to gain rating y or say it's impossible. Note that ratings of Monocarp's opponents don't change, while Monocarp's rating does change.

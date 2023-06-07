@@ -1,0 +1,9 @@
+Simple Subset                    
+
+httpscodeforcescomproblemsetproblem665D
+
+constructive algorithms
+
+1800
+
+A tuple of positive integers x1x2xk is called simple if for all pairs of positive integers ij 1ijk xixj is a primeYou are given an array a with n positive integers a1a2an not necessary distinct You want to find a simple subset of the array a with the maximum sizeA prime number or a prime is a natural number greater than 1 that has no positive divisors other than 1 and itselfLets define a subset of the array a as a tuple that can be obtained from a by removing some possibly all elements of it

@@ -1,0 +1,9 @@
+Tesla                    
+
+https://codeforces.com/problemset/problem/995/A
+
+constructive algorithms
+
+2100
+
+Allen dreams of one day owning a enormous fleet of electric cars, the car of the future! He knows that this will give him a big status boost. As Allen is planning out all of the different types of cars he will own and how he will arrange them, he realizes that he has a problem. Allen's future parking lot can be represented as a rectangle with 4 rows and n (n \le 50) columns of rectangular spaces, each of which can contain at most one car at any time. He imagines having k (k \le 2n) cars in the grid, and all the cars are initially in the second and third rows. Each of the cars also has a different designated parking space in the first or fourth row. Allen has to put the cars into corresponding parking places.  Illustration to the first example. However, since Allen would never entrust his cars to anyone else, only one car can be moved at a time. He can drive a car from a space in any of the four cardinal directions to a neighboring empty space. Furthermore, Allen can only move one of his cars into a space on the first or fourth rows if it is the car's designated parking space. Allen knows he will be a very busy man, and will only have time to move cars at most 20000 times before he realizes that moving cars is not worth his time. Help Allen determine if he should bother parking his cars or leave it to someone less important.

@@ -1,0 +1,9 @@
+Box                    
+
+https://codeforces.com/problemset/problem/1227/B
+
+constructive algorithms
+
+1200
+
+Permutation p is a sequence of integers p=[p_1, p_2, \dots, p_n], consisting of n distinct (unique) positive integers between 1 and n, inclusive. For example, the following sequences are permutations: [3, 4, 1, 2], [1], [1, 2]. The following sequences are not permutations: [0], [1, 2, 1], [2, 3], [0, 1, 2].The important key is in the locked box that you need to open. To open the box you need to enter secret code. Secret code is a permutation p of length n. You don't know this permutation, you only know the array q of prefix maximums of this permutation. Formally:  q_1=p_1,  q_2=\max(p_1, p_2),  q_3=\max(p_1, p_2,p_3),  ...  q_n=\max(p_1, p_2,\dots,p_n). You want to construct any possible suitable permutation (i.e. any such permutation, that calculated q for this permutation is equal to the given array).

@@ -1,0 +1,9 @@
+Road to Post Office                    
+
+httpscodeforcescomproblemsetproblem702D
+
+math
+
+1900
+
+Vasiliy has a car and he wants to get from home to the post office The distance which he needs to pass equals to d kilometersVasiliys car is not new  it breaks after driven every k kilometers and Vasiliy needs t seconds to repair it After repairing his car Vasiliy can drive again but after k kilometers it will break again and so on In the beginning of the trip the car is just from repair stationTo drive one kilometer on car Vasiliy spends a seconds to walk one kilometer on foot he needs b seconds abYour task is to find minimal time after which Vasiliy will be able to reach the post office Consider that in every moment of time Vasiliy can left his car and start to go on foot

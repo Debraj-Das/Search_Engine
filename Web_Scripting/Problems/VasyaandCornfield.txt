@@ -1,0 +1,9 @@
+Vasya and Cornfield                    
+
+https://codeforces.com/problemset/problem/1030/B
+
+geometry
+
+1100
+
+Vasya owns a cornfield which can be defined with two integers n and d. The cornfield can be represented as rectangle with vertices having Cartesian coordinates (0, d), (d, 0), (n, n - d) and (n - d, n).  An example of a cornfield with n = 7 and d = 2. Vasya also knows that there are m grasshoppers near the field (maybe even inside it). The i-th grasshopper is at the point (x_i, y_i). Vasya does not like when grasshoppers eat his corn, so for each grasshopper he wants to know whether its position is inside the cornfield (including the border) or outside.Help Vasya! For each grasshopper determine if it is inside the field (including the border).

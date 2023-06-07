@@ -1,0 +1,9 @@
+Unsolvable                    
+
+httpscodeforcescomproblemsetproblem225E
+
+math
+
+2100
+
+Consider the following equation  where sign a represents the integer part of number aLets find all integer z z0 for which this equation is unsolvable in positive integers The phrase unsolvable in positive integers means that there are no such positive integers x and y xy0 for which the given above equation holdsLets write out all such z in the increasing order z1z2z3 and so on zizi1 Your task is given the number n find the number zn

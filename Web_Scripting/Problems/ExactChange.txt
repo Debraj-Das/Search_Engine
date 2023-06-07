@@ -1,0 +1,9 @@
+Exact Change                    
+
+https://codeforces.com/problemset/problem/1620/D
+
+brute force
+
+2000
+
+One day, early in the morning, you decided to buy yourself a bag of chips in the nearby store. The store has chips of n different flavors. A bag of the i-th flavor costs a_i burles.The store may run out of some flavors, so you'll decide which one to buy after arriving there. But there are two major flaws in this plan:   you have only coins of 1, 2 and 3 burles;  since it's morning, the store will ask you to pay in exact change, i. e. if you choose the i-th flavor, you'll have to pay exactly a_i burles. Coins are heavy, so you'd like to take the least possible number of coins in total. That's why you are wondering: what is the minimum total number of coins you should take with you, so you can buy a bag of chips of any flavor in exact change?

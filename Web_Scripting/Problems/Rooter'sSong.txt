@@ -1,0 +1,9 @@
+Rooters Song                    
+
+httpscodeforcescomproblemsetproblem848B
+
+constructive algorithms
+
+1900
+
+Wherever the destination is whoever we meet lets render this song togetherOn a Cartesian coordinate plane lies a rectangular stage of size wh represented by a rectangle with corners 00 w0 wh and 0h It can be seen that no collisions will happen before one enters the stageOn the sides of the stage stand n dancers The ith of them falls into one of the following groups   Vertical stands at xi0 moves in positive y direction upwards  Horizontal stands at 0yi moves in positive x direction rightwards   According to choreography the ith dancer should stand still for the first ti milliseconds and then start moving in the specified direction at 1 unit per millisecond until another border is reached It is guaranteed that no two dancers have the same group position and waiting time at the same timeWhen two dancers collide ie are on the same point at some time when both of them are moving they immediately exchange their moving directions and go on  Dancers stop when a border of the stage is reached Find out every dancers stopping position

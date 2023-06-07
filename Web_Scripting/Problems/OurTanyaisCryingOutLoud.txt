@@ -1,0 +1,9 @@
+Our Tanya is Crying Out Loud                    
+
+https://codeforces.com/problemset/problem/940/B
+
+dp
+
+1400
+
+Right now she actually isn't. But she will be, if you don't solve this problem.You are given integers n, k, A and B. There is a number x, which is initially equal to n. You are allowed to perform two types of operations:   Subtract 1 from x. This operation costs you A coins.  Divide x by k. Can be performed only if x is divisible by k. This operation costs you B coins.  What is the minimum amount of coins you have to pay to make x equal to 1?

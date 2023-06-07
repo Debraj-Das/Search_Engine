@@ -1,0 +1,9 @@
+Berland Miners                    
+
+httpscodeforcescomproblemsetproblem533A
+
+binary search
+
+3000
+
+The biggest gold mine in Berland consists of n caves connected by n1 transitions The entrance to the mine leads to the cave number 1 it is possible to go from it to any remaining cave of the mine by moving along the transitions The mine is being developed by the InMine Inc k miners work for it Each day the corporation sorts miners into caves so that each cave has at most one miner working there For each cave we know the height of its ceiling hi in meters and for each miner we know his height sj also in meters If a miners height doesnt exceed the height of the cave ceiling where he is then he can stand there comfortably otherwise he has to stoop and that makes him unhappyUnfortunately miners typically go on strike in Berland so InMine makes all the possible effort to make miners happy about their work conditions To ensure that no miner goes on strike you need make sure that no miner has to stoop at any moment on his way from the entrance to the mine to his cave in particular he must be able to stand comfortably in the cave where he works To reach this goal you can choose exactly one cave and increase the height of its ceiling by several meters However enlarging a cave is an expensive and complex procedure Thats why InMine Inc asks you either to determine the minimum number of meters you should raise the ceiling of some cave so that it is be possible to sort the miners into the caves and keep all miners happy with their working conditions or to determine that it is impossible to achieve by raising ceiling in exactly one cave

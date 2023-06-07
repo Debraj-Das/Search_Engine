@@ -1,0 +1,9 @@
+Qpwoeirut and Vertices                    
+
+https://codeforces.com/problemset/problem/1706/E
+
+binary search
+
+2300
+
+You are given a connected undirected graph with n vertices and m edges. Vertices of the graph are numbered by integers from 1 to n and edges of the graph are numbered by integers from 1 to m.Your task is to answer q queries, each consisting of two integers l and r. The answer to each query is the smallest non-negative integer k such that the following condition holds:   For all pairs of integers (a, b) such that l\le a\le b\le r, vertices a and b are reachable from one another using only the first k edges (that is, edges 1, 2, \ldots, k). 

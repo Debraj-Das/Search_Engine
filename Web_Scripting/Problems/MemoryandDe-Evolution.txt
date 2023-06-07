@@ -1,0 +1,9 @@
+Memory and De-Evolution                    
+
+https://codeforces.com/problemset/problem/712/C
+
+greedy
+
+1600
+
+Memory is now interested in the de-evolution of objects, specifically triangles. He starts with an equilateral triangle of side length x, and he wishes to perform operations to obtain an equilateral triangle of side length y.In a single second, he can modify the length of a single side of the current triangle such that it remains a non-degenerate triangle (triangle of positive area). At any moment of time, the length of each side should be integer.What is the minimum number of seconds required for Memory to obtain the equilateral triangle of side length y?

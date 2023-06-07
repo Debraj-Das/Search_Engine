@@ -1,0 +1,9 @@
+Graph And Numbers                    
+
+https://codeforces.com/problemset/problem/1221/G
+
+bitmasks
+
+2900
+
+You are given an undirected graph with n vertices and m edges. You have to write a number on each vertex of this graph, each number should be either 0 or 1. After that, you write a number on each edge equal to the sum of numbers on vertices incident to that edge.You have to choose the numbers you will write on the vertices so that there is at least one edge with 0 written on it, at least one edge with 1 and at least one edge with 2. How many ways are there to do it? Two ways to choose numbers are different if there exists at least one vertex which has different numbers written on it in these two ways.

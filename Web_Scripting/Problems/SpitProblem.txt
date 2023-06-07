@@ -1,0 +1,9 @@
+Spit Problem                    
+
+httpscodeforcescomproblemsetproblem29A
+
+brute force
+
+1000
+
+In a Berlands zoo there is an enclosure with camels It is known that camels like to spit Bob watched these interesting animals for the whole day and registered in his notepad where each animal spitted Now he wants to know if in the zoo there are two camels which spitted at each other Help him to solve this taskThe trajectory of a camels spit is an arc ie if the camel in position x spits d meters right he can hit only the camel in position xd if such a camel exists

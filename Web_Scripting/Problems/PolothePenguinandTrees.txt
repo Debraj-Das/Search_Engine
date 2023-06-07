@@ -1,0 +1,9 @@
+Polo the Penguin and Trees                     
+
+httpscodeforcescomproblemsetproblem288D
+
+combinatorics
+
+2400
+
+Little penguin Polo has got a tree  a nondirected connected acyclic graph containing n nodes and n1 edges We will consider the tree nodes numbered by integers from 1 to nToday Polo wonders how to find the number of pairs of paths that dont have common nodes More formally he should find the number of groups of four integers abc and d such that  1abn  1cdn  theres no such node that lies on both the shortest path from node a to node b and from node c to node d The shortest path betweem two nodes is the path that is shortest in the number of edgesHelp Polo solve this problem

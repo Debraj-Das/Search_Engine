@@ -1,0 +1,9 @@
+Repairing Of String                    
+
+httpscodeforcescomproblemsetproblem774H
+
+special problem
+
+2200
+
+Stepan had a favorite string s which consisted of the lowercase letters of the Latin alphabet After graduation he decided to remember it but it was a long time ago so he cant now remember it But Stepan remembers some information about the string namely the sequence of integers c1c2cn where n equals the length of the string s and ci equals the number of substrings in the string s with the length i consisting of the same letters The substring is a sequence of consecutive characters in the string sFor example if the Stepans favorite string is equal to tttesst the sequence c looks like c7310000Stepan asks you to help to repair his favorite string s according to the given sequence c1c2cn 

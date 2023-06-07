@@ -1,0 +1,9 @@
+Plus One on the Subset                    
+
+https://codeforces.com/problemset/problem/1624/A
+
+math
+
+800
+
+Polycarp got an array of integers a[1 \dots n] as a gift. Now he wants to perform a certain number of operations (possibly zero) so that all elements of the array become the same (that is, to become a_1=a_2=\dots=a_n). In one operation, he can take some indices in the array and increase the elements of the array at those indices by 1.For example, let a=[4,2,1,6,2]. He can perform the following operation: select indices 1, 2, and 4 and increase elements of the array in those indices by 1. As a result, in one operation, he can get a new state of the array a=[5,3,1,7,2].What is the minimum number of operations it can take so that all elements of the array become equal to each other (that is, to become a_1=a_2=\dots=a_n)?

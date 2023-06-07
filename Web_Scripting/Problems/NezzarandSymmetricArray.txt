@@ -1,0 +1,9 @@
+Nezzar and Symmetric Array                    
+
+https://codeforces.com/problemset/problem/1478/C
+
+implementation
+
+1700
+
+Long time ago there was a symmetric array a_1,a_2,\ldots,a_{2n} consisting of 2n distinct integers. Array a_1,a_2,\ldots,a_{2n} is called symmetric if for each integer 1 \le i \le 2n, there exists an integer 1 \le j \le 2n such that a_i = -a_j.For each integer 1 \le i \le 2n, Nezzar wrote down an integer d_i equal to the sum of absolute differences from a_i to all integers in a, i. e. d_i = \sum_{j = 1}^{2n} {|a_i - a_j|}.Now a million years has passed and Nezzar can barely remember the array d and totally forget a. Nezzar wonders if there exists any symmetric array a consisting of 2n distinct integers that generates the array d.

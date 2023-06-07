@@ -1,0 +1,9 @@
+Sum Over Subsets                    
+
+https://codeforces.com/problemset/problem/1436/F
+
+combinatorics
+
+2800
+
+You are given a multiset S. Over all pairs of subsets A and B, such that:  B \subset A;  |B| = |A| - 1;  greatest common divisor of all elements in A is equal to one; find the sum of \sum_{x \in A}{x} \cdot \sum_{x \in B}{x}, modulo 998\,244\,353.

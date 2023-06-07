@@ -1,0 +1,9 @@
+Payment Without Change                    
+
+https://codeforces.com/problemset/problem/1256/A
+
+math
+
+1000
+
+You have a coins of value n and b coins of value 1. You always pay in exact change, so you want to know if there exist such x and y that if you take x (0 \le x \le a) coins of value n and y (0 \le y \le b) coins of value 1, then the total value of taken coins will be S.You have to answer q independent test cases.

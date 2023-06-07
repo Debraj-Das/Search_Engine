@@ -1,0 +1,9 @@
+Prime Divisors Selection                    
+
+httpscodeforcescomproblemsetproblem1468L
+
+binary search
+
+2700
+
+Suppose you have a sequence of k integers A  a1 a2 dots  ak where each ai geq 2 A sequence of prime integers P  p1 p2 dots pk is called suitable for the sequence A if a1 is divisible by p1 a2 is divisible by p2 and so on A sequence of prime integers P is called friendly if there are no unique integers in this sequence A sequence A is called ideal if each sequence P that is suitable for A is friendly as well ie there is no sequence P that is suitable for A but not friendly For example the sequence 2 4 16 is ideal while the sequence 2 4 6 is not ideal there exists a sequence P  2 2 3 which is suitable for A but not friendlyYou are given n different integers x1 x2  xn You have to choose exactly k of them in such a way that they form an ideal sequence or report that it is impossible Note that no integer can be chosen more than once

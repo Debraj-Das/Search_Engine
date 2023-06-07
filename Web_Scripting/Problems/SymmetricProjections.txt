@@ -1,0 +1,9 @@
+Symmetric Projections                    
+
+https://codeforces.com/problemset/problem/886/F
+
+geometry
+
+2900
+
+You are given a set of n points on the plane. A line containing the origin is called good, if projection of the given set to this line forms a symmetric multiset of points. Find the total number of good lines.Multiset is a set where equal elements are allowed.Multiset is called symmetric, if there is a point P on the plane such that the multiset is centrally symmetric in respect of point P.

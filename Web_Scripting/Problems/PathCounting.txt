@@ -1,0 +1,9 @@
+Path Counting                    
+
+httpscodeforcescomproblemsetproblem954H
+
+combinatorics
+
+2500
+
+You are given a rooted tree Lets denote dx as depth of node x depth of the root is 1 depth of any other node x is dy1 where y is a parent of xThe tree has the following property every node x with dxi has exactly ai children Maximum possible depth of a node is n and an0We define fk as the number of unordered pairs of vertices in the tree such that the number of edges on the simple path between them is equal to kCalculate fk modulo 1097 for every 1k2n2

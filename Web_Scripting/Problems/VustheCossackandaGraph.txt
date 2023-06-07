@@ -1,0 +1,9 @@
+Vus the Cossack and a Graph                    
+
+https://codeforces.com/problemset/problem/1186/F
+
+dfs and similar
+
+2400
+
+Vus the Cossack has a simple graph with n vertices and m edges. Let d_i be a degree of the i-th vertex. Recall that a degree of the i-th vertex is the number of conected edges to the i-th vertex.He needs to remain not more than \lceil \frac{n+m}{2} \rceil edges. Let f_i be the degree of the i-th vertex after removing. He needs to delete them in such way so that \lceil \frac{d_i}{2} \rceil \leq f_i for each i. In other words, the degree of each vertex should not be reduced more than twice. Help Vus to remain the needed edges!

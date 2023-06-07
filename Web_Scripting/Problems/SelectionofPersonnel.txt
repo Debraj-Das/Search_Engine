@@ -1,0 +1,9 @@
+Selection of Personnel                    
+
+https://codeforces.com/problemset/problem/630/F
+
+combinatorics
+
+1300
+
+One company of IT City decided to create a group of innovative developments consisting from 5 to 7 people and hire new employees for it. After placing an advertisment the company received n resumes. Now the HR department has to evaluate each possible group composition and select one of them. Your task is to count the number of variants of group composition to evaluate.

@@ -1,0 +1,9 @@
+Suspects                    
+
+httpscodeforcescomproblemsetproblem156B
+
+constructive algorithms
+
+1600
+
+As Sherlock Holmes was investigating a crime he identified n suspects He knows for sure that exactly one of them committed the crime To find out which one did it the detective lines up the suspects and numbered them from 1 to n After that he asked each one Which one committed the crime Suspect number i answered either The crime was committed by suspect number ai or Suspect number ai didnt commit the crime Also the suspect could say so about himself aiiSherlock Holmes understood for sure that exactly m answers were the truth and all other answers were a lie Now help him understand this which suspect lied and which one told the truth

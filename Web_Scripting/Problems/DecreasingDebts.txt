@@ -1,0 +1,9 @@
+Decreasing Debts                    
+
+https://codeforces.com/problemset/problem/1266/D
+
+constructive algorithms
+
+2000
+
+There are n people in this world, conveniently numbered 1 through n. They are using burles to buy goods and services. Occasionally, a person might not have enough currency to buy what he wants or needs, so he borrows money from someone else, with the idea that he will repay the loan later with interest. Let d(a,b) denote the debt of a towards b, or 0 if there is no such debt.Sometimes, this becomes very complex, as the person lending money can run into financial troubles before his debtor is able to repay his debt, and finds himself in the need of borrowing money. When this process runs for a long enough time, it might happen that there are so many debts that they can be consolidated. There are two ways this can be done:  Let d(a,b) > 0 and d(c,d) > 0 such that a \neq c or b \neq d. We can decrease the d(a,b) and d(c,d) by z and increase d(c,b) and d(a,d) by z, where 0 < z \leq \min(d(a,b),d(c,d)).  Let d(a,a) > 0. We can set d(a,a) to 0. The total debt is defined as the sum of all debts:\Sigma_d = \sum_{a,b} d(a,b)Your goal is to use the above rules in any order any number of times, to make the total debt as small as possible. Note that you don't have to minimise the number of non-zero debts, only the total debt.

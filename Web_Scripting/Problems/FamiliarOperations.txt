@@ -1,0 +1,9 @@
+Familiar Operations                    
+
+https://codeforces.com/problemset/problem/1031/F
+
+brute force
+
+2800
+
+You are given two positive integers a and b. There are two possible operations:   multiply one of the numbers by some prime p;  divide one of the numbers on its prime factor p. What is the minimum number of operations required to obtain two integers having the same number of divisors? You are given several such pairs, you need to find the answer for each of them.

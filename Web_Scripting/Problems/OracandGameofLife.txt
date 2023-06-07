@@ -1,0 +1,9 @@
+Orac and Game of Life                    
+
+https://codeforces.com/problemset/problem/1349/C
+
+dfs and similar
+
+2000
+
+Please notice the unusual memory limit of this problem.Orac likes games. Recently he came up with the new game, "Game of Life".You should play this game on a black and white grid with n rows and m columns. Each cell is either black or white.For each iteration of the game (the initial iteration is 0), the color of each cell will change under the following rules: If there are no adjacent cells with the same color as this cell on the current iteration, the color of it on the next iteration will be the same. Otherwise, the color of the cell on the next iteration will be different.Two cells are adjacent if they have a mutual edge.Now Orac has set an initial situation, and he wants to know for the cell (i,j) (in i-th row and j-th column), what will be its color at the iteration p. He may ask you these questions several times. 

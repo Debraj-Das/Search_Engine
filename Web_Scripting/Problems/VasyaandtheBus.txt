@@ -1,0 +1,9 @@
+Vasya and the Bus                    
+
+httpscodeforcescomproblemsetproblem190A
+
+greedy
+
+1100
+
+One day Vasya heard a story In the city of High Bertown a bus number 62 left from the bus station It had n grownups and m kidsThe latter events happen to be of no importance to us Vasya is an accountant and he loves counting money So he wondered what maximum and minimum sum of money these passengers could have paid for the rideThe bus fare equals one berland ruble in High Bertown However not everything is that easy  no more than one child can ride for free with each grownup passenger That means that a grownup passenger who rides with his k k0 children pays overall k rubles a ticket for himself and k1 tickets for his children Also a grownup can ride without children in this case he only pays one rubleWe know that in High Bertown children cant ride in a bus unaccompanied by grownupsHelp Vasya count the minimum and the maximum sum in Berland rubles that all passengers of this bus could have paid in total

@@ -1,0 +1,9 @@
+Super-Permutation                    
+
+https://codeforces.com/problemset/problem/1822/D
+
+constructive algorithms
+
+1200
+
+A permutation is a sequence n integers, where each integer from 1 to n appears exactly once. For example, [1], [3,5,2,1,4], [1,3,2] are permutations, while [2,3,2], [4,3,1], [0] are not.Given a permutation a, we construct an array b, where b_i = (a_1 + a_2 +~\dots~+ a_i) \bmod n.A permutation of numbers [a_1, a_2, \dots, a_n] is called a super-permutation if [b_1 + 1, b_2 + 1, \dots, b_n + 1] is also a permutation of length n.Grisha became interested whether a super-permutation of length n exists. Help him solve this non-trivial problem. Output any super-permutation of length n, if it exists. Otherwise, output -1.

@@ -1,0 +1,9 @@
+Broken Tree                    
+
+https://codeforces.com/problemset/problem/758/E
+
+dfs and similar
+
+2600
+
+You are given a tree that has n vertices, which are numbered from 1 to n, where the vertex number one is the root. Each edge has weight wi and strength pi.Botanist Innokentiy, who is the only member of the jury of the Olympiad in Informatics, doesn't like broken trees. The tree is broken if there is such an edge the strength of which is less than the sum of weight of subtree's edges to which it leads.It is allowed to reduce weight of any edge by arbitrary integer value, but then the strength of its edge is reduced by the same value. It means if the weight of the edge is 10, and the strength is 12, then by the reducing the weight by 7 its weight will equal 3, and the strength will equal 5. It is not allowed to increase the weight of the edge.Your task is to get the tree, which is not broken, by reducing the weight of edges of the given tree, and also all edged should have the positive weight, moreover, the total weight of all edges should be as large as possible.It is obvious that the strength of edges can not be negative, however it can equal zero if the weight of the subtree equals zero. 

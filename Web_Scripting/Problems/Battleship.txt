@@ -1,0 +1,9 @@
+Battleship                    
+
+httpscodeforcescomproblemsetproblem100H
+
+special problem
+
+2100
+
+Do you know the game Battleship If no look into Wikipedia article httpenwikipediaorgwikiBattleshipgame You are given the positions of ships on a 1010 board for playing Battleship According to the rules the board should contain the following ships   one of size 4 41 or 14 rectangle  two of size 3 31 or 13 rectangles  three of size 2 21 or 12 rectangles  four of size 1 11 rectangles The ships should not bend touch each other or overlap in any way Each ship can be oriented horizontaly or verticaly Your task is to check whether the given set of boards meets the given conditions

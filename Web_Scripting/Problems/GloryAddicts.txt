@@ -1,0 +1,9 @@
+Glory Addicts                    
+
+https://codeforces.com/problemset/problem/1738/A
+
+greedy
+
+800
+
+The hero is addicted to glory, and is fighting against a monster. The hero has n skills. The i-th skill is of type a_i (either fire or frost) and has initial damage b_i. The hero can perform all of the n skills in any order (with each skill performed exactly once). When performing each skill, the hero can play a magic as follows:   If the current skill immediately follows another skill of a different type, then its damage is doubled.  In other words,   If a skill of type fire and with initial damage c is performed immediately after a skill of type fire, then it will deal c damage;  If a skill of type fire and with initial damage c is performed immediately after a skill of type frost, then it will deal 2c damage;  If a skill of type frost and with initial damage c is performed immediately after a skill of type fire, then it will deal 2c damage;  If a skill of type frost and with initial damage c is performed immediately after a skill of type frost , then it will deal c damage. Your task is to find the maximum damage the hero can deal. 

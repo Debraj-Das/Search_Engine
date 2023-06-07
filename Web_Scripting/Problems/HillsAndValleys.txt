@@ -1,0 +1,9 @@
+Hills And Valleys                    
+
+https://codeforces.com/problemset/problem/1467/B
+
+brute force
+
+1700
+
+You are given a sequence of n integers a_1, a_2, ..., a_n. Let us call an index j (2 \le j \le {{n-1}}) a hill if a_j > a_{{j+1}} and a_j > a_{{j-1}}; and let us call it a valley if a_j < a_{{j+1}} and a_j < a_{{j-1}}.Let us define the intimidation value of a sequence as the sum of the number of hills and the number of valleys in the sequence. You can change exactly one integer in the sequence to any number that you want, or let the sequence remain unchanged. What is the minimum intimidation value that you can achieve?

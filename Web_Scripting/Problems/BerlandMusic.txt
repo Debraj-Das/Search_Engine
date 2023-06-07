@@ -1,0 +1,9 @@
+Berland Music                    
+
+https://codeforces.com/problemset/problem/1622/B
+
+data structures
+
+1000
+
+Berland Music is a music streaming service built specifically to support Berland local artist. Its developers are currently working on a song recommendation module.So imagine Monocarp got recommended n songs, numbered from 1 to n. The i-th song had its predicted rating equal to p_i, where 1 \le p_i \le n and every integer from 1 to n appears exactly once. In other words, p is a permutation.After listening to each of them, Monocarp pressed either a like or a dislike button. Let his vote sequence be represented with a string s, such that s_i=0 means that he disliked the i-th song, and s_i=1 means that he liked it.Now the service has to re-evaluate the song ratings in such a way that:  the new ratings q_1, q_2, \dots, q_n still form a permutation (1 \le q_i \le n; each integer from 1 to n appears exactly once);  every song that Monocarp liked should have a greater rating than every song that Monocarp disliked (formally, for all i, j such that s_i=1 and s_j=0, q_i>q_j should hold). Among all valid permutations q find the one that has the smallest value of \sum\limits_{i=1}^n |p_i-q_i|, where |x| is an absolute value of x.Print the permutation q_1, q_2, \dots, q_n. If there are multiple answers, you can print any of them.

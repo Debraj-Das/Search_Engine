@@ -1,0 +1,9 @@
+Kefa and First Steps                    
+
+httpscodeforcescomproblemsetproblem580A
+
+brute force
+
+900
+
+Kefa decided to make some money doing business on the Internet for exactly n days He knows that on the ith day 1in he makes ai money Kefa loves progress thats why he wants to know the length of the maximum nondecreasing subsegment in sequence ai Let us remind you that the subsegment of the sequence is its continuous fragment A subsegment of numbers is called nondecreasing if all numbers in it follow in the nondecreasing orderHelp Kefa cope with this task

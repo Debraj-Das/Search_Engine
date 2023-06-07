@@ -1,0 +1,9 @@
+Quadratic equation                    
+
+httpscodeforcescomproblemsetproblem530A
+
+special problem
+
+1500
+
+You are given a quadratic equation with integer coefficients AX2BXC0 It is guaranteed that A0 and that the equation has at least one real root Output the roots of the equation

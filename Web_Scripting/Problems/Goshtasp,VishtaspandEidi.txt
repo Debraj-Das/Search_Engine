@@ -1,0 +1,9 @@
+Goshtasp Vishtasp and Eidi                    
+
+httpscodeforcescomproblemsetproblem72A
+
+special problem
+
+1800
+
+Goshtasp was known to be a good programmer in his school One day Vishtasp Goshtasps friend asked him to solve this taskGiven a positive integer n you should determine whether n is richThe positive integer x is rich if there exists some set of distinct numbers a1a2am such that  In addition every ai should be either a prime number or equal to 1Vishtasp said that he would share his Eidi 5050 with Goshtasp if he could solve the task Eidi is money given to children for Noruz by their parents andor relativesGoshtasp needs to solve this problem to get money you need to solve it to get score

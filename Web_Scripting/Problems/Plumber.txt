@@ -1,0 +1,9 @@
+Plumber                    
+
+httpscodeforcescomproblemsetproblem115C
+
+math
+
+2200
+
+Little John aspires to become a plumber Today he has drawn a grid consisting of n rows and m columns consisting of nm square cellsIn each cell he will draw a pipe segment He can only draw four types of segments numbered from 1 to 4 illustrated as follows  Each pipe segment has two ends illustrated by the arrows in the picture above For example segment 1 has ends at top and left side of itLittle John considers the piping system to be leaking if there is at least one pipe segment inside the grid whose end is not connected to another pipes end or to the border of the grid The image below shows an example of leaking and nonleaking systems of size 12  Now you will be given the grid that has been partially filled by Little John Each cell will either contain one of the four segments above or be empty Find the number of possible different nonleaking final systems after Little John finishes filling all of the empty cells with pipe segments Print this number modulo 1000003 1063Note that rotations or flipping of the grid are not allowed and so two configurations that are identical only when one of them has been rotated or flipped either horizontally or vertically are considered two different configurations

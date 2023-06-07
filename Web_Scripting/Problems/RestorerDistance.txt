@@ -1,0 +1,9 @@
+Restorer Distance                    
+
+https://codeforces.com/problemset/problem/1355/E
+
+binary search
+
+2100
+
+You have to restore the wall. The wall consists of N pillars of bricks, the height of the i-th pillar is initially equal to h_{i}, the height is measured in number of bricks. After the restoration all the N pillars should have equal heights.You are allowed the following operations: put a brick on top of one pillar, the cost of this operation is A; remove a brick from the top of one non-empty pillar, the cost of this operation is R; move a brick from the top of one non-empty pillar to the top of another pillar, the cost of this operation is M.You cannot create additional pillars or ignore some of pre-existing pillars even if their height becomes 0.What is the minimal total cost of restoration, in other words, what is the minimal total cost to make all the pillars of equal height?

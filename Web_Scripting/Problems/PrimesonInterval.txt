@@ -1,0 +1,9 @@
+Primes on Interval                    
+
+httpscodeforcescomproblemsetproblem237C
+
+binary search
+
+1600
+
+Youve decided to carry out a survey in the theory of prime numbers Let us remind you that a prime number is a positive integer that has exactly two distinct positive integer divisorsConsider positive integers a a1  b ab You want to find the minimum integer l 1lba1 such that for any integer x axbl1 among l integers x x1  xl1 there are at least k prime numbers Find and print the required minimum l If no value l meets the described limitations print 1

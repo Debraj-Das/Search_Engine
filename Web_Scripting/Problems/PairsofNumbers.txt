@@ -1,0 +1,9 @@
+Pairs of Numbers                    
+
+httpscodeforcescomproblemsetproblem134B
+
+brute force
+
+1900
+
+Lets assume that we have a pair of numbers ab We can get a new pair abb or aab from the given pair in a single stepLet the initial pair of numbers be 11 Your task is to find number k that is the least number of steps needed to transform 11 into the pair where at least one number equals n

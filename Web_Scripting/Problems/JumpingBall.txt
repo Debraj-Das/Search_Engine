@@ -1,0 +1,9 @@
+Jumping Ball                    
+
+httpscodeforcescomproblemsetproblem725A
+
+implementation
+
+1000
+
+In a new version of the famous Pinball game one of the most important parts of the game field is a sequence of n bumpers The bumpers are numbered with integers from 1 to n from left to right There are two types of bumpers They are denoted by the characters  and  When the ball hits the bumper at position i it goes one position to the right to the position i1 if the type of this bumper is  or one position to the left to i1 if the type of the bumper at position i is  If there is no such position in other words if i11 or i1n the ball falls from the game fieldDepending on the balls starting position the ball may eventually fall from the game field or it may stay there forever You are given a string representing the bumpers types Calculate the number of positions such that the ball will eventually fall from the game field if it starts at that position

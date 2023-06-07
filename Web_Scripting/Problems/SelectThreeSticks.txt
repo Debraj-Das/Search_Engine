@@ -1,0 +1,9 @@
+Select Three Sticks                    
+
+https://codeforces.com/problemset/problem/1734/A
+
+brute force
+
+800
+
+You are given n sticks with positive integral length a_1, a_2, \ldots, a_n.You can perform the following operation any number of times (possibly zero):   choose one stick, then either increase or decrease its length by 1. After each operation, all sticks should have positive lengths. What is the minimum number of operations that you have to perform such that it is possible to select three of the n sticks and use them without breaking to form an equilateral triangle?An equilateral triangle is a triangle where all of its three sides have the same length.

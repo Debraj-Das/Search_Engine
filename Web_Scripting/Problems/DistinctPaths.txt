@@ -1,0 +1,9 @@
+Distinct Paths                    
+
+httpscodeforcescomproblemsetproblem293B
+
+brute force
+
+2700
+
+You have a rectangular nmcell board Some cells are already painted some of k colors You need to paint each uncolored cell one of the k colors so that any path from the upper left square to the lower right one doesnt contain any two cells of the same color The path can go only along sideadjacent cells and can only go down or rightPrint the number of possible paintings modulo 1000000007 1097

@@ -1,0 +1,9 @@
+Ela and Crickets                    
+
+https://codeforces.com/problemset/problem/1737/C
+
+constructive algorithms
+
+1500
+
+Ela likes Chess a lot. During breaks, she usually challenges her co-worker in DTL to some chess games. She's not an expert at classic chess, but she's very interested in Chess variants, where she has to adapt to new rules and test her tactical mindset to win the game.The problem, which involves a non-standard chess pieces type that is described below, reads: given 3 white crickets on a n \cdot n board, arranged in an "L" shape next to each other, there are no other pieces on the board. Ela wants to know with a finite number of moves, can she put any white cricket on the square on row x, column y?An "L"-shape piece arrangement can only be one of the below:    For simplicity, we describe the rules for crickets on the board where only three white crickets are. It can move horizontally, vertically, or diagonally, but only to a square in some direction that is immediately after another cricket piece (so that it must jump over it). If the square immediately behind the piece is unoccupied, the cricket will occupy the square. Otherwise (when the square is occupied by another cricket, or does not exist), the cricket isn't allowed to make such a move.See an example of valid crickets' moves on the pictures in the Note section.

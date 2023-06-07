@@ -1,0 +1,9 @@
+Wet Shark and Odd and Even                    
+
+https://codeforces.com/problemset/problem/621/A
+
+implementation
+
+900
+
+Today, Wet Shark is given n integers. Using any of these integers no more than once, Wet Shark wants to get maximum possible even (divisible by 2) sum. Please, calculate this value for Wet Shark. Note, that if Wet Shark uses no integers from the n integers, the sum is an even integer 0.

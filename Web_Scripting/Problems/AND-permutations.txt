@@ -1,0 +1,9 @@
+ANDpermutations                    
+
+httpscodeforcescomproblemsetproblem909F
+
+constructive algorithms
+
+2500
+
+Given an integer N find two permutations  Permutation p of numbers from 1 to N such that pii and pii0 for all i12N  Permutation q of numbers from 1 to N such that qii and qii0 for all i12N  is the bitwise AND operation

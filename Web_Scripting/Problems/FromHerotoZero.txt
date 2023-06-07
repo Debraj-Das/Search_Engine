@@ -1,0 +1,9 @@
+From Hero to Zero                    
+
+https://codeforces.com/problemset/problem/1175/A
+
+implementation
+
+900
+
+You are given an integer n and an integer k.In one step you can do one of the following moves:   decrease n by 1;  divide n by k if n is divisible by k. For example, if n = 27 and k = 3 you can do the following steps: 27 \rightarrow 26 \rightarrow 25 \rightarrow 24 \rightarrow 8 \rightarrow 7 \rightarrow 6 \rightarrow 2 \rightarrow 1 \rightarrow 0.You are asked to calculate the minimum number of steps to reach 0 from n. 

@@ -1,0 +1,9 @@
+Finding lines                    
+
+httpscodeforcescomproblemsetproblem788D
+
+constructive algorithms
+
+3000
+
+After some programming contest Roma decided to try himself in tourism His home country Uzhlyandia is a Cartesian plane He wants to walk along each of the Main Straight Lines in Uzhlyandia It is known that each of these lines is a straight line parallel to one of the axes ie it is described with the equation xa or ya where a is integer called the coordinate of this lineRoma lost his own map so he should find out the coordinates of all lines at first Uncle Anton agreed to help him using the following rules   Initially Roma doesnt know the number of vertical and horizontal lines and their coordinates  Roma can announce integer coordinates of some point in Uzhlandia and Anton then will tell him the minimum among the distances from the chosen point to each of the lines However since the coordinates of the lines dont exceed 108 by absolute value Roma cant choose a point with coordinates exceeding 108 by absolute value Uncle Anton is in a hurry to the UOI Uzhlandian Olympiad in Informatics so he can only answer no more than 3105 questionsThe problem is that Roma doesnt know how to find out the coordinates of the lines Write a program that plays Romas role and finds the coordinates

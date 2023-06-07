@@ -1,0 +1,9 @@
+Kazaee                    
+
+https://codeforces.com/problemset/problem/1746/F
+
+data structures
+
+2800
+
+You have an array a consisting of n positive integers and you have to handle q queries of the following types:  1 i x: change a_{i} to x,  2 l r k: check if the number of occurrences of every positive integer in the subarray a_{l}, a_{l+1}, \ldots a_{r} is a multiple of k (check the example for better understanding). 

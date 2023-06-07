@@ -1,0 +1,9 @@
+Less or Equal                    
+
+https://codeforces.com/problemset/problem/977/C
+
+sortings
+
+1200
+
+You are given a sequence of integers of length n and integer number k. You should print any integer number x in the range of [1; 10^9] (i.e. 1 \le x \le 10^9) such that exactly k elements of given sequence are less than or equal to x.Note that the sequence can contain equal elements.If there is no such x, print "-1" (without quotes).

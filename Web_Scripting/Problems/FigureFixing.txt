@@ -1,0 +1,9 @@
+Figure Fixing                    
+
+https://codeforces.com/problemset/problem/1537/F
+
+constructive algorithms
+
+2200
+
+You have a connected undirected graph made of n nodes and m edges. The i-th node has a value v_i and a target value t_i.In an operation, you can choose an edge (i, j) and add k to both v_i and v_j, where k can be any integer. In particular, k can be negative.Your task to determine if it is possible that by doing some finite number of operations (possibly zero), you can achieve for every node i, v_i = t_i.

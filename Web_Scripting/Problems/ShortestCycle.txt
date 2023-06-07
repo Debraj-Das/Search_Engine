@@ -1,0 +1,9 @@
+Shortest Cycle                    
+
+https://codeforces.com/problemset/problem/1205/B
+
+bitmasks
+
+1900
+
+You are given n integer numbers a_1, a_2, \dots, a_n. Consider graph on n nodes, in which nodes i, j (i\neq j) are connected if and only if, a_i AND a_j\neq 0, where AND denotes the bitwise AND operation.Find the length of the shortest cycle in this graph or determine that it doesn't have cycles at all.

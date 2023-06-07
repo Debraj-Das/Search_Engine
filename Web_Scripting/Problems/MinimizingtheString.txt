@@ -1,0 +1,9 @@
+Minimizing the String                    
+
+https://codeforces.com/problemset/problem/1076/A
+
+greedy
+
+1200
+
+You are given a string s consisting of n lowercase Latin letters.You have to remove at most one (i.e. zero or one) character of this string in such a way that the string you obtain will be lexicographically smallest among all strings that can be obtained using this operation.String s = s_1 s_2 \dots s_n is lexicographically smaller than string t = t_1 t_2 \dots t_m if n < m and s_1 = t_1, s_2 = t_2, \dots, s_n = t_n or there exists a number p such that p \le min(n, m) and s_1 = t_1, s_2 = t_2, \dots, s_{p-1} = t_{p-1} and s_p < t_p.For example, "aaa" is smaller than "aaaa", "abb" is smaller than "abc", "pqr" is smaller than "z".

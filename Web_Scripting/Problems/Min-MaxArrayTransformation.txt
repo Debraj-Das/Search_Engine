@@ -1,0 +1,9 @@
+Min-Max Array Transformation                    
+
+https://codeforces.com/problemset/problem/1721/C
+
+binary search
+
+1400
+
+You are given an array a_1, a_2, \dots, a_n, which is sorted in non-descending order. You decided to perform the following steps to create array b_1, b_2, \dots, b_n:   Create an array d consisting of n arbitrary non-negative integers.  Set b_i = a_i + d_i for each b_i.  Sort the array b in non-descending order. You are given the resulting array b. For each index i, calculate what is the minimum and maximum possible value of d_i you can choose in order to get the given array b.Note that the minimum (maximum) d_i-s are independent of each other, i. e. they can be obtained from different possible arrays d.

@@ -1,0 +1,9 @@
+Alyona and mex                    
+
+httpscodeforcescomproblemsetproblem739A
+
+constructive algorithms
+
+1700
+
+Alyonas mother wants to present an array of n nonnegative integers to Alyona The array should be special Alyona is a capricious girl so after she gets the array she inspects m of its subarrays Subarray is a set of some subsequent elements of the array The ith subarray is described with two integers li and ri and its elements are aliali1ariAlyona is going to find mex for each of the chosen subarrays Among these m mexes the girl is going to find the smallest She wants this minimum mex to be as large as possible You are to find an array a of n elements so that the minimum mex among those chosen by Alyona subarrays is as large as possibleThe mex of a set S is a minimum possible nonnegative integer that is not in S

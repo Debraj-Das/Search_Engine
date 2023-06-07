@@ -1,0 +1,9 @@
+Memory and Casinos                    
+
+httpscodeforcescomproblemsetproblem712E
+
+data structures
+
+2500
+
+There are n casinos lined in a row If Memory plays at casino i he has probability pi to win and move to the casino on the right i1 or exit the row if in and a probability 1pi to lose and move to the casino on the left i1 or also exit the row if i1 We say that Memory dominates on the interval i j if he completes a walk such that  He starts on casino i  He never looses in casino i  He finishes his walk by winning in casino j Note that Memory can still walk left of the 1st casino and right of the casino n and that always finishes the processNow Memory has some requests in one of the following forms  1 i a b Set   2 l r Print the probability that Memory will dominate on the interval l r ie compute the probability that Memory will first leave the segment l r after winning at casino r if she starts in casino l It is guaranteed that at any moment of time p is a nondecreasing sequence ie pipi1 for all i from 1 to n1Please help Memory by answering all his requests

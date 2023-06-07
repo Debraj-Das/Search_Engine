@@ -1,0 +1,9 @@
+Regular Bridge                    
+
+https://codeforces.com/problemset/problem/550/D
+
+constructive algorithms
+
+1900
+
+An undirected graph is called k-regular, if the degrees of all its vertices are equal k. An edge of a connected graph is called a bridge, if after removing it the graph is being split into two connected components.Build a connected undirected k-regular graph containing at least one bridge, or else state that such graph doesn't exist.

@@ -1,0 +1,9 @@
+Bear and Forgotten Tree 2                    
+
+httpscodeforcescomproblemsetproblem653E
+
+dfs and similar
+
+2400
+
+A tree is a connected undirected graph consisting of n vertices and n1 edges Vertices are numbered 1 through nLimak is a little polar bear He once had a tree with n vertices but he lost it He still remembers something about the lost tree thoughYou are given m pairs of vertices a1b1a2b2ambm Limak remembers that for each i there was no edge between ai and bi He also remembers that vertex 1 was incident to exactly k edges its degree was equal to kIs it possible that Limak remembers everything correctly Check whether there exists a tree satisfying the given conditions

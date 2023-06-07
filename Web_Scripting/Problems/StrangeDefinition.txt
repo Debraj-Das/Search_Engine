@@ -1,0 +1,9 @@
+Strange Definition                    
+
+https://codeforces.com/problemset/problem/1470/B
+
+bitmasks
+
+1900
+
+Let us call two integers x and y adjacent if \frac{lcm(x, y)}{gcd(x, y)} is a perfect square. For example, 3 and 12 are adjacent, but 6 and 9 are not.Here gcd(x, y) denotes the greatest common divisor (GCD) of integers x and y, and lcm(x, y) denotes the least common multiple (LCM) of integers x and y.You are given an array a of length n. Each second the following happens: each element a_i of the array is replaced by the product of all elements of the array (including itself), that are adjacent to the current value. Let d_i be the number of adjacent elements to a_i (including a_i itself). The beauty of the array is defined as \max_{1 \le i \le n} d_i. You are given q queries: each query is described by an integer w, and you have to output the beauty of the array after w seconds.

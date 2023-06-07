@@ -1,0 +1,9 @@
+Case of Matryoshkas                    
+
+httpscodeforcescomproblemsetproblem555A
+
+implementation
+
+1500
+
+Andrewid the Android is a galaxyfamous detective He is now investigating the case of vandalism at the exhibition of contemporary artThe main exhibit is a construction of n matryoshka dolls that can be nested one into another The matryoshka dolls are numbered from 1 to n A matryoshka with a smaller number can be nested in a matryoshka with a higher number two matryoshkas can not be directly nested in the same doll but there may be chain nestings for example 1245 In one second you can perform one of the two following operations  Having a matryoshka a that isnt nested in any other matryoshka and a matryoshka b such that b doesnt contain any other matryoshka and is not nested in any other matryoshka you may put a in b  Having a matryoshka a directly contained in matryoshka b such that b is not nested in any other matryoshka you may get a out of b According to the modern aesthetic norms the matryoshka dolls on display were assembled in a specific configuration ie as several separate chains of nested matryoshkas but the criminal following the mysterious plan took out all the dolls and assembled them into a single large chain 12n In order to continue the investigation Andrewid needs to know in what minimum time it is possible to perform this action

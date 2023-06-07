@@ -1,0 +1,9 @@
+Random Query                    
+
+httpscodeforcescomproblemsetproblem846F
+
+data structures
+
+1800
+
+You are given an array a consisting of n positive integers You pick two integer numbers l and r from 1 to n inclusive numbers are picked randomly equiprobably and independently If lr then you swap values of l and r You have to calculate the expected value of the number of unique elements in segment of the array from index l to index r inclusive 1indexed

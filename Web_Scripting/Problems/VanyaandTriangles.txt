@@ -1,0 +1,9 @@
+Vanya and Triangles                    
+
+https://codeforces.com/problemset/problem/552/D
+
+brute force
+
+1900
+
+Vanya got bored and he painted n distinct points on the plane. After that he connected all the points pairwise and saw that as a result many triangles were formed with vertices in the painted points. He asks you to count the number of the formed triangles with the non-zero area.

@@ -1,0 +1,9 @@
+Sort Zero                    
+
+https://codeforces.com/problemset/problem/1712/C
+
+greedy
+
+1100
+
+An array is sorted if it has no inversionsA Young BoyYou are given an array of n positive integers a_1,a_2,\ldots,a_n. In one operation you do the following:   Choose any integer x.  For all i such that a_i = x, do a_i := 0 (assign 0 to a_i). Find the minimum number of operations required to sort the array in non-decreasing order.

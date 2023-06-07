@@ -1,0 +1,9 @@
+Destroy the Colony                    
+
+https://codeforces.com/problemset/problem/1111/D
+
+combinatorics
+
+2600
+
+There is a colony of villains with several holes aligned in a row, where each hole contains exactly one villain.Each colony arrangement can be expressed as a string of even length, where the i-th character of the string represents the type of villain in the i-th hole. Iron Man can destroy a colony only if the colony arrangement is such that all villains of a certain type either live in the first half of the colony or in the second half of the colony.His assistant Jarvis has a special power. It can swap villains of any two holes, i.e. swap any two characters in the string; he can do this operation any number of times.Now Iron Man asks Jarvis q questions. In each question, he gives Jarvis two numbers x and y. Jarvis has to tell Iron Man the number of distinct colony arrangements he can create from the original one using his powers such that all villains having the same type as those originally living in x-th hole or y-th hole live in the same half and the Iron Man can destroy that colony arrangement.Two colony arrangements are considered to be different if there exists a hole such that different types of villains are present in that hole in the arrangements.

@@ -1,0 +1,9 @@
+PolandBall and WhiteRed graph                    
+
+httpscodeforcescomproblemsetproblem755E
+
+constructive algorithms
+
+2400
+
+PolandBall has an undirected simple graph consisting of n vertices Unfortunately it has no edges The graph is very sad because of that PolandBall wanted to make it happier adding some red edges Then he will add white edges in every remaining place Therefore the final graph will be a clique in two colors white and red Colorfulness of the graph is a value mindrdw where dr is the diameter of the red subgraph and dw is the diameter of white subgraph The diameter of a graph is a largest value d such that shortest path between some pair of vertices in it is equal to d If the graph is not connected we consider its diameter to be 1PolandBall wants the final graph to be as neat as possible He wants the final colorfulness to be equal to k Can you help him and find any graph which satisfies PolandBalls requests

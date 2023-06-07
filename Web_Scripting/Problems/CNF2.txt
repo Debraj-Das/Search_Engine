@@ -1,0 +1,9 @@
+CNF 2                    
+
+httpscodeforcescomproblemsetproblem571C
+
+constructive algorithms
+
+2500
+
+In Boolean logic a formula is in conjunctive normal form CNF or clausal normal form if it is a conjunction of clauses where a clause is a disjunction of literals cited from httpsenwikipediaorgwikiConjunctivenormalformIn the other words CNF is a formula of type  where  represents a logical AND conjunction  represents a logical OR disjunction and vij are some boolean variables or their negations Each statement in brackets is called a clause and vij are called literalsYou are given a CNF containing variables x1xm and their negations We know that each variable occurs in at most two clauses with negation and without negation in total Your task is to determine whether this CNF is satisfiable that is whether there are such values of variables where the CNF value is true If CNF is satisfiable then you also need to determine the values of the variables at which the CNF is true It is guaranteed that each variable occurs at most once in each clause

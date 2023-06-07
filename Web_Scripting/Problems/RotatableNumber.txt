@@ -1,0 +1,9 @@
+Rotatable Number                    
+
+httpscodeforcescomproblemsetproblem303D
+
+math
+
+2600
+
+Bike is a smart boy who loves math very much He invented a number called Rotatable Number inspired by 142857 As you can see 142857 is a magic number because any of its rotatings can be got by multiplying that number by 126 numbers from one to numbers length Rotating a number means putting its last several digit into first For example by rotating number 12345 you can obtain any numbers 1234551234451233451223451 Its worth mentioning that leadingzeroes are allowed So both 4500123 and 0123450 can be obtained by rotating 0012345 You can see why 142857 satisfies the condition All of the 6 equations are under base 10  1428571142857  1428572285714  1428573428571  1428574571428  1428575714285  1428576857142 Now Bike has a problem He extends Rotatable Number under any base b As is mentioned above 142857 is a Rotatable Number under base 10 Another example is 0011 under base 2 All of the 4 equations are under base 2  001110011  0011100110  0011111001  00111001100 So he wants to find the largest b 1bx so that there is a positive Rotatable Number leadingzeroes allowed of length n under base bNote that any time you multiply a rotatable number by numbers from 1 to its length you should get a rotating of that number

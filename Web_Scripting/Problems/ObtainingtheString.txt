@@ -1,0 +1,9 @@
+Obtaining the String                    
+
+https://codeforces.com/problemset/problem/1015/B
+
+implementation
+
+1200
+
+You are given two strings s and t. Both strings have length n and consist of lowercase Latin letters. The characters in the strings are numbered from 1 to n.You can successively perform the following move any number of times (possibly, zero):  swap any two adjacent (neighboring) characters of s (i.e. for any i = \{1, 2, \dots, n - 1\} you can swap s_i and s_{i + 1}). You can't apply a move to the string t. The moves are applied to the string s one after another.Your task is to obtain the string t from the string s. Find any way to do it with at most 10^4 such moves.You do not have to minimize the number of moves, just find any sequence of moves of length 10^4 or less to transform s into t.

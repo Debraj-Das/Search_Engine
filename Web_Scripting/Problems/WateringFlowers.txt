@@ -1,0 +1,9 @@
+Watering Flowers                    
+
+httpscodeforcescomproblemsetproblem617C
+
+implementation
+
+1600
+
+A flowerbed has many flowers and two fountainsYou can adjust the water pressure and set any values r1r10 and r2r20 giving the distances at which the water is spread from the first and second fountain respectively You have to set such r1 and r2 that all the flowers are watered that is for each flower the distance between the flower and the first fountain doesnt exceed r1 or the distance to the second fountain doesnt exceed r2 Its OK if some flowers are watered by both fountainsYou need to decrease the amount of water you need that is set such r1 and r2 that all the flowers are watered and the r12r22 is minimum possible Find this minimum value

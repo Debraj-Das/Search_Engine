@@ -1,0 +1,9 @@
+Tokitsukaze and Two Colorful Tapes                    
+
+https://codeforces.com/problemset/problem/1677/C
+
+constructive algorithms
+
+1900
+
+Tokitsukaze has two colorful tapes. There are n distinct colors, numbered 1 through n, and each color appears exactly once on each of the two tapes. Denote the color of the i-th position of the first tape as ca_i, and the color of the i-th position of the second tape as cb_i.Now Tokitsukaze wants to select each color an integer value from 1 to n, distinct for all the colors. After that she will put down the color values in each colored position on the tapes. Denote the number of the i-th position of the first tape as numa_i, and the number of the i-th position of the second tape as numb_i.  For example, for the above picture, assuming that the color red has value x (1 \leq x \leq n), it appears at the 1-st position of the first tape and the 3-rd position of the second tape, so numa_1=numb_3=x.Note that each color i from 1 to n should have a distinct value, and the same color which appears in both tapes has the same value. After labeling each color, the beauty of the two tapes is calculated as \sum_{i=1}^{n}|numa_i-numb_i|.Please help Tokitsukaze to find the highest possible beauty. 

@@ -1,0 +1,9 @@
+Insert a Progression                    
+
+https://codeforces.com/problemset/problem/1671/D
+
+brute force
+
+1600
+
+You are given a sequence of n integers a_1, a_2, \dots, a_n. You are also given x integers 1, 2, \dots, x.You are asked to insert each of the extra integers into the sequence a. Each integer can be inserted at the beginning of the sequence, at the end of the sequence, or between any elements of the sequence.The score of the resulting sequence a' is the sum of absolute differences of adjacent elements in it \left(\sum \limits_{i=1}^{n+x-1} |a'_i - a'_{i+1}|\right).What is the smallest possible score of the resulting sequence a'?

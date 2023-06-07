@@ -1,0 +1,9 @@
+Build String                    
+
+httpscodeforcescomproblemsetproblem237E
+
+flows
+
+2000
+
+You desperately need to build some string t For that youve got n more strings s1s2sn To build string t you are allowed to perform exactly t t is the length of string t operations on these strings Each operation looks like that  choose any nonempty string from strings s1s2sn  choose an arbitrary character from the chosen string and write it on a piece of paper  remove the chosen character from the chosen string Note that after you perform the described operation the total number of characters in strings s1s2sn decreases by 1 We are assumed to build string t if the characters written on the piece of paper in the order of performed operations form string tThere are other limitations though For each string si you know number ai  the maximum number of characters you are allowed to delete from string si You also know that each operation that results in deleting a character from string si costs i rubles That is an operation on string s1 is the cheapest it costs 1 ruble and the operation on string sn is the most expensive one it costs n rublesYour task is to count the minimum amount of money in rubles you will need to build string t by the given rules Consider the cost of building string t to be the sum of prices of the operations you use

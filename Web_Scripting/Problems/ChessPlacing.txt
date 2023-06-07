@@ -1,0 +1,9 @@
+Chess Placing                    
+
+httpscodeforcescomproblemsetproblem985A
+
+implementation
+
+1100
+
+You are given a chessboard of size 1n It is guaranteed that n is even The chessboard is painted like this BWBWBWSome cells of the board are occupied by the chess pieces Each cell contains no more than one chess piece It is known that the total number of pieces equals to In one step you can move one of the pieces one cell to the left or to the right You cannot move pieces beyond the borders of the board You also cannot move pieces to the cells that are already occupiedYour task is to place all the pieces in the cells of the same color using the minimum number of moves all the pieces must occupy only the black cells or only the white cells after all the moves are made

@@ -1,0 +1,9 @@
+Music                    
+
+httpscodeforcescomproblemsetproblem569A
+
+implementation
+
+1500
+
+Little Lesha loves listening to music via his smartphone But the smartphone doesnt have much memory so Lesha listens to his favorite songs in a wellknown social network InTalkUnfortunately internet is not that fast in the city of Ekaterinozavodsk and the song takes a lot of time to download But Lesha is quite impatient The songs duration is T seconds Lesha downloads the first S seconds of the song and plays it When the playback reaches the point that has not yet been downloaded Lesha immediately plays the song from the start the loaded part of the song stays in his phone and the download is continued from the same place and it happens until the song is downloaded completely and Lesha listens to it to the end For q seconds of real time the Internet allows you to download q1 seconds of the trackTell Lesha for how many times he will start the song including the very first start

@@ -1,0 +1,9 @@
+Brackets in Implications                    
+
+https://codeforces.com/problemset/problem/550/E
+
+constructive algorithms
+
+2200
+
+Implication is a function of two logical arguments, its value is false if and only if the value of the first argument is true and the value of the second argument is false. Implication is written by using character '', and the arguments and the result of the implication are written as '0' (false) and '1' (true). According to the definition of the implication:   When a logical expression contains multiple implications, then when there are no brackets, it will be calculated from left to fight. For example,. When there are brackets, we first calculate the expression in brackets. For example,.For the given logical expression  determine if it is possible to place there brackets so that the value of a logical expression is false. If it is possible, your task is to find such an arrangement of brackets.

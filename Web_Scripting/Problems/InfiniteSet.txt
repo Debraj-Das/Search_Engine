@@ -1,0 +1,9 @@
+Infinite Set                    
+
+https://codeforces.com/problemset/problem/1635/D
+
+bitmasks
+
+1800
+
+You are given an array a consisting of n distinct positive integers.Let's consider an infinite integer set S which contains all integers x that satisfy at least one of the following conditions: x = a_i for some 1 \leq i \leq n. x = 2y + 1 and y is in S. x = 4y and y is in S.For example, if a = [1,2] then the 10 smallest elements in S will be \{1,2,3,4,5,7,8,9,11,12\}.Find the number of elements in S that are strictly smaller than 2^p. Since this number may be too large, print it modulo 10^9 + 7.

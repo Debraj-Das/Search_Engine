@@ -1,0 +1,9 @@
+Equalize the Array                    
+
+https://codeforces.com/problemset/problem/1490/F
+
+binary search
+
+1500
+
+Polycarp was gifted an array a of length n. Polycarp considers an array beautiful if there exists a number C, such that each number in the array occurs either zero or C times. Polycarp wants to remove some elements from the array a to make it beautiful.For example, if n=6 and a = [1, 3, 2, 1, 4, 2], then the following options are possible to make the array a array beautiful:   Polycarp removes elements at positions 2 and 5, array a becomes equal to [1, 2, 1, 2];  Polycarp removes elements at positions 1 and 6, array a becomes equal to [3, 2, 1, 4];  Polycarp removes elements at positions 1, 2 and 6, array a becomes equal to [2, 1, 4]; Help Polycarp determine the minimum number of elements to remove from the array a to make it beautiful.

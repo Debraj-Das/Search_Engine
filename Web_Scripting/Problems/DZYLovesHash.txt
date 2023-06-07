@@ -1,0 +1,9 @@
+DZY Loves Hash                    
+
+httpscodeforcescomproblemsetproblem447A
+
+implementation
+
+800
+
+DZY has a hash table with p buckets numbered from 0 to p1 He wants to insert n numbers in the order they are given into the hash table For the ith number xi DZY will put it into the bucket numbered hxi where hx is the hash function In this problem we will assume that hxxmodp Operation amodb denotes taking a remainder after division a by bHowever each bucket can contain no more than one element If DZY wants to insert an number into a bucket which is already filled we say a conflict happens Suppose the first conflict happens right after the ith insertion you should output i If no conflict happens just output 1

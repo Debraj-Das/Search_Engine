@@ -1,0 +1,9 @@
+Queries for Number of Palindromes                    
+
+httpscodeforcescomproblemsetproblem245H
+
+dp
+
+1800
+
+Youve got a string ss1s2 ss of length s consisting of lowercase English letters There also are q queries each query is described by two integers liri 1liris The answer to the query is the number of substrings of string sli ri which are palindromesString sl rslsl1 sr 1lrs is a substring of string ss1s2 ssString t is called a palindrome if it reads the same from left to right and from right to left Formally if tt1t2 tttttt1 t1

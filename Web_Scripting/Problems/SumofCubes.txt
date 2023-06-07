@@ -1,0 +1,9 @@
+Sum of Cubes                    
+
+https://codeforces.com/problemset/problem/1490/C
+
+binary search
+
+1100
+
+You are given a positive integer x. Check whether the number x is representable as the sum of the cubes of two positive integers.Formally, you need to check if there are two integers a and b (1 \le a, b) such that a^3+b^3=x.For example, if x = 35, then the numbers a=2 and b=3 are suitable (2^3+3^3=8+27=35). If x=4, then no pair of numbers a and b is suitable.

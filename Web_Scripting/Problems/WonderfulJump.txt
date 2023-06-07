@@ -1,0 +1,9 @@
+Wonderful Jump                    
+
+https://codeforces.com/problemset/problem/1768/F
+
+dp
+
+2900
+
+You are given an array of positive integers a_1,a_2,\ldots,a_n of length n. In one operation you can jump from index i to index j (1 \le i \le j \le n) by paying \min(a_i, a_{i + 1}, \ldots, a_j) \cdot (j - i)^2 eris.For all k from 1 to n, find the minimum number of eris needed to get from index 1 to index k.

@@ -1,0 +1,9 @@
+Infinite Path                    
+
+https://codeforces.com/problemset/problem/1327/D
+
+brute force
+
+2200
+
+You are given a colored permutation p_1, p_2, \dots, p_n. The i-th element of the permutation has color c_i.Let's define an infinite path as infinite sequence i, p[i], p[p[i]], p[p[p[i]]] \dots where all elements have same color (c[i] = c[p[i]] = c[p[p[i]]] = \dots).We can also define a multiplication of permutations a and b as permutation c = a \times b where c[i] = b[a[i]]. Moreover, we can define a power k of permutation p as p^k=\underbrace{p \times p \times \dots \times p}_{k \text{ times}}.Find the minimum k > 0 such that p^k has at least one infinite path (i.e. there is a position i in p^k such that the sequence starting from i is an infinite path).It can be proved that the answer always exists.

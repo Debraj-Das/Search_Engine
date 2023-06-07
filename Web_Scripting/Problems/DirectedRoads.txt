@@ -1,0 +1,9 @@
+Directed Roads                    
+
+httpscodeforcescomproblemsetproblem711D
+
+combinatorics
+
+1900
+
+ZS the Coder and Chris the Baboon has explored Udayland for quite some time They realize that it consists of n towns numbered from 1 to n There are n directed roads in the Udayland ith of them goes from town i to some other town ai aii ZS the Coder can flip the direction of any road in Udayland ie if it goes from town A to town B before the flip it will go from town B to town A afterZS the Coder considers the roads in the Udayland confusing if there is a sequence of distinct towns A1A2Ak k1 such that for every 1ik there is a road from town Ai to town Ai1 and another road from town Ak to town A1 In other words the roads are confusing if some of them form a directed cycle of some townsNow ZS the Coder wonders how many sets of roads there are 2n variants in initial configuration can he choose to flip such that after flipping each road in the set exactly once the resulting network will not be confusingNote that it is allowed that after the flipping there are more than one directed road from some town and possibly some towns with no roads leading out of it or multiple roads between any pair of cities

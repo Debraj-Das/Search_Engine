@@ -1,0 +1,9 @@
+Thief in a Shop                    
+
+https://codeforces.com/problemset/problem/632/E
+
+divide and conquer
+
+2400
+
+A thief made his way to a shop.As usual he has his lucky knapsack with him. The knapsack can contain k objects. There are n kinds of products in the shop and an infinite number of products of each kind. The cost of one product of kind i is ai.The thief is greedy, so he will take exactly k products (it's possible for some kinds to take several products of that kind).Find all the possible total costs of products the thief can nick into his knapsack.

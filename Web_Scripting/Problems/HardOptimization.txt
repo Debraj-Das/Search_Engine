@@ -1,0 +1,9 @@
+Hard Optimization                    
+
+https://codeforces.com/problemset/problem/1510/H
+
+dp
+
+3200
+
+You are given a set of n segments on a line [L_i; R_i]. All 2n segment endpoints are pairwise distinct integers.The set is laminar — any two segments are either disjoint or one of them contains the other.Choose a non-empty subsegment [l_i, r_i] with integer endpoints in each segment (L_i \le l_i < r_i \le R_i) in such a way that no two subsegments intersect (they are allowed to have common endpoints though) and the sum of their lengths (\sum_{i=1}^n r_i - l_i) is maximized.

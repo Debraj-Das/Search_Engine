@@ -1,0 +1,9 @@
+Nezzar and Board                    
+
+https://codeforces.com/problemset/problem/1477/A
+
+constructive algorithms
+
+1800
+
+n distinct integers x_1,x_2,\ldots,x_n are written on the board. Nezzar can perform the following operation multiple times.  Select two integers x,y (not necessarily distinct) on the board, and write down 2x-y. Note that you don't remove selected numbers. Now, Nezzar wonders if it is possible to have his favorite number k on the board after applying above operation multiple times.

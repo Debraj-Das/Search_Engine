@@ -1,0 +1,9 @@
+Foe Pairs                    
+
+httpscodeforcescomproblemsetproblem652C
+
+combinatorics
+
+1800
+
+You are given a permutation p of length n Also you are given m foe pairs aibi 1aibinaibi Your task is to count the number of different intervals xy 1xyn that do not contain any foe pairs So you shouldnt count intervals xy that contain at least one foe pair in it the positions and order of the values from the foe pair are not importantConsider some example p1324 and foe pairs are 3242 The interval 13 is incorrect because it contains a foe pair 32 The interval 14 is also incorrect because it contains two foe pairs 32 and 42 But the interval 12 is correct because it doesnt contain any foe pair

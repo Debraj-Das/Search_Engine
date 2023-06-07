@@ -1,0 +1,9 @@
+Vasya and Binary String                    
+
+https://codeforces.com/problemset/problem/1107/E
+
+dp
+
+2400
+
+Vasya has a string s of length n consisting only of digits 0 and 1. Also he has an array a of length n. Vasya performs the following operation until the string becomes empty: choose some consecutive substring of equal characters, erase it from the string and glue together the remaining parts (any of them can be empty). For example, if he erases substring 111 from string 111110 he will get the string 110. Vasya gets a_x points for erasing substring of length x.Vasya wants to maximize his total points, so help him with this! 

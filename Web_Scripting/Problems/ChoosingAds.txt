@@ -1,0 +1,9 @@
+Choosing Ads                    
+
+https://codeforces.com/problemset/problem/643/G
+
+data structures
+
+3200
+
+One social network developer recently suggested a new algorithm of choosing ads for users.There are n slots which advertisers can buy. It is possible to buy a segment of consecutive slots at once. The more slots you own, the bigger are the chances your ad will be shown to users.Every time it is needed to choose ads to show, some segment of slots is picked by a secret algorithm. Then some advertisers are chosen. The only restriction is that it should be guaranteed for advertisers which own at least p% of slots composing this segment that their ad will be shown.From the other side, users don't like ads. So it was decided to show no more than  ads at once. You are asked to develop a system to sell segments of slots and choose ads in accordance with the rules described above.

@@ -1,0 +1,9 @@
+The Maximum Prefix                    
+
+https://codeforces.com/problemset/problem/1810/G
+
+dp
+
+3200
+
+You're going to generate an array a with a length of at most n, where each a_{i} equals either 1 or -1.You generate this array in the following way.   First, you choose some integer k (1\le k \le n), which decides the length of a.  Then, for each i (1\le i \le k), you set a_{i} = 1 with probability p_{i}, otherwise set a_{i} = -1 (with probability 1 - p_{i}). After the array is generated, you calculate s_{i} = a_{1} + a_{2} + a_{3}+ \ldots + a_{i}. Specially, s_{0} = 0. Then you let S equal to \displaystyle \max_{i=0}^{k}{s_{i}}. That is, S is the maximum prefix sum of the array a.You are given n+1 integers h_{0} , h_{1}, \ldots ,h_{n}. The score of an array a with maximum prefix sum S is h_{S}. Now, for each k, you want to know the expected score for an array of length k modulo 10^9+7.

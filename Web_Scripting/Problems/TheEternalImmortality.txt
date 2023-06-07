@@ -1,0 +1,9 @@
+The Eternal Immortality                    
+
+httpscodeforcescomproblemsetproblem869B
+
+math
+
+1100
+
+Even if the world is full of counterfeits I still regard it as wonderfulPile up herbs and incense and arise again from the flames and ashes of its predecessor as is known to many the phoenix does it like thisThe phoenix has a rather long lifespan and reincarnates itself once every a years Here a denotes the factorial of integer a that is a12a Specifically 01Koyomi doesnt care much about this but before he gets into another mess with oddities he is interested in the number of times the phoenix will reincarnate in a timespan of b years that is  Note that when ba this value is always integerAs the answer can be quite large it would be enough for Koyomi just to know the last digit of the answer in decimal representation And youre here to provide Koyomi with this knowledge

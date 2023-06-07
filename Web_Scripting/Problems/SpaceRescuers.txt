@@ -1,0 +1,9 @@
+Space Rescuers                    
+
+httpscodeforcescomproblemsetproblem106E
+
+geometry
+
+2100
+
+The Galaxy contains n planets there are many different living creatures inhabiting each planet And each creature can get into troubles Space rescuers know it perfectly well and they are always ready to help anyone who really needs help All you need to do is call for them Now the space rescuers plan to build the largest in the history of the Galaxy rescue station however the rescue stations location is yet to be determined As some cases are real emergencies the rescuers want to find such a point in the Galaxy from which it would be possible to get to the remotest planet in the minimum possible time In other words the rescuers need such point in the space that the distance between it and the planet remotest from it was minimal if we compare this point with all other possible points in the space Unfortunately the rescuers cant sole this problemAs the planets are quite remote from each other they can be considered as points in Euclidean threedimensional space The distance between points xiyizi and xjyjzj can be calculated by the formula  The rescue station can be positioned in any point in the space It can also coincide with some planet Galaxy is in danger Save the space rescuers and find the required point for them

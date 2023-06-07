@@ -1,0 +1,9 @@
+Array Division                    
+
+https://codeforces.com/problemset/problem/808/D
+
+binary search
+
+1900
+
+Vasya has an array a consisting of positive integer numbers. Vasya wants to divide this array into two non-empty consecutive parts (the prefix and the suffix) so that the sum of all elements in the first part equals to the sum of elements in the second part. It is not always possible, so Vasya will move some element before dividing the array (Vasya will erase some element and insert it into an arbitrary position).Inserting an element in the same position he was erased from is also considered moving.Can Vasya divide the array after choosing the right element to move and its new position?

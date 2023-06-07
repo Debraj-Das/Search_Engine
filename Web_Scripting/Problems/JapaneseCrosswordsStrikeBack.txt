@@ -1,0 +1,9 @@
+Japanese Crosswords Strike Back                    
+
+httpscodeforcescomproblemsetproblem884B
+
+implementation
+
+1100
+
+A onedimensional Japanese crossword can be represented as a binary string of length x An encoding of this crossword is an array a of size n where n is the number of segments formed completely of 1s and ai is the length of ith segment No two segments touch or intersectFor example   If x6 and the crossword is 111011 then its encoding is an array 32  If x8 and the crossword is 01101010 then its encoding is an array 211  If x5 and the crossword is 11111 then its encoding is an array 5  If x5 and the crossword is 00000 then its encoding is an empty array Mishka wants to create a new onedimensional Japanese crossword He has already picked the length and the encoding for this crossword And now he needs to check if there is exactly one crossword such that its length and encoding are equal to the length and encoding he picked Help him to check it

@@ -1,0 +1,9 @@
+Double Happiness                    
+
+httpscodeforcescomproblemsetproblem113C
+
+brute force
+
+2200
+
+On the math lesson a teacher asked each pupil to come up with his own lucky numbers As a fan of number theory Peter chose prime numbers Bob was more original He said that number t is his lucky number if it can be represented as ta2b2 where ab are arbitrary positive integersNow the boys decided to find out how many days of the interval lr lr are suitable for pair programming They decided that the day i lir is suitable for pair programming if and only if the number i is lucky for Peter and lucky for Bob at the same time Help the boys to find the number of such days

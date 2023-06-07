@@ -1,0 +1,9 @@
+The Sports Festival                    
+
+https://codeforces.com/problemset/problem/1509/C
+
+dp
+
+1800
+
+The student council is preparing for the relay race at the sports festival.The council consists of n members. They will run one after the other in the race, the speed of member i is s_i. The discrepancy d_i of the i-th stage is the difference between the maximum and the minimum running speed among the first i members who ran. Formally, if a_i denotes the speed of the i-th member who participated in the race, then d_i = \max(a_1, a_2, \dots, a_i) - \min(a_1, a_2, \dots, a_i).You want to minimize the sum of the discrepancies d_1 + d_2 + \dots + d_n. To do this, you are allowed to change the order in which the members run. What is the minimum possible sum that can be achieved?

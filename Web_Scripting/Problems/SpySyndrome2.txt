@@ -1,0 +1,9 @@
+Spy Syndrome 2                    
+
+https://codeforces.com/problemset/problem/633/C
+
+data structures
+
+1900
+
+After observing the results of Spy Syndrome, Yash realised the errors of his ways. He now believes that a super spy such as Siddhant can't use a cipher as basic and ancient as Caesar cipher. After many weeks of observation of Siddhant’s sentences, Yash determined a new cipher technique.For a given sentence, the cipher is processed as:   Convert all letters of the sentence to lowercase.  Reverse each of the words of the sentence individually.  Remove all the spaces in the sentence. For example, when this cipher is applied to the sentenceKira is childish and he hates losingthe resulting string isariksihsidlihcdnaehsetahgnisolNow Yash is given some ciphered string and a list of words. Help him to find out any original sentence composed using only words from the list. Note, that any of the given words could be used in the sentence multiple times.

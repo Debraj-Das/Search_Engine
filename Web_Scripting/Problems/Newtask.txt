@@ -1,0 +1,9 @@
+New task                    
+
+httpscodeforcescomproblemsetproblem788E
+
+data structures
+
+2900
+
+On the 228th international Uzhlyandian Wars strategic game tournament teams from each country are called The teams should consist of 5 participantsThe team of Uzhlyandia will consist of soldiers because there are no gamersMasha is a new minister of defense and gaming The prime duty of the minister is to calculate the efficiency of the Uzhlandian army The army consists of n soldiers standing in a row enumerated from 1 to n For each soldier we know his skill in Uzhlyandian Wars the ith soldiers skill is aiIt was decided that the team will consist of three players and two assistants The skills of players should be same and the assistants skills should not be greater than the players skill Moreover it is important for Masha that one of the assistants should stand in the row to the left of the players and the other one should stand in the row to the right of the players Formally a team is five soldiers with indexes i j k l p such that 1ijklpn and aiajakalap The efficiency of the army is the number of different teams Masha can choose Two teams are considered different if there is such i such that the ith soldier is a member of one team but not a member of the other teamInitially all players are able to be players For some reasons sometimes some soldiers become unable to be players Sometimes some soldiers that were unable to be players become able to be players At any time any soldier is able to be an assistant Masha wants to control the efficiency of the army so she asked you to tell her the number of different possible teams modulo 1000000007 1097 after each change 

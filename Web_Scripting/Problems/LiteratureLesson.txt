@@ -1,0 +1,9 @@
+Literature Lesson                    
+
+httpscodeforcescomproblemsetproblem138A
+
+implementation
+
+1600
+
+Vera adores poems All the poems Vera knows are divided into quatrains groups of four lines and in each quatrain some lines contain rhymesLets consider that all lines in the poems consist of lowercase Latin letters without spaces Letters a e i o u are considered vowelsTwo lines rhyme if their suffixes that start from the kth vowels counting from the end match If a line has less than k vowels then such line cant rhyme with any other line For example if k1 lines commit and hermit rhyme the corresponding suffixes equal it and if k2 they do not rhyme ommitermitToday on a literature lesson Vera learned that quatrains can contain four different schemes of rhymes namely the following ones the same letters stand for rhyming lines   Clerihew aabb  Alternating abab  Enclosed abba If all lines of a quatrain pairwise rhyme then the quatrain can belong to any rhyme scheme this situation is represented by aaaaIf all quatrains of a poem belong to the same rhyme scheme then we can assume that the whole poem belongs to this rhyme scheme If in each quatrain all lines pairwise rhyme then the rhyme scheme of the poem is aaaa Let us note that it doesnt matter whether lines from different quatrains rhyme with each other or not In other words it is possible that different quatrains arent connected by a rhymeVera got a long poem as a home task The girl has to analyse it and find the poem rhyme scheme Help Vera cope with the task

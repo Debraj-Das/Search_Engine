@@ -1,0 +1,9 @@
+Phys Ed Online                    
+
+https://codeforces.com/problemset/problem/1601/E
+
+data structures
+
+2900
+
+Students of one unknown college don't have PE courses. That's why q of them decided to visit a gym nearby by themselves. The gym is open for n days and has a ticket system. At the i-th day, the cost of one ticket is equal to a_i. You are free to buy more than one ticket per day.You can activate a ticket purchased at day i either at day i or any day later. Each activated ticket is valid only for k days. In other words, if you activate ticket at day t, it will be valid only at days t, t + 1, \dots, t + k - 1. You know that the j-th student wants to visit the gym at each day from l_j to r_j inclusive. Each student will use the following strategy of visiting the gym at any day i (l_j \le i \le r_j):  person comes to a desk selling tickets placed near the entrance and buy several tickets with cost a_i apiece (possibly, zero tickets);  if the person has at least one activated and still valid ticket, they just go in. Otherwise, they activate one of tickets purchased today or earlier and go in. Note that each student will visit gym only starting l_j, so each student has to buy at least one ticket at day l_j.Help students to calculate the minimum amount of money they have to spend in order to go to the gym.

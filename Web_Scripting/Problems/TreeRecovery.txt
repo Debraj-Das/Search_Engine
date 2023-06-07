@@ -1,0 +1,9 @@
+Tree Recovery                    
+
+https://codeforces.com/problemset/problem/1696/F
+
+brute force
+
+2600
+
+Fishingprince loves trees. A tree is a connected undirected graph without cycles.Fishingprince has a tree of n vertices. The vertices are numbered 1 through n. Let d(x,y) denote the shortest distance on the tree from vertex x to vertex y, assuming that the length of each edge is 1.However, the tree was lost in an accident. Fortunately, Fishingprince still remembers some information about the tree. More specifically, for every triple of integers x,y,z (1\le x<y\le n, 1\le z\le n) he remembers whether d(x,z)=d(y,z) or not.Help him recover the structure of the tree, or report that no tree satisfying the constraints exists.

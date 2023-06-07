@@ -1,0 +1,9 @@
+Sad powers                    
+
+httpscodeforcescomproblemsetproblem955C
+
+binary search
+
+2100
+
+Youre given Q queries of the form LR For each query you have to find the number of such x that LxR and there exist integer numbers a0 p1 such that xap

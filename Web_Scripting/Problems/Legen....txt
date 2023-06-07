@@ -1,0 +1,9 @@
+Legen...                    
+
+https://codeforces.com/problemset/problem/696/D
+
+data structures
+
+2500
+
+Barney was hanging out with Nora for a while and now he thinks he may have feelings for her. Barney wants to send her a cheesy text message and wants to make her as happy as possible.  Initially, happiness level of Nora is 0. Nora loves some pickup lines like "I'm falling for you" and stuff. Totally, she knows n pickup lines, each consisting only of lowercase English letters, also some of them may be equal (in writing, but different in pronouncing or meaning though). Every time Nora sees i-th pickup line as a consecutive subsequence of Barney's text message her happiness level increases by ai. These substrings may overlap, for example, Nora will see the pickup line aa twice and the pickup line ab once in text message aaab.Due to texting app limits, Barney's text may have up to l characters.Barney asked you to help him make Nora as much happy as possible, it's gonna be legen...

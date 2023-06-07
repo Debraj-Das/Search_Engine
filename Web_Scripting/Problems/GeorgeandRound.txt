@@ -1,0 +1,9 @@
+George and Round                    
+
+httpscodeforcescomproblemsetproblem387B
+
+brute force
+
+1200
+
+George decided to prepare a Codesecrof round so he has prepared m problems for the round Lets number the problems with integers 1 through m George estimates the ith problems complexity by integer biTo make the round good he needs to put at least n problems there Besides he needs to have at least one problem with complexity exactly a1 at least one with complexity exactly a2  and at least one with complexity exactly an Of course the round can also have problems with other complexitiesGeorge has a poor imagination Its easier for him to make some already prepared problem simpler than to come up with a new one and prepare it George is magnificent at simplifying problems He can simplify any already prepared problem with complexity c to any positive integer complexity d cd by changing limits on the input dataHowever nothing is so simple George understood that even if he simplifies some problems he can run out of problems for a good round Thats why he decided to find out the minimum number of problems he needs to come up with in addition to the m hes prepared in order to make a good round Note that George can come up with a new problem of any complexity

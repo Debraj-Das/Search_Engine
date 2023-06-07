@@ -1,0 +1,9 @@
+Jzzhu and Numbers                    
+
+httpscodeforcescomproblemsetproblem449D
+
+bitmasks
+
+2400
+
+Jzzhu have n nonnegative integers a1a2an We will call a sequence of indexes i1i2ik 1i1i2ikn a group of size k Jzzhu wonders how many groups exists such that ai1  ai2    aik0 1kn Help him and print this number modulo 1000000007 1097 Operation x  y denotes bitwise AND operation of two numbers

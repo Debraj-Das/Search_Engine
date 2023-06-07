@@ -1,0 +1,9 @@
+Peaceful Rooks                    
+
+https://codeforces.com/problemset/problem/1411/C
+
+dfs and similar
+
+1700
+
+You are given a n \times n chessboard. Rows and columns of the board are numbered from 1 to n. Cell (x, y) lies on the intersection of column number x and row number y.Rook is a chess piece, that can in one turn move any number of cells vertically or horizontally. There are m rooks (m < n) placed on the chessboard in such a way that no pair of rooks attack each other. I.e. there are no pair of rooks that share a row or a column.In one turn you can move one of the rooks any number of cells vertically or horizontally. Additionally, it shouldn't be attacked by any other rook after movement. What is the minimum number of moves required to place all the rooks on the main diagonal?The main diagonal of the chessboard is all the cells (i, i), where 1 \le i \le n.

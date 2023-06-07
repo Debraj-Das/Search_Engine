@@ -1,0 +1,9 @@
+Permutation Sum                    
+
+httpscodeforcescomproblemsetproblem285D
+
+bitmasks
+
+1900
+
+Permutation p is an ordered set of integers p1p2pn consisting of n distinct positive integers each of them doesnt exceed n Well denote the ith element of permutation p as pi Well call number n the size or the length of permutation p1p2pnPetya decided to introduce the sum operation on the set of permutations of length n Lets assume that we are given two permutations of length n a1a2an and b1b2bn Petya calls the sum of permutations a and b such permutation c of length n where ciai1bi1 mod n1 1inOperation  means taking the remainder after dividing number x by number yObviously not for all permutations a and b exists permutation c that is sum of a and b Thats why Petya got sad and asked you to do the following given n count the number of such pairs of permutations a and b of length n that exists permutation c that is sum of a and b The pair of permutations xy xy and the pair of permutations yx are considered distinct pairsAs the answer can be rather large print the remainder after dividing it by 1000000007 1097

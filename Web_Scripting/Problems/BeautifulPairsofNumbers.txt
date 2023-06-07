@@ -1,0 +1,9 @@
+Beautiful Pairs of Numbers                    
+
+httpscodeforcescomproblemsetproblem403D
+
+combinatorics
+
+2300
+
+The sequence of integer pairs a1b1a2b2akbk is beautiful if the following statements are fulfilled   1a1b1a2b2akbkn where n is a given positive integer  all numbers b1a1 b2a2  bkak are distinct For the given number n find the number of beautiful sequences of length k As the answer can be rather large print the remainder after dividing it by 1000000007 1097

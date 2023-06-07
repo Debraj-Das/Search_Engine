@@ -1,0 +1,9 @@
+Multithreading                    
+
+httpscodeforcescomproblemsetproblem26E
+
+constructive algorithms
+
+2400
+
+You are given the following concurrent program There are N processes and the ith process has the following pseudocode repeat ni times    yi  y    y  yi1end repeatHere y is a shared variable Everything else is local for the process All actions on a given row are atomic ie when the process starts executing a row it is never interrupted Beyond that all interleavings are possible ie every process that has yet work to do can be granted the rights to execute its next row In the beginning y0 You will be given an integer W and ni for i1 N Determine if it is possible that after all processes terminate yW and if it is possible output an arbitrary schedule that will produce this final value

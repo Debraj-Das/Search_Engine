@@ -1,0 +1,9 @@
+505                    
+
+https://codeforces.com/problemset/problem/1391/D
+
+bitmasks
+
+2000
+
+A binary matrix is called good if every even length square sub-matrix has an odd number of ones. Given a binary matrix a consisting of n rows and m columns, determine the minimum number of cells you need to change to make it good, or report that there is no way to make it good at all. All the terms above have their usual meanings — refer to the Notes section for their formal definitions. 

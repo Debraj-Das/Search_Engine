@@ -1,0 +1,9 @@
+Volatile Kite                    
+
+httpscodeforcescomproblemsetproblem772B
+
+geometry
+
+1800
+
+You are given a convex polygon P with n distinct vertices p1p2pn Vertex pi has coordinates xiyi in the 2D plane These vertices are listed in clockwise orderYou can choose a real number D and move each vertex of the polygon a distance of at most D from their original positionsFind the maximum value of D such that no matter how you move the vertices the polygon does not intersect itself and stays convex

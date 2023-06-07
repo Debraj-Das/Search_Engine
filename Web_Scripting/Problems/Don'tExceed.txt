@@ -1,0 +1,9 @@
+Dont Exceed                    
+
+httpscodeforcescomproblemsetproblem913H
+
+math
+
+3400
+
+You generate real numbers s1s2sn as follows   s00  sisi1ti where ti is a real number chosen independently uniformly at random between 0 and 1 inclusive You are given real numbers x1x2xn You are interested in the probability that sixi is true for all i simultaneouslyIt can be shown that this can be represented as  where P and Q are coprime integers and  Print the value of PQ1 modulo 998244353

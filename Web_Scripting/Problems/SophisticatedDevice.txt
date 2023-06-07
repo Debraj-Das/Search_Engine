@@ -1,0 +1,9 @@
+Sophisticated Device                    
+
+https://codeforces.com/problemset/problem/1060/H
+
+constructive algorithms
+
+3300
+
+You are given integers d and p, p is prime. Also you have a mysterious device. It has memory cells, each contains an integer between 0 and p-1. Also two instructions are supported, addition and raising to the d-th power. \textbf{Both are modulo} p.The memory cells are numbered 1, 2, \dots, 5000. Initially cells 1 and 2 contain integers x and y, respectively (0 \leqslant x, y \leq p - 1). All other cells contain \textbf{1}s. You can not directly access values in cells, and you \textbf{don't know} values of x and y (but you know they are written in first two cells). You mission, should you choose to accept it, is to write a program using the available instructions to obtain the product xy modulo p in one of the cells. You program should work for all possible x and y.Addition instruction evaluates sum of values in two cells and writes it to third cell. This instruction is encoded by a string "+ e1 e2 to", which writes sum of values in cells e1 and e2 into cell to. Any values of e1, e2, to can coincide. Second instruction writes the d-th power of a value in some cell to the target cell. This instruction is encoded by a string "^ e to". Values e and to can coincide, in this case value in the cell will be overwritten. Last instruction is special, this is the return instruction, and it is encoded by a string "f target". This means you obtained values xy \bmod p in the cell target. No instructions should be called after this instruction.Provide a program that obtains xy \bmod p and uses no more than 5000 instructions (including the return instruction).It is guaranteed that, under given constrains, a solution exists. 

@@ -1,0 +1,9 @@
+Balancing Weapons                    
+
+https://codeforces.com/problemset/problem/1814/D
+
+binary search
+
+2500
+
+You've got a job in a game studio that developed an online shooter, and your first big task is to help to balance weapons. The game has n weapons: the i-th gun has an integer fire rate f_i and an integer damage per bullet d_i. The i-th gun's total firepower is equal to p_i = f_i \cdot d_i.You have to modify the values d_i of some guns in such a way that the new values d_i will still be integers, and the firepower of all guns will become balanced. Given an integer k, the guns are said to be balanced if \max\limits_{1 \le i \le n}{p_i} - \min\limits_{1 \le i \le n}{p_i} \le k.Since gamers that play your game don't like big changes, you need to change the values d_i for the minimum possible number of guns. What is the minimum number of guns for which you have to change these values to make the guns balanced?Note that the new values d_i must be integers greater than 0.

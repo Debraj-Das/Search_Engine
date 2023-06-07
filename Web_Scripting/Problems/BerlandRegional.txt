@@ -1,0 +1,9 @@
+Berland Regional                    
+
+https://codeforces.com/problemset/problem/1519/C
+
+brute force
+
+1400
+
+Polycarp is an organizer of a Berland ICPC regional event. There are n universities in Berland numbered from 1 to n. Polycarp knows all competitive programmers in the region. There are n students: the i-th student is enrolled at a university u_i and has a programming skill s_i.Polycarp has to decide on the rules now. In particular, the number of members in the team.Polycarp knows that if he chooses the size of the team to be some integer k, each university will send their k strongest (with the highest programming skill s) students in the first team, the next k strongest students in the second team and so on. If there are fewer than k students left, then the team can't be formed. Note that there might be universities that send zero teams.The strength of the region is the total skill of the members of all present teams. If there are no teams present, then the strength is 0.Help Polycarp to find the strength of the region for each choice of k from 1 to n.

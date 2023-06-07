@@ -1,0 +1,9 @@
+Hall of Fame                    
+
+https://codeforces.com/problemset/problem/1779/A
+
+constructive algorithms
+
+800
+
+Thalia is a Legendary Grandmaster in chess. She has n trophies in a line numbered from 1 to n (from left to right) and a lamp standing next to each of them (the lamps are numbered as the trophies).A lamp can be directed either to the left or to the right, and it illuminates all trophies in that direction (but not the one it is next to). More formally, Thalia has a string s consisting only of characters 'L' and 'R' which represents the lamps' current directions. The lamp i illuminates:  trophies 1,2,\ldots, i-1 if s_i is 'L';  trophies i+1,i+2,\ldots, n if s_i is 'R'. She can perform the following operation at most once:  Choose an index i (1 \leq i < n);  Swap the lamps i and i+1 (without changing their directions). That is, swap s_i with s_{i+1}. Thalia asked you to illuminate all her trophies (make each trophy illuminated by at least one lamp), or to tell her that it is impossible to do so. If it is possible, you can choose to perform an operation or to do nothing. Notice that lamps cannot change direction, it is only allowed to swap adjacent ones.

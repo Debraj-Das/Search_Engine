@@ -1,0 +1,9 @@
+Island Puzzle                    
+
+httpscodeforcescomproblemsetproblem627F
+
+dfs and similar
+
+3400
+
+A remote island chain contains n islands with some bidirectional bridges between them The current bridge network forms a tree In other words a total of n1 bridges connect pairs of islands in a way that its possible to reach any island from any other island using the bridge network The center of each island contains an identical pedestal and all but one of the islands has a fragile uniquely colored statue currently held on the pedestal The remaining island holds only an empty pedestalThe islanders want to rearrange the statues in a new order To do this they repeat the following process first they choose an island directly adjacent to the island containing an empty pedestal Then they painstakingly carry the statue on this island across the adjoining bridge and place it on the empty pedestalIt is often impossible to rearrange statues in the desired order using only the operation described above The islanders would like to build one additional bridge in order to make this achievable in the fewest number of movements possible Find the bridge to construct and the minimum number of statue movements necessary to arrange the statues in the desired position

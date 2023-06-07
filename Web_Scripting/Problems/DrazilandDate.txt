@@ -1,0 +1,9 @@
+Drazil and Date                    
+
+httpscodeforcescomproblemsetproblem515A
+
+math
+
+1000
+
+Someday Drazil wanted to go on date with Varda Drazil and Varda live on Cartesian plane Drazils home is located in point 00 and Vardas home is located in point ab In each step he can move in a unit distance in horizontal or vertical direction In other words from position xy he can go to positions x1y x1y xy1 or xy1 Unfortunately Drazil doesnt have sense of direction So he randomly chooses the direction he will go to in each step He may accidentally return back to his house during his travel Drazil may even not notice that he has arrived to ab and continue travelling Luckily Drazil arrived to the position ab successfully Drazil said to Varda It took me exactly s steps to travel from my house to yours But Varda is confused about his words she is not sure that it is possible to get from 00 to ab in exactly s steps Can you find out if it is possible for Varda

@@ -1,0 +1,9 @@
+Duff is Mad                    
+
+httpscodeforcescomproblemsetproblem587F
+
+data structures
+
+3000
+
+Duff is mad at her friends Thats why she sometimes makes Malek to take candy from one of her friends for no reason  She has n friends Her ith friends name is si their names are not necessarily unique q times she asks Malek to take candy from her friends Shes angry but also she acts with rules When she wants to ask Malek to take candy from one of her friends like k she chooses two numbers l and r and tells Malek to take exactly  candies from himher where occurts is the number of occurrences of string t in sMalek is not able to calculate how many candies to take in each request from Duff Thats why she asked for your help Please tell him how many candies to take in each request

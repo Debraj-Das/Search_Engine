@@ -1,0 +1,9 @@
+Palindrome Addicts                    
+
+https://codeforces.com/problemset/problem/1738/H
+
+data structures
+
+3300
+
+Your task is to maintain a queue consisting of lowercase English letters as follows:   "push c": insert a letter c at the back of the queue;  "pop": delete a letter from the front of the queue. Initially, the queue is empty. After each operation, you are asked to count the number of distinct palindromic substrings in the string that are obtained by concatenating the letters from the front to the back of the queue.Especially, the number of distinct palindromic substrings of the empty string is 0. A string s[1..n] of length n is palindromic if s[i] = s[n-i+1] for every 1 \leq i \leq n. The string s[l..r] is a substring of string s[1..n] for every 1 \leq l \leq r \leq n. Two strings s[1..n] and t[1..m] are distinct, if at least one of the following holds.   n \neq m;  s[i] \neq t[i] for some 1 \leq i \leq \min\{n,m\}. 

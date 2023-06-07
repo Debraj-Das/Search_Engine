@@ -1,0 +1,9 @@
+Increase and Decrease                    
+
+httpscodeforcescomproblemsetproblem246B
+
+greedy
+
+1300
+
+Polycarpus has an array consisting of n integers a1a2an Polycarpus likes it when numbers in an array match Thats why he wants the array to have as many equal numbers as possible For that Polycarpus performs the following operation multiple times  he chooses two elements of the array ai aj ij  he simultaneously increases number ai by 1 and decreases number aj by 1 that is executes aiai1 and ajaj1 The given operation changes exactly two distinct array elements Polycarpus can apply the described operation an infinite number of times Now he wants to know what maximum number of equal array elements he can get if he performs an arbitrary number of such operation Help Polycarpus

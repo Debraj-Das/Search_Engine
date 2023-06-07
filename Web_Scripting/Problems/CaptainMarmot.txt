@@ -1,0 +1,9 @@
+Captain Marmot                    
+
+httpscodeforcescomproblemsetproblem474C
+
+brute force
+
+2000
+
+Captain Marmot wants to prepare a huge and important battle against his enemy Captain Snake For this battle he has n regiments each consisting of 4 molesInitially each mole i 1i4n is placed at some position xiyi in the Cartesian plane Captain Marmot wants to move some moles to make the regiments compact if its possibleEach mole i has a home placed at the position aibi Moving this mole one time means rotating his position point xiyi 90 degrees counterclockwise around its home point aibiA regiment is compact only if the position points of the 4 moles form a square with nonzero areaHelp Captain Marmot to find out for each regiment the minimal number of moves required to make that regiment compact if its possible

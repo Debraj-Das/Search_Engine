@@ -1,0 +1,9 @@
+Bear and Floodlight                    
+
+httpscodeforcescomproblemsetproblem385D
+
+bitmasks
+
+2200
+
+One day a bear lived on the Oxy axis He was afraid of the dark so he couldnt move at night along the plane points that arent lit One day the bear wanted to have a night walk from his house at point l0 to his friends house at point r0 along the segment of length rl Of course if he wants to make this walk he needs each point of the segment to be lit Thats why the bear called his friend and yes in the middle of the night asking for a very delicate favorThe Oxy axis contains n floodlights Floodlight i is at point xiyi and can light any angle of the plane as large as ai degree with vertex at point xiyi The bear asked his friend to turn the floodlights so that he the bear could go as far away from his house as possible during the walking along the segment His kind friend agreed to fulfill his request And while he is at it the bear wonders what is the furthest he can go away from his house Hep him and find this distanceConsider that the plane has no obstacles and no other light sources besides the floodlights The bears friend cannot turn the floodlights during the bears walk Assume that after all the floodlights are turned in the correct direction the bear goes for a walk and his friend goes to bed

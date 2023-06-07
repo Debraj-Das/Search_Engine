@@ -1,0 +1,9 @@
+Flag of Berland                    
+
+httpscodeforcescomproblemsetproblem837B
+
+brute force
+
+1600
+
+The flag of Berland is such rectangular field nm that satisfies following conditions  Flag consists of three colors which correspond to letters R G and B  Flag consists of three equal in width and height stripes parralel to each other and to sides of the flag Each stripe has exactly one color  Each color should be used in exactly one stripe You are given a field nm consisting of characters R G and B Output YES without quotes if this field corresponds to correct flag of Berland Otherwise print NO without quotes

@@ -1,0 +1,9 @@
+Army Creation                    
+
+https://codeforces.com/problemset/problem/813/E
+
+binary search
+
+2200
+
+As you might remember from our previous rounds, Vova really likes computer games. Now he is playing a strategy game known as Rage of Empires.In the game Vova can hire n different warriors; ith warrior has the type ai. Vova wants to create a balanced army hiring some subset of warriors. An army is called balanced if for each type of warrior present in the game there are not more than k warriors of this type in the army. Of course, Vova wants his army to be as large as possible.To make things more complicated, Vova has to consider q different plans of creating his army. ith plan allows him to hire only warriors whose numbers are not less than li and not greater than ri.Help Vova to determine the largest size of a balanced army for each plan.Be aware that the plans are given in a modified way. See input section for details.

@@ -1,0 +1,9 @@
+Dima and Todo List                    
+
+httpscodeforcescomproblemsetproblem366B
+
+brute force
+
+1200
+
+You helped Dima to have a great weekend but its time to work Naturally Dima as all other men who have girlfriends does everything wrongInna and Dima are now in one room Inna tells Dima off for everything he does in her presence After Inna tells him off for something she goes to another room walks there in circles muttering about how useless her sweetheart is During that time Dima has time to peacefully complete k1 tasks Then Inna returns and tells Dima off for the next task he does in her presence and goes to another room again It continues until Dima is through with his tasksOverall Dima has n tasks to do each task has a unique number from 1 to n Dima loves order so he does tasks consecutively starting from some task For example if Dima has 6 tasks to do in total then if he starts from the 5th task the order is like that first Dima does the 5th task then the 6th one then the 1st one then the 2nd one then the 3rd one then the 4th oneInna tells Dima off only lovingly and appropriately so often and systematically that hes very well learned the power with which she tells him off for each task Help Dima choose the first task so that in total he gets told off with as little power as possible

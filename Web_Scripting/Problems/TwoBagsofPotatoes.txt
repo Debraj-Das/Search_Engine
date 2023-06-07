@@ -1,0 +1,9 @@
+Two Bags of Potatoes                    
+
+httpscodeforcescomproblemsetproblem239A
+
+greedy
+
+1200
+
+Valera had two bags of potatoes the first of these bags contains x x1 potatoes and the second  y y1 potatoes Valera  very scattered boy so the first bag of potatoes it contains x potatoes Valera lost Valera remembers that the total amount of potatoes xy in the two bags firstly was not gerater than n and secondly was divisible by kHelp Valera to determine how many potatoes could be in the first bag Print all such possible numbers in ascending order

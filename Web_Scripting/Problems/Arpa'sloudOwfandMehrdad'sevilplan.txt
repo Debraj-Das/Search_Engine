@@ -1,0 +1,9 @@
+Arpas loud Owf and Mehrdads evil plan                    
+
+httpscodeforcescomproblemsetproblem741A
+
+dfs and similar
+
+1600
+
+As you have noticed there are lovely girls in Arpas landPeople in Arpas land are numbered from 1 to n Everyone has exactly one crush ith persons crush is person with the number crushi  Someday Arpa shouted Owf loudly from the top of the palace and a funny game started in Arpas land The rules are as followsThe game consists of rounds Assume person x wants to start a round he calls crushx and says Owwwwf the letter w is repeated t times and cuts off the phone immediately If t1 then crushx calls crushcrushx and says Owwwwf the letter w is repeated t1 times and cuts off the phone immediately The round continues until some person receives an Owf t1 This person is called the JoonJoon of the round There cant be two rounds at the same timeMehrdad has an evil plan to make the game more funny he wants to find smallest t t1 such that for each person x if x starts some round and y becomes the JoonJoon of the round then by starting from y x would become the JoonJoon of the round Find such t for Mehrdad if its possibleSome strange fact in Arpas land is that someone can be himselfs crush ie crushii

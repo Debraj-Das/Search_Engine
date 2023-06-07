@@ -1,0 +1,9 @@
+Max History                    
+
+httpscodeforcescomproblemsetproblem938E
+
+combinatorics
+
+2300
+
+You are given an array a of length n We define fa the following way  Initially fa0 M1  for every 2in if aMai then we set fafaaM and then set Mi Calculate the sum of fa over all n permutations of the array a modulo 1097Note two elements are considered different if their indices differ so for every array a there are exactly n permutations

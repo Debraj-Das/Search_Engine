@@ -1,0 +1,9 @@
+GCD Compression                    
+
+https://codeforces.com/problemset/problem/1370/B
+
+constructive algorithms
+
+1100
+
+Ashish has an array a of consisting of 2n positive integers. He wants to compress a into an array b of size n-1. To do this, he first discards exactly 2 (any two) elements from a. He then performs the following operation until there are no elements left in a:   Remove any two elements from a and append their sum to b. The compressed array b has to have a special property. The greatest common divisor (\mathrm{gcd}) of all its elements should be greater than 1.Recall that the \mathrm{gcd} of an array of positive integers is the biggest integer that is a divisor of all integers in the array.It can be proven that it is always possible to compress array a into an array b of size n-1 such that gcd(b_1, b_2..., b_{n-1}) > 1. Help Ashish find a way to do so.

@@ -1,0 +1,9 @@
+Circus                    
+
+https://codeforces.com/problemset/problem/1138/B
+
+brute force
+
+1800
+
+Polycarp is a head of a circus troupe. There are n — an even number — artists in the troupe. It is known whether the i-th artist can perform as a clown (if yes, then c_i = 1, otherwise c_i = 0), and whether they can perform as an acrobat (if yes, then a_i = 1, otherwise a_i = 0).Split the artists into two performances in such a way that:   each artist plays in exactly one performance,  the number of artists in the two performances is equal (i.e. equal to \frac{n}{2}),  the number of artists that can perform as clowns in the first performance is the same as the number of artists that can perform as acrobats in the second performance. 

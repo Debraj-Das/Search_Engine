@@ -1,0 +1,9 @@
+Olympiad                    
+
+https://codeforces.com/problemset/problem/222/D
+
+binary search
+
+1900
+
+A boy named Vasya has taken part in an Olympiad. His teacher knows that in total Vasya got at least x points for both tours of the Olympiad. The teacher has the results of the first and the second tour of the Olympiad but the problem is, the results have only points, no names. The teacher has to know Vasya's chances.Help Vasya's teacher, find two numbers — the best and the worst place Vasya could have won. Note that the total results' table sorts the participants by the sum of points for both tours (the first place has the participant who has got the most points). If two or more participants have got the same number of points, it's up to the jury to assign places to them according to their choice. It is guaranteed that each participant of the Olympiad participated in both tours of the Olympiad.

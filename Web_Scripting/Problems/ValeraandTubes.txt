@@ -1,0 +1,9 @@
+Valera and Tubes                     
+
+httpscodeforcescomproblemsetproblem441C
+
+constructive algorithms
+
+1500
+
+Valera has got a rectangle table consisting of n rows and m columns Valera numbered the table rows starting from one from top to bottom and the columns  starting from one from left to right We will represent cell that is on the intersection of row x and column y by a pair of integers xyValera wants to place exactly k tubes on his rectangle table A tube is such sequence of table cells x1y1 x2y2  xryr that   r2  for any integer i 1ir1 the following equation xixi1yiyi11 holds  each table cell which belongs to the tube must occur exactly once in the sequence Valera thinks that the tubes are arranged in a fancy manner if the following conditions are fulfilled   no pair of tubes has common cells  each cell of the table belongs to some tube Help Valera to arrange k tubes on his rectangle table in a fancy manner

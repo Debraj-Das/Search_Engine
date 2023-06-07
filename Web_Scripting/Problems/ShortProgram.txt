@@ -1,0 +1,9 @@
+Short Program                    
+
+https://codeforces.com/problemset/problem/878/A
+
+bitmasks
+
+1600
+
+Petya learned a new programming language CALPAS. A program in this language always takes one non-negative integer and returns one non-negative integer as well.In the language, there are only three commands: apply a bitwise operation AND, OR or XOR with a given constant to the current integer. A program can contain an arbitrary sequence of these operations with arbitrary constants from 0 to 1023. When the program is run, all operations are applied (in the given order) to the argument and in the end the result integer is returned.Petya wrote a program in this language, but it turned out to be too long. Write a program in CALPAS that does the same thing as the Petya's program, and consists of no more than 5 lines. Your program should return the same integer as Petya's program for all arguments from 0 to 1023.

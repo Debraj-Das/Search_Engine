@@ -1,0 +1,9 @@
+Keep XOR Low                    
+
+https://codeforces.com/problemset/problem/1616/H
+
+bitmasks
+
+3000
+
+You are given an array a_1, a_2, \ldots, a_n and an integer x.Find the number of non-empty subsets of indices of this array 1 \leq b_1 < b_2 < \ldots < b_k \leq n, such that for all pairs (i, j) where 1 \leq i < j \leq k, the inequality a_{b_i} \oplus a_{b_j} \leq x is held. Here, \oplus denotes the bitwise XOR operation. As the answer may be very large, output it modulo 998\,244\,353.

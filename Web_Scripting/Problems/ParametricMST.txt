@@ -1,0 +1,9 @@
+Parametric MST                    
+
+https://codeforces.com/problemset/problem/1656/F
+
+binary search
+
+2600
+
+You are given n integers a_1, a_2, \ldots, a_n. For any real number t, consider the complete weighted graph on n vertices K_n(t) with weight of the edge between vertices i and j equal to w_{ij}(t) = a_i \cdot a_j + t \cdot (a_i + a_j). Let f(t) be the cost of the minimum spanning tree of K_n(t). Determine whether f(t) is bounded above and, if so, output the maximum value it attains.

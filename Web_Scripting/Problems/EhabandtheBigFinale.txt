@@ -1,0 +1,9 @@
+Ehab and the Big Finale                    
+
+https://codeforces.com/problemset/problem/1174/F
+
+constructive algorithms
+
+2400
+
+This is an interactive problem.You're given a tree consisting of n nodes, rooted at node 1. A tree is a connected graph with no cycles.We chose a hidden node x. In order to find this node, you can ask queries of two types:   d u (1 \le u \le n). We will answer with the distance between nodes u and x. The distance between two nodes is the number of edges in the shortest path between them.  s u (1 \le u \le n). We will answer with the second node on the path from u to x. However, there's a plot twist. If u is not an ancestor of x, you'll receive "Wrong answer" verdict! Node a is called an ancestor of node b if a \ne b and the shortest path from node 1 to node b passes through node a. Note that in this problem a node is not an ancestor of itself.Can you find x in no more than 36 queries? The hidden node is fixed in each test beforehand and does not depend on your queries.

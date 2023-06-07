@@ -1,0 +1,9 @@
+Routine Problem                    
+
+httpscodeforcescomproblemsetproblem337B
+
+greedy
+
+1400
+
+Manao has a monitor The screen of the monitor has horizontal to vertical length ratio ab Now he is going to watch a movie The movies frame has horizontal to vertical length ratio cd Manao adjusts the view in such a way that the movie preserves the original frame ratio but also occupies as much space on the screen as possible and fits within it completely Thus he may have to zoom the movie in or out but Manao will always change the frame proportionally in both dimensionsCalculate the ratio of empty screen the part of the screen not occupied by the movie to the total screen size Print the answer as an irreducible fraction pq

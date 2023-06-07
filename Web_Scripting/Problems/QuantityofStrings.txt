@@ -1,0 +1,9 @@
+Quantity of Strings                    
+
+httpscodeforcescomproblemsetproblem150B
+
+combinatorics
+
+1600
+
+Just in case somebody missed it this winter is totally cold in Nvodsk It is so cold that one gets funny thoughts For example lets say there are strings with the length exactly n based on the alphabet of size m Any its substring with length equal to k is a palindrome How many such strings exist Your task is to find their quantity modulo 1000000007 1097 Be careful and dont miss a string or twoLet us remind you that a string is a palindrome if it can be read the same way in either direction from the left to the right and from the right to the left

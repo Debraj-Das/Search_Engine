@@ -1,0 +1,9 @@
+Geometric Progression                    
+
+httpscodeforcescomproblemsetproblem567C
+
+binary search
+
+1700
+
+Polycarp loves geometric progressions very much Since he was only three years old he loves only the progressions of length three He also has a favorite integer k and a sequence a consisting of n integersHe wants to know how many subsequences of length three can be selected from a so that they form a geometric progression with common ratio kA subsequence of length three is a combination of three such indexes i1i2i3 that 1i1i2i3n That is a subsequence of length three are such groups of three elements that are not necessarily consecutive in the sequence but their indexes are strictly increasingA geometric progression with common ratio k is a sequence of numbers of the form bk0bk1bkr1Polycarp is only three years old so he can not calculate this number himself Help him to do it

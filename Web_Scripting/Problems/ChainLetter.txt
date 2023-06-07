@@ -1,0 +1,9 @@
+Chain Letter                    
+
+httpscodeforcescomproblemsetproblem345D
+
+special problem
+
+2200
+
+A chain letter is a kind of a message which urges the recipient to forward it to as many contacts as possible usually with some kind of mystic explanation Of course this is only a superstition and you dont believe in it but all your friends do You know that today there will be one of these letters going around and you want to know how many times youll receive it  of course not that youll be sending it yourselfYou are given an array of strings f with n elements which describes the contacts between you and n1 of your friends jth character of ith string fij is 1 if people i and j will send messages to each other and 0 otherwise Person 1 starts sending the letter to all his contacts every person who receives the letter for the first time sends it to all his contacts You are person n and you dont forward the letter when you receive it Calculate the number of copies of this letter youll receive

@@ -1,0 +1,9 @@
+Running with Obstacles                    
+
+httpscodeforcescomproblemsetproblem637D
+
+special problem
+
+1600
+
+A sportsman starts from point xstart0 and runs to point with coordinate xfinishm on a straight line Also the sportsman can jump  to jump he should first take a run of length of not less than s meters in this case for these s meters his path should have no obstacles and after that he can jump over a length of not more than d meters Running and jumping is permitted only in the direction from left to right He can start andfinish a jump only at the points with integer coordinates in which there are no obstacles To overcome some obstacle it is necessary to land at a point which is strictly to the right of this obstacleOn the way of an athlete are n obstacles at coordinates x1x2xn He cannot go over the obstacles he can only jump over them Your task is to determine whether the athlete will be able to get to the finish point

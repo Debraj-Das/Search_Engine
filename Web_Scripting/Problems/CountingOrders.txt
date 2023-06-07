@@ -1,0 +1,9 @@
+Counting Orders                    
+
+https://codeforces.com/problemset/problem/1827/A
+
+combinatorics
+
+1100
+
+You are given two arrays a and b each consisting of n integers. All elements of a are pairwise distinct.Find the number of ways to reorder a such that a_i > b_i for all 1 \le i \le n, modulo 10^9 + 7.Two ways of reordering are considered different if the resulting arrays are different.

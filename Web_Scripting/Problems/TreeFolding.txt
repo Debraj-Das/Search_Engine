@@ -1,0 +1,9 @@
+Tree Folding                    
+
+httpscodeforcescomproblemsetproblem765E
+
+dfs and similar
+
+2200
+
+Vanya wants to minimize a tree He can perform the following operation multiple times choose a vertex v and two disjoint except for v paths of equal length a0v a1  ak and b0v b1  bk Additionally vertices a1  ak b1  bk must not have any neighbours in the tree other than adjacent vertices of corresponding paths After that one of the paths may be merged into the other that is the vertices b1  bk can be effectively erased  Help Vanya determine if it possible to make the tree into a path via a sequence of described operations and if the answer is positive also determine the shortest length of such path

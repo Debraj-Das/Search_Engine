@@ -1,0 +1,9 @@
+Sum of Two Numbers                    
+
+https://codeforces.com/problemset/problem/1788/B
+
+constructive algorithms
+
+1100
+
+The sum of digits of a non-negative integer a is the result of summing up its digits together when written in the decimal system. For example, the sum of digits of 123 is 6 and the sum of digits of 10 is 1. In a formal way, the sum of digits of \displaystyle a=\sum_{i=0}^{\infty} a_i \cdot 10^i, where 0 \leq a_i \leq 9, is defined as \displaystyle\sum_{i=0}^{\infty}{a_i}.Given an integer n, find two non-negative integers x and y which satisfy the following conditions.  x+y=n, and  the sum of digits of x and the sum of digits of y differ by at most 1. It can be shown that such x and y always exist.

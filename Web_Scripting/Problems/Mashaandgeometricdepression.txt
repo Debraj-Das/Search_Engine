@@ -1,0 +1,9 @@
+Masha and geometric depression                    
+
+httpscodeforcescomproblemsetproblem789B
+
+brute force
+
+1700
+
+Masha really loves algebra On the last lesson her strict teacher Dvastan gave she new exerciseYou are given geometric progression b defined by two integers b1 and q Remind that a geometric progression is a sequence of integers b1b2b3 where for each i1 the respective term satisfies the condition bibi1q where q is called the common ratio of the progression Progressions in Uzhlyandia are unusual both b1 and q can equal 0 Also Dvastan gave Masha m bad integers a1a2am and an integer lMasha writes all progression terms one by one onto the board including repetitive while condition bil is satisfied x means absolute value of x There is an exception if a term equals one of the bad integers Masha skips it doesnt write onto the board and moves forward to the next termBut the lesson is going to end soon so Masha has to calculate how many integers will be written on the board In order not to get into depression Masha asked you for help help her calculate how many numbers she will write or print inf in case she needs to write infinitely many integers

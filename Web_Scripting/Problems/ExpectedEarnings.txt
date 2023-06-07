@@ -1,0 +1,9 @@
+Expected Earnings                    
+
+httpscodeforcescomproblemsetproblem838F
+
+
+
+2800
+
+You are playing a game with a bag of red and black balls Initially you are told that the bag has n balls total In addition you are also told that the bag has probability pi106 of containing exactly i red ballsYou now would like to buy balls from this bag You really like the color red so red balls are worth a unit of 1 while black balls are worth nothing To buy a ball if there are still balls in the bag you pay a cost c with 0c1 and draw a ball randomly from the bag You can choose to stop buying at any point and you can even choose to not buy anything at allGiven that you buy optimally to maximize the expected profit ie  red balls  cost needed to obtain them print the maximum expected profit

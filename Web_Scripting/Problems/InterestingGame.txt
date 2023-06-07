@@ -1,0 +1,9 @@
+Interesting Game                    
+
+httpscodeforcescomproblemsetproblem87C
+
+dp
+
+2000
+
+Two best friends Serozha and Gena play a gameInitially there is one pile consisting of n stones on the table During one move one pile should be taken and divided into an arbitrary number of piles consisting of a1a2ak0 stones The piles should meet the condition a1a2a2a3ak1ak1 Naturally the number of piles k should be no less than twoThe friends play in turns The player who cannot make a move loses Serozha makes the first move Who will win if both players play in the optimal way

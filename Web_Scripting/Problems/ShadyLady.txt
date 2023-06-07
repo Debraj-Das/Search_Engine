@@ -1,0 +1,9 @@
+Shady Lady                    
+
+https://codeforces.com/problemset/problem/1045/F
+
+geometry
+
+3400
+
+Ani and Borna are playing a short game on a two-variable polynomial. It's a special kind of a polynomial: the monomials are fixed, but all of its coefficients are fill-in-the-blanks dashes, e.g.  \_ xy + \_ x^4 y^7 + \_ x^8 y^3 + \ldots Borna will fill in the blanks with positive integers. He wants the polynomial to be bounded from below, i.e. his goal is to make sure there exists a real number M such that the value of the polynomial at any point is greater than M.  Ani is mischievous, and wants the polynomial to be unbounded. Along with stealing Borna's heart, she can also steal parts of polynomials. Ani is only a petty kind of thief, though: she can only steal at most one monomial from the polynomial before Borna fills in the blanks. If Ani and Borna play their only moves optimally, who wins?

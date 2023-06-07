@@ -1,0 +1,9 @@
+Burenka and Traditions (easy version)                    
+
+https://codeforces.com/problemset/problem/1718/A1
+
+dp
+
+1800
+
+This is the easy version of this problem. The difference between easy and hard versions is only the constraints on a_i and on n. You can make hacks only if both versions of the problem are solved.Burenka is the crown princess of Buryatia, and soon she will become the n-th queen of the country. There is an ancient tradition in Buryatia — before the coronation, the ruler must show their strength to the inhabitants. To determine the strength of the n-th ruler, the inhabitants of the country give them an array of a of exactly n numbers, after which the ruler must turn all the elements of the array into zeros in the shortest time. The ruler can do the following two-step operation any number of times:   select two indices l and r, so that 1 \le l \le r \le n and a non-negative integer x, then  for all l \leq i \leq r assign a_i := a_i \oplus x, where \oplus denotes the bitwise XOR operation. It takes \left\lceil \frac{r-l+1}{2} \right\rceil seconds to do this operation, where \lceil y \rceil denotes y rounded up to the nearest integer. Help Burenka calculate how much time she will need.

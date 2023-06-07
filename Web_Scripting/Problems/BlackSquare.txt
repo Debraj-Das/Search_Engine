@@ -1,0 +1,9 @@
+Black Square                    
+
+httpscodeforcescomproblemsetproblem828B
+
+implementation
+
+1300
+
+Polycarp has a checkered sheet of paper of size nm Polycarp painted some of cells with black the others remained white Inspired by Malevichs Black Square Polycarp wants to paint minimum possible number of white cells with black so that all black cells form a squareYou are to determine the minimum possible number of cells needed to be painted black so that the black cells form a black square with sides parallel to the paintings sides All the cells that do not belong to the square should be white The squares side should have positive length

@@ -1,0 +1,9 @@
+Primitive Primes                    
+
+https://codeforces.com/problemset/problem/1316/C
+
+constructive algorithms
+
+1800
+
+It is Professor R's last class of his teaching career. Every time Professor R taught a class, he gave a special problem for the students to solve. You being his favourite student, put your heart into solving it one last time.You are given two polynomials f(x) = a_0 + a_1x + \dots + a_{n-1}x^{n-1} and g(x) = b_0 + b_1x + \dots + b_{m-1}x^{m-1}, with positive integral coefficients. It is guaranteed that the cumulative GCD of the coefficients is equal to 1 for both the given polynomials. In other words, gcd(a_0, a_1, \dots, a_{n-1}) = gcd(b_0, b_1, \dots, b_{m-1}) = 1. Let h(x) = f(x)\cdot g(x). Suppose that h(x) = c_0 + c_1x + \dots + c_{n+m-2}x^{n+m-2}. You are also given a prime number p. Professor R challenges you to find any t such that c_t isn't divisible by p. He guarantees you that under these conditions such t always exists. If there are several such t, output any of them.As the input is quite large, please use fast input reading methods.

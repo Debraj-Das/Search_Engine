@@ -1,0 +1,9 @@
+Array Partition                    
+
+https://codeforces.com/problemset/problem/1454/F
+
+binary search
+
+2100
+
+You are given an array a consisting of n integers.Let min(l, r) be the minimum value among a_l, a_{l + 1}, \ldots, a_r and max(l, r) be the maximum value among a_l, a_{l + 1}, \ldots, a_r.Your task is to choose three positive (greater than 0) integers x, y and z such that:  x + y + z = n;  max(1, x) = min(x + 1, x + y) = max(x + y + 1, n). In other words, you have to split the array a into three consecutive non-empty parts that cover the whole array and the maximum in the first part equals the minimum in the second part and equals the maximum in the third part (or determine it is impossible to find such a partition).Among all such triples (partitions), you can choose any.You have to answer t independent test cases.

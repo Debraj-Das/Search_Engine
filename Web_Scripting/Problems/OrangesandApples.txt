@@ -1,0 +1,9 @@
+Oranges and Apples                    
+
+httpscodeforcescomproblemsetproblem23C
+
+constructive algorithms
+
+2500
+
+In 2N1 boxes there are apples and oranges Your task is to choose N boxes so that they will contain not less than half of all the apples and not less than half of all the oranges

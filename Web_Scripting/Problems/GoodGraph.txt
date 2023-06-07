@@ -1,0 +1,9 @@
+Good Graph                    
+
+https://codeforces.com/problemset/problem/1555/F
+
+data structures
+
+2700
+
+You have an undirected graph consisting of n vertices with weighted edges.A simple cycle is a cycle of the graph without repeated vertices. Let the weight of the cycle be the XOR of weights of edges it consists of.Let's say the graph is good if all its simple cycles have weight 1. A graph is bad if it's not good.Initially, the graph is empty. Then q queries follow. Each query has the next type:   u v x — add edge between vertices u and v of weight x if it doesn't make the graph bad. For each query print, was the edge added or not.

@@ -1,0 +1,9 @@
+Oolimry and Suffix Array                    
+
+https://codeforces.com/problemset/problem/1526/E
+
+combinatorics
+
+2400
+
+Once upon a time, Oolimry saw a suffix array. He wondered how many strings can produce this suffix array. More formally, given a suffix array of length n and having an alphabet size k, count the number of strings that produce such a suffix array. Let s be a string of length n. Then the i-th suffix of s is the substring s[i \ldots n-1]. A suffix array is the array of integers that represent the starting indexes of all the suffixes of a given string, after the suffixes are sorted in the lexicographic order. For example, the suffix array of oolimry is [3,2,4,1,0,5,6] as the array of sorted suffixes is [\texttt{imry},\texttt{limry},\texttt{mry},\texttt{olimry},\texttt{oolimry},\texttt{ry},\texttt{y}]. A string x is lexicographically smaller than string y, if either x is a prefix of y (and x\neq y), or there exists such i that x_i < y_i, and for any 1\leq j < i , x_j = y_j.

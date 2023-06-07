@@ -1,0 +1,9 @@
+Cave Painting                    
+
+httpscodeforcescomproblemsetproblem922C
+
+brute force
+
+1600
+
+Imp is watching a documentary about cave painting  Some numbers carved in chaotic order immediately attracted his attention Imp rapidly proposed a guess that they are the remainders of division of a number n by all integers i from 1 to k Unfortunately there are too many integers to analyze for ImpImp wants you to check whether all these remainders are distinct Formally he wants to check if all  1ik are distinct ie there is no such pair ij that   1ijk   where  is the remainder of division x by y 

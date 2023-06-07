@@ -1,0 +1,9 @@
+Knowledge Cards                    
+
+https://codeforces.com/problemset/problem/1740/D
+
+constructive algorithms
+
+1500
+
+Pak Chanek, a renowned scholar, invented a card puzzle using his knowledge. In the puzzle, you are given a board with n rows and m columns. Let (r, c) represent the cell in the r-th row and the c-th column.Initially, there are k cards stacked in cell (1, 1). Each card has an integer from 1 to k written on it. More specifically, the i-th card from the top of the stack in cell (1, 1) has the number a_i written on it. It is known that no two cards have the same number written on them. In other words, the numbers written on the cards are a permutation of integers from 1 to k. All other cells are empty.You need to move the k cards to cell (n, m) to create another stack of cards. Let b_i be the number written on the i-th card from the top of the stack in cell (n, m). You should create the stack in cell (n, m) in such a way so that b_i = i for all 1 \leq i \leq k.In one move, you can remove the top card from a cell and place it onto an adjacent cell (a cell that shares a common side). If the target cell already contains one or more cards, you place your card on the top of the stack. You must do each operation while satisfying the following restrictions:   Each cell other than (1,1) and (n,m) must not have more than one card on it.  You cannot move a card onto cell (1,1).  You cannot move a card from cell (n,m). Given the values of n, m, k and the array a, determine if the puzzle is solvable.

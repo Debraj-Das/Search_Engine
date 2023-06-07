@@ -1,0 +1,9 @@
+Weakness and Poorness                    
+
+httpscodeforcescomproblemsetproblem578C
+
+ternary search
+
+2000
+
+You are given a sequence of n integers a1a2an Determine a real number x such that the weakness of the sequence a1xa2xanx is as small as possibleThe weakness of a sequence is defined as the maximum value of the poorness over all segments contiguous subsequences of a sequenceThe poorness of a segment is defined as the absolute value of sum of the elements of segment

@@ -1,0 +1,9 @@
+Lever                    
+
+httpscodeforcescomproblemsetproblem376A
+
+implementation
+
+900
+
+You have a description of a lever as string s Well represent the string length as record s then the lever looks as a horizontal bar with weights of length s1 with exactly one pivot We will assume that the bar is a segment on the Ox axis between points 0 and s1The decoding of the lever description is given below  If the ith character of the string equals  that means that at coordinate i there is the pivot under the bar  If the ith character of the string equals  that means that at coordinate i there is nothing lying on the bar  If the ith character of the string equals digit c 19 that means that at coordinate i there is a weight of mass c on the bar Your task is given the lever description print if it will be in balance or not Assume that the bar doesnt weight anything Assume that the bar initially is in balance then all weights are simultaneously put on it After that the bar either tilts to the left or tilts to the right or is in balance

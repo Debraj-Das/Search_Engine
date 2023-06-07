@@ -1,0 +1,9 @@
+Mr Kitayutas Technology                    
+
+httpscodeforcescomproblemsetproblem505D
+
+dfs and similar
+
+2200
+
+Shuseki Kingdom is the worlds leading nation for innovation and technology There are n cities in the kingdom numbered from 1 to nThanks to Mr Kitayutas research it has finally become possible to construct teleportation pipes between two cities A teleportation pipe will connect two cities unidirectionally that is a teleportation pipe from city x to city y cannot be used to travel from city y to city x The transportation within each city is extremely developed therefore if a pipe from city x to city y and a pipe from city y to city z are both constructed people will be able to travel from city x to city z instantlyMr Kitayuta is also involved in national politics He considers that the transportation between the m pairs of city aibi 1im is important He is planning to construct teleportation pipes so that for each important pair aibi it will be possible to travel from city ai to city bi by using one or more teleportation pipes but not necessarily from city bi to city ai Find the minimum number of teleportation pipes that need to be constructed So far no teleportation pipe has been constructed and there is no other effective transportation between cities

@@ -1,0 +1,9 @@
+Zuhair and Strings                    
+
+https://codeforces.com/problemset/problem/1105/B
+
+brute force
+
+1100
+
+Given a string s of length n and integer k (1 \le k \le n). The string s has a level x, if x is largest non-negative integer, such that it's possible to find in s:  x non-intersecting (non-overlapping) substrings of length k,  all characters of these x substrings are the same (i.e. each substring contains only one distinct character and this character is the same for all the substrings). A substring is a sequence of consecutive (adjacent) characters, it is defined by two integers i and j (1 \le i \le j \le n), denoted as s[i \dots j] = "s_{i}s_{i+1} \dots s_{j}".For example, if k = 2, then:  the string "aabb" has level 1 (you can select substring "aa"),  the strings "zzzz" and "zzbzz" has level 2 (you can select two non-intersecting substrings "zz" in each of them),  the strings "abed" and "aca" have level 0 (you can't find at least one substring of the length k=2 containing the only distinct character). Zuhair gave you the integer k and the string s of length n. You need to find x, the level of the string s.

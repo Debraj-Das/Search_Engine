@@ -1,0 +1,9 @@
+Minimum Path                    
+
+https://codeforces.com/problemset/problem/1473/E
+
+graphs
+
+2400
+
+You are given a weighted undirected connected graph consisting of n vertices and m edges. It is guaranteed that there are no self-loops or multiple edges in the given graph.Let's define the weight of the path consisting of k edges with indices e_1, e_2, \dots, e_k as \sum\limits_{i=1}^{k}{w_{e_i}} - \max\limits_{i=1}^{k}{w_{e_i}} + \min\limits_{i=1}^{k}{w_{e_i}}, where w_i — weight of the i-th edge in the graph.Your task is to find the minimum weight of the path from the 1-st vertex to the i-th vertex for each i (2 \le i \le n).

@@ -1,0 +1,9 @@
+Kay and Snowflake                    
+
+https://codeforces.com/problemset/problem/685/B
+
+data structures
+
+1900
+
+After the piece of a devilish mirror hit the Kay's eye, he is no longer interested in the beauty of the roses. Now he likes to watch snowflakes.Once upon a time, he found a huge snowflake that has a form of the tree (connected acyclic graph) consisting of n nodes. The root of tree has index 1. Kay is very interested in the structure of this tree.After doing some research he formed q queries he is interested in. The i-th query asks to find a centroid of the subtree of the node vi. Your goal is to answer all queries.Subtree of a node is a part of tree consisting of this node and all it's descendants (direct or not). In other words, subtree of node v is formed by nodes u, such that node v is present on the path from u to root.Centroid of a tree (or a subtree) is a node, such that if we erase it from the tree, the maximum size of the connected component will be at least two times smaller than the size of the initial tree (or a subtree).

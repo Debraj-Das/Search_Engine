@@ -1,0 +1,9 @@
+Emotes                    
+
+https://codeforces.com/problemset/problem/1117/B
+
+greedy
+
+1000
+
+There are n emotes in very popular digital collectible card game (the game is pretty famous so we won't say its name). The i-th emote increases the opponent's happiness by a_i units (we all know that emotes in this game are used to make opponents happy).You have time to use some emotes only m times. You are allowed to use any emotion once, more than once, or not use it at all. The only restriction is that you cannot use the same emote more than k times in a row (otherwise the opponent will think that you're trolling him).Note that two emotes i and j (i \ne j) such that a_i = a_j are considered different.You have to make your opponent as happy as possible. Find the maximum possible opponent's happiness.

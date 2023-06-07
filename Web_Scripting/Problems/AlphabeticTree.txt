@@ -1,0 +1,9 @@
+Alphabetic Tree                    
+
+https://codeforces.com/problemset/problem/1608/G
+
+binary search
+
+3500
+
+You are given m strings and a tree on n nodes. Each edge has some letter written on it.You have to answer q queries. Each query is described by 4 integers u, v, l and r. The answer to the query is the total number of occurrences of str(u,v) in strings with indices from l to r. str(u,v) is defined as the string that is made by concatenating letters written on the edges on the shortest path from u to v (in order that they are traversed).

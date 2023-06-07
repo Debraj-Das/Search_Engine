@@ -1,0 +1,9 @@
+Stock Arbitraging                    
+
+https://codeforces.com/problemset/problem/1150/A
+
+greedy
+
+800
+
+Welcome to Codeforces Stock Exchange! We're pretty limited now as we currently allow trading on one stock, Codeforces Ltd. We hope you'll still be able to make profit from the market!In the morning, there are n opportunities to buy shares. The i-th of them allows to buy as many shares as you want, each at the price of s_i bourles.In the evening, there are m opportunities to sell shares. The i-th of them allows to sell as many shares as you want, each at the price of b_i bourles. You can't sell more shares than you have.It's morning now and you possess r bourles and no shares.What is the maximum number of bourles you can hold after the evening?

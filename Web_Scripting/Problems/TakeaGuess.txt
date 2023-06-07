@@ -1,0 +1,9 @@
+Take a Guess                    
+
+https://codeforces.com/problemset/problem/1556/D
+
+bitmasks
+
+1800
+
+  This is an interactive taskWilliam has a certain sequence of integers a_1, a_2, \dots, a_n in his mind, but due to security concerns, he does not want to reveal it to you completely. William is ready to respond to no more than 2 \cdot n of the following questions:  What is the result of a bitwise AND of two items with indices i and j (i \neq j)  What is the result of a bitwise OR of two items with indices i and j (i \neq j) You can ask William these questions and you need to find the k-th smallest number of the sequence.Formally the k-th smallest number is equal to the number at the k-th place in a 1-indexed array sorted in non-decreasing order. For example in array [5, 3, 3, 10, 1] 4th smallest number is equal to 5, and 2nd and 3rd are 3.

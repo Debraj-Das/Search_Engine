@@ -1,0 +1,9 @@
+PermutationForces                    
+
+https://codeforces.com/problemset/problem/1672/I
+
+data structures
+
+3000
+
+You have a permutation p of integers from 1 to n.You have a strength of s and will perform the following operation some times:  Choose an index i such that 1 \leq i \leq |p| and |i-p_i| \leq s.  For all j such that 1 \leq j \leq |p| and p_i<p_j, update p_j to p_j-1.  Delete the i-th element from p. Formally, update p to [p_1,\ldots,p_{i-1},p_{i+1},\ldots,p_n]. It can be shown that no matter what i you have chosen, p will be a permutation of integers from 1 to |p| after all operations.You want to be able to transform p into the empty permutation. Find the minimum strength s that will allow you to do so.

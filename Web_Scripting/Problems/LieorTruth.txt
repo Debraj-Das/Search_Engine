@@ -1,0 +1,9 @@
+Lie or Truth                    
+
+httpscodeforcescomproblemsetproblem774D
+
+special problem
+
+1500
+
+Vasya has a sequence of cubes and exactly one integer is written on each cube Vasya exhibited all his cubes in a row So the sequence of numbers written on the cubes in the order from the left to the right equals to a1a2anWhile Vasya was walking his little brother Stepan played with Vasyas cubes and changed their order so now the sequence of numbers written on the cubes became equal to b1b2bn Stepan said that he swapped only cubes which where on the positions between l and r inclusive and did not remove or add any other cubes i e he said that he reordered cubes between positions l and r inclusive in some wayYour task is to determine if it is possible that Stepan said the truth or it is guaranteed that Stepan deceived his brother

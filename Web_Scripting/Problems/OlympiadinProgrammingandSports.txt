@@ -1,0 +1,9 @@
+Olympiad in Programming and Sports                    
+
+https://codeforces.com/problemset/problem/730/I
+
+dp
+
+2000
+
+There are n students at Berland State University. Every student has two skills, each measured as a number: ai — the programming skill and bi — the sports skill.It is announced that an Olympiad in programming and sports will be held soon. That's why Berland State University should choose two teams: one to take part in the programming track and one to take part in the sports track.There should be exactly p students in the programming team and exactly s students in the sports team. A student can't be a member of both teams.The university management considers that the strength of the university on the Olympiad is equal to the sum of two values: the programming team strength and the sports team strength. The strength of a team is the sum of skills of its members in the corresponding area, so the strength of the programming team is the sum of all ai and the strength of the sports team is the sum of all bi over corresponding team members.Help Berland State University to compose two teams to maximize the total strength of the university on the Olympiad.

@@ -1,0 +1,9 @@
+Social Network                    
+
+httpscodeforcescomproblemsetproblem524D
+
+greedy
+
+2100
+
+Polycarpus got an internship in one wellknown social network His test task is to count the number of unique users who have visited a social network during the day Polycarpus was provided with information on all user requests for this time period For each query we know its time and nothing else because Polycarpus has already accidentally removed the user IDs corresponding to the requests from the database Thus it is now impossible to determine whether any two requests are made by the same person or by different peopleBut wait something is still known because that day a record was achieved  M simultaneous users online In addition Polycarpus believes that if a user made a request at second s then he was online for T seconds after that that is at seconds s s1 s2  sT1 So the users time online can be calculated as the union of time intervals of the form ssT1 over all times s of requests from himGuided by these thoughts Polycarpus wants to assign a user ID to each request so that  the number of different users online did not exceed M at any moment  at some second the number of distinct users online reached value M  the total number of users the number of distinct identifiers was as much as possible Help Polycarpus cope with the test

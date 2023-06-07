@@ -1,0 +1,9 @@
+Onedimensional Japanese Crossword                    
+
+httpscodeforcescomproblemsetproblem721A
+
+implementation
+
+800
+
+Recently Adaltik discovered japanese crosswords Japanese crossword is a picture represented as a table sized ab squares and each square is colored white or black There are integers to the left of the rows and to the top of the columns encrypting the corresponding row or column The number of integers represents how many groups of black squares there are in corresponding row or column and the integers themselves represents the number of consecutive black squares in corresponding group you can find more detailed explanation in Wikipedia httpsenwikipediaorgwikiJapanesecrosswordAdaltik decided that the general case of japanese crossword is too complicated and drew a row consisting of n squares eg japanese crossword sized 1n which he wants to encrypt in the same way as in japanese crossword  The example of encrypting of a single row of japanese crossword Help Adaltik find the numbers encrypting the row he drew

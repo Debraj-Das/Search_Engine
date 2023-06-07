@@ -1,0 +1,9 @@
+Number With The Given Amount Of Divisors                    
+
+https://codeforces.com/problemset/problem/27/E
+
+brute force
+
+2000
+
+Given the number n, find the smallest positive integer which has exactly n divisors. It is guaranteed that for the given n the answer will not exceed 1018.

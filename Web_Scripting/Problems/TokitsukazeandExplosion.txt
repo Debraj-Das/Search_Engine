@@ -1,0 +1,9 @@
+Tokitsukaze and Explosion                    
+
+https://codeforces.com/problemset/problem/1190/E
+
+binary search
+
+3100
+
+Tokitsukaze and her friends are trying to infiltrate a secret base built by Claris. However, Claris has been aware of that and set a bomb which is going to explode in a minute. Although they try to escape, they have no place to go after they find that the door has been locked.At this very moment, CJB, Father of Tokitsukaze comes. With his magical power given by Ereshkigal, the goddess of the underworld, CJB is able to set m barriers to protect them from the explosion. Formally, let's build a Cartesian coordinate system on the plane and assume the bomb is at O(0, 0). There are n persons in Tokitsukaze's crew, the i-th one of whom is at P_i(X_i, Y_i). Every barrier can be considered as a line with infinity length and they can intersect each other. For every person from Tokitsukaze's crew, there must be at least one barrier separating the bomb and him, which means the line between the bomb and him intersects with at least one barrier. In this definition, if there exists a person standing at the position of the bomb, any line through O(0, 0) will satisfy the requirement.Although CJB is very powerful, he still wants his barriers to be as far from the bomb as possible, in order to conserve his energy. Please help him calculate the maximum distance between the bomb and the closest barrier while all of Tokitsukaze's crew are safe.

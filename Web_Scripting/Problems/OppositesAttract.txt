@@ -1,0 +1,9 @@
+Opposites Attract                    
+
+httpscodeforcescomproblemsetproblem131B
+
+implementation
+
+1200
+
+Everybody knows that opposites attract That is the key principle of the Perfect Matching dating agency The Perfect Matching matchmakers have classified each registered customer by his interests and assigned to the ith client number ti 10ti10 Of course one number can be assigned to any number of customersPerfect Matching wants to advertise its services and publish the number of opposite couples that is the couples who have opposite values of t Each couple consists of exactly two clients The customer can be included in a couple an arbitrary number of times Help the agency and write the program that will find the sought number by the given sequence t1t2tn For example if t1111 then any two elements ti and tj form a couple if i and j have different parity Consequently in this case the sought number equals 4Of course a client cant form a couple with himherself

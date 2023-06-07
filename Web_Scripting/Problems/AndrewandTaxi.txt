@@ -1,0 +1,9 @@
+Andrew and Taxi                    
+
+https://codeforces.com/problemset/problem/1100/E
+
+binary search
+
+2200
+
+Andrew prefers taxi to other means of transport, but recently most taxi drivers have been acting inappropriately. In order to earn more money, taxi drivers started to drive in circles. Roads in Andrew's city are one-way, and people are not necessary able to travel from one part to another, but it pales in comparison to insidious taxi drivers.The mayor of the city decided to change the direction of certain roads so that the taxi drivers wouldn't be able to increase the cost of the trip endlessly. More formally, if the taxi driver is on a certain crossroads, they wouldn't be able to reach it again if he performs a nonzero trip. Traffic controllers are needed in order to change the direction the road goes. For every road it is known how many traffic controllers are needed to change the direction of the road to the opposite one. It is allowed to change the directions of roads one by one, meaning that each traffic controller can participate in reversing two or more roads.You need to calculate the minimum number of traffic controllers that you need to hire to perform the task and the list of the roads that need to be reversed.

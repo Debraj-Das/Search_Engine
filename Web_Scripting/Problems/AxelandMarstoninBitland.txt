@@ -1,0 +1,9 @@
+Axel and Marston in Bitland                    
+
+https://codeforces.com/problemset/problem/780/F
+
+bitmasks
+
+2400
+
+A couple of friends, Axel and Marston are travelling across the country of Bitland. There are n towns in Bitland, with some pairs of towns connected by one-directional roads. Each road in Bitland is either a pedestrian road or a bike road. There can be multiple roads between any pair of towns, and may even be a road from a town to itself. However, no pair of roads shares the starting and the destination towns along with their types simultaneously.The friends are now located in the town 1 and are planning the travel route. Axel enjoys walking, while Marston prefers biking. In order to choose a route diverse and equally interesting for both friends, they have agreed upon the following procedure for choosing the road types during the travel: The route starts with a pedestrian route. Suppose that a beginning of the route is written in a string s of letters P (pedestrain road) and B (biking road). Then, the string  is appended to s, where  stands for the string s with each character changed to opposite (that is, all pedestrian roads changed to bike roads, and vice versa).In the first few steps the route will look as follows: P, PB, PBBP, PBBPBPPB, PBBPBPPBBPPBPBBP, and so on.After that the friends start travelling from the town 1 via Bitlandian roads, choosing the next road according to the next character of their route type each time. If it is impossible to choose the next road, the friends terminate their travel and fly home instead.Help the friends to find the longest possible route that can be travelled along roads of Bitland according to the road types choosing procedure described above. If there is such a route with more than 1018 roads in it, print -1 instead.

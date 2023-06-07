@@ -1,0 +1,9 @@
+Integer Points                    
+
+https://codeforces.com/problemset/problem/1248/A
+
+geometry
+
+1000
+
+DLS and JLS are bored with a Math lesson. In order to entertain themselves, DLS took a sheet of paper and drew n distinct lines, given by equations y = x + p_i for some distinct p_1, p_2, \ldots, p_n.Then JLS drew on the same paper sheet m distinct lines given by equations y = -x + q_i for some distinct q_1, q_2, \ldots, q_m.DLS and JLS are interested in counting how many line pairs have integer intersection points, i.e. points with both coordinates that are integers. Unfortunately, the lesson will end up soon, so DLS and JLS are asking for your help.

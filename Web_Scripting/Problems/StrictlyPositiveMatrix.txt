@@ -1,0 +1,9 @@
+Strictly Positive Matrix                    
+
+httpscodeforcescomproblemsetproblem402E
+
+graphs
+
+2200
+
+You have matrix a of size nn Lets number the rows of the matrix from 1 to n from top to bottom lets number the columns from 1 to n from left to right Lets use aij to represent the element on the intersection of the ith row and the jth column Matrix a meets the following two conditions   for any numbers ij 1ijn the following inequality holds aij0   Matrix b is strictly positive if for any numbers ij 1ijn the inequality bij0 holds You task is to determine if there is such integer k1 that matrix ak is strictly positive

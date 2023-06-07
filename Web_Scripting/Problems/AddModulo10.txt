@@ -1,0 +1,9 @@
+Add Modulo 10                    
+
+https://codeforces.com/problemset/problem/1714/E
+
+brute force
+
+1400
+
+You are given an array of n integers a_1, a_2, \dots, a_nYou can apply the following operation an arbitrary number of times:   select an index i (1 \le i \le n) and replace the value of the element a_i with the value a_i + (a_i \bmod 10), where a_i \bmod 10 is the remainder of the integer dividing a_i by 10. For a single index (value i), this operation can be applied multiple times. If the operation is applied repeatedly to the same index, then the current value of a_i is taken into account each time. For example, if a_i=47 then after the first operation we get a_i=47+7=54, and after the second operation we get a_i=54+4=58.Check if it is possible to make all array elements equal by applying multiple (possibly zero) operations.For example, you have an array [6, 11].   Let's apply this operation to the first element of the array. Let's replace a_1 = 6 with a_1 + (a_1 \bmod 10) = 6 + (6 \bmod 10) = 6 + 6 = 12. We get the array [12, 11].  Then apply this operation to the second element of the array. Let's replace a_2 = 11 with a_2 + (a_2 \bmod 10) = 11 + (11 \bmod 10) = 11 + 1 = 12. We get the array [12, 12]. Thus, by applying 2 operations, you can make all elements of an array equal.

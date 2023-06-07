@@ -1,0 +1,9 @@
+Three Horses                    
+
+httpscodeforcescomproblemsetproblem271E
+
+constructive algorithms
+
+2200
+
+There are three horses living in a horse land one gray one white and one grayandwhite The horses are really amusing animals which is why they adore special cards Each of those cards must contain two integers the first one on top the second one in the bottom of the card Lets denote a card with a on the top and b in the bottom as abEach of the three horses can paint the special cards If you show an ab card to the gray horse then the horse can paint a new a1b1 card If you show an ab card such that a and b are even integers to the white horse then the horse can paint a new  card If you show two cards ab and bc to the grayandwhite horse then he can paint a new ac cardPolycarpus really wants to get n special cards 1a1 1a2  1an For that he is going to the horse land He can take exactly one xy card to the horse land such that 1xym How many ways are there to choose the card so that he can perform some actions in the horse land and get the required cardsPolycarpus can get cards from the horses only as a result of the actions that are described above Polycarpus is allowed to get additional cards besides the cards that he requires

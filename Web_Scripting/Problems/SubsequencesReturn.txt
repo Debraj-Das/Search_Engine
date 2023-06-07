@@ -1,0 +1,9 @@
+Subsequences Return                    
+
+httpscodeforcescomproblemsetproblem497E
+
+dp
+
+2900
+
+Assume that skn equals the sum of digits of number n in the kbased notation For example s25s210121012 s314s311231124The sequence of integers a0an1 is defined as  Your task is to calculate the number of distinct subsequences of sequence a0an1 Calculate the answer modulo 1097Sequence a1ak is called to be a subsequence of sequence b1bl if there is a sequence of indices 1i1ikl such that a1bi1  akbik In particular an empty sequence ie the sequence consisting of zero elements is a subsequence of any sequence

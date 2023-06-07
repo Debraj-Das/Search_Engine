@@ -1,0 +1,9 @@
+Ancient Berland Hieroglyphs                    
+
+httpscodeforcescomproblemsetproblem164B
+
+two pointers
+
+2000
+
+Polycarpus enjoys studying Berland hieroglyphs Once Polycarp got hold of two ancient Berland pictures on each of which was drawn a circle of hieroglyphs We know that no hieroglyph occurs twice in either the first or the second circle but in can occur once in each of themPolycarpus wants to save these pictures on his laptop but the problem is laptops do not allow to write hieroglyphs circles So Polycarp had to break each circle and write down all of its hieroglyphs in a clockwise order in one line A line obtained from the first circle will be called a and the line obtained from the second one will be called bThere are quite many ways to break hieroglyphic circles so Polycarpus chooses the method that makes the length of the largest substring of string a which occurs as a subsequence in string b maximumHelp Polycarpus  find the maximum possible length of the desired substring subsequence if the first and the second circles are broken optimallyThe length of string s is the number of characters in it If we denote the length of string s as s we can write the string as ss1s2 ssA substring of s is a nonempty string xsa bsasa1 sb 1abs For example code and force are substrings of codeforces while coders is not A subsequence of s is a nonempty string ysp1p2 pysp1sp2 spy 1p1p2pys For example coders is a subsequence of codeforces

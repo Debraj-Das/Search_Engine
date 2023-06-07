@@ -1,0 +1,9 @@
+String Modification                    
+
+https://codeforces.com/problemset/problem/1316/B
+
+brute force
+
+1400
+
+Vasya has a string s of length n. He decides to make the following modification to the string:   Pick an integer k, (1 \leq k \leq n).  For i from 1 to n-k+1, reverse the substring s[i:i+k-1] of s. For example, if string s is qwer and k = 2, below is the series of transformations the string goes through:   qwer (original string)  wqer (after reversing the first substring of length 2)  weqr (after reversing the second substring of length 2)  werq (after reversing the last substring of length 2)  Hence, the resulting string after modifying s with k = 2 is werq. Vasya wants to choose a k such that the string obtained after the above-mentioned modification is lexicographically smallest possible among all choices of k. Among all such k, he wants to choose the smallest one. Since he is busy attending Felicity 2020, he asks for your help.A string a is lexicographically smaller than a string b if and only if one of the following holds:   a is a prefix of b, but a \ne b;  in the first position where a and b differ, the string a has a letter that appears earlier in the alphabet than the corresponding letter in b. 

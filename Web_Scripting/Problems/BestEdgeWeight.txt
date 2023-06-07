@@ -1,0 +1,9 @@
+Best Edge Weight                    
+
+https://codeforces.com/problemset/problem/827/D
+
+data structures
+
+2700
+
+You are given a connected weighted graph with n vertices and m edges. The graph doesn't contain loops nor multiple edges. Consider some edge with id i. Let's determine for this edge the maximum integer weight we can give to it so that it is contained in all minimum spanning trees of the graph if we don't change the other weights.You are to determine this maximum weight described above for each edge. You should calculate the answer for each edge independently, it means there can't be two edges with changed weights at the same time.

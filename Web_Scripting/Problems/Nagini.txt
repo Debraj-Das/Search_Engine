@@ -1,0 +1,9 @@
+Nagini                    
+
+httpscodeforcescomproblemsetproblem855F
+
+binary search
+
+3100
+
+Nagini being a horcrux Youknowwho created with the murder of Bertha Jorkins has accumulated its army of snakes and is launching an attack on Hogwarts school Hogwarts entrance can be imagined as a straight line xaxis from 1 to 105 Nagini is launching various snakes at the Hogwarts entrance Each snake lands parallel to the entrance covering a segment at a distance k from xl to xr Formally each snake can be imagined as being a line segment between points lk and rk Note that k can be both positive and negative but not 0Let at some xcoordinate xi there be snakes at point iy1 and point iy2 such that y10 and y20 Then if for any point iy3 containing a snake such that y30 y1y3 holds and for any point iy4 containing a snake such that y40 y2y4 holds then the danger value at coordinate xi is y1y2 If no such y1 and y2 exist danger value is 0 Harry wants to calculate the danger value of various segments of the Hogwarts entrance Danger value for a segment lr of the entrance can be calculated by taking the sum of danger values for each integer xcoordinate present in the segmentFormally you have to implement two types of queries  1 l r k a snake is added parallel to entrance from xl to xr at ycoordinate yk l inclusive r exclusive  2 l r you have to calculate the danger value of segment l to r l inclusive r exclusive 

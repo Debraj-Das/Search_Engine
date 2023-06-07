@@ -1,0 +1,9 @@
+Four Divisors                    
+
+httpscodeforcescomproblemsetproblem665F
+
+data structures
+
+2400
+
+If an integer a is divisible by another integer b then b is called the divisor of aFor example 12 has positive 6 divisors They are 1 2 3 4 6 and 12Lets define a function Dn  number of integers between 1 and n inclusive which has exactly four positive divisorsBetween 1 and 10 only the integers 6 8 and 10 has exactly four positive divisors So D103You are given an integer n You have to calculate Dn

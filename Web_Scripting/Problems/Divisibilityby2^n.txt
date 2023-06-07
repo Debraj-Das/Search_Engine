@@ -1,0 +1,9 @@
+Divisibility by 2^n                    
+
+https://codeforces.com/problemset/problem/1744/D
+
+greedy
+
+1200
+
+You are given an array of positive integers a_1, a_2, \ldots, a_n.Make the product of all the numbers in the array (that is, a_1 \cdot a_2 \cdot \ldots \cdot a_n) divisible by 2^n.You can perform the following operation as many times as you like:  select an arbitrary index i (1 \leq i \leq n) and replace the value a_i with a_i=a_i \cdot i. You cannot apply the operation repeatedly to a single index. In other words, all selected values of i must be different.Find the smallest number of operations you need to perform to make the product of all the elements in the array divisible by 2^n. Note that such a set of operations does not always exist.

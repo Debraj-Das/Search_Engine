@@ -1,0 +1,9 @@
+Settlement of Guinea Pigs                    
+
+https://codeforces.com/problemset/problem/1802/B
+
+greedy
+
+1000
+
+Dasha loves guinea pigs very much. In this regard, she decided to settle as many guinea pigs at home as possible and developed a plan for the next n days. Every day, she will either buy a new guinea pig or call a doctor to examine all her pets.Unfortunately, the store where she was going to buy guinea pigs does not understand them. Therefore, it cannot determine their gender. Dasha can't do it either. The only one who can help is a doctor. To keep guinea pigs, aviaries are needed. Dasha plans to buy them in the same store. Unfortunately, only one species is sold there — a double aviary. No more than two guinea pigs can live in it.Since Dasha does not want to cause moral injury to her pets — she will not settle two guinea pigs of different genders in one aviary.Help Dasha calculate how many aviaries in the worst case you need to buy so that you can be sure that at no moment of time do two guinea pigs of different genders live in the same aviary.As part of this task, we believe that guinea pigs have only two genders — male and female.

@@ -1,0 +1,9 @@
+Bear and Fair Set                    
+
+httpscodeforcescomproblemsetproblem628F
+
+flows
+
+2500
+
+Limak is a grizzly bear He is big and dreadful You were chilling in the forest when you suddenly met him Its very unfortunate for you He will eat all your cookies unless you can demonstrate your mathematical skills To test you Limak is going to give you a puzzle to solveIts a wellknown fact that Limak as every bear owns a set of numbers You know some information about the set  The elements of the set are distinct positive integers  The number of elements in the set is n The number n is divisible by 5  All elements are between 1 and b inclusive bears dont know numbers greater than b  For each r in 01234 the set contains exactly  elements that give remainder r when divided by 5 That is there are  elements divisible by 5  elements of the form 5k1  elements of the form 5k2 and so on Limak smiles mysteriously and gives you q hints about his set The ith hint is the following sentence If you only look at elements that are between 1 and upToi inclusive you will find exactly quantityi such elements in my setIn a moment Limak will tell you the actual puzzle but something doesnt seem right That smile was very strange You start to think about a possible reason Maybe Limak cheated you Or is he a fair grizzly bearGiven n b q and hints check whether Limak can be fair ie there exists at least one set satisfying the given conditions If its possible then print fair Otherwise print unfair

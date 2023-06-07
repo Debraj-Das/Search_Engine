@@ -1,0 +1,9 @@
+Comfortably Numb                    
+
+https://codeforces.com/problemset/problem/1777/F
+
+bitmasks
+
+2400
+
+You are given an array a consisting of n non-negative integers.The numbness of a subarray a_l, a_{l+1}, \ldots, a_r (for arbitrary l \leq r) is defined as \max(a_l, a_{l+1}, \ldots, a_r) \oplus (a_l \oplus a_{l+1} \oplus \ldots \oplus a_r), where \oplus denotes the bitwise XOR operation.Find the maximum numbness over all subarrays.

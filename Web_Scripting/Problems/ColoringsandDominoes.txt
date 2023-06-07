@@ -1,0 +1,9 @@
+Colorings and Dominoes                    
+
+https://codeforces.com/problemset/problem/1511/E
+
+combinatorics
+
+2100
+
+You have a large rectangular board which is divided into n \times m cells (the board has n rows and m columns). Each cell is either white or black.You paint each white cell either red or blue. Obviously, the number of different ways to paint them is 2^w, where w is the number of white cells.After painting the white cells of the board, you want to place the maximum number of dominoes on it, according to the following rules:  each domino covers two adjacent cells;  each cell is covered by at most one domino;  if a domino is placed horizontally (it covers two adjacent cells in one of the rows), it should cover only red cells;  if a domino is placed vertically (it covers two adjacent cells in one of the columns), it should cover only blue cells. Let the value of the board be the maximum number of dominoes you can place. Calculate the sum of values of the board over all 2^w possible ways to paint it. Since it can be huge, print it modulo 998\,244\,353.

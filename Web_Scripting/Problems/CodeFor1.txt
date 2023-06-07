@@ -1,0 +1,9 @@
+Code For 1                    
+
+httpscodeforcescomproblemsetproblem768B
+
+constructive algorithms
+
+1600
+
+Jon fought bravely to rescue the wildlings who were attacked by the whitewalkers at Hardhome On his arrival Sam tells him that he wants to go to Oldtown to train at the Citadel to become a maester so he can return and take the deceased Aemons place as maester of Castle Black Jon agrees to Sams proposal and Sam sets off his journey to the Citadel However becoming a trainee at the Citadel is not a cakewalk and hence the maesters at the Citadel gave Sam a problem to test his eligibility Initially Sam has a list with a single element n Then he has to perform certain operations on this list In each operation Sam must remove any element x such that x1 from the list and insert at the same position    sequentially He must continue with these operations until all the elements in the list are either 0 or 1Now the masters want the total number of 1s in the range l to r 1indexed Sam wants to become a maester but unfortunately he cannot solve this problem Can you help Sam to pass the eligibility test

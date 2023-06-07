@@ -1,0 +1,9 @@
+Isolation                    
+
+https://codeforces.com/problemset/problem/1129/D
+
+data structures
+
+2900
+
+Find the number of ways to divide an array a of n integers into any number of disjoint non-empty segments so that, in each segment, there exist at most k distinct integers that appear exactly once.Since the answer can be large, find it modulo 998\,244\,353.

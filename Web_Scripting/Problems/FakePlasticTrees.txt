@@ -1,0 +1,9 @@
+Fake Plastic Trees                    
+
+https://codeforces.com/problemset/problem/1693/B
+
+dfs and similar
+
+1700
+
+We are given a rooted tree consisting of n vertices numbered from 1 to n. The root of the tree is the vertex 1 and the parent of the vertex v is p_v.There is a number written on each vertex, initially all numbers are equal to 0. Let's denote the number written on the vertex v as a_v.For each v, we want a_v to be between l_v and r_v (l_v \leq a_v \leq r_v).In a single operation we do the following:   Choose some vertex v. Let b_1, b_2, \ldots, b_k be vertices on the path from the vertex 1 to vertex v (meaning b_1 = 1, b_k = v and b_i = p_{b_{i + 1}}). Choose a non-decreasing array c of length k of nonnegative integers: 0 \leq c_1 \leq c_2 \leq \ldots \leq c_k. For each i (1 \leq i \leq k), increase a_{b_i} by c_i. What's the minimum number of operations needed to achieve our goal?

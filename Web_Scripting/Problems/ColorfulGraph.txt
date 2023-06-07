@@ -1,0 +1,9 @@
+Colorful Graph                    
+
+httpscodeforcescomproblemsetproblem246D
+
+brute force
+
+1600
+
+Youve got an undirected graph consisting of n vertices and m edges We will consider the graphs vertices numbered with integers from 1 to n Each vertex of the graph has a color The color of the ith vertex is an integer ciLets consider all vertices of the graph that are painted some color k Lets denote a set of such as Vk Lets denote the value of the neighbouring color diversity for color k as the cardinality of the set Qkcucuk and there is vertex v belonging to set Vk such that nodes v and u are connected by an edge of the graphYour task is to find such color k which makes the cardinality of set Qk maximum In other words you want to find the color that has the most diverse neighbours Please note that you want to find such color k that the graph has at least one vertex with such color

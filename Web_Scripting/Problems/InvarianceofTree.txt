@@ -1,0 +1,9 @@
+Invariance of Tree                    
+
+httpscodeforcescomproblemsetproblem576B
+
+constructive algorithms
+
+2100
+
+A tree of size n is an undirected connected graph consisting of n vertices without cyclesConsider some tree with n vertices We call a tree invariant relative to permutation pp1p2 pn if for any two vertices of the tree u and v the condition holds vertices u and v are connected by an edge if and only if vertices pu and pv are connected by an edgeYou are given permutation p of size n Find some tree size n invariant relative to the given permutation

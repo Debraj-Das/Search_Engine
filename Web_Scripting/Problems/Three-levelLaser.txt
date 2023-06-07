@@ -1,0 +1,9 @@
+Threelevel Laser                    
+
+httpscodeforcescomproblemsetproblem924B
+
+binary search
+
+1600
+
+An atom of element X can exist in n distinct states with energies E1E2En Arkady wants to build a laser on this element using a threelevel scheme Here is a simplified description of the scheme Three distinct states i j and k are selected where ijk After that the following process happens   initially the atom is in the state i we spend EkEi energy to put the atom in the state k the atom emits a photon with useful energy EkEj and changes its state to the state j the atom spontaneously changes its state to the state i losing energy EjEi the process repeats from step 1 Lets define the energy conversion efficiency as  ie the ration between the useful energy of the photon and spent energyDue to some limitations Arkady can only choose such three states that EkEiUHelp Arkady to find such the maximum possible energy conversion efficiency within the above constraints

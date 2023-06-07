@@ -1,0 +1,9 @@
+Restoration of the Permutation                    
+
+httpscodeforcescomproblemsetproblem67B
+
+greedy
+
+1800
+
+Let Aa1a2an be any permutation of the first n natural numbers 12n You are given a positive integer k and another sequence Bb1b2bn where bi is the number of elements aj in A to the left of the element ati such that ajikFor example if n5 a possible A is 51423 For k2 B is given by 12100 But if k3 then B11000For two sequences Xx1x2xn and Yy1y2yn let ith elements be the first elements such that xiyi If xiyi then X is lexicographically smaller than Y while if xiyi then X is lexicographically greater than YGiven n k and B you need to determine the lexicographically smallest A

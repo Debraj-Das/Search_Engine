@@ -1,0 +1,9 @@
+Nature Reserve                    
+
+https://codeforces.com/problemset/problem/1059/D
+
+binary search
+
+2200
+
+There is a forest that we model as a plane and live n rare animals. Animal number i has its lair in the point (x_{i}, y_{i}). In order to protect them, a decision to build a nature reserve has been made.The reserve must have a form of a circle containing all lairs. There is also a straight river flowing through the forest. All animals drink from this river, therefore it must have at least one common point with the reserve. On the other hand, ships constantly sail along the river, so the reserve must not have more than one common point with the river.For convenience, scientists have made a transformation of coordinates so that the river is defined by y = 0. Check whether it is possible to build a reserve, and if possible, find the minimum possible radius of such a reserve.

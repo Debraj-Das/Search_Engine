@@ -1,0 +1,9 @@
+Photographs (II)                    
+
+https://codeforces.com/problemset/problem/690/E2
+
+
+
+2600
+
+Zombies seem to have become much more intelligent lately – a few have somehow wandered into the base through the automatic gate. Heidi has had to beef up security, and a new gate has been installed. Unfortunately, now the questions being asked are more complicated, and even humans have trouble answering them. Can you still program the robot army to do this reliably?The new questions are of the following form: a grayscale photograph has been divided into several horizontal pieces, which have been arbitrarily rearranged. The task is to assemble the original image back from these pieces (somewhat like in a jigsaw puzzle). To further delay the zombies, significant Gaussian-distributed noise has been added to the image.

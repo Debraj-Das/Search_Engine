@@ -1,0 +1,9 @@
+Long Jumps                    
+
+httpscodeforcescomproblemsetproblem479D
+
+binary search
+
+1700
+
+Valery is a PE teacher at a school in Berland Soon the students are going to take a test in long jumps and Valery has lost his favorite ruler However there is no reason for disappointment as Valery has found another ruler its length is l centimeters The ruler already has n marks with which he can make measurements We assume that the marks are numbered from 1 to n in the order they appear from the beginning of the ruler to its end The first point coincides with the beginning of the ruler and represents the origin The last mark coincides with the end of the ruler at distance l from the origin This ruler can be repesented by an increasing sequence a1a2an where ai denotes the distance of the ith mark from the origin a10 anlValery believes that with a ruler he can measure the distance of d centimeters if there is a pair of integers i and j 1ijn such that the distance between the ith and the jth mark is exactly equal to d in other words ajaid Under the rules the girls should be able to jump at least x centimeters and the boys should be able to jump at least y xy centimeters To test the childrens abilities Valery needs a ruler to measure each of the distances x and y Your task is to determine what is the minimum number of additional marks you need to add on the ruler so that they can be used to measure the distances x and y Valery can add the marks at any integer nonnegative distance from the origin not exceeding the length of the ruler

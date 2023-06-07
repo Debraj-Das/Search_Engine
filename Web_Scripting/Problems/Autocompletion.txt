@@ -1,0 +1,9 @@
+Autocompletion                    
+
+https://codeforces.com/problemset/problem/1312/G
+
+data structures
+
+2600
+
+You are given a set of strings S. Each string consists of lowercase Latin letters.For each string in this set, you want to calculate the minimum number of seconds required to type this string. To type a string, you have to start with an empty string and transform it into the string you want to type using the following actions:  if the current string is t, choose some lowercase Latin letter c and append it to the back of t, so the current string becomes t + c. This action takes 1 second;  use autocompletion. When you try to autocomplete the current string t, a list of all strings s \in S such that t is a prefix of s is shown to you. This list includes t itself, if t is a string from S, and the strings are ordered lexicographically. You can transform t into the i-th string from this list in i seconds. Note that you may choose any string from this list you want, it is not necessarily the string you are trying to type. What is the minimum number of seconds that you have to spend to type each string from S?Note that the strings from S are given in an unusual way.

@@ -1,0 +1,9 @@
+Polycarps problems                    
+
+httpscodeforcescomproblemsetproblem727F
+
+binary search
+
+2300
+
+Polycarp is an experienced participant in Codehorses programming contests Now he wants to become a problemsetterHe sent to the coordinator a set of n problems Each problem has its quality the quality of the ith problem is ai ai can be positive negative or equal to zero The problems are ordered by expected difficulty but the difficulty is not related to the quality in any way The easiest problem has index 1 the hardest problem has index nThe coordinators mood is equal to q now After reading a problem the mood changes by its quality It means that after the coordinator reads a problem with quality b the value b is added to his mood The coordinator always reads problems one by one from the easiest to the hardest its impossible to change the order of the problemsIf after reading some problem the coordinators mood becomes negative he immediately stops reading and rejects the problemsetPolycarp wants to remove the minimum number of problems from his problemset to make the coordinators mood nonnegative at any moment of time Polycarp is not sure about the current coordinators mood but he has m guesses the current coordinators mood qbiFor each of m guesses find the minimum number of problems Polycarp needs to remove so that the coordinators mood will always be greater or equal to 0 while he reads problems from the easiest of the remaining problems to the hardest

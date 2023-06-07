@@ -1,0 +1,9 @@
+Count Triangles                    
+
+https://codeforces.com/problemset/problem/1355/C
+
+binary search
+
+1800
+
+Like any unknown mathematician, Yuri has favourite numbers: A, B, C, and D, where A \leq B \leq C \leq D. Yuri also likes triangles and once he thought: how many non-degenerate triangles with integer sides x, y, and z exist, such that A \leq x \leq B \leq y \leq C \leq z \leq D holds?Yuri is preparing problems for a new contest now, so he is very busy. That's why he asked you to calculate the number of triangles with described property.The triangle is called non-degenerate if and only if its vertices are not collinear.

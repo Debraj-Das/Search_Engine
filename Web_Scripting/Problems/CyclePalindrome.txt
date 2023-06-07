@@ -1,0 +1,9 @@
+Cycle Palindrome                    
+
+https://codeforces.com/problemset/problem/1656/G
+
+constructive algorithms
+
+3200
+
+We say that a sequence of n integers a_1, a_2, \ldots, a_n is a palindrome if for all 1 \leq i \leq n, a_i = a_{n-i+1}. You are given a sequence of n integers a_1, a_2, \ldots, a_n and you have to find, if it exists, a cycle permutation \sigma so that the sequence a_{\sigma(1)}, a_{\sigma(2)}, \ldots, a_{\sigma(n)} is a palindrome. A permutation of 1, 2, \ldots, n is a bijective function from \{1, 2, \ldots, n\} to \{1, 2, \ldots, n\}. We say that a permutation \sigma is a cycle permutation if 1, \sigma(1), \sigma^2(1), \ldots, \sigma^{n-1}(1) are pairwise different numbers. Here \sigma^m(1) denotes \underbrace{\sigma(\sigma(\ldots \sigma}_{m \text{ times}}(1) \ldots)).

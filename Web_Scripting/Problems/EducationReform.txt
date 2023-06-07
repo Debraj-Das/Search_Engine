@@ -1,0 +1,9 @@
+Education Reform                    
+
+httpscodeforcescomproblemsetproblem119C
+
+dp
+
+2000
+
+Yet another education system reform has been carried out in Berland recently The innovations are as followsAn academic year now consists of n days Each day pupils study exactly one of m subjects besides each subject is studied for no more than one day After the lessons of the ith subject pupils get the home task that contains no less than ai and no more than bi exercises Besides each subject has a special attribute the complexity ci A school can make its own timetable considering the following conditions are satisfied  the timetable should contain the subjects in the order of the complexitys strict increasing  each day except for the first one the task should contain either k times more exercises or more by k compared to the previous day more formally lets call the number of home task exercises in the ith day as xi then for each i 1in either xikxi1 or xikxi1 must be true  the total number of exercises in all home tasks should be maximal possible All limitations are separately set for each schoolIt turned out that in many cases ai and bi reach 1016 however as the Berland Minister of Education is famous for his love to halfmeasures the value of biai doesnt exceed 100 That also happened in the Berland School 256 Nevertheless you as the schools principal still have to work out the timetable for the next academic year

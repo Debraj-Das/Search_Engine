@@ -1,0 +1,9 @@
+Bracket Cost                    
+
+https://codeforces.com/problemset/problem/1750/E
+
+binary search
+
+2400
+
+Daemon Targaryen decided to stop looking like a Metin2 character. He turned himself into the most beautiful thing, a bracket sequence.For a bracket sequence, we can do two kind of operations:  Select one of its substrings^\dagger and cyclic shift it to the right. For example, after a cyclic shift to the right, "(())" will become ")(()";  Insert any bracket, opening '(' or closing ')', wherever you want in the sequence. We define the cost of a bracket sequence as the minimum number of such operations to make it balanced^\ddagger.Given a bracket sequence s of length n, find the sum of costs across all its \frac{n(n+1)}{2} non-empty substrings. Note that for each substring we calculate the cost independently.^\dagger A string a is a substring of a string b if a can be obtained from b by deletion of several (possibly, zero or all) characters from the beginning and several (possibly, zero or all) characters from the end.^\ddagger A sequence of brackets is called balanced if one can turn it into a valid math expression by adding characters + and 1. For example, sequences "(())()", "()", and "(()(()))" are balanced, while ")(", "(()", and "(()))(" are not.

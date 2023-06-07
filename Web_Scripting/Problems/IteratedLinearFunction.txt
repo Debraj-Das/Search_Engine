@@ -1,0 +1,9 @@
+Iterated Linear Function                    
+
+httpscodeforcescomproblemsetproblem678D
+
+math
+
+1700
+
+Consider a linear function fxAxB Lets define g0xx and gnxfgn1x for n0 For the given integer values A B n and x find the value of gnx modulo 1097

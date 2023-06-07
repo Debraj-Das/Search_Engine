@@ -1,0 +1,9 @@
+Box Fitting                    
+
+httpscodeforcescomproblemsetproblem1498B
+
+binary search
+
+1300
+
+You are given n rectangles each of height 1 Each rectangles width is a power of 2 ie it can be represented as 2x for some nonnegative integer x You are also given a twodimensional box of width W Note that W may or may not be a power of 2 Moreover W is at least as large as the width of the largest rectangleYou have to find the smallest height of this box such that it is able to fit all the given rectangles It is allowed to have some empty space left in this box after fitting all the rectanglesYou cannot rotate the given rectangles to make them fit into the box Moreover any two distinct rectangles must not overlap ie any two distinct rectangles must have zero intersection areaSee notes for visual explanation of sample input

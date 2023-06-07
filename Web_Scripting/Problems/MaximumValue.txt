@@ -1,0 +1,9 @@
+Maximum Value                    
+
+httpscodeforcescomproblemsetproblem484B
+
+binary search
+
+2100
+
+You are given a sequence a consisting of n integers Find the maximum possible value of  integer remainder of ai divided by aj where 1ijn and aiaj

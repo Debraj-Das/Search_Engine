@@ -1,0 +1,9 @@
+Bath Queue                    
+
+https://codeforces.com/problemset/problem/28/C
+
+combinatorics
+
+2200
+
+There are n students living in the campus. Every morning all students wake up at the same time and go to wash. There are m rooms with wash basins. The i-th of these rooms contains ai wash basins. Every student independently select one the rooms with equal probability and goes to it. After all students selected their rooms, students in each room divide into queues by the number of wash basins so that the size of the largest queue is the least possible. Calculate the expected value of the size of the largest queue among all rooms.

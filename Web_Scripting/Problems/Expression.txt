@@ -1,0 +1,9 @@
+Expression                    
+
+httpscodeforcescomproblemsetproblem58E
+
+dp
+
+2400
+
+One day Vasya was solving arithmetical problems He wrote down an expression abc in his notebook When the teacher checked Vasyas work it turned out that Vasya had solved the problem incorrectly Now Vasya tries to find excuses He says that he simply forgot to write down several digits in numbers a b and c but he cant remember what numbers they actually were Help Vasya find such numbers x y and z with which the following conditions are met   xyz  from the expression xyz several digits can be erased in such a way that the result will be abc  the expression xyz should have the minimal length 

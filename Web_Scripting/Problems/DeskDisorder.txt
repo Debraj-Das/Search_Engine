@@ -1,0 +1,9 @@
+Desk Disorder                    
+
+httpscodeforcescomproblemsetproblem859E
+
+combinatorics
+
+2100
+
+A new set of desks just arrived and its about time Things were getting quite cramped in the office Youve been put in charge of creating a new seating chart for the engineers The desks are numbered and you sent out a survey to the engineering team asking each engineer the number of the desk they currently sit at and the number of the desk they would like to sit at which may be the same as their current desk Each engineer must either remain where they sit or move to the desired seat they indicated in the survey No two engineers currently sit at the same desk nor may any two engineers sit at the same desk in the new seating arrangementHow many seating arrangements can you create that meet the specified requirements The answer may be very large so compute it modulo 10000000071097

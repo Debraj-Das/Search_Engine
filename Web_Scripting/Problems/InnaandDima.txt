@@ -1,0 +1,9 @@
+Inna and Dima                    
+
+httpscodeforcescomproblemsetproblem374C
+
+dfs and similar
+
+1900
+
+Inna and Dima bought a table of size nm in the shop Each cell of the table contains a single letter D I M AInna loves Dima so she wants to go through his name as many times as possible as she moves through the table For that Inna acts as follows  initially Inna chooses some cell of the table where letter D is written  then Inna can move to some sideadjacent table cell that contains letter I then from this cell she can go to one of the sideadjacent table cells that contains the written letter M then she can go to a sideadjacent cell that contains letter A Then Inna assumes that she has gone through her sweethearts name  Innas next move can be going to one of the sideadjacent table cells that contains letter D and then walk on through name DIMA in the similar manner Inna never skips a letter So from the letter D she always goes to the letter I from the letter I she always goes the to letter M from the letter M she always goes to the letter A and from the letter A she always goes to the letter D Depending on the choice of the initial table cell Inna can go through name DIMA either an infinite number of times or some positive finite number of times or she cant go through his name once Help Inna find out what maximum number of times she can go through name DIMA

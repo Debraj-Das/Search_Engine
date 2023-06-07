@@ -1,0 +1,9 @@
+Fibonacci Suffix                    
+
+https://codeforces.com/problemset/problem/1065/G
+
+strings
+
+2700
+
+Let's denote (yet again) the sequence of Fibonacci strings:F(0) =  0, F(1) =  1, F(i) = F(i - 2) + F(i - 1), where the plus sign denotes the concatenation of two strings.Let's denote the lexicographically sorted sequence of suffixes of string F(i) as A(F(i)). For example, F(4) is 01101, and A(F(4)) is the following sequence: 01, 01101, 1, 101, 1101. Elements in this sequence are numbered from 1.Your task is to print m first characters of k-th element of A(F(n)). If there are less than m characters in this suffix, then output the whole suffix.

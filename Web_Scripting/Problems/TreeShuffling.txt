@@ -1,0 +1,9 @@
+Tree Shuffling                    
+
+https://codeforces.com/problemset/problem/1363/E
+
+dfs and similar
+
+2000
+
+Ashish has a tree consisting of n nodes numbered 1 to n rooted at node 1. The i-th node in the tree has a cost a_i, and binary digit b_i is written in it. He wants to have binary digit c_i written in the i-th node in the end.To achieve this, he can perform the following operation any number of times:   Select any k nodes from the subtree of any node u, and shuffle the digits in these nodes as he wishes, incurring a cost of k \cdot a_u. Here, he can choose k ranging from 1 to the size of the subtree of u. He wants to perform the operations in such a way that every node finally has the digit corresponding to its target.Help him find the minimum total cost he needs to spend so that after all the operations, every node u has digit c_u written in it, or determine that it is impossible.

@@ -1,0 +1,9 @@
+Grime Zoo                    
+
+https://codeforces.com/problemset/problem/1411/D
+
+brute force
+
+2100
+
+Currently, XXOC's rap is a string consisting of zeroes, ones, and question marks. Unfortunately, haters gonna hate. They will write x angry comments for every occurrence of subsequence 01 and y angry comments for every occurrence of subsequence 10. You should replace all the question marks with 0 or 1 in such a way that the number of angry comments would be as small as possible.String b is a subsequence of string a, if it can be obtained by removing some characters from a. Two occurrences of a subsequence are considered distinct if sets of positions of remaining characters are distinct.

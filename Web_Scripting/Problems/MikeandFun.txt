@@ -1,0 +1,9 @@
+Mike and Fun                    
+
+httpscodeforcescomproblemsetproblem548B
+
+brute force
+
+1400
+
+Mike and some bears are playing a game just for fun Mike is the judge All bears except Mike are standing in an nm grid theres exactly one bear in each cell We denote the bear standing in column number j of row number i by ij Mikes hands are on his ears since hes the judge and each bear standing in the grid has hands either on his mouth or his eyes  They play for q rounds In each round Mike chooses a bear ij and tells him to change his state i e if his hands are on his mouth then hell put his hands on his eyes or hell put his hands on his mouth otherwise After that Mike wants to know the score of the bearsScore of the bears is the maximum over all rows of number of consecutive bears with hands on their eyes in that rowSince bears are lazy Mike asked you for help For each round tell him the score of these bears after changing the state of a bear selected in that round 

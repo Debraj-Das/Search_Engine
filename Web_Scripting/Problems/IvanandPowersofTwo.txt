@@ -1,0 +1,9 @@
+Ivan and Powers of Two                    
+
+httpscodeforcescomproblemsetproblem305C
+
+greedy
+
+1600
+
+Ivan has got an array of n nonnegative integers a1a2an Ivan knows that the array is sorted in the nondecreasing order Ivan wrote out integers 2a12a22an on a piece of paper Now he wonders what minimum number of integers of form 2b b0 need to be added to the piece of paper so that the sum of all integers written on the paper equalled 2v1 for some integer v v0 Help Ivan find the required quantity of numbers

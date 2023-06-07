@@ -1,0 +1,9 @@
+Tricolor Triangles                    
+
+https://codeforces.com/problemset/problem/1616/F
+
+brute force
+
+2900
+
+You are given a simple undirected graph with n vertices and m edges. Edge i is colored in the color c_i, which is either 1, 2, or 3, or left uncolored (in this case, c_i = -1).You need to color all of the uncolored edges in such a way that for any three pairwise adjacent vertices 1 \leq a < b < c \leq n, the colors of the edges a \leftrightarrow b, b \leftrightarrow c, and a \leftrightarrow c are either pairwise different, or all equal. In case no such coloring exists, you need to determine that.

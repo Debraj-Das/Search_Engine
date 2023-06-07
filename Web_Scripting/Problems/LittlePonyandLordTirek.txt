@@ -1,0 +1,9 @@
+Little Pony and Lord Tirek                    
+
+httpscodeforcescomproblemsetproblem453E
+
+data structures
+
+3100
+
+Lord Tirek is a centaur and the main antagonist in the season four finale episodes in the series My Little Pony Friendship Is Magic In Twilights Kingdom Part 1 Tirek escapes from Tartarus and drains magic from ponies to grow stronger  The core skill of Tirek is called Absorb Mana It takes all mana from a magic creature and gives them to the casterNow to simplify the problem assume you have n ponies numbered from 1 to n Each pony has three attributes  si  amount of mana that the pony has at time 0  mi  maximum mana that the pony can have  ri  mana regeneration per unit time Lord Tirek will do m instructions each of them can be described with three integers tiliri The instruction means that at time ti Tirek will use Absorb Mana on ponies with numbers from li to ri both borders inclusive Well give you all the m instructions in order count how much mana Tirek absorbs for each instruction

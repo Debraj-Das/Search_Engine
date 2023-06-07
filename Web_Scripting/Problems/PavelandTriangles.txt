@@ -1,0 +1,9 @@
+Pavel and Triangles                    
+
+https://codeforces.com/problemset/problem/1119/E
+
+brute force
+
+1900
+
+Pavel has several sticks with lengths equal to powers of two.He has a_0 sticks of length 2^0 = 1, a_1 sticks of length 2^1 = 2, ..., a_{n-1} sticks of length 2^{n-1}. Pavel wants to make the maximum possible number of triangles using these sticks. The triangles should have strictly positive area, each stick can be used in at most one triangle.It is forbidden to break sticks, and each triangle should consist of exactly three sticks.Find the maximum possible number of triangles.

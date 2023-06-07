@@ -1,0 +1,9 @@
+Kayaking                    
+
+httpscodeforcescomproblemsetproblem863B
+
+brute force
+
+1500
+
+Vadim is really keen on travelling Recently he heard about kayaking activity near his town and became very excited about it so he joined a party of kayakersNow the party is ready to start its journey but firstly they have to choose kayaks There are 2n people in the group including Vadim and they have exactly n1 tandem kayaks each of which obviously can carry two people and 2 single kayaks ith persons weight is wi and weight is an important matter in kayaking  if the difference between the weights of two people that sit in the same tandem kayak is too large then it can crash And of course people want to distribute their seats in kayaks in order to minimize the chances that kayaks will crashFormally the instability of a single kayak is always 0 and the instability of a tandem kayak is the absolute difference between weights of the people that are in this kayak Instability of the whole journey is the total instability of all kayaksHelp the party to determine minimum possible total instability 

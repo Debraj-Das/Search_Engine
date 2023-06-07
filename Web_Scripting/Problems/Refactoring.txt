@@ -1,0 +1,9 @@
+Refactoring                    
+
+https://codeforces.com/problemset/problem/1055/D
+
+greedy
+
+2400
+
+Alice has written a program and now tries to improve its readability. One of the ways to improve readability is to give sensible names to the variables, so now Alice wants to rename some variables in her program. In her IDE there is a command called "massive refactoring", which can replace names of many variable in just one run. To use it, Alice needs to select two strings s and t and after that for each variable the following algorithm is performed: if the variable's name contains s as a substring, then the first (and only first) occurrence of s is replaced with t. If the name doesn't contain s, then this variable's name stays the same.The list of variables is known and for each variable both the initial name and the name Alice wants this variable change to are known. Moreover, for each variable the lengths of the initial name and the target name are equal (otherwise the alignment of the code could become broken). You need to perform renaming of all variables in exactly one run of the massive refactoring command or determine that it is impossible.

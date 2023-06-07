@@ -1,0 +1,9 @@
+Mahmoud and Ehab and the MEX                    
+
+httpscodeforcescomproblemsetproblem862A
+
+greedy
+
+1000
+
+Dr Evil kidnapped Mahmoud and Ehab in the evil land because of their performance in the Evil Olympiad in Informatics EOI He decided to give them some problems to let them goDr Evil is interested in sets He has a set of n integers Dr Evil calls a set of integers evil if the MEX of it is exactly x the MEX of a set of integers is the minimum nonnegative integer that doesnt exist in it For example the MEX of the set 024 is 1 and the MEX of the set 123 is 0 Dr Evil is going to make his set evil To do this he can perform some operations During each operation he can add some nonnegative integer to his set or erase some element from it What is the minimal number of operations Dr Evil has to perform to make his set evil

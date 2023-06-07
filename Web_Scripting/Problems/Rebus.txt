@@ -1,0 +1,9 @@
+Rebus                    
+
+https://codeforces.com/problemset/problem/663/A
+
+constructive algorithms
+
+1800
+
+You are given a rebus of form ? + ? - ? + ? = n, consisting of only question marks, separated by arithmetic operation '+' and '-', equality and positive integer n. The goal is to replace each question mark with some positive integer from 1 to n, such that equality holds.

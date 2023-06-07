@@ -1,0 +1,9 @@
+Phoenix and Balance                    
+
+https://codeforces.com/problemset/problem/1348/A
+
+greedy
+
+800
+
+Phoenix has n coins with weights 2^1, 2^2, \dots, 2^n. He knows that n is even.He wants to split the coins into two piles such that each pile has exactly \frac{n}{2} coins and the difference of weights between the two piles is minimized. Formally, let a denote the sum of weights in the first pile, and b denote the sum of weights in the second pile. Help Phoenix minimize |a-b|, the absolute value of a-b.

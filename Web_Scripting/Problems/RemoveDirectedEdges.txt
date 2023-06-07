@@ -1,0 +1,9 @@
+Remove Directed Edges                    
+
+https://codeforces.com/problemset/problem/1674/G
+
+dfs and similar
+
+2000
+
+You are given a directed acyclic graph, consisting of n vertices and m edges. The vertices are numbered from 1 to n. There are no multiple edges and self-loops.Let \mathit{in}_v be the number of incoming edges (indegree) and \mathit{out}_v be the number of outgoing edges (outdegree) of vertex v.You are asked to remove some edges from the graph. Let the new degrees be \mathit{in'}_v and \mathit{out'}_v.You are only allowed to remove the edges if the following conditions hold for every vertex v:   \mathit{in'}_v < \mathit{in}_v or \mathit{in'}_v = \mathit{in}_v = 0;  \mathit{out'}_v < \mathit{out}_v or \mathit{out'}_v = \mathit{out}_v = 0. Let's call a set of vertices S cute if for each pair of vertices v and u (v \neq u) such that v \in S and u \in S, there exists a path either from v to u or from u to v over the non-removed edges.What is the maximum possible size of a cute set S after you remove some edges from the graph and both indegrees and outdegrees of all vertices either decrease or remain equal to 0?

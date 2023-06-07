@@ -1,0 +1,9 @@
+Cobb                    
+
+https://codeforces.com/problemset/problem/1554/B
+
+bitmasks
+
+1700
+
+You are given n integers a_1, a_2, \ldots, a_n and an integer k. Find the maximum value of i \cdot j - k \cdot (a_i | a_j) over all pairs (i, j) of integers with 1 \le i < j \le n. Here, | is the bitwise OR operator.

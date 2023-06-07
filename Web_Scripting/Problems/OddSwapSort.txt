@@ -1,0 +1,9 @@
+Odd Swap Sort                    
+
+https://codeforces.com/problemset/problem/1638/B
+
+data structures
+
+1100
+
+You are given an array a_1, a_2, \dots, a_n. You can perform operations on the array. In each operation you can choose an integer i (1 \le i < n), and swap elements a_i and a_{i+1} of the array, if a_i + a_{i+1} is odd.Determine whether it can be sorted in non-decreasing order using this operation any number of times.

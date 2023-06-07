@@ -1,0 +1,9 @@
+Broken checker                    
+
+https://codeforces.com/problemset/problem/171/D
+
+*special problem
+
+1300
+
+"This problem is rubbish! There is not statement, and there are only 5 test cases. The problemsetter took liberties with this problem!" — people complained in the comments to one round on Codeforces. And even more... No, wait, the checker for the problem was alright, that's a mercy.

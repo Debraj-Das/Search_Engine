@@ -1,0 +1,9 @@
+Tanks                    
+
+httpscodeforcescomproblemsetproblem920D
+
+dp
+
+2400
+
+Petya sometimes has to water his field To water the field Petya needs a tank with exactly V ml of waterPetya has got N tanks ith of them initially containing ai ml of water The tanks are really large any of them can contain any amount of water no matter how large this amount isAlso Petya has got a scoop that can contain up to K ml of water initially the scoop is empty This scoop can be used to get some water from some tank and after that pour it all into some tank it is impossible to get water from multiple tanks without pouring it or leave some water in the scoop when pouring it When Petya tries to get some water from a tank he gets minvK water where v is the current volume of water in the tankIs it possible to obtain a tank with exactly V ml of water using these operations If it is possible print a sequence of operations that allows to do it If there are multiple ways to obtain needed amount of water in some tank print any of them

@@ -1,0 +1,9 @@
+Pattern Matching                    
+
+https://codeforces.com/problemset/problem/1476/E
+
+bitmasks
+
+2300
+
+You are given n patterns p_1, p_2, \dots, p_n and m strings s_1, s_2, \dots, s_m. Each pattern p_i consists of k characters that are either lowercase Latin letters or wildcard characters (denoted by underscores). All patterns are pairwise distinct. Each string s_j consists of k lowercase Latin letters.A string a matches a pattern b if for each i from 1 to k either b_i is a wildcard character or b_i=a_i.You are asked to rearrange the patterns in such a way that the first pattern the j-th string matches is p[mt_j]. You are allowed to leave the order of the patterns unchanged.Can you perform such a rearrangement? If you can, then print any valid order.

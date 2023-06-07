@@ -1,0 +1,9 @@
+The number on the board                    
+
+https://codeforces.com/problemset/problem/835/B
+
+greedy
+
+1100
+
+Some natural number was written on the board. Its sum of digits was not less than k. But you were distracted a bit, and someone changed this number to n, replacing some digits with others. It's known that the length of the number didn't change.You have to find the minimum number of digits in which these two numbers can differ.

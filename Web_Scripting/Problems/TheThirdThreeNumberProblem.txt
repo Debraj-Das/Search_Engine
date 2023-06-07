@@ -1,0 +1,9 @@
+The Third Three Number Problem                    
+
+https://codeforces.com/problemset/problem/1699/A
+
+constructive algorithms
+
+800
+
+You are given a positive integer n. Your task is to find any three integers a, b and c (0 \le a, b, c \le 10^9) for which (a\oplus b)+(b\oplus c)+(a\oplus c)=n, or determine that there are no such integers.Here a \oplus b denotes the bitwise XOR of a and b. For example, 2 \oplus 4 = 6 and 3 \oplus 1=2.

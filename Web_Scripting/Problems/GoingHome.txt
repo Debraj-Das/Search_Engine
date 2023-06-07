@@ -1,0 +1,9 @@
+Going Home                    
+
+https://codeforces.com/problemset/problem/1500/A
+
+brute force
+
+1800
+
+It was the third month of remote learning, Nastya got sick of staying at dormitory, so she decided to return to her hometown. In order to make her trip more entertaining, one of Nastya's friend presented her an integer array a. Several hours after starting her journey home Nastya remembered about the present. To entertain herself she decided to check, are there four different indices x, y, z, w such that a_x + a_y = a_z + a_w.Her train has already arrived the destination, but she still hasn't found the answer. Can you help her unravel the mystery?

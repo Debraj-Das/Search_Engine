@@ -1,0 +1,9 @@
+Obsessive String                    
+
+httpscodeforcescomproblemsetproblem494B
+
+dp
+
+2000
+
+Hamed has recently found a string t and suddenly became quite fond of it He spent several days trying to find all occurrences of t in other strings he had Finally he became tired and started thinking about the following problem Given a string s how many ways are there to extract k1 nonoverlapping substrings from it such that each of them contains string t as a substring More formally you need to calculate the number of ways to choose two sequences a1a2ak and b1b2bk satisfying the following requirements  k1        t is a substring of string saisai1 sbi string s is considered as 1indexed As the number of ways can be rather large print it modulo 1097

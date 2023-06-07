@@ -1,0 +1,9 @@
+Find Array                    
+
+https://codeforces.com/problemset/problem/1608/A
+
+constructive algorithms
+
+800
+
+Given n, find any array a_1, a_2, \ldots, a_n of integers such that all of the following conditions hold: 1 \le a_i \le 10^9 for every i from 1 to n.a_1 < a_2 < \ldots <a_nFor every i from 2 to n, a_i isn't divisible by a_{i-1}It can be shown that such an array always exists under the constraints of the problem.

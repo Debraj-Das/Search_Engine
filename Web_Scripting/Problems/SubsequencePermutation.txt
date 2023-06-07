@@ -1,0 +1,9 @@
+Subsequence Permutation                    
+
+https://codeforces.com/problemset/problem/1552/A
+
+sortings
+
+800
+
+A string s of length n, consisting of lowercase letters of the English alphabet, is given.You must choose some number k between 0 and n. Then, you select k characters of s and permute them however you want. In this process, the positions of the other n-k characters remain unchanged. You have to perform this operation exactly once.For example, if s=\texttt{"andrea"}, you can choose the k=4 characters \texttt{"a_d_ea"} and permute them into \texttt{"d_e_aa"} so that after the operation the string becomes \texttt{"dneraa"}.Determine the minimum k so that it is possible to sort s alphabetically (that is, after the operation its characters appear in alphabetical order).

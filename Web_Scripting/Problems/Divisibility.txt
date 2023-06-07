@@ -1,0 +1,9 @@
+Divisibility                    
+
+httpscodeforcescomproblemsetproblem922F
+
+constructive algorithms
+
+2400
+
+Imp is really pleased that you helped him But it you solve the last problem his gladness would raise even more   Lets define  for some set of integers  as the number of pairs a b in  such that  a is strictly less than b  a divides b without a remainder You are to find such a set  which is a subset of 12n the set that contains all positive integers not greater than n that  

@@ -1,0 +1,9 @@
+MST Unification                    
+
+httpscodeforcescomproblemsetproblem1108F
+
+binary search
+
+2100
+
+You are given an undirected weighted connected graph with n vertices and m edges without loops and multiple edgesThe ith edge is ei  ui vi wi the distance between vertices ui and vi along the edge ei is wi 1 le wi The graph is connected ie for any pair of vertices there is at least one path between them consisting only of edges of the given graphA minimum spanning tree MST in case of positive weights is a subset of the edges of a connected weighted undirected graph that connects all the vertices together and has minimum total cost among all such subsets total cost is the sum of costs of chosen edgesYou can modify the given graph The only operation you can perform is the following increase the weight of some edge by 1 You can increase the weight of each edge multiple possibly zero timesSuppose that the initial MST cost is k Your problem is to increase weights of some edges with minimum possible number of operations in such a way that the cost of MST in the obtained graph remains k but MST is unique it means that there is only one way to choose MST in the obtained graphYour problem is to calculate the minimum number of operations required to do it

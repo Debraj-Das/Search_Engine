@@ -1,0 +1,9 @@
+Simple Molecules                    
+
+https://codeforces.com/problemset/problem/344/B
+
+brute force
+
+1200
+
+Mad scientist Mike is busy carrying out experiments in chemistry. Today he will attempt to join three atoms into one molecule.A molecule consists of atoms, with some pairs of atoms connected by atomic bonds. Each atom has a valence number — the number of bonds the atom must form with other atoms. An atom can form one or multiple bonds with any other atom, but it cannot form a bond with itself. The number of bonds of an atom in the molecule must be equal to its valence number.  Mike knows valence numbers of the three atoms. Find a molecule that can be built from these atoms according to the stated rules, or determine that it is impossible.

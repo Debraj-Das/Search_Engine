@@ -1,0 +1,9 @@
+Transferring Pyramid                    
+
+httpscodeforcescomproblemsetproblem354D
+
+dp
+
+2900
+
+Vasya and Petya are using an interesting data storing structure a pyramidThe pyramid consists of n rows the ith row contains i cells Each row is shifted half a cell to the left relative to the previous row The cells are numbered by integers from 1 to  as shown on the picture belowAn example of a pyramid at n5 is   This data structure can perform operations of two types   Change the value of a specific cell It is described by three integers tiv where t1 the type of operation i  the number of the cell to change and v the value to assign to the cell  Change the value of some subpyramid The picture shows a highlighted subpyramid with the top in cell 5 It is described by s2 numbers tiv1v2vs where t2 i  the number of the top cell of the pyramid s  the size of the subpyramid the number of cells it has vj  the value you should assign to the jth cell of the subpyramid Formally a subpyramid with top at the ith cell of the kth row the 5th cell is the second cell of the third row will contain cells from rows from k to n the kpth row contains cells from the ith to the ipth 0pnkVasya and Petya had two identical pyramids Vasya changed some cells in his pyramid and he now wants to send his changes to Petya For that he wants to find a sequence of operations at which Petya can repeat all Vasyas changes Among all possible sequences Vasya has to pick the minimum one the one that contains the fewest numbersYou have a pyramid of n rows with k changed cells Find the sequence of operations which result in each of the k changed cells being changed by at least one operation Among all the possible sequences pick the one that contains the fewest numbers

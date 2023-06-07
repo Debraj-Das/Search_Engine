@@ -1,0 +1,9 @@
+Bear and Bad Powers of 42                    
+
+httpscodeforcescomproblemsetproblem679E
+
+data structures
+
+3100
+
+Limak a bear isnt good at handling queries So he asks you to do itWe say that powers of 42 numbers 1421764 are bad Other numbers are goodYou are given a sequence of n good integers t1t2tn Your task is to handle q queries of three types  1 i print ti in a separate line  2 a b x for  set ti to x Its guaranteed that x is a good number  3 a b x for  increase ti by x After this repeat the process while at least one ti is bad You can note that after each query all ti are good

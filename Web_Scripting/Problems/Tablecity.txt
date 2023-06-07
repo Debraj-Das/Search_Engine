@@ -1,0 +1,9 @@
+Tablecity                    
+
+httpscodeforcescomproblemsetproblem575D
+
+constructive algorithms
+
+1700
+
+There was a big bank robbery in Tablecity In order to catch the thief the President called none other than Albert  Tablecitys Chief of Police Albert does not know where the thief is located but he does know how he movesTablecity can be represented as 10002 grid where every cell represents one district Each district has its own unique name XY where X and Y are the coordinates of the district in the grid The thiefs movement is as Every hour the thief will leave the district XY he is currently hiding in and move to one of the districts X1Y X1Y X1Y1 X1Y1 X1Y1 X1Y1 as long as it exists in Tablecity Below is an example of thiefs possible movements if he is located in district 71Albert has enough people so that every hour he can pick any two districts in Tablecity and fully investigate them making sure that if the thief is located in one of them he will get caught Albert promised the President that the thief will be caught in no more than 2015 hours and needs your help in order to achieve that

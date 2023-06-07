@@ -1,0 +1,9 @@
+Machine Programming                    
+
+httpscodeforcescomproblemsetproblem164C
+
+flows
+
+2400
+
+One remarkable day company X received k machines And they were not simple machines they were mechanical programmers This was the last unsuccessful step before switching to android programmers but thats another storyThe company has now n tasks for each of them we know the start time of its execution si the duration of its execution ti and the company profit from its completion ci Any machine can perform any task exactly one at a time If a machine has started to perform the task it is busy at all moments of time from si to siti1 inclusive and it cannot switch to another taskYou are required to select a set of tasks which can be done with these k machines and which will bring the maximum total profit

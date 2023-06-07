@@ -1,0 +1,9 @@
+New Year and Social Network                    
+
+https://codeforces.com/problemset/problem/1284/F
+
+data structures
+
+3200
+
+Donghyun's new social network service (SNS) contains n users numbered 1, 2, \ldots, n. Internally, their network is a tree graph, so there are n-1 direct connections between each user. Each user can reach every other users by using some sequence of direct connections. From now on, we will denote this primary network as T_1.To prevent a possible server breakdown, Donghyun created a backup network T_2, which also connects the same n users via a tree graph. If a system breaks down, exactly one edge e \in T_1 becomes unusable. In this case, Donghyun will protect the edge e by picking another edge f \in T_2, and add it to the existing network. This new edge should make the network be connected again. Donghyun wants to assign a replacement edge f \in T_2 for as many edges e \in T_1 as possible. However, since the backup network T_2 is fragile, f \in T_2 can be assigned as the replacement edge for at most one edge in T_1. With this restriction, Donghyun wants to protect as many edges in T_1 as possible.Formally, let E(T) be an edge set of the tree T. We consider a bipartite graph with two parts E(T_1) and E(T_2). For e \in E(T_1), f \in E(T_2), there is an edge connecting \{e, f\} if and only if graph T_1 - \{e\} + \{f\} is a tree. You should find a maximum matching in this bipartite graph.

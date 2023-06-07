@@ -1,0 +1,9 @@
+Chores                    
+
+httpscodeforcescomproblemsetproblem169A
+
+sortings
+
+800
+
+Petya and Vasya are brothers Today is a special day for them as their parents left them home alone and commissioned them to do n chores Each chore is characterized by a single parameter  its complexity The complexity of the ith chore equals hiAs Petya is older he wants to take the chores with complexity larger than some value x hix to leave to Vasya the chores with complexity less than or equal to x hix The brothers have already decided that Petya will do exactly a chores and Vasya will do exactly b chores abnIn how many ways can they choose an integer x so that Petya got exactly a chores and Vasya got exactly b chores

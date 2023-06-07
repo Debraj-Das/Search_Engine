@@ -1,0 +1,9 @@
+Yaroslav and Two Strings                    
+
+httpscodeforcescomproblemsetproblem296B
+
+combinatorics
+
+2000
+
+Yaroslav thinks that two strings s and w consisting of digits and having length n are noncomparable if there are two numbers i and j 1ijn such that siwi and sjwj Here sign si represents the ith digit of string s similarly wj represents the jth digit of string wA strings template is a string that consists of digits and question marks Yaroslav has two string templates each of them has length n Yaroslav wants to count the number of ways to replace all question marks by some integers in both templates so as to make the resulting strings incomparable Note that the obtained strings can contain leading zeroes and that distinct question marks can be replaced by distinct or the same integersHelp Yaroslav calculate the remainder after dividing the described number of ways by 1000000007 1097

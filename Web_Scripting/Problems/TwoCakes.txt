@@ -1,0 +1,9 @@
+Two Cakes                    
+
+https://codeforces.com/problemset/problem/1130/B
+
+greedy
+
+1200
+
+Sasha and Dima want to buy two n-tier cakes. Each cake should consist of n different tiers: from the size of 1 to the size of n. Tiers should go in order from the smallest to the biggest (from top to bottom).They live on the same street, there are 2 \cdot n houses in a row from left to right. Each house has a pastry shop where you can buy a cake tier. Unfortunately, in each pastry shop you can buy only one tier of only one specific size: in the i-th house you can buy a tier of the size a_i (1 \le a_i \le n).Since the guys carry already purchased tiers, and it is impossible to insert a new tier in the middle of the cake, they agreed to buy tiers from the smallest to the biggest. That is, each of them buys tiers in order: 1, then 2, then 3 and so on up to n.Initially, Sasha and Dima are located near the first (leftmost) house. Output the minimum distance that they will have to walk in total to buy both cakes. The distance between any two neighboring houses is exactly 1.

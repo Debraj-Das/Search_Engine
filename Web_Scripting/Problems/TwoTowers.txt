@@ -1,0 +1,9 @@
+Two Towers                    
+
+httpscodeforcescomproblemsetproblem1795A
+
+brute force
+
+800
+
+There are two towers consisting of blocks of two colors red and blue Both towers are represented by strings of characters B andor R denoting the order of blocks in them from the bottom to the top where B corresponds to a blue block and R corresponds to a red block  These two towers are represented by strings BRBB and RBR You can perform the following operation any number of times choose a tower with at least two blocks and move its top block to the top of the other tower   The pair of towers is beautiful if no pair of touching blocks has the same color ie no red block stands on top of another red block and no blue block stands on top of another blue blockYou have to check if it is possible to perform any number of operations possibly zero to make the pair of towers beautiful

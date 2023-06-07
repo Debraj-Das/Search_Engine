@@ -1,0 +1,9 @@
+Li Hua and Maze                    
+
+https://codeforces.com/problemset/problem/1797/A
+
+constructive algorithms
+
+800
+
+There is a rectangular maze of size n\times m. Denote (r,c) as the cell on the r-th row from the top and the c-th column from the left. Two cells are adjacent if they share an edge. A path is a sequence of adjacent empty cells.Each cell is initially empty. Li Hua can choose some cells (except (x_1, y_1) and (x_2, y_2)) and place an obstacle in each of them. He wants to know the minimum number of obstacles needed to be placed so that there isn't a path from (x_1, y_1) to (x_2, y_2).Suppose you were Li Hua, please solve this problem.

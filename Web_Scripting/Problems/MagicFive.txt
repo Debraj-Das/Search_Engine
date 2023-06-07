@@ -1,0 +1,9 @@
+Magic Five                    
+
+httpscodeforcescomproblemsetproblem327C
+
+combinatorics
+
+1700
+
+There is a long plate s containing n digits Iahub wants to delete some digits possibly none but he is not allowed to delete all the digits to form his magic number on the plate a number that is divisible by 5 Note that the resulting number may contain leading zerosNow Iahub wants to count the number of ways he can obtain magic number modulo 1000000007 1097 Two ways are different if the set of deleted positions in s differsLook at the input part of the statement s is given in a special form

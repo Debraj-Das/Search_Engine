@@ -1,0 +1,9 @@
+Numbers Joke                    
+
+httpscodeforcescomproblemsetproblem784A
+
+special problem
+
+1700
+
+InputThe input contains a single integer a 1a30OutputOutput a single integerExampleInput3Output27

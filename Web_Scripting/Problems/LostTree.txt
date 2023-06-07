@@ -1,0 +1,9 @@
+Lost Tree                    
+
+https://codeforces.com/problemset/problem/1534/D
+
+constructive algorithms
+
+1800
+
+This is an interactive problem.Little Dormi was faced with an awkward problem at the carnival: he has to guess the edges of an unweighted tree of n nodes! The nodes of the tree are numbered from 1 to n.The game master only allows him to ask one type of question: Little Dormi picks a node r (1 \le r \le n), and the game master will reply with an array d_1, d_2, \ldots, d_n, where d_i is the length of the shortest path from node r to i, for all 1 \le i \le n.Additionally, to make the game unfair challenge Little Dormi the game master will allow at most \lceil\frac{n}{2}\rceil questions, where \lceil x \rceil denotes the smallest integer greater than or equal to x.Faced with the stomach-churning possibility of not being able to guess the tree, Little Dormi needs your help to devise a winning strategy!Note that the game master creates the tree before the game starts, and does not change it during the game.

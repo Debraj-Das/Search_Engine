@@ -1,0 +1,9 @@
+Slalom                    
+
+httpscodeforcescomproblemsetproblem720D
+
+data structures
+
+3100
+
+Little girl Masha likes winter sports today shes planning to take part in slalom skiingThe track is represented as a grid composed of nm squares There are rectangular obstacles at the track composed of grid squares Masha must get from the square 11 to the square nm She can move from a square to adjacent square either to the right or upwards If the square is occupied by an obstacle it is not allowed to move to that squareOne can see that each obstacle can actually be passed in two ways either it is to the right of Mashas path or to the left Masha likes to try all ways to do things so she would like to know how many ways are there to pass the track Two ways are considered different if there is an obstacle such that it is to the right of the path in one way and to the left of the path in the other wayHelp Masha to find the number of ways to pass the track The number of ways can be quite big so Masha would like to know it modulo 1097The pictures below show different ways to pass the track in sample tests   

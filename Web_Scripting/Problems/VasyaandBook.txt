@@ -1,0 +1,9 @@
+Vasya and Book                    
+
+https://codeforces.com/problemset/problem/1082/A
+
+implementation
+
+1200
+
+Vasya is reading a e-book. The file of the book consists of n pages, numbered from 1 to n. The screen is currently displaying the contents of page x, and Vasya wants to read the page y. There are two buttons on the book which allow Vasya to scroll d pages forwards or backwards (but he cannot scroll outside the book). For example, if the book consists of 10 pages, and d = 3, then from the first page Vasya can scroll to the first or to the fourth page by pressing one of the buttons; from the second page — to the first or to the fifth; from the sixth page — to the third or to the ninth; from the eighth — to the fifth or to the tenth.Help Vasya to calculate the minimum number of times he needs to press a button to move to page y.

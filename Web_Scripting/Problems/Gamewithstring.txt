@@ -1,0 +1,9 @@
+Game With String                    
+
+https://codeforces.com/problemset/problem/1221/E
+
+games
+
+2500
+
+Alice and Bob play a game. Initially they have a string s_1, s_2, \dots, s_n, consisting of only characters . and X. They take alternating turns, and Alice is moving first. During each turn, the player has to select a contiguous substring consisting only of characters . and replaces each of them with X. Alice must select a substing of length a, and Bob must select a substring of length b. It is guaranteed that a > b.For example, if s = ...X.. and a = 3, b = 2, then after Alice's move string can turn only into XXXX... And if it's Bob's turn and the string s = ...X.., then after Bob's move the string can turn into XX.X.., .XXX.. or ...XXX.Whoever is unable to make a move, loses. You have to determine who wins if they both play optimally.You have to answer q independent queries.

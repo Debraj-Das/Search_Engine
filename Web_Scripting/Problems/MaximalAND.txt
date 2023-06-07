@@ -1,0 +1,9 @@
+Maximal AND                    
+
+https://codeforces.com/problemset/problem/1669/H
+
+bitmasks
+
+1300
+
+Let \mathsf{AND} denote the bitwise AND operation, and \mathsf{OR} denote the bitwise OR operation.You are given an array a of length n and a non-negative integer k. You can perform at most k operations on the array of the following type:  Select an index i (1 \leq i \leq n) and replace a_i with a_i \mathsf{OR} 2^j where j is any integer between 0 and 30 inclusive. In other words, in an operation you can choose an index i (1 \leq i \leq n) and set the j-th bit of a_i to 1 (0 \leq j \leq 30). Output the maximum possible value of a_1 \mathsf{AND} a_2 \mathsf{AND} \dots \mathsf{AND} a_n after performing at most k operations. 

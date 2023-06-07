@@ -1,0 +1,9 @@
+Strongly Connected City 2                    
+
+httpscodeforcescomproblemsetproblem475E
+
+dfs and similar
+
+2700
+
+Imagine a city with n junctions and m streets Junctions are numbered from 1 to nIn order to increase the traffic flow mayor of the city has decided to make each street oneway This means in the street between junctions u and v the traffic moves only from u to v or only from v to u The problem is to direct the traffic flow of streets in a way that maximizes the number of pairs uv where 1uvn and it is possible to reach junction v from u by passing the streets in their specified direction Your task is to find out maximal possible number of such pairs

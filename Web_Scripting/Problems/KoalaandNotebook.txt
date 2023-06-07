@@ -1,0 +1,9 @@
+Koala and Notebook                    
+
+https://codeforces.com/problemset/problem/1209/F
+
+data structures
+
+2600
+
+Koala Land consists of m bidirectional roads connecting n cities. The roads are numbered from 1 to m by order in input. It is guaranteed, that one can reach any city from every other city.Koala starts traveling from city 1. Whenever he travels on a road, he writes its number down in his notebook. He doesn't put spaces between the numbers, so they all get concatenated into a single number.Before embarking on his trip, Koala is curious about the resulting number for all possible destinations. For each possible destination, what is the smallest number he could have written for it?Since these numbers may be quite large, print their remainders modulo 10^9+7. Please note, that you need to compute the remainder of the minimum possible number, not the minimum possible remainder.

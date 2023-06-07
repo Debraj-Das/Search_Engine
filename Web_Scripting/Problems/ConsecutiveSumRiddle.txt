@@ -1,0 +1,9 @@
+Consecutive Sum Riddle                    
+
+https://codeforces.com/problemset/problem/1594/A
+
+math
+
+800
+
+Theofanis has a riddle for you and if you manage to solve it, he will give you a Cypriot snack halloumi for free (Cypriot cheese).You are given an integer n. You need to find two integers l and r such that -10^{18} \le l < r \le 10^{18} and l + (l + 1) + \ldots + (r - 1) + r = n.

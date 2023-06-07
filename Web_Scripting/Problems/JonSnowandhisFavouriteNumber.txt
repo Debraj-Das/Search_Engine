@@ -1,0 +1,9 @@
+Jon Snow and his Favourite Number                    
+
+httpscodeforcescomproblemsetproblem768C
+
+brute force
+
+1800
+
+Jon Snow now has to fight with White Walkers He has n rangers each of which has his own strength Also Jon Snow has his favourite number x Each ranger can fight with a white walker only if the strength of the white walker equals his strength He however thinks that his rangers are weak and need to improve Jon now thinks that if he takes the bitwise XOR of strengths of some of rangers with his favourite number x he might get soldiers of high strength So he decided to do the following operation k times  Arrange all the rangers in a straight line in the order of increasing strengths Take the bitwise XOR is written as  of the strength of each alternate ranger with x and update its strength Suppose Jon has 5 rangers with strengths 9711155 and he performs the operation 1 time with x2 He first arranges them in the order of their strengths 5791115 Then he does the following  The strength of first ranger is updated to  ie 7 The strength of second ranger remains the same ie 7 The strength of third ranger is updated to  ie 11 The strength of fourth ranger remains the same ie 11 The strength of fifth ranger is updated to  ie 13 The new strengths of the 5 rangers are 77111113Now Jon wants to know the maximum and minimum strength of the rangers after performing the above operations k times He wants your help for this task Can you help him

@@ -1,0 +1,9 @@
+Unambiguous Arithmetic Expression                    
+
+httpscodeforcescomproblemsetproblem115D
+
+dp
+
+2600
+
+Lets define an unambiguous arithmetic expression UAE as follows   All nonnegative integers are UAEs Integers may have leading zeroes for example 0000 and 0010 are considered valid integers  If X and Y are two UAEs then XY XY XY and XY all without the double quotes are UAEs  If X is an UAE then X and X both without the double quotes are UAEsYou are given a string consisting only of digits 0  9 and characters    and  Your task is to compute the number of different possible unambiguous arithmetic expressions such that if all brackets characters  and  of that unambiguous arithmetic expression are removed it becomes the input string Since the answer may be very large print it modulo 1000003 1063

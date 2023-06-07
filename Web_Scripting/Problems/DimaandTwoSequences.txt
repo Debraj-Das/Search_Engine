@@ -1,0 +1,9 @@
+Dima and Two Sequences                    
+
+httpscodeforcescomproblemsetproblem272D
+
+combinatorics
+
+1600
+
+Little Dima has two sequences of points with integer coordinates sequence a11a22ann and sequence b11b22bnnNow Dima wants to count the number of distinct sequences of points of length 2n that can be assembled from these sequences such that the xcoordinates of points in the assembled sequence will not decrease Help him with that Note that each element of the initial sequences should be used exactly once in the assembled sequenceDima considers two assembled sequences p1q1p2q2p2nq2n and x1y1x2y2x2ny2n distinct if there is such i 1i2n that piqixiyiAs the answer can be rather large print the remainder from dividing the answer by number m

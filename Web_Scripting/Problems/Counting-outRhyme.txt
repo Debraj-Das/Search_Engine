@@ -1,0 +1,9 @@
+Countingout Rhyme                    
+
+httpscodeforcescomproblemsetproblem792B
+
+implementation
+
+1300
+
+n children are standing in a circle and playing the countingout game Children are numbered clockwise from 1 to n In the beginning the first child is considered the leader The game is played in k steps In the ith step the leader counts out ai people in clockwise order starting from the next person The last one to be pointed at by the leader is eliminated and the next player after him becomes the new leaderFor example if there are children with numbers 810131416 currently in the circle the leader is child 13 and ai12 then countingout rhyme ends on child 16 who is eliminated Child 8 becomes the leaderYou have to write a program which prints the number of the child to be eliminated on every step

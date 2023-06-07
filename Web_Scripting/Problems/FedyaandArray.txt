@@ -1,0 +1,9 @@
+Fedya and Array                    
+
+https://codeforces.com/problemset/problem/1793/B
+
+constructive algorithms
+
+1100
+
+For his birthday recently Fedya was given an array a of n integers arranged in a circle, For each pair of neighboring numbers (a_1 and a_2, a_2 and a_3, \ldots, a_{n - 1} and a_n, a_n and a_1) the absolute difference between them is equal to 1.Let's call a local maximum an element, which is greater than both of its neighboring elements. Also call a local minimum an element, which is less than both of its neighboring elements. Note, that elements a_1 and a_n are neighboring elements.Unfortunately, Fedya lost an array, but he remembered in it the sum of local maximums x and the sum of local minimums y.Given x and y, help Fedya find any matching array of minimum length.

@@ -1,0 +1,9 @@
+Fibonacciish II                    
+
+httpscodeforcescomproblemsetproblem633H
+
+data structures
+
+3100
+
+Yash is finally tired of computing the length of the longest Fibonacciish sequence He now plays around with more complex things such as Fibonacciish potentials Fibonacciish potential of an array ai is computed as follows   Remove all elements j if there exists ij such that aiaj  Sort the remaining elements in ascending order ie a1a2an  Compute the potential as Paa1F1a2F2anFn where Fi is the ith Fibonacci number see notes for clarification You are given an array ai of length n and q ranges from lj to rj For each range j you have to compute the Fibonacciish potential of the array bi composed using all elements of ai from lj to rj inclusive Find these potentials modulo m

@@ -1,0 +1,9 @@
+Boolean Function                    
+
+httpscodeforcescomproblemsetproblem582E
+
+bitmasks
+
+3000
+
+In this problem we consider Boolean functions of four variables ABCD Variables ABC and D are logical and can take values 0 or 1 We will define a function using the following grammarexpression  variable  expression operator expressionvariable  A  B  C  D  a  b  c  doperator    Here large letters ABCD represent variables and small letters represent their negations For example if A1 then character A corresponds to value 1 and value character a corresponds to value 0 Here character  corresponds to the operation of logical AND character  corresponds to the operation of logical ORYou are given expression s defining function f where some operations and variables are missing Also you know the values of the function fABCD for some n distinct sets of variable values Count the number of ways to restore the elements that are missing in the expression so that the resulting expression corresponded to the given information about function f in the given variable sets As the value of the result can be rather large print its remainder modulo 1097

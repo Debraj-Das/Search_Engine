@@ -1,0 +1,9 @@
+Weird Game                    
+
+httpscodeforcescomproblemsetproblem293A
+
+games
+
+1500
+
+Yaroslav Andrey and Roman can play cubes for hours and hours But the game is for three so when Roman doesnt show up Yaroslav and Andrey play another game Roman leaves a word for each of them Each word consists of 2n binary characters 0 or 1 After that the players start moving in turns Yaroslav moves first During a move a player must choose an integer from 1 to 2n which hasnt been chosen by anybody up to that moment Then the player takes a piece of paper and writes out the corresponding character from his string Lets represent Yaroslavs word as ss1s2 s2n Similarly lets represent Andreys word as tt1t2 t2n Then if Yaroslav choose number k during his move then he is going to write out character sk on the piece of paper Similarly if Andrey choose number r during his move then he is going to write out character tr on the piece of paperThe game finishes when no player can make a move After the game is over Yaroslav makes some integer from the characters written on his piece of paper Yaroslav can arrange these characters as he wants Andrey does the same The resulting numbers can contain leading zeroes The person with the largest number wins If the numbers are equal the game ends with a drawYou are given two strings s and t Determine the outcome of the game provided that Yaroslav and Andrey play optimally well

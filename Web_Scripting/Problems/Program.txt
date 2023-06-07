@@ -1,0 +1,9 @@
+Program                    
+
+https://codeforces.com/problemset/problem/1473/D
+
+data structures
+
+1700
+
+You are given a program that consists of n instructions. Initially a single variable x is assigned to 0. Afterwards, the instructions are of two types:   increase x by 1;  decrease x by 1. You are given m queries of the following format:   query l r — how many distinct values is x assigned to if all the instructions between the l-th one and the r-th one inclusive are ignored and the rest are executed without changing the order? 

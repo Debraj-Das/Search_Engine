@@ -1,0 +1,9 @@
+The LCMs Must be Large                    
+
+https://codeforces.com/problemset/problem/1166/E
+
+bitmasks
+
+2100
+
+Dora the explorer has decided to use her money after several years of juicy royalties to go shopping. What better place to shop than Nlogonia?There are n stores numbered from 1 to n in Nlogonia. The i-th of these stores offers a positive integer a_i.Each day among the last m days Dora bought a single integer from some of the stores. The same day, Swiper the fox bought a single integer from all the stores that Dora did not buy an integer from on that day.Dora considers Swiper to be her rival, and she considers that she beat Swiper on day i if and only if the least common multiple of the numbers she bought on day i is strictly greater than the least common multiple of the numbers that Swiper bought on day i.The least common multiple (LCM) of a collection of integers is the smallest positive integer that is divisible by all the integers in the collection.However, Dora forgot the values of a_i. Help Dora find out if there are positive integer values of a_i such that she beat Swiper on every day. You don't need to find what are the possible values of a_i though.Note that it is possible for some values of a_i to coincide in a solution.

@@ -1,0 +1,9 @@
+Treeland and Viruses                    
+
+https://codeforces.com/problemset/problem/1320/E
+
+data structures
+
+3000
+
+There are n cities in Treeland connected with n - 1 bidirectional roads in such that a way that any city is reachable from any other; in other words, the graph of cities and roads is a tree. Treeland is preparing for a seasonal virus epidemic, and currently, they are trying to evaluate different infection scenarios.In each scenario, several cities are initially infected with different virus species. Suppose that there are k_i virus species in the i-th scenario. Let us denote v_j the initial city for the virus j, and s_j the propagation speed of the virus j. The spread of the viruses happens in turns: first virus 1 spreads, followed by virus 2, and so on. After virus k_i spreads, the process starts again from virus 1.A spread turn of virus j proceeds as follows. For each city x not infected with any virus at the start of the turn, at the end of the turn it becomes infected with virus j if and only if there is such a city y that: city y was infected with virus j at the start of the turn; the path between cities x and y contains at most s_j edges; all cities on the path between cities x and y (excluding y) were uninfected with any virus at the start of the turn.Once a city is infected with a virus, it stays infected indefinitely and can not be infected with any other virus. The spread stops once all cities are infected.You need to process q independent scenarios. Each scenario is described by k_i virus species and m_i important cities. For each important city determine which the virus it will be infected by in the end.

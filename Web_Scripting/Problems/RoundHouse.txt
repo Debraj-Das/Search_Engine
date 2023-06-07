@@ -1,0 +1,9 @@
+Round House                    
+
+httpscodeforcescomproblemsetproblem659A
+
+implementation
+
+1000
+
+Vasya lives in a round building whose entrances are numbered sequentially by integers from 1 to n Entrance n and entrance 1 are adjacentToday Vasya got bored and decided to take a walk in the yard Vasya lives in entrance a and he decided that during his walk he will move around the house b entrances in the direction of increasing numbers in this order entrance n should be followed by entrance 1 The negative value of b corresponds to moving b entrances in the order of decreasing numbers in this order entrance 1 is followed by entrance n If b0 then Vasya prefers to walk beside his entrance  Illustration for n6 a2 b5 Help Vasya to determine the number of the entrance near which he will be at the end of his walk

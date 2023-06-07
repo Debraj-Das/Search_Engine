@@ -1,0 +1,9 @@
+Almost Identity Permutations                    
+
+httpscodeforcescomproblemsetproblem888D
+
+combinatorics
+
+1600
+
+A permutation p of size n is an array such that every integer from 1 to n occurs exactly once in this arrayLets call a permutation an almost identity permutation iff there exist at least nk indices i 1in such that piiYour task is to count the number of almost identity permutations for given numbers n and k

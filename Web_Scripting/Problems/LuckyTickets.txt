@@ -1,0 +1,9 @@
+Lucky Tickets                    
+
+httpscodeforcescomproblemsetproblem333C
+
+brute force
+
+2700
+
+Gerald has a friend Pollard Pollard is interested in lucky tickets ticket is a sequence of digits At first he thought that a ticket is lucky if between some its digits we can add arithmetic signs and brackets so that the result obtained by the arithmetic expression was number 100 But he quickly analyzed all such tickets and moved on to a more general question Now he explores klucky ticketsPollard sais that a ticket is klucky if we can add arithmetic operation signs between its digits to the left or right of them ie    and brackets so as to obtain the correct arithmetic expression whose value would equal k For example ticket 224201016 is 1000lucky as 2242010161000Pollard was so carried away by the lucky tickets that he signed up for a seminar on lucky tickets and as far as Gerald knows Pollard will attend it daily at 7 pm in some famous institute and will commute to it in the same tram for m days In this tram tickets have eight digits And Gerald wants to make a surprise for Pollard each day Pollard will receive a tram klucky ticket The conductor has already agreed to give Pollard certain tickets during all these m days and he only wants Gerald to tell him what kind of tickets to give out In this regard help Gerald pick exactly m distinct klucky tickets

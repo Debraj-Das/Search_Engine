@@ -1,0 +1,9 @@
+Vanya and Balloons                    
+
+httpscodeforcescomproblemsetproblem677E
+
+binary search
+
+2300
+
+Vanya plays a game of balloons on the field of size nn where each cell contains a balloon with one of the values 0 1 2 or 3 The goal is to destroy a cross such that the product of all values of balloons in the cross is maximum possible There are two types of crosses normal and rotated For exampleooooooooooroooooooooFormally the cross is given by three integers r c and d such that drcnd1 The normal cross consists of balloons located in cells xy where x stay for the number of the row and y for the number of the column such that xryc0 and xrycd Rotated cross consists of balloons located in cells xy such that xryc and xrdVanya wants to know the maximum possible product of the values of balls forming one cross As this value can be large output it modulo 1097

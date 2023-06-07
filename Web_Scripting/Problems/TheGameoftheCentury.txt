@@ -1,0 +1,9 @@
+The Game of the Century                    
+
+https://codeforces.com/problemset/problem/1779/G
+
+constructive algorithms
+
+3000
+
+The time has finally come, MKnez and Baltic are to host The Game of the Century. For that purpose, they built a village to lodge its participants.The village has the shape of an equilateral triangle delimited by three roads of length n. It is cut into n^2 smaller equilateral triangles, of side length 1, by 3n-3 additional roads which run parallel to the sides. See the figure for n=3. Each of the 3n roads is made of multiple (possibly 1) road segments of length 1 which connect adjacent intersections.  The direction has already been chosen for each of the 3n roads (so, for each road, the same direction is assigned to all its road segments). Traffic can only go in the specified directions (i. e. the roads are monodirectional).You are tasked with making adjustments to the traffic plan so that from each intersection it is possible to reach every other intersection. Specifically, you can invert the traffic direction of any number of road segments of length 1. What is the minimal number of road segments for which you need to invert the traffic direction?

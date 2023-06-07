@@ -1,0 +1,9 @@
+ConstructOR                     
+
+https://codeforces.com/problemset/problem/1748/D
+
+bitmasks
+
+2100
+
+You are given three integers a, b, and d. Your task is to find any integer x which satisfies all of the following conditions, or determine that no such integers exist:  0 \le x \lt 2^{60};  a|x is divisible by d;  b|x is divisible by d. Here, | denotes the bitwise OR operation.

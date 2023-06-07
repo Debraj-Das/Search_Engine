@@ -1,0 +1,9 @@
+Subarray Cuts                    
+
+httpscodeforcescomproblemsetproblem513E2
+
+dp
+
+2700
+
+You are given an array of length n and a number k Lets pick k nonoverlapping nonempty subarrays of the initial array Let si be the sum of the ith subarray in order from left to right Compute the maximum value of the following expression s1s2s2s3sk1skHere subarray is a contiguous part of an array

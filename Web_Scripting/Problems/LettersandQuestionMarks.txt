@@ -1,0 +1,9 @@
+Letters and Question Marks                    
+
+https://codeforces.com/problemset/problem/1327/G
+
+bitmasks
+
+2800
+
+You are given a string S and an array of strings [t_1, t_2, \dots, t_k]. Each string t_i consists of lowercase Latin letters from a to n; S consists of lowercase Latin letters from a to n and no more than 14 question marks.Each string t_i has its cost c_i — an integer number. The value of some string T is calculated as \sum\limits_{i = 1}^{k} F(T, t_i) \cdot c_i, where F(T, t_i) is the number of occurences of string t_i in T as a substring. For example, F(\text{aaabaaa}, \text{aa}) = 4.You have to replace all question marks in S with pairwise distinct lowercase Latin letters from a to n so the value of S is maximum possible.

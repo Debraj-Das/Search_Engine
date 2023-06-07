@@ -1,0 +1,9 @@
+Bear and Polynomials                    
+
+httpscodeforcescomproblemsetproblem639C
+
+hashing
+
+2200
+
+Limak is a little polar bear He doesnt have many toys and thus he often plays with polynomialsHe considers a polynomial valid if its degree is n and its coefficients are integers not exceeding k by the absolute value More formallyLet a0a1an denote the coefficients so  Then a polynomial Px is valid if all the following conditions are satisfied  ai is integer for every i  aik for every i  an0 Limak has recently got a valid polynomial P with coefficients a0a1a2an He noticed that P20 and he wants to change it He is going to change one coefficient to get a valid polynomial Q of degree n that Q20 Count the number of ways to do so You should count two ways as a distinct if coefficients of target polynoms differ

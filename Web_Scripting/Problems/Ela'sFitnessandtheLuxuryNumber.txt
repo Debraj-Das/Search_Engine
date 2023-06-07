@@ -1,0 +1,9 @@
+Ela's Fitness and the Luxury Number                    
+
+https://codeforces.com/problemset/problem/1737/B
+
+binary search
+
+1300
+
+While working at DTL, Ela is very aware of her physical and mental health. She started to practice various sports, such as Archery, Yoga, and Football.Since she started engaging in sports activities, Ela switches to trying a new sport on days she considers being "Luxury" days. She counts the days since she started these activities, in which the day she starts is numbered as day 1. A "Luxury" day is the day in which the number of this day is a luxurious number. An integer x is called a luxurious number if it is divisible by {\lfloor \sqrt{x} \rfloor}.Here \lfloor r \rfloor denotes the "floor" of a real number r. In other words, it's the largest integer not greater than r.For example: 8, 56, 100 are luxurious numbers, since 8 is divisible by \lfloor \sqrt{8} \rfloor = \lfloor 2.8284 \rfloor = 2, 56 is divisible \lfloor \sqrt{56} \rfloor = \lfloor 7.4833 \rfloor = 7, and 100 is divisible by \lfloor \sqrt{100} \rfloor = \lfloor 10 \rfloor = 10, respectively. On the other hand 5, 40 are not, since 5 are not divisible by \lfloor \sqrt{5} \rfloor = \lfloor 2.2361 \rfloor = 2, and 40 are not divisible by \lfloor \sqrt{40} \rfloor = \lfloor 6.3246 \rfloor = 6.Being a friend of Ela, you want to engage in these fitness activities with her to keep her and yourself accompanied (and have fun together, of course). Between day l and day r, you want to know how many times she changes the activities.

@@ -1,0 +1,9 @@
+MST Company                    
+
+https://codeforces.com/problemset/problem/125/E
+
+binary search
+
+2400
+
+The MST (Meaningless State Team) company won another tender for an important state reform in Berland.There are n cities in Berland, some pairs of the cities are connected by roads. Each road has its price. One can move along any road in any direction. The MST team should carry out the repair works on some set of roads such that one can get from any city to any other one moving only along the repaired roads. Moreover, this set should contain exactly k capital roads (that is, the roads that start or finish in the capital). The number of the capital is 1.As the budget has already been approved, the MST Company will profit by finding the set with minimum lengths of roads.

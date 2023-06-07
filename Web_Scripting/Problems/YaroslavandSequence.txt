@@ -1,0 +1,9 @@
+Yaroslav and Sequence                    
+
+httpscodeforcescomproblemsetproblem301A
+
+constructive algorithms
+
+1800
+
+Yaroslav has an array consisting of 2n1 integers In a single operation Yaroslav can change the sign of exactly n elements in the array In other words in one operation Yaroslav can select exactly n array elements and multiply each of them by 1Yaroslav is now wondering what maximum sum of array elements can be obtained if it is allowed to perform any number of described operationsHelp Yaroslav

@@ -1,0 +1,9 @@
+Renting Bikes                    
+
+https://codeforces.com/problemset/problem/363/D
+
+binary search
+
+1800
+
+A group of n schoolboys decided to ride bikes. As nobody of them has a bike, the boys need to rent them.The renting site offered them m bikes. The renting price is different for different bikes, renting the j-th bike costs pj rubles.In total, the boys' shared budget is a rubles. Besides, each of them has his own personal money, the i-th boy has bi personal rubles. The shared budget can be spent on any schoolchildren arbitrarily, but each boy's personal money can be spent on renting only this boy's bike.Each boy can rent at most one bike, one cannot give his bike to somebody else.What maximum number of schoolboys will be able to ride bikes? What minimum sum of personal money will they have to spend in total to let as many schoolchildren ride bikes as possible?

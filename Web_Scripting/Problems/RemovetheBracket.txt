@@ -1,0 +1,9 @@
+Remove the Bracket                    
+
+https://codeforces.com/problemset/problem/1787/C
+
+dp
+
+1600
+
+RSJ has a sequence a of n integers a_1,a_2, \ldots, a_n and an integer s. For each of a_2,a_3, \ldots, a_{n-1}, he chose a pair of non-negative integers x_i and y_i such that x_i+y_i=a_i and (x_i-s) \cdot (y_i-s) \geq 0.Now he is interested in the value F = a_1 \cdot x_2+y_2 \cdot x_3+y_3 \cdot x_4 + \ldots + y_{n - 2} \cdot x_{n-1}+y_{n-1} \cdot a_n.Please help him find the minimum possible value F he can get by choosing x_i and y_i optimally. It can be shown that there is always at least one valid way to choose them.

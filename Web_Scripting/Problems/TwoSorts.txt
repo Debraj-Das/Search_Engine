@@ -1,0 +1,9 @@
+Two Sorts                    
+
+https://codeforces.com/problemset/problem/1601/F
+
+binary search
+
+3400
+
+Integers from 1 to n (inclusive) were sorted lexicographically (considering integers as strings). As a result, array a_1, a_2, \dots, a_n was obtained.Calculate value of (\sum_{i = 1}^n ((i - a_i) \mod 998244353)) \mod 10^9 + 7.x \mod y here means the remainder after division x by y. This remainder is always non-negative and doesn't exceed y - 1. For example, 5 \mod 3 = 2, (-1) \mod 6 = 5. 

@@ -1,0 +1,9 @@
+Subrectangle Guess                    
+
+https://codeforces.com/problemset/problem/1695/A
+
+games
+
+800
+
+Michael and Joe are playing a game. The game is played on a grid with n rows and m columns, filled with distinct integers. We denote the square on the i-th (1\le i\le n) row and j-th (1\le j\le m) column by (i, j) and the number there by a_{ij}.Michael starts by saying two numbers h (1\le h \le n) and w (1\le w \le m). Then Joe picks any h\times w subrectangle of the board (without Michael seeing).Formally, an h\times w subrectangle starts at some square (a,b) where 1 \le a \le n-h+1 and 1 \le b \le m-w+1. It contains all squares (i,j) for a \le i \le a+h-1 and b \le j \le b+w-1.  Possible move by Joe if Michael says 3\times 2 (with maximum of 15). Finally, Michael has to guess the maximum number in the subrectangle. He wins if he gets it right.Because Michael doesn't like big numbers, he wants the area of the chosen subrectangle (that is, h \cdot w), to be as small as possible, while still ensuring that he wins, not depending on Joe's choice. Help Michael out by finding this minimum possible area. It can be shown that Michael can always choose h, w for which he can ensure that he wins.

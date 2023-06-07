@@ -1,0 +1,9 @@
+Tavas and Nafas                    
+
+https://codeforces.com/problemset/problem/535/A
+
+brute force
+
+1000
+
+Today Tavas got his test result as an integer score and he wants to share it with his girlfriend, Nafas.His phone operating system is Tavdroid, and its keyboard doesn't have any digits! He wants to share his score with Nafas via text, so he has no choice but to send this number using words.  He ate coffee mix without water again, so right now he's really messed up and can't think.Your task is to help him by telling him what to type.

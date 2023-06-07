@@ -1,0 +1,9 @@
+Latin Square                    
+
+https://codeforces.com/problemset/problem/1458/C
+
+math
+
+2700
+
+You are given a square matrix of size n. Every row and every column of this matrix is a permutation of 1, 2, \ldots, n. Let a_{i, j} be the element at the intersection of i-th row and j-th column for every 1 \leq i, j \leq n. Rows are numbered 1, \ldots, n top to bottom, and columns are numbered 1, \ldots, n left to right.There are six types of operations:   R: cyclically shift all columns to the right, formally, set the value of each a_{i, j} to a_{i, ((j - 2)\bmod n) + 1};  L: cyclically shift all columns to the left, formally, set the value of each a_{i, j} to a_{i, (j\bmod n) + 1};  D: cyclically shift all rows down, formally, set the value of each a_{i, j} to a_{((i - 2)\bmod n) + 1, j};  U: cyclically shift all rows up, formally, set the value of each a_{i, j} to a_{(i\bmod n) + 1, j};  I: replace the permutation read left to right in each row with its inverse.  C: replace the permutation read top to bottom in each column with its inverse.  Inverse of a permutation p_1, p_2, \ldots, p_n is a permutation q_1, q_2, \ldots, q_n, such that p_{q_i} = i for every 1 \leq i \leq n.One can see that after any sequence of operations every row and every column of the matrix will still be a permutation of 1, 2, \ldots, n.Given the initial matrix description, you should process m operations and output the final matrix.

@@ -1,0 +1,9 @@
+Sequence with Digits                    
+
+https://codeforces.com/problemset/problem/1355/A
+
+brute force
+
+1200
+
+Let's define the following recurrence: a_{n+1} = a_{n} + minDigit(a_{n}) \cdot maxDigit(a_{n}).Here minDigit(x) and maxDigit(x) are the minimal and maximal digits in the decimal representation of x without leading zeroes. For examples refer to notes.Your task is calculate a_{K} for given a_{1} and K.

@@ -1,0 +1,9 @@
+Guess Divisors Count                    
+
+https://codeforces.com/problemset/problem/1355/F
+
+constructive algorithms
+
+2600
+
+This is an interactive problem.We have hidden an integer 1 \le X \le 10^{9}. You don't have to guess this number. You have to find the number of divisors of this number, and you don't even have to find the exact number: your answer will be considered correct if its absolute error is not greater than 7 or its relative error is not greater than 0.5. More formally, let your answer be ans and the number of divisors of X be d, then your answer will be considered correct if at least one of the two following conditions is true: | ans - d | \le 7; \frac{1}{2} \le \frac{ans}{d} \le 2.You can make at most 22 queries. One query consists of one integer 1 \le Q \le 10^{18}. In response, you will get gcd(X, Q) — the greatest common divisor of X and Q.The number X is fixed before all queries. In other words, interactor is not adaptive.Let's call the process of guessing the number of divisors of number X a game. In one test you will have to play T independent games, that is, guess the number of divisors T times for T independent values of X.

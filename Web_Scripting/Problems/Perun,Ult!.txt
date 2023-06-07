@@ -1,0 +1,9 @@
+Perun Ult                    
+
+httpscodeforcescomproblemsetproblem912C
+
+brute force
+
+2500
+
+A lot of students spend their winter holidays productively Vlad has advanced very well in doing so For three days already fueled by salads and tangerines the leftovers from New Year celebration he has been calibrating his rating in his favorite MOBA game playing as a hero named PerunPerun has an ultimate ability called Thunderwrath At the instant of its activation each enemy on the map n of them in total loses  health points as a singletime effect It also has a restriction it can only activated when the moment of time is an integer The initial bounty for killing an enemy is  Additionally it increases by  each second Formally if at some second t the ability is activated and the ith enemy is killed as a result ie his health drops to zero or lower Vlad earns  units of goldEvery enemy can receive damage as well as be healed There are multiple ways of doing so but Vlad is not interested in details For each of n enemies he knows    maximum number of health points for the ith enemy   initial health of the enemy on the 0th second   the amount of health the ith enemy can regenerate per second There also m health updates Vlad knows about    time when the health was updated   the enemy whose health was updated   updated health points for enemyj Obviously Vlad wants to maximize his profit If its necessary he could even wait for years to activate his ability at the right second Help him determine the exact second note that it must be an integer from 0 inclusively to  so that a single activation of the ability would yield Vlad the maximum possible amount of gold and print this amount

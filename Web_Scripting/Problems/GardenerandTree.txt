@@ -1,0 +1,9 @@
+Gardener and Tree                    
+
+https://codeforces.com/problemset/problem/1593/E
+
+brute force
+
+1600
+
+A tree is an undirected connected graph in which there are no cycles. This problem is about non-rooted trees. A leaf of a tree is a vertex that is connected to at most one vertex.The gardener Vitaly grew a tree from n vertices. He decided to trim the tree. To do this, he performs a number of operations. In one operation, he removes all leaves of the tree.  Example of a tree. For example, consider the tree shown in the figure above. The figure below shows the result of applying exactly one operation to the tree.  The result of applying the operation "remove all leaves" to the tree. Note the special cases of the operation:  applying an operation to an empty tree (of 0 vertices) does not change it;  applying an operation to a tree of one vertex removes this vertex (this vertex is treated as a leaf);  applying an operation to a tree of two vertices removes both vertices (both vertices are treated as leaves). Vitaly applied k operations sequentially to the tree. How many vertices remain?

@@ -1,0 +1,9 @@
+BFS Trees                    
+
+https://codeforces.com/problemset/problem/1495/D
+
+combinatorics
+
+2600
+
+We define a spanning tree of a graph to be a BFS tree rooted at vertex s if and only if for every node t the shortest distance between s and t in the graph is equal to the shortest distance between s and t in the spanning tree. Given a graph, we define f(x,y) to be the number of spanning trees of that graph that are BFS trees rooted at vertices x and y at the same time.You are given an undirected connected graph with n vertices and m edges. Calculate f(i,j) for all i, j by modulo 998\,244\,353.

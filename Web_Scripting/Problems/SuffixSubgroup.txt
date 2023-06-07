@@ -1,0 +1,9 @@
+Suffix Subgroup                    
+
+httpscodeforcescomproblemsetproblem345G
+
+special problem
+
+2200
+
+You are given a group of n strings s1s2snYou should find a subgroup si1si2sik 1i1i2ikn of the group The following two conditions must hold  there exists a string t such that each string from found subgroup is its suffix  the number of strings in the found subgroup is as large as possible Your task is to print the number of strings in the found subgroup

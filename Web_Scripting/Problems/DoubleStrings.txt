@@ -1,0 +1,9 @@
+Double Strings                    
+
+https://codeforces.com/problemset/problem/1703/D
+
+brute force
+
+1100
+
+You are given n strings s_1, s_2, \dots, s_n of length at most \mathbf{8}. For each string s_i, determine if there exist two strings s_j and s_k such that s_i = s_j + s_k. That is, s_i is the concatenation of s_j and s_k. Note that j can be equal to k.Recall that the concatenation of strings s and t is s + t = s_1 s_2 \dots s_p t_1 t_2 \dots t_q, where p and q are the lengths of strings s and t respectively. For example, concatenation of "code" and "forces" is "codeforces".

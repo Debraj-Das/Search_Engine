@@ -1,0 +1,9 @@
+Circling Round Treasures                    
+
+httpscodeforcescomproblemsetproblem375C
+
+bitmasks
+
+2600
+
+You have a map as a rectangle table Each cell of the table is either an obstacle or a treasure with a certain price or a bomb or an empty cell Your initial position is also given to youYou can go from one cell of the map to a sideadjacent one At that you are not allowed to go beyond the borders of the map enter the cells with treasures obstacles and bombs To pick the treasures you need to build a closed path starting and ending in the starting cell The closed path mustnt contain any cells with bombs inside Lets assume that the sum of the treasures values that are located inside the closed path equals v and besides youve made k single moves from one cell to another while you were going through the path then such path brings you the profit of vk rublesYour task is to build a closed path that doesnt contain any bombs and brings maximum profitNote that the path can have selfintersections In order to determine if a cell lies inside a path or not use the following algorithm  Assume that the table cells are points on the plane the table cell on the intersection of the ith column and the jth row is point ij And the given path is a closed polyline that goes through these points  You need to find out if the point p of the table that is not crossed by the polyline lies inside the polyline  Lets draw a ray that starts from point p and does not intersect other points of the table such ray must exist  Lets count the number of segments of the polyline that intersect the painted ray If this number is odd we assume that point p and consequently the table cell lie inside the polyline path Otherwise we assume that it lies outside 

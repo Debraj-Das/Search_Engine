@@ -1,0 +1,9 @@
+Vlad and Cafes                    
+
+https://codeforces.com/problemset/problem/886/B
+
+
+
+1000
+
+Vlad likes to eat in cafes very much. During his life, he has visited cafes n times. Unfortunately, Vlad started to feel that his last visits are not any different from each other. To fix that Vlad had a small research.First of all, Vlad assigned individual indices to all cafes. Then, he wrote down indices of cafes he visited in a row, in order of visiting them. Now, Vlad wants to find such a cafe that his last visit to that cafe was before his last visits to every other cafe. In other words, he wants to find such a cafe that he hasn't been there for as long as possible. Help Vlad to find that cafe.

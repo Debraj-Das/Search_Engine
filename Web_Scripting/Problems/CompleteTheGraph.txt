@@ -1,0 +1,9 @@
+Complete The Graph                    
+
+httpscodeforcescomproblemsetproblem715B
+
+binary search
+
+2300
+
+ZS the Coder has drawn an undirected graph of n vertices numbered from 0 to n1 and m edges between them Each edge of the graph is weighted each weight is a positive integerThe next day ZS the Coder realized that some of the weights were erased So he wants to reassign positive integer weight to each of the edges which weights were erased so that the length of the shortest path between vertices s and t in the resulting graph is exactly L Can you help him

@@ -1,0 +1,9 @@
+Prefix Function Queries                    
+
+https://codeforces.com/problemset/problem/1721/E
+
+dfs and similar
+
+2200
+
+You are given a string s, consisting of lowercase Latin letters.You are asked q queries about it: given another string t, consisting of lowercase Latin letters, perform the following steps:  concatenate s and t;  calculate the prefix function of the resulting string s+t;  print the values of the prefix function on positions |s|+1, |s|+2, \dots, |s|+|t| (|s| and |t| denote the lengths of strings s and t, respectively);  revert the string back to s. The prefix function of a string a is a sequence p_1, p_2, \dots, p_{|a|}, where p_i is the maximum value of k such that k < i and a[1..k]=a[i-k+1..i] (a[l..r] denotes a contiguous substring of a string a from a position l to a position r, inclusive). In other words, it's the longest proper prefix of the string a[1..i] that is equal to its suffix of the same length.

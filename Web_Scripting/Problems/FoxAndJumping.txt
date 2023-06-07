@@ -1,0 +1,9 @@
+Fox And Jumping                    
+
+httpscodeforcescomproblemsetproblem510D
+
+bitmasks
+
+1900
+
+Fox Ciel is playing a game In this game there is an infinite long tape with cells indexed by integers positive negative and zero At the beginning she is standing at the cell 0There are also n cards each card has 2 attributes length li and cost ci If she pays ci dollars then she can apply ith card After applying ith card she becomes able to make jumps of length li i e from cell x to cell xli or cell xliShe wants to be able to jump to any cell on the tape possibly visiting some intermediate cells For achieving this goal she wants to buy some cards paying as little money as possible If this is possible calculate the minimal cost

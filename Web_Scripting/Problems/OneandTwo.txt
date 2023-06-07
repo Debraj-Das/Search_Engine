@@ -1,0 +1,9 @@
+One and Two                    
+
+https://codeforces.com/problemset/problem/1788/A
+
+brute force
+
+800
+
+You are given a sequence a_1, a_2, \ldots, a_n. Each element of a is 1 or 2.Find out if an integer k exists so that the following conditions are met.   1 \leq k \leq n-1, and  a_1 \cdot a_2 \cdot \ldots \cdot a_k = a_{k+1} \cdot a_{k+2} \cdot \ldots \cdot a_n. If there exist multiple k that satisfy the given condition, print the smallest.

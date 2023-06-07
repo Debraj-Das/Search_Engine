@@ -1,0 +1,9 @@
+Balanced Team                    
+
+https://codeforces.com/problemset/problem/1133/C
+
+sortings
+
+1200
+
+You are a coach at your local university. There are n students under your supervision, the programming skill of the i-th student is a_i.You have to create a team for a new programming competition. As you know, the more students some team has the more probable its victory is! So you have to create a team with the maximum number of students. But you also know that a team should be balanced. It means that the programming skill of each pair of students in a created team should differ by no more than 5.Your task is to report the maximum possible number of students in a balanced team.

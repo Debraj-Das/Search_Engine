@@ -1,0 +1,9 @@
+More Queries to Array                    
+
+httpscodeforcescomproblemsetproblem266E
+
+data structures
+
+2500
+
+Youve got an array consisting of n integers a1a2an Your task is to quickly run the queries of two types Assign value x to all elements from l to r inclusive After such query the values of the elements of array alal1ar become equal to x Calculate and print sum  where k doesnt exceed 5 As the value of the sum can be rather large you should print it modulo 10000000071097

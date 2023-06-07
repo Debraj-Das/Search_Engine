@@ -1,0 +1,9 @@
+Many Equal Substrings                    
+
+https://codeforces.com/problemset/problem/1029/A
+
+implementation
+
+1300
+
+You are given a string t consisting of n lowercase Latin letters and an integer number k.Let's define a substring of some string s with indices from l to r as s[l \dots r].Your task is to construct such string s of minimum possible length that there are exactly k positions i such that s[i \dots i + n - 1] = t. In other words, your task is to construct such string s of minimum possible length that there are exactly k substrings of s equal to t.It is guaranteed that the answer is always unique.

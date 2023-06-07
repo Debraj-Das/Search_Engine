@@ -1,0 +1,9 @@
+Make Square                    
+
+https://codeforces.com/problemset/problem/1028/H
+
+math
+
+2900
+
+We call an array b_1, b_2, \ldots, b_m good, if there exist two indices i < j such that b_i \cdot b_j is a perfect square.Given an array b_1, b_2, \ldots, b_m, in one action you can perform one of the following:   multiply any element b_i by any prime p;  divide any element b_i by prime p, if b_i is divisible by p. Let f(b_1, b_2, \ldots, b_m) be the minimum number of actions needed to make the array b good.You are given an array of n integers a_1, a_2, \ldots, a_n and q queries of the form l_i, r_i. For each query output f(a_{l_i}, a_{l_i + 1}, \ldots, a_{r_i}).

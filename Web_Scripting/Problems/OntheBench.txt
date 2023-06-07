@@ -1,0 +1,9 @@
+On the Bench                    
+
+httpscodeforcescomproblemsetproblem840C
+
+combinatorics
+
+2500
+
+A year ago on the bench in public park Leha found an array of n numbers Leha believes that permutation p is right if for all 1in condition that apiapi1 is not perfect square holds Leha wants to find number of right permutations modulo 1097

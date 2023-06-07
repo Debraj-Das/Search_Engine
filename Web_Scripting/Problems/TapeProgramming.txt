@@ -1,0 +1,9 @@
+Tape Programming                    
+
+httpscodeforcescomproblemsetproblem238D
+
+data structures
+
+2900
+
+There is a programming language in which every program is a nonempty sequence of  and  signs and digits Lets explain how the interpreter of this programming language works A program is interpreted using movement of instruction pointer IP which consists of two parts  Current character pointer CP  Direction pointer DP which can point left or right Initially CP points to the leftmost character of the sequence and DP points to the rightWe repeat the following steps until the first moment that CP points to somewhere outside the sequence  If CP is pointing to a digit the interpreter prints that digit then CP moves one step according to the direction of DP After that the value of the printed digit in the sequence decreases by one If the printed digit was 0 then it cannot be decreased therefore its erased from the sequence and the length of the sequence decreases by one  If CP is pointing to  or  then the direction of DP changes to left or right correspondingly Then CP moves one step according to DP If the new character that CP is pointing to is  or  then the previous character will be erased from the sequence If at any moment the CP goes outside of the sequence the execution is terminatedIts obvious the every program in this language terminates after some stepsWe have a sequence s1s2sn of   and digits You should answer q queries Each query gives you l and r and asks how many of each digit will be printed if we run the sequence slsl1sr as an independent program in this language

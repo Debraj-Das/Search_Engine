@@ -1,0 +1,9 @@
+Deep Down Below                    
+
+https://codeforces.com/problemset/problem/1561/C
+
+binary search
+
+1300
+
+In a certain video game, the player controls a hero characterized by a single integer value: power. The hero will have to beat monsters that are also characterized by a single integer value: armor.On the current level, the hero is facing n caves. To pass the level, the hero must enter all the caves in some order, each cave exactly once, and exit every cave safe and sound. When the hero enters cave i, he will have to fight k_i monsters in a row: first a monster with armor a_{i, 1}, then a monster with armor a_{i, 2} and so on, finally, a monster with armor a_{i, k_i}.The hero can beat a monster if and only if the hero's power is strictly greater than the monster's armor. If the hero can't beat the monster he's fighting, the game ends and the player loses. Note that once the hero enters a cave, he can't exit it before he fights all the monsters in it, strictly in the given order.Each time the hero beats a monster, the hero's power increases by 1.Find the smallest possible power the hero must start the level with to be able to enter all the caves in some order and beat all the monsters.
