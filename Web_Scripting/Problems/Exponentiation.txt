@@ -1,9 +1,3 @@
-Exponentiation                    
-
-https://codeforces.com/problemset/problem/130/D
-
-*special problem
-
-1500
-
-You are given integers a, b and c. Calculate ab modulo c.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d331919f7621a854eec2c5d5d0db8a6229445da6d931db161b1c8722f9910db2
+size 174

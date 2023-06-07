@@ -1,9 +1,3 @@
-Beautiful Set                    
-
-https://codeforces.com/problemset/problem/364/C
-
-brute force
-
-2300
-
-We'll call a set of positive integers a beautiful if the following condition fulfills: for any prime p, if , then . In other words, if one number from the set is divisible by prime p, then at least half of numbers from the set is divisible by p.Your task is to find any beautiful set, where the number of elements is equal to k and each element doesn't exceed 2k2.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5812c7ada069462732255e5eb84cc82c5d6352a1e12ef785673514dc95256172
+size 475

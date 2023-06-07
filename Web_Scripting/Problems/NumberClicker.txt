@@ -1,9 +1,3 @@
-Number Clicker                    
-
-https://codeforces.com/problemset/problem/995/E
-
-divide and conquer
-
-2700
-
-Allen is playing Number Clicker on his phone.He starts with an integer u on the screen. Every second, he can press one of 3 buttons.  Turn u \to u+1 \pmod{p}.  Turn u \to u+p-1 \pmod{p}.  Turn u \to u^{p-2} \pmod{p}. Allen wants to press at most 200 buttons and end up with v on the screen. Help him!
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fa8b08b2ee3af8e7d0e0014f4f447d53f6a23e3ebf5ae1ac19fcd6f587a05ad
+size 419

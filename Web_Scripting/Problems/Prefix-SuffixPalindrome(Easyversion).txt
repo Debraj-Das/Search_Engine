@@ -1,9 +1,3 @@
-Prefix-Suffix Palindrome (Easy version)                    
-
-https://codeforces.com/problemset/problem/1326/D1
-
-hashing
-
-1500
-
-This is the easy version of the problem. The difference is the constraint on the sum of lengths of strings and the number of test cases. You can make hacks only if you solve all versions of this task.You are given a string s, consisting of lowercase English letters. Find the longest string, t, which satisfies the following conditions:   The length of t does not exceed the length of s.  t is a palindrome.  There exists two strings a and b (possibly empty), such that t = a + b ( "+" represents concatenation), and a is prefix of s while b is suffix of s. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:98c546c51b9be814f49208cd44d259c82028c62f5d99ba1aae20a3649764adf3
+size 693

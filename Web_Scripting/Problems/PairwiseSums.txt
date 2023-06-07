@@ -1,9 +1,3 @@
-Pairwise Sums                    
-
-https://codeforces.com/problemset/problem/470/F
-
-*special problem
-
-2300
-
-You are given an array of n integers. For each element output the sum of itself and the previous element. For the first element, output the sum of the first and the last elements of the array.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ed08f36d1b140ebc7df88944add52fb7dcb38c3cc275d15201deced63e1fa96
+size 308

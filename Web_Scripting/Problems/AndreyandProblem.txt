@@ -1,9 +1,3 @@
-Andrey and Problem                    
-
-https://codeforces.com/problemset/problem/442/B
-
-greedy
-
-1800
-
-Andrey needs one more problem to conduct a programming contest. He has n friends who are always willing to help. He can ask some of them to come up with a contest problem. Andrey knows one value for each of his fiends — the probability that this friend will come up with a problem if Andrey asks him.Help Andrey choose people to ask. As he needs only one problem, Andrey is going to be really upset if no one comes up with a problem or if he gets more than one problem from his friends. You need to choose such a set of people that maximizes the chances of Andrey not getting upset.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b79571670696dedf6a348e322eb9a36222d034bfd709e3c982794ccf04b3f2e
+size 693

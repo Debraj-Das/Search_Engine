@@ -1,9 +1,3 @@
-Expansion coefficient of the array                    
-
-https://codeforces.com/problemset/problem/1159/B
-
-implementation
-
-1300
-
-Let's call an array of non-negative integers a_1, a_2, \ldots, a_n a k-extension for some non-negative integer k if for all possible pairs of indices 1 \leq i, j \leq n the inequality k \cdot |i - j| \leq min(a_i, a_j) is satisfied. The expansion coefficient of the array a is the maximal integer k such that the array a is a k-extension. Any array is a 0-expansion, so the expansion coefficient always exists.You are given an array of non-negative integers a_1, a_2, \ldots, a_n. Find its expansion coefficient.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf67b12e23055bd26ad18f67a7f42c8f114ed8291ff710cc0c526b43908dd716
+size 648

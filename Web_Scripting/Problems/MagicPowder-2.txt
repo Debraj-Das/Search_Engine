@@ -1,9 +1,3 @@
-Magic Powder - 2                    
-
-https://codeforces.com/problemset/problem/670/D2
-
-binary search
-
-1500
-
-The term of this problem is the same as the previous one, the only exception — increased restrictions.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bea3a63de1c9b38cea0fb3a9b49c89a4745d2a8d5aea59e6acc7725758d382c5
+size 219

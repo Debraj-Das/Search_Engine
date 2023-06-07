@@ -1,9 +1,3 @@
-Expression Evaluation Error                    
-
-https://codeforces.com/problemset/problem/1567/D
-
-constructive algorithms
-
-2000
-
-On the board, Bob wrote n positive integers in base 10 with sum s (i. e. in decimal numeral system). Alice sees the board, but accidentally interprets the numbers on the board as base-11 integers and adds them up (in base 11).What numbers should Bob write on the board, so Alice's sum is as large as possible?
+version https://git-lfs.github.com/spec/v1
+oid sha256:b03aa88b31a5b4cdcc5ae91fcb589e216fc55af228c9f73f477bfaffd979476b
+size 447

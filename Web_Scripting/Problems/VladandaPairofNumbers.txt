@@ -1,9 +1,3 @@
-Vlad and a Pair of Numbers                    
-
-https://codeforces.com/problemset/problem/1790/E
-
-bitmasks
-
-1400
-
-Vlad found two positive numbers a and b (a,b>0). He discovered that a \oplus b = \frac{a + b}{2}, where \oplus means the bitwise exclusive OR , and division is performed without rounding..Since it is easier to remember one number than two, Vlad remembered only a\oplus b, let's denote this number as x. Help him find any suitable a and b or tell him that they do not exist.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ec01010280526c5b4ede10582a235d52ff4bef01f054df494e324f7a9d7451e
+size 495

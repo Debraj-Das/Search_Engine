@@ -1,9 +1,3 @@
-Romaji                    
-
-https://codeforces.com/problemset/problem/1008/A
-
-implementation
-
-900
-
-Vitya has just started learning Berlanese language. It is known that Berlanese uses the Latin alphabet. Vowel letters are "a", "o", "u", "i", and "e". Other letters are consonant.In Berlanese, there has to be a vowel after every consonant, but there can be any letter after any vowel. The only exception is a consonant "n"; after this letter, there can be any letter (not only a vowel) or there can be no letter at all. For example, the words "harakiri", "yupie", "man", and "nbo" are Berlanese while the words "horse", "king", "my", and "nz" are not.Help Vitya find out if a word s is Berlanese.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ead359c128a3ecf5fd19d0d3709a686b7cecb309dffce5369ec7cd98439aaa31
+size 703

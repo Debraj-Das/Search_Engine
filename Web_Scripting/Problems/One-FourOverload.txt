@@ -1,9 +1,3 @@
-One-Four Overload                    
-
-https://codeforces.com/problemset/problem/1567/F
-
-2-sat
-
-2700
-
-Alice has an empty grid with n rows and m columns. Some of the cells are marked, and no marked cells are adjacent to the edge of the grid. (Two squares are adjacent if they share a side.) Alice wants to fill each cell with a number such that the following statements are true:   every unmarked cell contains either the number 1 or 4;  every marked cell contains the sum of the numbers in all unmarked cells adjacent to it (if a marked cell is not adjacent to any unmarked cell, this sum is 0);  every marked cell contains a multiple of 5.  Alice couldn't figure it out, so she asks Bob to help her. Help Bob find any such grid, or state that no such grid exists.
+version https://git-lfs.github.com/spec/v1
+oid sha256:96e9a0cbd3c6d20a8fdbb30538fc395b3f8d073186fa5bdc0f0603c2ff01a70d
+size 772

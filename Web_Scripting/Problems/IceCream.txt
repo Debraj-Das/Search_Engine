@@ -1,9 +1,3 @@
-Ice Cream                    
-
-https://codeforces.com/problemset/problem/1211/C
-
-*special problem
-
-1700
-
-Summer in Berland lasts n days, the price of one portion of ice cream on the i-th day is c_i. Over the summer, Tanya wants to eat exactly k portions of ice cream. At the same time, on the i-th day, she decided that she would eat at least a_i portions, but not more than b_i (a_i \le b_i) portions. In other words, let d_i be equal to the number of portions that she eats on the i-th day. Then d_1+d_2+\dots+d_n=k and a_i \le d_i \le b_i for each i.Given that portions of ice cream can only be eaten on the day of purchase, find the minimum amount of money that Tanya can spend on ice cream in the summer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fa722a94973e4a855a24cb4b3a7c16f3be499a3d9b8ec242a7b2fc20b7937f7
+size 717

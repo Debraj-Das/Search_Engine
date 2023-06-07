@@ -1,9 +1,3 @@
-Hierarchy                    
-
-httpscodeforcescomproblemsetproblem17B
-
-dfs and similar
-
-1500
-
-Nicks company employed n people Now Nick needs to build a tree hierarchy of supervisorsurbodinate relations in the company this is to say that each employee except one has exactly one supervisor There are m applications written in the following form employee ai is ready to become a supervisor of employee bi at extra cost ci The qualification qj of each employee is known and for each application the following is true qaiqbi Would you help Nick calculate the minimum cost of such a hierarchy or find out that it is impossible to build it
+version https://git-lfs.github.com/spec/v1
+oid sha256:49b5b1168d428671bcb3a06d17b8e4b7be4b4cb35755bb8aa3888f6d4544a394
+size 641

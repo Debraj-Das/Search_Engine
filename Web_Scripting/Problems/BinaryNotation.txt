@@ -1,9 +1,3 @@
-Binary notation                    
-
-https://codeforces.com/problemset/problem/153/B
-
-*special problem
-
-1800
-
-You are given a positive integer n. Output its binary notation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a385480f551d9b76a88500ef0067124b10e570b29aa7b4dcb18eca385e8f45ab
+size 181

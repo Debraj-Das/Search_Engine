@@ -1,9 +1,3 @@
-Rectangles                    
-
-https://codeforces.com/problemset/problem/1028/C
-
-geometry
-
-1600
-
-You are given n rectangles on a plane with coordinates of their bottom left and upper right points. Some (n-1) of the given n rectangles have some common point. A point belongs to a rectangle if this point is strictly inside the rectangle or belongs to its boundary.Find any point with integer coordinates that belongs to at least (n-1) given rectangles.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38dfa0b57b05110167b32518802fa06c2076eaaa66c816849087a0460a5995ce
+size 460

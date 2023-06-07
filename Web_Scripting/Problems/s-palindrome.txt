@@ -1,9 +1,3 @@
-s-palindrome                    
-
-https://codeforces.com/problemset/problem/691/B
-
-implementation
-
-1600
-
-Let's call a string "s-palindrome" if it is symmetric about the middle of the string. For example, the string "oHo" is "s-palindrome", but the string "aa" is not. The string "aa" is not "s-palindrome", because the second half of it is not a mirror reflection of the first half.  English alphabet You are given a string s. Check if the string is "s-palindrome".
+version https://git-lfs.github.com/spec/v1
+oid sha256:e87d7db61ed99015253e308250ad6d01c35a50bfadacf8bab59c732281fc4534
+size 473

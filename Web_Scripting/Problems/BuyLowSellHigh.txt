@@ -1,9 +1,3 @@
-Buy Low Sell High                    
-
-https://codeforces.com/problemset/problem/865/D
-
-constructive algorithms
-
-2400
-
-You can perfectly predict the price of a certain stock for the next N days. You would like to profit on this knowledge, but only want to transact one share of stock per day. That is, each day you will either buy one share, sell one share, or do nothing. Initially you own zero shares, and you cannot sell shares when you don't own any. At the end of the N days you would like to again own zero shares, but want to have as much money as possible.
+version https://git-lfs.github.com/spec/v1
+oid sha256:218bfbe6142ee99d36d4755531cf2f42a29f2d7c2e1bf78a93eb68eca3f86c75
+size 572

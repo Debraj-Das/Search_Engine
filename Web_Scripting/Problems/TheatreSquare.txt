@@ -1,9 +1,3 @@
-Theatre Square                    
-
-httpscodeforcescomproblemsetproblem1A
-
-math
-
-1000
-
-Theatre Square in the capital city of Berland has a rectangular shape with the size nm meters On the occasion of the citys anniversary a decision was taken to pave the Square with square granite flagstones Each flagstone is of the size aaWhat is the least number of flagstones needed to pave the Square Its allowed to cover the surface larger than the Theatre Square but the Square has to be covered Its not allowed to break the flagstones The sides of flagstones should be parallel to the sides of the Square
+version https://git-lfs.github.com/spec/v1
+oid sha256:70948e32bddc45cb4c3f0b070078a33016a8378427a430954c34d90af476290c
+size 604

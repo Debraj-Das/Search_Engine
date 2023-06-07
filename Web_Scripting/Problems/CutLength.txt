@@ -1,9 +1,3 @@
-Cut Length                    
-
-https://codeforces.com/problemset/problem/598/F
-
-geometry
-
-2900
-
-Given simple (without self-intersections) n-gon. It is not necessary convex. Also you are given m lines. For each line find the length of common part of the line and the n-gon.The boundary of n-gon belongs to polygon. It is possible that n-gon contains 180-degree angles.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9eb6da37a44aedf16d5bee0444aaee26ca3ee754e5c80bc79c410e7a5b5e777
+size 376

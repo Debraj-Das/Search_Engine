@@ -1,9 +1,3 @@
-Polo the Penguin and Matrix                    
-
-httpscodeforcescomproblemsetproblem289B
-
-brute force
-
-1400
-
-Little penguin Polo has an nm matrix consisting of integers Lets index the matrix rows from 1 to n from top to bottom and lets index the columns from 1 to m from left to right Lets represent the matrix element on the intersection of row i and column j as aijIn one move the penguin can add or subtract number d from some matrix element Find the minimum number of moves needed to make all matrix elements equal If the described plan is impossible to carry out say so
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa8f18d2e32dff956738c3295fd87e7054fcbd3d3c6c604fc9c81059af329ad0
+size 582

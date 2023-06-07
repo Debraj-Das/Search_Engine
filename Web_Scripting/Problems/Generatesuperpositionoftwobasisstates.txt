@@ -1,9 +1,3 @@
-Generate superposition of two basis states                    
-
-httpscodeforcescomproblemsetproblem1002A3
-
-
-
-1500
-
-You are given N qubits 1N8 in zero state  You are also given two bitstrings bits0 and bits1 which describe two different basis states on N qubits  and Your task is to generate a state which is an equal superposition of the given basis statesYou have to implement an operation which takes the following inputs an array of qubits qs two arrays of Boolean values bits0 and bits1 representing the basis states  and  These arrays will have the same length as the array of qubits bits0 and bits1 will differ in at least one positionThe operation doesnt have an output its output is the state in which it leaves the qubitsYour code should have the following signaturenamespace Solution     open MicrosoftQuantumPrimitive    open MicrosoftQuantumCanon    operation Solve qs  Qubit bits0  Bool bits1  Bool              body                     your code here            
+version https://git-lfs.github.com/spec/v1
+oid sha256:0097939ca0da0776a0a0c2595040969a8816c7295c6846b8449d6db593d51e15
+size 984

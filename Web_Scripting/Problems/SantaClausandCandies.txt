@@ -1,9 +1,3 @@
-Santa Claus and Candies                    
-
-https://codeforces.com/problemset/problem/753/A
-
-dp
-
-1000
-
-Santa Claus has n candies, he dreams to give them as gifts to children.What is the maximal number of children for whose he can give candies if Santa Claus want each kid should get distinct positive integer number of candies. Santa Class wants to give all n candies he has.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2f17933d0b4895f6781919ea9acea6c526c8e42aaad4d351b2be707306c15f3
+size 384

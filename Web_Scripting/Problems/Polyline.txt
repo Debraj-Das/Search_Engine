@@ -1,9 +1,3 @@
-Polyline                    
-
-https://codeforces.com/problemset/problem/617/D
-
-constructive algorithms
-
-1700
-
-There are three points marked on the coordinate plane. The goal is to make a simple polyline, without self-intersections and self-touches, such that it passes through all these points. Also, the polyline must consist of only segments parallel to the coordinate axes. You are to find the minimum number of segments this polyline may consist of.
+version https://git-lfs.github.com/spec/v1
+oid sha256:15b5be972734d51f083d51f5d216aa9ad09d7cb2ec64f272431f2f07558cd26d
+size 461

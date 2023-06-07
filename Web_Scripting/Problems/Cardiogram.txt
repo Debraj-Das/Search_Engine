@@ -1,9 +1,3 @@
-Cardiogram                    
-
-httpscodeforcescomproblemsetproblem435C
-
-implementation
-
-1600
-
-In this problem your task is to use ASCII graphics to paint a cardiogram A cardiogram is a polyline with the following cornersThat is a cardiogram is fully defined by a sequence of positive integers a1a2anYour task is to paint a cardiogram by given sequence ai
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3e891b044a1a852f5971e0c8debf69436ccb8d14cfdb87d63a3d5c0cb80feee
+size 363

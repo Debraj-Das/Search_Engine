@@ -1,9 +1,3 @@
-Anti-knapsack                    
-
-https://codeforces.com/problemset/problem/1493/A
-
-constructive algorithms
-
-800
-
-You are given two integers n and k. You are asked to choose maximum number of distinct integers from 1 to n so that there is no subset of chosen numbers with sum equal to k.A subset of a set is a set that can be obtained from initial one by removing some (possibly all or none) elements of it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2f66f6c92ecc0a3abf6b6ec108fa04efec8765bf4135c923f13ea4cbe9efe40
+size 416

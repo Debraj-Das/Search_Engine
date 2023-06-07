@@ -1,9 +1,3 @@
-Boys and Girls                    
-
-httpscodeforcescomproblemsetproblem253A
-
-greedy
-
-1100
-
-There are n boys and m girls studying in the class They should stand in a line so that boys and girls alternated there as much as possible Lets assume that positions in the line are indexed from left to right by numbers from 1 to nm Then the number of integers i 1inm such that positions with indexes i and i1 contain children of different genders position i has a girl and position i1 has a boy or vice versa must be as large as possible Help the children and tell them how to form the line
+version https://git-lfs.github.com/spec/v1
+oid sha256:02a63cce275d4fbf7f4d3abe9032f00f5f2be35185716684b71ecab4acf3822c
+size 590

@@ -1,9 +1,3 @@
-Maxim and Calculator                    
-
-httpscodeforcescomproblemsetproblem261E
-
-brute force
-
-2800
-
-Maxim has got a calculator The calculator has two integer cells Initially the first cell contains number 1 and the second cell contains number 0 In one move you can perform one of the following operations  Lets assume that at the current time the first cell contains number a and the second cell contains number b Write to the second cell number b1  Lets assume that at the current time the first cell contains number a and the second cell contains number b Write to the first cell number ab Maxim is wondering how many integers x lxr are there such that we can write the number x to the first cell of the calculator having performed at most p moves
+version https://git-lfs.github.com/spec/v1
+oid sha256:2715f37ab507ef1949f748bccdd07b85ad0ac9adfc19a4fbf3e34f38261fa076
+size 759

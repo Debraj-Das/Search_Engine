@@ -1,9 +1,3 @@
-Perfect Squares                    
-
-httpscodeforcescomproblemsetproblem914A
-
-brute force
-
-900
-
-Given an array a1a2an of n integers find the largest number in the array that is not a perfect squareA number x is said to be a perfect square if there exists an integer y such that xy2
+version https://git-lfs.github.com/spec/v1
+oid sha256:797e36564a926fe8cd87c20c01949e42b4152b80a3b840769c3c564abac36b1f
+size 289

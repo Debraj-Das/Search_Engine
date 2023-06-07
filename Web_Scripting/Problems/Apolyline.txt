@@ -1,9 +1,3 @@
-A polyline                    
-
-https://codeforces.com/problemset/problem/171/H
-
-*special problem
-
-1700
-
-  
+version https://git-lfs.github.com/spec/v1
+oid sha256:55fb279ade036c09e73014e338d0da046ec83de6e0b4c583775dcfc71aaf9bd9
+size 115

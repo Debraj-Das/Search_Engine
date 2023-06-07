@@ -1,9 +1,3 @@
-GCD Arrays                    
-
-https://codeforces.com/problemset/problem/1629/B
-
-greedy
-
-800
-
-Consider the array a composed of all the integers in the range [l, r]. For example, if l = 3 and r = 7, then a = [3, 4, 5, 6, 7].Given l, r, and k, is it possible for \gcd(a) to be greater than 1 after doing the following operation at most k times?   Choose 2 numbers from a.  Permanently remove one occurrence of each of them from the array.  Insert their product back into a. \gcd(b) denotes the greatest common divisor (GCD) of the integers in b.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00ae954d640344712b74fd13ba9adf1840c8e5e265cf44ebfb7b1ec90e365e81
+size 552

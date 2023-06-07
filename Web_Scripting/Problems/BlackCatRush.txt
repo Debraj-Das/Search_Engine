@@ -1,9 +1,3 @@
-Black Cat Rush                    
-
-httpscodeforcescomproblemsetproblem345E
-
-special problem
-
-2700
-
-Today you go out of your house and immediately notice that something is weird Around your door there is a swarm of black cats  all tense paws and twitching tails As you do your first step they all dart off and start running towards you It looks like they want to thwart youYou are moving in a straight line from point 00 to point a0 with velocity v There are n black cats around you who want to cross your paths A cat can move in any direction with velocity at most u A cat assumes it has crossed your path if it managed to get to at least one point of your path earlier or at the same time as you got thereYou are given four integers a v u n as well as cats coordinates xiyi What is the greatest number of cats who manage to cross your path
+version https://git-lfs.github.com/spec/v1
+oid sha256:01ab5466c5dd8a524ce04b41320c6f931b5bc28d80e1c0ac0be26c4d1bf209d2
+size 849

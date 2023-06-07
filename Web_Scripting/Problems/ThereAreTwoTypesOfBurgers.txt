@@ -1,9 +1,3 @@
-There Are Two Types Of Burgers                    
-
-https://codeforces.com/problemset/problem/1207/A
-
-brute force
-
-800
-
-There are two types of burgers in your restaurant — hamburgers and chicken burgers! To assemble a hamburger you need two buns and a beef patty. To assemble a chicken burger you need two buns and a chicken cutlet. You have b buns, p beef patties and f chicken cutlets in your restaurant. You can sell one hamburger for h dollars and one chicken burger for c dollars. Calculate the maximum profit you can achieve.You have to answer t independent queries.
+version https://git-lfs.github.com/spec/v1
+oid sha256:801bb889c1068fdc8bc146a830273e55be9192efe2957fda1fc3a4152021c523
+size 580

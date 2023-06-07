@@ -1,9 +1,3 @@
-Zero Quantity Maximization                    
-
-https://codeforces.com/problemset/problem/1133/D
-
-hashing
-
-1500
-
-You are given two arrays a and b, each contains n integers.You want to create a new array c as follows: choose some real (i.e. not necessarily integer) number d, and then for every i \in [1, n] let c_i := d \cdot a_i + b_i.Your goal is to maximize the number of zeroes in array c. What is the largest possible answer, if you choose d optimally?
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1e57349f45bf801a44d6aa7dbfd500b335ba51da1122e36f073028b29ae62e6
+size 465

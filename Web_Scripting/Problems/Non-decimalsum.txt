@@ -1,9 +1,3 @@
-Non-decimal sum                    
-
-https://codeforces.com/problemset/problem/162/G
-
-*special problem
-
-2000
-
-You are given an array of integers written in base radix. Calculate their sum and output it written in the same base.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c9cbaf7bf3949dcf10312ebd6ee99133df1deb2dd490fb8e0222e3d7f9d7e35
+size 235

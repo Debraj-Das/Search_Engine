@@ -1,9 +1,3 @@
-Almost Difference                    
-
-httpscodeforcescomproblemsetproblem903D
-
-data structures
-
-2200
-
-Lets denote a function You are given an array a consisting of n integers You have to calculate the sum of daiaj over all pairs ij such that 1ijn
+version https://git-lfs.github.com/spec/v1
+oid sha256:6873b0f9fa945edee11aee14bfeb8d4b4420e9cc9593eeb1c180966287ab95e3
+size 255

@@ -1,9 +1,3 @@
-Olympic Games                    
-
-https://codeforces.com/problemset/problem/401/E
-
-math
-
-2500
-
-This problem was deleted from the contest, because it was used previously at another competition.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cac0755f5085a4b62bd17130db0cd12de7cff760c3ec86af9207d7a08cac5e25
+size 201

@@ -1,9 +1,3 @@
-Greg and Graph                    
-
-httpscodeforcescomproblemsetproblem295B
-
-dp
-
-1700
-
-Greg has a weighed directed graph consisting of n vertices In this graph any pair of distinct vertices has an edge between them in both directions Greg loves playing with the graph and now he has invented a new game  The game consists of n steps  On the ith step Greg removes vertex number xi from the graph As Greg removes a vertex he also removes all the edges that go in and out of this vertex  Before executing each step Greg wants to know the sum of lengths of the shortest paths between all pairs of the remaining vertices The shortest path can go through any remaining vertex In other words if we assume that divu is the shortest path between vertices v and u in the graph that formed before deleting vertex xi then Greg wants to know the value of the following sum  Help Greg print the value of the required sum before each step
+version https://git-lfs.github.com/spec/v1
+oid sha256:38a02bb6345a8ec0ac4b2986baf6dbc13067176e89b070cfb5279db820baee45
+size 931

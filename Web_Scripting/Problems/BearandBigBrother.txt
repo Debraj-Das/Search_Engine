@@ -1,9 +1,3 @@
-Bear and Big Brother                    
-
-https://codeforces.com/problemset/problem/791/A
-
-implementation
-
-800
-
-Bear Limak wants to become the largest of bears, or at least to become larger than his brother Bob.Right now, Limak and Bob weigh a and b respectively. It's guaranteed that Limak's weight is smaller than or equal to his brother's weight.Limak eats a lot and his weight is tripled after every year, while Bob's weight is doubled after every year.After how many full years will Limak become strictly larger (strictly heavier) than Bob?
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bdf9f9f0cf5075dd1e12fab8162ad7136b5601794dc75009aaa6e888e9e5410
+size 553

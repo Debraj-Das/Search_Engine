@@ -1,9 +1,3 @@
-Ordering T-Shirts                    
-
-https://codeforces.com/problemset/problem/859/F
-
-greedy
-
-2800
-
-It's another Start[c]up, and that means there are T-shirts to order. In order to make sure T-shirts are shipped as soon as possible, we've decided that this year we're going to order all of the necessary T-shirts before the actual competition. The top C contestants are going to be awarded T-shirts, but we obviously don't know which contestants that will be. The plan is to get the T-Shirt sizes of all contestants before the actual competition, and then order enough T-shirts so that no matter who is in the top C we'll have T-shirts available in order to award them.In order to get the T-shirt sizes of the contestants, we will send out a survey. The survey will allow contestants to either specify a single desired T-shirt size, or two adjacent T-shirt sizes. If a contestant specifies two sizes, it means that they can be awarded either size.As you can probably tell, this plan could require ordering a lot of unnecessary T-shirts. We'd like your help to determine the minimum number of T-shirts we'll need to order to ensure that we'll be able to award T-shirts no matter the outcome of the competition.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e676b65a8236ca5d45adbb4c3a38c836a02091a5822c9fd9d619e162839a998
+size 1219

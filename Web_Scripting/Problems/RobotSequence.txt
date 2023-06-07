@@ -1,9 +1,3 @@
-Robot Sequence                    
-
-https://codeforces.com/problemset/problem/626/A
-
-brute force
-
-1000
-
-Calvin the robot lies in an infinite rectangular grid. Calvin's source code contains a list of n commands, each either 'U', 'R', 'D', or 'L' — instructions to move a single square up, right, down, or left, respectively. How many ways can Calvin execute a non-empty contiguous substrings of commands and return to the same square he starts in? Two substrings are considered different if they have different starting or ending indices.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2c88c2bef147f9aa0ea017c2ed5a51ff6b591887a2100685490d73d54d8e518
+size 545

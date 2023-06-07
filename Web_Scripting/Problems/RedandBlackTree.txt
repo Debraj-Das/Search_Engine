@@ -1,9 +1,3 @@
-Red and Black Tree                    
-
-https://codeforces.com/problemset/problem/375/E
-
-dp
-
-3000
-
-You have a weighted tree, consisting of n vertices. Each vertex is either painted black or is painted red. A red and black tree is called beautiful, if for any its vertex we can find a black vertex at distance at most x.The distance between two nodes is the shortest path between them.You have a red and black tree. Your task is to make it beautiful in the minimum number of color swap operations. In one color swap operation, you can choose two vertices of different colors and paint each of them the other color. In other words, if you choose a red vertex p and a black vertex q, then in one operation you are allowed to paint p black and paint q red.Print the minimum number of required actions.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b995aa9a867a8b5c3547c8319c5a58653e484f4146a0de3ec2b1c6ed487783f
+size 805

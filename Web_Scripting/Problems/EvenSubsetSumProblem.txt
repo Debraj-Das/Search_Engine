@@ -1,9 +1,3 @@
-Even Subset Sum Problem                    
-
-https://codeforces.com/problemset/problem/1323/A
-
-brute force
-
-800
-
-You are given an array a consisting of n positive integers. Find a non-empty subset of its elements such that their sum is even (i.e. divisible by 2) or determine that there is no such subset.Both the given array and required subset may contain equal values.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be32b1efcdbd052179391c914fed0445f628d969f9dda34be1169c959fa9366e
+size 379

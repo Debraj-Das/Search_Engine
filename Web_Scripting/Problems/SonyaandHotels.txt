@@ -1,9 +1,3 @@
-Sonya and Hotels                    
-
-https://codeforces.com/problemset/problem/1004/A
-
-implementation
-
-900
-
-Sonya decided that having her own hotel business is the best way of earning money because she can profit and rest wherever she wants.The country where Sonya lives is an endless line. There is a city in each integer coordinate on this line. She has n hotels, where the i-th hotel is located in the city with coordinate x_i. Sonya is a smart girl, so she does not open two or more hotels in the same city.Sonya understands that her business needs to be expanded by opening new hotels, so she decides to build one more. She wants to make the minimum distance from this hotel to all others to be equal to d. The girl understands that there are many possible locations to construct such a hotel. Thus she wants to know the number of possible coordinates of the cities where she can build a new hotel. Because Sonya is lounging in a jacuzzi in one of her hotels, she is asking you to find the number of cities where she can build a new hotel so that the minimum distance from the original n hotels to the new one is equal to d.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50b3798c2d0f96c49436fae24e8d6d6a20a8c01a4e2ece3d348a0e5e18b8cb73
+size 1138

@@ -1,9 +1,3 @@
-Positions in Permutations                    
-
-httpscodeforcescomproblemsetproblem285E
-
-combinatorics
-
-2600
-
-Permutation p is an ordered set of integers p1p2pn consisting of n distinct positive integers each of them doesnt exceed n Well denote the ith element of permutation p as pi Well call number n the size or the length of permutation p1p2pnWell call position i 1in in permutation p1p2pn good if pii1 Count the number of permutations of size n with exactly k good positions Print the answer modulo 1000000007 1097
+version https://git-lfs.github.com/spec/v1
+oid sha256:a084f837af28c3bc048a31c761ee286a5e76fb670ac86c0bd2b608a3bf48bff4
+size 526

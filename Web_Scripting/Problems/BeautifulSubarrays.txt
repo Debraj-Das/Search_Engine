@@ -1,9 +1,3 @@
-Beautiful Subarrays                    
-
-httpscodeforcescomproblemsetproblem665E
-
-data structures
-
-2100
-
-One day ZS the Coder wrote down an array of integers awith elements a1a2anA subarray of the array a is a sequence alal1ar for some integers lr such that 1lrn ZS the Coder thinks that a subarray of a is beautiful if the bitwise xor of all the elements in the subarray is at least kHelp ZS the Coder find the number of beautiful subarrays of a
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cbbf767c7ac9f289eb849715b4c1c57486ce13dc8724ae52f324a0058c9c776
+size 454

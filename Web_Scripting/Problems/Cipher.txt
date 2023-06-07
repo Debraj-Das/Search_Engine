@@ -1,9 +1,3 @@
-Cipher                    
-
-https://codeforces.com/problemset/problem/720/E
-
-implementation
-
-3100
-
-Borya has recently found a big electronic display. The computer that manages the display stores some integer number. The number has n decimal digits, the display shows the encoded version of the number, where each digit is shown using some lowercase letter of the English alphabet.There is a legend near the display, that describes how the number is encoded. For each digit position i and each digit j the character c is known, that encodes this digit at this position. Different digits can have the same code characters.Each second the number is increased by 1. And one second after a moment when the number reaches the value that is represented as n 9-s in decimal notation, the loud beep sounds. Andrew knows the number that is stored in the computer. Now he wants to know how many seconds must pass until Borya can definitely tell what was the original number encoded by the display. Assume that Borya can precisely measure time, and that the encoded number will first be increased exactly one second after Borya started watching at the display.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6c8274ad682bea49e4ba0c8dfb7d7451b61e0136321cb3446dbed5af7525de3
+size 1156

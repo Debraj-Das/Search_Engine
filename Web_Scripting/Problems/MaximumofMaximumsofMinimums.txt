@@ -1,9 +1,3 @@
-Maximum of Maximums of Minimums                    
-
-httpscodeforcescomproblemsetproblem870B
-
-greedy
-
-1200
-
-You are given an array a1a2an consisting of n integers and an integer k You have to split the array into exactly k nonempty subsegments Youll then compute the minimum integer on each subsegment and take the maximum integer over the k obtained minimums What is the maximum possible integer you can getDefinitions of subsegment and array splitting are given in notes
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fb579d20adaaf05c9913cb297bcf1acd33d14de62dbd84bf82c1aeb43fe8480
+size 480

@@ -1,9 +1,3 @@
-Count Good Substrings                    
-
-https://codeforces.com/problemset/problem/451/D
-
-math
-
-2000
-
-We call a string good, if after merging all the consecutive equal characters, the resulting string is palindrome. For example, "aabba" is good, because after the merging step it will become "aba".Given a string, you have to find two values:  the number of good substrings of even length;  the number of good substrings of odd length. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:8927da65c3f6bd36d1c2c179340654a6fcb6305ee47c17f630904a347ab1b1dc
+size 446

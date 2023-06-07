@@ -1,9 +1,3 @@
-Pillars                    
-
-httpscodeforcescomproblemsetproblem474E
-
-binary search
-
-2000
-
-Marmot found a row with n pillars The ith pillar has the height of hi meters Starting from one pillar i1 Marmot wants to jump on the pillars i2  ik 1i1i2ikn From a pillar i Marmot can jump on a pillar j only if ij and hihjd where x is the absolute value of the number xNow Marmot is asking you find out a jump sequence with maximal length and print it
+version https://git-lfs.github.com/spec/v1
+oid sha256:b83b3e7e7bcda8a72508c132ab5fc2d6bda0d1d06c914e5dd12a976e21f91209
+size 450

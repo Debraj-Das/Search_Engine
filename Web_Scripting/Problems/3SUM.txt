@@ -1,9 +1,3 @@
-3SUM                    
-
-https://codeforces.com/problemset/problem/1692/F
-
-brute force
-
-1300
-
-Given an array a of positive integers with length n, determine if there exist three distinct indices i, j, k such that a_i + a_j + a_k ends in the digit 3.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3160b34c420299bd2111529b876947318dda70db3741d2dbf137dc844d835485
+size 258

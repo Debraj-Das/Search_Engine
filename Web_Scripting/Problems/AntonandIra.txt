@@ -1,9 +1,3 @@
-Anton and Ira                    
-
-httpscodeforcescomproblemsetproblem584E
-
-constructive algorithms
-
-2300
-
-Anton loves transforming one permutation into another one by swapping elements for money and Ira doesnt like paying for stupid games Help them obtain the required permutation by paying as little money as possibleMore formally we have two permutations p and s of numbers from 1 to n We can swap pi and pj by paying ij coins for it Find and print the smallest number of coins required to obtain permutation s from permutation p Also print the sequence of swap operations at which we obtain a solution 
+version https://git-lfs.github.com/spec/v1
+oid sha256:1648036389ef68e77eff8842fa99cf4a8d302c370a6b88225ec092956f997539
+size 614

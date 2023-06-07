@@ -1,9 +1,3 @@
-Tokitsukaze and Beautiful Subsegments                    
-
-https://codeforces.com/problemset/problem/1677/E
-
-data structures
-
-2900
-
-Tokitsukaze has a permutation p of length n.Let's call a segment [l,r] beautiful if there exist i and j satisfying p_i \cdot p_j = \max\{p_l, p_{l+1}, \ldots, p_r \}, where l \leq i < j \leq r.Now Tokitsukaze has q queries, in the i-th query she wants to know how many beautiful subsegments [x,y] there are in the segment [l_i,r_i] (i. e. l_i \leq x \leq y \leq r_i).
+version https://git-lfs.github.com/spec/v1
+oid sha256:091fc842d16c2bfc1c804e270a75238da9e0122a915a246eb122e6a5f8349395
+size 507

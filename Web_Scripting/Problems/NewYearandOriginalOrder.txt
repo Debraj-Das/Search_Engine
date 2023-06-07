@@ -1,9 +1,3 @@
-New Year and Original Order                    
-
-httpscodeforcescomproblemsetproblem908G
-
-dp
-
-2800
-
-Let Sn denote the number that represents the digits of n in sorted order For example S11S55S503943459S353535333555Given a number X compute  modulo 1097
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb1874803979ab476adb6e0f3eb9f2a55773d1045d03b16ec76d348813df46a2
+size 259

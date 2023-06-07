@@ -1,9 +1,3 @@
-Ohana Cleans Up                    
-
-https://codeforces.com/problemset/problem/554/B
-
-brute force
-
-1200
-
-Ohana Matsumae is trying to clean a room, which is divided up into an n by n grid of squares. Each square is initially either clean or dirty. Ohana can sweep her broom over columns of the grid. Her broom is very strange: if she sweeps over a clean square, it will become dirty, and if she sweeps over a dirty square, it will become clean. She wants to sweep some columns of the room to maximize the number of rows that are completely clean. It is not allowed to sweep over the part of the column, Ohana can only sweep the whole column.Return the maximum number of rows that she can make completely clean.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4442987c1ee00fe80e5ad74bb9aa013192c0ae8fa3d80966a1806b6d9afa9263
+size 717

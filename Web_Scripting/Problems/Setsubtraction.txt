@@ -1,9 +1,3 @@
-Set subtraction                    
-
-https://codeforces.com/problemset/problem/530/D
-
-*special problem
-
-1600
-
-You are given a starting set consisting of all integers from 1 to 1000, inclusive. You are also given several sets which need to be subtracted from the starting set (i.e., each number which is in at least one of these sets needs to be removed from the starting set). Each subtracted set is represented as an interval of integers from A to B, inclusive. Output the result after all subtractions.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89a4a1c59449903b9e3f15848f10b060281262cfa60cabe80afb8494db693ebd
+size 512

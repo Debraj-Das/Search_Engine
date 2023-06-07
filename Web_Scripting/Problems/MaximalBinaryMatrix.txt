@@ -1,9 +1,3 @@
-Maximal Binary Matrix                    
-
-https://codeforces.com/problemset/problem/803/A
-
-constructive algorithms
-
-1400
-
-You are given matrix with n rows and n columns filled with zeroes. You should put k ones in it in such a way that the resulting matrix is symmetrical with respect to the main diagonal (the diagonal that goes from the top left to the bottom right corner) and is lexicographically maximal.One matrix is lexicographically greater than the other if the first different number in the first different row from the top in the first matrix is greater than the corresponding number in the second one.If there exists no such matrix then output -1.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ab617ddfd6eb843e0daa15d38b90872cf638d08f84a4e446a08381a7c8254f7
+size 668

@@ -1,9 +1,3 @@
-Perpetual Subtraction                    
-
-httpscodeforcescomproblemsetproblem923E
-
-fft
-
-3100
-
-There is a number x initially written on a blackboard You repeat the following action a fixed amount of times   take the number x currently written on a blackboard and erase it  select an integer uniformly at random from the range 0x inclusive and write it on the blackboard Determine the distribution of final number given the distribution of initial number and the number of steps
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ed278bfdbe7efec907e25b460fa201f96c79624e22959c74c98f6617512c5c7
+size 485

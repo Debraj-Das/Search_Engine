@@ -1,9 +1,3 @@
-Kolya and Tandem Repeat                    
-
-https://codeforces.com/problemset/problem/443/B
-
-brute force
-
-1500
-
-Kolya got string s for his birthday, the string consists of small English letters. He immediately added k more characters to the right of the string.Then Borya came and said that the new string contained a tandem repeat of length l as a substring. How large could l be?See notes for definition of a tandem repeat.
+version https://git-lfs.github.com/spec/v1
+oid sha256:caf59edd63c46a37f1dd19db913250a028f96edd6830e3f75a41e71ab7d524f1
+size 434

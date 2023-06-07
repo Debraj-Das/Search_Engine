@@ -1,9 +1,3 @@
-Riverside Curio                    
-
-https://codeforces.com/problemset/problem/924/C
-
-data structures
-
-1700
-
-Arkady decides to observe a river for n consecutive days. The river's water level on each day is equal to some real value.Arkady goes to the riverside each day and makes a mark on the side of the channel at the height of the water level, but if it coincides with a mark made before, no new mark is created. The water does not wash the marks away. Arkady writes down the number of marks strictly above the water level each day, on the i-th day this value is equal to mi.Define di as the number of marks strictly under the water level on the i-th day. You are to find out the minimum possible sum of di over all days. There are no marks on the channel before the first day.
+version https://git-lfs.github.com/spec/v1
+oid sha256:61829aef127083246875f21394ad291bbd6690c63a9afefc31aeadff9c4bad21
+size 788

@@ -1,9 +1,3 @@
-Cut 'em all!                    
-
-https://codeforces.com/problemset/problem/982/C
-
-dfs and similar
-
-1500
-
-You're given a tree with n vertices.Your task is to determine the maximum possible number of edges that can be removed in such a way that all the remaining connected components will have even size.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28ed1e315aad99c72efb3de5ba722d68c56ae886a02722ad4d1695a1536a0e23
+size 311

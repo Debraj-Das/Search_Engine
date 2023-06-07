@@ -1,9 +1,3 @@
-Lucky Subsequence                    
-
-httpscodeforcescomproblemsetproblem145C
-
-combinatorics
-
-2100
-
-Petya loves lucky numbers very much Everybody knows that lucky numbers are positive integers whose decimal record contains only the lucky digits 4 and 7 For example numbers 47 744 4 are lucky and 5 17 467 are notPetya has sequence a consisting of n integersThe subsequence of the sequence a is such subsequence that can be obtained from a by removing zero or more of its elementsTwo sequences are considered different if index sets of numbers included in them are different That is the values of the elements do not matter in the comparison of subsequences In particular any sequence of length n has exactly 2n different subsequences including an empty subsequenceA subsequence is considered lucky if it has a length exactly k and does not contain two identical lucky numbers unlucky numbers can be repeated any number of timesHelp Petya find the number of different lucky subsequences of the sequence a As Petyas parents dont let him play with large numbers you should print the result modulo prime number 1000000007 1097
+version https://git-lfs.github.com/spec/v1
+oid sha256:94a5b0e0ed8c134bf4e8cda467d3377209b8d4f562d0c22b8c8e298ee621ab53
+size 1131

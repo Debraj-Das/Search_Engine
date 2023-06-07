@@ -1,9 +1,3 @@
-Oranges and Apples                    
-
-httpscodeforcescomproblemsetproblem23C
-
-constructive algorithms
-
-2500
-
-In 2N1 boxes there are apples and oranges Your task is to choose N boxes so that they will contain not less than half of all the apples and not less than half of all the oranges
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b5c89ea95c0cc8c82c9afd6011ccc796b53ca20a87bbc0607ac4297cfe77e73
+size 296

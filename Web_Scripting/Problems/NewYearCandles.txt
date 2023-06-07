@@ -1,9 +1,3 @@
-New Year Candles                    
-
-https://codeforces.com/problemset/problem/379/A
-
-implementation
-
-1000
-
-Vasily the Programmer loves romance, so this year he decided to illuminate his room with candles.Vasily has a candles.When Vasily lights up a new candle, it first burns for an hour and then it goes out. Vasily is smart, so he can make b went out candles into a new candle. As a result, this new candle can be used like any other new candle.Now Vasily wonders: for how many hours can his candles light up the room if he acts optimally well? Help him find this number.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9dea9630e52a17dd61e76dbd004e72d0218573598c4f4101e54bd253edda6258
+size 583

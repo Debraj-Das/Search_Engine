@@ -1,9 +1,3 @@
-Restore Permutation                    
-
-https://codeforces.com/problemset/problem/1208/D
-
-binary search
-
-1900
-
-An array of integers p_{1},p_{2}, \ldots,p_{n} is called a permutation if it contains each number from 1 to n exactly once. For example, the following arrays are permutations: [3,1,2], [1], [1,2,3,4,5] and [4,3,1,2]. The following arrays are not permutations: [2], [1,1], [2,3,4].There is a hidden permutation of length n.For each index i, you are given s_{i}, which equals to the sum of all p_{j} such that j < i and p_{j} < p_{i}. In other words, s_i is the sum of elements before the i-th element that are smaller than the i-th element.Your task is to restore the permutation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09be6e6cabe1702750d85b1692a3fb3f627c872f53420acc1e863e90a9591e1d
+size 699

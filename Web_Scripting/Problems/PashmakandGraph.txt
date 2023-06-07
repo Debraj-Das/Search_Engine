@@ -1,9 +1,3 @@
-Pashmak and Graph                    
-
-https://codeforces.com/problemset/problem/459/E
-
-dp
-
-1900
-
-Pashmak's homework is a problem about graphs. Although he always tries to do his homework completely, he can't solve this problem. As you know, he's really weak at graph theory; so try to help him in solving the problem.You are given a weighted directed graph with n vertices and m edges. You need to find a path (perhaps, non-simple) with maximum number of edges, such that the weights of the edges increase along the path. In other words, each edge of the path must have strictly greater weight than the previous edge in the path.Help Pashmak, print the number of edges in the required path.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d131bc69304b422a45a3ad24d9c49efb200acadd56e0a63a7f24f6d43074e15
+size 699

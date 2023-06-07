@@ -1,9 +1,3 @@
-Continued Fractions                    
-
-https://codeforces.com/problemset/problem/305/B
-
-brute force
-
-1700
-
-A continued fraction of height n is a fraction of form . You are given two rational numbers, one is represented as  and the other one is represented as a finite fraction of height n. Check if they are equal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc26107a3c948985e55970cc8ed750cba5730d4cf0eaee60cd25c917154894cc
+size 324

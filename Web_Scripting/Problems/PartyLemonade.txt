@@ -1,9 +1,3 @@
-Party Lemonade                    
-
-httpscodeforcescomproblemsetproblem913C
-
-bitmasks
-
-1600
-
-A New Year party is not a New Year party without lemonade As usual you are expecting a lot of guests and buying lemonade has already become a pleasant necessityYour favorite store sells lemonade in bottles of n different volumes at different costs A single bottle of type i has volume 2i1 liters and costs ci roubles The number of bottles of each type in the store can be considered infiniteYou want to buy at least L liters of lemonade How many roubles do you have to spend
+version https://git-lfs.github.com/spec/v1
+oid sha256:18e4acab93b3b7f637a7d300abbe20dae67c0e1d78ef9300cdd3497536b8d293
+size 575

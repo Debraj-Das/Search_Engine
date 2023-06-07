@@ -1,9 +1,3 @@
-Bits And Pieces                    
-
-https://codeforces.com/problemset/problem/1208/F
-
-bitmasks
-
-2600
-
-You are given an array a of n integers.You need to find the maximum value of a_{i} | ( a_{j} \& a_{k} ) over all triplets (i,j,k) such that i < j < k.Here \& denotes the bitwise AND operation, and | denotes the bitwise OR operation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d505277205d1481aa344610baebb542f5531f401e606128c40641a8a7950f23f
+size 343

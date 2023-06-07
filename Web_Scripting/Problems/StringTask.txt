@@ -1,9 +1,3 @@
-String Task                    
-
-https://codeforces.com/problemset/problem/118/A
-
-implementation
-
-1000
-
-Petya started to attend programming lessons. On the first lesson his task was to write a simple program. The program was supposed to do the following: in the given string, consisting if uppercase and lowercase Latin letters, it:   deletes all the vowels,  inserts a character "." before each consonant,  replaces all uppercase consonants with corresponding lowercase ones. Vowels are letters "A", "O", "Y", "E", "U", "I", and the rest are consonants. The program's input is exactly one string, it should return the output as a single string, resulting after the program's processing the initial string.Help Petya cope with this easy task.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3466307aa3f2de064bc05acdd3e1ccd779ee8757e22a5eb3a1cfda012ab98cfa
+size 750

@@ -1,9 +1,3 @@
-USB Flash Drives                    
-
-httpscodeforcescomproblemsetproblem609A
-
-greedy
-
-800
-
-Sean is trying to save a large file to a USB flash drive He has n USB flash drives with capacities equal to a1a2an megabytes The file size is equal to m megabytes Find the minimum number of USB flash drives needed to write Seans file if he can split the file between drives
+version https://git-lfs.github.com/spec/v1
+oid sha256:fef8a2d7500a16d57d7b2ad4de3e6c552508887afc694ad4df01f2f24a2d68e4
+size 373

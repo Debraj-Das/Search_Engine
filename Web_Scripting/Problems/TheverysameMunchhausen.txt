@@ -1,9 +1,3 @@
-The very same Munchhausen                    
-
-https://codeforces.com/problemset/problem/1120/E
-
-brute force
-
-2600
-
-A positive integer a is given. Baron Munchausen claims that he knows such a positive integer n that if one multiplies n by a, the sum of its digits decreases a times. In other words, S(an) = S(n)/a, where S(x) denotes the sum of digits of the number x. Find out if what Baron told can be true.
+version https://git-lfs.github.com/spec/v1
+oid sha256:61f4fe764a0aebd0287fe0495979a540d2dafe68af69e2dc4e5f9ad1eab0d37f
+size 417

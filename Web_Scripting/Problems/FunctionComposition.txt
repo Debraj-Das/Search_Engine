@@ -1,9 +1,3 @@
-Function Composition                    
-
-https://codeforces.com/problemset/problem/1218/H
-
-dfs and similar
-
-2900
-
-We are definitely not going to bother you with another generic story when Alice finds about an array or when Alice and Bob play some stupid game. This time you'll get a simple, plain text.First, let us define several things. We define function F on the array A such that F(i, 1) = A[i] and F(i, m) = A[F(i, m - 1)] for m > 1. In other words, value F(i, m) represents composition A[...A[i]] applied m times.You are given an array of length N with non-negative integers. You are expected to give an answer on Q queries. Each query consists of two numbers – m and y. For each query determine how many x exist such that F(x,m) = y.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5eb0889c46c407c4c47795a2b413fef80e5f6a0e8a4604fe3df34d81b6c14c8e
+size 750

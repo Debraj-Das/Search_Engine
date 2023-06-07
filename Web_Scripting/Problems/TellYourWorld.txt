@@ -1,9 +1,3 @@
-Tell Your World                    
-
-httpscodeforcescomproblemsetproblem849B
-
-brute force
-
-1600
-
-Connect the countless points with lines till we reach the faraway yonderThere are n points on a coordinate plane the ith of which being iyiDetermine whether its possible to draw two parallel and nonoverlapping lines such that every point in the set lies on exactly one of them and each of them passes through at least one point in the set
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5f19616fdc361d7d526064539a905ad1a27814d0b68a0ec21c784d967c81cfa
+size 443

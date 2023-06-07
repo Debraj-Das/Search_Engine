@@ -1,9 +1,3 @@
-Numbers Joke                    
-
-httpscodeforcescomproblemsetproblem784A
-
-special problem
-
-1700
-
-InputThe input contains a single integer a 1a30OutputOutput a single integerExampleInput3Output27
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5b68fc36baff18fc1540f5b990340c914c0836fa1bab2003274c5afb207c5a8
+size 203

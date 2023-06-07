@@ -1,9 +1,3 @@
-Robots protection                    
-
-https://codeforces.com/problemset/problem/575/I
-
-data structures
-
-2800
-
-Company "Robots industries" produces robots for territory protection. Robots protect triangle territories — right isosceles triangles with catheti parallel to North-South and East-West directions.Owner of some land buys and sets robots on his territory to protect it. From time to time, businessmen want to build offices on that land and want to know how many robots will guard it. You are to handle these queries. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:4cdca216f44ae9a3893eeda1c934f6ef89a65c550f24b5a78d13572019dad27d
+size 534

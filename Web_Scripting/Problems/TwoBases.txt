@@ -1,9 +1,3 @@
-Two Bases                    
-
-https://codeforces.com/problemset/problem/602/A
-
-brute force
-
-1100
-
-After seeing the "ALL YOUR BASE ARE BELONG TO US" meme for the first time, numbers X and Y realised that they have different bases, which complicated their relations.You're given a number X represented in base bx and a number Y represented in base by. Compare those two numbers.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31945a47393e40c825d0f5adc75f944953ad10d15166e9cdb7129105a050fb7b
+size 385

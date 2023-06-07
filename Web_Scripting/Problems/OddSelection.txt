@@ -1,9 +1,3 @@
-Odd Selection                    
-
-https://codeforces.com/problemset/problem/1363/A
-
-brute force
-
-1200
-
-Shubham has an array a of size n, and wants to select exactly x elements from it, such that their sum is odd. These elements do not have to be consecutive. The elements of the array are not guaranteed to be distinct.Tell him whether he can do so.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16503dd53f909a099f68af781fab4509b56e8b1e8fcce766d5cd054ff0cc531d
+size 358

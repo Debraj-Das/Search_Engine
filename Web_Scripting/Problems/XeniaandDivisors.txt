@@ -1,9 +1,3 @@
-Xenia and Divisors                    
-
-httpscodeforcescomproblemsetproblem342A
-
-greedy
-
-1200
-
-Xenia the mathematician has a sequence consisting of n n is divisible by 3 positive integers each of them is at most 7 She wants to split the sequence into groups of three so that for each group of three abc the following conditions held  abc  a divides b b divides c Naturally Xenia wants each element of the sequence to belong to exactly one group of three Thus if the required partition exists then it has  groups of threeHelp Xenia find the required partition or else say that it doesnt exist
+version https://git-lfs.github.com/spec/v1
+oid sha256:a72a46642dc335966be317ec137deb79e97bb73ffb2c66b9a84381f57f73d987
+size 599

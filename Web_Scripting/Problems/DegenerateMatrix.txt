@@ -1,9 +1,3 @@
-Degenerate Matrix                    
-
-httpscodeforcescomproblemsetproblem549H
-
-binary search
-
-2100
-
-The determinant of a matrix 22 is defined as followsA matrix is called degenerate if its determinant is equal to zero The norm A of a matrix A is defined as a maximum of absolute values of its elementsYou are given a matrix  Consider any degenerate matrix B such that norm AB is minimum possible Determine AB
+version https://git-lfs.github.com/spec/v1
+oid sha256:4dc9bc964c64faf026ba5ff0b857a3c357d95e17e2b365833136b237b6a57dd3
+size 417

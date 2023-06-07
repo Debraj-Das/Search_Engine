@@ -1,9 +1,3 @@
-Subset with Zero Sum                    
-
-https://codeforces.com/problemset/problem/1270/G
-
-constructive algorithms
-
-2700
-
-You are given n integers a_1, a_2, \dots, a_n, such that for each 1\le i \le n holds i-n\le a_i\le i-1.Find some nonempty subset of these integers, whose sum is equal to 0. It can be shown that such a subset exists under given constraints. If there are several possible subsets with zero-sum, you can find any of them.
+version https://git-lfs.github.com/spec/v1
+oid sha256:109e20d9016d514cfbfcbd85510d5817b6a8d5a460b71ec1729c03f3c4c22eb6
+size 449

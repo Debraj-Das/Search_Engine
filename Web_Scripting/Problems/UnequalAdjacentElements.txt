@@ -1,9 +1,3 @@
-Unequal Adjacent Elements                    
-
-https://codeforces.com/problemset/problem/1762/G
-
-constructive algorithms
-
-3100
-
-You are given an array a consisting of n positive integers. Find any permutation p of [1,2,\dots,n] such that:  p_{i-2} < p_i for all i, where 3 \leq i \leq n, and  a_{p_{i-1}} \neq a_{p_i} for all i, where 2 \leq i \leq n. Or report that no such permutation exists.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5011196f7eec0619c10b19c37383f49c764559e99bdf6df491098c99a703a97b
+size 402

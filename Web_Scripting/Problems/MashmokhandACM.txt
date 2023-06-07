@@ -1,9 +1,3 @@
-Mashmokh and ACM                    
-
-httpscodeforcescomproblemsetproblem414B
-
-combinatorics
-
-1400
-
-Mashmokhs boss Bimokh didnt like Mashmokh So he fired him Mashmokh decided to go to university and participate in ACM instead of finding a new job He wants to become a member of Bamokhs team In order to join he was given some programming tasks and one week to solve them Mashmokh is not a very experienced programmer Actually he is not a programmer at all So he wasnt able to solve them Thats why he asked you to help him with these tasks One of these tasks is the followingA sequence of l integers b1b2bl 1b1b2bln is called good if each number divides without a remainder by the next number in the sequence More formally  for all i 1il1Given n and k find the number of good sequences of length k As the answer can be rather large print it modulo 1000000007 1097
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb920b5d95f9225208001ba0de0842f4eb3356084b53c42cfa43b4726711e5ec
+size 870

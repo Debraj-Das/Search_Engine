@@ -1,9 +1,3 @@
-In-game Chat                    
-
-https://codeforces.com/problemset/problem/1411/A
-
-implementation
-
-800
-
-You have been assigned to develop a filter for bad messages in the in-game chat. A message is a string S of length n, consisting of lowercase English letters and characters ')'. The message is bad if the number of characters ')' at the end of the string strictly greater than the number of remaining characters. For example, the string ")bc)))" has three parentheses at the end, three remaining characters, and is not considered bad.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7376e8697c04d69982af7b8caddd6badc3809f499944b444acca444615c5d418
+size 546

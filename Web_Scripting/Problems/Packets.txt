@@ -1,9 +1,3 @@
-Packets                    
-
-https://codeforces.com/problemset/problem/1037/A
-
-constructive algorithms
-
-1300
-
-You have n coins, each of the same value of 1.Distribute them into packets such that any amount x (1 \leq x \leq n) can be formed using some (possibly one or all) number of these packets.Each packet may only be used entirely or not used at all. No packet may be used more than once in the formation of the single x, however it may be reused for the formation of other x's.Find the minimum number of packets in such a distribution.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e972d8e7c392b2a4ef80cecf436e4896cc1095429bacea423dd2f339e21e8655
+size 548

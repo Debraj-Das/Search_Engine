@@ -1,9 +1,3 @@
-String Building                    
-
-https://codeforces.com/problemset/problem/1671/A
-
-implementation
-
-800
-
-You are given a string s. You have to determine whether it is possible to build the string s out of strings aa, aaa, bb and/or bbb by concatenating them. You can use the strings aa, aaa, bb and/or bbb any number of times and in any order.For example:  aaaabbb can be built as aa + aa + bbb;  bbaaaaabbb can be built as bb + aaa + aa + bbb;  aaaaaa can be built as aa + aa + aa;  abab cannot be built from aa, aaa, bb and/or bbb. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:0690076728bb5fa858e6dfffd33d18fdc89461b13f3b6672643355556e68bc32
+size 545

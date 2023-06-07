@@ -1,9 +1,3 @@
-Superset                    
-
-https://codeforces.com/problemset/problem/97/B
-
-constructive algorithms
-
-2300
-
-A set of points on a plane is called good, if for any two points at least one of the three conditions is true: those two points lie on same horizontal line;  those two points lie on same vertical line;  the rectangle, with corners in these two points, contains inside or on its borders at least one point of the set, other than these two. We mean here a rectangle with sides parallel to coordinates' axes, the so-called bounding box of the two points.You are given a set consisting of n points on a plane. Find any good superset of the given set whose size would not exceed 2·105 points.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f88845612df035a2940ddcfd5507c7ecd8eb7e07d875b7b5e6015eefd2f3dee
+size 704

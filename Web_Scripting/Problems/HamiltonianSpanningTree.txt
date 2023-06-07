@@ -1,9 +1,3 @@
-Hamiltonian Spanning Tree                    
-
-httpscodeforcescomproblemsetproblem618D
-
-dfs and similar
-
-2200
-
-A group of n cities is connected by a network of roads There is an undirected road between every pair of cities so there are  roads in total It takes exactly y seconds to traverse any single roadA spanning tree is a set of roads containing exactly n1 roads such that its possible to travel between any two cities using only these roadsSome spanning tree of the initial network was chosen For every road in this tree the time one needs to traverse this road was changed from y to x seconds Note that its not guaranteed that x is smaller than yYou would like to travel through all the cities using the shortest path possible Given n x y and a description of the spanning tree that was chosen find the cost of the shortest path that starts in any city ends in any city and visits all cities exactly once
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e9fdcbc1579f58767b3bc3cb29f8c3104801acfb0aa6bca4e85fa925d9473d2
+size 919

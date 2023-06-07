@@ -1,9 +1,3 @@
-Even Number Addicts                    
-
-https://codeforces.com/problemset/problem/1738/C
-
-dp
-
-1500
-
-Alice and Bob are playing a game on a sequence a_1, a_2, \dots, a_n of length n. They move in turns and Alice moves first.In the turn of each player, he or she should select an integer and remove it from the sequence. The game ends when there is no integer left in the sequence. Alice wins if the sum of her selected integers is even; otherwise, Bob wins. Your task is to determine who will win the game, if both players play optimally.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4df958bbe0ad74554b4287ee8208c4e082b1b3e94afc0905e4be1f7b585331b0
+size 545

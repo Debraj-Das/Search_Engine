@@ -1,9 +1,3 @@
-Single Wildcard Pattern Matching                    
-
-https://codeforces.com/problemset/problem/1023/A
-
-brute force
-
-1200
-
-You are given two strings s and t. The string s consists of lowercase Latin letters and at most one wildcard character '*', the string t consists only of lowercase Latin letters. The length of the string s equals n, the length of the string t equals m.The wildcard character '*' in the string s (if any) can be replaced with an arbitrary sequence (possibly empty) of lowercase Latin letters. No other character of s can be replaced with anything. If it is possible to replace a wildcard character '*' in s to obtain a string t, then the string t matches the pattern s.For example, if s="aba*aba" then the following strings match it "abaaba", "abacaba" and "abazzzaba", but the following strings do not match: "ababa", "abcaaba", "codeforces", "aba1aba", "aba?aba".If the given string t matches the given string s, print "YES", otherwise print "NO".
+version https://git-lfs.github.com/spec/v1
+oid sha256:d682360dd7d60e3283ef36e60b603312592ddf8eb664ee76ffdd1cbdb308d84e
+size 979

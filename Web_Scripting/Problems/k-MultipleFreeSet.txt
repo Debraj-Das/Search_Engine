@@ -1,9 +1,3 @@
-kMultiple Free Set                    
-
-httpscodeforcescomproblemsetproblem274A
-
-binary search
-
-1500
-
-A kmultiple free set is a set of integers where there is no pair of integers where one is equal to another integer multiplied by k That is there are no two integers x and y xy from the set such that yxkYoure given a set of n distinct positive integers Your task is to find the size of its largest kmultiple free subset
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f8b00c27b1399984322c1e406bf6f21d13741eaf9ae9f3b4a45a54bc6b19608
+size 428

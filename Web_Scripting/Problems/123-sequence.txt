@@ -1,9 +1,3 @@
-123sequence                    
-
-httpscodeforcescomproblemsetproblem52A
-
-implementation
-
-900
-
-There is a given sequence of integers a1a2an where every number is from 1 to 3 inclusively You have to replace the minimum number of numbers in it so that all the numbers in the sequence are equal to each other
+version https://git-lfs.github.com/spec/v1
+oid sha256:662cb386a8336415e7ac54a18b25c3c54c1cafc5ac1e35275dc539af974a31eb
+size 312

@@ -1,9 +1,3 @@
-Display Size                    
-
-httpscodeforcescomproblemsetproblem747A
-
-brute force
-
-800
-
-A big company decided to launch a new series of rectangular displays and decided that the display must have exactly n pixels Your task is to determine the size of the rectangular display  the number of lines rows of pixels a and the number of columns of pixels b so that  there are exactly n pixels on the display  the number of rows does not exceed the number of columns it means ab  the difference ba is as small as possible 
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5ba3211f719909c6fc7188ed533db91974fbbbd3ec33b58ee83b270b05ee5eb
+size 528

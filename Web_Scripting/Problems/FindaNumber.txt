@@ -1,9 +1,3 @@
-Find a Number                    
-
-https://codeforces.com/problemset/problem/1070/A
-
-dp
-
-2200
-
-You are given two positive integers d and s. Find minimal positive integer n which is divisible by d and has sum of digits equal to s.
+version https://git-lfs.github.com/spec/v1
+oid sha256:307ed2b404941020b4d4ceea0c24be392a753a9cf5b3ac8f10088eb4a9bd62cc
+size 237

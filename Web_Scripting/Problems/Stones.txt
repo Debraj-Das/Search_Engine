@@ -1,9 +1,3 @@
-Stones                    
-
-https://codeforces.com/problemset/problem/1236/A
-
-brute force
-
-800
-
-Alice is playing with some stones.Now there are three numbered heaps of stones. The first of them contains a stones, the second of them contains b stones and the third of them contains c stones.Each time she can do one of two operations:  take one stone from the first heap and two stones from the second heap (this operation can be done only if the first heap contains at least one stone and the second heap contains at least two stones);  take one stone from the second heap and two stones from the third heap (this operation can be done only if the second heap contains at least one stone and the third heap contains at least two stones). She wants to get the maximum number of stones, but she doesn't know what to do. Initially, she has 0 stones. Can you help her?
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd1c9e732f80a61020d2dd83d51aeb9a6149646f867b7e4cd9eadd3c6a98c683
+size 872

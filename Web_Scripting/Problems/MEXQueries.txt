@@ -1,9 +1,3 @@
-MEX Queries                    
-
-httpscodeforcescomproblemsetproblem817F
-
-binary search
-
-2300
-
-You are given a set of integer numbers initially it is empty You should perform n queriesThere are three different types of queries   1 l r  Add all missing numbers from the interval lr  2 l r  Remove all present numbers from the interval lr  3 l r  Invert the interval lr  add all missing and remove all present numbers from the interval lr After each query you should output MEX of the set  the smallest positive MEX 1 integer number which is not presented in the set
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe7fe517146ed34341cc55ee45036a42c7ce7e6f5a050e8ed5f020fba977fc0c
+size 572

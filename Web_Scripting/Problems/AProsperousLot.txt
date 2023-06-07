@@ -1,9 +1,3 @@
-A Prosperous Lot                    
-
-https://codeforces.com/problemset/problem/934/B
-
-constructive algorithms
-
-1200
-
-Apart from Nian, there is a daemon named Sui, which terrifies children and causes them to become sick. Parents give their children money wrapped in red packets and put them under the pillow, so that when Sui tries to approach them, it will be driven away by the fairies inside.Big Banban is hesitating over the amount of money to give out. He considers loops to be lucky since it symbolizes unity and harmony.He would like to find a positive integer n not greater than 1018, such that there are exactly k loops in the decimal representation of n, or determine that such n does not exist.A loop is a planar area enclosed by lines in the digits' decimal representation written in Arabic numerals. For example, there is one loop in digit 4, two loops in 8 and no loops in 5. Refer to the figure below for all exact forms.  
+version https://git-lfs.github.com/spec/v1
+oid sha256:f754e0fff467fb0e5eec2f52424f669a195a62cc04329e50203c119a679b8960
+size 946

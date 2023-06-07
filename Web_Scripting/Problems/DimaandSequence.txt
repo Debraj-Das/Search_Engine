@@ -1,9 +1,3 @@
-Dima and Sequence                    
-
-httpscodeforcescomproblemsetproblem272B
-
-implementation
-
-1400
-
-Dima got into number sequences Now hes got sequence a1a2an consisting of n positive integers Also Dima has got a function fx which can be defined with the following recurrence  f00  f2xfx  f2x1fx1 Dima wonders how many pairs of indexes ij 1ijn are there such that faifaj Help him count the number of such pairs 
+version https://git-lfs.github.com/spec/v1
+oid sha256:f22b82058118629a439d01ae23318d1e2c6d8518f317c1740dce4ebc9206bc39
+size 421

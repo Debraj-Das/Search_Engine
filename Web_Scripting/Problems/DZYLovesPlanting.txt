@@ -1,9 +1,3 @@
-DZY Loves Planting                    
-
-httpscodeforcescomproblemsetproblem444E
-
-binary search
-
-2700
-
-DZY loves planting and he enjoys solving tree problemsDZY has a weighted tree connected undirected graph without cycles containing n nodes they are numbered from 1 to n He defines the function gxy 1xyn as the longest edge in the shortest path between nodes x and y Specially gzz0 for every zFor every integer sequence p1p2pn 1pin DZY defines fp as  DZY wants to find such a sequence p that fp has maximum possible value But there is one more restriction the element j can appear in p at most xj timesPlease find the maximum possible fp under the described restrictions
+version https://git-lfs.github.com/spec/v1
+oid sha256:184ba808ed59dfcd10a308d6b862a880d6f70430f7927762e8064adf576d86e1
+size 678

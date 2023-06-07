@@ -1,9 +1,3 @@
-L-shapes                    
-
-https://codeforces.com/problemset/problem/1722/F
-
-dfs and similar
-
-1700
-
-An L-shape is a figure on gridded paper that looks like the first four pictures below. An L-shape contains exactly three shaded cells (denoted by *), which can be rotated in any way.  You are given a rectangular grid. Determine if it contains L-shapes only, where L-shapes can't touch an edge or corner. More formally:   Each shaded cell in the grid is part of exactly one L-shape, and  no two L-shapes are adjacent by edge or corner. For example, the last two grids in the picture above do not satisfy the condition because the two L-shapes touch by corner and edge, respectively.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a55c1db857f894ad18208f52891dd8ec413af050164b30e1e5216d6f53b69d9
+size 692

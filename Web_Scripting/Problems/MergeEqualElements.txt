@@ -1,9 +1,3 @@
-Merge Equal Elements                    
-
-httpscodeforcescomproblemsetproblem926E
-
-constructive algorithms
-
-1900
-
-You are given a sequence of positive integers a1a2an While possible you perform the following operation find a pair of equal consecutive elements If there are more than one such pair find the leftmost with the smallest indices of elements If the two integers are equal to x delete both and insert a single integer x1 on their place This way the number of elements in the sequence is decreased by 1 on each step You stop performing the operation when there is no pair of equal consecutive elementsFor example if the initial sequence is 521122 then after the first operation you get 52222 after the second  5322 after the third  533 and finally after the fourth you get 54 After that there are no equal consecutive elements left in the sequence so you stop the processDetermine the final sequence after you stop performing the operation
+version https://git-lfs.github.com/spec/v1
+oid sha256:e07a186d3d71ffea96a85b5a42f187fd630e50f2549cbd4568d0baf7b402e5af
+size 956

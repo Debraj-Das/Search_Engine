@@ -1,9 +1,3 @@
-Text Volume                    
-
-https://codeforces.com/problemset/problem/837/A
-
-implementation
-
-800
-
-You are given a text of single-space separated words, consisting of small and capital Latin letters.Volume of the word is number of capital letters in the word. Volume of the text is maximum volume of all words in the text.Calculate the volume of the given text.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c7ddf9d78658c500ef72e363c6487cc49705ac8161644facc615ffedb82fa8e
+size 373

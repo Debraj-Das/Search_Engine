@@ -1,9 +1,3 @@
-Recover Polygon hard                    
-
-httpscodeforcescomproblemsetproblem690B3
-
-data structures
-
-2600
-
-Zombies have found out about the Zombie Contamination level checker and managed to damage it Now detecting the shape of their main compound will be a real challenge for Heidi As before a lair can be represented as a strictly convex polygon on a lattice Each vertex of the polygon occupies a point on the lattice However the damaged Zombie Contamination level checker can only tell for each cell whether the level of Zombie Contamination for that cell is in the set 123 In other words Heidi knows all the cells of the lattice for which the Contamination level is not 0 and not 4Given this information Heidi still wants to know the exact shape of the lair to rain destruction on the zombies Help her
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc4a8b9a3f54a344c93b7071d556590e408a99e4922d294b4c738f7a2af6b503
+size 812

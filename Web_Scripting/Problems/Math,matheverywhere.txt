@@ -1,9 +1,3 @@
-Math math everywhere                    
-
-httpscodeforcescomproblemsetproblem765G
-
-brute force
-
-3200
-
-If you have gone that far youll probably skip unnecessary legends anywayYou are given a binary string  and an integer  Find the number of integers k 0kN such that for all i0 1  m1  Print the answer modulo 1097
+version https://git-lfs.github.com/spec/v1
+oid sha256:8179cb4edbe46a28c4c29cf2299cde7b0d8c56e40473f8ab00e9f2a240866930
+size 319

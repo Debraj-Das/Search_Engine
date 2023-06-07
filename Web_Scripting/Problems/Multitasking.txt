@@ -1,9 +1,3 @@
-Multitasking                    
-
-httpscodeforcescomproblemsetproblem384B
-
-greedy
-
-1500
-
-Iahub wants to enhance his multitasking abilities In order to do this he wants to sort n arrays simultaneously each array consisting of m integersIahub can choose a pair of distinct indices i and j 1ijmij Then in each array the values at positions i and j are swapped only if the value at position i is strictly greater than the value at position jIahub wants to find an array of pairs of distinct indices that chosen in order sort all of the n arrays in ascending or descending order the particular order is given in input The size of the array can be at most  at most  pairs Help Iahub find any suitable array
+version https://git-lfs.github.com/spec/v1
+oid sha256:a91d4546230295b651778354d78258e1c87e9571dc04363fbe40a847daa3d0a5
+size 708

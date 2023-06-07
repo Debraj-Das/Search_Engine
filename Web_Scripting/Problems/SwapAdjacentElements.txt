@@ -1,9 +1,3 @@
-Swap Adjacent Elements                    
-
-httpscodeforcescomproblemsetproblem920C
-
-dfs and similar
-
-1400
-
-You have an array a consisting of n integers Each integer from 1 to n appears exactly once in this arrayFor some indices i 1in1 it is possible to swap ith element with i1th for other indices it is not possible You may perform any number of swapping operations any order There is no limit on the number of times you swap ith element with i1th if the position is not forbiddenCan you make this array sorted in ascending order performing some sequence of swapping operations
+version https://git-lfs.github.com/spec/v1
+oid sha256:95dee5c10315e57251690bfc4c3e2ac4a8aa148dc3665cf4af6b64de8784906d
+size 587

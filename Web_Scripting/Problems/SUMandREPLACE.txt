@@ -1,9 +1,3 @@
-SUM and REPLACE                    
-
-httpscodeforcescomproblemsetproblem920F
-
-brute force
-
-2000
-
-Let Dx be the number of positive divisors of a positive integer x For example D22 2 is divisible by 1 and 2 D64 6 is divisible by 1 2 3 and 6You are given an array a of n integers You have to process two types of queries  REPLACE l r  for every  replace ai with Dai  SUM l r  calculate  Print the answer for each SUM query
+version https://git-lfs.github.com/spec/v1
+oid sha256:676ac050673f1b2d5d1a677eed2c9fe5aa089147b0c29165ec854ae5e7f0ccfa
+size 427

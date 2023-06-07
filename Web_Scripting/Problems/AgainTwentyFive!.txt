@@ -1,9 +1,3 @@
-Again Twenty Five!                    
-
-https://codeforces.com/problemset/problem/630/A
-
-number theory
-
-800
-
-The HR manager was disappointed again. The last applicant failed the interview the same way as 24 previous ones. "Do I give such a hard task?" — the HR manager thought. "Just raise number 5 to the power of n and get last two digits of the number. Yes, of course, n can be rather big, and one cannot find the power using a calculator, but we need people who are able to think, not just follow the instructions."Could you pass the interview in the machine vision company in IT City?
+version https://git-lfs.github.com/spec/v1
+oid sha256:25e9cb686e5566905043a2607be966d4e8bfff9195fe6cc34d6a500129b7da19
+size 597

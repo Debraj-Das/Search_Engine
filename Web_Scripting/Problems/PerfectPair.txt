@@ -1,9 +1,3 @@
-Perfect Pair                    
-
-httpscodeforcescomproblemsetproblem317A
-
-brute force
-
-1600
-
-Let us call a pair of integer numbers mperfect if at least one number in the pair is greater than or equal to m Thus the pairs 3 3 and 0 2 are 2perfect while the pair 1 1 is notTwo integers x y are written on the blackboard It is allowed to erase one of them and replace it with the sum of the numbers xyWhat is the minimum number of such operations one has to perform in order to make the given pair of integers mperfect
+version https://git-lfs.github.com/spec/v1
+oid sha256:65c50ceeb0a4f09e74d01092a9f730595fafad797dbc30d0edf9efb1aac6e38f
+size 523

@@ -1,9 +1,3 @@
-Decimal sum                    
-
-https://codeforces.com/problemset/problem/130/C
-
-*special problem
-
-1500
-
-You are given an array of integer numbers. Calculate the sum of its elements.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1be4c32253fe9484ba5b6e544c97d23a89f6255f0f270cc1a17171db79ce0da0
+size 191

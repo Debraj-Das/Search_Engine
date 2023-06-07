@@ -1,9 +1,3 @@
-Almost All                    
-
-https://codeforces.com/problemset/problem/1205/D
-
-constructive algorithms
-
-2700
-
-You are given a tree with n nodes. You have to write non-negative integers on its edges so that the following condition would be satisfied:For every two nodes i, j, look at the path between them and count the sum of numbers on the edges of this path. Write all obtained sums on the blackboard. Then every integer from 1 to \lfloor \frac{2n^2}{9} \rfloor has to be written on the blackboard at least once. It is guaranteed that such an arrangement exists.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a649d826a6597b2485a5db05f2186daf98523a49438a957d97eb786b47c6da5
+size 575

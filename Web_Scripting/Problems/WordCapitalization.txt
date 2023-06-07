@@ -1,9 +1,3 @@
-Word Capitalization                    
-
-https://codeforces.com/problemset/problem/281/A
-
-implementation
-
-800
-
-Capitalization is writing a word with its first letter as a capital letter. Your task is to capitalize the given word.Note, that during capitalization all the letters except the first one remains unchanged.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb76381e7872586682976a3486b4708cdf4bc2c651edd3ad6525b3470d22c077
+size 325

@@ -1,9 +1,3 @@
-International Olympiad                    
-
-https://codeforces.com/problemset/problem/662/D
-
-constructive algorithms
-
-2000
-
-International Abbreviation Olympiad takes place annually starting from 1989. Each year the competition receives an abbreviation of form IAO'y, where y stands for some number of consequent last digits of the current year. Organizers always pick an abbreviation with non-empty string y that has never been used before. Among all such valid abbreviations they choose the shortest one and announce it to be the abbreviation of this year's competition.For example, the first three Olympiads (years 1989, 1990 and 1991, respectively) received the abbreviations IAO'9, IAO'0 and IAO'1, while the competition in 2015 received an abbreviation IAO'15, as IAO'5 has been already used in 1995.You are given a list of abbreviations. For each of them determine the year it stands for.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9cbe2f20f1fdb4bf275bb17af36176f6e2cd7753a6e3f39a13f1d323a606eab5
+size 902

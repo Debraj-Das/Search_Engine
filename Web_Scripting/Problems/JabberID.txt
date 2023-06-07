@@ -1,9 +1,3 @@
-Jabber ID                    
-
-https://codeforces.com/problemset/problem/21/A
-
-implementation
-
-1900
-
-Jabber ID on the national Berland service «Babber» has a form <username>@<hostname>[/resource], where   <username> — is a sequence of Latin letters (lowercase or uppercase), digits or underscores characters «_», the length of <username> is between 1 and 16, inclusive.  <hostname> — is a sequence of word separated by periods (characters «.»), where each word should contain only characters allowed for <username>, the length of each word is between 1 and 16, inclusive. The length of <hostname> is between 1 and 32, inclusive.  <resource> — is a sequence of Latin letters (lowercase or uppercase), digits or underscores characters «_», the length of <resource> is between 1 and 16, inclusive. The content of square brackets is optional — it can be present or can be absent.There are the samples of correct Jabber IDs: [email protected], [email protected]/contest.Your task is to write program which checks if given string is a correct Jabber ID.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afe65115b0c076f5fc226caa47147d19bd059af9eb17beb4a6603057f6050a1f
+size 1055

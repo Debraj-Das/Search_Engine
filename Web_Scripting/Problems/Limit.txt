@@ -1,9 +1,3 @@
-Limit                    
-
-httpscodeforcescomproblemsetproblem197B
-
-math
-
-1400
-
-You are given two polynomials  Pxa0xna1xn1an1xan and  Qxb0xmb1xm1bm1xbm  Calculate limit 
+version https://git-lfs.github.com/spec/v1
+oid sha256:97fc208ad19b9ac6e159c9c6019bc7fd7907250365185ad6f85aacdf3f1100bd
+size 177

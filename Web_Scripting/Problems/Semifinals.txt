@@ -1,9 +1,3 @@
-Semifinals                    
-
-httpscodeforcescomproblemsetproblem378B
-
-implementation
-
-1300
-
-Two semifinals have just been in the running tournament Each semifinal had n participants There are n participants advancing to the finals they are chosen as follows from each semifinal we choose k people 02kn who showed the best result in their semifinals and all other places in the finals go to the people who havent ranked in the top k in their semifinal but got to the n2k of the best among the othersThe tournament organizers hasnt yet determined the k value so the participants want to know who else has any chance to get to the finals and who can go home
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc0da767f0a0bc5e28328d3c85e374582011ad555009e18bac10cc2bb0018141
+size 665

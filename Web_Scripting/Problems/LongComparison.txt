@@ -1,9 +1,3 @@
-Long Comparison                    
-
-https://codeforces.com/problemset/problem/1613/A
-
-implementation
-
-900
-
-Monocarp wrote down two numbers on a whiteboard. Both numbers follow a specific format: a positive integer x with p zeros appended to its end.Now Monocarp asks you to compare these two numbers. Can you help him?
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ed1a50ecb8c33867db1e2fd1631999d60e34821d34c540cb59d7befa6468c35
+size 327

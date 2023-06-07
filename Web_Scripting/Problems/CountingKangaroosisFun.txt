@@ -1,9 +1,3 @@
-Counting Kangaroos is Fun                    
-
-https://codeforces.com/problemset/problem/372/A
-
-binary search
-
-1600
-
-There are n kangaroos with pockets. Each kangaroo has a size (integer number). A kangaroo can go into another kangaroo's pocket if and only if the size of kangaroo who hold the kangaroo is at least twice as large as the size of kangaroo who is held.Each kangaroo can hold at most one kangaroo, and the kangaroo who is held by another kangaroo cannot hold any kangaroos.The kangaroo who is held by another kangaroo cannot be visible from outside. Please, find a plan of holding kangaroos with the minimal number of kangaroos who is visible.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e34e5092625764d7295bc4a6a03608e10787761dd30c471d43ecae55f665f097
+size 664

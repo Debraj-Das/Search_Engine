@@ -1,9 +1,3 @@
-Ideal Farm                    
-
-https://codeforces.com/problemset/problem/1594/F
-
-constructive algorithms
-
-2400
-
-Theofanis decided to visit his uncle's farm. There are s animals and n animal pens on the farm. For utility purpose, animal pens are constructed in one row.Uncle told Theofanis that a farm is lucky if you can distribute all animals in all pens in such a way that there are no empty pens and there is at least one continuous segment of pens that has exactly k animals in total.Moreover, a farm is ideal if it's lucky for any distribution without empty pens.Neither Theofanis nor his uncle knows if their farm is ideal or not. Can you help them to figure it out?
+version https://git-lfs.github.com/spec/v1
+oid sha256:42a9f9effcb95b89304036efd7b7352626315d8bd12cb8311f6725954baf8927
+size 681

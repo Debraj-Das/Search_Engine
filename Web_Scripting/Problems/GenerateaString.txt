@@ -1,9 +1,3 @@
-Generate a String                    
-
-https://codeforces.com/problemset/problem/710/E
-
-dfs and similar
-
-2000
-
-zscoder wants to generate an input file for some programming competition problem.His input is a string consisting of n letters 'a'. He is too lazy to write a generator so he will manually generate the input in a text editor.Initially, the text editor is empty. It takes him x seconds to insert or delete a letter 'a' from the text file and y seconds to copy the contents of the entire text file, and duplicate it.zscoder wants to find the minimum amount of time needed for him to create the input file of exactly n letters 'a'. Help him to determine the amount of time needed to generate the input.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3dfc423ea359aaef034c5678eb9553be6d425832cca5b63765a5f5b7a2eb473
+size 717

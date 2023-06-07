@@ -1,9 +1,3 @@
-Black, White and Grey Tree                    
-
-https://codeforces.com/problemset/problem/1442/E
-
-binary search
-
-3000
-
-You are given a tree with each vertex coloured white, black or grey. You can remove elements from the tree by selecting a subset of vertices in a single connected component and removing them and their adjacent edges from the graph. The only restriction is that you are not allowed to select a subset containing a white and a black vertex at once.What is the minimum number of removals necessary to remove all vertices from the tree?
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8c59a055cd3ef4c3e0d0c16d23743e9ccadd4407047382b126fe7919ee73fd0
+size 559

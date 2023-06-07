@@ -1,9 +1,3 @@
-Red and Blue Beans                    
-
-https://codeforces.com/problemset/problem/1519/A
-
-math
-
-800
-
-You have r red and b blue beans. You'd like to distribute them among several (maybe, one) packets in such a way that each packet:   has at least one red bean (or the number of red beans r_i \ge 1);  has at least one blue bean (or the number of blue beans b_i \ge 1);  the number of red and blue beans should differ in no more than d (or |r_i - b_i| \le d) Can you distribute all beans?
+version https://git-lfs.github.com/spec/v1
+oid sha256:4024387a8e0212b0c7d793a0792852cffb52e3259462c5b6cc4024755246c79b
+size 494

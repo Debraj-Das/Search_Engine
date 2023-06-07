@@ -1,9 +1,3 @@
-Vitaly and Strings                    
-
-https://codeforces.com/problemset/problem/518/A
-
-constructive algorithms
-
-1600
-
-Vitaly is a diligent student who never missed a lesson in his five years of studying in the university. He always does his homework on time and passes his exams in time. During the last lesson the teacher has provided two strings s and t to Vitaly. The strings have the same length, they consist of lowercase English letters, string s is lexicographically smaller than string t. Vitaly wondered if there is such string that is lexicographically larger than string s and at the same is lexicographically smaller than string t. This string should also consist of lowercase English letters and have the length equal to the lengths of strings s and t. Let's help Vitaly solve this easy problem!
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d1e49fd5a02db2e4f60ca40fd3dde5cab3e4aba6ece47d759c67aa0d9cffe37
+size 818

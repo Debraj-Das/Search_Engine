@@ -1,9 +1,3 @@
-Make a triangle!                    
-
-https://codeforces.com/problemset/problem/1064/A
-
-brute force
-
-800
-
-Masha has three sticks of length a, b and c centimeters respectively. In one minute Masha can pick one arbitrary stick and increase its length by one centimeter. She is not allowed to break sticks.What is the minimum number of minutes she needs to spend increasing the stick's length in order to be able to assemble a triangle of positive area. Sticks should be used as triangle's sides (one stick for one side) and their endpoints should be located at triangle's vertices.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecbd82283882654e484099eac944566de5d47cf645965fecad9a27ae191a9f13
+size 587

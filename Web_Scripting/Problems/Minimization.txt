@@ -1,9 +1,3 @@
-Minimization                    
-
-https://codeforces.com/problemset/problem/571/B
-
-dp
-
-2000
-
-You've got array A, consisting of n integers and a positive integer k. Array A is indexed by integers from 1 to n.You need to permute the array elements so that value  became minimal possible. In particular, it is allowed not to change order of elements at all.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0665e282051ae28f7ed2725e794deb6af109ec08982c27177ea1232c5ae3bb20
+size 362

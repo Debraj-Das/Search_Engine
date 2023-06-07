@@ -1,9 +1,3 @@
-Bad Ugly Numbers                    
-
-https://codeforces.com/problemset/problem/1326/A
-
-constructive algorithms
-
-1000
-
-You are given a integer n (n > 0). Find any integer s which satisfies these conditions, or report that there are no such numbers:In the decimal representation of s:   s > 0,  s consists of n digits,  no digit in s equals 0,  s is not divisible by any of it's digits. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:4be42eb2258769680867be171b36ceb88c8dde9d02b49d2681eace2db856ea13
+size 394

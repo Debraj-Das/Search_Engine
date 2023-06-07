@@ -1,9 +1,3 @@
-Visit of the Great                    
-
-httpscodeforcescomproblemsetproblem185D
-
-math
-
-2600
-
-The Great Mushroom King descended to the dwarves but not everyone managed to see him Only the few chosen ones could see the KingWe know that only LCMk2l1k2l11k2r1 dwarves can see the Great Mushroom King Numbers k l r are chosen by the Great Mushroom King himself in some complicated manner which is unclear to common dwarves The dwarven historians decided to document all visits of the Great Mushroom King For each visit the dwarven historians know three integers ki li ri chosen by the Great Mushroom King for this visit They also know a prime number pi Help them to count the remainder of dividing the number of dwarves who can see the King by number pi for each visit
+version https://git-lfs.github.com/spec/v1
+oid sha256:748e89343abf52edf2c2aa7d5a964a7b713616941b9a4f6c15bbbe68558ac631
+size 771

@@ -1,9 +1,3 @@
-Similar Sets                    
-
-httpscodeforcescomproblemsetproblem1468M
-
-data structures
-
-2300
-
-You are given n sets of integers The ith set contains ki integersTwo sets are called similar if they share at least two common elements ie there exist two integers x and y such that x ne y and they both belong to each of the two setsYour task is to find two similar sets among the given ones or report that there is no such pair of sets
+version https://git-lfs.github.com/spec/v1
+oid sha256:2418b4fe379230457e1b9ae5f2c7049d3b0d54235ce3409e0e29fcdb6fa4361f
+size 443

@@ -1,9 +1,3 @@
-Simple Strings                    
-
-https://codeforces.com/problemset/problem/665/C
-
-dp
-
-1300
-
-zscoder loves simple strings! A string t is called simple if every pair of adjacent characters are distinct. For example ab, aba, zscoder are simple whereas aa, add are not simple.zscoder is given a string s. He wants to change a minimum number of characters so that the string s becomes simple. Help him with this task!
+version https://git-lfs.github.com/spec/v1
+oid sha256:f307bd485107dca47ec5c4446c05bfd8e46a6e19e0558233679bc83c3b56f1b3
+size 423

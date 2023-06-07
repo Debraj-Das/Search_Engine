@@ -1,9 +1,3 @@
-Dragons                    
-
-httpscodeforcescomproblemsetproblem230A
-
-greedy
-
-1000
-
-Kirito is stuck on a level of the MMORPG he is playing now To move on in the game hes got to defeat all n dragons that live on this level Kirito and the dragons have strength which is represented by an integer In the duel between two opponents the duels outcome is determined by their strength Initially Kiritos strength equals sIf Kirito starts duelling with the ith 1in dragon and Kiritos strength is not greater than the dragons strength xi then Kirito loses the duel and dies But if Kiritos strength is greater than the dragons strength then he defeats the dragon and gets a bonus strength increase by yiKirito can fight the dragons in any order Determine whether he can move on to the next level of the game that is defeat all dragons without a single loss
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0d5608932f79861ddc92b6061e9a73ef867dd7c763c0f29e884e4ca5a8e23a9
+size 853

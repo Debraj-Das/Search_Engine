@@ -1,9 +1,3 @@
-Strings of Power                    
-
-https://codeforces.com/problemset/problem/318/B
-
-implementation
-
-1300
-
-Volodya likes listening to heavy metal and (occasionally) reading. No wonder Volodya is especially interested in texts concerning his favourite music style.Volodya calls a string powerful if it starts with "heavy" and ends with "metal". Finding all powerful substrings (by substring Volodya means a subsequence of consecutive characters in a string) in a given text makes our hero especially joyful. Recently he felt an enormous fit of energy while reading a certain text. So Volodya decided to count all powerful substrings in this text and brag about it all day long. Help him in this difficult task. Two substrings are considered different if they appear at the different positions in the text.For simplicity, let us assume that Volodya's text can be represented as a single string.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d72973aafbb15715a71afd0a4912c2a46431f8a0afda3f58999c7d1f6af3e00
+size 902

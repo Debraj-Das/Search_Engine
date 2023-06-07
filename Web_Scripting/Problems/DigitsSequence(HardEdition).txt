@@ -1,9 +1,3 @@
-Digits Sequence (Hard Edition)                    
-
-https://codeforces.com/problemset/problem/1177/B
-
-binary search
-
-1800
-
-Let's write all the positive integer numbers one after another from 1 without any delimiters (i.e. as a single string). It will be the infinite sequence starting with 123456789101112131415161718192021222324252627282930313233343536...Your task is to print the k-th digit of this sequence.
+version https://git-lfs.github.com/spec/v1
+oid sha256:038f66b18d8574bd6a252ad5c4b6eca64f6ce96f5c5e4869bc3c11026a79e94c
+size 418

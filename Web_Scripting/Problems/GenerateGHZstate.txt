@@ -1,9 +1,3 @@
-Generate GHZ state                    
-
-httpscodeforcescomproblemsetproblem1001C
-
-special problem
-
-1400
-
-You are given N qubits 1N8 in zero state  Your task is to create GreenbergerHorneZeilinger GHZ state on themNote that for N1 and N2 GHZ state becomes states  and  from the previous tasks respectively
+version https://git-lfs.github.com/spec/v1
+oid sha256:85651d5687ec156bbfeb4132c05660e52c84338454459eca36e1c526ae19434c
+size 312

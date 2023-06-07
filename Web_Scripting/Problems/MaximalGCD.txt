@@ -1,9 +1,3 @@
-Maximal GCD                    
-
-httpscodeforcescomproblemsetproblem803C
-
-constructive algorithms
-
-1900
-
-You are given positive integer number n You should create such strictly increasing sequence of k positive numbers a1a2ak that their sum is equal to n and greatest common divisor is maximalGreatest common divisor of sequence is maximum of such numbers that every element of sequence is divisible by themIf there is no possible sequence then output 1
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba1c73512250f3c4fd429bbd8a77f2bf4ac23ee364315c792a0d81108b8f8509
+size 461

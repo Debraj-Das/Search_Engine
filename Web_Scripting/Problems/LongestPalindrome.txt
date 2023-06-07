@@ -1,9 +1,3 @@
-Longest Palindrome                    
-
-https://codeforces.com/problemset/problem/1304/B
-
-brute force
-
-1100
-
-Returning back to problem solving, Gildong is now studying about palindromes. He learned that a palindrome is a string that is the same as its reverse. For example, strings "pop", "noon", "x", and "kkkkkk" are palindromes, while strings "moon", "tv", and "abab" are not. An empty string is also a palindrome.Gildong loves this concept so much, so he wants to play with it. He has n distinct strings of equal length m. He wants to discard some of the strings (possibly none or all) and reorder the remaining strings so that the concatenation becomes a palindrome. He also wants the palindrome to be as long as possible. Please help him find one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f778a8518674c08169d47cadcfcb5e5f9e9dfaaba3187b1c66dfdf763a73b6dc
+size 761

@@ -1,9 +1,3 @@
-Cycle in Graph                    
-
-httpscodeforcescomproblemsetproblem263D
-
-dfs and similar
-
-1800
-
-Youve got a undirected graph G consisting of n nodes We will consider the nodes of the graph indexed by integers from 1 to n We know that each node of graph G is connected by edges with at least k other nodes of this graph Your task is to find in the given graph a simple cycle of length of at least k1A simple cycle of length d d1 in graph G is a sequence of distinct graph nodes v1v2vd such that nodes v1 and vd are connected by an edge of the graph also for any integer i 1id nodes vi and vi1 are connected by an edge of the graph
+version https://git-lfs.github.com/spec/v1
+oid sha256:2992e28d6bd7af6f0cdf1043f53fb37bdc03085e31913023846aeb8e50954920
+size 641

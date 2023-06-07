@@ -1,9 +1,3 @@
-Count the Arrays                    
-
-https://codeforces.com/problemset/problem/1312/D
-
-combinatorics
-
-1700
-
-Your task is to calculate the number of arrays such that:  each array contains n elements;  each element is an integer from 1 to m;  for each array, there is exactly one pair of equal elements;  for each array a, there exists an index i such that the array is strictly ascending before the i-th element and strictly descending after it (formally, it means that a_j < a_{j + 1}, if j < i, and a_j > a_{j + 1}, if j \ge i). 
+version https://git-lfs.github.com/spec/v1
+oid sha256:0936ce9bbea27632932f80baf2ae8ba695fec5e73163c9cf5587b01ec80b11cd
+size 539

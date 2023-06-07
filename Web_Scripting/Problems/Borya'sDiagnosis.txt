@@ -1,9 +1,3 @@
-Boryas Diagnosis                    
-
-httpscodeforcescomproblemsetproblem879A
-
-implementation
-
-900
-
-It seems that Borya is seriously sick He is going visit n doctors to find out the exact diagnosis Each of the doctors needs the information about all previous visits so Borya has to visit them in the prescribed order ie Borya should first visit doctor 1 then doctor 2 then doctor 3 and so on Borya will get the information about his health from the last doctorDoctors have a strange working schedule The doctor i goes to work on the sith day and works every di day So he works on days sisidisi2diThe doctors appointment takes quite a long time so Borya can not see more than one doctor per day What is the minimum time he needs to visit all doctors
+version https://git-lfs.github.com/spec/v1
+oid sha256:a029c127823a10e1ca7e522e49dd0faefb802c2dd43b041bf3c89a0178a1e01c
+size 756

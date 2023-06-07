@@ -1,9 +1,3 @@
-zsort                    
-
-httpscodeforcescomproblemsetproblem652B
-
-sortings
-
-1000
-
-A student of zschool found a kind of sorting called zsort The array a with n elements are zsorted if two conditions hold  aiai1 for all even i  aiai1 for all odd i1 For example the arrays 1212 and 1111 are zsorted while the array 1234 isnt zsortedCan you make the array zsorted
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5b883c55ffbb919c35d378480e809191d3154afe8ea89b6ab0a95cfac170e80
+size 369

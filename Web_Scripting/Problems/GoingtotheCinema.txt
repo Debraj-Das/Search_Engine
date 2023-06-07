@@ -1,9 +1,3 @@
-Going to the Cinema                    
-
-https://codeforces.com/problemset/problem/1781/B
-
-brute force
-
-1000
-
-A company of n people is planning a visit to the cinema. Every person can either go to the cinema or not. That depends on how many other people will go. Specifically, every person i said: "I want to go to the cinema if and only if at least a_i other people will go, not counting myself". That means that person i will become sad if:   they go to the cinema, and strictly less than a_i other people go; or  they don't go to the cinema, and at least a_i other people go. In how many ways can a set of people going to the cinema be chosen so that nobody becomes sad?
+version https://git-lfs.github.com/spec/v1
+oid sha256:c311651a3ae8128a7fce93239523690fc3e2b1035339c3fb04828f60a8aa30d0
+size 681

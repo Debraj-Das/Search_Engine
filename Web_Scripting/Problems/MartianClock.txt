@@ -1,9 +1,3 @@
-Martian Clock                    
-
-https://codeforces.com/problemset/problem/149/B
-
-implementation
-
-1600
-
-Having stayed home alone, Petya decided to watch forbidden films on the Net in secret. "What ungentlemanly behavior!" — you can say that, of course, but don't be too harsh on the kid. In his country films about the Martians and other extraterrestrial civilizations are forbidden. It was very unfair to Petya as he adored adventure stories that featured lasers and robots. Today Petya is watching a shocking blockbuster about the Martians called "R2:D2". What can "R2:D2" possibly mean? It might be the Martian time represented in the Martian numeral system. Petya knows that time on Mars is counted just like on the Earth (that is, there are 24 hours and each hour has 60 minutes). The time is written as "a:b", where the string a stands for the number of hours (from 0 to 23 inclusive), and string b stands for the number of minutes (from 0 to 59 inclusive). The only thing Petya doesn't know is in what numeral system the Martian time is written.Your task is to print the radixes of all numeral system which can contain the time "a:b".
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad6e7d83cea2df5a7a7c2fa70621f95d1363ef91aee27d4602b681ab25340551
+size 1151

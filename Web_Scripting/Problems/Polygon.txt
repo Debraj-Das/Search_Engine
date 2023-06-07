@@ -1,9 +1,3 @@
-Polygon                    
-
-https://codeforces.com/problemset/problem/1572/E
-
-binary search
-
-3000
-
-You are given a strictly convex polygon with n vertices.You will make k cuts that meet the following conditions:   each cut is a segment that connects two different nonadjacent vertices;  two cuts can intersect only at vertices of the polygon. Your task is to maximize the area of the smallest region that will be formed by the polygon and those k cuts.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26c9aeee1cb92b5a67abcee4c7338c73f4bbcb73a5ec695bd38cf4031790beb1
+size 461

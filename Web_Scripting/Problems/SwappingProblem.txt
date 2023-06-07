@@ -1,9 +1,3 @@
-Swapping Problem                    
-
-https://codeforces.com/problemset/problem/1513/F
-
-brute force
-
-2500
-
-You are given 2 arrays a and b, both of size n. You can swap two elements in b at most once (or leave it as it is), and you are required to minimize the value \sum_{i}|a_{i}-b_{i}|.Find the minimum possible value of this sum.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6085e59a47b30f2cb17736203024caca03e67fac107c0d424954644ff6fb6bb1
+size 340

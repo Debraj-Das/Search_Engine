@@ -1,9 +1,3 @@
-Love Triangle                    
-
-httpscodeforcescomproblemsetproblem939A
-
-graphs
-
-800
-
-As you could know there are no male planes nor female planes However each plane on Earth likes some other plane There are n planes on Earth numbered from 1 to n and the plane with number i likes the plane with number fi where 1fin and fiiWe call a love triangle a situation in which plane A likes plane B plane B likes plane C and plane C likes plane A Find out if there is any love triangle on Earth
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c32c54f0172a621d7405d93f100d5ebf3ddaf2b8a7a1ff2ab2a59a1fec914c8
+size 497

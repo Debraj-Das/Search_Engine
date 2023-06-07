@@ -1,9 +1,3 @@
-Genius's Gambit                    
-
-https://codeforces.com/problemset/problem/1492/D
-
-bitmasks
-
-1900
-
-You are given three integers a, b, k.Find two binary integers x and y (x \ge y) such that   both x and y consist of a zeroes and b ones;  x - y (also written in binary form) has exactly k ones.  You are not allowed to use leading zeros for x and y. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:1000012b0eeaa0ebc2ff151a4fa7e7fa9c9f8a60f48307beed68ae9f6a095357
+size 360

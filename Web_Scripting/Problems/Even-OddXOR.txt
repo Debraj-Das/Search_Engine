@@ -1,9 +1,3 @@
-Even-Odd XOR                    
-
-https://codeforces.com/problemset/problem/1722/G
-
-bitmasks
-
-1500
-
-Given an integer n, find any array a of n distinct nonnegative integers less than 2^{31} such that the bitwise XOR of the elements on odd indices equals the bitwise XOR of the elements on even indices.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa0f2ef2f637db59eb32dd73b8e82110e766788ecb54b059fc21cb3121c9400f
+size 309

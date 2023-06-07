@@ -1,9 +1,3 @@
-Omkar and Last Floor                    
-
-https://codeforces.com/problemset/problem/1372/E
-
-dp
-
-2900
-
-Omkar is building a house. He wants to decide how to make the floor plan for the last floor.Omkar's floor starts out as n rows of m zeros (1 \le n,m \le 100). Every row is divided into intervals such that every 0 in the row is in exactly 1 interval. For every interval for every row, Omkar can change exactly one of the 0s contained in that interval to a 1. Omkar defines the quality of a floor as the sum of the squares of the sums of the values in each column, i. e. if the sum of the values in the i-th column is q_i, then the quality of the floor is \sum_{i = 1}^m q_i^2.Help Omkar find the maximum quality that the floor can have.
+version https://git-lfs.github.com/spec/v1
+oid sha256:236199f8f7b46939cbee3cd9fafa962c371f5208ab5726ae42ac6455bfc79988
+size 745

@@ -1,9 +1,3 @@
-Add Plus Minus Sign                    
-
-https://codeforces.com/problemset/problem/1774/A
-
-constructive algorithms
-
-800
-
-AquaMoon has a string a consisting of only 0 and 1. She wants to add + and - between all pairs of consecutive positions to make the absolute value of the resulting expression as small as possible. Can you help her?
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ae199813f236e159ec15cba2ff13d57fd43ab3065672cb8b9350c50c1658ca8
+size 343

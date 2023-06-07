@@ -1,9 +1,3 @@
-Greedy Petya                    
-
-https://codeforces.com/problemset/problem/290/F
-
-*special problem
-
-2800
-
-Petya is an unexperienced programming contestant. Recently he has come across the following problem:You are given a non-directed graph which consists of n nodes and m edges. Your task is to determine whether the graph contains a Hamiltonian path.Petya wrote a quick bug-free code which he believes solves this problem. After that Petya decided to give this problem for April Fools Day contest. Unfortunately, Petya might have made a mistake, and it's quite possible that his algorithm is wrong. But this isn't a good excuse to leave the contest without submitting this problem, is it?
+version https://git-lfs.github.com/spec/v1
+oid sha256:51928e3c3e8205938db80cc792d59dd99c27bfa56dd290078c190198a42f9c76
+size 699

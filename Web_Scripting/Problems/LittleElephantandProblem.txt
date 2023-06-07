@@ -1,9 +1,3 @@
-Little Elephant and Problem                    
-
-https://codeforces.com/problemset/problem/220/A
-
-implementation
-
-1300
-
-The Little Elephant has got a problem — somebody has been touching his sorted by non-decreasing array a of length n and possibly swapped some elements of the array.The Little Elephant doesn't want to call the police until he understands if he could have accidentally changed the array himself. He thinks that he could have accidentally changed array a, only if array a can be sorted in no more than one operation of swapping elements (not necessarily adjacent). That is, the Little Elephant could have accidentally swapped some two elements.Help the Little Elephant, determine if he could have accidentally changed the array a, sorted by non-decreasing, himself.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f6afab4c31400722e36e8885503b5fc8be80a68732fbf5aa88b8fc1df6c0484
+size 790

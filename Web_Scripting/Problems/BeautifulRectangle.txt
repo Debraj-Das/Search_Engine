@@ -1,9 +1,3 @@
-Beautiful Rectangle                    
-
-https://codeforces.com/problemset/problem/1276/C
-
-brute force
-
-2300
-
-You are given n integers. You need to choose a subset and put the chosen numbers in a beautiful rectangle (rectangular matrix). Each chosen number should occupy one of its rectangle cells, each cell must be filled with exactly one chosen number. Some of the n numbers may not be chosen.A rectangle (rectangular matrix) is called beautiful if in each row and in each column all values are different.What is the largest (by the total number of cells) beautiful rectangle you can construct? Print the rectangle itself.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2dff4760a5cbca01073fe407c5f14f6e319d8d07d390676900a6a15a6ee7fa8
+size 633

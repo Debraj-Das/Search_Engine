@@ -1,9 +1,3 @@
-Asterisks                    
-
-https://codeforces.com/problemset/problem/188/D
-
-*special problem
-
-1100
-
-You are given a number n. Print n lines, i-th line should consist of i characters "*". Lines' indices are 1-based.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed70c2c874fe239008d1ad2fe9cd83e063715eeb4545f3c11429b90627f2e52f
+size 226

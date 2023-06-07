@@ -1,9 +1,3 @@
-Diophantine equation                    
-
-httpscodeforcescomproblemsetproblem530C
-
-special problem
-
-1500
-
-You are given an equation AXBYC ABC are positive integer coefficients X and Y are variables which can have positive integer values only Output the number of solutions of this equation and the solutions themselves
+version https://git-lfs.github.com/spec/v1
+oid sha256:c173eb26599af91bda005e7f31657055009791b5466f13bb2b4aa416f3633c8c
+size 326

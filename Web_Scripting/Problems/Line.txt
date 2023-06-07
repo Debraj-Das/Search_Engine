@@ -1,9 +1,3 @@
-Line                    
-
-httpscodeforcescomproblemsetproblem7C
-
-math
-
-1800
-
-A line on the plane is described by an equation AxByC0 You are to find any point on this line whose coordinates are integer numbers from 51018 to 51018 inclusive or to find out that such points do not exist
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ca14ddc205c7a87b2f6aac3b4d49af5690c775d72dfa99e8f431f979d183795
+size 291

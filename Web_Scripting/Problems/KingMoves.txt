@@ -1,9 +1,3 @@
-King Moves                    
-
-https://codeforces.com/problemset/problem/710/A
-
-implementation
-
-800
-
-The only king stands on the standard chess board. You are given his position in format "cd", where c is the column from 'a' to 'h' and d is the row from '1' to '8'. Find the number of moves permitted for the king.Check the king's moves here https://en.wikipedia.org/wiki/King_(chess).  King moves from the position e4 
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e0128bdaa7bffd9df151cd06c1c977bc6c8fa7d27b17a320e7beb040990996b
+size 428

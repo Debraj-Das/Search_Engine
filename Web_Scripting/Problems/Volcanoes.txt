@@ -1,9 +1,3 @@
-Volcanoes                    
-
-httpscodeforcescomproblemsetproblem383B
-
-binary search
-
-2500
-
-Iahub got lost in a very big desert The desert can be represented as a nn square matrix where each cell is a zone of the desert The cell ij represents the cell at row i and column j 1ijn Iahub can go from one cell ij only down or right that is to cells i1j or ij1 Also there are m cells that are occupied by volcanoes which Iahub cannot enter Iahub is initially at cell 11 and he needs to travel to cell nn Knowing that Iahub needs 1 second to travel from one cell to another find the minimum time in which he can arrive in cell nn
+version https://git-lfs.github.com/spec/v1
+oid sha256:86b8dd8ddb12c4947d5c6bef50fa159b117c640cb3a171f1f9205194b890bcc1
+size 632

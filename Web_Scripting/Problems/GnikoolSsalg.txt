@@ -1,9 +1,3 @@
-Gnikool Ssalg                    
-
-https://codeforces.com/problemset/problem/130/B
-
-*special problem
-
-1400
-
-You are given a string. Reverse its characters.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13114e7edd7bcf8b1fd222fc847e855a726e3f38d5d3cd6cba6f0e18bb0831e2
+size 163

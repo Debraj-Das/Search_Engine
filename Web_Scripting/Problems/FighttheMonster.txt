@@ -1,9 +1,3 @@
-Fight the Monster                    
-
-httpscodeforcescomproblemsetproblem487A
-
-binary search
-
-1800
-
-A monster is attacking the CyberlandMaster Yang a braver is going to beat the monster Yang and the monster each have 3 attributes hitpoints HP offensive power ATK and defensive power DEFDuring the battle every second the monsters HP decrease by max0ATKYDEFM while Yangs HP decreases by max0ATKMDEFY where index Y denotes Master Yang and index M denotes monster Both decreases happen simultaneously Once monsters HP0 and the same time Master Yangs HP0 Master Yang winsMaster Yang can buy attributes from the magic shop of Cyberland h bitcoins per HP a bitcoins per ATK and d bitcoins per DEFNow Master Yang wants to know the minimum number of bitcoins he can spend in order to win
+version https://git-lfs.github.com/spec/v1
+oid sha256:e84b16b6b84d4e86d39de0a01a99c05cbd8ebe7ea0769a5f525d1c9e0a645a50
+size 788

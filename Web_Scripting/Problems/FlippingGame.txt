@@ -1,9 +1,3 @@
-Flipping Game                    
-
-httpscodeforcescomproblemsetproblem327A
-
-brute force
-
-1200
-
-Iahub got bored so he invented a game to be played on paper He writes n integers a1a2an Each of those integers can be either 0 or 1 Hes allowed to do exactly one move he chooses two indices i and j 1ijn and flips all values ak for which their positions are in range ij that is ikj Flip the value of x means to apply operation x1  xThe goal of the game is that after exactly one move to obtain the maximum number of ones Write a program to solve the little game of Iahub
+version https://git-lfs.github.com/spec/v1
+oid sha256:be0e6d80af0a774e8f6c716e882ea624b089ddf17ba6814db667f930b1f291dd
+size 572

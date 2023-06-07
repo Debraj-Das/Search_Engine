@@ -1,9 +1,3 @@
-Little Dima and Equation                    
-
-httpscodeforcescomproblemsetproblem460B
-
-brute force
-
-1500
-
-Little Dima misbehaved during a math lesson a lot and the nasty teacher Mr Pickles gave him the following problem as a punishment Find all integer solutions x 0x109 of the equationxbsxac where a b c are some predetermined constant values and function sx determines the sum of all digits in the decimal representation of number xThe teacher gives this problem to Dima for each lesson He changes only the parameters of the equation a b c Dima got sick of getting bad marks and he asks you to help him solve this challenging problem
+version https://git-lfs.github.com/spec/v1
+oid sha256:3767eb397102ecf8af0c2d940edc696548c2a50d0b455723bcc41bd2bd18da6c
+size 643

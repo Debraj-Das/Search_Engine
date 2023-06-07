@@ -1,9 +1,3 @@
-Cashback                    
-
-httpscodeforcescomproblemsetproblem940E
-
-data structures
-
-2000
-
-Since you are the best Wraith King Nizhniy Magazin Mir at the centre of Vinnytsia is offering you a discountYou are given an array a of length n and an integer c The value of some array b of length k is the sum of its elements except for the  smallest For example the value of the array 31652 with c2 is 36514Among all possible partitions of a into contiguous subarrays output the smallest possible sum of the values of these subarrays
+version https://git-lfs.github.com/spec/v1
+oid sha256:90f428c3110e3cba9ab1ca589f9913f8354303cac16c4c56797f31423d8f8f50
+size 537

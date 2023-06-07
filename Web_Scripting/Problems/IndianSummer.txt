@@ -1,9 +1,3 @@
-Indian Summer                    
-
-https://codeforces.com/problemset/problem/44/A
-
-implementation
-
-900
-
-Indian summer is such a beautiful time of the year! A girl named Alyona is walking in the forest and picking a bouquet from fallen leaves. Alyona is very choosy — she doesn't take a leaf if it matches the color and the species of the tree of one of the leaves she already has. Find out how many leaves Alyona has picked.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3508226ec1a4a61a5ba7d710a5ac2f9aa1de33e034e59bd08317f175872b502d
+size 432

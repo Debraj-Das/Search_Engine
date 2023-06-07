@@ -1,9 +1,3 @@
-Beautiful Decomposition                    
-
-httpscodeforcescomproblemsetproblem279E
-
-dp
-
-1900
-
-Valera considers a number beautiful if it equals 2k or 2k for some integer k k0 Recently the math teacher asked Valera to represent number n as the sum of beautiful numbers As Valera is really greedy he wants to complete the task using as few beautiful numbers as possible Help Valera and find how many numbers he is going to need In other words if you look at all decompositions of the number n into beautiful summands you need to find the size of the decomposition which has the fewest summands
+version https://git-lfs.github.com/spec/v1
+oid sha256:784c06dd5e27fab08f1d0e51074bc0412a3154a3c393f972203fb0b70354e516
+size 600

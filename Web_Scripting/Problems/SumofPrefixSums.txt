@@ -1,9 +1,3 @@
-Sum of Prefix Sums                    
-
-https://codeforces.com/problemset/problem/1303/G
-
-data structures
-
-2700
-
-We define the sum of prefix sums of an array [s_1, s_2, \dots, s_k] as s_1 + (s_1 + s_2) + (s_1 + s_2 + s_3) + \dots + (s_1 + s_2 + \dots + s_k).You are given a tree consisting of n vertices. Each vertex i has an integer a_i written on it. We define the value of the simple path from vertex u to vertex v as follows: consider all vertices appearing on the path from u to v, write down all the numbers written on these vertices in the order they appear on the path, and compute the sum of prefix sums of the resulting sequence.Your task is to calculate the maximum value over all paths in the tree.
+version https://git-lfs.github.com/spec/v1
+oid sha256:475cd5279d2c4cbf23a413bb8e5dabda501e62be16ac57737df4cb9556c897a5
+size 718

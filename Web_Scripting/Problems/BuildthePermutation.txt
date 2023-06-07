@@ -1,9 +1,3 @@
-Build the Permutation                    
-
-https://codeforces.com/problemset/problem/1608/B
-
-constructive algorithms
-
-1200
-
-You are given three integers n, a, b. Determine if there exists a permutation p_1, p_2, \ldots, p_n of integers from 1 to n, such that:There are exactly a integers i with 2 \le i \le n-1 such that p_{i-1} < p_i > p_{i+1} (in other words, there are exactly a local maximums).There are exactly b integers i with 2 \le i \le n-1 such that p_{i-1} > p_i < p_{i+1} (in other words, there are exactly b local minimums).If such permutations exist, find any such permutation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d146a7c0a48e2204a1e449bfb7c44d8079a3ff298041c2d79541618c0b77436
+size 599

@@ -1,9 +1,3 @@
-Minimum LCM                    
-
-https://codeforces.com/problemset/problem/1765/M
-
-math
-
-1000
-
-You are given an integer n.Your task is to find two positive (greater than 0) integers a and b such that a+b=n and the least common multiple (LCM) of a and b is the minimum among all possible values of a and b. If there are multiple answers, you can print any of them.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcabb5ee61c565732d07596e180f72fd8074f5b3b1cbe8cb957163909c2a5622
+size 371

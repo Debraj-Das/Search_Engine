@@ -1,9 +1,3 @@
-Extremely Round                    
-
-https://codeforces.com/problemset/problem/1766/A
-
-brute force
-
-800
-
-Let's call a positive integer extremely round if it has only one non-zero digit. For example, 5000, 4, 1, 10, 200 are extremely round integers; 42, 13, 666, 77, 101 are not.You are given an integer n. You have to calculate the number of extremely round integers x such that 1 \le x \le n.
+version https://git-lfs.github.com/spec/v1
+oid sha256:40ca2897fd8c6e7d752e9db73f011b998c099826d65d6adc9ff293ef921740b8
+size 401

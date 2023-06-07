@@ -1,9 +1,3 @@
-krounding                    
-
-httpscodeforcescomproblemsetproblem858A
-
-brute force
-
-1100
-
-For a given positive integer n denote its krounding as the minimum positive integer x such that x ends with k or more zeros in base 10 and is divisible by nFor example 4rounding of 375 is 3758030000 30000 is the minimum integer such that it ends with 4 or more zeros and is divisible by 375Write a program that will perform the krounding of n
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7d0fdd528a71a8bdb14e4fd798ef468978e59c2b5d6c0cb261582b2cb061e38
+size 441

@@ -1,9 +1,3 @@
-Partition                    
-
-httpscodeforcescomproblemsetproblem946A
-
-greedy
-
-800
-
-You are given a sequence a consisting of n integers You may partition this sequence into two sequences b and c in such a way that every element belongs exactly to one of these sequences Let B be the sum of elements belonging to b and C be the sum of elements belonging to c if some of these sequences is empty then its sum is 0 What is the maximum possible value of BC
+version https://git-lfs.github.com/spec/v1
+oid sha256:84d6d8564e02361886833b1feb9caa9847fa9ca5dfe1bfc17cf034d2a2dd8142
+size 461

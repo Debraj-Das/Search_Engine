@@ -1,9 +1,3 @@
-Balanced Substring                    
-
-httpscodeforcescomproblemsetproblem873B
-
-dp
-
-1500
-
-You are given a string s consisting only of characters 0 and 1 A substring lr of s is a string slsl1sl2 sr and its length equals to rl1 A substring is called balanced if the number of zeroes 0 equals to the number of ones in this substringYou have to determine the length of the longest balanced substring of s
+version https://git-lfs.github.com/spec/v1
+oid sha256:a469e1afc6aec94293ec8256a347b82766c007362824ebf83efe57b0bc1415f6
+size 409

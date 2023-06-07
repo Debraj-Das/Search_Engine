@@ -1,9 +1,3 @@
-Sereja and Bottles                    
-
-https://codeforces.com/problemset/problem/315/A
-
-brute force
-
-1400
-
-Sereja and his friends went to a picnic. The guys had n soda bottles just for it. Sereja forgot the bottle opener as usual, so the guys had to come up with another way to open bottles.Sereja knows that the i-th bottle is from brand ai, besides, you can use it to open other bottles of brand bi. You can use one bottle to open multiple other bottles. Sereja can open bottle with opened bottle or closed bottle.Knowing this, Sereja wants to find out the number of bottles they've got that they won't be able to open in any way. Help him and find this number.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e85c98ceda290b71453491385d9f9129a99889a594d5d3ac9f157f366598d2df
+size 672

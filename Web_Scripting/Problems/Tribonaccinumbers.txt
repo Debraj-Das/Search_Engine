@@ -1,9 +1,3 @@
-Tribonacci numbers                    
-
-httpscodeforcescomproblemsetproblem130E
-
-special problem
-
-1600
-
-Tribonacci numbers are a sequence of numbers defined as follows t0t10 t21 titi1ti2ti3You are given n calculate nth tribonacci number modulo 26
+version https://git-lfs.github.com/spec/v1
+oid sha256:6dfa8b2885c9f0cc835f27f4dad233987d2ea84cf8e218a74ef3ab0f936ed96f
+size 254

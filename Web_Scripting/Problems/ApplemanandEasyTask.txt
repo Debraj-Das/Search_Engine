@@ -1,9 +1,3 @@
-Appleman and Easy Task                    
-
-httpscodeforcescomproblemsetproblem462A
-
-brute force
-
-1000
-
-Toastman came up with a very easy task He gives it to Appleman but Appleman doesnt know how to solve it Can you help himGiven a nn checkerboard Each cell of the board has either character x or character o Is it true that each cell of the board has even number of adjacent cells with o Two cells of the board are adjacent if they share a side
+version https://git-lfs.github.com/spec/v1
+oid sha256:50a8e4a4c9ce2af582ccfe0531404b30273113108223ac52d421aa06179ea0d8
+size 453

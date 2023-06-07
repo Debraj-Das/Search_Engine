@@ -1,9 +1,3 @@
-String inside out                    
-
-httpscodeforcescomproblemsetproblem530B
-
-special problem
-
-1600
-
-You are given a string S of even length s1s2n  Perform the following manipulations divide it into two halves s1sn and sn1s2n reverse each of them sns1 and s2nsn1 concatenate the resulting strings into sns1s2nsn1Output the result of these manipulations
+version https://git-lfs.github.com/spec/v1
+oid sha256:a449bfac5c6099dfa46605c5fde1ce2b291b428aaa5346611f0325b9e2f08e23
+size 362

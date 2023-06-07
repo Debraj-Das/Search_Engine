@@ -1,9 +1,3 @@
-Color Stripe                    
-
-https://codeforces.com/problemset/problem/219/C
-
-brute force
-
-1600
-
-A colored stripe is represented by a horizontal row of n square cells, each cell is pained one of k colors. Your task is to repaint the minimum number of cells so that no two neighbouring cells are of the same color. You can use any color from 1 to k to repaint the cells.
+version https://git-lfs.github.com/spec/v1
+oid sha256:019a91397153d4cfd7626129d133c2fa4b0c7499afeaa8446e706c0e7ed28e7b
+size 382

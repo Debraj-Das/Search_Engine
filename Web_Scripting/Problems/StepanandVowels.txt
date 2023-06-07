@@ -1,9 +1,3 @@
-Stepan and Vowels                    
-
-https://codeforces.com/problemset/problem/774/K
-
-*special problem
-
-1600
-
-Stepan likes to repeat vowel letters when he writes words. For example, instead of the word "pobeda" he can write "pobeeeedaaaaa".Sergey does not like such behavior, so he wants to write a program to format the words written by Stepan. This program must combine all consecutive equal vowels to a single vowel. The vowel letters are "a", "e", "i", "o", "u" and "y".There are exceptions: if letters "e" or "o" repeat in a row exactly 2 times, like in words "feet" and "foot", the program must skip them and do not transform in one vowel. For example, the word "iiiimpleeemeentatiioon" must be converted to the word "implemeentatioon".Sergey is very busy and asks you to help him and write the required program.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e9cbb8cfed8d296d6c7f8740f62a229766df2dba8682e72d438ddcb361fb771
+size 828

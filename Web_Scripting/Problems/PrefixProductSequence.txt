@@ -1,9 +1,3 @@
-Prefix Product Sequence                    
-
-httpscodeforcescomproblemsetproblem487C
-
-constructive algorithms
-
-2300
-
-Consider a sequence a1a2 an Define its prefix product sequence Now given n find a permutation of 12n such that its prefix product sequence is a permutation of 01n1
+version https://git-lfs.github.com/spec/v1
+oid sha256:47effadb36cc3e9df88eadb90dece882804523fc8568b3f4324d179e9287de15
+size 288

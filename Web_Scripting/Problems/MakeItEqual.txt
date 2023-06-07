@@ -1,9 +1,3 @@
-Make It Equal                    
-
-https://codeforces.com/problemset/problem/1065/C
-
-greedy
-
-1600
-
-There is a toy building consisting of n towers. Each tower consists of several cubes standing on each other. The i-th tower consists of h_i cubes, so it has height h_i.Let's define operation slice on some height H as following: for each tower i, if its height is greater than H, then remove some top cubes to make tower's height equal to H. Cost of one "slice" equals to the total number of removed cubes from all towers.Let's name slice as good one if its cost is lower or equal to k (k \ge n).  Calculate the minimum number of good slices you have to do to make all towers have the same height. Of course, it is always possible to make it so.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afaaa7a0917c6a328315736d37b6b9cb56fce49977f8f7aadebe5e04c64a3ed3
+size 751

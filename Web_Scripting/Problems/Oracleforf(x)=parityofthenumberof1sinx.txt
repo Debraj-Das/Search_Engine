@@ -1,9 +1,3 @@
-Oracle for f(x) = parity of the number of 1s in x                    
-
-https://codeforces.com/problemset/problem/1001/H
-
-*special problem
-
-1200
-
-Implement a quantum oracle on N qubits which implements the following function: , i.e., the value of the function is 1 if x has odd number of 1s, and 0 otherwise.
+version https://git-lfs.github.com/spec/v1
+oid sha256:130d2dfaeefeb7ebcf35091e60ba09508f1eebf619e4af7a73e1c4126bf743db
+size 315

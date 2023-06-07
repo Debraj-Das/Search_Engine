@@ -1,9 +1,3 @@
-Open Communication                    
-
-https://codeforces.com/problemset/problem/993/B
-
-bitmasks
-
-1900
-
-Two participants are each given a pair of distinct numbers from 1 to 9 such that there's exactly one number that is present in both pairs. They want to figure out the number that matches by using a communication channel you have access to without revealing it to you.Both participants communicated to each other a set of pairs of numbers, that includes the pair given to them. Each pair in the communicated sets comprises two different numbers.Determine if you can with certainty deduce the common number, or if you can determine with certainty that both participants know the number but you do not.
+version https://git-lfs.github.com/spec/v1
+oid sha256:245fc2965499d139d929a4cc1bef1be9e3ce4a808fe5729970d4f9be85dbd2d7
+size 712

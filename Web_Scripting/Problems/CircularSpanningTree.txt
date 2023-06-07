@@ -1,9 +1,3 @@
-Circular Spanning Tree                    
-
-https://codeforces.com/problemset/problem/1682/D
-
-constructive algorithms
-
-2000
-
-There are n nodes arranged in a circle numbered from 1 to n in the clockwise order. You are also given a binary string s of length n.Your task is to construct a tree on the given n nodes satisfying the two conditions below or report that there such tree does not exist:  For each node i (1 \le i \le n), the degree of node is even if s_i = 0 and odd if s_i = 1.  No two edges of the tree intersect internally in the circle. The edges are allowed to intersect on the circumference.  Note that all edges are drawn as straight line segments. For example, edge (u, v) in the tree is drawn as a line segment connecting u and v on the circle.A tree on n nodes is a connected graph with n - 1 edges.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9cde0665c625347ab602b67b2f45d6eb40ef15a507bb2a8c73873f973ff71519
+size 825

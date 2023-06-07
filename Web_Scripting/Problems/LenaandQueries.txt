@@ -1,9 +1,3 @@
-Lena and Queries                    
-
-httpscodeforcescomproblemsetproblem678F
-
-data structures
-
-2500
-
-Lena is a programmer She got a task to solve at workThere is an empty set of pairs of integers and n queries to process Each query is one of three types  Add a pair ab to the set  Remove a pair added in the query number i All queries are numbered with integers from 1 to n  For a given integer q find the maximal value xqy over all pairs xy from the set Help Lena to process the queries
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9d5ff598de2c64cfa092dd77542d8328bf53f7672142d5cf7257e607ac88e8b
+size 496

@@ -1,9 +1,3 @@
-Visiting a Friend                    
-
-httpscodeforcescomproblemsetproblem902A
-
-greedy
-
-1100
-
-Pig is visiting a friendPigs house is located at point 0 and his friends house is located at point m on an axisPig can use teleports to move along the axisTo use a teleport Pig should come to a certain point where the teleport is located and choose where to move for each teleport there is the rightmost point it can move Pig to this point is known as the limit of the teleportFormally a teleport located at point x with limit y can move Pig from point x to any point within the segment xy including the bounds  Determine if Pig can visit the friend using teleports only or he should use his car
+version https://git-lfs.github.com/spec/v1
+oid sha256:332dd292948d92b94ae57866cc60d19634deb85300b07e16da652ce147f8344a
+size 697

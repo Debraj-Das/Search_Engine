@@ -1,9 +1,3 @@
-Crunching Numbers Just for You                    
-
-https://codeforces.com/problemset/problem/784/F
-
-*special problem
-
-1900
-
-You are developing a new feature for the website which sells airline tickets: being able to sort tickets by price! You have already extracted the tickets' prices, so there's just the last step to be done...You are given an array of integers. Sort it in non-descending order.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8ea48be5ce0f2af08ca44949eda3cf84294f62c6c6a907f6a42a4f2aada2675
+size 407

@@ -1,9 +1,3 @@
-Shifting Stacks                    
-
-https://codeforces.com/problemset/problem/1486/A
-
-greedy
-
-900
-
-You have n stacks of blocks. The i-th stack contains h_i blocks and it's height is the number of blocks in it. In one move you can take a block from the i-th stack (if there is at least one block) and put it to the i + 1-th stack. Can you make the sequence of heights strictly increasing?Note that the number of stacks always remains n: stacks don't disappear when they have 0 blocks.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e604546fbdf4ff0594ea2c625d938b7193d4a64988e1c8a3eb70de92870bb934
+size 492

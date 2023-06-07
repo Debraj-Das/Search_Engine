@@ -1,9 +1,3 @@
-Unusual Sequences                    
-
-httpscodeforcescomproblemsetproblem900D
-
-bitmasks
-
-2000
-
-Count the number of distinct sequences a1a2an 1ai consisting of positive integers such that gcda1a2anx and  As this number could be large print the answer modulo 1097gcd here means the greatest common divisor
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7605672d7c6bd7d91a0212e85da9518a06c25cef843e82e8d958ca238871533
+size 312

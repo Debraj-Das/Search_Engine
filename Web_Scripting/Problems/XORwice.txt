@@ -1,9 +1,3 @@
-XORwice                    
-
-https://codeforces.com/problemset/problem/1421/A
-
-bitmasks
-
-800
-
-In order to celebrate Twice's 5th anniversary, Tzuyu and Sana decided to play a game.Tzuyu gave Sana two integers a and b and a really important quest.In order to complete the quest, Sana has to output the smallest possible value of (a \oplus x) + (b \oplus x) for any given x, where \oplus denotes the bitwise XOR operation. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0052c05a7d4d5514e5f22540ac38bfdb5298e426539888e3426c65e18d10dda
+size 428

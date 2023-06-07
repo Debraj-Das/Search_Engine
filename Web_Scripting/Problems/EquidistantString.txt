@@ -1,9 +1,3 @@
-Equidistant String                    
-
-https://codeforces.com/problemset/problem/545/B
-
-greedy
-
-1100
-
-Little Susie loves strings. Today she calculates distances between them. As Susie is a small girl after all, her strings contain only digits zero and one. She uses the definition of Hamming distance:We will define the distance between two strings s and t of the same length consisting of digits zero and one as the number of positions i, such that si isn't equal to ti. As besides everything else Susie loves symmetry, she wants to find for two strings s and t of length n such string p of length n, that the distance from p to s was equal to the distance from p to t.It's time for Susie to go to bed, help her find such string p or state that it is impossible.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fc8263bbfd11cb1b5169b42bc47ee5ce8cddcaaf0938b8f7c874645dc893a68
+size 772

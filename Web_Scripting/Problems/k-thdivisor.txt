@@ -1,9 +1,3 @@
-k-th divisor                    
-
-https://codeforces.com/problemset/problem/762/A
-
-math
-
-1400
-
-You are given two integers n and k. Find k-th smallest divisor of n, or report that it doesn't exist.Divisor of n is any such natural number, that n can be divided by it without remainder.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17218d29517bd0f06108f10153c2b422cfc81fef146ad5ded1e209d7b483541c
+size 291

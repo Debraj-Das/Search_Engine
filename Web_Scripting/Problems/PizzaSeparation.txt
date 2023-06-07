@@ -1,9 +1,3 @@
-Pizza Separation                    
-
-https://codeforces.com/problemset/problem/895/A
-
-brute force
-
-1200
-
-Students Vasya and Petya are studying at the BSU (Byteland State University). At one of the breaks they decided to order a pizza. In this problem pizza is a circle of some radius. The pizza was delivered already cut into n pieces. The i-th piece is a sector of angle equal to ai. Vasya and Petya want to divide all pieces of pizza into two continuous sectors in such way that the difference between angles of these sectors is minimal. Sector angle is sum of angles of all pieces in it. Pay attention, that one of sectors can be empty.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62550a1a2f7849509da17d5d14785f038ecdf034e43c79deddd62f4b003ef7cb
+size 648

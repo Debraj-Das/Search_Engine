@@ -1,9 +1,3 @@
-Polycarp at the Radio                    
-
-httpscodeforcescomproblemsetproblem723C
-
-greedy
-
-1600
-
-Polycarp is a music editor at the radio station He received a playlist for tomorrow that can be represented as a sequence a1a2an where ai is a band which performs the ith song Polycarp likes bands with the numbers from 1 to m but he doesnt really like others We define as bj the number of songs the group j is going to perform tomorrow Polycarp wants to change the playlist in such a way that the minimum among the numbers b1b2bm will be as large as possibleFind this maximum possible value of the minimum among the bj 1jm and the minimum number of changes in the playlist Polycarp needs to make to achieve it One change in the playlist is a replacement of the performer of the ith song with any other group
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d2df52f28f4b86da3c0b2c87ba538c5d46a394b0f55ae5573a028c2e021a95b
+size 813

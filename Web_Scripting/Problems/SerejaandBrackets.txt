@@ -1,9 +1,3 @@
-Sereja and Brackets                    
-
-httpscodeforcescomproblemsetproblem380C
-
-data structures
-
-2000
-
-Sereja has a bracket sequence s1s2sn or in other words a string s of length n consisting of characters  and Sereja needs to answer m queries each of them is described by two integers liri 1lirin The answer to the ith query is the length of the maximum correct bracket subsequence of sequence slisli1sri Help Sereja answer all queriesYou can find the definitions for a subsequence and a correct bracket sequence in the notes
+version https://git-lfs.github.com/spec/v1
+oid sha256:d78f01f0fce5668301f6477b25541a73de14addb9ccf18198c8ca0f59d0e3db2
+size 536

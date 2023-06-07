@@ -1,9 +1,3 @@
-Subsequences of Length Two                    
-
-https://codeforces.com/problemset/problem/1409/F
-
-dp
-
-2100
-
-You are given two strings s and t consisting of lowercase Latin letters. The length of t is 2 (i.e. this string consists only of two characters).In one move, you can choose any character of s and replace it with any lowercase Latin letter. More formally, you choose some i and replace s_i (the character at the position i) with some character from 'a' to 'z'.You want to do no more than k replacements in such a way that maximizes the number of occurrences of t in s as a subsequence.Recall that a subsequence is a sequence that can be derived from the given sequence by deleting zero or more elements without changing the order of the remaining elements.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b30fa0ec88fed12241f4fc41949c5bd3ab7028525d1e92c716132acfa276064
+size 771

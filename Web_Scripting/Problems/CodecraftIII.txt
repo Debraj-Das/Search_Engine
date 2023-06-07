@@ -1,9 +1,3 @@
-Codecraft III                    
-
-https://codeforces.com/problemset/problem/45/A
-
-implementation
-
-900
-
-Today Vasya visited a widely known site and learned that the continuation of his favourite game Codecraft II will appear after exactly k months. He looked at the calendar and learned that at the moment is the month number s. Vasya immediately got interested in what month Codecraft III will appear. Help him understand that.All the twelve months in Vasya's calendar are named using their usual English names: January, February, March, April, May, June, July, August, September, October, November, December.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e19cc54353538dcf1d67661598b883c12bcac3dc67a391c4bccd136bf81048a0
+size 618

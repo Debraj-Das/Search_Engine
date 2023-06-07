@@ -1,9 +1,3 @@
-Misha and Permutations Summation                    
-
-httpscodeforcescomproblemsetproblem501D
-
-data structures
-
-2000
-
-Lets define the sum of two permutations p and q of numbers 01n1 as permutation  where Permx is the xth lexicographically permutation of numbers 01n1 counting from zero and Ordp is the number of permutation p in the lexicographical orderFor example Perm001n2n1 Permn1n1n210Misha has two permutations p and q Your task is to find their sumPermutation aa0a1an1 is called to be lexicographically smaller than permutation bb0b1bn1 if for some k following conditions hold a0b0a1b1ak1bk1akbk
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7aa48c60aa0a96ae45cdf2500b903098192e41f118c7bdf0bf0d2b51d49f96e
+size 610

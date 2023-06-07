@@ -1,9 +1,3 @@
-Nikita and string                    
-
-https://codeforces.com/problemset/problem/877/B
-
-brute force
-
-1500
-
-One day Nikita found the string containing letters "a" and "b" only. Nikita thinks that string is beautiful if it can be cut into 3 strings (possibly empty) without changing the order of the letters, where the 1-st and the 3-rd one contain only letters "a" and the 2-nd contains only letters "b".Nikita wants to make the string beautiful by removing some (possibly none) of its characters, but without changing their order. What is the maximum length of the string he can get?
+version https://git-lfs.github.com/spec/v1
+oid sha256:204e66b4f163ba2346011295c348902b93669c9a7450d3f1702567528426bcfd
+size 591

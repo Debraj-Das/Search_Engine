@@ -1,9 +1,3 @@
-Unique Number                    
-
-https://codeforces.com/problemset/problem/1462/C
-
-brute force
-
-900
-
-You are given a positive number x. Find the smallest positive integer number that has the sum of digits equal to x and all digits are distinct (unique).
+version https://git-lfs.github.com/spec/v1
+oid sha256:960eaef06b8a97744d8dbedac685877bf980684f85492e5206f1c80d5d2716d0
+size 263

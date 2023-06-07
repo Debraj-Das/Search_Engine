@@ -1,9 +1,3 @@
-Primes in Interval                    
-
-httpscodeforcescomproblemsetproblem661F
-
-special problem
-
-1900
-
-You are given two integers a and b ab How many prime numbers are there on the interval from a to b inclusive
+version https://git-lfs.github.com/spec/v1
+oid sha256:d448b5bb0c6ad789caa2241b8bdf0335824294ac3722e9a1c07ee54018477ee1
+size 220

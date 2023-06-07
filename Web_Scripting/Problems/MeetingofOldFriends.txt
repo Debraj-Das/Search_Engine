@@ -1,9 +1,3 @@
-Meeting of Old Friends                    
-
-https://codeforces.com/problemset/problem/714/A
-
-implementation
-
-1100
-
-Today an outstanding event is going to happen in the forest — hedgehog Filya will come to his old fried Sonya!Sonya is an owl and she sleeps during the day and stay awake from minute l1 to minute r1 inclusive. Also, during the minute k she prinks and is unavailable for Filya.Filya works a lot and he plans to visit Sonya from minute l2 to minute r2 inclusive.Calculate the number of minutes they will be able to spend together.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27626fd3d47c75c296dafed75a78292e251b5d0dfb864847097dc5d8e9da44e8
+size 551

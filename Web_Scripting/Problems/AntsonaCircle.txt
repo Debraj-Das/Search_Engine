@@ -1,9 +1,3 @@
-Ants on a Circle                    
-
-https://codeforces.com/problemset/problem/652/F
-
-constructive algorithms
-
-2800
-
-n ants are on a circle of length m. An ant travels one unit of distance per one unit of time. Initially, the ant number i is located at the position si and is facing in the direction di (which is either L or R). Positions are numbered in counterclockwise order starting from some point. Positions of the all ants are distinct.All the ants move simultaneously, and whenever two ants touch, they will both switch their directions. Note that it is possible for an ant to move in some direction for a half of a unit of time and in opposite direction for another half of a unit of time.Print the positions of the ants after t time units.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb6bab0405bd46b16e6a13946317d4a9217838baf2733c3fa1b8a38bad3840c1
+size 758

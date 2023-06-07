@@ -1,9 +1,3 @@
-Babaei and Birthday Cake                    
-
-httpscodeforcescomproblemsetproblem629D
-
-data structures
-
-2000
-
-As you know every birthday party has a cake This time Babaei is going to prepare the very special birthday partys cakeSimple cake is a cylinder of some radius and height The volume of the simple cake is equal to the volume of corresponding cylinder Babaei has n simple cakes and he is going to make a special cake placing some cylinders on each otherHowever there are some additional culinary restrictions The cakes are numbered in such a way that the cake number i can be placed only on the table or on some cake number j where ji Moreover in order to impress friends Babaei will put the cake i on top of the cake j only if the volume of the cake i is strictly greater than the volume of the cake jBabaei wants to prepare a birthday cake that has a maximum possible total volume Help him find this value
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bb23a56e8b3e945bfb599c3a618a4a1570ceb57131d01c0949965921724759f
+size 922

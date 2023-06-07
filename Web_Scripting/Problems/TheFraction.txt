@@ -1,9 +1,3 @@
-The Fraction                    
-
-httpscodeforcescomproblemsetproblem683G
-
-special problem
-
-1900
-
-Periodic decimal fraction is usually written as entirepartnonperiodicpart period Any simple fraction can be represented as a periodic decimal fraction and vice versa For example the decimal fraction 0245 corresponds to a fraction 27110 Your task is to convert the periodic fraction to a simple periodic fraction
+version https://git-lfs.github.com/spec/v1
+oid sha256:13b2d4e70bcf947f7bdefbaedf8d2ef39c7f507f9b64bdcc480356535b5e99d2
+size 417

@@ -1,9 +1,3 @@
-Three Indices                    
-
-https://codeforces.com/problemset/problem/1380/A
-
-brute force
-
-900
-
-You are given a permutation p_1, p_2, \dots, p_n. Recall that sequence of n integers is called a permutation if it contains all integers from 1 to n exactly once.Find three indices i, j and k such that:   1 \le i < j < k \le n;  p_i < p_j and p_j > p_k.  Or say that there are no such indices.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53e41ac0f440b152888df4da5fb75bf6eb8039a28c0b74fbb483771d30370708
+size 404

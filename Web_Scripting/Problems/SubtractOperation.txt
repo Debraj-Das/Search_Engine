@@ -1,9 +1,3 @@
-Subtract Operation                    
-
-https://codeforces.com/problemset/problem/1656/B
-
-data structures
-
-1100
-
-You are given a list of n integers. You can perform the following operation: you choose an element x from the list, erase x from the list, and subtract the value of x from all the remaining elements. Thus, in one operation, the length of the list is decreased by exactly 1.Given an integer k (k>0), find if there is some sequence of n-1 operations such that, after applying the operations, the only remaining element of the list is equal to k.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea8a11de5e7000587fdb1a95a405422b730e1ff0613bf011d3cf18d6ddfde279
+size 564

@@ -1,9 +1,3 @@
-Mike and Fax                    
-
-https://codeforces.com/problemset/problem/548/A
-
-brute force
-
-1100
-
-While Mike was walking in the subway, all the stuff in his back-bag dropped on the ground. There were several fax messages among them. He concatenated these strings in some order and now he has string s.  He is not sure if this is his own back-bag or someone else's. He remembered that there were exactly k messages in his own bag, each was a palindrome string and all those strings had the same length.He asked you to help him and tell him if he has worn his own back-bag. Check if the given string s is a concatenation of k palindromes of the same length.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a65e46e9680dcfcda1013075c56148ae92a9ad513427948b6eb9ff5c0053f111
+size 667

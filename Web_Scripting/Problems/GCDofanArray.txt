@@ -1,9 +1,3 @@
-GCD of an Array                    
-
-https://codeforces.com/problemset/problem/1493/D
-
-brute force
-
-2100
-
-You are given an array a of length n. You are asked to process q queries of the following format: given integers i and x, multiply a_i by x.After processing each query you need to output the greatest common divisor (GCD) of all elements of the array a.Since the answer can be too large, you are asked to output it modulo 10^9+7.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a764b8d4ba7e80909475f774e63583c716a2fd60a79d41d8310559e3ddfc35f
+size 442

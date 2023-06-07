@@ -1,9 +1,3 @@
-Almost Fault-Tolerant Database                    
-
-https://codeforces.com/problemset/problem/1492/E
-
-brute force
-
-2500
-
-You are storing an integer array of length m in a database. To maintain internal integrity and protect data, the database stores n copies of this array.Unfortunately, the recent incident may have altered the stored information in every copy in the database.It's believed, that the incident altered at most two elements in every copy. You need to recover the original array based on the current state of the database.In case there are multiple ways to restore the array, report any. If there is no array that differs from every copy in no more than two positions, report that as well.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3508d5fdbd3a5f183b5621cba5dc283d3ffa6c97afe315712d350a47dd42040b
+size 712

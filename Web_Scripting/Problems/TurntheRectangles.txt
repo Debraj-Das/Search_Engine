@@ -1,9 +1,3 @@
-Turn the Rectangles                    
-
-https://codeforces.com/problemset/problem/1008/B
-
-greedy
-
-1000
-
-There are n rectangles in a row. You can either turn each rectangle by 90 degrees or leave it as it is. If you turn a rectangle, its width will be height, and its height will be width. Notice that you can turn any number of rectangles, you also can turn all or none of them. You can not change the order of the rectangles.Find out if there is a way to make the rectangles go in order of non-ascending height. In other words, after all the turns, a height of every rectangle has to be not greater than the height of the previous rectangle (if it is such). 
+version https://git-lfs.github.com/spec/v1
+oid sha256:c2a52648261b0968c695f76376438b180840b1fcf9305131db19f57b0c5767a5
+size 668

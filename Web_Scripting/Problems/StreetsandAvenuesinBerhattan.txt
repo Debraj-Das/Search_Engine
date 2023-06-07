@@ -1,9 +1,3 @@
-Streets and Avenues in Berhattan                    
-
-https://codeforces.com/problemset/problem/1070/J
-
-dp
-
-2300
-
-Berhattan is the capital of Berland. There are n streets running parallel in the east-west direction (horizontally), and there are m avenues running parallel in the south-north direction (vertically). Each street intersects with each avenue, forming a crossroad. So in total there are n \cdot m crossroads in Berhattan.Recently, the government has changed in Berland. The new government wants to name all avenues and all streets after heroes of revolution.The special committee prepared the list of k names. Only these names can be used as new names for streets and avenues. Each name can be used at most once.The members of committee want to name streets and avenues in the way that minimizes inconvenience for residents. They believe that if street and avenue names start with the same letter, then their crossroad will be inconvenient. Hence only the first letter of each name matters.Given first letters of k names, find C — minimal possible number of inconvenient crossroads in Berhattan after the naming process.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43f3e679a9f6c4e7112adb21ab9b25cd7235645b85fd988da829e4626c1dc456
+size 1140

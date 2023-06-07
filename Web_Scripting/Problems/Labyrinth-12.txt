@@ -1,9 +1,3 @@
-Labyrinth-12                    
-
-https://codeforces.com/problemset/problem/921/12
-
-
-
-3200
-
-See the problem statement here: http://codeforces.com/contest/921/problem/01.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8a0d96f856180d718b1a46b3885778ef0b1a03781f91f0936c24dc0b4153ffd
+size 177

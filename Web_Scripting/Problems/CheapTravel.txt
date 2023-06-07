@@ -1,9 +1,3 @@
-Cheap Travel                    
-
-https://codeforces.com/problemset/problem/466/A
-
-implementation
-
-1200
-
-Ann has recently started commuting by subway. We know that a one ride subway ticket costs a rubles. Besides, Ann found out that she can buy a special ticket for m rides (she can buy it several times). It costs b rubles. Ann did the math; she will need to use subway n times. Help Ann, tell her what is the minimum sum of money she will have to spend to make n rides?
+version https://git-lfs.github.com/spec/v1
+oid sha256:0950a2ef9f1aa31ce8c858e1ca8ece86ecb2a0cb8f1e7c63cfdd07e7463e124e
+size 479

@@ -1,9 +1,3 @@
-Little Artem and Graph                    
-
-httpscodeforcescomproblemsetproblem641G
-
-
-
-2300
-
-Little Artem is given a graph constructed as follows start with some kclique then add new vertices one by one connecting them to k already existing vertices that form a kcliqueArtem wants to count the number of spanning trees in this graph modulo 1097
+version https://git-lfs.github.com/spec/v1
+oid sha256:a017f351fc3008a323aef54168f07f8b71021024e939ced5d96667fbdd4a1c84
+size 352

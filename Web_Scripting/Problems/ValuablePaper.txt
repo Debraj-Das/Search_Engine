@@ -1,9 +1,3 @@
-Valuable Paper                    
-
-https://codeforces.com/problemset/problem/1423/B
-
-binary search
-
-1900
-
-The pandemic is upon us, and the world is in shortage of the most important resource: toilet paper. As one of the best prepared nations for this crisis, BubbleLand promised to help all other world nations with this valuable resource. To do that, the country will send airplanes to other countries carrying toilet paper.In BubbleLand, there are N toilet paper factories, and N airports. Because of how much it takes to build a road, and of course legal issues, every factory must send paper to only one airport, and every airport can only take toilet paper from one factory.Also, a road can't be built between all airport-factory pairs, again because of legal issues. Every possible road has number d given, number of days it takes to build that road.Your job is to choose N factory-airport pairs, such that if the country starts building all roads at the same time, it takes the least amount of days to complete them.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7415d4092c154564c2fcf16a0b422c59d63c68b8d955b9695b0342dd6d596a68
+size 1032

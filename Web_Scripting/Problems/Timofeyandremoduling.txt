@@ -1,9 +1,3 @@
-Timofey and remoduling                    
-
-httpscodeforcescomproblemsetproblem763C
-
-brute force
-
-2600
-
-Little Timofey likes integers a lot Unfortunately he is very young and cant work with very big integers so he does all the operations modulo his favorite prime m Also Timofey likes to look for arithmetical progressions everywhereOne of his birthday presents was a sequence of distinct integers a1a2an Timofey wants to know whether he can rearrange the elements of the sequence so that is will be an arithmetical progression modulo m or notArithmetical progression modulo m of length n with first element x and difference d is sequence of integers xxdx2dxn1d each taken modulo m
+version https://git-lfs.github.com/spec/v1
+oid sha256:20d27063b1bc0c0e2620f17ef86106b521d26434cb4e2809875a3666489cecf4
+size 689

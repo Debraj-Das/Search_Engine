@@ -1,9 +1,3 @@
-Dressem in Vests                    
-
-httpscodeforcescomproblemsetproblem161A
-
-binary search
-
-1300
-
-The Twodimensional kingdom is going through hard times This morning the ThreeDimensional kingdom declared war on the Twodimensional one This possibly armed conflict will determine the ultimate owner of the straight lineThe Twodimensional kingdom has a regular army of n people Each soldier registered himself and indicated the desired size of the bulletproof vest the ith soldier indicated size ai The soldiers are known to be unpretentious so the command staff assumes that the soldiers are comfortable in any vests with sizes from aix to aiy inclusive numbers xy0 are specified The Twodimensional kingdom has m vests at its disposal the jth vests size equals bj Help mobilize the Twodimensional kingdoms army equip with vests as many soldiers as possible Each vest can be used only once The ith soldier can put on the jth vest if aixbjaiy
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ac8298ed0b19d887edb6ab1dc5a18b96ba468a53a7752160a41f8df7de4f4d3
+size 948

@@ -1,9 +1,3 @@
-Cows and Cool Sequences                    
-
-httpscodeforcescomproblemsetproblem283D
-
-dp
-
-2400
-
-Bessie and the cows have recently been playing with cool sequences and are trying to construct some Unfortunately they are bad at arithmetic so they need your helpA pair xy of positive integers is cool if x can be expressed as the sum of y consecutive integers not necessarily positive A sequence a1a2an is cool if the pairs a1a2a2a3an1an are all cool The cows have a sequence of n positive integers a1a2an In one move they may replace some ai with any other positive integer there are no other limits on the new value of ai Determine the smallest number of moves needed to make the resulting sequence cool
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b66c11984cee992339372e7e22a5fbb2cb5d565c1f18d8f2ba63325d3b4ac85
+size 710

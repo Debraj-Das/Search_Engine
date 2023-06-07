@@ -1,9 +1,3 @@
-Parity Shuffle Sorting                    
-
-https://codeforces.com/problemset/problem/1733/C
-
-constructive algorithms
-
-1300
-
-You are given an array a with n non-negative integers. You can apply the following operation on it.   Choose two indices l and r (1 \le l < r \le n).  If a_l + a_r is odd, do a_r := a_l. If a_l + a_r is even, do a_l := a_r. Find any sequence of at most n operations that makes a non-decreasing. It can be proven that it is always possible. Note that you do not have to minimize the number of operations.An array a_1, a_2, \ldots, a_n is non-decreasing if and only if a_1 \le a_2 \le \ldots \le a_n.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42ecdbb48781a6cb47b88454f366fa0b52bfab0f3f9b034d177ad13e153dfe96
+size 631

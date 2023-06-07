@@ -1,9 +1,3 @@
-Labelling Cities                    
-
-httpscodeforcescomproblemsetproblem794D
-
-dfs and similar
-
-2400
-
-Oleg the bank client lives in Bankopolia There are n cities in Bankopolia and some pair of cities are connected directly by bidirectional roads The cities are numbered from 1 to n There are a total of m roads in Bankopolia the ith road connects cities ui and vi It is guaranteed that from each city it is possible to travel to any other city using some of the roadsOleg wants to give a label to each city Suppose the label of city i is equal to xi Then it must hold that for all pairs of cities uv the condition xuxv1 holds if and only if there is a road connecting u and vOleg wonders if such a labeling is possible Find an example of such labeling if the task is possible and state that it is impossible otherwise
+version https://git-lfs.github.com/spec/v1
+oid sha256:05a96598f77ab018e41e9fa22dd3cfbee414e81516787c8894f88ec812a6a3da
+size 825

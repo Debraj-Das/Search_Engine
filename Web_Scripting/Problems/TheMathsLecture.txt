@@ -1,9 +1,3 @@
-The Maths Lecture                    
-
-httpscodeforcescomproblemsetproblem507D
-
-dp
-
-2200
-
-Amr doesnt like Maths as he finds it really boring so he usually sleeps in Maths lectures But one day the teacher suspected that Amr is sleeping and asked him a question to make sure he wasntFirst he gave Amr two positive integers n and k Then he asked Amr how many integer numbers x0 exist such that  Decimal representation of x without leading zeroes consists of exactly n digits  There exists some integer y0 such that     decimal representation of y is a suffix of decimal representation of x  As the answer to this question may be pretty huge the teacher asked Amr to output only its remainder modulo a number mCan you help Amr escape this embarrassing situation
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae4e4bfb20d1e922ade8123f97e8fc2af0444cbe2f9c8451d8904b616565746e
+size 765

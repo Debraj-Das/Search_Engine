@@ -1,9 +1,3 @@
-Dot                    
-
-httpscodeforcescomproblemsetproblem69D
-
-dp
-
-1900
-
-Anton and Dasha like to play different games during breaks on checkered paper By the 11th grade they managed to play all the games of this type and asked Vova the programmer to come up with a new game Vova suggested to them to play a game under the code name dot with the following rules  On the checkered paper a coordinate system is drawn A dot is initially put in the position xy  A move is shifting a dot to one of the preselected vectors Also each player can once per game symmetrically reflect a dot relatively to the line yx  Anton and Dasha take turns Anton goes first  The player after whose move the distance from the dot to the coordinates origin exceeds d loses Help them to determine the winner
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ee154706b778dddc1a28988f70e06a8e6c0da3f6a17dd9850af1b86cea38523
+size 790

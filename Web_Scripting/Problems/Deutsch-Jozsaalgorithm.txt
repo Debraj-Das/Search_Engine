@@ -1,9 +1,3 @@
-DeutschJozsa algorithm                    
-
-httpscodeforcescomproblemsetproblem1001I
-
-special problem
-
-1700
-
-You are given a quantum oracle  an operation on N1 qubits which implements a function  You are guaranteed that the function f implemented by the oracle is either constant returns 0 on all inputs or 1 on all inputs or balanced returns 0 on exactly one half of the input domain and 1 on the other halfThere are only two possible constant functions fx0 and fx1 The functions implemented by oracles in the two previous problems fxxk and  are examples of balanced functionsYour task is to figure out whether the function given by the oracle is constant Your code is allowed to call the given oracle only once
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8a00f2929d0ceb960d2ef97e2141e73e81b663e6eb73f59afcf129b3c69c906
+size 720

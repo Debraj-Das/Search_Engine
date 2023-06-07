@@ -1,9 +1,3 @@
-Dominant Character                    
-
-https://codeforces.com/problemset/problem/1605/C
-
-brute force
-
-1400
-
-Ashish has a string s of length n containing only characters 'a', 'b' and 'c'.He wants to find the length of the smallest substring, which satisfies the following conditions:   Length of the substring is at least 2  'a' occurs strictly more times in this substring than 'b'  'a' occurs strictly more times in this substring than 'c'  Ashish is busy planning his next Codeforces round. Help him solve the problem.A string a is a substring of a string b if a can be obtained from b by deletion of several (possibly, zero or all) characters from the beginning and several (possibly, zero or all) characters from the end.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e34c756d5658187bca519038a922ff1d1670757a728c7b7d158907512431a8d
+size 734

@@ -1,9 +1,3 @@
-Orange                    
-
-https://codeforces.com/problemset/problem/290/D
-
-*special problem
-
-1400
-
-  
+version https://git-lfs.github.com/spec/v1
+oid sha256:a95346319674b23a489a9cc4b604c411ee7012f23aff9a3ed1a6ae06ca5ac919
+size 111

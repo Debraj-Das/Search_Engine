@@ -1,9 +1,3 @@
-4point polyline                    
-
-httpscodeforcescomproblemsetproblem452B
-
-brute force
-
-1800
-
-You are given a rectangular grid of lattice points from 00 to nm inclusive You have to choose exactly 4 different points to build a polyline possibly with selfintersections and selftouching This polyline should be as long as possibleA polyline defined by points p1p2p3p4 consists of the line segments p1p2p2p3p3p4 and its length is the sum of the lengths of the individual line segments
+version https://git-lfs.github.com/spec/v1
+oid sha256:488bbb192abb3ce6b611c84cbdb12c606d861c13d66f4701399af73c445389fb
+size 491

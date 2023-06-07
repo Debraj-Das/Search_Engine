@@ -1,9 +1,3 @@
-Minimum Diameter                    
-
-httpscodeforcescomproblemsetproblem164D
-
-binary search
-
-3100
-
-You are given n points on the plane You need to delete exactly k of them kn so that the diameter of the set of the remaining nk points were as small as possible The diameter of a set of points is the maximum pairwise distance between the points of the set The diameter of a one point set equals zero
+version https://git-lfs.github.com/spec/v1
+oid sha256:a664619c129296c929750bfa862265934e532d234f54d0c01c9c1406f264626f
+size 407

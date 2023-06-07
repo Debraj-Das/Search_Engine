@@ -1,9 +1,3 @@
-(Zero XOR Subset)-less                    
-
-https://codeforces.com/problemset/problem/1101/G
-
-math
-
-2300
-
-You are given an array a_1, a_2, \dots, a_n of integer numbers.Your task is to divide the array into the maximum number of segments in such a way that:  each element is contained in exactly one segment;  each segment contains at least one element;  there doesn't exist a non-empty subset of segments such that bitwise XOR of the numbers from them is equal to 0. Print the maximum number of segments the array can be divided into. Print -1 if no suitable division exists.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19bb1d4e41760bbb8ead2074c323e3327f126393d2c973750cdd6de97cecabb5
+size 586

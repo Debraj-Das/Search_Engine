@@ -1,9 +1,3 @@
-Chilly Willy                    
-
-https://codeforces.com/problemset/problem/248/B
-
-math
-
-1400
-
-Chilly Willy loves playing with numbers. He only knows prime numbers that are digits yet. These numbers are 2, 3, 5 and 7. But Willy grew rather bored of such numbers, so he came up with a few games that were connected with them.Chilly Willy wants to find the minimum number of length n, such that it is simultaneously divisible by all numbers Willy already knows (2, 3, 5 and 7). Help him with that.A number's length is the number of digits in its decimal representation without leading zeros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ca92a1bd341de705b8fa8df1e9130b81fd0215a9651c335fd26fb0da4fe1018
+size 597

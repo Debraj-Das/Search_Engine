@@ -1,9 +1,3 @@
-Ehab the Xorcist                    
-
-https://codeforces.com/problemset/problem/1325/D
-
-bitmasks
-
-1700
-
-Given 2 integers u and v, find the shortest array such that bitwise-xor of its elements is u, and the sum of its elements is v.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49ffdc8422d8aa5370c968c6847c084cf1b409d88444b0a17ef9a77e65e38fa2
+size 239

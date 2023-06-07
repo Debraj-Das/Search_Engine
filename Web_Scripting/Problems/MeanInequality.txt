@@ -1,9 +1,3 @@
-Mean Inequality                    
-
-https://codeforces.com/problemset/problem/1526/A
-
-constructive algorithms
-
-800
-
-You are given an array a of 2n distinct integers. You want to arrange the elements of the array in a circle such that no element is equal to the the arithmetic mean of its 2 neighbours.More formally, find an array b, such that: b is a permutation of a.For every i from 1 to 2n, b_i \neq \frac{b_{i-1}+b_{i+1}}{2}, where b_0 = b_{2n} and b_{2n+1} = b_1. It can be proved that under the constraints of this problem, such array b always exists.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64ed0fec1e567bf5fc3a418b729fc303c24741427cf66f75354b8c37a0aa3d21
+size 566

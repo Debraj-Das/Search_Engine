@@ -1,9 +1,3 @@
-Superior Periodic Subarrays                    
-
-httpscodeforcescomproblemsetproblem582C
-
-number theory
-
-2400
-
-You are given an infinite periodic array a0a1an1 with the period of length n Formally  A periodic subarray ls 0ln 1sn of array a is an infinite periodic array with a period of length s that is a subsegment of array a starting with position lA periodic subarray ls is superior if when attaching it to the array a starting from index l any element of the subarray is larger than or equal to the corresponding element of array a An example of attaching is given on the figure top  infinite array a bottom  its periodic subarray ls  Find the number of distinct pairs ls corresponding to the superior periodic arrays
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d7a3298494dd7863f275208ce9576e91da5177a6bc106d98a1caf5b39fd0eb4
+size 730

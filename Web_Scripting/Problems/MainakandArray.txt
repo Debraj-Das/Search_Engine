@@ -1,9 +1,3 @@
-Mainak and Array                    
-
-https://codeforces.com/problemset/problem/1726/A
-
-greedy
-
-900
-
-Mainak has an array a_1, a_2, \ldots, a_n of n positive integers. He will do the following operation to this array exactly once:  Pick a subsegment of this array and cyclically rotate it by any amount.  Formally, he can do the following exactly once:  Pick two integers l and r, such that 1 \le l \le r \le n, and any positive integer k.  Repeat this k times: set a_l=a_{l+1}, a_{l+1}=a_{l+2}, \ldots, a_{r-1}=a_r, a_r=a_l (all changes happen at the same time). Mainak wants to maximize the value of (a_n - a_1) after exactly one such operation. Determine the maximum value of (a_n - a_1) that he can obtain.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2856291bb8648a7c551e1f05f13b369f08c120427f3f6afb7b7994a1f86173f
+size 717

@@ -1,9 +1,3 @@
-Mikasa                    
-
-https://codeforces.com/problemset/problem/1554/C
-
-binary search
-
-1800
-
-You are given two integers n and m. Find the \operatorname{MEX} of the sequence n \oplus 0, n \oplus 1, \ldots, n \oplus m. Here, \oplus is the bitwise XOR operator.\operatorname{MEX} of the sequence of non-negative integers is the smallest non-negative integer that doesn't appear in this sequence. For example, \operatorname{MEX}(0, 1, 2, 4) = 3, and \operatorname{MEX}(1, 2021) = 0. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bba32313bac7d01e7128b672ada2a933e9d601c97c24045b773187651c2b15d
+size 493

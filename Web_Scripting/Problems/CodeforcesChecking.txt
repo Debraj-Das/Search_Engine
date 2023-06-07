@@ -1,9 +1,3 @@
-Codeforces Checking                    
-
-https://codeforces.com/problemset/problem/1791/A
-
-implementation
-
-800
-
-Given a lowercase Latin character (letter), check if it appears in the string \texttt{codeforces}.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0105232d09b014e375a5f4f399e58f88e3ee8e9b4e1f7cc6df1ed8355d1ebc86
+size 218

@@ -1,9 +1,3 @@
-Amusement Park                    
-
-httpscodeforcescomproblemsetproblem774A
-
-special problem
-
-2100
-
-Pupils decided to go to amusement park Some of them were with parents In total n people came to the park and they all want to get to the most extreme attraction and roll on it exactly onceTickets for group of x people are sold on the attraction there should be at least one adult in each group it is possible that the group consists of one adult The ticket price for such group is c1c2x12 in particular if the group consists of one person then the price is c1 All pupils who came to the park and their parents decided to split into groups in such a way that each visitor join exactly one group and the total price of visiting the most extreme attraction is as low as possible You are to determine this minimum possible total price There should be at least one adult in each group 
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe1622979d334fe02a0a0215789312117485d0c2478e99b1eb3873ee33730f2b
+size 888

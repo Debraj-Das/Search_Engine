@@ -1,9 +1,3 @@
-Closest Equals                    
-
-httpscodeforcescomproblemsetproblem522D
-
-special problem
-
-2000
-
-You are given sequence a1a2an and m queries ljrj 1ljrjn For each query you need to print the minimum distance between such pair of elements ax and ay xy that  both indexes of the elements lie within range ljrj that is ljxyrj  the values of the elements are equal that is axay The text above understands distance as xy
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6461e48f93723aa3f81dd5be59b8fb3b34aaac92db615bd82de18a706b6f1ae
+size 425

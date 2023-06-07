@@ -1,9 +1,3 @@
-Orchestra                    
-
-httpscodeforcescomproblemsetproblem627E
-
-two pointers
-
-3000
-
-Paul is at the orchestra The string section is arranged in an rc rectangular grid and is filled with violinists with the exception of n violists Paul really likes violas so he would like to take a picture including at least k of them Paul can take a picture of any axisparallel rectangle in the orchestra Count the number of possible pictures that Paul can takeTwo pictures are considered to be different if the coordinates of corresponding rectangles are different
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c8c59a49711207e4e42cd088c49fa62f3ba185f240fbf8f5dd3361fa5cbbeba
+size 565

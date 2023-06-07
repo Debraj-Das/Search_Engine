@@ -1,9 +1,3 @@
-Minimum Binary Number                    
-
-httpscodeforcescomproblemsetproblem976A
-
-implementation
-
-800
-
-String can be called correct if it consists of characters 0 and 1 and there are no redundant leading zeroes Here are some examples 0 10 1001You are given a correct string sYou can perform two different operations on this string   swap any pair of adjacent characters for example 101  110  replace 11 with 1 for example 110  10 Let vals be such a number that s is its binary representationCorrect string a is less than some other correct string b iff valavalbYour task is to find the minimum correct string that you can obtain from the given one using the operations described above You can use these operations any number of times in any order or even use no operations at all
+version https://git-lfs.github.com/spec/v1
+oid sha256:79ccd2aeaed017f38c947669e87866f2477b7d870e98f8f42cbfa746b05c7e7c
+size 789

@@ -1,9 +1,3 @@
-Splitting into digits                    
-
-https://codeforces.com/problemset/problem/1104/A
-
-constructive algorithms
-
-800
-
-Vasya has his favourite number n. He wants to split it to some non-zero digits. It means, that he wants to choose some digits d_1, d_2, \ldots, d_k, such that 1 \leq d_i \leq 9 for all i and d_1 + d_2 + \ldots + d_k = n.Vasya likes beauty in everything, so he wants to find any solution with the minimal possible number of different digits among d_1, d_2, \ldots, d_k. Help him!
+version https://git-lfs.github.com/spec/v1
+oid sha256:32c1e91f368a41da88d924ab455b44479a0f554ec6a3cbbd0c49d60e0f596fbc
+size 509

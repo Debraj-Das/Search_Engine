@@ -1,9 +1,3 @@
-Dawid and Bags of Candies                    
-
-https://codeforces.com/problemset/problem/1230/A
-
-brute force
-
-800
-
-Dawid has four bags of candies. The i-th of them contains a_i candies. Also, Dawid has two friends. He wants to give each bag to one of his two friends. Is it possible to distribute the bags in such a way that each friend receives the same amount of candies in total?Note, that you can't keep bags for yourself or throw them away, each bag should be given to one of the friends.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44b3ca12a5aef0fc63132dab09ef6bf344071b9770f87725d3edf5ed699c4aca
+size 501

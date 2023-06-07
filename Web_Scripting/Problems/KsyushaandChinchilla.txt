@@ -1,9 +1,3 @@
-Ksyusha and Chinchilla                    
-
-https://codeforces.com/problemset/problem/1833/G
-
-constructive algorithms
-
-1800
-
-Ksyusha has a pet chinchilla, a tree on n vertices and huge scissors. A tree is a connected graph without cycles. During a boring physics lesson Ksyusha thought about how to entertain her pet.Chinchillas like to play with branches. A branch is a tree of 3 vertices.  The branch looks like this. A cut is the removal of some (not yet cut) edge in the tree. Ksyusha has plenty of free time, so she can afford to make enough cuts so that the tree splits into branches. In other words, after several (possibly zero) cuts, each vertex must belong to exactly one branch.Help Ksyusha choose the edges to be cut or tell that it is impossible.
+version https://git-lfs.github.com/spec/v1
+oid sha256:112d3e491d9ca9b5be0e2ec1ea93603c527c87e702573f841d2f2487df3d77da
+size 767

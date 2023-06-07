@@ -1,9 +1,3 @@
-Number of Triplets                    
-
-httpscodeforcescomproblemsetproblem181B
-
-binary search
-
-1300
-
-You are given n points on a plane All points are differentFind the number of different groups of three points ABC such that point B is the middle of segment AC The groups of three points are considered unordered that is if point B is the middle of segment AC then groups ABC and CBA are considered the same
+version https://git-lfs.github.com/spec/v1
+oid sha256:a89e1e6717dbebf2613d754e182c000a097a7dc4a1ec3bf254cebded0d581862
+size 416

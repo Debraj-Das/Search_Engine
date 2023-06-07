@@ -1,9 +1,3 @@
-Get an Even String                    
-
-https://codeforces.com/problemset/problem/1660/C
-
-dp
-
-1300
-
-A string a=a_1a_2\dots a_n is called even if it consists of a concatenation (joining) of strings of length 2 consisting of the same characters. In other words, a string a is even if two conditions are satisfied at the same time:  its length n is even;  for all odd i (1 \le i \le n - 1), a_i = a_{i+1} is satisfied. For example, the following strings are even: "" (empty string), "tt", "aabb", "oooo", and "ttrrrroouuuuuuuukk". The following strings are not even: "aaa", "abab" and "abba".Given a string s consisting of lowercase Latin letters. Find the minimum number of characters to remove from the string s to make it even. The deleted characters do not have to be consecutive.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4ce8bf0392203474aedc8097d9eb2f932f7330627af11d17f74cc2563a74088
+size 789

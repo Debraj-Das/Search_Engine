@@ -1,9 +1,3 @@
-Fiber Shape                    
-
-https://codeforces.com/problemset/problem/1510/F
-
-
-
-2800
-
-Imagine a board with n pins put into it, the i-th pin is located at (x_i, y_i). For simplicity, we will restrict the problem to the case where the pins are placed in vertices of a convex polygon.Then, take a non-stretchable string of length l, and put it around all the pins. Place a pencil inside the string and draw a curve around the pins, trying to pull the string in every possible direction. The picture below shows an example of a string tied around the pins and pulled by a pencil (a point P).  Your task is to find an area inside this curve. Formally, for a given convex polygon S and a length l let's define a fiber shape F(S, l) as a set of points t such that the perimeter of the convex hull of S \cup \{t\} does not exceed l. Find an area of F(S, l).
+version https://git-lfs.github.com/spec/v1
+oid sha256:c557df42f9c5f9b8b9591209715de93d1868a6f16421aafd5f374b3a867112ce
+size 862

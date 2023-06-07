@@ -1,9 +1,3 @@
-Coloring Edges                    
-
-https://codeforces.com/problemset/problem/1217/D
-
-constructive algorithms
-
-2100
-
-You are given a directed graph with n vertices and m directed edges without self-loops or multiple edges.Let's denote the k-coloring of a digraph as following: you color each edge in one of k colors. The k-coloring is good if and only if there no cycle formed by edges of same color.Find a good k-coloring of given digraph with minimum possible k.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c019b335158dad96b8adaa9c2c39bb3fab406118d98cce62c46dfebd620f845
+size 472

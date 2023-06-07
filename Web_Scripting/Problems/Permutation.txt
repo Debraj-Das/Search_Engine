@@ -1,9 +1,3 @@
-Permutation                    
-
-httpscodeforcescomproblemsetproblem452F
-
-data structures
-
-2700
-
-You are given a permutation of numbers from 1 to n Determine whether theres a pair of integers ab 1abnab such that the element  note that it is usual division not integer one is between a and b in this permutation
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b725435858532119940bc15fcae539ec864383b97509cd96cc320f8aa848537
+size 318

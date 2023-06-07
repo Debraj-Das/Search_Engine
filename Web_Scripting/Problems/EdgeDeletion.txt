@@ -1,9 +1,3 @@
-Edge Deletion                    
-
-https://codeforces.com/problemset/problem/1076/D
-
-graphs
-
-1800
-
-You are given an undirected connected weighted graph consisting of n vertices and m edges. Let's denote the length of the shortest path from vertex 1 to vertex i as d_i. You have to erase some edges of the graph so that at most k edges remain. Let's call a vertex i good if there still exists a path from 1 to i with length d_i after erasing the edges.Your goal is to erase the edges in such a way that the number of good vertices is maximized.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26228c3d5a8ed3c91e0ddcde2950466f763cc256cf1eae903e7e800eacfb3d1f
+size 551

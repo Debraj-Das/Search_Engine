@@ -1,9 +1,3 @@
-Ciel and Flowers                    
-
-https://codeforces.com/problemset/problem/322/B
-
-combinatorics
-
-1600
-
-Fox Ciel has some flowers: r red flowers, g green flowers and b blue flowers. She wants to use these flowers to make several bouquets. There are 4 types of bouquets:  To make a "red bouquet", it needs 3 red flowers.  To make a "green bouquet", it needs 3 green flowers.  To make a "blue bouquet", it needs 3 blue flowers.  To make a "mixing bouquet", it needs 1 red, 1 green and 1 blue flower. Help Fox Ciel to find the maximal number of bouquets she can make.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90683c7a8151cfe6b3e135a55db59b9358f632eae89490d4bc7e51e1fb19d52b
+size 576

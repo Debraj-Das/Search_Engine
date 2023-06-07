@@ -1,9 +1,3 @@
-Combination Lock                    
-
-https://codeforces.com/problemset/problem/540/A
-
-implementation
-
-800
-
-Scrooge McDuck keeps his most treasured savings in a home safe with a combination lock. Each time he wants to put there the treasures that he's earned fair and square, he has to open the lock.  The combination lock is represented by n rotating disks with digits from 0 to 9 written on them. Scrooge McDuck has to turn some disks so that the combination of digits on the disks forms a secret combination. In one move, he can rotate one disk one digit forwards or backwards. In particular, in one move he can go from digit 0 to digit 9 and vice versa. What minimum number of actions does he need for that?
+version https://git-lfs.github.com/spec/v1
+oid sha256:85383b0a2acb514554a5a8b610e5c633919adeefac80704556e9906f11def6ad
+size 719

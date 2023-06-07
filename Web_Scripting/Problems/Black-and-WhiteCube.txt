@@ -1,9 +1,3 @@
-BlackandWhite Cube                    
-
-httpscodeforcescomproblemsetproblem323A
-
-combinatorics
-
-1600
-
-You are given a cube of size kkk which consists of unit cubes Two unit cubes are considered neighbouring if they have common faceYour task is to paint each of k3 unit cubes one of two colours black or white so that the following conditions must be satisfied  each white cube has exactly 2 neighbouring cubes of white color  each black cube has exactly 2 neighbouring cubes of black color 
+version https://git-lfs.github.com/spec/v1
+oid sha256:eac04a0058b843b15f5d6b72c6f7ed0cf969ba30b097b6258613f2b03ef2e6dc
+size 498

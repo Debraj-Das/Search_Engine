@@ -1,9 +1,3 @@
-Imbalance Value of a Tree                    
-
-httpscodeforcescomproblemsetproblem915F
-
-data structures
-
-2400
-
-You are given a tree T consisting of n vertices A number is written on each vertex the number written on vertex i is ai Lets denote the function Ixy as the difference between maximum and minimum value of ai on a simple path connecting vertices x and yYour task is to calculate 
+version https://git-lfs.github.com/spec/v1
+oid sha256:31e233d491b869e4f14cc4f0dccdbcda28e9c5813b7d2628e6b1639aeb4f8d44
+size 396

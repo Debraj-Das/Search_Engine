@@ -1,9 +1,3 @@
-Leha and Function                    
-
-httpscodeforcescomproblemsetproblem840A
-
-combinatorics
-
-1300
-
-Leha like all kinds of strange things Recently he liked the function Fnk Consider all possible kelement subsets of the set 12n For subset find minimal element in it Fnk  mathematical expectation of the minimal element among all kelement subsetsBut only function does not interest him He wants to do interesting things with it Mom brought him two arrays A and B each consists of m integers For all ij such that 1ijm the condition AiBj holds Help Leha rearrange the numbers in the array A so that the sum  is maximally possible where A is already rearranged array
+version https://git-lfs.github.com/spec/v1
+oid sha256:b786362aa94bae7acfdf368c046e687c9f9f773a425be36d96f15d393ba33ae7
+size 670

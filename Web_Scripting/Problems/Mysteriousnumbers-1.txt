@@ -1,9 +1,3 @@
-Mysterious numbers  1                    
-
-httpscodeforcescomproblemsetproblem171A
-
-special problem
-
-1200
-
-InputThe input contains two integers a1a2 0ai109 separated by a single spaceOutputOutput a single integerExamplesInput3 14Output44Input27 12Output48Input100 200Output102
+version https://git-lfs.github.com/spec/v1
+oid sha256:975729618eb92c91348a4f354028d7fe77db5bdc697aa910d320c97b4c919999
+size 284

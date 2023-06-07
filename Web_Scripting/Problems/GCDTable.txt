@@ -1,9 +1,3 @@
-GCD Table                    
-
-httpscodeforcescomproblemsetproblem338D
-
-chinese remainder theorem
-
-2900
-
-Consider a table G of size nm such that GijGCDij for all 1in1jm GCDab is the greatest common divisor of numbers a and bYou have a sequence of positive integer numbers a1a2ak We say that this sequence occurs in table G if it coincides with consecutive elements in some row starting from some position More formally such numbers 1in and 1jmk1 should exist that Gijl1al for all 1lkDetermine if the sequence a occurs in table G
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e48a36fd0792775ea03cba1204ef16a34003dccb0fe56c7cce81f6fef9e1642
+size 536

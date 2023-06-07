@@ -1,9 +1,3 @@
-Winnie-the-Pooh and honey                    
-
-https://codeforces.com/problemset/problem/120/C
-
-implementation
-
-1100
-
-As we all know, Winnie-the-Pooh just adores honey. Ones he and the Piglet found out that the Rabbit has recently gotten hold of an impressive amount of this sweet and healthy snack. As you may guess, Winnie and the Piglet asked to come at the Rabbit's place. Thus, there are n jars of honey lined up in front of Winnie-the-Pooh, jar number i contains ai kilos of honey. Winnie-the-Pooh eats the honey like that: each time he chooses a jar containing most honey. If the jar has less that k kilos of honey or if Winnie-the-Pooh has already eaten from it three times, he gives the jar to Piglet. Otherwise he eats exactly k kilos of honey from the jar and puts it back. Winnie does so until he gives all jars to the Piglet. Count how much honey Piglet will overall get after Winnie satisfies his hunger.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c77aa9de88f845a887c2d96fe23d8dc3b9cb6d719008613da1f1f92b3d70d96b
+size 926

@@ -1,9 +1,3 @@
-Mahmoud and Ehab and the xorMST                    
-
-httpscodeforcescomproblemsetproblem959E
-
-bitmasks
-
-1900
-
-Ehab is interested in the bitwisexor operation and the special graphs Mahmoud gave him a problem that combines both He has a complete graph consisting of n vertices numbered from 0 to n1 For all 0uvn vertex u and vertex v are connected with an undirected edge that has weight  where  is the bitwisexor operation Can you find the weight of the minimum spanning tree of that graphYou can read about complete graphs in httpsenwikipediaorgwikiCompletegraphYou can read about the minimum spanning tree in httpsenwikipediaorgwikiMinimumspanningtreeThe weight of the minimum spanning tree is the sum of the weights on the edges included in it
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5dae4362b94901b9b36a7766cac08c05493273ba149b383c0fadea15c6ad4dd
+size 753

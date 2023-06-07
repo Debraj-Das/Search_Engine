@@ -1,9 +1,3 @@
-Row GCD                    
-
-https://codeforces.com/problemset/problem/1458/A
-
-math
-
-1600
-
-You are given two positive integer sequences a_1, \ldots, a_n and b_1, \ldots, b_m. For each j = 1, \ldots, m find the greatest common divisor of a_1 + b_j, \ldots, a_n + b_j.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e697b7b7fd20f4b97644219febd59acef09c31d13d77278d469f92c955e04e54
+size 274

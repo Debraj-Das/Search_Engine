@@ -1,9 +1,3 @@
-Combinatorics Homework                    
-
-https://codeforces.com/problemset/problem/1574/B
-
-combinatorics
-
-1100
-
-You are given four integer values a, b, c and m.Check if there exists a string that contains:   a letters 'A';  b letters 'B';  c letters 'C';  no other letters;  exactly m pairs of adjacent equal letters (exactly m such positions i that the i-th letter is equal to the (i+1)-th one). 
+version https://git-lfs.github.com/spec/v1
+oid sha256:60cb2ebfa5f65d29b876edb4cafed9297926b8b559f90cdc1025c1c14671b3be
+size 408

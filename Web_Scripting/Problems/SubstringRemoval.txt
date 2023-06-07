@@ -1,9 +1,3 @@
-Substring Removal                    
-
-https://codeforces.com/problemset/problem/1096/B
-
-combinatorics
-
-1300
-
-You are given a string s of length n consisting only of lowercase Latin letters.A substring of a string is a contiguous subsequence of that string. So, string "forces" is substring of string "codeforces", but string "coder" is not.Your task is to calculate the number of ways to remove exactly one substring from this string in such a way that all remaining characters are equal (the number of distinct characters either zero or one).It is guaranteed that there is at least two different characters in s.Note that you can remove the whole string and it is correct. Also note that you should remove at least one character.Since the answer can be rather large (not very large though) print it modulo 998244353.If you are Python programmer, consider using PyPy instead of Python when you submit your code.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e82d9b7671a9609e4f672a14c9c1c4de1e7811f2e47e3fcd819a78c5f868e34b
+size 920

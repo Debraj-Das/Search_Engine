@@ -1,9 +1,3 @@
-BubbleSquare Tokens                    
-
-https://codeforces.com/problemset/problem/1423/N
-
-
-
-3500
-
-BubbleSquare social network is celebrating 13^{th} anniversary and it is rewarding its members with special edition BubbleSquare tokens. Every member receives one personal token. Also, two additional tokens are awarded to each member for every friend they have on the network. Yet, there is a twist – everyone should end up with different number of tokens from all their friends. Each member may return one received token. Also, each two friends may agree to each return one or two tokens they have obtained on behalf of their friendship.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cae73a4c299c78452d75f40b2bd979938c435d20aba0d9edd5ca59c4e76d85a1
+size 645

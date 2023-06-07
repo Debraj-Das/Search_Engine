@@ -1,9 +1,3 @@
-Array Rearrangment                    
-
-https://codeforces.com/problemset/problem/1445/A
-
-greedy
-
-800
-
-You are given two arrays a and b, each consisting of n positive integers, and an integer x. Please determine if one can rearrange the elements of b so that a_i + b_i \leq x holds for each i (1 \le i \le n).
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b035a8b636259326ddd572adaf46047b6b8d136f322ce27b2bd540265193f4c
+size 317

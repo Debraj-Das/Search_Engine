@@ -1,9 +1,3 @@
-Edge coloring of bipartite graph                    
-
-https://codeforces.com/problemset/problem/600/F
-
-graphs
-
-2800
-
-You are given an undirected bipartite graph without multiple edges. You should paint the edges of graph to minimal number of colours, so that no two adjacent edges have the same colour.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ee194c1398f39858e86f0e03a48c4cb6e6c449b361ee19fb530e9bc7901609d
+size 310

@@ -1,9 +1,3 @@
-Diversity                    
-
-https://codeforces.com/problemset/problem/844/A
-
-greedy
-
-1000
-
-Calculate the minimum number of characters you need to change in the string s, so that it contains at least k different letters, or print that it is impossible.String s consists only of lowercase Latin letters, and it is allowed to change characters only to lowercase Latin letters too.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e8ee62132b769da48c65e8325437feb4a9a526a1db10008b123e51bd009842b
+size 388

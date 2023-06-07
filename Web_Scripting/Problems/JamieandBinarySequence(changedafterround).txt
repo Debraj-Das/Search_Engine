@@ -1,9 +1,3 @@
-Jamie and Binary Sequence changed after round                    
-
-httpscodeforcescomproblemsetproblem916B
-
-bitmasks
-
-2000
-
-Jamie is preparing a Codeforces round He has got an idea for a problem but does not know how to solve it Help him write a solution to the following problemFind k integers such that the sum of two to the power of each number equals to the number n and the largest integer in the answer is as small as possible As there may be multiple answers you are asked to output the lexicographically largest one To be more clear consider all integer sequence with length k a1a2ak with  Give a value  to each sequence Among all sequences that have the minimum y value output the one that is the lexicographically largestFor definitions of powers and lexicographical order see notes
+version https://git-lfs.github.com/spec/v1
+oid sha256:c50fe6ebb549cb0f2bb654d65f86efdf0a34d637a6ab316a5918b762e27acff7
+size 800

@@ -1,9 +1,3 @@
-Sleepy Game                    
-
-https://codeforces.com/problemset/problem/936/B
-
-dfs and similar
-
-2100
-
-Petya and Vasya arranged a game. The game runs by the following rules. Players have a directed graph consisting of n vertices and m edges. One of the vertices contains a chip. Initially the chip is located at vertex s. Players take turns moving the chip along some edge of the graph. Petya goes first. Player who can't move the chip loses. If the game lasts for 106 turns the draw is announced.Vasya was performing big laboratory work in "Spelling and parts of speech" at night before the game, so he fell asleep at the very beginning of the game. Petya decided to take the advantage of this situation and make both Petya's and Vasya's moves.Your task is to help Petya find out if he can win the game or at least draw a tie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aaeae0099b27b367c0f934ba87d09d537312736e3ac88a86a926e36169226168
+size 837

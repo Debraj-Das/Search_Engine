@@ -1,9 +1,3 @@
-Palindrome                    
-
-https://codeforces.com/problemset/problem/335/B
-
-constructive algorithms
-
-1900
-
-Given a string s, determine if it contains any palindrome of length exactly 100 as a subsequence. If it has any, print any one of them. If it doesn't have any, print a palindrome that is a subsequence of s and is as long as possible.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5005876b44178116925ea18777dc4fe895290a056143d318c74e7573dcd6165d
+size 353

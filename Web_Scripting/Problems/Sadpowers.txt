@@ -1,9 +1,3 @@
-Sad powers                    
-
-httpscodeforcescomproblemsetproblem955C
-
-binary search
-
-2100
-
-Youre given Q queries of the form LR For each query you have to find the number of such x that LxR and there exist integer numbers a0 p1 such that xap
+version https://git-lfs.github.com/spec/v1
+oid sha256:f90aa3a2d01a54b250ecfedd013dad4ef3c2678492ee9436bfbe5ea0809d6ca0
+size 252

@@ -1,9 +1,3 @@
-Golden System                    
-
-httpscodeforcescomproblemsetproblem457A
-
-math
-
-1700
-
-Piegirl got bored with binary decimal and other integer based counting systems Recently she discovered some interesting properties about number  in particular that q2q1 and she thinks it would make a good base for her new unique system She called it golden system In golden system the number is a nonempty string containing 0s and 1s as digits The decimal value of expression a0a1an equals to Soon Piegirl found out that this system doesnt have same properties that integer base systems do and some operations can not be performed on it She wasnt able to come up with a fast way of comparing two numbers She is asking for your helpGiven two numbers written in golden system notation determine which of them has larger decimal value
+version https://git-lfs.github.com/spec/v1
+oid sha256:704e9318be024c015cad9dc1df977ef3c4754fab6a4f046fd0a8054502346101
+size 827

@@ -1,9 +1,3 @@
-Pairs of Paths                    
-
-https://codeforces.com/problemset/problem/1486/F
-
-combinatorics
-
-2600
-
-You are given a tree consisting of n vertices, and m simple vertex paths. Your task is to find how many pairs of those paths intersect at exactly one vertex. More formally you have to find the number of pairs (i, j) (1 \leq i < j \leq m) such that path_i and path_j have exactly one vertex in common. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:0eb6281e84b42a3c9c4e2f35eee193f478f05ac99033739e757795e6859094ac
+size 416

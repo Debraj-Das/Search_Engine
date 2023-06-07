@@ -1,9 +1,3 @@
-George and Sleep                    
-
-https://codeforces.com/problemset/problem/387/A
-
-implementation
-
-900
-
-George woke up and saw the current time s on the digital clock. Besides, George knows that he has slept for time t. Help George! Write a program that will, given time s and t, determine the time p when George went to bed. Note that George could have gone to bed yesterday relatively to the current time (see the second test sample). 
+version https://git-lfs.github.com/spec/v1
+oid sha256:37d47d2fefd8cd0e5c22a48918e149f3f6b1cdda02e5cb6d64503875192c2f1b
+size 449

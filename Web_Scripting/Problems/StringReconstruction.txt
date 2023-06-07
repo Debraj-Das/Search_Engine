@@ -1,9 +1,3 @@
-String Reconstruction                    
-
-httpscodeforcescomproblemsetproblem827A
-
-data structures
-
-1700
-
-Ivan had string s consisting of small English letters However his friend Julia decided to make fun of him and hid the string s Ivan preferred making a new string to finding the old one Ivan knows some information about the string s Namely he remembers that string ti occurs in string s at least ki times or more he also remembers exactly ki positions where the string ti occurs in string s these positions are xi1xi2xiki He remembers n such strings tiYou are to reconstruct lexicographically minimal string s such that it fits all the information Ivan remembers Strings ti and string s consist of small English letters only
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ff6b5b9e404b80ebcb6ade2a7b3fb74dbf4c81d201092e41934ff3f148f40fe
+size 738

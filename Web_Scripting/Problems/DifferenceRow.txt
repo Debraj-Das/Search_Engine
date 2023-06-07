@@ -1,9 +1,3 @@
-Difference Row                    
-
-httpscodeforcescomproblemsetproblem347A
-
-constructive algorithms
-
-1300
-
-You want to arrange n integers a1a2an in some order in a row Lets define the value of an arrangement as the sum of differences between all pairs of adjacent integersMore formally lets denote some arrangement as a sequence of integers x1x2xn where sequence x is a permutation of sequence a The value of such an arrangement is x1x2x2x3xn1xnFind the largest possible value of an arrangement Then output the lexicographically smallest sequence x that corresponds to an arrangement of the largest possible value
+version https://git-lfs.github.com/spec/v1
+oid sha256:766a7b28acc5054ba0d52ef63e285a676a35752b73e0ba09d05d4d79d79c4bc2
+size 622

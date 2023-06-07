@@ -1,9 +1,3 @@
-Kuriyama Mirais Stones                    
-
-httpscodeforcescomproblemsetproblem433B
-
-dp
-
-1200
-
-Kuriyama Mirai has killed many monsters and got many namely n stones She numbers the stones from 1 to n The cost of the ith stone is vi Kuriyama Mirai wants to know something about these stones so she will ask you two kinds of questions  She will tell you two numbers l and r1lrn and you should tell her   Let ui be the cost of the ith cheapest stone the cost that will be on the ith place if we arrange all the stone costs in nondecreasing order This time she will tell you two numbers l and r1lrn and you should tell her  For every question you should give the correct answer or Kuriyama Mirai will say fuyukai desu and then become unhappy
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bbe7194e9d0c588d70337aec152368c326160de07a5a60b4b18724b5b5f806e
+size 744

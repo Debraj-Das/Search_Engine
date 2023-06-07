@@ -1,9 +1,3 @@
-A + B Strikes Back                    
-
-https://codeforces.com/problemset/problem/409/H
-
-*special problem
-
-1500
-
-A + B is often used as an example of the easiest problem possible to show some contest platform. However, some scientists have observed that sometimes this problem is not so easy to get accepted. Want to try?
+version https://git-lfs.github.com/spec/v1
+oid sha256:428f199d661a539363decb755ec79e3788f2fda34e5c34b0082b8ffbfb589c34
+size 329

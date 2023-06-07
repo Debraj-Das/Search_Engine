@@ -1,9 +1,3 @@
-Odds and Ends                    
-
-httpscodeforcescomproblemsetproblem849A
-
-implementation
-
-1000
-
-Where do odds begin and where do they end Where does hope emerge and will they ever breakGiven an integer sequence a1a2an of length n Decide whether it is possible to divide it into an odd number of nonempty subsegments the each of which has an odd length and begins and ends with odd numbersA subsegment is a contiguous slice of the whole sequence For example 345 and 1 are subsegments of sequence 123456 while 124 and 7 are not
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9e5e3394c7447e503ef2346dac4784a98fc268d6d047ff6fa3eb566c17b32a7
+size 535

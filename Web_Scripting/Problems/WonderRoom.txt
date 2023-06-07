@@ -1,9 +1,3 @@
-Wonder Room                    
-
-httpscodeforcescomproblemsetproblem466B
-
-brute force
-
-2000
-
-The start of the new academic year brought about the problem of accommodation students into dormitories One of such dormitories has a ab square meter wonder room The caretaker wants to accommodate exactly n students there But the law says that there must be at least 6 square meters per student in a room that is the room for n students must have the area of at least 6n square meters The caretaker can enlarge any possibly both side of the room by an arbitrary positive integer of meters Help him change the room so as all n students could live in it and the total area of the room was as small as possible
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f936ef6ef3a2f1d43963b97bc5a221b18806d36390a4e2d1ffffee69880f161
+size 708

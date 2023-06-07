@@ -1,9 +1,3 @@
-Marvolo Gaunts Ring                    
-
-httpscodeforcescomproblemsetproblem855B
-
-brute force
-
-1500
-
-Professor Dumbledore is helping Harry destroy the Horcruxes He went to Gaunt Shack as he suspected a Horcrux to be present there He saw Marvolo Gaunts Ring and identified it as a Horcrux Although he destroyed it he is still affected by its curse Professor Snape is helping Dumbledore remove the curse For this he wants to give Dumbledore exactly x drops of the potion he made Value of x is calculated as maximum of paiqajrak for given pqr and array a1a2 an such that 1ijkn Help Snape find the value of x Do note that the value of x may be negative
+version https://git-lfs.github.com/spec/v1
+oid sha256:289ac64074dbaea4b416abb5bc7c4d36685607006a3dd065db08186767d7cfef
+size 656

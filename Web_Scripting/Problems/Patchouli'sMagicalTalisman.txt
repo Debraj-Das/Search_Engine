@@ -1,9 +1,3 @@
-Patchouli's Magical Talisman                    
-
-https://codeforces.com/problemset/problem/1688/B
-
-bitmasks
-
-800
-
-She is skilled in all kinds of magics, and is keen on inventing new one.—Perfect Memento in Strict SensePatchouli is making a magical talisman. She initially has n magical tokens. Their magical power can be represented with positive integers a_1, a_2, \ldots, a_n. Patchouli may perform the following two operations on the tokens.  Fusion: Patchouli chooses two tokens, removes them, and creates a new token with magical power equal to the sum of the two chosen tokens.  Reduction: Patchouli chooses a token with an even value of magical power x, removes it and creates a new token with magical power equal to \frac{x}{2}. Tokens are more effective when their magical powers are odd values. Please help Patchouli to find the minimum number of operations she needs to make magical powers of all tokens odd values.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19ffb110975c278ff44c926d47bb5e5c5633e88b57ca01f6985ce050431012b1
+size 935

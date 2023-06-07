@@ -1,9 +1,3 @@
-Vasya and String                    
-
-https://codeforces.com/problemset/problem/676/C
-
-binary search
-
-1500
-
-High school student Vasya got a string of length n as a birthday present. This string consists of letters 'a' and 'b' only. Vasya denotes beauty of the string as the maximum length of a substring (consecutive subsequence) consisting of equal letters.Vasya can change no more than k characters of the original string. What is the maximum beauty of the string he can achieve?
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffdca6b7319364f65a3cf8621793dcbcb7e3fd71e430ab51d4adca8254566649
+size 489

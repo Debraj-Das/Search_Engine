@@ -1,9 +1,3 @@
-Fast Food Restaurant                    
-
-https://codeforces.com/problemset/problem/1313/A
-
-brute force
-
-900
-
-Tired of boring office work, Denis decided to open a fast food restaurant.On the first day he made a portions of dumplings, b portions of cranberry juice and c pancakes with condensed milk.The peculiarity of Denis's restaurant is the procedure of ordering food. For each visitor Denis himself chooses a set of dishes that this visitor will receive. When doing so, Denis is guided by the following rules:  every visitor should receive at least one dish (dumplings, cranberry juice, pancakes with condensed milk are all considered to be dishes);  each visitor should receive no more than one portion of dumplings, no more than one portion of cranberry juice and no more than one pancake with condensed milk;  all visitors should receive different sets of dishes. What is the maximum number of visitors Denis can feed?
+version https://git-lfs.github.com/spec/v1
+oid sha256:af25d6d6f6a53f5cb7ecf32b4619042419926ee142cb96b14855c05ae9b1bcd6
+size 933

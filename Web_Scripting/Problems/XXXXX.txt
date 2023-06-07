@@ -1,9 +1,3 @@
-XXXXX                    
-
-https://codeforces.com/problemset/problem/1364/A
-
-brute force
-
-1200
-
-Ehab loves number theory, but for some reason he hates the number x. Given an array a, find the length of its longest subarray such that the sum of its elements isn't divisible by x, or determine that such subarray doesn't exist.An array a is a subarray of an array b if a can be obtained from b by deletion of several (possibly, zero or all) elements from the beginning and several (possibly, zero or all) elements from the end.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f92545fa7ee0adfb71effa500880ff068629ecb1b60702efe47ee919149b575
+size 533

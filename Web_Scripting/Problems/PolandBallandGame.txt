@@ -1,9 +1,3 @@
-PolandBall and Game                    
-
-https://codeforces.com/problemset/problem/755/B
-
-binary search
-
-1100
-
-PolandBall is playing a game with EnemyBall. The rules are simple. Players have to say words in turns. You cannot say a word which was already said. PolandBall starts. The Ball which can't say a new word loses.You're given two lists of words familiar to PolandBall and EnemyBall. Can you determine who wins the game, if both play optimally?
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a3b77af1091badf675d9629c4f11f0be5c167c4f5d5c1f30597a44e13a67ef8
+size 459

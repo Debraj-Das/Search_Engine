@@ -1,9 +1,3 @@
-Schedule                    
-
-https://codeforces.com/problemset/problem/31/C
-
-implementation
-
-1700
-
-At the beginning of the new semester there is new schedule in the Berland State University. According to this schedule, n groups have lessons at the room 31. For each group the starting time of the lesson and the finishing time of the lesson are known. It has turned out that it is impossible to hold all lessons, because for some groups periods of their lessons intersect. If at some moment of time one groups finishes it's lesson, and the other group starts the lesson, their lessons don't intersect.The dean wants to cancel the lesson in one group so that no two time periods of lessons of the remaining groups intersect. You are to find all ways to do that.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b10e6702ea7bb58cfedc9718821f57d14b960038c8e44ad843c409c62a119ca
+size 769

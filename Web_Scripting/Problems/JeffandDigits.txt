@@ -1,9 +1,3 @@
-Jeff and Digits                    
-
-https://codeforces.com/problemset/problem/352/A
-
-brute force
-
-1000
-
-Jeff's got n cards, each card contains either digit 0, or digit 5. Jeff can choose several cards and put them in a line so that he gets some number. What is the largest possible number divisible by 90 Jeff can make from the cards he's got?Jeff must make the number without leading zero. At that, we assume that number 0 doesn't contain any leading zeroes. Jeff doesn't have to use all the cards.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2160fd8be7ca467deb3ba4b757f32ca109c3e7dd41db830bfc2a078458153971
+size 508

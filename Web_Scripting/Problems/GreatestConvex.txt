@@ -1,9 +1,3 @@
-Greatest Convex                    
-
-https://codeforces.com/problemset/problem/1768/A
-
-greedy
-
-800
-
-You are given an integer k. Find the largest integer x, where 1 \le x < k, such that x! + (x - 1)!^\dagger is a multiple of ^\ddagger k, or determine that no such x exists.^\dagger y! denotes the factorial of y, which is defined recursively as y! = y \cdot (y-1)! for y \geq 1 with the base case of 0! = 1. For example, 5! = 5 \cdot 4 \cdot 3 \cdot 2 \cdot 1 \cdot 0! = 120.^\ddagger If a and b are integers, then a is a multiple of b if there exists an integer c such that a = b \cdot c. For example, 10 is a multiple of 5 but 9 is not a multiple of 6.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d77704e7582526c82379d7c0b15091cbc622e88979b3946793bf21dd3044f73
+size 661

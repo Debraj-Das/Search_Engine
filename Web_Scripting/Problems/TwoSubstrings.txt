@@ -1,9 +1,3 @@
-Two Substrings                    
-
-https://codeforces.com/problemset/problem/550/A
-
-brute force
-
-1500
-
-You are given string s. Your task is to determine if the given string s contains two non-overlapping substrings "AB" and "BA" (the substrings can go in any order).
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9bcbd92e20cfd865520f115c5862dc6168c2fdc3a3c11538cb5d0935f8f4579
+size 275

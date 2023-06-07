@@ -1,9 +1,3 @@
-Relatively Prime Pairs                    
-
-https://codeforces.com/problemset/problem/1051/B
-
-greedy
-
-1000
-
-You are given a set of all integers from l to r inclusive, l < r, (r - l + 1) \le 3 \cdot 10^5 and (r - l) is always odd.You want to split these numbers into exactly \frac{r - l + 1}{2} pairs in such a way that for each pair (i, j) the greatest common divisor of i and j is equal to 1. Each number should appear in exactly one of the pairs.Print the resulting pairs or output that no solution exists. If there are multiple solutions, print any of them.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d952f291f596a21ab462ff0962eda4f67167a3d9453510833483550d76270ff9
+size 568

@@ -1,9 +1,3 @@
-Hard Process                    
-
-https://codeforces.com/problemset/problem/660/C
-
-binary search
-
-1600
-
-You are given an array a with n elements. Each element of a is either 0 or 1.Let's denote the length of the longest subsegment of consecutive elements in a, consisting of only numbers one, as f(a). You can change no more than k zeroes to ones to maximize f(a).
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ca9c78ca2e9bfd18036974c6feac97fa2bc358f821c3aac99698ca2fc484b1d
+size 372

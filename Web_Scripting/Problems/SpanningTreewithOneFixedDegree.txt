@@ -1,9 +1,3 @@
-Spanning Tree with One Fixed Degree                    
-
-https://codeforces.com/problemset/problem/1133/F2
-
-constructive algorithms
-
-1900
-
-You are given an undirected unweighted connected graph consisting of n vertices and m edges. It is guaranteed that there are no self-loops or multiple edges in the given graph.Your task is to find any spanning tree of this graph such that the degree of the first vertex (vertex with label 1 on it) is equal to D (or say that there are no such spanning trees). Recall that the degree of a vertex is the number of edges incident to it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2336d841aef05f452206ce48959a0723c9db13b908235e6a4d0922417e50b556
+size 580

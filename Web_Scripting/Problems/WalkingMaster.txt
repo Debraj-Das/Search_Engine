@@ -1,9 +1,3 @@
-Walking Master                    
-
-https://codeforces.com/problemset/problem/1806/A
-
-geometry
-
-800
-
-YunQian is standing on an infinite plane with the Cartesian coordinate system on it. In one move, she can move to the diagonally adjacent point on the top right or the adjacent point on the left.That is, if she is standing on point (x,y), she can either move to point (x+1,y+1) or point (x-1,y).YunQian initially stands at point (a,b) and wants to move to point (c,d). Find the minimum number of moves she needs to make or declare that it is impossible.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e41375540df44bbe1a9812a4d10d6c723c812b6f606dccec0d22290bedf2637
+size 562

@@ -1,9 +1,3 @@
-Interactive Factorial Guessing                    
-
-https://codeforces.com/problemset/problem/1773/I
-
-brute force
-
-2500
-
-Oh no, this wicked jury hides something from you again, and you need to guess it interactively. This time, you need to find an integer n. To do that, you can make at most 10 queries of the form "What is the k-th decimal digit of the product of all integers from 1 to n (also known as factorial and denoted as n!)?". 
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e6212815984ed91ae7d20527616b230f17b6dedd0bffa62f08d301182b0dc8e
+size 445

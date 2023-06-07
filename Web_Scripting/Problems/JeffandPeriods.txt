@@ -1,9 +1,3 @@
-Jeff and Periods                    
-
-httpscodeforcescomproblemsetproblem352B
-
-implementation
-
-1300
-
-One day Jeff got hold of an integer sequence a1 a2  an of length n The boy immediately decided to analyze the sequence For that he needs to find all values of x for which these conditions hold  x occurs in sequence a  Consider all positions of numbers x in the sequence a such i that aix These numbers sorted in the increasing order must form an arithmetic progression Help Jeff find all x that meet the problem conditions
+version https://git-lfs.github.com/spec/v1
+oid sha256:37d8ce94df855cb25b23f7d74d098668014a657d8d38176f2828f1de901e6630
+size 531

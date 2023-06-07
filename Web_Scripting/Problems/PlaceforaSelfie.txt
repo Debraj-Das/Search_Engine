@@ -1,9 +1,3 @@
-Place for a Selfie                    
-
-https://codeforces.com/problemset/problem/1805/C
-
-binary search
-
-1400
-
-The universe is a coordinate plane. There are n space highways, each of which is a straight line y=kx passing through the origin (0, 0). Also, there are m asteroid belts on the plane, which we represent as open upwards parabolas, i. e. graphs of functions y=ax^2+bx+c, where a > 0.You want to photograph each parabola. To do this, for each parabola you need to choose a line that does not intersect this parabola and does not touch it. You can select the same line for different parabolas. Please find such a line for each parabola, or determine that there is no such line.
+version https://git-lfs.github.com/spec/v1
+oid sha256:913bc0885ed805373fe444e7395d1434b5233a9227280ac7d539ab245b945442
+size 692

@@ -1,9 +1,3 @@
-Maximal Area Quadrilateral                    
-
-https://codeforces.com/problemset/problem/340/B
-
-brute force
-
-2100
-
-Iahub has drawn a set of n points in the cartesian plane which he calls "special points". A quadrilateral is a simple polygon without self-intersections with four sides (also called edges) and four vertices (also called corners). Please note that a quadrilateral doesn't have to be convex. A special quadrilateral is one which has all four vertices in the set of special points. Given the set of special points, please calculate the maximal area of a special quadrilateral. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1b52766d39f9610e8089df46b00968825ead4d5d63edf94347c34f4387f5178
+size 598

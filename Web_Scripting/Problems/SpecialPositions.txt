@@ -1,9 +1,3 @@
-Special Positions                    
-
-https://codeforces.com/problemset/problem/1641/E
-
-combinatorics
-
-3300
-
-You are given an array a of length n. Also you are given m distinct positions p_1, p_2, \ldots, p_m (1 \leq p_i \leq n).A non-empty subset of these positions T is randomly selected with equal probability and the following value is calculated: \sum_{i=1}^{n} (a_i \cdot \min_{j \in T} \left|i - j\right|). In other word, for each index of the array, a_i and the distance to the closest chosen position are multiplied, and then these values are summed up.Find the expected value of this sum.This value must be found modulo 998\,244\,353. More formally, let M = 998\,244\,353. It can be shown that the answer can be represented as an irreducible fraction \frac{p}{q}, where p and q are integers and q \neq 0 (mod M). Output the integer equal to p \cdot q^{-1} (mod M). In other words, output such integer x that 0 \leq x < M and x \cdot q = p (mod M).
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d4fcce8ccb18e1e5d7b482edbbb19503f80d7f710917c0b73c25190566b3fb3
+size 966

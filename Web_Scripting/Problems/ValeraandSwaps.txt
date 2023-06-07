@@ -1,9 +1,3 @@
-Valera and Swaps                    
-
-httpscodeforcescomproblemsetproblem441D
-
-constructive algorithms
-
-2100
-
-A permutation p of length n is a sequence of distinct integers p1p2pn 1pin A permutation is an identity permutation if for any i the following equation holds pii A swap ij is the operation that swaps elements pi and pj in the permutation Lets assume that fp is the minimum number of swaps that you need to make the permutation p an identity permutation Valera wonders how he can transform permutation p into any permutation q such that fqm using the minimum number of swaps Help him do that
+version https://git-lfs.github.com/spec/v1
+oid sha256:1414e13bed5d694f7b2e6961f9081a5b9b271fb745a9ae324a2ae68cbad88aa0
+size 608

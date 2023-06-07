@@ -1,9 +1,3 @@
-Burenka Plays with Fractions                    
-
-https://codeforces.com/problemset/problem/1720/A
-
-math
-
-900
-
-Burenka came to kindergarden. This kindergarten is quite strange, so each kid there receives two fractions (\frac{a}{b} and \frac{c}{d}) with integer numerators and denominators. Then children are commanded to play with their fractions.Burenka is a clever kid, so she noticed that when she claps once, she can multiply numerator or denominator of one of her two fractions by any integer of her choice (but she can't multiply denominators by 0). Now she wants know the minimal number of claps to make her fractions equal (by value). Please help her and find the required number of claps!
+version https://git-lfs.github.com/spec/v1
+oid sha256:83c8658eda7f9fd97c76bc26cb71e3f2604472c1c854e2802a68dbf2808d7189
+size 705

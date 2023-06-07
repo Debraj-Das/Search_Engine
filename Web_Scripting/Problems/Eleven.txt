@@ -1,9 +1,3 @@
-Eleven                    
-
-httpscodeforcescomproblemsetproblem918A
-
-brute force
-
-800
-
-Eleven wants to choose a new name for herself As a bunch of geeks her friends suggested an algorithm to choose a name for her Eleven wants her name to have exactly n characters   Her friend suggested that her name should only consist of uppercase and lowercase letters O More precisely they suggested that the ith letter of her name should be O uppercase if i is a member of Fibonacci sequence and o lowercase otherwise The letters in the name are numbered from 1 to n Fibonacci sequence is the sequence f where  f11  f21  fnfn2fn1 n2 As her friends are too young to know what Fibonacci sequence is they asked you to help Eleven determine her new name
+version https://git-lfs.github.com/spec/v1
+oid sha256:4463cdcc505b92c4f4a678dd9afc48d0936ef1395ce2d611ffe0f634a2197272
+size 746

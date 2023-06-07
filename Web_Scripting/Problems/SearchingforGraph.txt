@@ -1,9 +1,3 @@
-Searching for Graph                    
-
-httpscodeforcescomproblemsetproblem402C
-
-brute force
-
-1500
-
-Lets call an undirected graph of n vertices pinteresting if the following conditions fulfill   the graph contains exactly 2np edges  the graph doesnt contain selfloops and multiple edges  for any integer k 1kn any subgraph consisting of k vertices contains at most 2kp edges A subgraph of a graph is some set of the graph vertices and some set of the graph edges At that the set of edges must meet the condition both ends of each edge from the set must belong to the chosen set of vertices Your task is to find a pinteresting graph consisting of n vertices
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e59d24376b4a04eeedc06b0cea89199e28e5e213043e3d33910254414ae67b9
+size 665

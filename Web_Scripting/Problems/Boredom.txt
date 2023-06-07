@@ -1,9 +1,3 @@
-Boredom                    
-
-httpscodeforcescomproblemsetproblem853C
-
-data structures
-
-2100
-
-Ilya is sitting in a waiting area of Metropolis airport and is bored of looking at time table that shows again and again that his plane is delayed So he took out a sheet of paper and decided to solve some problemsFirst Ilya has drawn a grid of size nn and marked n squares on it such that no two marked squares share the same row or the same column He calls a rectangle on a grid with sides parallel to grid sides beautiful if exactly two of its corner squares are marked There are exactly nn12 beautiful rectanglesIlya has chosen q query rectangles on a grid with sides parallel to grid sides not necessarily beautiful ones and for each of those rectangles he wants to find its beauty degree Beauty degree of a rectangle is the number of beautiful rectangles that share at least one square with the given oneNow Ilya thinks that he might not have enough time to solve the problem till the departure of his flight You are given the description of marked cells and the query rectangles help Ilya find the beauty degree of each of the query rectangles
+version https://git-lfs.github.com/spec/v1
+oid sha256:8289477bebe914606a55e59b7c66e2d50cfb37be14cc8ff810c5ebd40257a9ed
+size 1150

@@ -1,9 +1,3 @@
-Distinguish multi-qubit basis states                    
-
-https://codeforces.com/problemset/problem/1001/F
-
-*special problem
-
-1300
-
-You are given N qubits which are guaranteed to be in one of two basis states on N qubits. You are also given two bitstrings bits0 and bits1 which describe these basis states.Your task is to perform necessary operations and measurements to figure out which state it was and to return 0 if it was the state described with bits0 or 1 if it was the state described with bits1. The state of the qubits after the operations does not matter.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf2eba362eeecb79d7e3865f8b346569114d632b7a3e39da11e9f58124317a65
+size 574

@@ -1,9 +1,3 @@
-Diplomas and Certificates                    
-
-https://codeforces.com/problemset/problem/818/A
-
-implementation
-
-800
-
-There are n students who have taken part in an olympiad. Now it's time to award the students.Some of them will receive diplomas, some wiil get certificates, and others won't receive anything. Students with diplomas and certificates are called winners. But there are some rules of counting the number of diplomas and certificates. The number of certificates must be exactly k times greater than the number of diplomas. The number of winners must not be greater than half of the number of all students (i.e. not be greater than half of n). It's possible that there are no winners.You have to identify the maximum possible number of winners, according to these rules. Also for this case you have to calculate the number of students with diplomas, the number of students with certificates and the number of students who are not winners.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53e43a6a0a4a22602cb07ecac22a66d5d2e120e57d96b7e30fc23b1096cb61f0
+size 957

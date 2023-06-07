@@ -1,9 +1,3 @@
-Garage                    
-
-https://codeforces.com/problemset/problem/1725/G
-
-binary search
-
-1500
-
-Pak Chanek plans to build a garage. He wants the garage to consist of a square and a right triangle that are arranged like the following illustration.  Define a and b as the lengths of two of the sides in the right triangle as shown in the illustration. An integer x is suitable if and only if we can construct a garage with assigning positive integer values for the lengths a and b (a<b) so that the area of the square at the bottom is exactly x. As a good friend of Pak Chanek, you are asked to help him find the N-th smallest suitable number.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff25b1a757f9b6ddb4d81d0af70df3aaef7649bd96cd3a29ebc7b9d3fd6cae17
+size 652

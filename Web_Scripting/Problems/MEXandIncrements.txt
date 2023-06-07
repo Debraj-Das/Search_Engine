@@ -1,9 +1,3 @@
-MEX and Increments                    
-
-https://codeforces.com/problemset/problem/1619/E
-
-constructive algorithms
-
-1700
-
-Dmitry has an array of n non-negative integers a_1, a_2, \dots, a_n.In one operation, Dmitry can choose any index j (1 \le j \le n) and increase the value of the element a_j by 1. He can choose the same index j multiple times.For each i from 0 to n, determine whether Dmitry can make the \mathrm{MEX} of the array equal to exactly i. If it is possible, then determine the minimum number of operations to do it.The \mathrm{MEX} of the array is equal to the minimum non-negative integer that is not in the array. For example, the \mathrm{MEX} of the array [3, 1, 0] is equal to 2, and the array [3, 3, 1, 4] is equal to 0.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70a2c86e7e2b1d6bd2b7b660555651a33cb4f74aac0adf8cac03ff2dccbc9d10
+size 749

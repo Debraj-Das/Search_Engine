@@ -1,9 +1,3 @@
-George and Accommodation                    
-
-httpscodeforcescomproblemsetproblem467A
-
-implementation
-
-800
-
-George has recently entered the BSUCP Berland State University for Cool Programmers George has a friend Alex who has also entered the university Now they are moving into a dormitory George and Alex want to live in the same room The dormitory has n rooms in total At the moment the ith room has pi people living in it and the room can accommodate qi people in total piqi Your task is to count how many rooms has free place for both George and Alex
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c515bfbdf5bd9d1ed4e9ded934577c1e2f6b79a63f49b90dbb20bfa6ef05b15
+size 562

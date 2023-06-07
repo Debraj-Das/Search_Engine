@@ -1,9 +1,3 @@
-Shortest path                    
-
-https://codeforces.com/problemset/problem/1599/G
-
-brute force
-
-2700
-
-You are given N points on an infinite plane with the Cartesian coordinate system on it. N-1 points lay on one line, and one point isn't on that line. You are on point K at the start, and the goal is to visit every point. You can move between any two points in a straight line, and you can revisit points. What is the minimum length of the path? 
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a9e41e955a0f94ca3416328fc57c9e06cc316c57d73e23dfa53b8f6c1b6a1e1
+size 457

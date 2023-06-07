@@ -1,9 +1,3 @@
-Fashion in Berland                    
-
-https://codeforces.com/problemset/problem/691/A
-
-implementation
-
-1000
-
-According to rules of the Berland fashion, a jacket should be fastened by all the buttons except only one, but not necessarily it should be the last one. Also if the jacket has only one button, it should be fastened, so the jacket will not swinging open.You are given a jacket with n buttons. Determine if it is fastened in a right way.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d241fcc61b74c4a1793777467d8d0243bab4e397aaaca25b34d3b3523d11e65f
+size 455

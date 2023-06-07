@@ -1,9 +1,3 @@
-Beautiful Sets of Points                    
-
-httpscodeforcescomproblemsetproblem268C
-
-constructive algorithms
-
-1500
-
-Manao has invented a new mathematical term  a beautiful set of points He calls a set of points on a plane beautiful if it meets the following conditions  The coordinates of each point in the set are integers  For any two points from the set the distance between them is a noninteger Consider all points xy which satisfy the inequations 0xn 0ym xy0 Choose their subset of maximum size such that it is also a beautiful set of points
+version https://git-lfs.github.com/spec/v1
+oid sha256:89f333478478bac6a7013871a7bbd184f2c0495d65c97402e01c915f6f5d65af
+size 556

@@ -1,9 +1,3 @@
-Calendar Ambiguity                    
-
-https://codeforces.com/problemset/problem/1389/E
-
-math
-
-2200
-
-Berland year consists of m months with d days each. Months are numbered from 1 to m. Berland week consists of w days. The first day of the year is also the first day of the week. Note that the last week of the year might be shorter than w days.A pair (x, y) such that x < y is ambiguous if day x of month y is the same day of the week as day y of month x.Count the number of ambiguous pairs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee7428b270b2d59cd022c2f0a2341209b1e048e8fbb45b55b56e7c8c418ddd4a
+size 501

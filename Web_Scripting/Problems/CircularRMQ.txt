@@ -1,9 +1,3 @@
-Circular RMQ                    
-
-httpscodeforcescomproblemsetproblem52C
-
-data structures
-
-2200
-
-You are given circular array a0a1an1 There are two types of operations with it   inclfrgv  this operation increases each element on the segment lfrg inclusively by v  rmqlfrg  this operation returns minimal value on the segment lfrg inclusively Assume segments to be circular so if n5 and lf3rg1 it means the index sequence 3401Write program to process given sequence of operations
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec19f6f9d88f1e6cb7a0db887ac676a7530dd57d13f1554633d9b0f7b39acbac
+size 486

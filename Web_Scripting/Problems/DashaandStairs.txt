@@ -1,9 +1,3 @@
-Dasha and Stairs                    
-
-httpscodeforcescomproblemsetproblem761A
-
-brute force
-
-1000
-
-On her way to programming school tiger Dasha faced her first test  a huge staircase  The steps were numbered from one to infinity As we know tigers are very fond of all striped things it is possible that it has something to do with their color So on some interval of her way she calculated two values  the number of steps with even and odd numbers You need to check whether there is an interval of steps from the lth to the rth 1lr for which values that Dasha has found are correct
+version https://git-lfs.github.com/spec/v1
+oid sha256:7220c0f3876442706715b96c1e9bf9c0947e4e9d13aefe818acf3caee8730c79
+size 587

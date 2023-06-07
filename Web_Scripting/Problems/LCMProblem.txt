@@ -1,9 +1,3 @@
-LCM Problem                    
-
-https://codeforces.com/problemset/problem/1389/A
-
-constructive algorithms
-
-800
-
-Let LCM(x, y) be the minimum positive integer that is divisible by both x and y. For example, LCM(13, 37) = 481, LCM(9, 6) = 18.You are given two integers l and r. Find two integers x and y such that l \le x < y \le r and l \le LCM(x, y) \le r.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d10ce5d57e873ae7a2a29a83bf90b97742e466b96f3a29e8e000c3ec5085fbf6
+size 365

@@ -1,9 +1,3 @@
-Copium Permutation                    
-
-https://codeforces.com/problemset/problem/1827/F
-
-constructive algorithms
-
-3500
-
-You are given a permutation a_1,a_2,\ldots,a_n of the first n positive integers. A subarray [l,r] is called copium if we can rearrange it so that it becomes a sequence of consecutive integers, or more formally, if \max(a_l,a_{l+1},\ldots,a_r)-\min(a_l,a_{l+1},\ldots,a_r)=r-l For each k in the range [0,n], print out the maximum number of copium subarrays of a over all ways of rearranging the last n-k elements of a.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f460f663a4a562843f5f34785a946946e1dd0221df7bd3d91f38fd7a64119dc4
+size 546

@@ -1,9 +1,3 @@
-Lucky Permutation Triple                    
-
-httpscodeforcescomproblemsetproblem303A
-
-constructive algorithms
-
-1300
-
-Bike is interested in permutations A permutation of length n is an integer sequence such that each integer from 0 to n1 appears exactly once in it For example 021 is a permutation of length 3 while both 022 and 123 is notA permutation triple of permutations of length n abc is called a Lucky Permutation Triple if and only if  The sign ai denotes the ith element of permutation a The modular equality described above denotes that the remainders after dividing aibi by n and dividing ci by n are equalNow he has an integer n and wants to find a Lucky Permutation Triple Could you please help him
+version https://git-lfs.github.com/spec/v1
+oid sha256:41f7f6076489d0f56a0a3e33319d373d8c56a1d7e5a7cc569cbc1387829a2e22
+size 720

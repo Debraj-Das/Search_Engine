@@ -1,9 +1,3 @@
-Squats                    
-
-https://codeforces.com/problemset/problem/424/A
-
-implementation
-
-900
-
-Pasha has many hamsters and he makes them work out. Today, n hamsters (n is even) came to work out. The hamsters lined up and each hamster either sat down or stood up.For another exercise, Pasha needs exactly  hamsters to stand up and the other hamsters to sit down. In one minute, Pasha can make some hamster ether sit down or stand up. How many minutes will he need to get what he wants if he acts optimally well?
+version https://git-lfs.github.com/spec/v1
+oid sha256:697e33d26c67b3e73d1c82f9cebdd66b24a0613bd7bc0aad3902184d7066100b
+size 521

@@ -1,9 +1,3 @@
-Ceil Divisions                    
-
-https://codeforces.com/problemset/problem/1469/D
-
-brute force
-
-1700
-
-You have an array a_1, a_2, \dots, a_n where a_i = i.In one step, you can choose two indices x and y (x \neq y) and set a_x = \left\lceil \frac{a_x}{a_y} \right\rceil (ceiling function).Your goal is to make array a consist of n - 1 ones and 1 two in no more than n + 5 steps. Note that you don't have to minimize the number of steps.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71c4bfbe6e4f8726513a77c98b2ad334f5bf9b7e72aa08f97ab6ecd01ac6e365
+size 446

@@ -1,9 +1,3 @@
-Labyrinth-4                    
-
-https://codeforces.com/problemset/problem/921/04
-
-
-
-3200
-
-See the problem statement here: http://codeforces.com/contest/921/problem/01.
+version https://git-lfs.github.com/spec/v1
+oid sha256:449abdfb8122ab80ee7077e3ea0db0b07ac1b6beb51d392a35aa00d527a21db0
+size 176

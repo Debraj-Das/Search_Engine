@@ -1,9 +1,3 @@
-Short Task                    
-
-https://codeforces.com/problemset/problem/1512/G
-
-brute force
-
-1700
-
-Let us denote by d(n) the sum of all divisors of the number n, i.e. d(n) = \sum\limits_{k | n} k.For example, d(1) = 1, d(4) = 1+2+4=7, d(6) = 1+2+3+6=12.For a given number c, find the minimum n such that d(n) = c.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8af579abba71751430ab9ab0d4a0535d3443cef1e09e3a83bb44e76c0f363d24
+size 323

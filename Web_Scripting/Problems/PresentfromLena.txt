@@ -1,9 +1,3 @@
-Present from Lena                    
-
-httpscodeforcescomproblemsetproblem118B
-
-constructive algorithms
-
-1000
-
-Vasyas birthday is approaching and Lena decided to sew a patterned handkerchief to him as a present Lena chose digits from 0 to n as the pattern The digits will form a rhombus The largest digit n should be located in the centre The digits should decrease as they approach the edges For example for n5 the handkerchief pattern should look like that 0010012100123210012343210012345432100123432100123210012100100Your task is to determine the way the handkerchief will look like by the given n
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5abbeb0411840633cb7059cce1dc91426f63d977bde84f644444b254f5cdde6
+size 608

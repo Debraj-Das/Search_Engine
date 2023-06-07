@@ -1,9 +1,3 @@
-Greedy Subsequences                    
-
-https://codeforces.com/problemset/problem/1132/G
-
-data structures
-
-2400
-
-For some array c, let's denote a greedy subsequence as a sequence of indices p_1, p_2, ..., p_l such that 1 \le p_1 < p_2 < \dots < p_l \le |c|, and for each i \in [1, l - 1], p_{i + 1} is the minimum number such that p_{i + 1} > p_i and c[p_{i + 1}] > c[p_i].You are given an array a_1, a_2, \dots, a_n. For each its subsegment of length k, calculate the length of its longest greedy subsequence.
+version https://git-lfs.github.com/spec/v1
+oid sha256:719bd00366aef772f4ff882696621ffe642b553760d9fd256d725022cc3e3d10
+size 519

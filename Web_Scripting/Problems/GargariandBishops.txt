@@ -1,9 +1,3 @@
-Gargari and Bishops                    
-
-httpscodeforcescomproblemsetproblem463C
-
-greedy
-
-1900
-
-Gargari is jealous that his friend Caisa won the game from the previous problem He wants to prove that he is a geniusHe has a nn chessboard Each cell of the chessboard has a number written on it Gargari wants to place two bishops on the chessboard in such a way that there is no cell that is attacked by both of them Consider a cell with number x written on it if this cell is attacked by one of the bishops Gargari will get x dollars for it Tell Gargari how to place bishops on the chessboard to get maximum amount of moneyWe assume a cell is attacked by a bishop if the cell is located on the same diagonal with the bishop the cell where the bishop is also considered attacked by it
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7e50e6b410a06df221da623b480d65756e00ccec5a03ed37189b61fc5c9633c
+size 788

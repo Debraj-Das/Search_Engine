@@ -1,9 +1,3 @@
-Binary String Minimizing                    
-
-httpscodeforcescomproblemsetproblem1256D
-
-greedy
-
-1500
-
-You are given a binary string of length n ie a string consisting of n characters 0 and 1In one move you can swap two adjacent characters of the string What is the lexicographically minimum possible string you can obtain from the given one if you can perform no more than k moves It is possible that you do not perform any moves at allNote that you can swap the same pair of adjacent characters with indices i and i1 arbitrary possibly zero number of times Each such swap is considered a separate moveYou have to answer q independent test cases
+version https://git-lfs.github.com/spec/v1
+oid sha256:339f95669e39bd4d7f7b682d21a40b7f936f13134d712ecd787292b14b2991e5
+size 653

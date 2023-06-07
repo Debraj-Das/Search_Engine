@@ -1,9 +1,3 @@
-Magical Sticks                    
-
-https://codeforces.com/problemset/problem/1371/A
-
-math
-
-800
-
-A penguin Rocher has n sticks. He has exactly one stick with length i for all 1 \le i \le n.He can connect some sticks. If he connects two sticks that have lengths a and b, he gets one stick with length a + b. Two sticks, that were used in the operation disappear from his set and the new connected stick appears in his set and can be used for the next connections.He wants to create the maximum number of sticks that have the same length. It is not necessary to make all sticks have the same length, some sticks can have the other length. How many sticks with the equal length he can create?
+version https://git-lfs.github.com/spec/v1
+oid sha256:68eb8421f56e367d3fafe8cb91a87d68112a74ee9c6acbaa1b33f7e2345032fe
+size 697

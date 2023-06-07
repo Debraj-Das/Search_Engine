@@ -1,9 +1,3 @@
-Buy the String                    
-
-https://codeforces.com/problemset/problem/1440/A
-
-implementation
-
-800
-
-You are given four integers n, c_0, c_1 and h and a binary string s of length n.A binary string is a string consisting of characters 0 and 1.You can change any character of the string s (the string should be still binary after the change). You should pay h coins for each change.After some changes (possibly zero) you want to buy the string. To buy the string you should buy all its characters. To buy the character 0 you should pay c_0 coins, to buy the character 1 you should pay c_1 coins.Find the minimum number of coins needed to buy the string.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17754bf115e0c524031f9e7c491d65741202b99325077dc71de65b84541a20c0
+size 665

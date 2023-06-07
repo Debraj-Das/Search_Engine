@@ -1,9 +1,3 @@
-Modified GCD                    
-
-httpscodeforcescomproblemsetproblem75C
-
-binary search
-
-1600
-
-Well here is another math class task In mathematics GCD is the greatest common divisor and its an easy task to calculate the GCD between two positive integersA common divisor for two positive numbers is a number which both numbers are divisible byBut your teacher wants to give you a harder task in this task you have to find the greatest common divisor d between two integers a and b that is in a given range from low to high inclusive ie lowdhigh It is possible that there is no common divisor in the given rangeYou will be given the two integers a and b then n queries Each query is a range from low to high and you have to answer each query
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1a19d21f1990af757d2b482a8b10a1a1330b7011c20d1055efc09643a00c2cb
+size 747

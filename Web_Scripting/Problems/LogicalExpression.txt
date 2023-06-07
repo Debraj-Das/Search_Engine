@@ -1,9 +1,3 @@
-Logical Expression                    
-
-https://codeforces.com/problemset/problem/913/E
-
-bitmasks
-
-2400
-
-You are given a boolean function of three variables which is defined by its truth table. You need to find an expression of minimum length that equals to this function. The expression may consist of:   Operation AND ('&', ASCII code 38)  Operation OR ('|', ASCII code 124)  Operation NOT ('!', ASCII code 33)  Variables x, y and z (ASCII codes 120-122)  Parentheses ('(', ASCII code 40, and ')', ASCII code 41) If more than one expression of minimum length exists, you should find the lexicographically smallest one.Operations have standard priority. NOT has the highest priority, then AND goes, and OR has the lowest priority. The expression should satisfy the following grammar:E ::= E '|' T | TT ::= T '&' F | FF ::= '!' F | '(' E ')' | 'x' | 'y' | 'z'
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a7878e23491d8081d1cda87abbbf2d17648868643961b8dee9ad6bb71b3f980
+size 867

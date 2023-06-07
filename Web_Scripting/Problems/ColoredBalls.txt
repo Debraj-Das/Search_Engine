@@ -1,9 +1,3 @@
-Colored Balls                    
-
-https://codeforces.com/problemset/problem/792/E
-
-greedy
-
-2500
-
-There are n boxes with colored balls on the table. Colors are numbered from 1 to n. i-th box contains ai balls, all of which have color i. You have to write a program that will divide all balls into sets such that:  each ball belongs to exactly one of the sets,  there are no empty sets,  there is no set containing two (or more) balls of different colors (each set contains only balls of one color),  there are no two sets such that the difference between their sizes is greater than 1. Print the minimum possible number of sets.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9ace41a5bb047101b0285496ee9d787502e360093086bcf58aee3d9ba59076b
+size 636

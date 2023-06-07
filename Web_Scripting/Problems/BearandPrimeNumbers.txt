@@ -1,9 +1,3 @@
-Bear and Prime Numbers                    
-
-httpscodeforcescomproblemsetproblem385C
-
-binary search
-
-1700
-
-Recently the bear started studying data structures and faced the following problemYou are given a sequence of integers x1x2xn of length n and m queries each of them is characterized by two integers liri Lets introduce fp to represent the number of such indexes k that xk is divisible by p The answer to the query liri is the sum  where Sliri is a set of prime numbers from segment liri both borders are included in the segmentHelp the bear cope with the problem
+version https://git-lfs.github.com/spec/v1
+oid sha256:5842fa05a3327cde214fae3962aae4630d3016bdc70c97595df3548d129ea804
+size 575

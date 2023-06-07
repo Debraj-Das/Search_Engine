@@ -1,9 +1,3 @@
-Subsegments                    
-
-https://codeforces.com/problemset/problem/69/E
-
-data structures
-
-1800
-
-Programmer Sasha has recently begun to study data structures. His coach Stas told him to solve the problem of finding a minimum on the segment of the array in , which Sasha coped with. For Sasha not to think that he had learned all, Stas gave him a new task. For each segment of the fixed length Sasha must find the maximum element of those that occur on the given segment exactly once. Help Sasha solve this problem. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:75fcc5862bfec8d8b43443dbf01e521dc26b077d4e679118234b4bd6c9ea14d8
+size 530

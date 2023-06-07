@@ -1,9 +1,3 @@
-Maximal Difference                    
-
-httpscodeforcescomproblemsetproblem661D
-
-special problem
-
-2100
-
-You are given an array of integers ai Find the largest absolute value of difference between adjacent elements of the array maxabsaiai1
+version https://git-lfs.github.com/spec/v1
+oid sha256:9df3b521f765d6b40feb15a05a0972d85950428f9db14649846e590bc678f435
+size 246

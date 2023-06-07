@@ -1,9 +1,3 @@
-Mike and strings                    
-
-httpscodeforcescomproblemsetproblem798B
-
-brute force
-
-1300
-
-Mike has n strings s1s2sn each consisting of lowercase English letters In one move he can choose a string si erase the first character and append it to the end of the string For example if he has the string coolmike in one move he can transform it into the string oolmikecNow Mike asks himself what is minimal number of moves that he needs to do in order to make all the strings equal
+version https://git-lfs.github.com/spec/v1
+oid sha256:856b6a27ef12533a812fb72884dc35d7030fa7b368afc847534e9411ad472229
+size 490

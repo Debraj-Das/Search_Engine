@@ -1,9 +1,3 @@
-Count Permutations                    
-
-https://codeforces.com/problemset/problem/1776/N
-
-math
-
-3500
-
-You are given a string s with length n-1 whose characters are either \texttt{<} or \texttt{>}.Count the permutations p_1, \, p_2, \, \dots, \, p_n of 1, \, 2, \, \dots, \, n such that, for all i = 1, \, 2, \, \dots, \, n - 1, if s_i is \texttt{<} then p_i < p_{i+1} and if s_i is \texttt{>} then p_i > p_{i+1}.Since this number can be very large, compute its logarithm in base 2.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbddc1152f46d6807fbf853495a5017fb6faeb695581c8d0170ed0321f7a1eb2
+size 489

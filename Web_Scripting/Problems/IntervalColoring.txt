@@ -1,9 +1,3 @@
-Interval Coloring                    
-
-httpscodeforcescomproblemsetproblem100J
-
-special problem
-
-2400
-
-Aryo has got a lot of intervals for his 2418th birthday He is really excited and decided to color all these intervals with some colors He has a simple rule for himself He calls a coloring nice if there exists no three intervals ab and c such that the following conditions are satisfied simultaneously   ab and c are colored with the same color       Moreover he found out that for every intervals i and j there is at least one point in i which isnt in jGiven some set of intervals You have to find the minimum number k such that Aryo can find a nice coloring with k colors
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1f314c926e2fcb41a3a7108c9ac7171abaff530784dc26fd35ffc2fa137eb68
+size 683

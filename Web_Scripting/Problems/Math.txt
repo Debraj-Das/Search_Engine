@@ -1,9 +1,3 @@
-Math                    
-
-https://codeforces.com/problemset/problem/1505/F
-
-*special problem
-
-2200
-
-    *The two images are equivalent, feel free to use either one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a907300275856c7a34b81fc927ae6cc509c600b35bbe85300a22fdd54dfdfc8
+size 172

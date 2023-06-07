@@ -1,9 +1,3 @@
-Frequency of String                    
-
-https://codeforces.com/problemset/problem/963/D
-
-hashing
-
-2500
-
-You are given a string s. You should answer n queries. The i-th query consists of integer k_i and string m_i. The answer for this query is the minimum length of such a string t that t is a substring of s and m_i has at least k_i occurrences as a substring in t.A substring of a string is a continuous segment of characters of the string.It is guaranteed that for any two queries the strings m_i from these queries are different. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:b24d9ce4cba6c570c06b9f649403d86c7c4af6012aaee0fca05ade8e68642286
+size 542

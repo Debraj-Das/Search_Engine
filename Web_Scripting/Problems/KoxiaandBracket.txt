@@ -1,9 +1,3 @@
-Koxia and Bracket                    
-
-https://codeforces.com/problemset/problem/1770/G
-
-divide and conquer
-
-3400
-
-Chiyuu has a bracket sequence^\dagger s of length n. Let k be the minimum number of characters that Chiyuu has to remove from s to make s balanced^\ddagger.Now, Koxia wants you to count the number of ways to remove k characters from s so that s becomes balanced, modulo 998\,244\,353.Note that two ways of removing characters are considered distinct if and only if the set of indices removed is different.^\dagger A bracket sequence is a string containing only the characters "(" and ")".^\ddagger A bracket sequence is called balanced if one can turn it into a valid math expression by adding characters + and 1. For example, sequences (())(), (), (()(())) and the empty string are balanced, while )(, ((), and (()))( are not.
+version https://git-lfs.github.com/spec/v1
+oid sha256:391f38cc06bd165b7eaa753ec19fc10f71da4a567dcc03483d43db2de007c2aa
+size 850

@@ -1,9 +1,3 @@
-Li Hua and Pattern                    
-
-https://codeforces.com/problemset/problem/1797/B
-
-constructive algorithms
-
-1100
-
-Li Hua has a pattern of size n\times n, each cell is either blue or red. He can perform exactly k operations. In each operation, he chooses a cell and changes its color from red to blue or from blue to red. Each cell can be chosen as many times as he wants. Is it possible to make the pattern, that matches its rotation by 180^{\circ}?Suppose you were Li Hua, please solve this problem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7605129e08075281039fcf84e3e7d5e9851827745583255c5e5952fe79da1cb
+size 515

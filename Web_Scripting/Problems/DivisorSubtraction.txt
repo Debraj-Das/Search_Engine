@@ -1,9 +1,3 @@
-Divisor Subtraction                    
-
-https://codeforces.com/problemset/problem/1076/B
-
-implementation
-
-1200
-
-You are given an integer number n. The following algorithm is applied to it:  if n = 0, then end algorithm;  find the smallest prime divisor d of n;  subtract d from n and go to step 1. Determine the number of subtrations the algorithm will make.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48264e20e484014f0faf972df52c151c86fbadddda2d2f97e4fb87229c7322d4
+size 367

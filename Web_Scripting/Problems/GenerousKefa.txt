@@ -1,9 +1,3 @@
-Generous Kefa                    
-
-https://codeforces.com/problemset/problem/841/A
-
-brute force
-
-900
-
-One day Kefa found n baloons. For convenience, we denote color of i-th baloon as si — lowercase letter of the Latin alphabet. Also Kefa has k friends. Friend will be upset, If he get two baloons of the same color. Kefa want to give out all baloons to his friends. Help Kefa to find out, can he give out all his baloons, such that no one of his friens will be upset — print «YES», if he can, and «NO», otherwise. Note, that Kefa's friend will not upset, if he doesn't get baloons at all.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d7fa2785a962d58310b7c4873a3b5348f63bd5555fdbee5fde105dcde97bbf0
+size 596

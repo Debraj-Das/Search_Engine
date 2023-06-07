@@ -1,9 +1,3 @@
-The Great Mixing                    
-
-https://codeforces.com/problemset/problem/788/C
-
-dfs and similar
-
-2300
-
-Sasha and Kolya decided to get drunk with Coke, again. This time they have k types of Coke. i-th type is characterised by its carbon dioxide concentration . Today, on the party in honour of Sergiy of Vancouver they decided to prepare a glass of Coke with carbon dioxide concentration . The drink should also be tasty, so the glass can contain only integer number of liters of each Coke type (some types can be not presented in the glass). Also, they want to minimize the total volume of Coke in the glass.Carbon dioxide concentration is defined as the volume of carbone dioxide in the Coke divided by the total volume of Coke. When you mix two Cokes, the volume of carbon dioxide sums up, and the total volume of Coke sums up as well.Help them, find the minimal natural number of liters needed to create a glass with carbon dioxide concentration . Assume that the friends have unlimited amount of each Coke type.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4665db45e870f28078ca3a7fe4eac29050eb13aa02afa999c7bbfa55e4878e6
+size 1030

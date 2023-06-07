@@ -1,9 +1,3 @@
-Modulo Sum                    
-
-httpscodeforcescomproblemsetproblem577B
-
-combinatorics
-
-1900
-
-You are given a sequence of numbers a1a2an and a number mCheck if it is possible to choose a nonempty subsequence aij such that the sum of numbers in this subsequence is divisible by m
+version https://git-lfs.github.com/spec/v1
+oid sha256:c5fbaa1a988d81bebb28c0c8dad2e2dce2405707388fb62e5cef7c56534fbfd1
+size 286

@@ -1,9 +1,3 @@
-Jzzhu and Sequences                    
-
-httpscodeforcescomproblemsetproblem450B
-
-implementation
-
-1300
-
-Jzzhu has invented a kind of sequences they meet the following propertyYou are given x and y please calculate fn modulo 1000000007 1097
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd021eb054f2f2cc0a214cf43d274ead68bd49021cfa3ef847950a962c0b27fb
+size 247

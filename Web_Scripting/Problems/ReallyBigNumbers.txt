@@ -1,9 +1,3 @@
-Really Big Numbers                    
-
-https://codeforces.com/problemset/problem/817/C
-
-binary search
-
-1600
-
-Ivan likes to learn different things about numbers, but he is especially interested in really big numbers. Ivan thinks that a positive integer number x is really big if the difference between x and the sum of its digits (in decimal representation) is not less than s. To prove that these numbers may have different special properties, he wants to know how rare (or not rare) they are — in fact, he needs to calculate the quantity of really big numbers that are not greater than n.Ivan tried to do the calculations himself, but soon realized that it's too difficult for him. So he asked you to help him in calculations.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dac5e9dd567b49f5ce88ba6ea36e867f3d2acef01baff4c5dd5f4fae728995c4
+size 736

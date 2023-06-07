@@ -1,9 +1,3 @@
-Playing Cubes                    
-
-httpscodeforcescomproblemsetproblem257B
-
-games
-
-1300
-
-Petya and Vasya decided to play a little They found n red cubes and m blue cubes The game goes like that the players take turns to choose a cube of some color red or blue and put it in a line from left to right overall the line will have nm cubes Petya moves first Petyas task is to get as many pairs of neighbouring cubes of the same color as possible Vasyas task is to get as many pairs of neighbouring cubes of different colors as possible The number of Petyas points in the game is the number of pairs of neighboring cubes of the same color in the line the number of Vasyas points in the game is the number of neighbouring cubes of the different color in the line Your task is to calculate the score at the end of the game Petyas and Vasyas points correspondingly if both boys are playing optimally well To play optimally well first of all means to maximize the number of ones points and second  to minimize the number of the opponents points
+version https://git-lfs.github.com/spec/v1
+oid sha256:aad3113ca4fa7a59e4c80ce2d11a2e38e5860c17093edd3bc325d95ed3d9e87a
+size 1043

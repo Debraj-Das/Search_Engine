@@ -1,9 +1,3 @@
-Infinite Inversions                    
-
-httpscodeforcescomproblemsetproblem540E
-
-binary search
-
-2100
-
-There is an infinite sequence consisting of all positive integers in the increasing order p123 We performed n swap operations with this sequence A swapab is an operation of swapping the elements of the sequence on positions a and b Your task is to find the number of inversions in the resulting sequence ie the number of such index pairs ij that ij and pipj
+version https://git-lfs.github.com/spec/v1
+oid sha256:705983f9a66e6e0bfd4235157dceaafef0017ad655355b92f69ec7f7ff142aeb
+size 468

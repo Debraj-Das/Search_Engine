@@ -1,9 +1,3 @@
-Representative Edges                    
-
-https://codeforces.com/problemset/problem/1616/C
-
-brute force
-
-1500
-
-An array a_1, a_2, \ldots, a_n is good if and only if for every subsegment 1 \leq l \leq r \leq n, the following holds: a_l + a_{l + 1} + \ldots + a_r = \frac{1}{2}(a_l + a_r) \cdot (r - l + 1). You are given an array of integers a_1, a_2, \ldots, a_n. In one operation, you can replace any one element of this array with any real number. Find the minimum number of operations you need to make this array good.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a277cdd62a5887eadded61b70a5d7dd1a75b4134162dc22becd7039ccf633b1
+size 529

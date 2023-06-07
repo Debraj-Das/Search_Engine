@@ -1,9 +1,3 @@
-Planting Trees                    
-
-httpscodeforcescomproblemsetproblem45J
-
-constructive algorithms
-
-1800
-
-Vasya is a Greencode wildlife preservation society proponent One day he found an empty field nobody owned divided it into nm squares and decided to plant a forest there Vasya will plant nm trees of all different heights from 1 to nm For his forest to look more natural he wants any two trees growing in the side neighbouring squares to have the absolute value of difference in heights to be strictly more than 1 Help Vasya make the plan of the forest planting for which this condition is fulfilled
+version https://git-lfs.github.com/spec/v1
+oid sha256:850d0b11f84a02d519b50fbeddb47c55ca00942987e9a0bc7998de3bdc3c72fd
+size 612

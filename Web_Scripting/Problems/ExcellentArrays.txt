@@ -1,9 +1,3 @@
-Excellent Arrays                    
-
-https://codeforces.com/problemset/problem/1550/D
-
-binary search
-
-2300
-
-Let's call an integer array a_1, a_2, \dots, a_n good if a_i \neq i for each i.Let F(a) be the number of pairs (i, j) (1 \le i < j \le n) such that a_i + a_j = i + j.Let's say that an array a_1, a_2, \dots, a_n is excellent if:   a is good;  l \le a_i \le r for each i;  F(a) is the maximum possible among all good arrays of size n. Given n, l and r, calculate the number of excellent arrays modulo 10^9 + 7.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01721b88dbaa9afef38d5e87d57403270c11ea2336c3d2fdd0433d7c166d5e2a
+size 525

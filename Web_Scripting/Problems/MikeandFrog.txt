@@ -1,9 +1,3 @@
-Mike and Frog                    
-
-httpscodeforcescomproblemsetproblem547A
-
-brute force
-
-2200
-
-Mike has a frog and a flower His frog is named Xaniar and his flower is named Abol Initiallyat time 0 height of Xaniar is h1 and height of Abol is h2 Each second Mike waters Abol and Xaniar  So if height of Xaniar is h1 and height of Abol is h2 after one second height of Xaniar will become  and height of Abol will become  where x1y1x2 and y2 are some integer numbers and  denotes the remainder of a modulo bMike is a competitive programmer fan He wants to know the minimum time it takes until height of Xania is a1 and height of Abol is a2Mike has asked you for your help Calculate the minimum time or say it will never happen
+version https://git-lfs.github.com/spec/v1
+oid sha256:23d8e971ed40c1a7d31bf1ada84401152b4df015725de2c92c2689d2ceff6e8e
+size 731

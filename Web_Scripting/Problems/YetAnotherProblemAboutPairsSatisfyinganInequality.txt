@@ -1,9 +1,3 @@
-Yet Another Problem About Pairs Satisfying an Inequality                    
-
-https://codeforces.com/problemset/problem/1703/F
-
-binary search
-
-1300
-
-You are given an array a_1, a_2, \dots a_n. Count the number of pairs of indices 1 \leq i, j \leq n such that a_i < i < a_j < j.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4484e6c26152e40a596b1edaea23699a4817c9dc8e0cfd086d5bfb28e612dd55
+size 285

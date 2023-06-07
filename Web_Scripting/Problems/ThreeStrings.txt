@@ -1,9 +1,3 @@
-Three strings                    
-
-httpscodeforcescomproblemsetproblem452E
-
-data structures
-
-2400
-
-You are given three strings s1s2s3 For each integer l 1lmins1s2s3 you need to find how many triples i1i2i3 exist such that three strings skik ikl1 k123 are pairwise equal Print all found numbers modulo 10000000071097See notes if you are not sure about some of the denotions used in the statement
+version https://git-lfs.github.com/spec/v1
+oid sha256:eba1d06d74525c79289e261d7d8cd9fe2f5c036227f5d314a7cd1bc13ce87f27
+size 402

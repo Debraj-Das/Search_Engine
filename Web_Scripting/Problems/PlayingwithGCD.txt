@@ -1,9 +1,3 @@
-Playing with GCD                    
-
-https://codeforces.com/problemset/problem/1736/B
-
-math
-
-1200
-
-You are given an integer array a of length n. Does there exist an array b consisting of n+1 positive integers such that a_i=\gcd (b_i,b_{i+1}) for all i (1 \leq i \leq n)? Note that \gcd(x, y) denotes the greatest common divisor (GCD) of integers x and y.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b1b202a4dc0bb94aa7fd4b5ea5ec522f6e92bc17f33079d3a1dada4da57f9f1
+size 363

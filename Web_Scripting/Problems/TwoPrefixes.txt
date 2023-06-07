@@ -1,9 +1,3 @@
-Two Prefixes                    
-
-https://codeforces.com/problemset/problem/1090/J
-
-strings
-
-2600
-
-Misha didn't do his math homework for today's lesson once again. As a punishment, his teacher Dr. Andrew decided to give him a hard, but very useless task.Dr. Andrew has written two strings s and t of lowercase English letters at the blackboard. He reminded Misha that prefix of a string is a string formed by removing several (possibly none) of its last characters, and a concatenation of two strings is a string formed by appending the second string to the right of the first string.The teacher asked Misha to write down on the blackboard all strings that are the concatenations of some non-empty prefix of s and some non-empty prefix of t. When Misha did it, Dr. Andrew asked him how many distinct strings are there. Misha spent almost the entire lesson doing that and completed the task. Now he asks you to write a program that would do this task automatically.
+version https://git-lfs.github.com/spec/v1
+oid sha256:61ff4fba2436ff60c2603de8a1cd1824359ef945ca8ffcb8053362e2fe484d63
+size 972

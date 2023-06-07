@@ -1,9 +1,3 @@
-SwapSort                    
-
-https://codeforces.com/problemset/problem/489/A
-
-greedy
-
-1200
-
-In this problem your goal is to sort an array consisting of n integers in at most n swaps. For the given array find the sequence of swaps that makes the array sorted in the non-descending order. Swaps are performed consecutively, one after another.Note that in this problem you do not have to minimize the number of swaps — your task is to find any sequence that is no longer than n.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41c6c4b08e365f648fc2d8b600bf1f3e5c5ccda464e54cacbcff58beb9255e95
+size 484

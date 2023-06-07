@@ -1,9 +1,3 @@
-The Child and Sequence                    
-
-httpscodeforcescomproblemsetproblem438D
-
-data structures
-
-2300
-
-At the childrens day the child came to Pickss house and messed his house up Picks was angry at him A lot of important things were lost in particular the favorite sequence of PicksFortunately Picks remembers how to repair the sequence Initially he should create an integer array a1a2an Then he should perform a sequence of m operations An operation can be one of the following  Print operation lr Picks should write down the value of   Modulo operation lrx Picks should perform assignment aiaimodx for each i lir  Set operation kx Picks should set the value of ak to x in other words perform an assignment akx Can you help Picks to perform the whole sequence of operations
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bcc2e1d03e37bb609e3a997f1f53cb09e548a9c09daca6de282fb0c06d37542
+size 787

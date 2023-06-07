@@ -1,9 +1,3 @@
-The same permutation                     
-
-httpscodeforcescomproblemsetproblem804E
-
-constructive algorithms
-
-3100
-
-Seyyed and MoJaK are friends of Sajjad Sajjad likes a permutation Seyyed wants to change the permutation in a way that Sajjad wont like it Seyyed thinks more swaps yield more probability to do that so he makes MoJaK to perform a swap between every pair of positions ij where ij exactly once MoJaK doesnt like to upset SajjadGiven the permutation determine whether it is possible to swap all pairs of positions so that the permutation stays the same If it is possible find how to do that 
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d243374e6a421e740c0bb4dc017a35ce15737de47fab9177d9857812443f788
+size 610

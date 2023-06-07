@@ -1,9 +1,3 @@
-Ksusha the Squirrel                    
-
-httpscodeforcescomproblemsetproblem299B
-
-brute force
-
-900
-
-Ksusha the Squirrel is standing at the beginning of a straight road divided into n sectors The sectors are numbered 1 to n from left to right Initially Ksusha stands in sector 1 Ksusha wants to walk to the end of the road that is get to sector n Unfortunately there are some rocks on the road We know that Ksusha hates rocks so she doesnt want to stand in sectors that have rocksKsusha the squirrel keeps fit She can jump from sector i to any of the sectors i1i2ik Help Ksusha Given the road description say if she can reach the end of the road note she cannot stand on a rock
+version https://git-lfs.github.com/spec/v1
+oid sha256:373558b7c29e06a2620000f0528fb39bf5ef4ab380d4541d887cb3bf135fd6b1
+size 684

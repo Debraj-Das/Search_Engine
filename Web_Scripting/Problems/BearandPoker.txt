@@ -1,9 +1,3 @@
-Bear and Poker                    
-
-https://codeforces.com/problemset/problem/573/A
-
-implementation
-
-1300
-
-Limak is an old brown bear. He often plays poker with his friends. Today they went to a casino. There are n players (including Limak himself) and right now all of them have bids on the table. i-th of them has bid with size ai dollars.Each player can double his bid any number of times and triple his bid any number of times. The casino has a great jackpot for making all bids equal. Is it possible that Limak and his friends will win a jackpot?
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7189b6ad66f32e447663f9896225e67fbd9f7e874d32220e199a51b54100ca5
+size 559

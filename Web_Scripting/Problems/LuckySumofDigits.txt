@@ -1,9 +1,3 @@
-Lucky Sum of Digits                    
-
-https://codeforces.com/problemset/problem/109/A
-
-brute force
-
-1000
-
-Petya loves lucky numbers. We all know that lucky numbers are the positive integers whose decimal representations contain only the lucky digits 4 and 7. For example, numbers 47, 744, 4 are lucky and 5, 17, 467 are not.Petya wonders eagerly what minimum lucky number has the sum of digits equal to n. Help him cope with the task.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d6121974023333a1f98b72ea0b9184d186280dae4d4c03586703e654016fbfe
+size 445

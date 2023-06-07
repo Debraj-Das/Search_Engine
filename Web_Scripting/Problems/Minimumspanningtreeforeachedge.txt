@@ -1,9 +1,3 @@
-Minimum spanning tree for each edge                    
-
-httpscodeforcescomproblemsetproblem609E
-
-data structures
-
-2100
-
-Connected undirected weighted graph without selfloops and multiple edges is given Graph contains n vertices and m edgesFor each edge uv find the minimal possible weight of the spanning tree that contains the edge uvThe weight of the spanning tree is the sum of weights of all edges included in spanning tree
+version https://git-lfs.github.com/spec/v1
+oid sha256:784d4803e0df933d082c88d65e1f2d61cfad7d8d380b5a2a5fbc9122ba4fe12d
+size 436

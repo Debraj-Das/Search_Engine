@@ -1,9 +1,3 @@
-Reconnaissance 2                    
-
-httpscodeforcescomproblemsetproblem34A
-
-implementation
-
-800
-
-n soldiers stand in a circle For each soldier his height ai is known A reconnaissance unit can be made of such two neighbouring soldiers whose heights difference is minimal ie aiaj is minimal So each of them will be less noticeable with the other Output any pair of soldiers that can form a reconnaissance unit
+version https://git-lfs.github.com/spec/v1
+oid sha256:b308c5e88ea690c537b5a5be9ff7f5d2363b4661487159b6b44325e6e503ec64
+size 417

@@ -1,9 +1,3 @@
-Amr and Pins                    
-
-httpscodeforcescomproblemsetproblem507B
-
-geometry
-
-1400
-
-Amr loves Geometry One day he came up with a very interesting problemAmr has a circle of radius r and center in point xy He wants the circle center to be in new position xyIn one step Amr can put a pin to the border of the circle in a certain point then rotate the circle around that pin by any angle and finally remove the pinHelp Amr to achieve his goal in minimum number of steps
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c4300b526cad9e17884096f2efb04c0adf1b198d72bb03744d58c447d635f79
+size 481

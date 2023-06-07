@@ -1,9 +1,3 @@
-Queries about less or equal elements                    
-
-https://codeforces.com/problemset/problem/600/B
-
-binary search
-
-1300
-
-You are given two arrays of integers a and b. For each element of the second array bj you should find the number of elements in array a that are less than or equal to the value bj.
+version https://git-lfs.github.com/spec/v1
+oid sha256:37cd4b755f99527713ca5f6baf8a130642ab2beb2a3f4c5fcfe7936d60aa8533
+size 316

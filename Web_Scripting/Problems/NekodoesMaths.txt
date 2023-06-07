@@ -1,9 +1,3 @@
-Neko does Maths                    
-
-https://codeforces.com/problemset/problem/1152/C
-
-brute force
-
-1800
-
-Neko loves divisors. During the latest number theory lesson, he got an interesting exercise from his math teacher.Neko has two integers a and b. His goal is to find a non-negative integer k such that the least common multiple of a+k and b+k is the smallest possible. If there are multiple optimal integers k, he needs to choose the smallest one.Given his mathematical talent, Neko had no trouble getting Wrong Answer on this problem. Can you help him solve it?
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1d99b4b32d129fa377287d51cbfd69eb7a09c2ffb63cddfe44168161b6e6482
+size 574

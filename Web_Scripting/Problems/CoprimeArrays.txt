@@ -1,9 +1,3 @@
-Coprime Arrays                    
-
-httpscodeforcescomproblemsetproblem915G
-
-math
-
-2300
-
-Lets call an array a of size n coprime iff gcda1a2an1 where gcd is the greatest common divisor of the argumentsYou are given two numbers n and k For each i 1ik you have to determine the number of coprime arrays a of size n such that for every j 1jn 1aji Since the answers can be very large you have to calculate them modulo 1097
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd2fa12c4e5e05aad6c2fc5bb82f0c5e525e6808d58762886a2faf61c28bbc3f
+size 425

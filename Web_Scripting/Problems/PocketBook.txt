@@ -1,9 +1,3 @@
-Pocket Book                    
-
-httpscodeforcescomproblemsetproblem152C
-
-combinatorics
-
-1400
-
-One day little Vasya found moms pocket book The book had n names of her friends and unusually enough each name was exactly m letters long Lets number the names from 1 to n in the order in which they are writtenAs mom wasnt home Vasya decided to play with names he chose three integers i j k 1ijn 1km then he took names number i and j and swapped their prefixes of length k For example if we take names CBDAD and AABRD and swap their prefixes with the length of 3 the result will be names AABAD and CBDRDYou wonder how many different names Vasya can write instead of name number 1 if Vasya is allowed to perform any number of the described actions As Vasya performs each action he chooses numbers i j k independently from the previous moves and his choice is based entirely on his will The sought number can be very large so you should only find it modulo 1000000007 1097
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1930f008632f27be854226f1fd1e3c106337af70db737b443f314bbb954c7ea
+size 973

@@ -1,9 +1,3 @@
-A and B                    
-
-https://codeforces.com/problemset/problem/1278/B
-
-greedy
-
-1500
-
-You are given two integers a and b. You can perform a sequence of operations: during the first operation you choose one of these numbers and increase it by 1; during the second operation you choose one of these numbers and increase it by 2, and so on. You choose the number of these operations yourself.For example, if a = 1 and b = 3, you can perform the following sequence of three operations:   add 1 to a, then a = 2 and b = 3;  add 2 to b, then a = 2 and b = 5;  add 3 to a, then a = 5 and b = 5. Calculate the minimum number of operations required to make a and b equal. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:d525bc7059b08ff877f5dcec3632698e1843dca59f10fd8d280a7d1dcd9617b1
+size 678

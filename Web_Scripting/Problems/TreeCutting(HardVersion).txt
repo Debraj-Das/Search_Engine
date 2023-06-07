@@ -1,9 +1,3 @@
-Tree Cutting (Hard Version)                    
-
-https://codeforces.com/problemset/problem/1118/F2
-
-combinatorics
-
-2700
-
-You are given an undirected tree of n vertices. Some vertices are colored one of the k colors, some are uncolored. It is guaranteed that the tree contains at least one vertex of each of the k colors. There might be no uncolored vertices.You choose a subset of exactly k - 1 edges and remove it from the tree. Tree falls apart into k connected components. Let's call this subset of edges nice if none of the resulting components contain vertices of different colors.How many nice subsets of edges are there in the given tree? Two subsets are considered different if there is some edge that is present in one subset and absent in the other.The answer may be large, so print it modulo 998244353.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c1b26114899940b6f41d804c9fabd68393d779ec723a1ed1404eca1c6f87760
+size 821

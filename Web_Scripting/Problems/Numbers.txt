@@ -1,9 +1,3 @@
-Numbers                    
-
-httpscodeforcescomproblemsetproblem241D
-
-
-
-2900
-
-You have a sequence of n distinct integers a1a2an 1ain You want to remove some integers in such a way that the resulting sequence of integers satisfies the following three conditions  the resulting sequence is not empty  the exclusive or xor operation of all the integers in the resulting sequence equals 0  if you write all the integers of the resulting sequence from beginning to the end in a row in the decimal numeral system and without any spaces the written number is divisible by p You are given the sequence of n integers a and a prime number p find a way to satisfy the described conditions
+version https://git-lfs.github.com/spec/v1
+oid sha256:7def4a1c71dfd9284d18c4cbc3ad3c580060d6f0bd3a3e2d79eab15ba5e46f16
+size 685

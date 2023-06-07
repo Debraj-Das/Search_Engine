@@ -1,9 +1,3 @@
-Friendly Numbers                    
-
-https://codeforces.com/problemset/problem/100/B
-
-*special problem
-
-1500
-
-Kiana thinks two integers are friends if and only if one of them divides the other one. For example, 12 and 4 are friends, also 6 and 6 are friends too, but 120 and 36 are not.A group of non-zero integers is called friendly, if each pair of its integers form a friend pair.You are given a group of non-zero integers. See if they're friendly.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc49b7b24404103c389e27f9256ed721c3ae78ffe7330f70ae89831ae303cb34
+size 460

@@ -1,9 +1,3 @@
-Mike and Foam                    
-
-httpscodeforcescomproblemsetproblem547C
-
-bitmasks
-
-2300
-
-Mike is a bartender at Ricos bar At Ricos they put beer glasses in a special shelf There are n kinds of beer at Ricos numbered from 1 to n ith kind of beer has ai milliliters of foam on it  Maxim is Mikes boss Today he told Mike to perform q queries Initially the shelf is empty In each request Maxim gives him a number x If beer number x is already in the shelf then Mike should remove it from the shelf otherwise he should put it in the shelfAfter each query Mike should tell him the score of the shelf Bears are geeks So they think that the score of a shelf is the number of pairs ij of glasses in the shelf such that ij and  where  is the greatest common divisor of numbers a and bMike is tired So he asked you to help him in performing these requests
+version https://git-lfs.github.com/spec/v1
+oid sha256:489ff8101faa9fea65d4d63698559ccda780c8d9591537bd2c545d477fb32877
+size 855

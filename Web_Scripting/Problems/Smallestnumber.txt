@@ -1,9 +1,3 @@
-Smallest number                    
-
-https://codeforces.com/problemset/problem/55/B
-
-brute force
-
-1600
-
-Recently, Vladimir got bad mark in algebra again. To avoid such unpleasant events in future he decided to train his arithmetic skills. He wrote four integer numbers a, b, c, d on the blackboard. During each of the next three minutes he took two numbers from the blackboard (not necessarily adjacent) and replaced them with their sum or their product. In the end he got one number. Unfortunately, due to the awful memory he forgot that number, but he remembers four original numbers, sequence of the operations and his surprise because of the very small result. Help Vladimir remember the forgotten number: find the smallest number that can be obtained from the original numbers by the given sequence of operations.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c25f53ae54e5dbd8b69ecce8524205c9fa8edfb961c080f5563a410c0ab49cc
+size 826

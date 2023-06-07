@@ -1,9 +1,3 @@
-Sasha and Sticks                    
-
-https://codeforces.com/problemset/problem/832/A
-
-games
-
-800
-
-It's one more school day now. Sasha doesn't like classes and is always bored at them. So, each day he invents some game and plays in it alone or with friends.Today he invented one simple game to play with Lena, with whom he shares a desk. The rules are simple. Sasha draws n sticks in a row. After that the players take turns crossing out exactly k sticks from left or right in each turn. Sasha moves first, because he is the inventor of the game. If there are less than k sticks on the paper before some turn, the game ends. Sasha wins if he makes strictly more moves than Lena. Sasha wants to know the result of the game before playing, you are to help him.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b859281b6d3963cda554031d720cb70709ae73a3d5d63e70dc6ac5a14a8d0d9a
+size 766

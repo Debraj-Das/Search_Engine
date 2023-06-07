@@ -1,9 +1,3 @@
-Recover the String                    
-
-httpscodeforcescomproblemsetproblem708B
-
-constructive algorithms
-
-1900
-
-For each string s consisting of characters 0 and 1 one can define four integers a00 a01 a10 and a11 where axy is the number of subsequences of length 2 of the string s equal to the sequence xy In these problem you are given four integers a00 a01 a10 a11 and have to find any nonempty string s that matches them or determine that there is no such string One can prove that if at least one answer exists there exists an answer of length no more than 1000000
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4583404ceb376f32f0ee00f93fae7ffd7467d4c2435fa96700abae6b10e5c73
+size 575

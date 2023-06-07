@@ -1,9 +1,3 @@
-Forever Winter                    
-
-https://codeforces.com/problemset/problem/1829/F
-
-dfs and similar
-
-1300
-
-A snowflake graph is generated from two integers x and y, both greater than 1, as follows:   Start with one central vertex.  Connect x new vertices to this central vertex.  Connect y new vertices to each of these x vertices.  For example, below is a snowflake graph for x=5 and y=3.  The snowflake graph above has a central vertex 15, then x=5 vertices attached to it (3, 6, 7, 8, and 20), and then y=3 vertices attached to each of those.  Given a snowflake graph, determine the values of x and y.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9704477db6dbf4e18fcdfb22c8be3a711e01c178001ad0a9b150a7869ac7b68
+size 614

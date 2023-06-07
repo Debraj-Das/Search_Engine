@@ -1,9 +1,3 @@
-Star                    
-
-https://codeforces.com/problemset/problem/171/B
-
-*special problem
-
-1300
-
-  
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa3017388cd92f02aa8f171d46e56d214ebb3ccda1132e6d288e84ac817ec52f
+size 109

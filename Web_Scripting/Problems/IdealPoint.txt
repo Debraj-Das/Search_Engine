@@ -1,9 +1,3 @@
-Ideal Point                    
-
-httpscodeforcescomproblemsetproblem1795B
-
-brute force
-
-900
-
-You are given n onedimensional segments each segment is denoted by two integers its endpointsLets define the function fx as the number of segments covering point x a segment covers the point x if l le x le r where l is the left endpoint and r is the right endpoint of the segmentAn integer point x is called ideal if it belongs to more segments than any other integer point ie fy  fx is true for any other integer point yYou are given an integer k Your task is to determine whether it is possible to remove some possibly zero segments so that the given point k becomes ideal
+version https://git-lfs.github.com/spec/v1
+oid sha256:131859b412929805a35ba1b8af22346439d386329aff1c864f02ec167a8dab37
+size 675

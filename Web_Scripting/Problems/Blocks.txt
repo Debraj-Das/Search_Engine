@@ -1,9 +1,3 @@
-Blocks                    
-
-https://codeforces.com/problemset/problem/1271/B
-
-greedy
-
-1300
-
-There are n blocks arranged in a row and numbered from left to right, starting from one. Each block is either black or white. You may perform the following operation zero or more times: choose two adjacent blocks and invert their colors (white block becomes black, and vice versa). You want to find a sequence of operations, such that they make all the blocks having the same color. You don't have to minimize the number of operations, but it should not exceed 3 \cdot n. If it is impossible to find such a sequence of operations, you need to report it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c8738a6e598b25715aa132fdd357695a831498dadcd001581d29ad669d15a62
+size 653

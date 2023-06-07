@@ -1,9 +1,3 @@
-Permutation Sort                    
-
-https://codeforces.com/problemset/problem/1525/B
-
-constructive algorithms
-
-900
-
-You are given a permutation a consisting of n numbers 1, 2, ..., n (a permutation is an array in which each element from 1 to n occurs exactly once).You can perform the following operation: choose some subarray (contiguous subsegment) of a and rearrange the elements in it in any way you want. But this operation cannot be applied to the whole array.For example, if a = [2, 1, 4, 5, 3] and we want to apply the operation to the subarray a[2, 4] (the subarray containing all elements from the 2-nd to the 4-th), then after the operation, the array can become a = [2, 5, 1, 4, 3] or, for example, a = [2, 1, 5, 4, 3].Your task is to calculate the minimum number of operations described above to sort the permutation a in ascending order.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfe3f8897a1f0b6a394d172ddb0d69a09789341bc6193a0ad4c1b790fc6c5ee6
+size 861

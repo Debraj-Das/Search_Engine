@@ -1,9 +1,3 @@
-Bear and Elections                    
-
-https://codeforces.com/problemset/problem/574/A
-
-greedy
-
-1200
-
-Limak is a grizzly bear who desires power and adoration. He wants to win in upcoming elections and rule over the Bearland.There are n candidates, including Limak. We know how many citizens are going to vote for each candidate. Now i-th candidate would get ai votes. Limak is candidate number 1. To win in elections, he must get strictly more votes than any other candidate.Victory is more important than everything else so Limak decided to cheat. He will steal votes from his opponents by bribing some citizens. To bribe a citizen, Limak must give him or her one candy - citizens are bears and bears like candies. Limak doesn't have many candies and wonders - how many citizens does he have to bribe?
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f3507ec3912e83e6d53d956cef71108c48774b8aa152370f3b4e3b87e9780b2
+size 811

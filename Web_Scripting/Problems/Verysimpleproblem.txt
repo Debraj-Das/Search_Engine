@@ -1,9 +1,3 @@
-Very simple problem                    
-
-https://codeforces.com/problemset/problem/55/E
-
-geometry
-
-2500
-
-You are given a convex polygon. Count, please, the number of triangles that contain a given point in the plane and their vertices are the vertices of the polygon. It is guaranteed, that the point doesn't lie on the sides and the diagonals of the polygon.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51a36c2b6c042e942a337e98d4940659a4e24325b600fc18c74d441e0c896098
+size 367

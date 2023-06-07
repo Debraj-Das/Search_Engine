@@ -1,9 +1,3 @@
-Forgotten Episode                    
-
-https://codeforces.com/problemset/problem/440/A
-
-implementation
-
-800
-
-Polycarpus adores TV series. Right now he is ready to finish watching a season of a popular sitcom "Graph Theory". In total, the season has n episodes, numbered with integers from 1 to n.Polycarpus watches episodes not one by one but in a random order. He has already watched all the episodes except for one. Which episode has Polycaprus forgotten to watch?
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc7b3fcb1b0d98175ccbab49f154131f9740edf2c4836b251d79ddeaf8b4fdaf
+size 474

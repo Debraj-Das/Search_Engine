@@ -1,9 +1,3 @@
-Right Triangles                    
-
-httpscodeforcescomproblemsetproblem52B
-
-combinatorics
-
-1600
-
-You are given a nm field consisting only of periods  and asterisks  Your task is to count all right triangles with two sides parallel to the square sides whose vertices are in the centers of cells A right triangle is a triangle in which one angle is a right angle that is a 90 degree angle
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c7367ea9921b2e8ade680e5f8c846fe6c4ad619603082e2057745e453d53f7c
+size 395

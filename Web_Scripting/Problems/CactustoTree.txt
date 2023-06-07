@@ -1,9 +1,3 @@
-Cactus to Tree                    
-
-https://codeforces.com/problemset/problem/980/F
-
-dp
-
-2900
-
-You are given a special connected undirected graph where each vertex belongs to at most one simple cycle.Your task is to remove as many edges as needed to convert this graph into a tree (connected graph with no cycles). For each node, independently, output the maximum distance between it and a leaf in the resulting tree, assuming you were to remove the edges in a way that minimizes this distance.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a361846f5d80b35ac9f17ac4ee68b8f19a9a583cf500f3ff2a2d2e58f66af5e
+size 502

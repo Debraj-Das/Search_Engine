@@ -1,9 +1,3 @@
-Makes And The Product                    
-
-httpscodeforcescomproblemsetproblem817B
-
-combinatorics
-
-1500
-
-After returning from the army Makes received a gift  an array a consisting of n positive integer numbers He hadnt been solving problems for a long time so he became interested to answer a particular question how many triples of indices ijk ijk such that aiajak is minimum possible are there in the array Help him with it
+version https://git-lfs.github.com/spec/v1
+oid sha256:486f0f8508be04cc8cb31cf9a972dd1aa9c2d7bb2aea78d339a45942dbb79834
+size 433

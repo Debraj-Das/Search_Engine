@@ -1,9 +1,3 @@
-Omkar and Last Class of Math                    
-
-https://codeforces.com/problemset/problem/1372/B
-
-greedy
-
-1300
-
-In Omkar's last class of math, he learned about the least common multiple, or LCM. LCM(a, b) is the smallest positive integer x which is divisible by both a and b.Omkar, having a laudably curious mind, immediately thought of a problem involving the LCM operation: given an integer n, find positive integers a and b such that a + b = n and LCM(a, b) is the minimum value possible.Can you help Omkar solve his ludicrously challenging math problem?
+version https://git-lfs.github.com/spec/v1
+oid sha256:1dfea93a6bd73a6f7671eb995b339e39273901d668f3c9c7a23d4b2f9ba79d1b
+size 567

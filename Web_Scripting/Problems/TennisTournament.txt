@@ -1,9 +1,3 @@
-Tennis Tournament                    
-
-httpscodeforcescomproblemsetproblem628A
-
-implementation
-
-1000
-
-A tennis tournament with n participants is running The participants are playing by an olympic system so the winners move on and the losers drop outThe tournament takes place in the following way below m is the number of the participants of the current round  let k be the maximal power of the number 2 such that km  k participants compete in the current round and a half of them passes to the next round the other mk participants pass to the next round directly  when only one participant remains the tournament finishes Each match requires b bottles of water for each participant and one bottle for the judge Besides p towels are given to each participant for the whole tournamentFind the number of bottles and towels needed for the tournamentNote that its a tennis tournament so in each match two participants compete one of them will win and the other will lose
+version https://git-lfs.github.com/spec/v1
+oid sha256:a521e10c9f2c20dbd33fdf03bab166ce6c5b4a53bc45d74a7338409ecb92790d
+size 974

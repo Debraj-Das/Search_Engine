@@ -1,9 +1,3 @@
-Polycarp and Letters                    
-
-httpscodeforcescomproblemsetproblem864B
-
-brute force
-
-1000
-
-Polycarp loves lowercase letters and dislikes uppercase ones Once he got a string s consisting only of lowercase and uppercase Latin lettersLet A be a set of positions in the string Lets call it pretty if following conditions are met  letters on positions from A in the string are all distinct and lowercase  there are no uppercase letters in the string which are situated between positions from A ie there is no such j that sj is an uppercase letter and a1ja2 for some a1 and a2 from A Write a program that will determine the maximum number of elements in a pretty set of positions
+version https://git-lfs.github.com/spec/v1
+oid sha256:39190026ed7781cc8fe0b11a13f468014270c5c97783ea65e78861c117cacebd
+size 692

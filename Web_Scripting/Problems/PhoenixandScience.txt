@@ -1,9 +1,3 @@
-Phoenix and Science                    
-
-https://codeforces.com/problemset/problem/1348/D
-
-binary search
-
-1900
-
-Phoenix has decided to become a scientist! He is currently investigating the growth of bacteria.Initially, on day 1, there is one bacterium with mass 1.Every day, some number of bacteria will split (possibly zero or all). When a bacterium of mass m splits, it becomes two bacteria of mass \frac{m}{2} each. For example, a bacterium of mass 3 can split into two bacteria of mass 1.5.Also, every night, the mass of every bacteria will increase by one.Phoenix is wondering if it is possible for the total mass of all the bacteria to be exactly n. If it is possible, he is interested in the way to obtain that mass using the minimum possible number of nights. Help him become the best scientist!
+version https://git-lfs.github.com/spec/v1
+oid sha256:daebafd0984523dfb2b8e277d69021be5d714c4c7961b30328863ed2554fc0e8
+size 811

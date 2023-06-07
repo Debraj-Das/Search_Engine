@@ -1,9 +1,3 @@
-Cards                    
-
-https://codeforces.com/problemset/problem/1278/F
-
-combinatorics
-
-2600
-
-Consider the following experiment. You have a deck of m cards, and exactly one card is a joker. n times, you do the following: shuffle the deck, take the top card of the deck, look at it and return it into the deck.Let x be the number of times you have taken the joker out of the deck during this experiment. Assuming that every time you shuffle the deck, all m! possible permutations of cards are equiprobable, what is the expected value of x^k? Print the answer modulo 998244353.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3146dffbdbceca7f30bfdb7e261ccaa6473346a793bf801ff45305d1081bad8e
+size 587

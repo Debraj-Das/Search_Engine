@@ -1,9 +1,3 @@
-Useful Edges                    
-
-https://codeforces.com/problemset/problem/1482/F
-
-graphs
-
-2400
-
-You are given a weighted undirected graph on n vertices along with q triples (u, v, l), where in each triple u and v are vertices and l is a positive integer. An edge e is called useful if there is at least one triple (u, v, l) and a path (not necessarily simple) with the following properties:  u and v are the endpoints of this path,  e is one of the edges of this path,  the sum of weights of all edges on this path doesn't exceed l. Please print the number of useful edges in this graph.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab89f126a1525b23cc1a25f12abae0efb780a51565da1bd5eaabbcc1067179af
+size 597

@@ -1,9 +1,3 @@
-Removing Smallest Multiples                    
-
-https://codeforces.com/problemset/problem/1734/C
-
-greedy
-
-1200
-
-You are given a set S, which contains the first n positive integers: 1, 2, \ldots, n.You can perform the following operation on S any number of times (possibly zero):   Choose a positive integer k where 1 \le k \le n, such that there exists a multiple of k in S. Then, delete the smallest multiple of k from S. This operation requires a cost of k. You are given a set T, which is a subset of S. Find the minimum possible total cost of operations such that S would be transformed into T. We can show that such a transformation is always possible.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34c3665f2cc43cad4aed6f3601138560e6819ffcbdcc31f264317bcba42577bf
+size 666

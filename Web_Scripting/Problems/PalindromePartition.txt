@@ -1,9 +1,3 @@
-Palindrome Partition                    
-
-httpscodeforcescomproblemsetproblem932G
-
-dp
-
-2900
-
-Given a string s find the number of ways to split s to substrings such that if there are k substrings p1p2p3pk in partition then pipki1 for all i 1ik and k is evenSince the number of ways can be large print it modulo 1097
+version https://git-lfs.github.com/spec/v1
+oid sha256:17aad06b69a9d7cd7acaba7df6d8b0087d696f5a161197f57075082fc6e9f85d
+size 322

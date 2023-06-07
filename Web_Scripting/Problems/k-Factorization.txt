@@ -1,9 +1,3 @@
-k-Factorization                    
-
-https://codeforces.com/problemset/problem/797/A
-
-implementation
-
-1100
-
-Given a positive integer n, find k integers (not necessary distinct) such that all these integers are strictly greater than 1, and their product is equal to n.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5f11cde18fec00837d74b88e9808074de589bf9b28d0d990c20aa249fc079d2
+size 275

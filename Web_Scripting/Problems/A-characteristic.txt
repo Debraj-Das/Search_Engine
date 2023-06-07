@@ -1,9 +1,3 @@
-A-characteristic                    
-
-https://codeforces.com/problemset/problem/1823/A
-
-combinatorics
-
-800
-
-Consider an array a_1, a_2, \dots, a_n consisting of numbers 1 and -1. Define A-characteristic of this array as a number of pairs of indices 1 \le i < j \le n, such that a_i \cdot a_j = 1.Find any array a with given length n with A-characteristic equal to the given value k.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4a0937b51338379c6c59220ac1061a46485260cc62857cdb34464475fcc18ad
+size 390

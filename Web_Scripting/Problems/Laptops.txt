@@ -1,9 +1,3 @@
-Laptops                    
-
-https://codeforces.com/problemset/problem/456/A
-
-sortings
-
-1100
-
-One day Dima and Alex had an argument about the price and quality of laptops. Dima thinks that the more expensive a laptop is, the better it is. Alex disagrees. Alex thinks that there are two laptops, such that the price of the first laptop is less (strictly smaller) than the price of the second laptop but the quality of the first laptop is higher (strictly greater) than the quality of the second laptop.Please, check the guess of Alex. You are given descriptions of n laptops. Determine whether two described above laptops exist.
+version https://git-lfs.github.com/spec/v1
+oid sha256:386dcc21b12d219c2500d5319b4770cbd83ba388997ff13d4832b8edac76c137
+size 635

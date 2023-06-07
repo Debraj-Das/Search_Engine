@@ -1,9 +1,3 @@
-Sum of Medians                    
-
-httpscodeforcescomproblemsetproblem85D
-
-binary search
-
-2300
-
-In one wellknown algorithm of finding the kth order statistics we should divide all elements into groups of five consecutive elements and find the median of each five A median is called the middle element of a sorted array its the third largest element for a group of five To increase the algorithms performance speed on a modern video card you should be able to find a sum of medians in each five of the arrayA sum of medians of a sorted kelement set Sa1a2ak where a1a2a3ak will be understood by as The  operator stands for taking the remainder that is  stands for the remainder of dividing x by yTo organize exercise testing quickly calculating the sum of medians for a changing set was needed
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbbb8a7f7919fe10704a60a6ed243e370c8baf7038649dd0ac90f392c194e03c
+size 800

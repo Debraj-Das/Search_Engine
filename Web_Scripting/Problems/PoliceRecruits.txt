@@ -1,9 +1,3 @@
-Police Recruits                    
-
-https://codeforces.com/problemset/problem/427/A
-
-implementation
-
-800
-
-The police department of your city has just started its journey. Initially, they don’t have any manpower. So, they started hiring new recruits in groups.Meanwhile, crimes keeps occurring within the city. One member of the police force can investigate only one crime during his/her lifetime.If there is no police officer free (isn't busy with crime) during the occurrence of a crime, it will go untreated.Given the chronological order of crime occurrences and recruit hirings, find the number of crimes which will go untreated.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3db79a4802681ca22d94905ed5794b2338def2f01a5122a0cd04bf64f7c4603
+size 641

@@ -1,9 +1,3 @@
-Triangle                    
-
-https://codeforces.com/problemset/problem/407/A
-
-brute force
-
-1600
-
-There is a right triangle with legs of length a and b. Your task is to determine whether it is possible to locate the triangle on the plane in such a way that none of its sides is parallel to the coordinate axes. All the vertices must have integer coordinates. If there exists such a location, you have to output the appropriate coordinates of vertices.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a9052a4e56aa56d813bad90b4e067033be33349556e7f279d913eb373d3132e
+size 459

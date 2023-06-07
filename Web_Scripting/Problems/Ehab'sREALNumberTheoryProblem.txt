@@ -1,9 +1,3 @@
-Ehab's REAL Number Theory Problem                    
-
-https://codeforces.com/problemset/problem/1325/E
-
-brute force
-
-2600
-
-You are given an array a of length n that has a special condition: every element in this array has at most 7 divisors. Find the length of the shortest non-empty subsequence of this array product of whose elements is a perfect square.A sequence a is a subsequence of an array b if a can be obtained from b by deletion of several (possibly, zero or all) elements.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28e227207dfe01915b581643d8f77fec4fd5264a50984c35fdddd79b459afe64
+size 493

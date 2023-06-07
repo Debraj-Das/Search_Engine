@@ -1,9 +1,3 @@
-Alternating Tree                    
-
-https://codeforces.com/problemset/problem/960/E
-
-combinatorics
-
-2300
-
-Given a tree with n nodes numbered from 1 to n. Each node i has an associated value V_i.If the simple path from u_1 to u_m consists of m nodes namely u_1 \rightarrow u_2 \rightarrow u_3 \rightarrow \dots u_{m-1} \rightarrow u_{m}, then its alternating function A(u_{1},u_{m}) is defined as A(u_{1},u_{m}) = \sum\limits_{i=1}^{m} (-1)^{i+1} \cdot V_{u_{i}}. A path can also have 0 edges, i.e. u_{1}=u_{m}.Compute the sum of alternating functions of all unique simple paths. Note that the paths are directed: two paths are considered different if the starting vertices differ or the ending vertices differ. The answer may be large so compute it modulo 10^{9}+7. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f02f2a8ad5b2f6bcfb47048ea13f5b74cc87ef5968bc396ecec9221172a0b47
+size 776

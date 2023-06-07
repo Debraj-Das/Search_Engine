@@ -1,9 +1,3 @@
-Burglar and Matches                    
-
-https://codeforces.com/problemset/problem/16/B
-
-greedy
-
-900
-
-A burglar got into a matches warehouse and wants to steal as many matches as possible. In the warehouse there are m containers, in the i-th container there are ai matchboxes, and each matchbox contains bi matches. All the matchboxes are of the same size. The burglar's rucksack can hold n matchboxes exactly. Your task is to find out the maximum amount of matches that a burglar can carry away. He has no time to rearrange matches in the matchboxes, that's why he just chooses not more than n matchboxes so that the total amount of matches in them is maximal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f218d3fe407db63896370dea170668d311d1b0dad4a1b824fb0787fe6ce9f52
+size 669

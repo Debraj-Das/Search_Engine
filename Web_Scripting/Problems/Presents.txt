@@ -1,9 +1,3 @@
-Presents                    
-
-https://codeforces.com/problemset/problem/64/D
-
-*special problem
-
-1800
-
-You are given the prices of three presents. Also there are three sisters. It is known that the most valuable present is for the eldest sister. The second (by price) is for the second sister. And the less valuable present is for the youngest sister. If two (or three) presents have the same price, corresponding sisters may get the in a random way.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df88babe48f648c36235f575cd8091839e2f7df24439bbc515be59136a385167
+size 457

@@ -1,9 +1,3 @@
-Sereja and Prefixes                    
-
-httpscodeforcescomproblemsetproblem380A
-
-binary search
-
-1600
-
-Sereja loves number sequences very much Thats why he decided to make himself a new one following a certain algorithmSereja takes a blank piece of paper Then he starts writing out the sequence in m stages Each time he either adds a new number to the end of the sequence or takes l first elements of the current sequence and adds them c times to the end More formally if we represent the current sequence as a1a2an then after we apply the described operation the sequence transforms into a1a2ana1a2al the block in the square brackets must be repeated c times A day has passed and Sereja has completed the sequence He wonders what are the values of some of its elements Help Sereja
+version https://git-lfs.github.com/spec/v1
+oid sha256:68bd9ebad89dfe7052a3a932a15f12597946974d9199fe74134f77186bf14fc4
+size 789

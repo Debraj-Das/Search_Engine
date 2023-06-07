@@ -1,9 +1,3 @@
-Resource Distribution                    
-
-https://codeforces.com/problemset/problem/925/B
-
-binary search
-
-1700
-
-One department of some software company has n servers of different specifications. Servers are indexed with consecutive integers from 1 to n. Suppose that the specifications of the j-th server may be expressed with a single integer number c_j of artificial resource units.In order for production to work, it is needed to deploy two services S_1 and S_2 to process incoming requests using the servers of the department. Processing of incoming requests of service S_i takes x_i resource units.The described situation happens in an advanced company, that is why each service may be deployed using not only one server, but several servers simultaneously. If service S_i is deployed using k_i servers, then the load is divided equally between these servers and each server requires only x_i / k_i (that may be a fractional number) resource units.Each server may be left unused at all, or be used for deploying exactly one of the services (but not for two of them simultaneously). The service should not use more resources than the server provides.Determine if it is possible to deploy both services using the given servers, and if yes, determine which servers should be used for deploying each of the services.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84b6dc5a0986fa1327c3546d3e0df47c82e045cd1e861d91d476b7fa32a6da7a
+size 1326

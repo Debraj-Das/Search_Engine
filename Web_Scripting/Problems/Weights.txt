@@ -1,9 +1,3 @@
-Weights                    
-
-httpscodeforcescomproblemsetproblem1599A
-
-constructive algorithms
-
-2600
-
-You are given an array A of length N weights of masses A1 A2ANNo two weights have the same mass You can put every weight on one side of the balance left or rightYoudont have to putweightsin order A1ANThere is also astring Sconsisting of characters L and Rmeaning that after putting theithweight not Ai butithweight of your choice left or right side of the balance should be heavier Find the order of putting the weights on the balance such that rules of string S are satisfied
+version https://git-lfs.github.com/spec/v1
+oid sha256:39249f01132795b4ee1c4848e46145bd8f1dc91e3930b067f5bd2b90a757732c
+size 586

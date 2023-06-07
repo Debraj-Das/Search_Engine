@@ -1,9 +1,3 @@
-Power Sequence                    
-
-https://codeforces.com/problemset/problem/1397/B
-
-brute force
-
-1500
-
-Let's call a list of positive integers a_0, a_1, ..., a_{n-1} a power sequence if there is a positive integer c, so that for every 0 \le i \le n-1 then a_i = c^i.Given a list of n positive integers a_0, a_1, ..., a_{n-1}, you are allowed to:  Reorder the list (i.e. pick a permutation p of \{0,1,...,n - 1\} and change a_i to a_{p_i}), then  Do the following operation any number of times: pick an index i and change a_i to a_i - 1 or a_i + 1 (i.e. increment or decrement a_i by 1) with a cost of 1. Find the minimum cost to transform a_0, a_1, ..., a_{n-1} into a power sequence.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03e4743de78dec9be8a429f6e0847724efb1c0c1168b620ac6029a9a906a3122
+size 693

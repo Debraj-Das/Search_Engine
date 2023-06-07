@@ -1,9 +1,3 @@
-Min Cost String                    
-
-https://codeforces.com/problemset/problem/1511/D
-
-brute force
-
-1600
-
-Let's define the cost of a string s as the number of index pairs i and j (1 \le i < j < |s|) such that s_i = s_j and s_{i+1} = s_{j+1}.You are given two positive integers n and k. Among all strings with length n that contain only the first k characters of the Latin alphabet, find a string with minimum possible cost. If there are multiple such strings with minimum cost — find any of them.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d82cb6a5c6159a51ea46282492d0249f619ea02b3b48752c3a1ea16f3ef06d2d
+size 504

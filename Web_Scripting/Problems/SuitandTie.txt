@@ -1,9 +1,3 @@
-Suit and Tie                    
-
-https://codeforces.com/problemset/problem/995/B
-
-greedy
-
-1400
-
-Allen is hosting a formal dinner party. 2n people come to the event in n pairs (couples). After a night of fun, Allen wants to line everyone up for a final picture. The 2n people line up, but Allen doesn't like the ordering. Allen prefers if each pair occupies adjacent positions in the line, as this makes the picture more aesthetic.Help Allen find the minimum number of swaps of adjacent positions he must perform to make it so that each couple occupies adjacent positions in the line.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd334e1660934aef9cb1478bf1c22c0155ba159a4a26a10999e80e9c433233ee
+size 592

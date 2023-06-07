@@ -1,9 +1,3 @@
-Mysterious strings                    
-
-httpscodeforcescomproblemsetproblem290A
-
-special problem
-
-1400
-
-InputThe input contains a single integer a 1a40OutputOutput a single stringExamplesInput2OutputAdamsInput8OutputVan BurenInput29OutputHarding
+version https://git-lfs.github.com/spec/v1
+oid sha256:2483070d09b2d8263f0549ce6253ccd9f00839a0664d68ffd1e4df7f323d6bd8
+size 253

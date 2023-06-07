@@ -1,9 +1,3 @@
-Diverse Permutation                    
-
-httpscodeforcescomproblemsetproblem482A
-
-constructive algorithms
-
-1200
-
-Permutation p is an ordered set of integers p1p2pn consisting of n distinct positive integers not larger than n Well denote as n the length of permutation p1p2pnYour task is to find such permutation p of length n that the group of numbers p1p2p2p3pn1pn has exactly k distinct elements
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ef53ab9995bd474af3fd3357bf25408198eff77eee7778907287d56683733a7
+size 405

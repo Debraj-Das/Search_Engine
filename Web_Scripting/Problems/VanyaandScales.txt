@@ -1,9 +1,3 @@
-Vanya and Scales                    
-
-httpscodeforcescomproblemsetproblem552C
-
-brute force
-
-1900
-
-Vanya has a scales for weighing loads and weights of masses w0w1w2w100 grams where w is some integer not less than 2 exactly one weight of each nominal value Vanya wonders whether he can weight an item with mass m using the given weights if the weights can be put on both pans of the scales Formally speaking your task is to determine whether it is possible to place an item of mass m and some weights on the left pan of the scales and some weights on the right pan of the scales so that the pans of the scales were in balance
+version https://git-lfs.github.com/spec/v1
+oid sha256:62680d33d288824bb45a4c55cbe03213830eff63bfbf5e01cab44ea8123f62a3
+size 632

@@ -1,9 +1,3 @@
-Generate Bell state                    
-
-https://codeforces.com/problemset/problem/1001/B
-
-*special problem
-
-1400
-
-You are given two qubits in state  and an integer index. Your task is to create one of the Bell states on them according to the index:    
+version https://git-lfs.github.com/spec/v1
+oid sha256:189040ef091283927d5c309bb61731d8c79fd0969e797756438e8b6f56f20102
+size 261

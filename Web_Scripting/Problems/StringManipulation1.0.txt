@@ -1,9 +1,3 @@
-String Manipulation 1.0                    
-
-https://codeforces.com/problemset/problem/159/C
-
-*special problem
-
-1400
-
-One popular website developed an unusual username editing procedure. One can change the username only by deleting some characters from it: to change the current name s, a user can pick number p and character c and delete the p-th occurrence of character c from the name. After the user changed his name, he can't undo the change.For example, one can change name "arca" by removing the second occurrence of character "a" to get "arc". Polycarpus learned that some user initially registered under nickname t, where t is a concatenation of k copies of string s. Also, Polycarpus knows the sequence of this user's name changes. Help Polycarpus figure out the user's final name.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1711f28e6979e42e7509b80b7e2966bfb93731eb461388c2e067a1eb96eb9c8c
+size 799

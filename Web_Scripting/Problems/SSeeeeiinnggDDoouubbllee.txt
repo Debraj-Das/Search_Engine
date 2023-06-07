@@ -1,9 +1,3 @@
-SSeeeeiinngg DDoouubbllee                    
-
-https://codeforces.com/problemset/problem/1758/A
-
-constructive algorithms
-
-800
-
-A palindrome is a string that reads the same backward as forward. For example, the strings \texttt{z}, \texttt{aaa}, \texttt{aba}, and \texttt{abccba} are palindromes, but \texttt{codeforces} and \texttt{ab} are not.The double of a string s is obtained by writing each character twice. For example, the double of \texttt{seeing} is \texttt{sseeeeiinngg}.Given a string s, rearrange its double to form a palindrome. Output the rearranged string. It can be proven that such a rearrangement always exists.
+version https://git-lfs.github.com/spec/v1
+oid sha256:511a0e4ece31f1db7663148e83d64443f4187028440c4e56bcc80a14a8ded582
+size 637

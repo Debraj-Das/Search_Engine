@@ -1,9 +1,3 @@
-Square Table                    
-
-httpscodeforcescomproblemsetproblem417E
-
-constructive algorithms
-
-2400
-
-While resting on the ship after the Russian Code Cup a boy named Misha invented an interesting game He promised to give his quadrocopter to whoever will be the first one to make a rectangular table of size nm consisting of positive integers such that the sum of the squares of numbers for each row and each column was also a squareSince checking the correctness of the table manually is difficult Misha asks you to make each number in the table to not exceed 108
+version https://git-lfs.github.com/spec/v1
+oid sha256:344f0efa6bbfe10aedda7cc9ad6aec4296128cf08cad9364a5681d8afd7e125e
+size 576

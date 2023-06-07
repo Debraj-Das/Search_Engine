@@ -1,9 +1,3 @@
-Painting Numbers                    
-
-https://codeforces.com/problemset/problem/1488/G
-
-*special problem
-
-2500
-
-You are given n integers, each integer is from 1 to n, all of them are pairwise distinct. You have to paint them red and blue (each integer should have exactly one color).The cost of painting is the number of pairs (x, y) such that y \bmod x = 0, y is red and x is blue.For each k \in [1, n], calculate the maximum cost of painting if exactly k integers should have a red color.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f3fbe8947e3455732979cacdee4378b433e8d99701c4416f5834d6821e128e6
+size 498

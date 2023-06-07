@@ -1,9 +1,3 @@
-Yet Another Substring Reverse                    
-
-https://codeforces.com/problemset/problem/1234/F
-
-bitmasks
-
-2200
-
-You are given a string s consisting only of first 20 lowercase Latin letters ('a', 'b', ..., 't').Recall that the substring s[l; r] of the string s is the string s_l s_{l + 1} \dots s_r. For example, the substrings of "codeforces" are "code", "force", "f", "for", but not "coder" and "top".You can perform the following operation no more than once: choose some substring s[l; r] and reverse it (i.e. the string s_l s_{l + 1} \dots s_r becomes s_r s_{r - 1} \dots s_l).Your goal is to maximize the length of the maximum substring of s consisting of distinct (i.e. unique) characters.The string consists of distinct characters if no character in this string appears more than once. For example, strings "abcde", "arctg" and "minecraft" consist of distinct characters but strings "codeforces", "abacaba" do not consist of distinct characters.
+version https://git-lfs.github.com/spec/v1
+oid sha256:98f373789eb19fa6aacc87a02cba2bcda9a75d2a6f287d358a334d59b6a8330a
+size 964

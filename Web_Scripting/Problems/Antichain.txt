@@ -1,9 +1,3 @@
-Antichain                    
-
-httpscodeforcescomproblemsetproblem353E
-
-dp
-
-2200
-
-You have a directed acyclic graph G consisting of n vertexes numbered from 0 to n1 The graph contains n edges numbered from 0 to n1 An edge with number i connects vertexes i and i1modn and it can be directed in either direction from i to i1modn or vise versaOperation xmody means taking the remainder after dividing number x by number yLets call two vertexes u and v in graph G comparable if the graph contains a path either from u to v or from v to u Well assume that an antichain is a set of vertexes of graph G where any two distinct vertexes are not comparable The size of an antichain is the number of vertexes in the corresponding set An antichain is maximum if the graph doesnt have antichains of a larger sizeYour task is to find the size of the maximum antichain in graph G
+version https://git-lfs.github.com/spec/v1
+oid sha256:3534320871741839381d9249f981b16aff5ef65e73fe4dde03430ca578112fbd
+size 872

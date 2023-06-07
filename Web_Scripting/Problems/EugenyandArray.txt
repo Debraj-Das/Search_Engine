@@ -1,9 +1,3 @@
-Eugeny and Array                    
-
-httpscodeforcescomproblemsetproblem302A
-
-implementation
-
-800
-
-Eugeny has array aa1a2an consisting of n integers Each integer ai equals to 1 or to 1 Also he has m queries  Query number i is given as a pair of integers li ri 1lirin  The response to the query will be integer 1 if the elements of array a can be rearranged so as the sum aliali1ari0 otherwise the response to the query will be integer 0 Help Eugeny answer all his queries
+version https://git-lfs.github.com/spec/v1
+oid sha256:080bda1bd59376c3248c05ad9620b092028c0efc36503146b3ab43dd0f5a7e7d
+size 480

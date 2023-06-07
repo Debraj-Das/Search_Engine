@@ -1,9 +1,3 @@
-Idempotent functions                    
-
-httpscodeforcescomproblemsetproblem542C
-
-constructive algorithms
-
-2000
-
-Some time ago Leonid have known about idempotent functions Idempotent function defined on a set 12n is such function  that for any  the formula ggxgx holdsLets denote as fkx the function f applied k times to the value x More formally f1xfx fkxffk1x for each k1You are given some function  Your task is to find minimum positive integer k such that function fkx is idempotent
+version https://git-lfs.github.com/spec/v1
+oid sha256:0390e70e2f1bb94403c7e7dffeb2d5a4bfabc6ebe3c1bfffa43b09f6265121c6
+size 495

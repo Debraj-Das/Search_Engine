@@ -1,9 +1,3 @@
-Division and Union                    
-
-https://codeforces.com/problemset/problem/1101/C
-
-sortings
-
-1500
-
-There are n segments [l_i, r_i] for 1 \le i \le n. You should divide all segments into two non-empty groups in such way that there is no pair of segments from different groups which have at least one common point, or say that it's impossible to do it. Each segment should belong to exactly one group.To optimize testing process you will be given multitest.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa698422eb5d45762ef9a39a189838e0e17a9841b225e7e22250f1353e7db45a
+size 470

@@ -1,9 +1,3 @@
-Knapsack                    
-
-https://codeforces.com/problemset/problem/1132/E
-
-dfs and similar
-
-2300
-
-You have a set of items, each having some integer weight not greater than 8. You denote that a subset of items is good if total weight of items in the subset does not exceed W.You want to calculate the maximum possible weight of a good subset of items. Note that you have to consider the empty set and the original set when calculating the answer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84652cc9930f0f644f0746f235902d8bb3f1eaa33b5d9b73f6cfad968c201e42
+size 458

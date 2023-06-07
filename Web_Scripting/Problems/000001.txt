@@ -1,9 +1,3 @@
-000001                    
-
-httpscodeforcescomproblemsetproblem409F
-
-special problem
-
-1900
-
-InputThe input contains a single integer a 1a64OutputOutput a single integerExamplesInput2Output1Input4Output2Input27Output5Input42Output6
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea276d1f91627682ba5931b9bb88bbb0a8d033c9252ab100e36baf223d130e81
+size 238

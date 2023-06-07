@@ -1,9 +1,3 @@
-Painting Eggs                    
-
-https://codeforces.com/problemset/problem/282/B
-
-greedy
-
-1500
-
-The Bitlandians are quite weird people. They have very peculiar customs.As is customary, Uncle J. wants to have n eggs painted for Bitruz (an ancient Bitland festival). He has asked G. and A. to do the work.The kids are excited because just as is customary, they're going to be paid for the job! Overall uncle J. has got n eggs. G. named his price for painting each egg. Similarly, A. named his price for painting each egg. It turns out that for each egg the sum of the money both A. and G. want for the painting equals 1000.Uncle J. wants to distribute the eggs between the children so as to give each egg to exactly one child. Also, Uncle J. wants the total money paid to A. to be different from the total money paid to G. by no more than 500.Help Uncle J. Find the required distribution of eggs or otherwise say that distributing the eggs in the required manner is impossible.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d93dae4642e69153cf5cf7d2b1860c04e7c3079bc14dc0370b7d615102fed362
+size 985

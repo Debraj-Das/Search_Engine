@@ -1,9 +1,3 @@
-Without Text                    
-
-https://codeforces.com/problemset/problem/656/C
-
-*special problem
-
-2000
-
-  You can preview the image in better quality by the link: http://assets.codeforces.com/files/656/without-text.png
+version https://git-lfs.github.com/spec/v1
+oid sha256:889b6c9bb7a42aa4dd0fffaa5cc763c18321a066339dedf613e281867434d0b5
+size 229

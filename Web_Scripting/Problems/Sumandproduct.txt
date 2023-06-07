@@ -1,9 +1,3 @@
-Sum and product                    
-
-https://codeforces.com/problemset/problem/530/E
-
-*special problem
-
-1700
-
-You are given integers N and D. Find N positive integers x1...xN such that the difference of their product and their sum equals D.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bacdc19fc2c485983533c3f5a92eb68c34ece9de24890c011698f9e5e35fdb02
+size 248

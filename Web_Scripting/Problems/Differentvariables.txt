@@ -1,9 +1,3 @@
-Different variables                    
-
-httpscodeforcescomproblemsetproblem530I
-
-special problem
-
-2500
-
-N variables X1XN can have positive integer values You are given K constraints for these value that look like the values of variables Xi1Xi2XiM are different Among all possible lists of values of these variables that satisfy these constraints select the ones which have minimum possible maxXi Output lexicographically least of these lists
+version https://git-lfs.github.com/spec/v1
+oid sha256:b942b7b4e5e7e546ebe6528f0798c9da780ec7a9f692119dd4cde52c415d5773
+size 450

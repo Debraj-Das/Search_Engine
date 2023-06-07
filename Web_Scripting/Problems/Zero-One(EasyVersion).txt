@@ -1,9 +1,3 @@
-Zero-One (Easy Version)                    
-
-https://codeforces.com/problemset/problem/1733/D1
-
-constructive algorithms
-
-1400
-
-This is the easy version of the problem. In this version, n \le 3000, x \ge y holds. You can make hacks only if both versions of the problem are solved.You are given two binary strings a and b, both of length n. You can do the following operation any number of times (possibly zero).   Select two indices l and r (l < r).  Change a_l to (1 - a_l), and a_r to (1 - a_r).  If l + 1 = r, the cost of the operation is x. Otherwise, the cost is y. You have to find the minimum cost needed to make a equal to b or say there is no way to do so.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2261f2719f9a605cf9c9ad990b89646ebb06aa2120110e1eca92953b913aed22
+size 672

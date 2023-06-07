@@ -1,9 +1,3 @@
-CAPS LOCK ON                    
-
-https://codeforces.com/problemset/problem/130/G
-
-*special problem
-
-1700
-
-You are given a string which consists of letters and other characters. Convert it to uppercase, i.e., replace all lowercase letters with corresponding uppercase ones. Keep the rest of characters unchanged.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e018580dc2abefee1137ea69a6dce261a1f1bd7e46e72aee9f9b1e367ddb7f5b
+size 320

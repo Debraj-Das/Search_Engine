@@ -1,9 +1,3 @@
-Ordinary Numbers                    
-
-https://codeforces.com/problemset/problem/1520/B
-
-brute force
-
-800
-
-Let's call a positive integer n ordinary if in the decimal notation all its digits are the same. For example, 1, 2 and 99 are ordinary numbers, but 719 and 2021 are not ordinary numbers.For a given number n, find the number of ordinary numbers among the numbers from 1 to n.
+version https://git-lfs.github.com/spec/v1
+oid sha256:468ddad9b7d05c0b0a065312043ca9fd59bffcc155a39b300f2131cdef8aa7ee
+size 388

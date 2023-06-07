@@ -1,9 +1,3 @@
-Transforming Sequence                    
-
-httpscodeforcescomproblemsetproblem623E
-
-combinatorics
-
-3300
-
-Lets define the transformation P of a sequence of integers a1a2an as b1b2bn where bia1a2ai for all i12n where  is the bitwise OR operationVasya consequently applies the transformation P to all sequences of length n consisting of integers from 1 to 2k1 inclusive He wants to know how many of these sequences have such property that their transformation is a strictly increasing sequence Help him to calculate this number modulo 1097
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d0bf97541585b8cd0d875dd3d75d178968a090a99476d6e8293c181a5c38e9d
+size 544

@@ -1,9 +1,3 @@
-Vanya and Treasure                    
-
-httpscodeforcescomproblemsetproblem677D
-
-data structures
-
-2300
-
-Vanya is in the palace that can be represented as a grid nm Each room contains a single chest an the room located in the ith row and jth columns contains the chest of type aij Each chest of type xp1 contains a key that can open any chest of type x1 and all chests of type 1 are not locked There is exactly one chest of type p and it contains a treasureVanya starts in cell 11 top left corner What is the minimum total distance Vanya has to walk in order to get the treasure Consider the distance between cell r1c1 the cell in the row r1 and column c1 and r2c2 is equal to r1r2c1c2
+version https://git-lfs.github.com/spec/v1
+oid sha256:79720d2fd051eb59785af6903c85a2df82e29585ccee9786647261c02ba6723a
+size 692

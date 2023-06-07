@@ -1,9 +1,3 @@
-2 + 2 != 4                    
-
-https://codeforces.com/problemset/problem/952/F
-
-
-
-2400
-
-One very experienced problem writer decided to prepare a problem for April Fools Day contest. The task was very simple - given an arithmetic expression, return the result of evaluating this expression. However, looks like there is a bug in the reference solution...
+version https://git-lfs.github.com/spec/v1
+oid sha256:31605ecd5d06cb6743534e3594175da41ab0384f5f37db061f4801362acf1e12
+size 362

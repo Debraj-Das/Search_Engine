@@ -1,9 +1,3 @@
-Almost All Divisors                    
-
-https://codeforces.com/problemset/problem/1165/D
-
-math
-
-1600
-
-We guessed some integer number x. You are given a list of almost all its divisors. Almost all means that there are all divisors except 1 and x in the list.Your task is to find the minimum possible integer x that can be the guessed number, or say that the input data is contradictory and it is impossible to find such number.You have to answer t independent queries.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0df79bbf9587317d7ffdc9ca3bbe7873e6eb20f6b0871903a635a44ed0a170cb
+size 476

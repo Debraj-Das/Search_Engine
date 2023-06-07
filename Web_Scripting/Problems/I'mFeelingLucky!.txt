@@ -1,9 +1,3 @@
-I'm Feeling Lucky!                    
-
-https://codeforces.com/problemset/problem/952/D
-
-probabilities
-
-1800
-
-  You have one chip and one chance to play roulette. Are you feeling lucky?
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c86607a2ce8ce944e7ee33bdaa9c51cf512bbedc7c795254049220977491dcc
+size 193

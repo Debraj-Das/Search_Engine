@@ -1,9 +1,3 @@
-Dreamoon and Sums                    
-
-httpscodeforcescomproblemsetproblem476C
-
-math
-
-1600
-
-Dreamoon loves summing up something for no reason One day he obtains two integers a and b occasionally He wants to calculate the sum of all nice integers Positive integer x is called nice if  and  where k is some integer number in range 1aBy  we denote the quotient of integer division of x and y By  we denote the remainder of integer division of x and y You can read more about these operations here httpgooglAcsXhTThe answer may be large so please print its remainder modulo 1000000007 1097 Can you compute it faster than Dreamoon
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc5c4d5b4d3af66f0acd36812ee13705d6ac97ebde84a1fbb9fd1200c89b0516
+size 633

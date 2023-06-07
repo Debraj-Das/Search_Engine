@@ -1,9 +1,3 @@
-Clothes                    
-
-https://codeforces.com/problemset/problem/102/A
-
-brute force
-
-1200
-
-A little boy Gerald entered a clothes shop and found out something very unpleasant: not all clothes turns out to match. For example, Gerald noticed that he looks rather ridiculous in a smoking suit and a baseball cap.Overall the shop sells n clothing items, and exactly m pairs of clothing items match. Each item has its price, represented by an integer number of rubles. Gerald wants to buy three clothing items so that they matched each other. Besides, he wants to spend as little money as possible. Find the least possible sum he can spend.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc13a6ff92c0ccdbc10a4a1cb8b5ed40dafa1d76b279d653923e488e61dde805
+size 648

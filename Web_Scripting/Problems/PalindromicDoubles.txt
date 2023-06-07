@@ -1,9 +1,3 @@
-Palindromic Doubles                    
-
-https://codeforces.com/problemset/problem/1488/E
-
-*special problem
-
-2200
-
-A subsequence is a sequence that can be obtained from another sequence by removing some elements without changing the order of the remaining elements.A palindromic sequence is a sequence that is equal to the reverse of itself.You are given a sequence of n integers a_1, a_2, \dots, a_n. Any integer value appears in a no more than twice.What is the length of the longest palindromic subsequence of sequence a?
+version https://git-lfs.github.com/spec/v1
+oid sha256:042a6bda1acb235779ee5d2bb920bb18ccceeeb22e3bf675e63a0fa81a393f0e
+size 532

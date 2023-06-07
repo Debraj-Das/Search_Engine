@@ -1,9 +1,3 @@
-Bus of Characters                    
-
-https://codeforces.com/problemset/problem/982/B
-
-data structures
-
-1300
-
-In the Bus of Characters there are n rows of seat, each having 2 seats. The width of both seats in the i-th row is w_i centimeters. All integers w_i are distinct.Initially the bus is empty. On each of 2n stops one passenger enters the bus. There are two types of passengers:   an introvert always chooses a row where both seats are empty. Among these rows he chooses the one with the smallest seats width and takes one of the seats in it;  an extrovert always chooses a row where exactly one seat is occupied (by an introvert). Among these rows he chooses the one with the largest seats width and takes the vacant place in it. You are given the seats width in each row and the order the passengers enter the bus. Determine which row each passenger will take.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b970bcfcbf942a857b20c8b76efde96f2ff0e726113a3dcff7f91de0cea4f7b
+size 877

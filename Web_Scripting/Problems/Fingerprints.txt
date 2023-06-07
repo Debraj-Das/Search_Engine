@@ -1,9 +1,3 @@
-Fingerprints                    
-
-https://codeforces.com/problemset/problem/994/A
-
-implementation
-
-800
-
-You are locked in a room with a door that has a keypad with 10 keys corresponding to digits from 0 to 9. To escape from the room, you need to enter a correct code. You also have a sequence of digits.Some keys on the keypad have fingerprints. You believe the correct code is the longest not necessarily contiguous subsequence of the sequence you have that only contains digits with fingerprints on the corresponding keys. Find such code.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46398a79e265c625316209386272e3a498fa6045c69ba1e8bdb526c6a9f728b2
+size 548

@@ -1,9 +1,3 @@
-Binary Decimal                    
-
-https://codeforces.com/problemset/problem/1530/A
-
-greedy
-
-800
-
-Let's call a number a binary decimal if it's a positive integer and all digits in its decimal notation are either 0 or 1. For example, 1\,010\,111 is a binary decimal, while 10\,201 and 787\,788 are not.Given a number n, you are asked to represent n as a sum of some (not necessarily distinct) binary decimals. Compute the smallest number of binary decimals required for that.
+version https://git-lfs.github.com/spec/v1
+oid sha256:baaf3033cea11fa1cf249195cc84a95a9340f086a648f0a4becf9ba7ae935611
+size 483

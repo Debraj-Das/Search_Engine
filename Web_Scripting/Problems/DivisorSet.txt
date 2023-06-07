@@ -1,9 +1,3 @@
-Divisor Set                    
-
-https://codeforces.com/problemset/problem/1257/G
-
-divide and conquer
-
-2600
-
-You are given an integer x represented as a product of n its prime divisors p_1 \cdot p_2, \cdot \ldots \cdot p_n. Let S be the set of all positive integer divisors of x (including 1 and x itself).We call a set of integers D good if (and only if) there is no pair a \in D, b \in D such that a \ne b and a divides b.Find a good subset of S with maximum possible size. Since the answer can be large, print the size of the subset modulo 998244353.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3715b1bdbb3d82f5c51c6ef6ca8f9406c3f81d825f31a36b7a13b327628c90b1
+size 561

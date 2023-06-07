@@ -1,9 +1,3 @@
-Beautiful League                    
-
-https://codeforces.com/problemset/problem/1264/E
-
-constructive algorithms
-
-2700
-
-A football league has recently begun in Beautiful land. There are n teams participating in the league. Let's enumerate them with integers from 1 to n.There will be played exactly \frac{n(n-1)}{2} matches: each team will play against all other teams exactly once. In each match, there is always a winner and loser and there is no draw.After all matches are played, the organizers will count the number of beautiful triples. Let's call a triple of three teams (A, B, C) beautiful if a team A win against a team B, a team B win against a team C and a team C win against a team A. We look only to a triples of different teams and the order of teams in the triple is important.The beauty of the league is the number of beautiful triples.At the moment, m matches were played and their results are known.What is the maximum beauty of the league that can be, after playing all remaining matches? Also find a possible results for all remaining \frac{n(n-1)}{2} - m matches, so that the league has this maximum beauty.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e765ddd081191a325e2fd338df7824bf631e0bf11fe80f6b20abe6aa2711dd2
+size 1135

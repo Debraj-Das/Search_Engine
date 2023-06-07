@@ -1,9 +1,3 @@
-BerOS file system                    
-
-https://codeforces.com/problemset/problem/20/A
-
-implementation
-
-1700
-
-The new operating system BerOS has a nice feature. It is possible to use any number of characters '/' as a delimiter in path instead of one traditional '/'. For example, strings //usr///local//nginx/sbin// and /usr/local/nginx///sbin are equivalent. The character '/' (or some sequence of such characters) at the end of the path is required only in case of the path to the root directory, which can be represented as single character '/'.A path called normalized if it contains the smallest possible number of characters '/'.Your task is to transform a given path to the normalized form.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3de2503fc5df836e793bb909b7dda30440fe8648d6ea7d5bd519859faa754133
+size 704

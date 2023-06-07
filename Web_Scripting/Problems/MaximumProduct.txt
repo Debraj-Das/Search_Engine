@@ -1,9 +1,3 @@
-Maximum Product                    
-
-https://codeforces.com/problemset/problem/1406/B
-
-brute force
-
-1200
-
-You are given an array of integers a_1,a_2,\ldots,a_n. Find the maximum possible value of a_ia_ja_ka_la_t among all five indices (i, j, k, l, t) (i<j<k<l<t).
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2250c04f50aa444f89089decfd64dca595c6c748e5cc2191bd598cf5d274fcf
+size 271

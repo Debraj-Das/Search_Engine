@@ -1,9 +1,3 @@
-No to Palindromes!                    
-
-https://codeforces.com/problemset/problem/464/A
-
-greedy
-
-1700
-
-Paul hates palindromes. He assumes that string s is tolerable if each its character is one of the first p letters of the English alphabet and s doesn't contain any palindrome contiguous substring of length 2 or more.Paul has found a tolerable string s of length n. Help him find the lexicographically next tolerable string of the same length or else state that such string does not exist.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d552d57e3e44cc67433ea396eeacc4ead73d45e968f4e81ef6666e3d294c5266
+size 499

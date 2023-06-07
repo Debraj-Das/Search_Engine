@@ -1,9 +1,3 @@
-Vasya and Wrestling                    
-
-https://codeforces.com/problemset/problem/493/B
-
-implementation
-
-1400
-
-Vasya has become interested in wrestling. In wrestling wrestlers use techniques for which they are awarded points by judges. The wrestler who gets the most points wins.When the numbers of points of both wrestlers are equal, the wrestler whose sequence of points is lexicographically greater, wins.If the sequences of the awarded points coincide, the wrestler who performed the last technique wins. Your task is to determine which wrestler won.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d7dc43aec0189525bfb42e6d05fcb6668b3acd4440e1bda4e3ff2189f28a0bd
+size 563

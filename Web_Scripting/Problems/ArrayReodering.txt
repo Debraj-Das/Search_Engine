@@ -1,9 +1,3 @@
-Array Reodering                    
-
-https://codeforces.com/problemset/problem/1535/B
-
-brute force
-
-900
-
-You are given an array a consisting of n integers.Let's call a pair of indices i, j good if 1 \le i < j \le n and \gcd(a_i, 2a_j) > 1 (where \gcd(x, y) is the greatest common divisor of x and y).Find the maximum number of good index pairs if you can reorder the array a in an arbitrary way.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75c96253abfef96b11fd03c1e91569a5a92c3ce0494663cc1397a6337533fe9f
+size 403

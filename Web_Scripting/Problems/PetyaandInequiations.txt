@@ -1,9 +1,3 @@
-Petya and Inequiations                    
-
-httpscodeforcescomproblemsetproblem111A
-
-greedy
-
-1400
-
-Little Petya loves inequations Help him find n positive integers a1a2an such that the following two conditions are satisfied a12a22an2x a1a2any
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbe8c67e0e0a41e2f3acf85aef7238293a809a7e42ee09f519e032264411877a
+size 250

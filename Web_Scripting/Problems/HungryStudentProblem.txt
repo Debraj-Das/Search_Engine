@@ -1,9 +1,3 @@
-Hungry Student Problem                    
-
-https://codeforces.com/problemset/problem/903/A
-
-greedy
-
-900
-
-Ivan's classes at the university have just finished, and now he wants to go to the local CFK cafe and eat some fried chicken.CFK sells chicken chunks in small and large portions. A small portion contains 3 chunks; a large one — 7 chunks. Ivan wants to eat exactly x chunks. Now he wonders whether he can buy exactly this amount of chicken.Formally, Ivan wants to know if he can choose two non-negative integers a and b in such a way that a small portions and b large ones contain exactly x chunks.Help Ivan to answer this question for several values of x!
+version https://git-lfs.github.com/spec/v1
+oid sha256:7652a1eb882d63757335c1a8e41f29252d5181323a42b6a20c5de13e41269dfb
+size 669

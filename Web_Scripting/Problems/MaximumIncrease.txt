@@ -1,9 +1,3 @@
-Maximum Increase                    
-
-https://codeforces.com/problemset/problem/702/A
-
-dp
-
-800
-
-You are given array consisting of n integers. Your task is to find the maximum length of an increasing subarray of the given array.A subarray is the sequence of consecutive elements of the array. Subarray is called increasing if each element of this subarray strictly greater than previous.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cee849536e5c15852bd4923a6b149468f00aa81c4d8ce1e42c3f4ccce8d7c67
+size 394

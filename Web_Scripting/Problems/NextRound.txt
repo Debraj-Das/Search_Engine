@@ -1,9 +1,3 @@
-Next Round                    
-
-httpscodeforcescomproblemsetproblem158A
-
-special problem
-
-800
-
-Contestant who earns a score equal to or greater than the kth place finishers score will advance to the next round as long as the contestant earns a positive score  an excerpt from contest rulesA total of n participants took part in the contest nk and you already know their scores Calculate how many participants will advance to the next round
+version https://git-lfs.github.com/spec/v1
+oid sha256:36d1ccf01911ba9f5c603338637b26c9c4544ed4e1c728452bd19b09ad4072ca
+size 447

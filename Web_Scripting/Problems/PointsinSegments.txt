@@ -1,9 +1,3 @@
-Points in Segments                    
-
-https://codeforces.com/problemset/problem/1015/A
-
-implementation
-
-800
-
-You are given a set of n segments on the axis Ox, each segment has integer endpoints between 1 and m inclusive. Segments may intersect, overlap or even coincide with each other. Each segment is characterized by two integers l_i and r_i (1 \le l_i \le r_i \le m) — coordinates of the left and of the right endpoints. Consider all integer points between 1 and m inclusive. Your task is to print all such points that don't belong to any segment. The point x belongs to the segment [l; r] if and only if l \le x \le r.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d39746a4e595d8e548fc299bf8ad6bbfff5561add88db87346122311649edb67
+size 633

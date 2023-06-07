@@ -1,9 +1,3 @@
-Stripes                    
-
-https://codeforces.com/problemset/problem/1742/C
-
-implementation
-
-900
-
-On an 8 \times 8 grid, some horizontal rows have been painted red, and some vertical columns have been painted blue, in some order. The stripes are drawn sequentially, one after the other. When the stripe is drawn, it repaints all the cells through which it passes.Determine which color was used last.  The red stripe was painted after the blue one, so the answer is R. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:50de0637a82e287a8ea9a2de1f84247935a4e6de6ec549f1f3a03834b2ba28f8
+size 478

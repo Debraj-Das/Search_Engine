@@ -1,9 +1,3 @@
-Integer Diversity                    
-
-https://codeforces.com/problemset/problem/1616/A
-
-implementation
-
-800
-
-You are given n integers a_1, a_2, \ldots, a_n. You choose any subset of the given numbers (possibly, none or all numbers) and negate these numbers (i. e. change x \to (-x)). What is the maximum number of different values in the array you can achieve?
+version https://git-lfs.github.com/spec/v1
+oid sha256:a70c61b5521e07bfb96f8b45e9b9045246aefe8cee70aafe69d34b80691fe5a1
+size 369

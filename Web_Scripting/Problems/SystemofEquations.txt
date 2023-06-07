@@ -1,9 +1,3 @@
-System of Equations                    
-
-httpscodeforcescomproblemsetproblem214A
-
-brute force
-
-800
-
-Furik loves math lessons very much so he doesnt attend them unlike Rubik But now Furik wants to get a good mark for math For that Ms Ivanova his math teacher gave him a new task Furik solved the task immediately Can youYou are given a system of equations   You should count how many there are pairs of integers ab 0ab which satisfy the system
+version https://git-lfs.github.com/spec/v1
+oid sha256:be97c43b5ee968e593c57715a2b824e8fff37ec8c665079d28e4a47af4747a59
+size 450

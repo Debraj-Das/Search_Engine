@@ -1,9 +1,3 @@
-Coins and Queries                    
-
-https://codeforces.com/problemset/problem/1003/D
-
-greedy
-
-1600
-
-Polycarp has n coins, the value of the i-th coin is a_i. It is guaranteed that all the values are integer powers of 2 (i.e. a_i = 2^d for some non-negative integer number d).Polycarp wants to know answers on q queries. The j-th query is described as integer number b_j. The answer to the query is the minimum number of coins that is necessary to obtain the value b_j using some subset of coins (Polycarp can use only coins he has). If Polycarp can't obtain the value b_j, the answer to the j-th query is -1.The queries are independent (the answer on the query doesn't affect Polycarp's coins).
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0a7992a3ec887dbeb5253b528ebabdae37673cb72d1f9959465a92c5ef1b11f
+size 704

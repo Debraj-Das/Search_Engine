@@ -1,9 +1,3 @@
-Difference Operations                    
-
-https://codeforces.com/problemset/problem/1708/A
-
-greedy
-
-800
-
-You are given an array a consisting of n positive integers.You are allowed to perform this operation any number of times (possibly, zero):   choose an index i (2 \le i \le n), and change a_i to a_i - a_{i-1}. Is it possible to make a_i=0 for all 2\le i\le n?
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc05e00bb33a60ee74721c019c54cc21b046fc643574bd526430bbe13b6d8c2f
+size 372

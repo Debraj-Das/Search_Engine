@@ -1,9 +1,3 @@
-Fox and Number Game                    
-
-https://codeforces.com/problemset/problem/389/A
-
-greedy
-
-1000
-
-Fox Ciel is playing a game with numbers now. Ciel has n positive integers: x1, x2, ..., xn. She can do the following operation as many times as needed: select two different indexes i and j such that xi > xj hold, and then apply assignment xi = xi - xj. The goal is to make the sum of all numbers as small as possible.Please help Ciel to find this minimal sum.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1385c1c5e0426bf053d8c67b539e6ac23092d6a294fd232e36e4bf126a97b63
+size 471

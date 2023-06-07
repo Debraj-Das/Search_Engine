@@ -1,9 +1,3 @@
-The least round way                    
-
-httpscodeforcescomproblemsetproblem2B
-
-dp
-
-2000
-
-There is a square matrix nn consisting of nonnegative integer numbers You should find such a way on it that   starts in the upper left cell of the matrix  each following cell is to the right or down from the current cell  the way ends in the bottom right cell Moreover if we multiply together all the numbers along the way the result should be the least round In other words it should end in the least possible number of zeros
+version https://git-lfs.github.com/spec/v1
+oid sha256:292392abc81e921562b42153bd903124bf98528b1ffb9e2398ad6405ca8e9a91
+size 524

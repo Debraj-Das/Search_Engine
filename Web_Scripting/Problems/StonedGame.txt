@@ -1,9 +1,3 @@
-Stoned Game                    
-
-https://codeforces.com/problemset/problem/1396/B
-
-brute force
-
-1800
-
-T is playing a game with his friend, HL.There are n piles of stones, the i-th pile initially has a_i stones. T and HL will take alternating turns, with T going first. In each turn, a player chooses a non-empty pile and then removes a single stone from it. However, one cannot choose a pile that has been chosen in the previous turn (the pile that was chosen by the other player, or if the current turn is the first turn then the player can choose any non-empty pile). The player who cannot choose a pile in his turn loses, and the game ends.Assuming both players play optimally, given the starting configuration of t games, determine the winner of each game.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03608d95e952c366ae66729883b86ff054e1db015174463221bd01d4b1833551
+size 768

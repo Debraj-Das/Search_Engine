@@ -1,9 +1,3 @@
-Platforms                    
-
-httpscodeforcescomproblemsetproblem18B
-
-brute force
-
-1700
-
-In one onedimensional world there are n platforms Platform with index k platforms are numbered from 1 is a segment with coordinates k1mk1ml and lm Grasshopper Bob starts to jump along the platforms from point 0 with each jump he moves exactly d units right Find out the coordinate of the point where Bob will fall down The grasshopper falls down if he finds himself not on the platform but if he finds himself on the edge of the platform he doesnt fall down
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1fce099a8dd7425271425828beb54b74961910ef828a7f7390b1a2bdf0f34ef
+size 555

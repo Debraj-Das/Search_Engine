@@ -1,9 +1,3 @@
-Pluses and Minuses                    
-
-https://codeforces.com/problemset/problem/1373/C
-
-math
-
-1300
-
-You are given a string s consisting only of characters + and -. You perform some process with this string. This process can be described by the following pseudocode: res = 0for init = 0 to inf    cur = init    ok = true    for i = 1 to |s|        res = res + 1        if s[i] == '+'            cur = cur + 1        else            cur = cur - 1        if cur < 0            ok = false            break    if ok        breakNote that the inf denotes infinity, and the characters of the string are numbered from 1 to |s|.You have to calculate the value of the res after the process ends.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbdb4df20769b957316d0ef2227ca3fac48d00bd39870f0dc53786950222e88c
+size 695

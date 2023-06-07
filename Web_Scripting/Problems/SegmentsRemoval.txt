@@ -1,9 +1,3 @@
-Segments Removal                    
-
-httpscodeforcescomproblemsetproblem899E
-
-data structures
-
-2000
-
-Vasya has an array of integers of length nVasya performs the following operations on the array on each step he finds the longest segment of consecutive equal integers the leftmost if there are several such segments and removes it For example if Vasyas array is 1313777222 then after one operation it becomes 1313222Compute the number of operations Vasya should make until the array becomes empty ie Vasya removes all elements from it
+version https://git-lfs.github.com/spec/v1
+oid sha256:6646262c3e9c51c3d3e43b79b7cde247404fcf4dd538a3da8a414d85fd99eec8
+size 543

@@ -1,9 +1,3 @@
-Maximum Subsequence                    
-
-httpscodeforcescomproblemsetproblem888E
-
-bitmasks
-
-1800
-
-You are given an array a consisting of n integers and additionally an integer m You have to choose some sequence of indices b1b2bk 1b1b2bkn in such a way that the value of  is maximized Chosen sequence can be emptyPrint the maximum possible value of 
+version https://git-lfs.github.com/spec/v1
+oid sha256:afd449172c782d879b915cc2824bf0a9b343dae0ca58332ce5a046bef8822e62
+size 356

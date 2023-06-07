@@ -1,9 +1,3 @@
-Magnum Opus                    
-
-https://codeforces.com/problemset/problem/409/C
-
-*special problem
-
-1700
-
-Salve, mi amice.Et tu quidem de lapis philosophorum. Barba non facit philosophum. Labor omnia vincit. Non potest creatio ex nihilo. Necesse est partibus.Rp:    I Aqua Fortis    I Aqua Regia    II Amalgama    VII Minium    IV VitriolMisce in vitro et æstus, et nil admirari. Festina lente, et nulla tenaci invia est via.Fac et spera,Vale,Nicolas Flamel
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bc2cb848b367c7c88c7dba67a4abd1d6f796d51cfe88f8186817dfa0b9d7bf3
+size 465

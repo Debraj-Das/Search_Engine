@@ -1,9 +1,3 @@
-Petya and Coloring                    
-
-httpscodeforcescomproblemsetproblem111D
-
-combinatorics
-
-2300
-
-Little Petya loves counting He wants to count the number of ways to paint a rectangular checkered board of size nm n rows m columns in k colors Besides the coloring should have the following property for any vertical line that passes along the grid lines and divides the board in two nonempty parts the number of distinct colors in both these parts should be the same Help Petya to count these colorings
+version https://git-lfs.github.com/spec/v1
+oid sha256:e11adfacb22ade122c47fa0d2f28530337d441048a74f68f6a32a2bc6d84bc90
+size 513

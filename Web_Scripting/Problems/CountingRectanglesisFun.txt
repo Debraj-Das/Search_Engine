@@ -1,9 +1,3 @@
-Counting Rectangles is Fun                    
-
-httpscodeforcescomproblemsetproblem372B
-
-brute force
-
-1900
-
-There is an nm rectangular grid each cell of the grid contains a single integer zero or one Lets call the cell on the ith row and the jth column as ijLets define a rectangle as four integers abcd 1acn1bdm Rectangle denotes a set of cells of the grid xyaxcbyd Lets define a good rectangle as a rectangle that includes only the cells with zerosYou should answer the following q queries calculate the number of good rectangles all of which cells are in the given rectangle
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ae7dc011ff0cc7f3cca49eb71691eabea29811916cdfbf918025e653fb75348
+size 585

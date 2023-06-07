@@ -1,9 +1,3 @@
-Cheese Board                    
-
-https://codeforces.com/problemset/problem/952/E
-
-
-
-2000
-
-Not to be confused with chessboard.  
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b6a911c82d88c313848195360272a5a647ffd75049a84fd3b202821ca1599d0
+size 136

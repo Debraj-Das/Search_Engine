@@ -1,9 +1,3 @@
-Dead Pixel                    
-
-https://codeforces.com/problemset/problem/1315/A
-
-implementation
-
-800
-
-Screen resolution of Polycarp's monitor is a \times b pixels. Unfortunately, there is one dead pixel at his screen. It has coordinates (x, y) (0 \le x < a, 0 \le y < b). You can consider columns of pixels to be numbered from 0 to a-1, and rows — from 0 to b-1.Polycarp wants to open a rectangular window of maximal size, which doesn't contain the dead pixel. The boundaries of the window should be parallel to the sides of the screen.Print the maximal area (in pixels) of a window that doesn't contain the dead pixel inside itself.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62e0a54af989f056c967e797b1ae6715a8f5cdb6c476ba280a342517dbf531d8
+size 642

@@ -1,9 +1,3 @@
-Selling Hamburgers                    
-
-https://codeforces.com/problemset/problem/1431/A
-
-*special problem
-
-800
-
-There are n customers in the cafeteria. Each of them wants to buy a hamburger. The i-th customer has a_i coins, and they will buy a hamburger if it costs at most a_i coins.Suppose the cost of the hamburger is m. Then the number of coins the cafeteria earns is m multiplied by the number of people who buy a hamburger if it costs m. Your task is to calculate the maximum number of coins the cafeteria can earn.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c7a4265de9c219183764abb72d059d1f5fdd22d9beed3d6b5ae7a6c58325888
+size 530

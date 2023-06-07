@@ -1,9 +1,3 @@
-Safe                    
-
-https://codeforces.com/problemset/problem/47/D
-
-brute force
-
-2200
-
-Vasya tries to break in a safe. He knows that a code consists of n numbers, and every number is a 0 or a 1. Vasya has made m attempts to enter the code. After each attempt the system told him in how many position stand the right numbers. It is not said in which positions the wrong numbers stand. Vasya has been so unlucky that he hasn’t entered the code where would be more than 5 correct numbers. Now Vasya is completely bewildered: he thinks there’s a mistake in the system and it is self-contradictory. Help Vasya — calculate how many possible code variants are left that do not contradict the previous system responses.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04347235aec731418844ce14682f86c1690685468118aab31a831b0e9c080cb4
+size 725

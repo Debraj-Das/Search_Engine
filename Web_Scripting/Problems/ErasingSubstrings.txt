@@ -1,9 +1,3 @@
-Erasing Substrings                    
-
-httpscodeforcescomproblemsetproblem938F
-
-bitmasks
-
-2700
-
-You are given a string s initially consisting of n lowercase Latin letters After that you perform k operations with it where  During ith operation you must erase some substring of length exactly 2i1 from sPrint the lexicographically minimal string you may obtain after performing k such operations
+version https://git-lfs.github.com/spec/v1
+oid sha256:deb1e71dcf4ca5c5ba228627fd6988b5fefde5800da65b8c96d99e0ac9966d2c
+size 402

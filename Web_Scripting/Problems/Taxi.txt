@@ -1,9 +1,3 @@
-Taxi                    
-
-httpscodeforcescomproblemsetproblem158B
-
-special problem
-
-1100
-
-After the lessons n groups of schoolchildren went outside and decided to visit Polycarpus to celebrate his birthday We know that the ith group consists of si friends 1si4 and they want to go to Polycarpus together They decided to get there by taxi Each car can carry at most four passengers What minimum number of cars will the children need if all members of each group should ride in the same taxi but one taxi can take more than one group
+version https://git-lfs.github.com/spec/v1
+oid sha256:23cc12b51450dd433bdfff05f6aa2e0218aed2f89676424ab6d27bd516a98c83
+size 539

@@ -1,9 +1,3 @@
-Nikita and Order Statistics                    
-
-https://codeforces.com/problemset/problem/993/E
-
-chinese remainder theorem
-
-2300
-
-Nikita likes tasks on order statistics, for example, he can easily find the k-th number in increasing order on a segment of an array. But now Nikita wonders how many segments of an array there are such that a given number x is the k-th number in increasing order on this segment. In other words, you should find the number of segments of a given array such that there are exactly k numbers of this segment which are less than x.Nikita wants to get answer for this question for each k from 0 to n, where n is the size of the array.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fca057e9a314c77a8f9d935fa93a7faff81b78fdd801cf5f61caf4b318ded1d3
+size 669

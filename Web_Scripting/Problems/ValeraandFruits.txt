@@ -1,9 +1,3 @@
-Valera and Fruits                    
-
-httpscodeforcescomproblemsetproblem441B
-
-greedy
-
-1400
-
-Valera loves his garden where n fruit trees growThis year he will enjoy a great harvest On the ith tree bi fruit grow they will ripen on a day number ai Unfortunately the fruit on the tree get withered so they can only be collected on day ai and day ai1 all fruits that are not collected in these two days become unfit to eatValera is not very fast but there are some positive points Valera is ready to work every day In one day Valera can collect no more than v fruits The fruits may be either from the same tree or from different ones What is the maximum amount of fruit Valera can collect for all time if he operates optimally well
+version https://git-lfs.github.com/spec/v1
+oid sha256:5170bb041467c44b8d451dee8a3f11c5879afc9ee5d1f0fb39e1134862aef4b0
+size 736

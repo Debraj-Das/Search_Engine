@@ -1,9 +1,3 @@
-QR code                    
-
-https://codeforces.com/problemset/problem/290/B
-
-*special problem
-
-1500
-
-  
+version https://git-lfs.github.com/spec/v1
+oid sha256:437de2d6cfaa86ac7589a8886aaa434583b1676064f6af0913b9d065b7fa9de4
+size 112

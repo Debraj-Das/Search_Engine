@@ -1,9 +1,3 @@
-LionAge II                    
-
-httpscodeforcescomproblemsetproblem73C
-
-dp
-
-1800
-
-Vasya plays the LionAge II He was bored of playing with a stupid computer so he installed this popular MMORPG to fight with his friends Vasya came up with the name of his character  nonempty string s consisting of a lowercase Latin letters However in order not to put up a front of friends Vasya has decided to change no more than k letters of the character name so that the new name sounded as good as possible Euphony of the line is defined as follows for each pair of adjacent letters x and y x immediately precedes y the bonus cxy is added to the result Your task is to determine what the greatest Euphony can be obtained by changing at most k letters in the name of the Vasyas character
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d9356488266c8ee188045e3e984bcc3b10d8b8e832482b62e82a8c0e81168e1
+size 781

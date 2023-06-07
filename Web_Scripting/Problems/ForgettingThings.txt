@@ -1,9 +1,3 @@
-Forgetting Things                    
-
-https://codeforces.com/problemset/problem/1225/A
-
-math
-
-900
-
-Kolya is very absent-minded. Today his math teacher asked him to solve a simple problem with the equation a + 1 = b with positive integers a and b, but Kolya forgot the numbers a and b. He does, however, remember that the first (leftmost) digit of a was d_a, and the first (leftmost) digit of b was d_b.Can you reconstruct any equation a + 1 = b that satisfies this property? It may be possible that Kolya misremembers the digits, and there is no suitable equation, in which case report so.
+version https://git-lfs.github.com/spec/v1
+oid sha256:858b64fe32540a4255a0d8cc3b320526e9a827e64a13d29e2d15759289377083
+size 598

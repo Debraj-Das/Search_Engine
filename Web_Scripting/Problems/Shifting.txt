@@ -1,9 +1,3 @@
-Shifting                    
-
-httpscodeforcescomproblemsetproblem286B
-
-implementation
-
-2200
-
-John Doe has found the beautiful permutation formulaLets take permutation pp1p2pn Lets define transformation f of this permutation where k k1 is an integer the transformation parameter r is such maximum integer that rkn If rkn then elements prk1prk2 and so on are omitted In other words the described transformation of permutation p cyclically shifts to the left each consecutive block of length k and the last block with the length equal to the remainder after dividing n by k John Doe thinks that permutation fffp12n2n1n is beautiful Unfortunately he cannot quickly find the beautiful permutation hes interested in Thats why he asked you to help himYour task is to find a beautiful permutation for the given n For clarifications see the notes to the third sample
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb46f645251726b7ac666ead1e9b131243d9411d3e759fef1536c429de74d047
+size 865

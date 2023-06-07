@@ -1,9 +1,3 @@
-Tree Cutting (Easy Version)                    
-
-https://codeforces.com/problemset/problem/1118/F1
-
-dfs and similar
-
-1800
-
-You are given an undirected tree of n vertices. Some vertices are colored blue, some are colored red and some are uncolored. It is guaranteed that the tree contains at least one red vertex and at least one blue vertex.You choose an edge and remove it from the tree. Tree falls apart into two connected components. Let's call an edge nice if neither of the resulting components contain vertices of both red and blue colors.How many nice edges are there in the given tree?
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e9b44ed94477ace73eb92b58907800dbf15a5c8c05b23a56c9a5e7d748eb82a
+size 601

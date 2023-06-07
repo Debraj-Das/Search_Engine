@@ -1,9 +1,3 @@
-HQ                    
-
-https://codeforces.com/problemset/problem/290/E
-
-*special problem
-
-2500
-
-The famous joke programming language HQ9+ has only 4 commands. In this problem we will explore its subset — a language called HQ...
+version https://git-lfs.github.com/spec/v1
+oid sha256:74f7502ef2756d65af7a9083358945f4da89b7e657a30c317a86cc988dd1b65e
+size 236

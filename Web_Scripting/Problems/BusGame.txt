@@ -1,9 +1,3 @@
-Bus Game                    
-
-https://codeforces.com/problemset/problem/79/A
-
-greedy
-
-1200
-
-After Fox Ciel won an onsite round of a programming contest, she took a bus to return to her castle. The fee of the bus was 220 yen. She met Rabbit Hanako in the bus. They decided to play the following game because they got bored in the bus.  Initially, there is a pile that contains x 100-yen coins and y 10-yen coins.  They take turns alternatively. Ciel takes the first turn.  In each turn, they must take exactly 220 yen from the pile. In Ciel's turn, if there are multiple ways to take 220 yen, she will choose the way that contains the maximal number of 100-yen coins. In Hanako's turn, if there are multiple ways to take 220 yen, she will choose the way that contains the maximal number of 10-yen coins.  If Ciel or Hanako can't take exactly 220 yen from the pile, she loses.  Determine the winner of the game.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bae0534f27812650336991416a3392b48b6aaf40156d345b4f15609e44d52581
+size 917

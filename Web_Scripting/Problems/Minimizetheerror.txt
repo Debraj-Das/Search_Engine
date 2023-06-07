@@ -1,9 +1,3 @@
-Minimize the error                    
-
-https://codeforces.com/problemset/problem/960/B
-
-data structures
-
-1500
-
-You are given two arrays A and B, each of size n. The error, E, between these two arrays is defined . You have to perform exactly k1 operations on array A and exactly k2 operations on array B. In one operation, you have to choose one element of the array and increase or decrease it by 1.Output the minimum possible value of error after k1 operations on array A and k2 operations on array B have been performed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:369085d54f8ba3fd4a1c60431e63ecdffe1c2960cde97ca978584dc5ffd75f2f
+size 531

@@ -1,9 +1,3 @@
-Flea                    
-
-httpscodeforcescomproblemsetproblem32C
-
-math
-
-1700
-
-It is known that fleas in Berland can jump only vertically and horizontally and the length of the jump is always equal to s centimeters A flea has found herself at the center of some cell of the checked board of the size nm centimeters each cell is 11 centimeters She can jump as she wishes for an arbitrary number of times she can even visit a cell more than once The only restriction is that she cannot jump out of the boardThe flea can count the amount of cells that she can reach from the starting position xy Lets denote this amount by dxy Your task is to find the number of such starting positions xy which have the maximum possible value of dxy
+version https://git-lfs.github.com/spec/v1
+oid sha256:9762f1b3bcb32b5511c2103459a157d84ca6771b62022cbd6844b6a82b026564
+size 737

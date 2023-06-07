@@ -1,9 +1,3 @@
-Fancy Fence                    
-
-https://codeforces.com/problemset/problem/1402/A
-
-*special problem
-
-1800
-
-Everybody knows that Balázs has the fanciest fence in the whole town. It's built up from N fancy sections. The sections are rectangles standing closely next to each other on the ground. The ith section has integer height h_i and integer width w_i.  We are looking for fancy rectangles on this fancy fence.  A rectangle is fancy if:   its sides are either horizontal or vertical and have integer lengths  the distance between the rectangle and the ground is integer  the distance between the rectangle and the left side of the first section is integer  it's lying completely on sections  What is the number of fancy rectangles?  This number can be very big, so we are interested in it modulo 10^9+7.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f63bd9d4df5b38e1114df1716383f49bae68282e9d81231fea99982b5d45e076
+size 813

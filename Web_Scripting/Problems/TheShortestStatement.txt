@@ -1,9 +1,3 @@
-The Shortest Statement                    
-
-https://codeforces.com/problemset/problem/1051/F
-
-graphs
-
-2400
-
-You are given a weighed undirected connected graph, consisting of n vertices and m edges.You should answer q queries, the i-th query is to find the shortest distance between vertices u_i and v_i.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93a77e6ad082d8b4af617c857b887131358c69d70816580d892d665e8753a2dc
+size 311

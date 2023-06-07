@@ -1,9 +1,3 @@
-Square Equation Roots                    
-
-httpscodeforcescomproblemsetproblem50E
-
-math
-
-2300
-
-A schoolboy Petya studies square equations The equations that are included in the school curriculum usually look simple x22bxc0 where b c are natural numbersPetya noticed that some equations have two real roots some of them have only one root and some equations dont have real roots at all Moreover it turned out that several different square equations can have a common rootPetya is interested in how many different real roots have all the equations of the type described above for all the possible pairs of numbers b and c such that 1bn 1cm Help Petya find that number
+version https://git-lfs.github.com/spec/v1
+oid sha256:fed3e5133514e1219269ab046496e6bd7362af10e0afa5421f534d2fd1eae78c
+size 673

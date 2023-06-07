@@ -1,9 +1,3 @@
-Lipshitz Sequence                    
-
-httpscodeforcescomproblemsetproblem601B
-
-data structures
-
-2100
-
-A function  is called Lipschitz continuous if there is a real constant K such that the inequality fxfyKxy holds for all  Well deal with a more discrete version of this termFor an array  we define its Lipschitz constant  as follows  if n2   if n2  over all 1ijn In other words  is the smallest nonnegative integer such that hihjLij holds for all 1ijnYou are given an array  of size n and q queries of the form lr For each query consider the subarray  determine the sum of Lipschitz constants of all subarrays of 
+version https://git-lfs.github.com/spec/v1
+oid sha256:736dae52337d9b570309e0414b75ff0a3fc31c8f8b28dc91ac68ad7526f7a16a
+size 622

@@ -1,9 +1,3 @@
-Evil                    
-
-https://codeforces.com/problemset/problem/329/E
-
-math
-
-3100
-
-There are n cities on a two dimensional Cartesian plane. The distance between two cities is equal to the Manhattan distance between them (see the Notes for definition). A Hamiltonian cycle of the cities is defined as a permutation of all n cities. The length of this Hamiltonian cycle is defined as the sum of the distances between adjacent cities in the permutation plus the distance between the first and final city in the permutation. Please compute the longest possible length of a Hamiltonian cycle of the given cities.
+version https://git-lfs.github.com/spec/v1
+oid sha256:252548b92f57eb469620c68460628b43e7f4914312a565d574a2d8fe75c8ef34
+size 619

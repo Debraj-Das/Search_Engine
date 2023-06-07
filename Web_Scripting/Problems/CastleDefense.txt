@@ -1,9 +1,3 @@
-Castle Defense                    
-
-httpscodeforcescomproblemsetproblem954G
-
-binary search
-
-2000
-
-Today you are going to lead a group of elven archers to defend the castle that is attacked by an army of angry orcs Three sides of the castle are protected by impassable mountains and the remaining side is occupied by a long wall that is split into n sections At this moment there are exactly ai archers located at the ith section of this wall You know that archer who stands at section i can shoot orcs that attack section located at distance not exceeding r that is all such sections j that ijr In particular r0 means that archers are only capable of shooting at orcs who attack section iDenote as defense level of section i the total number of archers who can shoot at the orcs attacking this section Reliability of the defense plan is the minimum value of defense level of individual wall sectionThere is a little time left till the attack so you cant redistribute archers that are already located at the wall However there is a reserve of k archers that you can distribute among wall sections in arbitrary way You would like to achieve maximum possible reliability of the defence plan
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c872ed45e2cb2782550c7fdc6d25aeb8e8346a4eaae9506b61383f533043fbc
+size 1195

@@ -1,9 +1,3 @@
-And                    
-
-httpscodeforcescomproblemsetproblem1013B
-
-greedy
-
-1200
-
-There is an array with n elements a1a2an and the number xIn one operation you can select some i 1in and replace element ai with aix where  denotes the bitwise and operationYou want the array to have at least two equal elements after applying some operations possibly none In other words there should be at least two distinct indices ij such that aiaj Determine whether it is possible to achieve and if possible the minimal number of operations to apply
+version https://git-lfs.github.com/spec/v1
+oid sha256:a922c16313ba7b876ec580f047e79c8a0579ff9082ca4cf4c6671fba8e032244
+size 541

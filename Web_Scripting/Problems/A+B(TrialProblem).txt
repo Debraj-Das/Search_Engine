@@ -1,9 +1,3 @@
-A+B (Trial Problem)                    
-
-https://codeforces.com/problemset/problem/1351/A
-
-implementation
-
-800
-
-You are given two integers a and b. Print a+b.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e397271426797da03a082a581cf5851761a51bda5b5a79677cba787905ba6414
+size 166

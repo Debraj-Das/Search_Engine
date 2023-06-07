@@ -1,9 +1,3 @@
-AvtoBus                    
-
-https://codeforces.com/problemset/problem/1679/A
-
-brute force
-
-900
-
-Spring has come, and the management of the AvtoBus bus fleet has given the order to replace winter tires with summer tires on all buses.You own a small bus service business and you have just received an order to replace n tires. You know that the bus fleet owns two types of buses: with two axles (these buses have 4 wheels) and with three axles (these buses have 6 wheels).You don't know how many buses of which type the AvtoBus bus fleet owns, so you wonder how many buses the fleet might have. You have to determine the minimum and the maximum number of buses that can be in the fleet if you know that the total number of wheels for all buses is n.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2451c91590a9b9f01ae12f634002ab722b9b195d23dad1c6d69d61134307cf47
+size 756

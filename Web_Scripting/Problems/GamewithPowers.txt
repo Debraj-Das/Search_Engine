@@ -1,9 +1,3 @@
-Game with Powers                    
-
-https://codeforces.com/problemset/problem/317/D
-
-dp
-
-2300
-
-Vasya and Petya wrote down all integers from 1 to n to play the "powers" game (n can be quite large; however, Vasya and Petya are not confused by this fact).Players choose numbers in turn (Vasya chooses first). If some number x is chosen at the current turn, it is forbidden to choose x or all of its other positive integer powers (that is, x2, x3, ...) at the next turns. For instance, if the number 9 is chosen at the first turn, one cannot choose 9 or 81 later, while it is still allowed to choose 3 or 27. The one who cannot make a move loses.Who wins if both Vasya and Petya play optimally?
+version https://git-lfs.github.com/spec/v1
+oid sha256:28ccbbb2f86291ab2b73bd535c72a8e416aa71300e601fc449c0c5ba48866f12
+size 700

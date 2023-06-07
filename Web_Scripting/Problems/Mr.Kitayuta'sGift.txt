@@ -1,9 +1,3 @@
-Mr. Kitayuta's Gift                    
-
-https://codeforces.com/problemset/problem/506/E
-
-combinatorics
-
-3000
-
-Mr. Kitayuta has kindly given you a string s consisting of lowercase English letters. You are asked to insert exactly n lowercase English letters into s to make it a palindrome. (A palindrome is a string that reads the same forward and backward. For example, "noon", "testset" and "a" are all palindromes, while "test" and "kitayuta" are not.) You can choose any n lowercase English letters, and insert each of them to any position of s, possibly to the beginning or the end of s. You have to insert exactly n letters even if it is possible to turn s into a palindrome by inserting less than n letters.Find the number of the palindromes that can be obtained in this way, modulo 10007.
+version https://git-lfs.github.com/spec/v1
+oid sha256:518119bdf4685935bc92791f8e30bcc45ef4b894887949b2da64d08ef03a57e8
+size 803

@@ -1,9 +1,3 @@
-Array sorting                    
-
-https://codeforces.com/problemset/problem/130/I
-
-*special problem
-
-2300
-
-Sorting arrays is traditionally associated with high-level languages. How hard can it be in Befunge? Sort the given array in non-descending order.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51d03fd198425cc1fe7920dacf4f13363b6dd0014adf0acb25062fd080d981b2
+size 262

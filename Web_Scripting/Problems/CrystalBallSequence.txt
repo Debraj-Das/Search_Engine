@@ -1,9 +1,3 @@
-Crystal Ball Sequence                    
-
-httpscodeforcescomproblemsetproblem470A
-
-special problem
-
-1400
-
-Crystal ball sequence on hexagonal lattice is defined as follows nth element is the number of lattice points inside a hexagon with n1 points on each side The formula is Hn3nn11 You are given n calculate nth element of the sequence
+version https://git-lfs.github.com/spec/v1
+oid sha256:39fd7d5c8c4d63ec7673094d1e35a8b8d1f5efda366d314c5ff68226f5daed82
+size 345

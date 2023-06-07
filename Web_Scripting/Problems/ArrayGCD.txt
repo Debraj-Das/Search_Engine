@@ -1,9 +1,3 @@
-Array GCD                    
-
-httpscodeforcescomproblemsetproblem623B
-
-dp
-
-2300
-
-You are given array ai of length n You may consecutively apply two operations to this array  remove some subsegment continuous subsequence of length mn and pay for it ma coins  change some elements of the array by at most 1 and pay b coins for each change Please note that each of operations may be applied at most once and may be not applied at all so you can remove only one segment and each number may be changed increased or decreased by at most 1 Also note that you are not allowed to delete the whole arrayYour goal is to calculate the minimum number of coins that you need to spend in order to make the greatest common divisor of the elements of the resulting array be greater than 1
+version https://git-lfs.github.com/spec/v1
+oid sha256:3339a050c22f67e728866603f2dc76cd7700e15f3eced3346bfc6dba5d3aed42
+size 780

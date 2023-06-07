@@ -1,9 +1,3 @@
-Guess the Perimeter                    
-
-https://codeforces.com/problemset/problem/1552/H
-
-binary search
-
-3300
-
-Let us call a point of the plane admissible if its coordinates are positive integers less than or equal to 200.There is an invisible rectangle such that:   its vertices are all admissible;  its sides are parallel to the coordinate axes;  its area is strictly positive.  Your task is to guess the perimeter of this rectangle.In order to guess it, you may ask at most 4 queries. In each query, you choose a nonempty subset of the admissible points and you are told how many of the chosen points are inside or on the boundary of the invisible rectangle.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95c0d16878ab297f5848febbf52ab55934479323240854acd1dd4d66c5463176
+size 670

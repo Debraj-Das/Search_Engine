@@ -1,9 +1,3 @@
-Martian Dollar                    
-
-https://codeforces.com/problemset/problem/41/B
-
-brute force
-
-1400
-
-One day Vasya got hold of information on the Martian dollar course in bourles for the next n days. The buying prices and the selling prices for one dollar on day i are the same and are equal to ai. Vasya has b bourles. He can buy a certain number of dollars and then sell it no more than once in n days. According to Martian laws, one can buy only an integer number of dollars. Which maximal sum of money in bourles can Vasya get by the end of day n?
+version https://git-lfs.github.com/spec/v1
+oid sha256:85c8c19ac36d76c7210d8b499fc9ebe88417e6a3cb2bd533508cba50e9455ebe
+size 561

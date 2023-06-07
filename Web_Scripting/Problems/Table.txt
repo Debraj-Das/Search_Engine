@@ -1,9 +1,3 @@
-Table                    
-
-httpscodeforcescomproblemsetproblem232B
-
-bitmasks
-
-1900
-
-John Doe has an nm table John Doe can paint points in some table cells not more than one point in one table cell John Doe wants to use such operations to make each square subtable of size nn have exactly k pointsJohn Doe wondered how many distinct ways to fill the table with points are there provided that the condition must hold As this number can be rather large John Doe asks to find its remainder after dividing by 1000000007 1097You should assume that John always paints a point exactly in the center of some cell Two ways to fill a table are considered distinct if there exists a table cell that has a point in one way and doesnt have it in the other
+version https://git-lfs.github.com/spec/v1
+oid sha256:34a2a9002db32f4a49ed5f29f1e90460cd93d50505bb49d47a4d3b7d162e8236
+size 749

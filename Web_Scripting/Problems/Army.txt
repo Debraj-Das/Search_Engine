@@ -1,9 +1,3 @@
-Army                    
-
-httpscodeforcescomproblemsetproblem38A
-
-implementation
-
-800
-
-The Berland Armed Forces System consists of n ranks that are numbered using natural numbers from 1 to n where 1 is the lowest rank and n is the highest rankOne needs exactly di years to rise from rank i to rank i1 Reaching a certain rank i having not reached all the previous i1 ranks is impossibleVasya has just reached a new rank of a but he dreams of holding the rank of b Find for how many more years Vasya should serve in the army until he can finally realize his dream
+version https://git-lfs.github.com/spec/v1
+oid sha256:33383da3151577b17575498766f956b7ecc6004387dba30c47d9d69921805fca
+size 569

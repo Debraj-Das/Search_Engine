@@ -1,9 +1,3 @@
-Integral Array                    
-
-https://codeforces.com/problemset/problem/1648/B
-
-brute force
-
-1800
-
-You are given an array a of n positive integers numbered from 1 to n. Let's call an array integral if for any two, not necessarily different, numbers x and y from this array, x \ge y, the number \left \lfloor \frac{x}{y} \right \rfloor (x divided by y with rounding down) is also in this array.You are guaranteed that all numbers in a do not exceed c. Your task is to check whether this array is integral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05c38ac194153744921d4eab785112b9e1ad5b3a44650ebc44e32006cae04b44
+size 518

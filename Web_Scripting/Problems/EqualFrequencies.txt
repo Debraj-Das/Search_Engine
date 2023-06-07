@@ -1,9 +1,3 @@
-Equal Frequencies                    
-
-https://codeforces.com/problemset/problem/1781/C
-
-brute force
-
-1600
-
-Let's call a string balanced if all characters that are present in it appear the same number of times. For example, "coder", "appall", and "ttttttt" are balanced, while "wowwow" and "codeforces" are not.You are given a string s of length n consisting of lowercase English letters. Find a balanced string t of the same length n consisting of lowercase English letters that is different from the string s in as few positions as possible. In other words, the number of indices i such that s_i \ne t_i should be as small as possible.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9ffd6acaa5c79961a356faca86139ded839d96c5cee545ba9802c17c07b1d63
+size 645

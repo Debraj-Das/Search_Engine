@@ -1,9 +1,3 @@
-Div. 64                    
-
-https://codeforces.com/problemset/problem/887/A
-
-implementation
-
-1000
-
-Top-model Izabella participates in the competition. She wants to impress judges and show her mathematical skills.Her problem is following: for given string, consisting of only 0 and 1, tell if it's possible to remove some digits in such a way, that remaining number is a representation of some positive integer, divisible by 64, in the binary numerical system.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e375c173d44b8b85da9878f27700ab8e00519153f36b0ad37e03c49ae4a5bd6
+size 468

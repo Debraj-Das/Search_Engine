@@ -1,9 +1,3 @@
-Years                    
-
-https://codeforces.com/problemset/problem/1424/G
-
-data structures
-
-1300
-
-During one of the space missions, humans have found an evidence of previous life at one of the planets. They were lucky enough to find a book with birth and death years of each individual that had been living at this planet. What's interesting is that these years are in the range (1, 10^9)! Therefore, the planet was named Longlifer.In order to learn more about Longlifer's previous population, scientists need to determine the year with maximum number of individuals that were alive, as well as the number of alive individuals in that year. Your task is to help scientists solve this problem!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2681a6c058c48fe763ba6d6d9395cabdc827b547e9ffecafb03f1b245e8e65d
+size 702

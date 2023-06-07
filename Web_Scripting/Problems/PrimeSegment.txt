@@ -1,9 +1,3 @@
-Prime Segment                    
-
-httpscodeforcescomproblemsetproblem64E
-
-special problem
-
-1800
-
-Positive integer number x is called prime if it has exactly two positive integer divisors For example 2 3 17 97 are primes but 1 10 120 are notYou are given an integer number n find the shortest segment ab which contains n ie anb and ab are primes
+version https://git-lfs.github.com/spec/v1
+oid sha256:45687adf10f68a3d3dd94264a920685b7565142760a81276f3ab1b8ecdef890f
+size 353

@@ -1,9 +1,3 @@
-Elections                    
-
-https://codeforces.com/problemset/problem/457/C
-
-brute force
-
-2100
-
-You are running for a governor in a small city in Russia. You ran some polls and did some research, and for every person in the city you know whom he will vote for, and how much it will cost to bribe that person to vote for you instead of whomever he wants to vote for right now. You are curious, what is the smallest amount of money you need to spend on bribing to win the elections. To win elections you need to have strictly more votes than any other candidate.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95c1e06de956be7b2fcd999c1732f99c54bbfae163863ca574fe5ffcf4b158c9
+size 571

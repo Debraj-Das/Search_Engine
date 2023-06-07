@@ -1,9 +1,3 @@
-Test                    
-
-https://codeforces.com/problemset/problem/25/E
-
-hashing
-
-2200
-
-Sometimes it is hard to prepare tests for programming problems. Now Bob is preparing tests to new problem about strings — input data to his problem is one string. Bob has 3 wrong solutions to this problem. The first gives the wrong answer if the input data contains the substring s1, the second enters an infinite loop if the input data contains the substring s2, and the third requires too much memory if the input data contains the substring s3. Bob wants these solutions to fail single test. What is the minimal length of test, which couldn't be passed by all three Bob's solutions?
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c93ac00d08ecaef86fb9c02c6575766ac456d93c6c8351bd7220e3af9aed3ce
+size 682

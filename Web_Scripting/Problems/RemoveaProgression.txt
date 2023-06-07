@@ -1,9 +1,3 @@
-Remove a Progression                    
-
-https://codeforces.com/problemset/problem/1194/A
-
-math
-
-800
-
-You have a list of numbers from 1 to n written from left to right on the blackboard.You perform an algorithm consisting of several steps (steps are 1-indexed). On the i-th step you wipe the i-th number (considering only remaining numbers). You wipe the whole number (not one digit).  When there are less than i numbers remaining, you stop your algorithm. Now you wonder: what is the value of the x-th remaining number after the algorithm is stopped?
+version https://git-lfs.github.com/spec/v1
+oid sha256:edbd1d42816158ddd26f4be37650500d7e68d1d5adc61f73af202f0b80fb24b7
+size 560

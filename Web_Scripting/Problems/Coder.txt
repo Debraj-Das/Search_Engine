@@ -1,9 +1,3 @@
-Coder                    
-
-httpscodeforcescomproblemsetproblem384A
-
-implementation
-
-800
-
-Iahub likes chess very much He even invented a new chess piece named Coder A Coder can move and attack one square horizontally or vertically More precisely if the Coder is located at position xy he can move to or attack positions x1y x1y xy1 and xy1Iahub wants to know how many Coders can be placed on an nn chessboard so that no Coder attacks any other Coder
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6e7806bec3107f47bf30b2d912caaa423ead87807be91bf01bd3899be181923
+size 456

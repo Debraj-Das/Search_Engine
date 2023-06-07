@@ -1,9 +1,3 @@
-Ciel and Dancing                    
-
-https://codeforces.com/problemset/problem/322/A
-
-greedy
-
-1000
-
-Fox Ciel and her friends are in a dancing room. There are n boys and m girls here, and they never danced before. There will be some songs, during each song, there must be exactly one boy and one girl are dancing. Besides, there is a special rule:  either the boy in the dancing pair must dance for the first time (so, he didn't dance with anyone before);  or the girl in the dancing pair must dance for the first time. Help Fox Ciel to make a schedule that they can dance as many songs as possible.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b3f9a90c14462471905da58beaa3f34785ef8c4fcd1592dca4af2127407af71
+size 607

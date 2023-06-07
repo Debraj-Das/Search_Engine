@@ -1,9 +1,3 @@
-Tetris                    
-
-https://codeforces.com/problemset/problem/961/A
-
-implementation
-
-900
-
-You are given a following process. There is a platform with n columns. 1 \times 1 squares are appearing one after another in some columns on this platform. If there are no squares in the column, a square will occupy the bottom row. Otherwise a square will appear at the top of the highest square of this column. When all of the n columns have at least one square in them, the bottom row is being removed. You will receive 1 point for this, and all the squares left will fall down one row. You task is to calculate the amount of points you will receive.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83c67b81e791f6f6ba229059c90139c66405c3bb2b43e9cc51be6b046968cd76
+size 658

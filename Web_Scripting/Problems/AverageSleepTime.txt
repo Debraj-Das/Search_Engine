@@ -1,9 +1,3 @@
-Average Sleep Time                    
-
-httpscodeforcescomproblemsetproblem808B
-
-data structures
-
-1300
-
-Its been almost a week since Polycarp couldnt get rid of insomnia And as you may already know one week in Berland lasts k daysWhen Polycarp went to a doctor with his problem the doctor asked him about his sleeping schedule more specifically the average amount of hours of sleep per week Luckily Polycarp kept records of sleep times for the last n days So now he has a sequence a1a2an where ai is the sleep time on the ith dayThe number of records is so large that Polycarp is unable to calculate the average value by himself Thus he is asking you to help him with the calculations To get the average Polycarp is going to consider k consecutive days as a week So there will be nk1 weeks to take into consideration For example if k2 n3 and a347 then the result is You should write a program which will calculate average sleep times of Polycarp over all weeks
+version https://git-lfs.github.com/spec/v1
+oid sha256:c9a5ce29729036c6d03e16b3ccd7e7242460a5dbbe67c37023c3e6c1db1e55e2
+size 968

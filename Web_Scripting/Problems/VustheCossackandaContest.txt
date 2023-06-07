@@ -1,9 +1,3 @@
-Vus the Cossack and a Contest                    
-
-https://codeforces.com/problemset/problem/1186/A
-
-implementation
-
-800
-
-Vus the Cossack holds a programming competition, in which n people participate. He decided to award them all with pens and notebooks. It is known that Vus has exactly m pens and k notebooks.Determine whether the Cossack can reward all participants, giving each of them at least one pen and at least one notebook.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b24bf1b5777f4d89e486ee7a91474c705d09a25f0913323e406646c2b45b3d2
+size 442

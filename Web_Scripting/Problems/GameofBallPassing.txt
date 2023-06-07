@@ -1,9 +1,3 @@
-Game of Ball Passing                    
-
-https://codeforces.com/problemset/problem/1649/B
-
-greedy
-
-1300
-
-Daniel is watching a football team playing a game during their training session. They want to improve their passing skills during that session.The game involves n players, making multiple passes towards each other. Unfortunately, since the balls were moving too fast, after the session Daniel is unable to know how many balls were involved during the game. The only thing he knows is the number of passes delivered by each player during all the session.Find the minimum possible amount of balls that were involved in the game.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b1c695c067e37a80ba908ce8024d094b5ab6a8a17ec81ab224e72710e318128
+size 640

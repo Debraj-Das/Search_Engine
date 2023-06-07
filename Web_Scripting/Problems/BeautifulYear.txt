@@ -1,9 +1,3 @@
-Beautiful Year                    
-
-https://codeforces.com/problemset/problem/271/A
-
-brute force
-
-800
-
-It seems like the year of 2013 came only yesterday. Do you know a curious fact? The year of 2013 is the first year after the old 1987 with only distinct digits.Now you are suggested to solve the following problem: given a year number, find the minimum year number which is strictly larger than the given one and has only distinct digits.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c3beac9c7d4568011d379e8c03bd2fb018c56b3bcc847b3d98c334903370a3e8
+size 448

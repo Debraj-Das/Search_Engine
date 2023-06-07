@@ -1,9 +1,3 @@
-Everybody Likes Good Arrays!                    
-
-https://codeforces.com/problemset/problem/1777/A
-
-greedy
-
-800
-
-An array a is good if for all pairs of adjacent elements, a_i and a_{i+1} (1\le i \lt n) are of different parity. Note that an array of size 1 is trivially good.You are given an array of size n. In one operation you can select any pair of adjacent elements in which both elements are of the same parity, delete them, and insert their product in the same position.Find the minimum number of operations to form a good array.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1be7e2b1a4eb41779aff5bec39da5653297a9f26b9bec90b6ab8f24d41d5581d
+size 543

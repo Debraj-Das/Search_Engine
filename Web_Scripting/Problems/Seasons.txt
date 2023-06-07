@@ -1,9 +1,3 @@
-Seasons                    
-
-https://codeforces.com/problemset/problem/661/B
-
-*special problem
-
-1900
-
-You are given a name of a month. Output the season of the year to which it belongs (based on Northern hemisphere).
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a6cc674823d4e3189f7c724c4cbd96dd9e07c13042ccfc72a314bb310bc0e74
+size 224

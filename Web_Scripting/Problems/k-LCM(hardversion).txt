@@ -1,9 +1,3 @@
-k-LCM (hard version)                    
-
-https://codeforces.com/problemset/problem/1497/C2
-
-constructive algorithms
-
-1600
-
-It is the hard version of the problem. The only difference is that in this version 3 \le k \le n.You are given a positive integer n. Find k positive integers a_1, a_2, \ldots, a_k, such that:  a_1 + a_2 + \ldots + a_k = n  LCM(a_1, a_2, \ldots, a_k) \le \frac{n}{2} Here LCM is the least common multiple of numbers a_1, a_2, \ldots, a_k.We can show that for given constraints the answer always exists.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8d49ae1aaec9e8679dbe83e287fd67a5ba6464eb5dfc1dbb74fde346ed7807b
+size 533

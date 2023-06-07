@@ -1,9 +1,3 @@
-I Wanna Be the Guy                    
-
-https://codeforces.com/problemset/problem/469/A
-
-greedy
-
-800
-
-There is a game called "I Wanna Be the Guy", consisting of n levels. Little X and his friend Little Y are addicted to the game. Each of them wants to pass the whole game.Little X can pass only p levels of the game. And Little Y can pass only q levels of the game. You are given the indices of levels Little X can pass and the indices of levels Little Y can pass. Will Little X and Little Y pass the whole game, if they cooperate each other?
+version https://git-lfs.github.com/spec/v1
+oid sha256:70b7070e346a6d3b6c6d5b0a749f9bdb600613658458104e42e46fbabb8c32ab
+size 550

@@ -1,9 +1,3 @@
-Plant                    
-
-https://codeforces.com/problemset/problem/185/A
-
-math
-
-1300
-
-Dwarfs have planted a very interesting plant, which is a triangle directed "upwards". This plant has an amusing feature. After one year a triangle plant directed "upwards" divides into four triangle plants: three of them will point "upwards" and one will point "downwards". After another year, each triangle plant divides into four triangle plants: three of them will be directed in the same direction as the parent plant, and one of them will be directed in the opposite direction. Then each year the process repeats. The figure below illustrates this process.  Help the dwarfs find out how many triangle plants that point "upwards" will be in n years.
+version https://git-lfs.github.com/spec/v1
+oid sha256:824f2b0a3d296d8efc20812ed4d1a37ded84b02131c0418967862e40fcd5b882
+size 749

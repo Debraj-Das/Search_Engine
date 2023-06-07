@@ -1,9 +1,3 @@
-Extraordinarily Nice Numbers                    
-
-httpscodeforcescomproblemsetproblem72C
-
-special problem
-
-1200
-
-The positive integer a is a divisor of the positive integer b if and only if there exists a positive integer c such that acb King Astyages thinks a positive integer x is extraordinarily nice if the number of its even divisors is equal to the number of its odd divisorsFor example 3 has two positive divisors 3 and 1 both of which are odd so 3 is not extraordinarily nice On the other hand 2 is only divisible by 2 and 1 so it has one odd and one even divisor Therefore 2 is extraordinarily niceGiven a positive integer x determine whether its extraordinarily nice
+version https://git-lfs.github.com/spec/v1
+oid sha256:02dd59ab4313d386ede095f920c705527da4442895c9aac9cca0d59506a78d91
+size 684

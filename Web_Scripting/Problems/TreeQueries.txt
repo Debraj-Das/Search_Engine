@@ -1,9 +1,3 @@
-Tree Queries                    
-
-https://codeforces.com/problemset/problem/1606/F
-
-brute force
-
-2800
-
-You are given a tree consisting of n vertices. Recall that a tree is an undirected connected acyclic graph. The given tree is rooted at the vertex 1.You have to process q queries. In each query, you are given a vertex of the tree v and an integer k.To process a query, you may delete any vertices from the tree in any order, except for the root and the vertex v. When a vertex is deleted, its children become the children of its parent. You have to process a query in such a way that maximizes the value of c(v) - m \cdot k (where c(v) is the resulting number of children of the vertex v, and m is the number of vertices you have deleted). Print the maximum possible value you can obtain.The queries are independent: the changes you make to the tree while processing a query don't affect the tree in other queries.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91c65d3e63449b1faea98adfe0850c3cab02667144b1cee7c408aad10baaabfd
+size 925

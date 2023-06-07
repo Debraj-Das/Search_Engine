@@ -1,9 +1,3 @@
-Vitamins                    
-
-https://codeforces.com/problemset/problem/1042/B
-
-bitmasks
-
-1200
-
-Berland shop sells n kinds of juices. Each juice has its price c_i. Each juice includes some set of vitamins in it. There are three types of vitamins: vitamin "A", vitamin "B" and vitamin "C". Each juice can contain one, two or all three types of vitamins in it.Petya knows that he needs all three types of vitamins to stay healthy. What is the minimum total price of juices that Petya has to buy to obtain all three vitamins? Petya obtains some vitamin if he buys at least one juice containing it and drinks it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c52876600a771bd8d1eadc2747d139bac6867d10ff9f74bca734451fd5977333
+size 616

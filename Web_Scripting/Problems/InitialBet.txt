@@ -1,9 +1,3 @@
-Initial Bet                    
-
-https://codeforces.com/problemset/problem/478/A
-
-implementation
-
-1100
-
-There are five people playing a game called "Generosity". Each person gives some non-zero number of coins b as an initial bet. After all players make their bets of b coins, the following operation is repeated for several times: a coin is passed from one player to some other player.Your task is to write a program that can, given the number of coins each player has at the end of the game, determine the size b of the initial bet or find out that such outcome of the game cannot be obtained for any positive number of coins b in the initial bet.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4392831354e41b8f1bd62c2aed586c82c6665dbaa10c5501dda1761033c10f55
+size 657

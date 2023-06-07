@@ -1,9 +1,3 @@
-Fair Game                    
-
-https://codeforces.com/problemset/problem/864/A
-
-implementation
-
-1000
-
-Petya and Vasya decided to play a game. They have n cards (n is an even number). A single integer is written on each card.Before the game Petya will choose an integer and after that Vasya will choose another integer (different from the number that Petya chose). During the game each player takes all the cards with number he chose. For example, if Petya chose number 5 before the game he will take all cards on which 5 is written and if Vasya chose number 10 before the game he will take all cards on which 10 is written.The game is considered fair if Petya and Vasya can take all n cards, and the number of cards each player gets is the same.Determine whether Petya and Vasya can choose integer numbers before the game so that the game is fair. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fd5ef7b814a47a59e25839968106be0c3ba554136032c4f1091a1c9e77a7f02
+size 856

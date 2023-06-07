@@ -1,9 +1,3 @@
-ucyhf                    
-
-https://codeforces.com/problemset/problem/171/F
-
-*special problem
-
-1600
-
-qd ucyhf yi q fhycu dkcruh mxeiu huluhiu yi q tyvvuhudj fhycu dkcruh. oekh jqia yi je vydt jxu djx ucyhf.
+version https://git-lfs.github.com/spec/v1
+oid sha256:800d0d409126ab5ebbf8e498712bef811bb97a9330ed438f1a9cbc7b5e7c0872
+size 213

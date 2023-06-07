@@ -1,9 +1,3 @@
-Runners Problem                    
-
-httpscodeforcescomproblemsetproblem954F
-
-dp
-
-2100
-
-You are running through a rectangular field This field can be represented as a matrix with 3 rows and m columns ij denotes a cell belonging to ith row and jth columnYou start in 21 and have to end your path in 2m From the cell ij you may advance to  i1j1  only if i1  ij1 or  i1j1  only if i3 However there are n obstacles blocking your path kth obstacle is denoted by three integers ak lk and rk and it forbids entering any cell akj such that lkjrkYou have to calculate the number of different paths from 21 to 2m and print it modulo 1097
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7fa6a4d38c499ed28e67bb1670a8cd7aabc333b8239e2a76a0cfc94082fe157
+size 635

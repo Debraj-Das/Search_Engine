@@ -1,9 +1,3 @@
-Remove digits                    
-
-https://codeforces.com/problemset/problem/162/D
-
-*special problem
-
-1900
-
-You are given a string. Remove all digits from it. When a character is removed from a string, all characters to the right of it are shifted one position to the left.
+version https://git-lfs.github.com/spec/v1
+oid sha256:331b976474143d75930cfbd14fd7bd79373a6b8c0c0ba0ad78c357a60bba2bd2
+size 281

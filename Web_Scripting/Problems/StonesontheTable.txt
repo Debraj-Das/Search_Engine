@@ -1,9 +1,3 @@
-Stones on the Table                    
-
-https://codeforces.com/problemset/problem/266/A
-
-implementation
-
-800
-
-There are n stones on the table in a row, each of them can be red, green or blue. Count the minimum number of stones to take from the table so that any two neighboring stones had different colors. Stones in a row are considered neighboring if there are no other stones between them.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48c500800c8eff192103a7a1ebeb450c2befe8899fadea39f7f6432bc7464696
+size 401

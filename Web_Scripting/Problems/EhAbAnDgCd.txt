@@ -1,9 +1,3 @@
-EhAb AnD gCd                    
-
-https://codeforces.com/problemset/problem/1325/A
-
-constructive algorithms
-
-800
-
-You are given a positive integer x. Find any such 2 positive integers a and b such that GCD(a,b)+LCM(a,b)=x.As a reminder, GCD(a,b) is the greatest integer that divides both a and b. Similarly, LCM(a,b) is the smallest integer such that both a and b divide it.It's guaranteed that the solution always exists. If there are several such pairs (a, b), you can output any of them.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c946a8b70cb5496a49feece55629ffa6c2f9d7871c64b514ae11444044ceec8
+size 498

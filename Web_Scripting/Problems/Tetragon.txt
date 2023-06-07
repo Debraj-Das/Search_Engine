@@ -1,9 +1,3 @@
-Tetragon                    
-
-https://codeforces.com/problemset/problem/23/D
-
-geometry
-
-2600
-
-You're given the centers of three equal sides of a strictly convex tetragon. Your task is to restore the initial tetragon.
+version https://git-lfs.github.com/spec/v1
+oid sha256:15ef1fe7f38f57fa029693e9251c78a8a1fd5c0a040fc69fc4651417d993ad73
+size 224

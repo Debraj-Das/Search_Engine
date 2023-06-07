@@ -1,9 +1,3 @@
-Odd Set                    
-
-https://codeforces.com/problemset/problem/1542/A
-
-math
-
-800
-
-You are given a multiset (i. e. a set that can contain multiple equal integers) containing 2n integers. Determine if you can split it into exactly n pairs (i. e. each element should be in exactly one pair) so that the sum of the two elements in each pair is odd (i. e. when divided by 2, the remainder is 1).
+version https://git-lfs.github.com/spec/v1
+oid sha256:085ea43c9b5f1f5499a3af7a50e35ae1aeb5dba38aeb01127b16bc7eb4b52739
+size 406

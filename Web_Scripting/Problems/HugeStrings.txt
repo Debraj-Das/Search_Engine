@@ -1,9 +1,3 @@
-Huge Strings                    
-
-httpscodeforcescomproblemsetproblem868D
-
-bitmasks
-
-2200
-
-You are given n strings s1s2sn consisting of characters 0 and 1 m operations are performed on each of them you concatenate two existing strings into a new one On the ith operation the concatenation saisbi is saved into a new string sni the operations are numbered starting from 1 After each operation you need to find the maximum positive integer k such that all possible strings consisting of 0 and 1 of length k there are 2k such strings are substrings of the new string If there is no such k print 0
+version https://git-lfs.github.com/spec/v1
+oid sha256:90561bf55df19d532d5ae85448ffa254fff58d786bcf304f1498cfc1be34b770
+size 601

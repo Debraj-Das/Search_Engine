@@ -1,9 +1,3 @@
-Chessboard                    
-
-httpscodeforcescomproblemsetproblem470E
-
-special problem
-
-1900
-
-Chessboard is a board of nn squares arranged in two alternating colors black and white Top left square is white You are given board size n Output an image of a chessboard with black and white squares marked with  and  characters respectively
+version https://git-lfs.github.com/spec/v1
+oid sha256:89f2d88b34a49ac6efd87f6ab66c113e051c0835943bde99be9b6b3875f72638
+size 345

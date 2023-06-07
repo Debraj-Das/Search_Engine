@@ -1,9 +1,3 @@
-DMCA                    
-
-https://codeforces.com/problemset/problem/1505/B
-
-*special problem
-
-1600
-
-Many people are aware of DMCA – Digital Millennium Copyright Act. But another recently proposed DMCA – Digital Millennium Calculation Act – is much less known.In this problem you need to find a root of a number according to this new DMCA law.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28c6b001050d9d518d12ab600a9ac235dc2e6d3155f50f5b36e79eea50cb06fd
+size 350

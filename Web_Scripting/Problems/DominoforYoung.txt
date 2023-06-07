@@ -1,9 +1,3 @@
-Domino for Young                    
-
-https://codeforces.com/problemset/problem/1268/B
-
-dp
-
-2000
-
-You are given a Young diagram. Given diagram is a histogram with n columns of lengths a_1, a_2, \ldots, a_n (a_1 \geq a_2 \geq \ldots \geq a_n \geq 1).  Young diagram for a=[3,2,2,2,1]. Your goal is to find the largest number of non-overlapping dominos that you can draw inside of this histogram, a domino is a 1 \times 2 or 2 \times 1 rectangle.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04adf8bdef52a6d6984347ec210b2b1fa61687f64f7940bfd218dbba87d00c91
+size 452

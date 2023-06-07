@@ -1,9 +1,3 @@
-Ksusha and Array                    
-
-httpscodeforcescomproblemsetproblem299A
-
-brute force
-
-1000
-
-Ksusha is a beginner coder Today she starts studying arrays She has array a1a2an consisting of n positive integersHer university teacher gave her a task Find such number in the array that all array elements are divisible by it Help her and find the number
+version https://git-lfs.github.com/spec/v1
+oid sha256:72c06c8c46a94fe74790b8e6adcdc8e7efd7476755fb609d1c41485f3555a061
+size 361

@@ -1,9 +1,3 @@
-Save Luke                    
-
-https://codeforces.com/problemset/problem/624/A
-
-math
-
-800
-
-Luke Skywalker got locked up in a rubbish shredder between two presses. R2D2 is already working on his rescue, but Luke needs to stay alive as long as possible. For simplicity we will assume that everything happens on a straight line, the presses are initially at coordinates 0 and L, and they move towards each other with speed v1 and v2, respectively. Luke has width d and is able to choose any position between the presses. Luke dies as soon as the distance between the presses is less than his width. Your task is to determine for how long Luke can stay alive.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ac9fb1b6c2b1dbcae3cf786a400288349f0abd3cdf754a20f329c224fa06912
+size 663

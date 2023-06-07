@@ -1,9 +1,3 @@
-Lesha and array splitting                    
-
-https://codeforces.com/problemset/problem/754/A
-
-constructive algorithms
-
-1200
-
-One spring day on his way to university Lesha found an array A. Lesha likes to split arrays into several parts. This time Lesha decided to split the array A into several, possibly one, new arrays so that the sum of elements in each of the new arrays is not zero. One more condition is that if we place the new arrays one after another they will form the old array A.Lesha is tired now so he asked you to split the array. Help Lesha!
+version https://git-lfs.github.com/spec/v1
+oid sha256:512cb5a3874088c88fc12dc4454e9eefad44a3ade1d76d38118c8d8cc13bb9c7
+size 567

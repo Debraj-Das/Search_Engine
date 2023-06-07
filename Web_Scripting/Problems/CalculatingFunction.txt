@@ -1,9 +1,3 @@
-Calculating Function                    
-
-httpscodeforcescomproblemsetproblem486A
-
-implementation
-
-800
-
-For a positive integer n lets define a function ffn1231nn Your task is to calculate fn for a given integer n
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf3e3e1be6dba6a5ba7f8e8d941986b337ab1c2e3d63f22abf03500f4d950bd1
+size 220

@@ -1,9 +1,3 @@
-Sequence Transformation                    
-
-httpscodeforcescomproblemsetproblem280E
-
-brute force
-
-3000
-
-Youve got a nondecreasing sequence x1x2xn 1x1x2xnq Youve also got two integers a and b aban1qYour task is to transform sequence x1x2xn into some sequence y1y2yn 1yiqayi1yib The transformation price is the following sum  Your task is to choose such sequence y that minimizes the described transformation price
+version https://git-lfs.github.com/spec/v1
+oid sha256:9778de6c40db9d0241e1f2c9c742e392b0d84b2083ee3025017083700a835d31
+size 421

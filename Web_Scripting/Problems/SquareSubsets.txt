@@ -1,9 +1,3 @@
-Square Subsets                    
-
-httpscodeforcescomproblemsetproblem895C
-
-bitmasks
-
-2000
-
-Petya was late for the lesson too The teacher gave him an additional task For some array a Petya should find the number of different ways to select nonempty subset of elements from it in such a way that their product is equal to a square of some integerTwo ways are considered different if sets of indexes of elements chosen by these ways are differentSince the answer can be very large you should find the answer modulo 1097
+version https://git-lfs.github.com/spec/v1
+oid sha256:89607c623ec8b17be4ffaae14e0f0edf0b88998be5cc43967b17e91ea4f4566c
+size 526

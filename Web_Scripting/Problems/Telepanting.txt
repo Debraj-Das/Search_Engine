@@ -1,9 +1,3 @@
-Telepanting                    
-
-https://codeforces.com/problemset/problem/1552/F
-
-binary search
-
-2200
-
-An ant moves on the real line with constant speed of 1 unit per second. It starts at 0 and always moves to the right (so its position increases by 1 each second).There are n portals, the i-th of which is located at position x_i and teleports to position y_i < x_i. Each portal can be either active or inactive. The initial state of the i-th portal is determined by s_i: if s_i=0 then the i-th portal is initially inactive, if s_i=1 then the i-th portal is initially active. When the ant travels through a portal (i.e., when its position coincides with the position of a portal):   if the portal is inactive, it becomes active (in this case the path of the ant is not affected);  if the portal is active, it becomes inactive and the ant is instantly teleported to the position y_i, where it keeps on moving as normal. How long (from the instant it starts moving) does it take for the ant to reach the position x_n + 1? It can be shown that this happens in a finite amount of time. Since the answer may be very large, compute it modulo 998\,244\,353.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34553f3a68ee75f301af8e320b86af159214f092d0571c036cbf475f480c1b94
+size 1160

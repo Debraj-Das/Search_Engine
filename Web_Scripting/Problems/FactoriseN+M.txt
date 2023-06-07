@@ -1,9 +1,3 @@
-Factorise N+M                    
-
-https://codeforces.com/problemset/problem/1740/A
-
-constructive algorithms
-
-800
-
-Pak Chanek has a prime number^\dagger n. Find a prime number m such that n + m is not prime.^\dagger A prime number is a number with exactly 2 factors. The first few prime numbers are 2,3,5,7,11,13,\ldots. In particular, 1 is not a prime number.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6373f47007af51bd0cb4e5b078f38ef24016d23de57f8f4cfa80cfecc475af1f
+size 368

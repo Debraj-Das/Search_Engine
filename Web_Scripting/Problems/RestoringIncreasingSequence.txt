@@ -1,9 +1,3 @@
-Restoring Increasing Sequence                    
-
-httpscodeforcescomproblemsetproblem490E
-
-binary search
-
-2000
-
-Peter wrote on the board a strictly increasing sequence of positive integers a1a2an Then Vasil replaced some digits in the numbers of this sequence by question marks Thus each question mark corresponds to exactly one lost digitRestore the the original sequence knowing digits remaining on the board
+version https://git-lfs.github.com/spec/v1
+oid sha256:7422d187b58dfcc4a77bfe1dee135c3325bc70c2fa7403f0d081cca2ff286692
+size 419

@@ -1,9 +1,3 @@
-Very Interesting Game                    
-
-https://codeforces.com/problemset/problem/117/B
-
-brute force
-
-1800
-
-In a very ancient country the following game was popular. Two people play the game. Initially first player writes a string s1, consisting of exactly nine digits and representing a number that does not exceed a. After that second player looks at s1 and writes a string s2, consisting of exactly nine digits and representing a number that does not exceed b. Here a and b are some given constants, s1 and s2 are chosen by the players. The strings are allowed to contain leading zeroes.If a number obtained by the concatenation (joining together) of strings s1 and s2 is divisible by mod, then the second player wins. Otherwise the first player wins. You are given numbers a, b, mod. Your task is to determine who wins if both players play in the optimal manner. If the first player wins, you are also required to find the lexicographically minimum winning move.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b494de6b2b01dcc7e2c4946cb7f5abdcd91e1b7d15e4287f0d97b566b226ff98
+size 977

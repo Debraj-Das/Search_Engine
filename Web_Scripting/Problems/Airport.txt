@@ -1,9 +1,3 @@
-Airport                    
-
-httpscodeforcescomproblemsetproblem218B
-
-implementation
-
-1100
-
-Lolek and Bolek are about to travel abroad by plane The local airport has a special Choose Your Plane offer The offers conditions are as follows  it is up to a passenger to choose a plane to fly on  if the chosen plane has x x0 empty seats at the given moment then the ticket for such a plane costs x zlotys units of Polish currency The only ticket office of the airport already has a queue of n passengers in front of it Lolek and Bolek have not stood in the queue yet but they are already wondering what is the maximum and the minimum number of zlotys the airport administration can earn if all n passengers buy tickets according to the conditions of this offerThe passengers buy tickets in turn the first person in the queue goes first then goes the second one and so on up to nth person
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1472358e34e35501e76db7a4e456ab83be022b1a0946513135ff8f02a5aed8d
+size 890

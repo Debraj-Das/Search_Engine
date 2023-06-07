@@ -1,9 +1,3 @@
-Koxia and Whiteboards                    
-
-https://codeforces.com/problemset/problem/1770/A
-
-brute force
-
-1000
-
-Kiyora has n whiteboards numbered from 1 to n. Initially, the i-th whiteboard has the integer a_i written on it.Koxia performs m operations. The j-th operation is to choose one of the whiteboards and change the integer written on it to b_j.Find the maximum possible sum of integers written on the whiteboards after performing all m operations.
+version https://git-lfs.github.com/spec/v1
+oid sha256:960bb1cb08b1e54cdfebea604cdc32f1c5d638834f7ba760b5844a311a62a7c0
+size 463

@@ -1,9 +1,3 @@
-Function                    
-
-httpscodeforcescomproblemsetproblem455E
-
-data structures
-
-2900
-
-Serega and Fedor play with functions One day they came across a very interesting function It looks like that  f1jaj 1jn  fijminfi1jfi1j1aj 2in ijn Here a is an integer array of length nSerega and Fedya want to know what values this function takes at some points But they dont want to calculate the values manually So they ask you to help them
+version https://git-lfs.github.com/spec/v1
+oid sha256:32cea0c3e089cbbc5940a331d4e5ae74956f2dac018ba767d17d9a951645d681
+size 444

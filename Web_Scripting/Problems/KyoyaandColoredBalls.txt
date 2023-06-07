@@ -1,9 +1,3 @@
-Kyoya and Colored Balls                    
-
-httpscodeforcescomproblemsetproblem553A
-
-combinatorics
-
-1500
-
-Kyoya Ootori has a bag with n colored balls that are colored with k different colors The colors are labeled from 1 to k Balls of the same color are indistinguishable He draws balls from the bag one by one until the bag is empty He noticed that he drew the last ball of color i before drawing the last ball of color i1 for all i from 1 to k1 Now he wonders how many different ways this can happen 
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c37b094b2cd3861f56d186ec9a3f1c0c92febcce52dd489a274050fdfab1ec8
+size 511
